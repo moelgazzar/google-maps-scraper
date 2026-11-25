@@ -1,0 +1,139 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+NV,3200500,place:NV:3200500,Alamo CDP,Alamo,Alamo,32017,Lincoln County,Census-designated place,37.377016,-115.167821,1
+NV,3201000,place:NV:3201000,Amargosa Valley CDP,Amargosa Valley,Amargosa Valley,32023,Nye County,Census-designated place,36.543357,-116.483903,1
+NV,3203700,place:NV:3203700,Austin CDP,Austin,Austin,32015,Lander County,Census-designated place,39.497535,-117.074009,1
+NV,3204100,place:NV:3204100,Baker CDP,Baker,Baker,32033,White Pine County,Census-designated place,39.018669,-114.121004,1
+NV,3204900,place:NV:3204900,Battle Mountain CDP,Battle Mountain,Battle Mountain,32015,Lander County,Census-designated place,40.628378,-116.948553,1
+NV,3205100,place:NV:3205100,Beatty CDP,Beatty,Beatty,32023,Nye County,Census-designated place,36.996162,-116.723473,1
+NV,3205125,place:NV:3205125,Beaverdam CDP,Beaverdam,Beaverdam,32017,Lincoln County,Census-designated place,37.689804,-114.449037,1
+NV,3205275,place:NV:3205275,Bennett Springs CDP,Bennett Springs,Bennett Springs,32017,Lincoln County,Census-designated place,37.714115,-114.466713,1
+NV,3205700,place:NV:3205700,Blue Diamond CDP,Blue Diamond,Blue Diamond,32003,Clark County,Census-designated place,36.039949,-115.412799,1
+NV,3206500,place:NV:3206500,Boulder City city,Boulder City,Boulder City,32003,Clark County,Incorporated place,35.853875,-114.913341,1
+NV,3208100,place:NV:3208100,Bunkerville CDP,Bunkerville,Bunkerville,32003,Clark County,Census-designated place,36.762442,-114.120022,1
+NV,3208600,place:NV:3208600,Cal-Nev-Ari CDP,Cal-Nev-Ari,Cal-Nev-Ari,32003,Clark County,Census-designated place,35.299581,-114.877731,1
+NV,3208500,place:NV:3208500,Caliente city,Caliente,Caliente,32017,Lincoln County,Incorporated place,37.645755,-114.492926,1
+NV,3208900,place:NV:3208900,Carlin city,Carlin,Carlin,32007,Elko County,Incorporated place,40.71924,-116.108278,1
+NV,3209700,place:NV:3209700,Carson City,Carson City,Carson City,32510,Carson City,Incorporated place,39.15306,-119.747368,1
+NV,3210200,place:NV:3210200,Carter Springs CDP,Carter Springs,Carter Springs,32005,Douglas County,Census-designated place,38.861939,-119.641124,1
+NV,3214090,place:NV:3214090,Cold Springs CDP,Cold Springs,Cold Springs,32031,Washoe County,Census-designated place,39.69264,-119.977294,1
+NV,3216300,place:NV:3216300,Crescent Valley CDP,Crescent Valley,Crescent Valley,32011,Eureka County,Census-designated place,40.419777,-116.575315,1
+NV,3216700,place:NV:3216700,Crystal Bay CDP,Crystal Bay,Crystal Bay,32031,Washoe County,Census-designated place,39.231097,-120.001907,1
+NV,3217500,place:NV:3217500,Dayton CDP,Dayton,Dayton,32019,Lyon County,Census-designated place,39.271625,-119.544947,1
+NV,3218500,place:NV:3218500,Denio CDP,Denio,Denio,32013,Humboldt County,Census-designated place,41.988859,-118.637483,1
+NV,3219150,place:NV:3219150,Double Spring CDP,Double Spring,Double Spring,32005,Douglas County,Census-designated place,38.77877,-119.615404,1
+NV,3219800,place:NV:3219800,Dry Valley CDP,Dry Valley,Dry Valley,32017,Lincoln County,Census-designated place,37.884349,-114.305046,1
+NV,3220700,place:NV:3220700,Dyer CDP,Dyer,Dyer,32009,Esmeralda County,Census-designated place,37.656131,-118.027994,1
+NV,3221520,place:NV:3221520,East Valley CDP,East Valley,East Valley,32005,Douglas County,Census-designated place,38.942054,-119.693235,1
+NV,3222500,place:NV:3222500,Elko city,Elko,Elko,32007,Elko County,Incorporated place,40.838111,-115.767809,1
+NV,3223500,place:NV:3223500,Ely city,Ely,Ely,32033,White Pine County,Incorporated place,39.264924,-114.870839,1
+NV,3223700,place:NV:3223700,Empire CDP,Empire,Empire,32031,Washoe County,Census-designated place,40.575918,-119.343073,1
+NV,3223770,place:NV:3223770,Enterprise CDP,Enterprise,Enterprise,32003,Clark County,Census-designated place,36.009143,-115.227824,1
+NV,3223900,place:NV:3223900,Eureka CDP,Eureka,Eureka,32011,Eureka County,Census-designated place,39.5112,-115.965824,1
+NV,3224100,place:NV:3224100,Fallon city,Fallon,Fallon,32001,Churchill County,Incorporated place,39.473699,-118.777896,1
+NV,3224500,place:NV:3224500,Fallon Station CDP,Fallon Station,Fallon Station,32001,Churchill County,Census-designated place,39.414959,-118.716514,1
+NV,3224900,place:NV:3224900,Fernley city,Fernley,Fernley,32019,Lyon County,Incorporated place,39.564761,-119.189435,1
+NV,3225000,place:NV:3225000,Fish Springs CDP,Fish Springs,Fish Springs,32005,Douglas County,Census-designated place,38.953578,-119.651086,1
+NV,3225490,place:NV:3225490,Fort McDermitt CDP,Fort McDermitt,Fort McDermitt,32013,Humboldt County,Census-designated place,41.965509,-117.639454,1
+NV,3225900,place:NV:3225900,Gabbs CDP,Gabbs,Gabbs,32023,Nye County,Census-designated place,38.862777,-117.932144,1
+NV,3226300,place:NV:3226300,Gardnerville CDP,Gardnerville,Gardnerville,32005,Douglas County,Census-designated place,38.939,-119.736879,1
+NV,3226500,place:NV:3226500,Gardnerville Ranchos CDP,Gardnerville Ranchos,Gardnerville Ranchos,32005,Douglas County,Census-designated place,38.895719,-119.74915,1
+NV,3227100,place:NV:3227100,Genoa CDP,Genoa,Genoa,32005,Douglas County,Census-designated place,39.025614,-119.830954,1
+NV,3227300,place:NV:3227300,Gerlach CDP,Gerlach,Gerlach,32031,Washoe County,Census-designated place,40.645167,-119.361345,1
+NV,3227900,place:NV:3227900,Glenbrook CDP,Glenbrook,Glenbrook,32005,Douglas County,Census-designated place,39.100123,-119.927289,1
+NV,3228500,place:NV:3228500,Golconda CDP,Golconda,Golconda,32013,Humboldt County,Census-designated place,40.952131,-117.499672,1
+NV,3228860,place:NV:3228860,Golden Valley CDP,Golden Valley,Golden Valley,32031,Washoe County,Census-designated place,39.61775,-119.823124,1
+NV,3228900,place:NV:3228900,Goldfield CDP,Goldfield,Goldfield,32009,Esmeralda County,Census-designated place,37.712171,-117.237854,1
+NV,3229500,place:NV:3229500,Goodsprings CDP,Goodsprings,Goodsprings,32003,Clark County,Census-designated place,35.831884,-115.43534,1
+NV,3230220,place:NV:3230220,Grass Valley CDP,Grass Valley,Grass Valley,32027,Pershing County,Census-designated place,40.797081,-117.760261,1
+NV,3231300,place:NV:3231300,Hawthorne CDP,Hawthorne,Hawthorne,32021,Mineral County,Census-designated place,38.525256,-118.62603,1
+NV,3231900,place:NV:3231900,Henderson city,Henderson,Henderson,32003,Clark County,Incorporated place,36.0056,-115.022812,1
+NV,3232900,place:NV:3232900,Hiko CDP,Hiko,Hiko,32017,Lincoln County,Census-designated place,37.645235,-115.189053,1
+NV,3234100,place:NV:3234100,Humboldt River Ranch CDP,Humboldt River Ranch,Humboldt River Ranch,32027,Pershing County,Census-designated place,40.431795,-118.271874,1
+NV,3234700,place:NV:3234700,Imlay CDP,Imlay,Imlay,32027,Pershing County,Census-designated place,40.658106,-118.144098,1
+NV,3235100,place:NV:3235100,Incline Village CDP,Incline Village,Incline Village,32031,Washoe County,Census-designated place,39.268613,-119.947112,1
+NV,3235275,place:NV:3235275,Indian Hills CDP,Indian Hills,Indian Hills,32005,Douglas County,Census-designated place,39.091555,-119.797508,1
+NV,3235300,place:NV:3235300,Indian Springs CDP,Indian Springs,Indian Springs,32003,Clark County,Census-designated place,36.571844,-115.720313,1
+NV,3236500,place:NV:3236500,Jackpot CDP,Jackpot,Jackpot,32007,Elko County,Census-designated place,41.979455,-114.664598,1
+NV,3236700,place:NV:3236700,Jarbidge CDP,Jarbidge,Jarbidge,32007,Elko County,Census-designated place,41.876318,-115.431043,0
+NV,3237190,place:NV:3237190,Johnson Lane CDP,Johnson Lane,Johnson Lane,32005,Douglas County,Census-designated place,39.064241,-119.720245,1
+NV,3238000,place:NV:3238000,Kingsbury CDP,Kingsbury,Kingsbury,32005,Douglas County,Census-designated place,38.990926,-119.883674,1
+NV,3238100,place:NV:3238100,Kingston CDP,Kingston,Kingston,32015,Lander County,Census-designated place,39.210131,-117.067937,1
+NV,3239100,place:NV:3239100,Lakeridge CDP,Lakeridge,Lakeridge,32005,Douglas County,Census-designated place,39.038183,-119.942792,1
+NV,3239300,place:NV:3239300,Lamoille CDP,Lamoille,Lamoille,32007,Elko County,Census-designated place,40.723853,-115.478949,1
+NV,3240000,place:NV:3240000,Las Vegas city,Las Vegas,Las Vegas,32003,Clark County,Incorporated place,36.233499,-115.264037,1
+NV,3241000,place:NV:3241000,Laughlin CDP,Laughlin,Laughlin,32003,Clark County,Census-designated place,35.143811,-114.620635,1
+NV,3241800,place:NV:3241800,Lemmon Valley CDP,Lemmon Valley,Lemmon Valley,32031,Washoe County,Census-designated place,39.687444,-119.833195,1
+NV,3242350,place:NV:3242350,Logan Creek CDP,Logan Creek,Logan Creek,32005,Douglas County,Census-designated place,39.06507,-119.92449,1
+NV,3243000,place:NV:3243000,Lovelock city,Lovelock,Lovelock,32027,Pershing County,Incorporated place,40.178738,-118.477442,1
+NV,3243400,place:NV:3243400,Lund CDP,Lund,Lund,32033,White Pine County,Census-designated place,38.864182,-115.009927,1
+NV,3244000,place:NV:3244000,McDermitt CDP,McDermitt,McDermitt,32013,Humboldt County,Census-designated place,41.990328,-117.720796,1
+NV,3244200,place:NV:3244200,McGill CDP,McGill,McGill,32033,White Pine County,Census-designated place,39.401982,-114.777511,1
+NV,3246000,place:NV:3246000,Mesquite city,Mesquite,Mesquite,32003,Clark County,Incorporated place,36.81112,-114.125652,1
+NV,3246400,place:NV:3246400,Midas CDP,Midas,Midas,32007,Elko County,Census-designated place,41.243199,-116.797966,0
+NV,3246800,place:NV:3246800,Mina CDP,Mina,Mina,32021,Mineral County,Census-designated place,38.390181,-118.111247,1
+NV,3247000,place:NV:3247000,Minden CDP,Minden,Minden,32005,Douglas County,Census-designated place,38.964576,-119.766621,1
+NV,3247840,place:NV:3247840,Moapa Town CDP,Moapa Town,Moapa Town,32003,Clark County,Census-designated place,36.692535,-114.635647,1
+NV,3247880,place:NV:3247880,Moapa Valley CDP,Moapa Valley,Moapa Valley,32003,Clark County,Census-designated place,36.604002,-114.449294,1
+NV,3248000,place:NV:3248000,Mogul CDP,Mogul,Mogul,32031,Washoe County,Census-designated place,39.516172,-119.923037,1
+NV,3248400,place:NV:3248400,Montello CDP,Montello,Montello,32007,Elko County,Census-designated place,41.267013,-114.197065,1
+NV,3249310,place:NV:3249310,Mount Charleston CDP,Mount Charleston,Mount Charleston,32003,Clark County,Census-designated place,36.262524,-115.613859,1
+NV,3249425,place:NV:3249425,Mount Wilson CDP,Mount Wilson,Mount Wilson,32017,Lincoln County,Census-designated place,38.234993,-114.450329,1
+NV,3249200,place:NV:3249200,Mountain City CDP,Mountain City,Mountain City,32007,Elko County,Census-designated place,41.83725,-115.963251,1
+NV,3250400,place:NV:3250400,Nellis AFB CDP,Nellis AFB,Nellis AFB,32003,Clark County,Census-designated place,36.246585,-115.0571,1
+NV,3250600,place:NV:3250600,Nelson CDP,Nelson,Nelson,32003,Clark County,Census-designated place,35.717933,-114.83135,1
+NV,3251200,place:NV:3251200,Nixon CDP,Nixon,Nixon,32031,Washoe County,Census-designated place,39.828015,-119.358952,1
+NV,3251800,place:NV:3251800,North Las Vegas city,North Las Vegas,North Las Vegas,32003,Clark County,Incorporated place,36.289865,-115.089181,1
+NV,3253000,place:NV:3253000,Orovada CDP,Orovada,Orovada,32013,Humboldt County,Census-designated place,41.549216,-117.823596,1
+NV,3253200,place:NV:3253200,Osino CDP,Osino,Osino,32007,Elko County,Census-designated place,40.940908,-115.660778,1
+NV,3253600,place:NV:3253600,Owyhee CDP,Owyhee,Owyhee,32007,Elko County,Census-designated place,41.930086,-116.213421,1
+NV,3253800,place:NV:3253800,Pahrump CDP,Pahrump,Pahrump,32023,Nye County,Census-designated place,36.224045,-115.996744,1
+NV,3254200,place:NV:3254200,Panaca CDP,Panaca,Panaca,32017,Lincoln County,Census-designated place,37.788116,-114.400539,1
+NV,3254600,place:NV:3254600,Paradise CDP,Paradise,Paradise,32003,Clark County,Census-designated place,36.087148,-115.135519,1
+NV,3255400,place:NV:3255400,Paradise Valley CDP,Paradise Valley,Paradise Valley,32013,Humboldt County,Census-designated place,41.484384,-117.546976,1
+NV,3257400,place:NV:3257400,Pioche CDP,Pioche,Pioche,32017,Lincoln County,Census-designated place,37.951972,-114.443453,1
+NV,3258000,place:NV:3258000,Preston CDP,Preston,Preston,32033,White Pine County,Census-designated place,38.914945,-115.063674,1
+NV,3258820,place:NV:3258820,Rachel CDP,Rachel,Rachel,32017,Lincoln County,Census-designated place,37.641436,-115.768129,1
+NV,3260600,place:NV:3260600,Reno city,Reno,Reno,32031,Washoe County,Incorporated place,39.549097,-119.849907,1
+NV,3262170,place:NV:3262170,Round Hill Village CDP,Round Hill Village,Round Hill Village,32005,Douglas County,Census-designated place,38.996223,-119.917856,1
+NV,3263450,place:NV:3263450,Ruhenstroth CDP,Ruhenstroth,Ruhenstroth,32005,Douglas County,Census-designated place,38.891296,-119.683291,1
+NV,3263800,place:NV:3263800,Ruth CDP,Ruth,Ruth,32033,White Pine County,Census-designated place,39.279288,-114.990045,1
+NV,3264000,place:NV:3264000,Ryndon CDP,Ryndon,Ryndon,32007,Elko County,Census-designated place,40.96146,-115.604064,0
+NV,3264600,place:NV:3264600,Sandy Valley CDP,Sandy Valley,Sandy Valley,32003,Clark County,Census-designated place,35.842134,-115.630539,1
+NV,3265400,place:NV:3265400,Schurz CDP,Schurz,Schurz,32021,Mineral County,Census-designated place,38.979414,-118.833412,1
+NV,3265600,place:NV:3265600,Searchlight CDP,Searchlight,Searchlight,32003,Clark County,Census-designated place,35.455431,-114.920426,1
+NV,3266800,place:NV:3266800,Silver City CDP,Silver City,Silver City,32019,Lyon County,Census-designated place,39.263889,-119.635697,1
+NV,3267000,place:NV:3267000,Silver Peak CDP,Silver Peak,Silver Peak,32009,Esmeralda County,Census-designated place,37.757726,-117.63865,1
+NV,3267200,place:NV:3267200,Silver Springs CDP,Silver Springs,Silver Springs,32019,Lyon County,Census-designated place,39.383453,-119.214745,1
+NV,3267600,place:NV:3267600,Skyland CDP,Skyland,Skyland,32005,Douglas County,Census-designated place,39.027253,-119.919196,1
+NV,3268050,place:NV:3268050,Smith Valley CDP,Smith Valley,Smith Valley,32019,Lyon County,Census-designated place,38.786902,-119.368659,1
+NV,3268289,place:NV:3268289,South Fork CDP,South Fork,South Fork,32007,Elko County,Census-designated place,40.653433,-115.781534,0
+NV,3268350,place:NV:3268350,Spanish Springs CDP,Spanish Springs,Spanish Springs,32031,Washoe County,Census-designated place,39.655013,-119.668817,1
+NV,3268400,place:NV:3268400,Sparks city,Sparks,Sparks,32031,Washoe County,Incorporated place,39.574341,-119.715154,1
+NV,3268550,place:NV:3268550,Spring Creek CDP,Spring Creek,Spring Creek,32007,Elko County,Census-designated place,40.744057,-115.598029,1
+NV,3268585,place:NV:3268585,Spring Valley CDP,Spring Valley,Spring Valley,32003,Clark County,Census-designated place,36.095178,-115.263609,1
+NV,3268800,place:NV:3268800,Stagecoach CDP,Stagecoach,Stagecoach,32019,Lyon County,Census-designated place,39.365594,-119.383178,1
+NV,3269200,place:NV:3269200,Stateline CDP,Stateline,Stateline,32005,Douglas County,Census-designated place,38.968784,-119.944555,1
+NV,3270900,place:NV:3270900,Summerlin South CDP,Summerlin South,Summerlin South,32003,Clark County,Census-designated place,36.124236,-115.33246,1
+NV,3271600,place:NV:3271600,Sun Valley CDP,Sun Valley,Sun Valley,32031,Washoe County,Census-designated place,39.610317,-119.777118,1
+NV,3271400,place:NV:3271400,Sunrise Manor CDP,Sunrise Manor,Sunrise Manor,32003,Clark County,Census-designated place,36.178338,-115.048722,1
+NV,3271800,place:NV:3271800,Sutcliffe CDP,Sutcliffe,Sutcliffe,32031,Washoe County,Census-designated place,39.946058,-119.630514,1
+NV,3273600,place:NV:3273600,Tonopah CDP,Tonopah,Tonopah,32023,Nye County,Census-designated place,38.08216,-117.224586,1
+NV,3274200,place:NV:3274200,Topaz Lake CDP,Topaz Lake,Topaz Lake,32005,Douglas County,Census-designated place,38.698694,-119.541597,1
+NV,3274400,place:NV:3274400,Topaz Ranch Estates CDP,Topaz Ranch Estates,Topaz Ranch Estates,32005,Douglas County,Census-designated place,38.735652,-119.500794,1
+NV,3276200,place:NV:3276200,Tuscarora CDP,Tuscarora,Tuscarora,32007,Elko County,Census-designated place,41.314195,-116.223415,0
+NV,3276400,place:NV:3276400,Unionville CDP,Unionville,Unionville,32027,Pershing County,Census-designated place,40.44675,-118.123093,1
+NV,3277200,place:NV:3277200,Ursine CDP,Ursine,Ursine,32017,Lincoln County,Census-designated place,37.977287,-114.22887,1
+NV,3278200,place:NV:3278200,Valmy CDP,Valmy,Valmy,32013,Humboldt County,Census-designated place,40.790802,-117.126876,1
+NV,3279400,place:NV:3279400,Verdi CDP,Verdi,Verdi,32031,Washoe County,Census-designated place,39.521717,-119.982474,1
+NV,3280000,place:NV:3280000,Virginia City CDP,Virginia City,Virginia City,32029,Storey County,Census-designated place,39.307469,-119.64827,1
+NV,3281000,place:NV:3281000,Wadsworth CDP,Wadsworth,Wadsworth,32031,Washoe County,Census-designated place,39.632166,-119.289032,1
+NV,3281100,place:NV:3281100,Walker Lake CDP,Walker Lake,Walker Lake,32021,Mineral County,Census-designated place,38.645758,-118.756291,1
+NV,3282250,place:NV:3282250,Washoe Valley CDP,Washoe Valley,Washoe Valley,32031,Washoe County,Census-designated place,39.292274,-119.776751,1
+NV,3283000,place:NV:3283000,Wells city,Wells,Wells,32007,Elko County,Incorporated place,41.113155,-114.953537,1
+NV,3283730,place:NV:3283730,West Wendover city,West Wendover,West Wendover,32007,Elko County,Incorporated place,40.740253,-114.078633,1
+NV,3283800,place:NV:3283800,Whitney CDP,Whitney,Whitney,32003,Clark County,Census-designated place,36.100819,-115.037904,1
+NV,3283900,place:NV:3283900,Wildhorse CDP,Wildhorse,Wildhorse,32007,Elko County,Census-designated place,41.629476,-115.81893,0
+NV,3284600,place:NV:3284600,Winchester CDP,Winchester,Winchester,32003,Clark County,Census-designated place,36.136476,-115.137092,1
+NV,3284800,place:NV:3284800,Winnemucca city,Winnemucca,Winnemucca,32013,Humboldt County,Incorporated place,40.964397,-117.724642,1
+NV,3285400,place:NV:3285400,Yerington city,Yerington,Yerington,32019,Lyon County,Incorporated place,38.955477,-119.11012,1
+NV,3286200,place:NV:3286200,Zephyr Cove CDP,Zephyr Cove,Zephyr Cove,32005,Douglas County,Census-designated place,39.013215,-119.923598,1

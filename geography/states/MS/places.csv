@@ -1,0 +1,428 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+MS,2800100,place:MS:2800100,Abbeville town,Abbeville,Abbeville,28071,Lafayette County,Incorporated place,34.503392,-89.502517,1
+MS,2800180,place:MS:2800180,Aberdeen city,Aberdeen,Aberdeen,28095,Monroe County,Incorporated place,33.828299,-88.554741,1
+MS,2800300,place:MS:2800300,Ackerman town,Ackerman,Ackerman,28019,Choctaw County,Incorporated place,33.311435,-89.170116,1
+MS,2800460,place:MS:2800460,Agricola CDP,Agricola,Agricola,28039,George County,Census-designated place,30.813715,-88.524845,1
+MS,2800680,place:MS:2800680,Alcorn State University CDP,Alcorn State University,Alcorn State University,28021,Claiborne County,Census-designated place,31.879168,-91.140636,1
+MS,2800820,place:MS:2800820,Algoma town,Algoma,Algoma,28115,Pontotoc County,Incorporated place,34.179537,-89.03807,1
+MS,2800940,place:MS:2800940,Alligator town,Alligator,Alligator,28011,Bolivar County,Incorporated place,34.088705,-90.723323,1
+MS,2801260,place:MS:2801260,Amory city,Amory,Amory,28095,Monroe County,Incorporated place,33.981846,-88.482607,1
+MS,2801500,place:MS:2801500,Anguilla town,Anguilla,Anguilla,28125,Sharkey County,Incorporated place,32.971869,-90.828259,1
+MS,2801820,place:MS:2801820,Arcola town,Arcola,Arcola,28151,Washington County,Incorporated place,33.27054,-90.880002,1
+MS,2801940,place:MS:2801940,Arkabutla CDP,Arkabutla,Arkabutla,28137,Tate County,Census-designated place,34.700227,-90.121565,1
+MS,2802060,place:MS:2802060,Arnold Line CDP,Arnold Line,Arnold Line,28073,Lamar County,Census-designated place,31.337175,-89.37719,1
+MS,2802100,place:MS:2802100,Artesia town,Artesia,Artesia,28087,Lowndes County,Incorporated place,33.416711,-88.642298,1
+MS,2802140,place:MS:2802140,Ashland town,Ashland,Ashland,28009,Benton County,Incorporated place,34.834119,-89.177741,1
+MS,2802380,place:MS:2802380,Austin CDP,Austin,Austin,28143,Tunica County,Census-designated place,34.642236,-90.44791,1
+MS,2802700,place:MS:2802700,Baldwyn city,Baldwyn,Baldwyn,28081,Lee County,Incorporated place,34.505569,-88.642845,1
+MS,2803580,place:MS:2803580,Bassfield town,Bassfield,Bassfield,28065,Jefferson Davis County,Incorporated place,31.495955,-89.744932,1
+MS,2803620,place:MS:2803620,Batesville city,Batesville,Batesville,28107,Panola County,Incorporated place,34.320982,-89.924878,1
+MS,2803940,place:MS:2803940,Baxterville CDP,Baxterville,Baxterville,28073,Lamar County,Census-designated place,31.09147,-89.586699,1
+MS,2804060,place:MS:2804060,Bay Springs city,Bay Springs,Bay Springs,28061,Jasper County,Incorporated place,31.977998,-89.279613,1
+MS,2803980,place:MS:2803980,Bay St. Louis city,Bay St. Louis,Bay St. Louis,28045,Hancock County,Incorporated place,30.323461,-89.358839,1
+MS,2804500,place:MS:2804500,Beaumont town,Beaumont,Beaumont,28111,Perry County,Incorporated place,31.167342,-88.928251,1
+MS,2804540,place:MS:2804540,Beauregard village,Beauregard,Beauregard,28029,Copiah County,Incorporated place,31.717793,-90.388687,1
+MS,2804705,place:MS:2804705,Beechwood CDP,Beechwood,Beechwood,28149,Warren County,Census-designated place,32.336774,-90.808715,1
+MS,2805100,place:MS:2805100,Belmont town,Belmont,Belmont,28141,Tishomingo County,Incorporated place,34.505035,-88.208306,1
+MS,2805140,place:MS:2805140,Belzoni city,Belzoni,Belzoni,28053,Humphreys County,Incorporated place,33.180498,-90.486286,1
+MS,2805180,place:MS:2805180,Benndale CDP,Benndale,Benndale,28039,George County,Census-designated place,30.86869,-88.805435,1
+MS,2805220,place:MS:2805220,Benoit town,Benoit,Benoit,28011,Bolivar County,Incorporated place,33.651595,-91.008741,1
+MS,2805340,place:MS:2805340,Benton CDP,Benton,Benton,28163,Yazoo County,Census-designated place,32.821561,-90.261702,1
+MS,2805380,place:MS:2805380,Bentonia town,Bentonia,Bentonia,28163,Yazoo County,Incorporated place,32.643598,-90.369193,1
+MS,2805780,place:MS:2805780,Bethlehem CDP,Bethlehem,Bethlehem,28093,Marshall County,Census-designated place,34.577318,-89.328873,1
+MS,2805820,place:MS:2805820,Beulah town,Beulah,Beulah,28011,Bolivar County,Incorporated place,33.790471,-90.980138,1
+MS,2806060,place:MS:2806060,Big Creek village,Big Creek,Big Creek,28013,Calhoun County,Incorporated place,33.846392,-89.415895,1
+MS,2806180,place:MS:2806180,Big Point CDP,Big Point,Big Point,28059,Jackson County,Census-designated place,30.590561,-88.484562,1
+MS,2806100,place:MS:2806100,Biggersville CDP,Biggersville,Biggersville,28003,Alcorn County,Census-designated place,34.836728,-88.563927,1
+MS,2806220,place:MS:2806220,Biloxi city,Biloxi,Biloxi,28047,Harrison County,Incorporated place,30.426663,-88.935762,1
+MS,2807060,place:MS:2807060,Blue Mountain town,Blue Mountain,Blue Mountain,28139,Tippah County,Incorporated place,34.673885,-89.026184,1
+MS,2807100,place:MS:2807100,Blue Springs village,Blue Springs,Blue Springs,28145,Union County,Incorporated place,34.392778,-88.883267,1
+MS,2807220,place:MS:2807220,Bobo CDP,Bobo,Bobo,28027,Coahoma County,Census-designated place,34.133613,-90.677553,1
+MS,2807322,place:MS:2807322,Bogue Chitto CDP,Bogue Chitto,"Bogue Chitto, Lincoln County",28085,Lincoln County,Census-designated place,31.429417,-90.461885,1
+MS,2807330,place:MS:2807330,Bogue Chitto CDP,Bogue Chitto,"Bogue Chitto, Neshoba County",28099,Neshoba County,Census-designated place,32.832345,-88.918434,1
+MS,2807460,place:MS:2807460,Bolivar CDP,Bolivar,Bolivar,28011,Bolivar County,Census-designated place,33.660681,-91.051835,1
+MS,2807540,place:MS:2807540,Bolton town,Bolton,Bolton,28049,Hinds County,Incorporated place,32.354611,-90.458584,1
+MS,2807620,place:MS:2807620,Bond CDP,Bond,Bond,28131,Stone County,Census-designated place,30.90196,-89.165651,1
+MS,2807780,place:MS:2807780,Booneville city,Booneville,Booneville,28117,Prentiss County,Incorporated place,34.664418,-88.567991,1
+MS,2807900,place:MS:2807900,Bovina CDP,Bovina,Bovina,28149,Warren County,Census-designated place,32.349638,-90.738774,1
+MS,2808180,place:MS:2808180,Boyle town,Boyle,Boyle,28011,Bolivar County,Incorporated place,33.706475,-90.724872,1
+MS,2808300,place:MS:2808300,Brandon city,Brandon,Brandon,28121,Rankin County,Incorporated place,32.278093,-89.990686,1
+MS,2808460,place:MS:2808460,Braxton village,Braxton,Braxton,28127,Simpson County,Incorporated place,32.026391,-89.97153,1
+MS,2808655,place:MS:2808655,Bridgetown CDP,Bridgetown,Bridgetown,28033,DeSoto County,Census-designated place,34.889727,-89.904816,1
+MS,2808820,place:MS:2808820,Brookhaven city,Brookhaven,Brookhaven,28085,Lincoln County,Incorporated place,31.580567,-90.443386,1
+MS,2808980,place:MS:2808980,Brooksville town,Brooksville,Brooksville,28103,Noxubee County,Incorporated place,33.236701,-88.578141,1
+MS,2809180,place:MS:2809180,Bruce town,Bruce,Bruce,28013,Calhoun County,Incorporated place,33.990906,-89.345464,1
+MS,2809380,place:MS:2809380,Buckatunna CDP,Buckatunna,Buckatunna,28153,Wayne County,Census-designated place,31.553199,-88.534283,1
+MS,2809460,place:MS:2809460,Bude town,Bude,Bude,28037,Franklin County,Incorporated place,31.461853,-90.85274,1
+MS,2809820,place:MS:2809820,Burnsville town,Burnsville,Burnsville,28141,Tishomingo County,Incorporated place,34.83205,-88.318688,1
+MS,2810060,place:MS:2810060,Byhalia town,Byhalia,Byhalia,28093,Marshall County,Incorporated place,34.869188,-89.689993,1
+MS,2810140,place:MS:2810140,Byram city,Byram,Byram,28049,Hinds County,Incorporated place,32.192137,-90.286965,1
+MS,2810460,place:MS:2810460,Caledonia town,Caledonia,Caledonia,28087,Lowndes County,Incorporated place,33.683607,-88.326024,1
+MS,2810580,place:MS:2810580,Calhoun City town,Calhoun City,Calhoun City,28013,Calhoun County,Incorporated place,33.859347,-89.314623,1
+MS,2811100,place:MS:2811100,Canton city,Canton,Canton,28089,Madison County,Incorporated place,32.598419,-90.032191,1
+MS,2811580,place:MS:2811580,Carrollton town,Carrollton,Carrollton,28015,Carroll County,Incorporated place,33.505647,-89.921812,1
+MS,2811780,place:MS:2811780,Carthage city,Carthage,Carthage,28079,Leake County,Incorporated place,32.744227,-89.533452,1
+MS,2811820,place:MS:2811820,Cary town,Cary,Cary,28125,Sharkey County,Incorporated place,32.805642,-90.924612,1
+MS,2812740,place:MS:2812740,Centreville town,Centreville,Centreville,28157,Wilkinson County,Incorporated place,31.087019,-91.06544,1
+MS,2812780,place:MS:2812780,Chalybeate CDP,Chalybeate,Chalybeate,28139,Tippah County,Census-designated place,34.932683,-88.870548,1
+MS,2812900,place:MS:2812900,Charleston city,Charleston,Charleston,28135,Tallahatchie County,Incorporated place,34.007653,-90.055166,1
+MS,2813580,place:MS:2813580,Chunky town,Chunky,Chunky,28101,Newton County,Incorporated place,32.327488,-88.930172,1
+MS,2813700,place:MS:2813700,Clara CDP,Clara,Clara,28153,Wayne County,Census-designated place,31.58313,-88.69161,1
+MS,2813820,place:MS:2813820,Clarksdale city,Clarksdale,Clarksdale,28027,Coahoma County,Incorporated place,34.193796,-90.568598,1
+MS,2814140,place:MS:2814140,Cleary CDP,Cleary,Cleary,28121,Rankin County,Census-designated place,32.157656,-90.196452,1
+MS,2814260,place:MS:2814260,Cleveland city,Cleveland,Cleveland,28011,Bolivar County,Incorporated place,33.744008,-90.728476,1
+MS,2814420,place:MS:2814420,Clinton city,Clinton,Clinton,28049,Hinds County,Incorporated place,32.354443,-90.341893,1
+MS,2814540,place:MS:2814540,Cloverdale CDP,Cloverdale,Cloverdale,28001,Adams County,Census-designated place,31.495926,-91.415192,1
+MS,2814580,place:MS:2814580,Coahoma town,Coahoma,Coahoma,28027,Coahoma County,Incorporated place,34.366293,-90.522019,1
+MS,2814740,place:MS:2814740,Coffeeville town,Coffeeville,Coffeeville,28161,Yalobusha County,Incorporated place,33.976494,-89.684482,1
+MS,2814900,place:MS:2814900,Coldwater town,Coldwater,Coldwater,28137,Tate County,Incorporated place,34.690376,-89.975517,1
+MS,2815140,place:MS:2815140,Collins city,Collins,Collins,28031,Covington County,Incorporated place,31.648272,-89.567581,1
+MS,2815180,place:MS:2815180,Collinsville CDP,Collinsville,Collinsville,28075,Lauderdale County,Census-designated place,32.487323,-88.844306,1
+MS,2815340,place:MS:2815340,Columbia city,Columbia,Columbia,28091,Marion County,Incorporated place,31.258593,-89.818669,1
+MS,2815380,place:MS:2815380,Columbus city,Columbus,Columbus,28087,Lowndes County,Incorporated place,33.508208,-88.407128,1
+MS,2815420,place:MS:2815420,Columbus AFB CDP,Columbus AFB,Columbus AFB,28087,Lowndes County,Census-designated place,33.627598,-88.445435,1
+MS,2815500,place:MS:2815500,Como town,Como,Como,28107,Panola County,Incorporated place,34.513561,-89.939947,1
+MS,2815540,place:MS:2815540,Conehatta CDP,Conehatta,Conehatta,28101,Newton County,Census-designated place,32.466586,-89.26694,1
+MS,2815700,place:MS:2815700,Corinth city,Corinth,Corinth,28003,Alcorn County,Incorporated place,34.948353,-88.513618,1
+MS,2815980,place:MS:2815980,Courtland town,Courtland,Courtland,28107,Panola County,Incorporated place,34.24108,-89.943282,1
+MS,2816420,place:MS:2816420,Crawford town,Crawford,Crawford,28087,Lowndes County,Incorporated place,33.30232,-88.625268,1
+MS,2816460,place:MS:2816460,Crenshaw town,Crenshaw,Crenshaw,28107,Panola County,Incorporated place,34.504661,-90.194637,1
+MS,2816620,place:MS:2816620,Crosby town,Crosby,Crosby,28157,Wilkinson County,Incorporated place,31.276377,-91.061721,1
+MS,2816940,place:MS:2816940,Crowder town,Crowder,Crowder,28119,Quitman County,Incorporated place,34.172909,-90.137688,1
+MS,2816980,place:MS:2816980,Cruger town,Cruger,Cruger,28051,Holmes County,Incorporated place,33.322998,-90.235522,1
+MS,2817060,place:MS:2817060,Crystal Springs city,Crystal Springs,Crystal Springs,28029,Copiah County,Incorporated place,31.98995,-90.355332,1
+MS,2819180,place:MS:2819180,D'Iberville city,D'Iberville,D'Iberville,28047,Harrison County,Incorporated place,30.443522,-88.895358,1
+MS,2819340,place:MS:2819340,D'Lo town,D'Lo,D'Lo,28127,Simpson County,Incorporated place,31.986952,-89.901131,1
+MS,2817700,place:MS:2817700,Darling CDP,Darling,Darling,28119,Quitman County,Census-designated place,34.359137,-90.275408,1
+MS,2818340,place:MS:2818340,De Kalb town,De Kalb,De Kalb,28069,Kemper County,Incorporated place,32.77337,-88.65698,1
+MS,2818980,place:MS:2818980,De Soto CDP,De Soto,De Soto,28023,Clarke County,Census-designated place,31.966848,-88.723936,1
+MS,2818180,place:MS:2818180,Decatur town,Decatur,Decatur,28101,Newton County,Incorporated place,32.433958,-89.111246,1
+MS,2818420,place:MS:2818420,DeLisle CDP,DeLisle,DeLisle,28047,Harrison County,Census-designated place,30.382359,-89.275687,1
+MS,2818500,place:MS:2818500,Delta City CDP,Delta City,Delta City,28125,Sharkey County,Census-designated place,33.073864,-90.792531,1
+MS,2818700,place:MS:2818700,Dennis CDP,Dennis,Dennis,28141,Tishomingo County,Census-designated place,34.558945,-88.230306,1
+MS,2818940,place:MS:2818940,Derma town,Derma,Derma,28013,Calhoun County,Incorporated place,33.858875,-89.28776,1
+MS,2819100,place:MS:2819100,Diamondhead city,Diamondhead,Diamondhead,28045,Hancock County,Incorporated place,30.40253,-89.345584,1
+MS,2819420,place:MS:2819420,Doddsville town,Doddsville,Doddsville,28133,Sunflower County,Incorporated place,33.659864,-90.521439,1
+MS,2820020,place:MS:2820020,Drew city,Drew,Drew,28133,Sunflower County,Incorporated place,33.810092,-90.530384,1
+MS,2820220,place:MS:2820220,Dublin CDP,Dublin,Dublin,28027,Coahoma County,Census-designated place,34.072591,-90.489162,1
+MS,2820260,place:MS:2820260,Duck Hill town,Duck Hill,Duck Hill,28097,Montgomery County,Incorporated place,33.631649,-89.715396,1
+MS,2820340,place:MS:2820340,Dumas town,Dumas,Dumas,28139,Tippah County,Incorporated place,34.638016,-88.843092,1
+MS,2820380,place:MS:2820380,Duncan town,Duncan,Duncan,28011,Bolivar County,Incorporated place,34.04181,-90.745896,1
+MS,2820420,place:MS:2820420,Dundee CDP,Dundee,Dundee,28143,Tunica County,Census-designated place,34.532138,-90.448387,1
+MS,2820500,place:MS:2820500,Durant city,Durant,Durant,28051,Holmes County,Incorporated place,33.080917,-89.856845,1
+MS,2820610,place:MS:2820610,Eagle Bend CDP,Eagle Bend,Eagle Bend,28149,Warren County,Census-designated place,32.532715,-91.037234,1
+MS,2820740,place:MS:2820740,Eastabuchie CDP,Eastabuchie,Eastabuchie,28035,Forrest County,Census-designated place,31.429381,-89.289825,1
+MS,2821340,place:MS:2821340,Ecru town,Ecru,Ecru,28115,Pontotoc County,Incorporated place,34.347992,-89.025632,1
+MS,2821420,place:MS:2821420,Eden village,Eden,Eden,28163,Yazoo County,Incorporated place,32.98371,-90.323957,1
+MS,2821580,place:MS:2821580,Edwards town,Edwards,Edwards,28049,Hinds County,Incorporated place,32.332612,-90.60556,1
+MS,2821860,place:MS:2821860,Elizabeth CDP,Elizabeth,Elizabeth,28151,Washington County,Census-designated place,33.427103,-90.880717,1
+MS,2821940,place:MS:2821940,Elliott CDP,Elliott,Elliott,28043,Grenada County,Census-designated place,33.691254,-89.752453,1
+MS,2822020,place:MS:2822020,Ellisville city,Ellisville,Ellisville,28067,Jones County,Incorporated place,31.597277,-89.210269,1
+MS,2822580,place:MS:2822580,Enterprise town,Enterprise,Enterprise,28023,Clarke County,Incorporated place,32.172542,-88.815818,1
+MS,2822900,place:MS:2822900,Escatawpa CDP,Escatawpa,Escatawpa,28059,Jackson County,Census-designated place,30.495843,-88.544348,1
+MS,2823220,place:MS:2823220,Ethel town,Ethel,Ethel,28007,Attala County,Incorporated place,33.122088,-89.465023,1
+MS,2823340,place:MS:2823340,Eudora CDP,Eudora,Eudora,28033,DeSoto County,Census-designated place,34.831033,-90.148826,1
+MS,2823420,place:MS:2823420,Eupora city,Eupora,Eupora,28155,Webster County,Incorporated place,33.542557,-89.279336,1
+MS,2824180,place:MS:2824180,Falcon town,Falcon,Falcon,28119,Quitman County,Incorporated place,34.391137,-90.255638,1
+MS,2824220,place:MS:2824220,Falkner town,Falkner,Falkner,28139,Tippah County,Incorporated place,34.839349,-88.948409,1
+MS,2824420,place:MS:2824420,Farmington town,Farmington,Farmington,28003,Alcorn County,Incorporated place,34.922555,-88.446131,1
+MS,2824460,place:MS:2824460,Farrell CDP,Farrell,Farrell,28027,Coahoma County,Census-designated place,34.261707,-90.675041,1
+MS,2824500,place:MS:2824500,Fayette city,Fayette,Fayette,28063,Jefferson County,Incorporated place,31.712206,-91.062061,1
+MS,2824740,place:MS:2824740,Fernwood CDP,Fernwood,Fernwood,28113,Pike County,Census-designated place,31.186116,-90.457067,1
+MS,2824940,place:MS:2824940,Flora town,Flora,Flora,28089,Madison County,Incorporated place,32.542729,-90.313703,1
+MS,2824980,place:MS:2824980,Florence city,Florence,Florence,28121,Rankin County,Incorporated place,32.155615,-90.122454,1
+MS,2825100,place:MS:2825100,Flowood city,Flowood,Flowood,28121,Rankin County,Incorporated place,32.336101,-90.072874,1
+MS,2825340,place:MS:2825340,Forest city,Forest,Forest,28123,Scott County,Incorporated place,32.359838,-89.475908,1
+MS,2825740,place:MS:2825740,Foxworth CDP,Foxworth,Foxworth,28091,Marion County,Census-designated place,31.238552,-89.88283,1
+MS,2826020,place:MS:2826020,French Camp town,French Camp,French Camp,28019,Choctaw County,Incorporated place,33.292334,-89.39928,1
+MS,2826060,place:MS:2826060,Friars Point town,Friars Point,Friars Point,28027,Coahoma County,Incorporated place,34.366576,-90.637047,1
+MS,2826300,place:MS:2826300,Fulton city,Fulton,Fulton,28057,Itawamba County,Incorporated place,34.26288,-88.401928,1
+MS,2826780,place:MS:2826780,Gattman village,Gattman,Gattman,28095,Monroe County,Incorporated place,33.884848,-88.236574,1
+MS,2826860,place:MS:2826860,Gautier city,Gautier,Gautier,28059,Jackson County,Incorporated place,30.406214,-88.659341,1
+MS,2826980,place:MS:2826980,Georgetown town,Georgetown,Georgetown,28029,Copiah County,Incorporated place,31.870057,-90.16478,1
+MS,2827540,place:MS:2827540,Glen town,Glen,Glen,28003,Alcorn County,Incorporated place,34.85822,-88.417566,1
+MS,2827580,place:MS:2827580,Glen Allan CDP,Glen Allan,Glen Allan,28151,Washington County,Census-designated place,33.022143,-91.013808,1
+MS,2827620,place:MS:2827620,Glendale CDP,Glendale,Glendale,28035,Forrest County,Census-designated place,31.368016,-89.308628,1
+MS,2827660,place:MS:2827660,Glendora village,Glendora,Glendora,28135,Tallahatchie County,Incorporated place,33.827645,-90.292696,1
+MS,2827820,place:MS:2827820,Gloster town,Gloster,Gloster,28005,Amite County,Incorporated place,31.195066,-91.017679,1
+MS,2827900,place:MS:2827900,Gluckstadt city,Gluckstadt,Gluckstadt,28089,Madison County,Incorporated place,32.526817,-90.098165,1
+MS,2827940,place:MS:2827940,Golden town,Golden,Golden,28141,Tishomingo County,Incorporated place,34.486643,-88.186318,1
+MS,2828220,place:MS:2828220,Goodman town,Goodman,Goodman,28051,Holmes County,Incorporated place,32.968207,-89.912726,1
+MS,2828500,place:MS:2828500,Grace CDP,Grace,Grace,28055,Issaquena County,Census-designated place,32.991436,-90.956893,1
+MS,2829180,place:MS:2829180,Greenville city,Greenville,Greenville,28151,Washington County,Incorporated place,33.38329,-91.052088,1
+MS,2829340,place:MS:2829340,Greenwood city,Greenwood,Greenwood,28083,Leflore County,Incorporated place,33.51246,-90.198963,1
+MS,2829460,place:MS:2829460,Grenada city,Grenada,Grenada,28043,Grenada County,Incorporated place,33.781445,-89.811547,1
+MS,2829620,place:MS:2829620,Gulf Hills CDP,Gulf Hills,Gulf Hills,28059,Jackson County,Census-designated place,30.428606,-88.813134,1
+MS,2829660,place:MS:2829660,Gulf Park Estates CDP,Gulf Park Estates,Gulf Park Estates,28059,Jackson County,Census-designated place,30.379322,-88.758453,1
+MS,2829700,place:MS:2829700,Gulfport city,Gulfport,Gulfport,28047,Harrison County,Incorporated place,30.419487,-89.069022,1
+MS,2829900,place:MS:2829900,Gunnison town,Gunnison,Gunnison,28011,Bolivar County,Incorporated place,33.943114,-90.946644,1
+MS,2829940,place:MS:2829940,Guntown town,Guntown,Guntown,28081,Lee County,Incorporated place,34.445294,-88.665958,1
+MS,2830220,place:MS:2830220,Hamilton CDP,Hamilton,Hamilton,28095,Monroe County,Census-designated place,33.746576,-88.407578,1
+MS,2830780,place:MS:2830780,Harperville CDP,Harperville,Harperville,28123,Scott County,Census-designated place,32.492804,-89.487866,1
+MS,2830980,place:MS:2830980,Hatley town,Hatley,Hatley,28095,Monroe County,Incorporated place,33.977321,-88.418392,1
+MS,2831020,place:MS:2831020,Hattiesburg city,Hattiesburg,Hattiesburg,28035,Forrest County,Incorporated place,31.307305,-89.317434,1
+MS,2831220,place:MS:2831220,Hazlehurst city,Hazlehurst,Hazlehurst,28029,Copiah County,Incorporated place,31.863858,-90.392793,1
+MS,2831420,place:MS:2831420,Heidelberg town,Heidelberg,Heidelberg,28061,Jasper County,Incorporated place,31.890513,-88.990218,1
+MS,2831460,place:MS:2831460,Helena CDP,Helena,Helena,28059,Jackson County,Census-designated place,30.488076,-88.505567,1
+MS,2831540,place:MS:2831540,Henderson Point CDP,Henderson Point,Henderson Point,28047,Harrison County,Census-designated place,30.313959,-89.286165,1
+MS,2831740,place:MS:2831740,Hermanville CDP,Hermanville,Hermanville,28021,Claiborne County,Census-designated place,31.957836,-90.84036,1
+MS,2831780,place:MS:2831780,Hernando city,Hernando,Hernando,28033,DeSoto County,Incorporated place,34.849588,-89.992401,1
+MS,2831980,place:MS:2831980,Hickory town,Hickory,Hickory,28101,Newton County,Incorporated place,32.316704,-89.021735,1
+MS,2832020,place:MS:2832020,Hickory Flat town,Hickory Flat,Hickory Flat,28009,Benton County,Incorporated place,34.615926,-89.191388,1
+MS,2832110,place:MS:2832110,Hide-A-Way Lake CDP,Hide-A-Way Lake,Hide-A-Way Lake,28109,Pearl River County,Census-designated place,30.578646,-89.638574,1
+MS,2832460,place:MS:2832460,Hillsboro CDP,Hillsboro,Hillsboro,28123,Scott County,Census-designated place,32.450997,-89.487196,1
+MS,2832820,place:MS:2832820,Holcomb CDP,Holcomb,Holcomb,28043,Grenada County,Census-designated place,33.764211,-89.973181,1
+MS,2832900,place:MS:2832900,Hollandale city,Hollandale,Hollandale,28151,Washington County,Incorporated place,33.176105,-90.852898,1
+MS,2833100,place:MS:2833100,Holly Springs city,Holly Springs,Holly Springs,28093,Marshall County,Incorporated place,34.778017,-89.445819,1
+MS,2833700,place:MS:2833700,Horn Lake city,Horn Lake,Horn Lake,28033,DeSoto County,Incorporated place,34.952081,-90.049209,1
+MS,2833900,place:MS:2833900,Houston city,Houston,Houston,28017,Chickasaw County,Incorporated place,33.89618,-89.003679,1
+MS,2834340,place:MS:2834340,Hurley CDP,Hurley,Hurley,28059,Jackson County,Census-designated place,30.662715,-88.498689,1
+MS,2834700,place:MS:2834700,Independence CDP,Independence,Independence,28137,Tate County,Census-designated place,34.707776,-89.807518,1
+MS,2834740,place:MS:2834740,Indianola city,Indianola,Indianola,28133,Sunflower County,Incorporated place,33.448896,-90.643752,1
+MS,2835020,place:MS:2835020,Inverness town,Inverness,Inverness,28133,Sunflower County,Incorporated place,33.354229,-90.591192,1
+MS,2835220,place:MS:2835220,Isola town,Isola,Isola,28053,Humphreys County,Incorporated place,33.263404,-90.592342,1
+MS,2835260,place:MS:2835260,Itta Bena city,Itta Bena,Itta Bena,28083,Leflore County,Incorporated place,33.505313,-90.326388,1
+MS,2835300,place:MS:2835300,Iuka city,Iuka,Iuka,28141,Tishomingo County,Incorporated place,34.807384,-88.19692,1
+MS,2835340,place:MS:2835340,Jacinto CDP,Jacinto,Jacinto,28003,Alcorn County,Census-designated place,34.762209,-88.427561,1
+MS,2836000,place:MS:2836000,Jackson city,Jackson,Jackson,28049,Hinds County,Incorporated place,32.315834,-90.21285,1
+MS,2836800,place:MS:2836800,Jonestown town,Jonestown,Jonestown,28027,Coahoma County,Incorporated place,34.322154,-90.454274,1
+MS,2837040,place:MS:2837040,Jumpertown town,Jumpertown,Jumpertown,28117,Prentiss County,Incorporated place,34.706142,-88.667551,1
+MS,2837190,place:MS:2837190,Kearney Park CDP,Kearney Park,Kearney Park,28089,Madison County,Census-designated place,32.590044,-90.3164,1
+MS,2837560,place:MS:2837560,Kilmichael town,Kilmichael,Kilmichael,28097,Montgomery County,Incorporated place,33.440321,-89.559658,1
+MS,2837600,place:MS:2837600,Kiln CDP,Kiln,Kiln,28045,Hancock County,Census-designated place,30.418436,-89.429785,1
+MS,2837840,place:MS:2837840,Kirkville CDP,Kirkville,Kirkville,28057,Itawamba County,Census-designated place,34.44201,-88.485463,1
+MS,2838160,place:MS:2838160,Kokomo CDP,Kokomo,Kokomo,28091,Marion County,Census-designated place,31.203044,-89.997131,1
+MS,2838320,place:MS:2838320,Kosciusko city,Kosciusko,Kosciusko,28007,Attala County,Incorporated place,33.058169,-89.589364,1
+MS,2838360,place:MS:2838360,Kossuth village,Kossuth,Kossuth,28003,Alcorn County,Incorporated place,34.869369,-88.643257,1
+MS,2838600,place:MS:2838600,Lake town,Lake,Lake,28101,Newton County,Incorporated place,32.329992,-89.31435,1
+MS,2838910,place:MS:2838910,Lakeview CDP,Lakeview,Lakeview,28033,DeSoto County,Census-designated place,34.987982,-90.136506,1
+MS,2839000,place:MS:2839000,Lamar CDP,Lamar,Lamar,28009,Benton County,Census-designated place,34.912208,-89.315092,1
+MS,2839080,place:MS:2839080,Lambert town,Lambert,Lambert,28119,Quitman County,Incorporated place,34.200596,-90.284527,1
+MS,2839520,place:MS:2839520,Latimer CDP,Latimer,Latimer,28059,Jackson County,Census-designated place,30.487291,-88.848531,1
+MS,2839600,place:MS:2839600,Lauderdale CDP,Lauderdale,Lauderdale,28075,Lauderdale County,Census-designated place,32.510394,-88.526366,1
+MS,2839640,place:MS:2839640,Laurel city,Laurel,Laurel,28067,Jones County,Incorporated place,31.689866,-89.148281,1
+MS,2839800,place:MS:2839800,Leaf CDP,Leaf,Leaf,28041,Greene County,Census-designated place,31.027546,-88.797998,1
+MS,2839840,place:MS:2839840,Leakesville town,Leakesville,Leakesville,28041,Greene County,Incorporated place,31.149202,-88.555853,1
+MS,2839880,place:MS:2839880,Learned town,Learned,Learned,28049,Hinds County,Incorporated place,32.197122,-90.548009,1
+MS,2840280,place:MS:2840280,Leland city,Leland,Leland,28151,Washington County,Incorporated place,33.404834,-90.890925,1
+MS,2840360,place:MS:2840360,Lena town,Lena,Lena,28079,Leake County,Incorporated place,32.593972,-89.594813,1
+MS,2840600,place:MS:2840600,Lexington city,Lexington,Lexington,28051,Holmes County,Incorporated place,33.11709,-90.049619,1
+MS,2840640,place:MS:2840640,Liberty town,Liberty,Liberty,28005,Amite County,Incorporated place,31.161899,-90.798332,1
+MS,2841680,place:MS:2841680,Long Beach city,Long Beach,Long Beach,28047,Harrison County,Incorporated place,30.354468,-89.162678,1
+MS,2841960,place:MS:2841960,Longview CDP,Longview,Longview,28105,Oktibbeha County,Census-designated place,33.401125,-88.934019,1
+MS,2842200,place:MS:2842200,Louin town,Louin,Louin,28061,Jasper County,Incorporated place,32.075202,-89.273183,1
+MS,2842240,place:MS:2842240,Louise town,Louise,Louise,28053,Humphreys County,Incorporated place,32.981425,-90.590427,1
+MS,2842280,place:MS:2842280,Louisville city,Louisville,Louisville,28159,Winston County,Incorporated place,33.122934,-89.054879,1
+MS,2842440,place:MS:2842440,Lucedale city,Lucedale,Lucedale,28039,George County,Incorporated place,30.931213,-88.595896,1
+MS,2842600,place:MS:2842600,Lula town,Lula,Lula,28027,Coahoma County,Incorporated place,34.45451,-90.477882,1
+MS,2842640,place:MS:2842640,Lumberton city,Lumberton,Lumberton,28073,Lamar County,Incorporated place,31.005866,-89.459013,1
+MS,2842800,place:MS:2842800,Lyman CDP,Lyman,Lyman,28047,Harrison County,Census-designated place,30.507887,-89.130463,1
+MS,2842840,place:MS:2842840,Lynchburg CDP,Lynchburg,Lynchburg,28033,DeSoto County,Census-designated place,34.954941,-90.104933,1
+MS,2842960,place:MS:2842960,Lyon town,Lyon,Lyon,28027,Coahoma County,Incorporated place,34.216925,-90.543195,1
+MS,2842980,place:MS:2842980,Maben town,Maben,Maben,28105,Oktibbeha County,Incorporated place,33.554173,-89.081042,1
+MS,2844240,place:MS:2844240,Macon city,Macon,Macon,28103,Noxubee County,Incorporated place,33.122065,-88.556713,1
+MS,2844520,place:MS:2844520,Madison city,Madison,Madison,28089,Madison County,Incorporated place,32.473884,-90.130865,1
+MS,2844600,place:MS:2844600,Magee city,Magee,Magee,28127,Simpson County,Incorporated place,31.873006,-89.734001,1
+MS,2844680,place:MS:2844680,Magnolia city,Magnolia,Magnolia,28113,Pike County,Incorporated place,31.161161,-90.469529,1
+MS,2844920,place:MS:2844920,Mantachie town,Mantachie,Mantachie,28057,Itawamba County,Incorporated place,34.321343,-88.502565,1
+MS,2844960,place:MS:2844960,Mantee village,Mantee,Mantee,28155,Webster County,Incorporated place,33.717378,-89.058617,1
+MS,2845120,place:MS:2845120,Marietta town,Marietta,Marietta,28117,Prentiss County,Incorporated place,34.499971,-88.472578,1
+MS,2845160,place:MS:2845160,Marion town,Marion,Marion,28075,Lauderdale County,Incorporated place,32.430234,-88.651807,1
+MS,2845240,place:MS:2845240,Marks city,Marks,Marks,28119,Quitman County,Incorporated place,34.253521,-90.272218,1
+MS,2845720,place:MS:2845720,Mathiston town,Mathiston,Mathiston,28155,Webster County,Incorporated place,33.538877,-89.12589,1
+MS,2846000,place:MS:2846000,Mayersville town,Mayersville,Mayersville,28055,Issaquena County,Incorporated place,32.896409,-91.046676,1
+MS,2843280,place:MS:2843280,McComb city,McComb,McComb,28113,Pike County,Incorporated place,31.244474,-90.471593,1
+MS,2843400,place:MS:2843400,McCool town,McCool,McCool,28007,Attala County,Incorporated place,33.198855,-89.340651,1
+MS,2843840,place:MS:2843840,McLain town,McLain,McLain,28041,Greene County,Incorporated place,31.095543,-88.822378,1
+MS,2846200,place:MS:2846200,Meadville town,Meadville,Meadville,28037,Franklin County,Incorporated place,31.471207,-90.89215,1
+MS,2846600,place:MS:2846600,Mendenhall city,Mendenhall,Mendenhall,28127,Simpson County,Incorporated place,31.9607,-89.869483,1
+MS,2846640,place:MS:2846640,Meridian city,Meridian,Meridian,28075,Lauderdale County,Incorporated place,32.38417,-88.689448,1
+MS,2846680,place:MS:2846680,Meridian Station CDP,Meridian Station,Meridian Station,28075,Lauderdale County,Census-designated place,32.548645,-88.607414,1
+MS,2846720,place:MS:2846720,Merigold town,Merigold,Merigold,28011,Bolivar County,Incorporated place,33.839143,-90.726393,1
+MS,2846880,place:MS:2846880,Metcalfe town,Metcalfe,Metcalfe,28151,Washington County,Incorporated place,33.45059,-91.001831,1
+MS,2848030,place:MS:2848030,Mississippi State CDP,Mississippi State,Mississippi State,28105,Oktibbeha County,Census-designated place,33.451032,-88.791786,1
+MS,2848120,place:MS:2848120,Mississippi Valley State University CDP,Mississippi Valley State University,Mississippi Valley State University,28083,Leflore County,Census-designated place,33.517282,-90.344437,1
+MS,2848240,place:MS:2848240,Mize town,Mize,Mize,28129,Smith County,Incorporated place,31.866425,-89.554157,1
+MS,2848560,place:MS:2848560,Monticello town,Monticello,Monticello,28077,Lawrence County,Incorporated place,31.553242,-90.118674,1
+MS,2848640,place:MS:2848640,Montrose town,Montrose,Montrose,28061,Jasper County,Incorporated place,32.125665,-89.234386,1
+MS,2848720,place:MS:2848720,Mooreville CDP,Mooreville,Mooreville,28081,Lee County,Census-designated place,34.264896,-88.576868,1
+MS,2848760,place:MS:2848760,Moorhead city,Moorhead,Moorhead,28133,Sunflower County,Incorporated place,33.449416,-90.50627,1
+MS,2848800,place:MS:2848800,Morgan City town,Morgan City,Morgan City,28083,Leflore County,Incorporated place,33.378651,-90.346163,1
+MS,2848880,place:MS:2848880,Morgantown CDP,Morgantown,Morgantown,28001,Adams County,Census-designated place,31.575019,-91.352105,1
+MS,2849080,place:MS:2849080,Morton city,Morton,Morton,28123,Scott County,Incorporated place,32.345528,-89.659145,1
+MS,2849160,place:MS:2849160,Moselle CDP,Moselle,Moselle,28067,Jones County,Census-designated place,31.508669,-89.282407,1
+MS,2849240,place:MS:2849240,Moss Point city,Moss Point,Moss Point,28059,Jackson County,Incorporated place,30.425873,-88.532639,1
+MS,2849320,place:MS:2849320,Mound Bayou city,Mound Bayou,Mound Bayou,28011,Bolivar County,Incorporated place,33.881504,-90.728352,1
+MS,2849520,place:MS:2849520,Mount Olive town,Mount Olive,Mount Olive,28031,Covington County,Incorporated place,31.753807,-89.655945,1
+MS,2849640,place:MS:2849640,Mount Pleasant CDP,Mount Pleasant,Mount Pleasant,28093,Marshall County,Census-designated place,34.953977,-89.525599,1
+MS,2850280,place:MS:2850280,Myrtle town,Myrtle,Myrtle,28145,Union County,Incorporated place,34.560519,-89.117865,1
+MS,2850440,place:MS:2850440,Natchez city,Natchez,Natchez,28001,Adams County,Incorporated place,31.542438,-91.385649,1
+MS,2850720,place:MS:2850720,Nellieburg CDP,Nellieburg,Nellieburg,28075,Lauderdale County,Census-designated place,32.396965,-88.780029,1
+MS,2850880,place:MS:2850880,Nettleton city,Nettleton,Nettleton,28095,Monroe County,Incorporated place,34.08307,-88.626297,1
+MS,2851000,place:MS:2851000,New Albany city,New Albany,New Albany,28145,Union County,Incorporated place,34.492286,-89.02172,1
+MS,2851040,place:MS:2851040,New Augusta town,New Augusta,New Augusta,28111,Perry County,Incorporated place,31.203377,-89.029338,1
+MS,2851240,place:MS:2851240,New Hamilton CDP,New Hamilton,New Hamilton,28095,Monroe County,Census-designated place,33.747084,-88.442871,1
+MS,2851360,place:MS:2851360,New Hebron town,New Hebron,New Hebron,28077,Lawrence County,Incorporated place,31.733219,-89.983326,1
+MS,2851400,place:MS:2851400,New Hope CDP,New Hope,New Hope,28087,Lowndes County,Census-designated place,33.457264,-88.34318,1
+MS,2851420,place:MS:2851420,New Houlka town,New Houlka,New Houlka,28017,Chickasaw County,Incorporated place,34.03625,-89.021079,1
+MS,2851680,place:MS:2851680,New Site CDP,New Site,New Site,28117,Prentiss County,Census-designated place,34.555252,-88.415315,1
+MS,2851720,place:MS:2851720,Newton city,Newton,Newton,28101,Newton County,Incorporated place,32.330112,-89.147528,1
+MS,2851840,place:MS:2851840,Nicholson CDP,Nicholson,Nicholson,28109,Pearl River County,Census-designated place,30.489043,-89.696101,1
+MS,2851960,place:MS:2851960,Nitta Yuma CDP,Nitta Yuma,Nitta Yuma,28125,Sharkey County,Census-designated place,33.023622,-90.848748,1
+MS,2852400,place:MS:2852400,North Carrollton town,North Carrollton,North Carrollton,28015,Carroll County,Incorporated place,33.518634,-89.9194,1
+MS,2852680,place:MS:2852680,North Tunica CDP,North Tunica,North Tunica,28143,Tunica County,Census-designated place,34.703061,-90.379715,1
+MS,2852880,place:MS:2852880,Noxapater town,Noxapater,Noxapater,28159,Winston County,Incorporated place,32.993583,-89.063532,1
+MS,2853080,place:MS:2853080,Oak Grove CDP,Oak Grove,Oak Grove,28073,Lamar County,Census-designated place,31.28674,-89.414491,1
+MS,2853200,place:MS:2853200,Oakland town,Oakland,Oakland,28161,Yalobusha County,Incorporated place,34.057581,-89.913225,1
+MS,2853520,place:MS:2853520,Ocean Springs city,Ocean Springs,Ocean Springs,28059,Jackson County,Incorporated place,30.402704,-88.788647,1
+MS,2853680,place:MS:2853680,Okolona city,Okolona,Okolona,28017,Chickasaw County,Incorporated place,34.005061,-88.747692,1
+MS,2854040,place:MS:2854040,Olive Branch city,Olive Branch,Olive Branch,28033,DeSoto County,Incorporated place,34.95578,-89.841185,1
+MS,2854640,place:MS:2854640,Osyka town,Osyka,Osyka,28113,Pike County,Incorporated place,31.007316,-90.471131,1
+MS,2854680,place:MS:2854680,Ovett CDP,Ovett,Ovett,28067,Jones County,Census-designated place,31.488576,-89.025274,1
+MS,2854840,place:MS:2854840,Oxford city,Oxford,Oxford,28071,Lafayette County,Incorporated place,34.351262,-89.536981,1
+MS,2854920,place:MS:2854920,Pace town,Pace,Pace,28011,Bolivar County,Incorporated place,33.792246,-90.85914,1
+MS,2854960,place:MS:2854960,Pachuta village,Pachuta,Pachuta,28023,Clarke County,Incorporated place,32.044108,-88.884393,1
+MS,2855000,place:MS:2855000,Paden village,Paden,Paden,28141,Tishomingo County,Incorporated place,34.660276,-88.260508,1
+MS,2855160,place:MS:2855160,Panther Burn CDP,Panther Burn,Panther Burn,28125,Sharkey County,Census-designated place,33.06585,-90.872624,1
+MS,2855280,place:MS:2855280,Paris CDP,Paris,Paris,28071,Lafayette County,Census-designated place,34.174836,-89.451776,1
+MS,2855360,place:MS:2855360,Pascagoula city,Pascagoula,Pascagoula,28059,Jackson County,Incorporated place,30.360067,-88.556327,1
+MS,2855400,place:MS:2855400,Pass Christian city,Pass Christian,Pass Christian,28047,Harrison County,Incorporated place,30.318029,-89.239082,1
+MS,2855560,place:MS:2855560,Pattison CDP,Pattison,Pattison,28021,Claiborne County,Census-designated place,31.890824,-90.883921,1
+MS,2855760,place:MS:2855760,Pearl city,Pearl,Pearl,28121,Rankin County,Incorporated place,32.271347,-90.093698,1
+MS,2855930,place:MS:2855930,Pearl River CDP,Pearl River,Pearl River,28099,Neshoba County,Census-designated place,32.796878,-89.240905,1
+MS,2855920,place:MS:2855920,Pearlington CDP,Pearlington,Pearlington,28045,Hancock County,Census-designated place,30.250762,-89.604897,1
+MS,2856200,place:MS:2856200,Pelahatchie town,Pelahatchie,Pelahatchie,28121,Rankin County,Incorporated place,32.320903,-89.807951,1
+MS,2856800,place:MS:2856800,Petal city,Petal,Petal,28035,Forrest County,Incorporated place,31.34817,-89.235131,1
+MS,2856920,place:MS:2856920,Pheba CDP,Pheba,Pheba,28025,Clay County,Census-designated place,33.583656,-88.949397,1
+MS,2856960,place:MS:2856960,Philadelphia city,Philadelphia,Philadelphia,28099,Neshoba County,Incorporated place,32.775106,-89.122045,1
+MS,2857160,place:MS:2857160,Picayune city,Picayune,Picayune,28109,Pearl River County,Incorporated place,30.53082,-89.670628,1
+MS,2857200,place:MS:2857200,Pickens town,Pickens,Pickens,28051,Holmes County,Incorporated place,32.891331,-89.968785,1
+MS,2858360,place:MS:2858360,Pittsboro village,Pittsboro,Pittsboro,28013,Calhoun County,Incorporated place,33.940002,-89.337291,1
+MS,2858440,place:MS:2858440,Plantersville town,Plantersville,Plantersville,28081,Lee County,Incorporated place,34.208169,-88.665435,1
+MS,2858960,place:MS:2858960,Polkville town,Polkville,Polkville,28129,Smith County,Incorporated place,32.190936,-89.695976,1
+MS,2859160,place:MS:2859160,Pontotoc city,Pontotoc,Pontotoc,28115,Pontotoc County,Incorporated place,34.257612,-89.009507,1
+MS,2859240,place:MS:2859240,Pope village,Pope,Pope,28107,Panola County,Incorporated place,34.215775,-89.944792,1
+MS,2859480,place:MS:2859480,Poplarville city,Poplarville,Poplarville,28109,Pearl River County,Incorporated place,30.839936,-89.53042,1
+MS,2859560,place:MS:2859560,Port Gibson city,Port Gibson,Port Gibson,28021,Claiborne County,Incorporated place,31.955816,-90.983438,1
+MS,2859520,place:MS:2859520,Porterville CDP,Porterville,Porterville,28069,Kemper County,Census-designated place,32.685429,-88.471271,1
+MS,2859720,place:MS:2859720,Potts Camp town,Potts Camp,Potts Camp,28093,Marshall County,Incorporated place,34.649188,-89.306424,1
+MS,2859920,place:MS:2859920,Prentiss town,Prentiss,Prentiss,28065,Jefferson Davis County,Incorporated place,31.599464,-89.874654,1
+MS,2860360,place:MS:2860360,Puckett village,Puckett,Puckett,28121,Rankin County,Incorporated place,32.086831,-89.781689,1
+MS,2860480,place:MS:2860480,Purvis city,Purvis,Purvis,28073,Lamar County,Incorporated place,31.146366,-89.406281,1
+MS,2860720,place:MS:2860720,Quitman city,Quitman,Quitman,28023,Clarke County,Incorporated place,32.04152,-88.720518,1
+MS,2860840,place:MS:2860840,Raleigh town,Raleigh,Raleigh,28129,Smith County,Incorporated place,32.034662,-89.525703,1
+MS,2860880,place:MS:2860880,Randolph CDP,Randolph,Randolph,28115,Pontotoc County,Census-designated place,34.181328,-89.161628,1
+MS,2861080,place:MS:2861080,Rawls Springs CDP,Rawls Springs,Rawls Springs,28035,Forrest County,Census-designated place,31.383398,-89.386531,1
+MS,2861160,place:MS:2861160,Raymond city,Raymond,Raymond,28049,Hinds County,Incorporated place,32.260966,-90.409023,1
+MS,2861240,place:MS:2861240,Red Banks CDP,Red Banks,Red Banks,28093,Marshall County,Census-designated place,34.834689,-89.563407,1
+MS,2861400,place:MS:2861400,Redwater CDP,Redwater,Redwater,28079,Leake County,Census-designated place,32.789591,-89.558616,1
+MS,2861440,place:MS:2861440,Redwood CDP,Redwood,Redwood,28149,Warren County,Census-designated place,32.473469,-90.79685,1
+MS,2861840,place:MS:2861840,Rena Lara CDP,Rena Lara,Rena Lara,28027,Coahoma County,Census-designated place,34.158765,-90.774874,1
+MS,2861890,place:MS:2861890,Renova town,Renova,Renova,28011,Bolivar County,Incorporated place,33.780475,-90.723195,1
+MS,2862400,place:MS:2862400,Richland city,Richland,Richland,28121,Rankin County,Incorporated place,32.230413,-90.159622,1
+MS,2862480,place:MS:2862480,Richton town,Richton,Richton,28111,Perry County,Incorporated place,31.34948,-88.940739,1
+MS,2862520,place:MS:2862520,Ridgeland city,Ridgeland,Ridgeland,28089,Madison County,Incorporated place,32.423676,-90.161773,1
+MS,2862560,place:MS:2862560,Rienzi town,Rienzi,Rienzi,28003,Alcorn County,Incorporated place,34.763317,-88.533973,1
+MS,2862600,place:MS:2862600,Ripley city,Ripley,Ripley,28139,Tippah County,Incorporated place,34.735744,-88.935733,1
+MS,2862900,place:MS:2862900,Robinhood CDP,Robinhood,Robinhood,28121,Rankin County,Census-designated place,32.200396,-89.96733,1
+MS,2863560,place:MS:2863560,Rolling Fork city,Rolling Fork,Rolling Fork,28125,Sharkey County,Incorporated place,32.907304,-90.876907,1
+MS,2863720,place:MS:2863720,Rosedale city,Rosedale,Rosedale,28011,Bolivar County,Incorporated place,33.860221,-91.043531,1
+MS,2864080,place:MS:2864080,Roxie town,Roxie,Roxie,28037,Franklin County,Incorporated place,31.507676,-91.071036,1
+MS,2864200,place:MS:2864200,Ruleville city,Ruleville,Ruleville,28133,Sunflower County,Incorporated place,33.72491,-90.550317,1
+MS,2864240,place:MS:2864240,Runnelstown CDP,Runnelstown,Runnelstown,28111,Perry County,Census-designated place,31.377849,-89.114268,1
+MS,2864800,place:MS:2864800,Sallis town,Sallis,Sallis,28007,Attala County,Incorporated place,33.021552,-89.764736,1
+MS,2864840,place:MS:2864840,Saltillo city,Saltillo,Saltillo,28081,Lee County,Incorporated place,34.380293,-88.696217,1
+MS,2864920,place:MS:2864920,Sandersville town,Sandersville,Sandersville,28067,Jones County,Incorporated place,31.784016,-89.039758,1
+MS,2865560,place:MS:2865560,Sardis town,Sardis,Sardis,28107,Panola County,Incorporated place,34.435505,-89.911362,1
+MS,2865680,place:MS:2865680,Satartia village,Satartia,Satartia,28163,Yazoo County,Incorporated place,32.671959,-90.544522,1
+MS,2865720,place:MS:2865720,Saucier CDP,Saucier,Saucier,28047,Harrison County,Census-designated place,30.620874,-89.142271,1
+MS,2866080,place:MS:2866080,Schlater town,Schlater,Schlater,28083,Leflore County,Incorporated place,33.639707,-90.349361,1
+MS,2866160,place:MS:2866160,Scooba town,Scooba,Scooba,28069,Kemper County,Incorporated place,32.830179,-88.477118,1
+MS,2866240,place:MS:2866240,Scott CDP,Scott,Scott,28011,Bolivar County,Census-designated place,33.594467,-91.076023,1
+MS,2866280,place:MS:2866280,Sebastopol town,Sebastopol,Sebastopol,28123,Scott County,Incorporated place,32.567925,-89.333992,1
+MS,2866400,place:MS:2866400,Seminary town,Seminary,Seminary,28031,Covington County,Incorporated place,31.557706,-89.499311,1
+MS,2866440,place:MS:2866440,Senatobia city,Senatobia,Senatobia,28137,Tate County,Incorporated place,34.60865,-89.980994,1
+MS,2866720,place:MS:2866720,Shannon town,Shannon,Shannon,28081,Lee County,Incorporated place,34.114416,-88.693131,1
+MS,2866840,place:MS:2866840,Sharon CDP,Sharon,Sharon,28067,Jones County,Census-designated place,31.795475,-89.092938,1
+MS,2867000,place:MS:2867000,Shaw city,Shaw,Shaw,28011,Bolivar County,Incorporated place,33.601492,-90.771987,1
+MS,2867040,place:MS:2867040,Shelby city,Shelby,Shelby,28011,Bolivar County,Incorporated place,33.950528,-90.765091,1
+MS,2867200,place:MS:2867200,Sherman town,Sherman,Sherman,28115,Pontotoc County,Incorporated place,34.36117,-88.838744,1
+MS,2867520,place:MS:2867520,Shubuta town,Shubuta,Shubuta,28023,Clarke County,Incorporated place,31.862036,-88.702051,1
+MS,2867640,place:MS:2867640,Shuqualak town,Shuqualak,Shuqualak,28103,Noxubee County,Incorporated place,32.979281,-88.569299,1
+MS,2867840,place:MS:2867840,Sidon town,Sidon,Sidon,28083,Leflore County,Incorporated place,33.407931,-90.208077,1
+MS,2867920,place:MS:2867920,Silver City town,Silver City,Silver City,28053,Humphreys County,Incorporated place,33.093691,-90.499024,1
+MS,2867960,place:MS:2867960,Silver Creek town,Silver Creek,Silver Creek,28077,Lawrence County,Incorporated place,31.604792,-90.002316,1
+MS,2868200,place:MS:2868200,Skene CDP,Skene,Skene,28011,Bolivar County,Census-designated place,33.703989,-90.797405,1
+MS,2868320,place:MS:2868320,Slate Springs village,Slate Springs,Slate Springs,28013,Calhoun County,Incorporated place,33.741713,-89.375167,1
+MS,2868400,place:MS:2868400,Sledge town,Sledge,Sledge,28119,Quitman County,Incorporated place,34.432632,-90.221177,1
+MS,2868720,place:MS:2868720,Smithville town,Smithville,Smithville,28095,Monroe County,Incorporated place,34.067963,-88.398154,1
+MS,2868960,place:MS:2868960,Snow Lake Shores town,Snow Lake Shores,Snow Lake Shores,28009,Benton County,Incorporated place,34.821253,-89.23813,1
+MS,2869160,place:MS:2869160,Soso town,Soso,Soso,28067,Jones County,Incorporated place,31.75028,-89.276873,1
+MS,2869280,place:MS:2869280,Southaven city,Southaven,Southaven,28033,DeSoto County,Incorporated place,34.951873,-89.976787,1
+MS,2864680,place:MS:2864680,St. Martin CDP,St. Martin,St. Martin,28059,Jackson County,Census-designated place,30.438052,-88.861742,1
+MS,2870120,place:MS:2870120,Standing Pine CDP,Standing Pine,Standing Pine,28079,Leake County,Census-designated place,32.671027,-89.452088,1
+MS,2870240,place:MS:2870240,Starkville city,Starkville,Starkville,28105,Oktibbeha County,Incorporated place,33.463261,-88.827796,1
+MS,2870320,place:MS:2870320,State Line town,State Line,State Line,28153,Wayne County,Incorporated place,31.436095,-88.473477,1
+MS,2870640,place:MS:2870640,Stewart CDP,Stewart,Stewart,28097,Montgomery County,Census-designated place,33.451888,-89.437548,1
+MS,2870720,place:MS:2870720,Stoneville CDP,Stoneville,Stoneville,28151,Washington County,Census-designated place,33.423804,-90.921629,1
+MS,2870760,place:MS:2870760,Stonewall town,Stonewall,Stonewall,28023,Clarke County,Incorporated place,32.134983,-88.797408,1
+MS,2871040,place:MS:2871040,Strayhorn CDP,Strayhorn,Strayhorn,28137,Tate County,Census-designated place,34.615896,-90.152566,1
+MS,2871320,place:MS:2871320,Sturgis town,Sturgis,Sturgis,28105,Oktibbeha County,Incorporated place,33.345164,-89.045773,1
+MS,2871480,place:MS:2871480,Summit town,Summit,Summit,28113,Pike County,Incorporated place,31.280815,-90.466977,1
+MS,2871520,place:MS:2871520,Sumner town,Sumner,Sumner,28135,Tallahatchie County,Incorporated place,33.969317,-90.369275,1
+MS,2871560,place:MS:2871560,Sumrall town,Sumrall,Sumrall,28073,Lamar County,Incorporated place,31.417028,-89.541777,1
+MS,2871600,place:MS:2871600,Sunflower town,Sunflower,Sunflower,28133,Sunflower County,Incorporated place,33.544296,-90.537289,1
+MS,2872040,place:MS:2872040,Sylvarena village,Sylvarena,Sylvarena,28129,Smith County,Incorporated place,32.014376,-89.381796,1
+MS,2872080,place:MS:2872080,Symonds CDP,Symonds,Symonds,28011,Bolivar County,Census-designated place,33.833929,-90.889524,1
+MS,2872360,place:MS:2872360,Taylor village,Taylor,Taylor,28071,Lafayette County,Incorporated place,34.269742,-89.583686,1
+MS,2872400,place:MS:2872400,Taylorsville town,Taylorsville,Taylorsville,28129,Smith County,Incorporated place,31.832174,-89.433973,1
+MS,2872440,place:MS:2872440,Tchula town,Tchula,Tchula,28051,Holmes County,Incorporated place,33.183181,-90.222848,1
+MS,2872680,place:MS:2872680,Terry town,Terry,Terry,28049,Hinds County,Incorporated place,32.106057,-90.292595,1
+MS,2872760,place:MS:2872760,Thaxton town,Thaxton,Thaxton,28115,Pontotoc County,Incorporated place,34.302905,-89.171737,1
+MS,2873440,place:MS:2873440,Tillatoba town,Tillatoba,Tillatoba,28161,Yalobusha County,Incorporated place,33.985086,-89.89606,1
+MS,2873720,place:MS:2873720,Tishomingo town,Tishomingo,Tishomingo,28141,Tishomingo County,Incorporated place,34.638284,-88.229144,1
+MS,2873760,place:MS:2873760,Toccopola town,Toccopola,Toccopola,28115,Pontotoc County,Incorporated place,34.257164,-89.211949,1
+MS,2873880,place:MS:2873880,Toomsuba CDP,Toomsuba,Toomsuba,28075,Lauderdale County,Census-designated place,32.430282,-88.507088,1
+MS,2874400,place:MS:2874400,Tremont town,Tremont,Tremont,28057,Itawamba County,Incorporated place,34.233728,-88.248936,1
+MS,2874675,place:MS:2874675,Tucker CDP,Tucker,Tucker,28099,Neshoba County,Census-designated place,32.707871,-89.049265,1
+MS,2874720,place:MS:2874720,Tula CDP,Tula,Tula,28071,Lafayette County,Census-designated place,34.237174,-89.368423,1
+MS,2874760,place:MS:2874760,Tunica town,Tunica,Tunica,28143,Tunica County,Incorporated place,34.688137,-90.380937,1
+MS,2874820,place:MS:2874820,Tunica Resorts CDP,Tunica Resorts,Tunica Resorts,28143,Tunica County,Census-designated place,34.824186,-90.321189,1
+MS,2874840,place:MS:2874840,Tupelo city,Tupelo,Tupelo,28081,Lee County,Incorporated place,34.270604,-88.732455,1
+MS,2875040,place:MS:2875040,Tutwiler town,Tutwiler,Tutwiler,28135,Tallahatchie County,Incorporated place,34.01718,-90.433339,1
+MS,2875160,place:MS:2875160,Tylertown town,Tylertown,Tylertown,28147,Walthall County,Incorporated place,31.1172,-90.144851,1
+MS,2875360,place:MS:2875360,Union town,Union,Union,28101,Newton County,Incorporated place,32.571128,-89.115203,1
+MS,2875520,place:MS:2875520,University CDP,University,University,28071,Lafayette County,Census-designated place,34.365529,-89.537871,1
+MS,2875760,place:MS:2875760,Utica town,Utica,Utica,28049,Hinds County,Incorporated place,32.107254,-90.622234,1
+MS,2875880,place:MS:2875880,Vaiden town,Vaiden,Vaiden,28015,Carroll County,Incorporated place,33.332523,-89.752603,1
+MS,2876040,place:MS:2876040,Valley Park CDP,Valley Park,Valley Park,28055,Issaquena County,Census-designated place,32.631404,-90.850731,1
+MS,2876240,place:MS:2876240,Van Vleet CDP,Van Vleet,Van Vleet,28017,Chickasaw County,Census-designated place,33.983217,-88.89717,1
+MS,2876200,place:MS:2876200,Vancleave CDP,Vancleave,Vancleave,28059,Jackson County,Census-designated place,30.545918,-88.673409,1
+MS,2876320,place:MS:2876320,Vardaman town,Vardaman,Vardaman,28013,Calhoun County,Incorporated place,33.882195,-89.177796,1
+MS,2876560,place:MS:2876560,Verona city,Verona,Verona,28081,Lee County,Incorporated place,34.18969,-88.720503,1
+MS,2876720,place:MS:2876720,Vicksburg city,Vicksburg,Vicksburg,28149,Warren County,Incorporated place,32.322042,-90.881528,1
+MS,2876760,place:MS:2876760,Victoria CDP,Victoria,Victoria,28093,Marshall County,Census-designated place,34.838995,-89.61542,1
+MS,2877080,place:MS:2877080,Wade CDP,Wade,Wade,28059,Jackson County,Census-designated place,30.629681,-88.555842,1
+MS,2877400,place:MS:2877400,Walls town,Walls,Walls,28033,DeSoto County,Incorporated place,34.925631,-90.16325,1
+MS,2877480,place:MS:2877480,Walnut town,Walnut,Walnut,28139,Tippah County,Incorporated place,34.949671,-88.924455,1
+MS,2877520,place:MS:2877520,Walnut Grove town,Walnut Grove,Walnut Grove,28079,Leake County,Incorporated place,32.593169,-89.457826,1
+MS,2877640,place:MS:2877640,Walthall village,Walthall,Walthall,28155,Webster County,Incorporated place,33.607243,-89.27919,1
+MS,2878000,place:MS:2878000,Water Valley city,Water Valley,Water Valley,28161,Yalobusha County,Incorporated place,34.16199,-89.63012,1
+MS,2877880,place:MS:2877880,Waterford CDP,Waterford,Waterford,28093,Marshall County,Census-designated place,34.649436,-89.457547,1
+MS,2878200,place:MS:2878200,Waveland city,Waveland,Waveland,28045,Hancock County,Incorporated place,30.296336,-89.393296,1
+MS,2878360,place:MS:2878360,Waynesboro city,Waynesboro,Waynesboro,28153,Wayne County,Incorporated place,31.677557,-88.63384,1
+MS,2878480,place:MS:2878480,Webb town,Webb,Webb,28135,Tallahatchie County,Incorporated place,33.947746,-90.346332,1
+MS,2878520,place:MS:2878520,Weir town,Weir,Weir,28019,Choctaw County,Incorporated place,33.261359,-89.295345,1
+MS,2878640,place:MS:2878640,Wesson town,Wesson,Wesson,28029,Copiah County,Incorporated place,31.69993,-90.395042,1
+MS,2878680,place:MS:2878680,West town,West,West,28051,Holmes County,Incorporated place,33.197767,-89.782106,1
+MS,2878890,place:MS:2878890,West Hattiesburg CDP,West Hattiesburg,West Hattiesburg,28073,Lamar County,Census-designated place,31.309957,-89.377151,1
+MS,2879120,place:MS:2879120,West Point city,West Point,West Point,28025,Clay County,Incorporated place,33.606236,-88.657568,1
+MS,2879280,place:MS:2879280,Wheeler CDP,Wheeler,Wheeler,28117,Prentiss County,Census-designated place,34.583662,-88.602478,1
+MS,2879620,place:MS:2879620,White Oak CDP,White Oak,White Oak,28143,Tunica County,Census-designated place,34.643868,-90.349435,1
+MS,2880160,place:MS:2880160,Wiggins city,Wiggins,Wiggins,28131,Stone County,Incorporated place,30.856048,-89.138981,1
+MS,2880760,place:MS:2880760,Winona city,Winona,Winona,28097,Montgomery County,Incorporated place,33.490256,-89.729287,1
+MS,2880800,place:MS:2880800,Winstonville town,Winstonville,Winstonville,28011,Bolivar County,Incorporated place,33.912292,-90.752884,1
+MS,2880840,place:MS:2880840,Winterville CDP,Winterville,Winterville,28151,Washington County,Census-designated place,33.502352,-91.060278,1
+MS,2881000,place:MS:2881000,Woodland village,Woodland,Woodland,28017,Chickasaw County,Incorporated place,33.779675,-89.05069,1
+MS,2881120,place:MS:2881120,Woodville town,Woodville,Woodville,28157,Wilkinson County,Incorporated place,31.102891,-91.299257,1
+MS,2881520,place:MS:2881520,Yazoo City city,Yazoo City,Yazoo City,28163,Yazoo County,Incorporated place,32.862219,-90.407996,1

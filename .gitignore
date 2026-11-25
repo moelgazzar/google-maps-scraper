@@ -1,0 +1,16 @@
+.runtime/
+inbox/
+runs/
+__pycache__/
+.env
+.env.*
+!.env.apify.example
+.secrets/
+Campaigns/
+state/
+.DS_Store
+._*
+.venv/
+.pytest_cache/
+*.sqlite3*
+*.log

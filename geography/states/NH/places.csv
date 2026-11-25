@@ -1,0 +1,101 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+NH,3300980,place:NH:3300980,Alton CDP,Alton,Alton,33001,Belknap County,Census-designated place,43.456398,-71.222338,1
+NH,3301220,place:NH:3301220,Amherst CDP,Amherst,Amherst,33011,Hillsborough County,Census-designated place,42.863576,-71.623821,1
+NH,3301620,place:NH:3301620,Antrim CDP,Antrim,Antrim,33011,Hillsborough County,Census-designated place,43.044018,-71.951029,1
+NH,3301940,place:NH:3301940,Ashland CDP,Ashland,Ashland,33009,Grafton County,Census-designated place,43.695909,-71.634771,1
+NH,3303620,place:NH:3303620,Bartlett CDP,Bartlett,Bartlett,33003,Carroll County,Census-designated place,44.067892,-71.281166,1
+NH,3304660,place:NH:3304660,Belmont CDP,Belmont,Belmont,33001,Belknap County,Census-designated place,43.440509,-71.478867,1
+NH,3304820,place:NH:3304820,Bennington CDP,Bennington,Bennington,33011,Hillsborough County,Census-designated place,43.003518,-71.920702,1
+NH,3305140,place:NH:3305140,Berlin city,Berlin,Berlin,33007,Coos County,Incorporated place,44.484328,-71.277123,1
+NH,3305380,place:NH:3305380,Bethlehem CDP,Bethlehem,Bethlehem,33009,Grafton County,Census-designated place,44.278736,-71.689024,1
+NH,3306020,place:NH:3306020,Blodgett Landing CDP,Blodgett Landing,Blodgett Landing,33013,Merrimack County,Census-designated place,43.375638,-72.039241,1
+NH,3306900,place:NH:3306900,Bradford CDP,Bradford,Bradford,33013,Merrimack County,Census-designated place,43.271713,-71.961816,1
+NH,3307620,place:NH:3307620,Bristol CDP,Bristol,Bristol,33009,Grafton County,Census-designated place,43.603332,-71.734172,1
+NH,3308900,place:NH:3308900,Canaan CDP,Canaan,Canaan,33009,Grafton County,Census-designated place,43.650306,-72.015956,1
+NH,3310820,place:NH:3310820,Center Ossipee CDP,Center Ossipee,Center Ossipee,33003,Carroll County,Census-designated place,43.754212,-71.150814,1
+NH,3310900,place:NH:3310900,Center Sandwich CDP,Center Sandwich,Center Sandwich,33003,Carroll County,Census-designated place,43.811951,-71.441441,1
+NH,3311300,place:NH:3311300,Charlestown CDP,Charlestown,Charlestown,33019,Sullivan County,Census-designated place,43.235548,-72.422511,1
+NH,3312900,place:NH:3312900,Claremont city,Claremont,Claremont,33019,Sullivan County,Incorporated place,43.38647,-72.334496,1
+NH,3313700,place:NH:3313700,Colebrook CDP,Colebrook,Colebrook,33007,Coos County,Census-designated place,44.894949,-71.494433,1
+NH,3314200,place:NH:3314200,Concord city,Concord,Concord,33013,Merrimack County,Incorporated place,43.232493,-71.561252,1
+NH,3314340,place:NH:3314340,Contoocook CDP,Contoocook,Contoocook,33013,Merrimack County,Census-designated place,43.230669,-71.713132,1
+NH,3314580,place:NH:3314580,Conway CDP,Conway,Conway,33003,Carroll County,Census-designated place,43.986651,-71.120357,1
+NH,3317860,place:NH:3317860,Derry CDP,Derry,Derry,33015,Rockingham County,Census-designated place,42.887614,-71.282047,1
+NH,3318820,place:NH:3318820,Dover city,Dover,Dover,33017,Strafford County,Incorporated place,43.18636,-70.883623,1
+NH,3319620,place:NH:3319620,Durham CDP,Durham,Durham,33017,Strafford County,Census-designated place,43.142752,-70.925002,1
+NH,3321780,place:NH:3321780,East Merrimack CDP,East Merrimack,East Merrimack,33011,Hillsborough County,Census-designated place,42.871999,-71.481062,1
+NH,3324260,place:NH:3324260,Enfield CDP,Enfield,Enfield,33009,Grafton County,Census-designated place,43.6438,-72.146872,1
+NH,3324580,place:NH:3324580,Epping CDP,Epping,Epping,33015,Rockingham County,Census-designated place,43.034896,-71.098414,1
+NH,3325300,place:NH:3325300,Exeter CDP,Exeter,Exeter,33015,Rockingham County,Census-designated place,42.977159,-70.945352,1
+NH,3325940,place:NH:3325940,Farmington CDP,Farmington,Farmington,33017,Strafford County,Census-designated place,43.399424,-71.072384,1
+NH,3327060,place:NH:3327060,Francestown CDP,Francestown,Francestown,33011,Hillsborough County,Census-designated place,42.989413,-71.814072,1
+NH,3327380,place:NH:3327380,Franklin city,Franklin,Franklin,33013,Merrimack County,Incorporated place,43.453915,-71.669893,1
+NH,3329780,place:NH:3329780,Goffstown CDP,Goffstown,Goffstown,33011,Hillsborough County,Census-designated place,43.022734,-71.598216,1
+NH,3330180,place:NH:3330180,Gorham CDP,Gorham,Gorham,33007,Coos County,Census-designated place,44.393312,-71.198176,1
+NH,3331860,place:NH:3331860,Greenville CDP,Greenville,Greenville,33011,Hillsborough County,Census-designated place,42.772936,-71.80091,1
+NH,3332260,place:NH:3332260,Groveton CDP,Groveton,Groveton,33007,Coos County,Census-designated place,44.611419,-71.517511,1
+NH,3332980,place:NH:3332980,Hampton CDP,Hampton,Hampton,33015,Rockingham County,Census-designated place,42.941856,-70.825915,1
+NH,3333140,place:NH:3333140,Hampton Beach CDP,Hampton Beach,Hampton Beach,33015,Rockingham County,Census-designated place,42.913965,-70.811752,1
+NH,3333620,place:NH:3333620,Hancock CDP,Hancock,Hancock,33011,Hillsborough County,Census-designated place,42.974555,-71.980055,1
+NH,3333780,place:NH:3333780,Hanover CDP,Hanover,Hanover,33009,Grafton County,Census-designated place,43.711587,-72.273152,1
+NH,3335460,place:NH:3335460,Henniker CDP,Henniker,Henniker,33013,Merrimack County,Census-designated place,43.181516,-71.818818,1
+NH,3336020,place:NH:3336020,Hillsborough CDP,Hillsborough,Hillsborough,33011,Hillsborough County,Census-designated place,43.115572,-71.896797,1
+NH,3336580,place:NH:3336580,Hinsdale CDP,Hinsdale,Hinsdale,33005,Cheshire County,Census-designated place,42.792146,-72.487888,1
+NH,3337220,place:NH:3337220,Hooksett CDP,Hooksett,Hooksett,33013,Merrimack County,Census-designated place,43.09599,-71.456551,1
+NH,3337860,place:NH:3337860,Hudson CDP,Hudson,Hudson,33011,Hillsborough County,Census-designated place,42.763811,-71.43201,1
+NH,3338420,place:NH:3338420,Jaffrey CDP,Jaffrey,Jaffrey,33005,Cheshire County,Census-designated place,42.811352,-72.023441,1
+NH,3339300,place:NH:3339300,Keene city,Keene,Keene,33005,Cheshire County,Incorporated place,42.953842,-72.306875,1
+NH,3340120,place:NH:3340120,Klondike Corner CDP,Klondike Corner,Klondike Corner,33011,Hillsborough County,Census-designated place,42.959615,-71.63645,1
+NH,3340180,place:NH:3340180,Laconia city,Laconia,Laconia,33001,Belknap County,Incorporated place,43.576535,-71.482263,1
+NH,3340340,place:NH:3340340,Lancaster CDP,Lancaster,Lancaster,33007,Coos County,Census-designated place,44.488623,-71.574224,1
+NH,3341300,place:NH:3341300,Lebanon city,Lebanon,Lebanon,33009,Grafton County,Incorporated place,43.635428,-72.253837,1
+NH,3341780,place:NH:3341780,Lincoln CDP,Lincoln,Lincoln,33009,Grafton County,Census-designated place,44.060306,-71.671142,1
+NH,3341940,place:NH:3341940,Lisbon CDP,Lisbon,Lisbon,33009,Grafton County,Census-designated place,44.208429,-71.901078,1
+NH,3342500,place:NH:3342500,Littleton CDP,Littleton,Littleton,33009,Grafton County,Census-designated place,44.330805,-71.768668,1
+NH,3343140,place:NH:3343140,Londonderry CDP,Londonderry,Londonderry,33015,Rockingham County,Census-designated place,42.853398,-71.362425,1
+NH,3343300,place:NH:3343300,Loudon CDP,Loudon,Loudon,33013,Merrimack County,Census-designated place,43.28183,-71.465082,1
+NH,3345140,place:NH:3345140,Manchester city,Manchester,Manchester,33011,Hillsborough County,Incorporated place,42.984941,-71.444131,1
+NH,3345380,place:NH:3345380,Marlborough CDP,Marlborough,Marlborough,33005,Cheshire County,Census-designated place,42.904972,-72.211671,1
+NH,3346980,place:NH:3346980,Melvin Village CDP,Melvin Village,Melvin Village,33003,Carroll County,Census-designated place,43.690923,-71.307863,1
+NH,3347060,place:NH:3347060,Meredith CDP,Meredith,Meredith,33001,Belknap County,Census-designated place,43.654297,-71.496802,1
+NH,3347940,place:NH:3347940,Milford CDP,Milford,Milford,33011,Hillsborough County,Census-designated place,42.831645,-71.678708,1
+NH,3348580,place:NH:3348580,Milton CDP,Milton,Milton,33017,Strafford County,Census-designated place,43.402961,-70.992375,1
+NH,3348740,place:NH:3348740,Milton Mills CDP,Milton Mills,Milton Mills,33017,Strafford County,Census-designated place,43.506548,-70.966763,1
+NH,3349600,place:NH:3349600,Mountain Lakes CDP,Mountain Lakes,Mountain Lakes,33009,Grafton County,Census-designated place,44.124706,-71.957761,1
+NH,3350260,place:NH:3350260,Nashua city,Nashua,Nashua,33011,Hillsborough County,Incorporated place,42.749074,-71.490544,1
+NH,3350660,place:NH:3350660,New Boston CDP,New Boston,New Boston,33011,Hillsborough County,Census-designated place,42.977803,-71.693897,1
+NH,3351460,place:NH:3351460,New Hampton CDP,New Hampton,New Hampton,33001,Belknap County,Census-designated place,43.610629,-71.652754,1
+NH,3352020,place:NH:3352020,New London CDP,New London,New London,33013,Merrimack County,Census-designated place,43.415739,-71.986142,1
+NH,3351300,place:NH:3351300,Newfields CDP,Newfields,Newfields,33015,Rockingham County,Census-designated place,43.035477,-70.939042,1
+NH,3352260,place:NH:3352260,Newmarket CDP,Newmarket,Newmarket,33015,Rockingham County,Census-designated place,43.075687,-70.940699,1
+NH,3352500,place:NH:3352500,Newport CDP,Newport,Newport,33019,Sullivan County,Census-designated place,43.364896,-72.176631,1
+NH,3353860,place:NH:3353860,North Conway CDP,North Conway,North Conway,33003,Carroll County,Census-designated place,44.035719,-71.117232,1
+NH,3354740,place:NH:3354740,North Haverhill CDP,North Haverhill,North Haverhill,33009,Grafton County,Census-designated place,44.094493,-72.022331,1
+NH,3356420,place:NH:3356420,North Walpole CDP,North Walpole,North Walpole,33005,Cheshire County,Census-designated place,43.144379,-72.446455,1
+NH,3357220,place:NH:3357220,North Woodstock CDP,North Woodstock,North Woodstock,33009,Grafton County,Census-designated place,44.039303,-71.695241,1
+NH,3360500,place:NH:3360500,Peterborough CDP,Peterborough,Peterborough,33011,Hillsborough County,Census-designated place,42.877243,-71.961109,1
+NH,3361220,place:NH:3361220,Pinardville CDP,Pinardville,Pinardville,33011,Hillsborough County,Census-designated place,43.001217,-71.513297,1
+NH,3361860,place:NH:3361860,Pittsfield CDP,Pittsfield,Pittsfield,33013,Merrimack County,Census-designated place,43.300115,-71.331458,1
+NH,3362260,place:NH:3362260,Plainfield CDP,Plainfield,Plainfield,33019,Sullivan County,Census-designated place,43.534503,-72.353638,1
+NH,3362580,place:NH:3362580,Plymouth CDP,Plymouth,Plymouth,33009,Grafton County,Census-designated place,43.73842,-71.695951,1
+NH,3362900,place:NH:3362900,Portsmouth city,Portsmouth,Portsmouth,33015,Rockingham County,Incorporated place,43.060594,-70.780349,1
+NH,3363940,place:NH:3363940,Raymond CDP,Raymond,Raymond,33015,Rockingham County,Census-designated place,43.033728,-71.174579,1
+NH,3365140,place:NH:3365140,Rochester city,Rochester,Rochester,33017,Strafford County,Incorporated place,43.295947,-70.977218,1
+NH,3367460,place:NH:3367460,Sanbornville CDP,Sanbornville,Sanbornville,33003,Carroll County,Census-designated place,43.552498,-71.029776,1
+NH,3368340,place:NH:3368340,Seabrook Beach CDP,Seabrook Beach,Seabrook Beach,33015,Rockingham County,Census-designated place,42.880937,-70.824511,1
+NH,3369940,place:NH:3369940,Somersworth city,Somersworth,Somersworth,33017,Strafford County,Incorporated place,43.253476,-70.887944,1
+NH,3371220,place:NH:3371220,South Hooksett CDP,South Hooksett,South Hooksett,33013,Merrimack County,Census-designated place,43.027768,-71.426844,1
+NH,3374780,place:NH:3374780,Suissevale CDP,Suissevale,Suissevale,33003,Carroll County,Census-designated place,43.722537,-71.363522,1
+NH,3375140,place:NH:3375140,Suncook CDP,Suncook,Suncook,33013,Merrimack County,Census-designated place,43.135573,-71.450912,1
+NH,3377100,place:NH:3377100,Tilton Northfield CDP,Tilton Northfield,Tilton Northfield,33001,Belknap County,Census-designated place,43.444526,-71.592635,1
+NH,3377300,place:NH:3377300,Troy CDP,Troy,Troy,33005,Cheshire County,Census-designated place,42.825843,-72.182874,1
+NH,3377780,place:NH:3377780,Union CDP,Union,Union,33003,Carroll County,Census-designated place,43.491165,-71.023068,1
+NH,3378340,place:NH:3378340,Walpole CDP,Walpole,Walpole,33005,Cheshire County,Census-designated place,43.078344,-72.424804,1
+NH,3378500,place:NH:3378500,Warner CDP,Warner,Warner,33013,Merrimack County,Census-designated place,43.284261,-71.824059,1
+NH,3383620,place:NH:3383620,West Stewartstown CDP,West Stewartstown,West Stewartstown,33007,Coos County,Census-designated place,44.990799,-71.530335,1
+NH,3383700,place:NH:3383700,West Swanzey CDP,West Swanzey,West Swanzey,33005,Cheshire County,Census-designated place,42.870864,-72.3225,1
+NH,3384340,place:NH:3384340,Whitefield CDP,Whitefield,Whitefield,33007,Coos County,Census-designated place,44.371308,-71.609953,1
+NH,3385140,place:NH:3385140,Wilton CDP,Wilton,Wilton,33011,Hillsborough County,Census-designated place,42.846973,-71.73598,1
+NH,3385460,place:NH:3385460,Winchester CDP,Winchester,Winchester,33005,Cheshire County,Census-designated place,42.775665,-72.38323,1
+NH,3386340,place:NH:3386340,Wolfeboro CDP,Wolfeboro,Wolfeboro,33003,Carroll County,Census-designated place,43.593649,-71.211621,1
+NH,3387140,place:NH:3387140,Woodsville CDP,Woodsville,Woodsville,33009,Grafton County,Census-designated place,44.141584,-72.02683,1

@@ -1,0 +1,486 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+SD,4600100,place:SD:4600100,Aberdeen city,Aberdeen,Aberdeen,46013,Brown County,Incorporated place,45.46515,-98.469782,1
+SD,4600460,place:SD:4600460,Agar town,Agar,Agar,46119,Sully County,Incorporated place,44.839735,-100.07345,1
+SD,4600520,place:SD:4600520,Agency Village CDP,Agency Village,Agency Village,46109,Roberts County,Census-designated place,45.581339,-97.072037,1
+SD,4600540,place:SD:4600540,Akaska town,Akaska,Akaska,46129,Walworth County,Incorporated place,45.331026,-100.120861,1
+SD,4600620,place:SD:4600620,Albee town,Albee,Albee,46051,Grant County,Incorporated place,45.051287,-96.553528,1
+SD,4600700,place:SD:4600700,Alcester city,Alcester,Alcester,46127,Union County,Incorporated place,43.029736,-96.625923,1
+SD,4600820,place:SD:4600820,Alexandria city,Alexandria,Alexandria,46061,Hanson County,Incorporated place,43.654039,-97.779917,1
+SD,4600900,place:SD:4600900,Allen CDP,Allen,Allen,46007,Bennett County,Census-designated place,43.279136,-101.92651,1
+SD,4601020,place:SD:4601020,Alpena town,Alpena,Alpena,46073,Jerauld County,Incorporated place,44.183378,-98.368362,1
+SD,4601140,place:SD:4601140,Altamont town,Altamont,Altamont,46039,Deuel County,Incorporated place,44.84078,-96.690152,1
+SD,4601450,place:SD:4601450,Anderson CDP,Anderson,Anderson,46099,Minnehaha County,Census-designated place,43.519416,-96.614189,1
+SD,4601500,place:SD:4601500,Andover town,Andover,Andover,46037,Day County,Incorporated place,45.410217,-97.903706,1
+SD,4601560,place:SD:4601560,Angostura CDP,Angostura,Angostura,46047,Fall River County,Census-designated place,43.324867,-103.400967,1
+SD,4601740,place:SD:4601740,Antelope CDP,Antelope,Antelope,46121,Todd County,Census-designated place,43.309656,-100.629917,1
+SD,4601980,place:SD:4601980,Ardmore CDP,Ardmore,Ardmore,46047,Fall River County,Census-designated place,43.019192,-103.654266,1
+SD,4602180,place:SD:4602180,Arlington city,Arlington,Arlington,46077,Kingsbury County,Incorporated place,44.363514,-97.133822,1
+SD,4602260,place:SD:4602260,Armour city,Armour,Armour,46043,Douglas County,Incorporated place,43.319339,-98.344149,1
+SD,4602340,place:SD:4602340,Artas town,Artas,Artas,46021,Campbell County,Incorporated place,45.887226,-99.806799,1
+SD,4602380,place:SD:4602380,Artesian town,Artesian,Artesian,46111,Sanborn County,Incorporated place,44.007895,-97.923709,1
+SD,4602530,place:SD:4602530,Ashland Heights CDP,Ashland Heights,Ashland Heights,46103,Pennington County,Census-designated place,44.133411,-103.123712,1
+SD,4602540,place:SD:4602540,Ashton city,Ashton,Ashton,46115,Spink County,Incorporated place,44.993056,-98.499111,1
+SD,4602580,place:SD:4602580,Astoria town,Astoria,Astoria,46039,Deuel County,Incorporated place,44.557732,-96.546499,1
+SD,4602780,place:SD:4602780,Aurora town,Aurora,Aurora,46011,Brookings County,Incorporated place,44.282564,-96.682833,1
+SD,4602860,place:SD:4602860,Aurora Center CDP,Aurora Center,Aurora Center,46003,Aurora County,Census-designated place,43.527155,-98.589466,1
+SD,4602900,place:SD:4602900,Avon city,Avon,Avon,46009,Bon Homme County,Incorporated place,43.005203,-98.059262,1
+SD,4603060,place:SD:4603060,Badger town,Badger,Badger,46077,Kingsbury County,Incorporated place,44.485502,-97.207868,1
+SD,4603380,place:SD:4603380,Baltic city,Baltic,Baltic,46099,Minnehaha County,Incorporated place,43.760051,-96.736898,1
+SD,4603420,place:SD:4603420,Bancroft town,Bancroft,Bancroft,46077,Kingsbury County,Incorporated place,44.489368,-97.750501,1
+SD,4603860,place:SD:4603860,Batesland town,Batesland,Batesland,46102,Oglala Lakota County,Incorporated place,43.127142,-102.101851,1
+SD,4603900,place:SD:4603900,Bath CDP,Bath,Bath,46013,Brown County,Census-designated place,45.469166,-98.323581,1
+SD,4603960,place:SD:4603960,Bath Corner CDP,Bath Corner,Bath Corner,46013,Brown County,Census-designated place,45.462689,-98.332896,1
+SD,4604380,place:SD:4604380,Belle Fourche city,Belle Fourche,Belle Fourche,46019,Butte County,Incorporated place,44.663798,-103.859143,1
+SD,4604620,place:SD:4604620,Belvidere town,Belvidere,Belvidere,46071,Jackson County,Incorporated place,43.832234,-101.270543,1
+SD,4604980,place:SD:4604980,Beresford city,Beresford,Beresford,46127,Union County,Incorporated place,43.079646,-96.780224,1
+SD,4605540,place:SD:4605540,Big Stone City city,Big Stone City,Big Stone City,46051,Grant County,Incorporated place,45.308728,-96.472606,1
+SD,4605580,place:SD:4605580,Bijou Hills CDP,Bijou Hills,Bijou Hills,46015,Brule County,Census-designated place,43.528479,-99.143858,1
+SD,4605620,place:SD:4605620,Bison town,Bison,Bison,46105,Perkins County,Incorporated place,45.52355,-102.467716,1
+SD,4605780,place:SD:4605780,Blackhawk CDP,Blackhawk,Blackhawk,46093,Meade County,Census-designated place,44.15138,-103.334003,1
+SD,4606120,place:SD:4606120,Blucksberg Mountain CDP,Blucksberg Mountain,Blucksberg Mountain,46093,Meade County,Census-designated place,44.359344,-103.453787,1
+SD,4606140,place:SD:4606140,Blumengard Colony CDP,Blumengard Colony,Blumengard Colony,46049,Faulk County,Census-designated place,45.241538,-99.169977,1
+SD,4606180,place:SD:4606180,Blunt city,Blunt,Blunt,46065,Hughes County,Incorporated place,44.51594,-99.988556,1
+SD,4606300,place:SD:4606300,Bon Homme Colony CDP,Bon Homme Colony,Bon Homme Colony,46009,Bon Homme County,Census-designated place,42.864698,-97.705191,1
+SD,4606220,place:SD:4606220,Bonesteel city,Bonesteel,Bonesteel,46053,Gregory County,Incorporated place,43.077503,-98.946762,1
+SD,4606440,place:SD:4606440,Boulder Canyon CDP,Boulder Canyon,Boulder Canyon,46081,Lawrence County,Census-designated place,44.397099,-103.604611,1
+SD,4606540,place:SD:4606540,Bowdle city,Bowdle,Bowdle,46045,Edmunds County,Incorporated place,45.451258,-99.656501,1
+SD,4606620,place:SD:4606620,Box Elder city,Box Elder,Box Elder,46103,Pennington County,Incorporated place,44.111158,-103.081573,1
+SD,4606660,place:SD:4606660,Bradley town,Bradley,Bradley,46025,Clark County,Incorporated place,45.090408,-97.641945,1
+SD,4606840,place:SD:4606840,Brandon city,Brandon,Brandon,46099,Minnehaha County,Incorporated place,43.592908,-96.583769,1
+SD,4606940,place:SD:4606940,Brandt town,Brandt,Brandt,46039,Deuel County,Incorporated place,44.666933,-96.625156,1
+SD,4607040,place:SD:4607040,Brant Lake city,Brant Lake,Brant Lake,46079,Lake County,Incorporated place,43.930827,-96.943534,1
+SD,4607044,place:SD:4607044,Brant Lake South CDP,Brant Lake South,Brant Lake South,46079,Lake County,Census-designated place,43.913091,-96.933684,1
+SD,4607060,place:SD:4607060,Brentford town,Brentford,Brentford,46115,Spink County,Incorporated place,45.159204,-98.322555,1
+SD,4607068,place:SD:4607068,Brentwood Colony CDP,Brentwood Colony,Brentwood Colony,46049,Faulk County,Census-designated place,45.154795,-99.302168,1
+SD,4607140,place:SD:4607140,Bridger CDP,Bridger,Bridger,46137,Ziebach County,Census-designated place,44.542142,-101.913642,1
+SD,4607180,place:SD:4607180,Bridgewater city,Bridgewater,Bridgewater,46087,McCook County,Incorporated place,43.55021,-97.498384,1
+SD,4607300,place:SD:4607300,Bristol city,Bristol,Bristol,46037,Day County,Incorporated place,45.343893,-97.744919,1
+SD,4607380,place:SD:4607380,Britton city,Britton,Britton,46091,Marshall County,Incorporated place,45.792363,-97.752897,1
+SD,4607420,place:SD:4607420,Broadland town,Broadland,Broadland,46005,Beadle County,Incorporated place,44.493825,-98.346556,1
+SD,4607580,place:SD:4607580,Brookings city,Brookings,Brookings,46011,Brookings County,Incorporated place,44.302416,-96.785336,1
+SD,4607740,place:SD:4607740,Bruce city,Bruce,Bruce,46011,Brookings County,Incorporated place,44.43778,-96.890668,1
+SD,4608060,place:SD:4608060,Bryant city,Bryant,Bryant,46057,Hamlin County,Incorporated place,44.589903,-97.467281,1
+SD,4608140,place:SD:4608140,Buffalo town,Buffalo,Buffalo,46063,Harding County,Incorporated place,45.586374,-103.54345,1
+SD,4608340,place:SD:4608340,Buffalo Gap town,Buffalo Gap,Buffalo Gap,46033,Custer County,Incorporated place,43.492162,-103.315292,1
+SD,4608460,place:SD:4608460,Bullhead CDP,Bullhead,Bullhead,46031,Corson County,Census-designated place,45.772788,-101.081389,1
+SD,4608500,place:SD:4608500,Burbank CDP,Burbank,Burbank,46027,Clay County,Census-designated place,42.74608,-96.832718,1
+SD,4608700,place:SD:4608700,Burke city,Burke,Burke,46053,Gregory County,Incorporated place,43.182821,-99.292304,1
+SD,4608820,place:SD:4608820,Bushnell town,Bushnell,Bushnell,46011,Brookings County,Incorporated place,44.327409,-96.642346,1
+SD,4608860,place:SD:4608860,Butler town,Butler,Butler,46037,Day County,Incorporated place,45.261992,-97.71161,1
+SD,4609204,place:SD:4609204,Cameron Colony CDP,Cameron Colony,Cameron Colony,46125,Turner County,Census-designated place,43.187805,-97.262696,1
+SD,4609260,place:SD:4609260,Camp Crook town,Camp Crook,Camp Crook,46063,Harding County,Incorporated place,45.550073,-103.974931,1
+SD,4609278,place:SD:4609278,Camrose Colony CDP,Camrose Colony,Camrose Colony,46115,Spink County,Census-designated place,44.934285,-98.220169,1
+SD,4609300,place:SD:4609300,Canistota city,Canistota,Canistota,46087,McCook County,Incorporated place,43.597757,-97.292582,1
+SD,4609420,place:SD:4609420,Canova town,Canova,Canova,46097,Miner County,Incorporated place,43.881257,-97.503958,1
+SD,4609500,place:SD:4609500,Canton city,Canton,Canton,46083,Lincoln County,Incorporated place,43.30313,-96.585577,1
+SD,4609780,place:SD:4609780,Caputa CDP,Caputa,Caputa,46103,Pennington County,Census-designated place,43.996035,-102.984619,1
+SD,4610220,place:SD:4610220,Carthage city,Carthage,Carthage,46097,Miner County,Incorporated place,44.1648,-97.72028,1
+SD,4610500,place:SD:4610500,Castlewood city,Castlewood,Castlewood,46057,Hamlin County,Incorporated place,44.724158,-97.03092,1
+SD,4610620,place:SD:4610620,Cavour town,Cavour,Cavour,46005,Beadle County,Incorporated place,44.369329,-98.042096,1
+SD,4610835,place:SD:4610835,Cedar Grove Colony CDP,Cedar Grove Colony,Cedar Grove Colony,46015,Brule County,Census-designated place,43.531623,-98.806421,1
+SD,4611060,place:SD:4611060,Centerville city,Centerville,Centerville,46125,Turner County,Incorporated place,43.116535,-96.959477,1
+SD,4611140,place:SD:4611140,Central City city,Central City,Central City,46081,Lawrence County,Incorporated place,44.368603,-103.770248,1
+SD,4611220,place:SD:4611220,Chamberlain city,Chamberlain,Chamberlain,46015,Brule County,Incorporated place,43.798718,-99.329604,1
+SD,4611380,place:SD:4611380,Chancellor town,Chancellor,Chancellor,46125,Turner County,Incorporated place,43.371841,-96.987271,1
+SD,4611500,place:SD:4611500,Chelsea town,Chelsea,Chelsea,46049,Faulk County,Incorporated place,45.167557,-98.743376,1
+SD,4611540,place:SD:4611540,Cherry Creek CDP,Cherry Creek,Cherry Creek,46137,Ziebach County,Census-designated place,44.604741,-101.499298,1
+SD,4611660,place:SD:4611660,Chester CDP,Chester,Chester,46079,Lake County,Census-designated place,43.899587,-96.927819,1
+SD,4612020,place:SD:4612020,Claire City town,Claire City,Claire City,46109,Roberts County,Incorporated place,45.856619,-97.103531,1
+SD,4612100,place:SD:4612100,Claremont town,Claremont,Claremont,46013,Brown County,Incorporated place,45.671419,-98.015617,1
+SD,4612148,place:SD:4612148,Claremont Colony CDP,Claremont Colony,Claremont Colony,46057,Hamlin County,Census-designated place,44.712909,-96.951236,1
+SD,4612180,place:SD:4612180,Clark city,Clark,Clark,46025,Clark County,Incorporated place,44.880911,-97.734839,1
+SD,4612340,place:SD:4612340,Clark Colony CDP,Clark Colony,Clark Colony,46115,Spink County,Census-designated place,44.791361,-97.981454,1
+SD,4612540,place:SD:4612540,Clear Lake city,Clear Lake,"Clear Lake, Deuel County",46039,Deuel County,Incorporated place,44.75629,-96.690239,1
+SD,4612640,place:SD:4612640,Clear Lake CDP,Clear Lake,"Clear Lake, Marshall County",46091,Marshall County,Census-designated place,45.687069,-97.365844,1
+SD,4612508,place:SD:4612508,Clearfield Colony CDP,Clearfield Colony,Clearfield Colony,46023,Charles Mix County,Census-designated place,43.143876,-98.142073,1
+SD,4613010,place:SD:4613010,Cloverleaf Colony CDP,Cloverleaf Colony,Cloverleaf Colony,46097,Miner County,Census-designated place,44.183904,-97.538334,1
+SD,4613188,place:SD:4613188,Collins Colony CDP,Collins Colony,Collins Colony,46025,Clark County,Census-designated place,44.547767,-97.701267,1
+SD,4613220,place:SD:4613220,Colman city,Colman,Colman,46101,Moody County,Incorporated place,43.983473,-96.814745,1
+SD,4613300,place:SD:4613300,Colome city,Colome,Colome,46123,Tripp County,Incorporated place,43.259904,-99.717268,1
+SD,4613355,place:SD:4613355,Colonial Pine Hills CDP,Colonial Pine Hills,Colonial Pine Hills,46103,Pennington County,Census-designated place,44.013744,-103.314952,1
+SD,4613380,place:SD:4613380,Colton city,Colton,Colton,46099,Minnehaha County,Incorporated place,43.787501,-96.928552,1
+SD,4613420,place:SD:4613420,Columbia city,Columbia,Columbia,46013,Brown County,Incorporated place,45.614824,-98.31064,1
+SD,4613700,place:SD:4613700,Conde city,Conde,Conde,46115,Spink County,Incorporated place,45.157301,-98.095456,1
+SD,4613840,place:SD:4613840,Corn Creek CDP,Corn Creek,Corn Creek,46095,Mellette County,Census-designated place,43.575749,-101.208522,1
+SD,4613940,place:SD:4613940,Corona town,Corona,Corona,46109,Roberts County,Incorporated place,45.335225,-96.764581,1
+SD,4613980,place:SD:4613980,Corsica city,Corsica,Corsica,46043,Douglas County,Incorporated place,43.422441,-98.407443,1
+SD,4614220,place:SD:4614220,Cottonwood town,Cottonwood,Cottonwood,46071,Jackson County,Incorporated place,43.970396,-101.904083,1
+SD,4614320,place:SD:4614320,Cow Creek CDP,Cow Creek,Cow Creek,46119,Sully County,Census-designated place,44.549327,-100.467967,1
+SD,4614580,place:SD:4614580,Cresbard town,Cresbard,Cresbard,46049,Faulk County,Incorporated place,45.16941,-98.947658,1
+SD,4614660,place:SD:4614660,Crocker CDP,Crocker,Crocker,46025,Clark County,Census-designated place,45.114064,-97.770814,1
+SD,4614680,place:SD:4614680,Crook City CDP,Crook City,Crook City,46081,Lawrence County,Census-designated place,44.438089,-103.643409,1
+SD,4614740,place:SD:4614740,Crooks city,Crooks,Crooks,46099,Minnehaha County,Incorporated place,43.654797,-96.806812,1
+SD,4615140,place:SD:4615140,Custer city,Custer,Custer,46033,Custer County,Incorporated place,43.766732,-103.599636,1
+SD,4615256,place:SD:4615256,Dakota Dunes CDP,Dakota Dunes,Dakota Dunes,46127,Union County,Census-designated place,42.490311,-96.483992,1
+SD,4615300,place:SD:4615300,Dallas town,Dallas,Dallas,46053,Gregory County,Incorporated place,43.237834,-99.517511,1
+SD,4615420,place:SD:4615420,Dante town,Dante,Dante,46023,Charles Mix County,Incorporated place,43.039967,-98.185533,1
+SD,4615540,place:SD:4615540,Davis town,Davis,Davis,46125,Turner County,Incorporated place,43.259528,-96.994506,1
+SD,4616260,place:SD:4616260,De Smet city,De Smet,De Smet,46077,Kingsbury County,Incorporated place,44.386148,-97.549688,1
+SD,4615700,place:SD:4615700,Deadwood city,Deadwood,Deadwood,46081,Lawrence County,Incorporated place,44.387048,-103.720742,1
+SD,4615774,place:SD:4615774,Deerfield Colony CDP,Deerfield Colony,Deerfield Colony,46045,Edmunds County,Census-designated place,45.587368,-98.899548,1
+SD,4615980,place:SD:4615980,Dell Rapids city,Dell Rapids,Dell Rapids,46099,Minnehaha County,Incorporated place,43.824824,-96.71459,1
+SD,4616060,place:SD:4616060,Delmont city,Delmont,Delmont,46043,Douglas County,Incorporated place,43.266638,-98.159153,1
+SD,4616620,place:SD:4616620,Dimock town,Dimock,Dimock,46067,Hutchinson County,Incorporated place,43.477376,-97.987137,1
+SD,4616820,place:SD:4616820,Doland city,Doland,Doland,46115,Spink County,Incorporated place,44.894679,-98.099966,1
+SD,4616860,place:SD:4616860,Dolton town,Dolton,Dolton,46125,Turner County,Incorporated place,43.491093,-97.384798,1
+SD,4617020,place:SD:4617020,Draper town,Draper,Draper,46075,Jones County,Incorporated place,43.926161,-100.53718,1
+SD,4617215,place:SD:4617215,Dudley CDP,Dudley,Dudley,46047,Fall River County,Census-designated place,43.308159,-103.819167,1
+SD,4617420,place:SD:4617420,Dupree city,Dupree,Dupree,46137,Ziebach County,Incorporated place,45.049479,-101.601316,1
+SD,4617620,place:SD:4617620,Eagle Butte city,Eagle Butte,Eagle Butte,46041,Dewey County,Incorporated place,44.994799,-101.231785,1
+SD,4618180,place:SD:4618180,Eden town,Eden,Eden,46091,Marshall County,Incorporated place,45.616766,-97.419712,1
+SD,4618300,place:SD:4618300,Edgemont city,Edgemont,Edgemont,46047,Fall River County,Incorporated place,43.297362,-103.832336,1
+SD,4618460,place:SD:4618460,Egan city,Egan,Egan,46101,Moody County,Incorporated place,44.000333,-96.648538,1
+SD,4618620,place:SD:4618620,Elk Point city,Elk Point,Elk Point,46127,Union County,Incorporated place,42.681224,-96.68048,1
+SD,4618700,place:SD:4618700,Elkton city,Elkton,Elkton,46011,Brookings County,Incorporated place,44.235074,-96.479409,1
+SD,4619420,place:SD:4619420,Emery city,Emery,Emery,46061,Hanson County,Incorporated place,43.602,-97.619494,1
+SD,4619556,place:SD:4619556,Enemy Swim CDP,Enemy Swim,Enemy Swim,46037,Day County,Census-designated place,45.429367,-97.286856,1
+SD,4619860,place:SD:4619860,Erwin town,Erwin,Erwin,46077,Kingsbury County,Incorporated place,44.488024,-97.440858,1
+SD,4619980,place:SD:4619980,Estelline city,Estelline,Estelline,46057,Hamlin County,Incorporated place,44.576766,-96.901082,1
+SD,4620060,place:SD:4620060,Ethan town,Ethan,Ethan,46035,Davison County,Incorporated place,43.546305,-97.983399,1
+SD,4620180,place:SD:4620180,Eureka city,Eureka,Eureka,46089,McPherson County,Incorporated place,45.771153,-99.620686,1
+SD,4620208,place:SD:4620208,Evergreen Colony CDP,Evergreen Colony,Evergreen Colony,46049,Faulk County,Census-designated place,45.12171,-99.042528,1
+SD,4620340,place:SD:4620340,Fairburn town,Fairburn,Fairburn,46033,Custer County,Incorporated place,43.686941,-103.208692,1
+SD,4620380,place:SD:4620380,Fairfax town,Fairfax,Fairfax,46053,Gregory County,Incorporated place,43.028049,-98.888945,1
+SD,4620780,place:SD:4620780,Fairview town,Fairview,Fairview,46083,Lincoln County,Incorporated place,43.222028,-96.487402,1
+SD,4620980,place:SD:4620980,Faith city,Faith,Faith,46093,Meade County,Incorporated place,45.025321,-102.037061,1
+SD,4621060,place:SD:4621060,Farmer town,Farmer,Farmer,46061,Hanson County,Incorporated place,43.725301,-97.68905,1
+SD,4621260,place:SD:4621260,Faulkton city,Faulkton,Faulkton,46049,Faulk County,Incorporated place,45.034155,-99.126732,1
+SD,4621340,place:SD:4621340,Fedora CDP,Fedora,Fedora,46097,Miner County,Census-designated place,44.006667,-97.789562,1
+SD,4621380,place:SD:4621380,Ferney CDP,Ferney,Ferney,46013,Brown County,Census-designated place,45.334553,-98.093868,1
+SD,4621540,place:SD:4621540,Flandreau city,Flandreau,Flandreau,46101,Moody County,Incorporated place,44.045458,-96.601772,1
+SD,4621820,place:SD:4621820,Florence town,Florence,Florence,46029,Codington County,Incorporated place,45.054789,-97.326313,1
+SD,4622070,place:SD:4622070,Fordham Colony CDP,Fordham Colony,Fordham Colony,46025,Clark County,Census-designated place,44.767701,-97.906933,1
+SD,4622100,place:SD:4622100,Forestburg CDP,Forestburg,Forestburg,46111,Sanborn County,Census-designated place,44.021201,-98.103233,1
+SD,4622260,place:SD:4622260,Fort Pierre city,Fort Pierre,Fort Pierre,46117,Stanley County,Incorporated place,44.366596,-100.382329,1
+SD,4622340,place:SD:4622340,Fort Thompson CDP,Fort Thompson,Fort Thompson,46017,Buffalo County,Census-designated place,44.050657,-99.395743,1
+SD,4622580,place:SD:4622580,Frankfort city,Frankfort,Frankfort,46115,Spink County,Incorporated place,44.877664,-98.309239,1
+SD,4622860,place:SD:4622860,Frederick town,Frederick,Frederick,46013,Brown County,Incorporated place,45.831883,-98.506703,1
+SD,4623020,place:SD:4623020,Freeman city,Freeman,Freeman,46067,Hutchinson County,Incorporated place,43.347525,-97.430791,1
+SD,4623140,place:SD:4623140,Fruitdale town,Fruitdale,Fruitdale,46019,Butte County,Incorporated place,44.669209,-103.69547,1
+SD,4623220,place:SD:4623220,Fulton town,Fulton,Fulton,46061,Hanson County,Incorporated place,43.72883,-97.822628,1
+SD,4623421,place:SD:4623421,Gann Valley CDP,Gann Valley,Gann Valley,46017,Buffalo County,Census-designated place,44.033506,-98.988421,1
+SD,4623460,place:SD:4623460,Garden City town,Garden City,Garden City,46025,Clark County,Incorporated place,44.959263,-97.580412,1
+SD,4623820,place:SD:4623820,Garretson city,Garretson,Garretson,46099,Minnehaha County,Incorporated place,43.714831,-96.503307,1
+SD,4623860,place:SD:4623860,Gary city,Gary,Gary,46039,Deuel County,Incorporated place,44.794175,-96.457096,1
+SD,4623900,place:SD:4623900,Gayville town,Gayville,Gayville,46135,Yankton County,Incorporated place,42.889647,-97.17354,1
+SD,4623980,place:SD:4623980,Geddes city,Geddes,Geddes,46023,Charles Mix County,Incorporated place,43.254039,-98.697359,1
+SD,4624260,place:SD:4624260,Gettysburg city,Gettysburg,Gettysburg,46107,Potter County,Incorporated place,45.005982,-99.953904,1
+SD,4624540,place:SD:4624540,Glendale Colony CDP,Glendale Colony,Glendale Colony,46115,Spink County,Census-designated place,44.797979,-98.286852,1
+SD,4624620,place:SD:4624620,Glenham town,Glenham,Glenham,46129,Walworth County,Incorporated place,45.532994,-100.271118,1
+SD,4624760,place:SD:4624760,Golden View Colony CDP,Golden View Colony,Golden View Colony,46087,McCook County,Census-designated place,43.695418,-97.443644,1
+SD,4624820,place:SD:4624820,Goodwin town,Goodwin,Goodwin,46039,Deuel County,Incorporated place,44.877514,-96.849701,1
+SD,4625020,place:SD:4625020,Graceville Colony CDP,Graceville Colony,Graceville Colony,46079,Lake County,Census-designated place,43.92886,-97.284002,1
+SD,4625743,place:SD:4625743,Grass Ranch Colony CDP,Grass Ranch Colony,Grass Ranch Colony,46015,Brule County,Census-designated place,43.650011,-98.883619,1
+SD,4625741,place:SD:4625741,Grassland Colony CDP,Grassland Colony,Grassland Colony,46089,McPherson County,Census-designated place,45.668242,-98.796458,1
+SD,4625900,place:SD:4625900,Green Grass CDP,Green Grass,Green Grass,46041,Dewey County,Census-designated place,45.156622,-101.286973,1
+SD,4626035,place:SD:4626035,Green Valley CDP,Green Valley,Green Valley,46103,Pennington County,Census-designated place,44.038969,-103.111585,1
+SD,4626150,place:SD:4626150,Greenwood Colony CDP,Greenwood Colony,Greenwood Colony,46043,Douglas County,Census-designated place,43.214478,-98.153624,1
+SD,4626180,place:SD:4626180,Gregory city,Gregory,Gregory,46053,Gregory County,Incorporated place,43.229989,-99.420863,1
+SD,4626220,place:SD:4626220,Grenville town,Grenville,Grenville,46037,Day County,Incorporated place,45.466992,-97.390231,1
+SD,4626340,place:SD:4626340,Groton city,Groton,Groton,46013,Brown County,Incorporated place,45.451677,-98.100076,1
+SD,4626660,place:SD:4626660,Hamill CDP,Hamill,Hamill,46123,Tripp County,Census-designated place,43.594048,-99.693197,1
+SD,4627260,place:SD:4627260,Harrisburg city,Harrisburg,Harrisburg,46083,Lincoln County,Incorporated place,43.434258,-96.712429,1
+SD,4627300,place:SD:4627300,Harrison CDP,Harrison,Harrison,46043,Douglas County,Census-designated place,43.431129,-98.526711,1
+SD,4627420,place:SD:4627420,Harrold town,Harrold,Harrold,46065,Hughes County,Incorporated place,44.525781,-99.741644,1
+SD,4627540,place:SD:4627540,Hartford city,Hartford,Hartford,46099,Minnehaha County,Incorporated place,43.621459,-96.93487,1
+SD,4627820,place:SD:4627820,Hayti town,Hayti,Hayti,46057,Hamlin County,Incorporated place,44.659076,-97.204512,1
+SD,4627940,place:SD:4627940,Hazel town,Hazel,Hazel,46057,Hamlin County,Incorporated place,44.758225,-97.380991,1
+SD,4627980,place:SD:4627980,Hecla city,Hecla,Hecla,46013,Brown County,Incorporated place,45.882139,-98.1519,1
+SD,4628140,place:SD:4628140,Henry town,Henry,Henry,46029,Codington County,Incorporated place,44.880856,-97.461557,1
+SD,4628300,place:SD:4628300,Hermosa town,Hermosa,Hermosa,46033,Custer County,Incorporated place,43.841305,-103.189477,1
+SD,4628340,place:SD:4628340,Herreid city,Herreid,Herreid,46021,Campbell County,Incorporated place,45.837808,-100.074684,1
+SD,4628420,place:SD:4628420,Herrick town,Herrick,Herrick,46053,Gregory County,Incorporated place,43.115017,-99.188214,1
+SD,4628460,place:SD:4628460,Hetland town,Hetland,Hetland,46077,Kingsbury County,Incorporated place,44.377229,-97.23467,1
+SD,4628980,place:SD:4628980,Highmore city,Highmore,Highmore,46069,Hyde County,Incorporated place,44.52137,-99.439332,1
+SD,4629100,place:SD:4629100,Hill City city,Hill City,Hill City,46103,Pennington County,Incorporated place,43.931729,-103.569716,1
+SD,4629116,place:SD:4629116,Hillcrest Colony CDP,Hillcrest Colony,Hillcrest Colony,46025,Clark County,Census-designated place,44.942469,-97.667189,1
+SD,4629300,place:SD:4629300,Hillside Colony CDP,Hillside Colony,Hillside Colony,46115,Spink County,Census-designated place,44.73832,-98.047318,1
+SD,4629340,place:SD:4629340,Hillsview town,Hillsview,Hillsview,46089,McPherson County,Incorporated place,45.661968,-99.560659,1
+SD,4629500,place:SD:4629500,Hitchcock town,Hitchcock,Hitchcock,46005,Beadle County,Incorporated place,44.629367,-98.408206,1
+SD,4630056,place:SD:4630056,Horse Creek CDP,Horse Creek,Horse Creek,46095,Mellette County,Census-designated place,43.532965,-100.741923,1
+SD,4630140,place:SD:4630140,Hosmer city,Hosmer,Hosmer,46045,Edmunds County,Incorporated place,45.578787,-99.473642,1
+SD,4630220,place:SD:4630220,Hot Springs city,Hot Springs,Hot Springs,46047,Fall River County,Incorporated place,43.419909,-103.46854,1
+SD,4630300,place:SD:4630300,Hoven town,Hoven,Hoven,46107,Potter County,Incorporated place,45.241615,-99.777521,1
+SD,4630460,place:SD:4630460,Howard city,Howard,Howard,46097,Miner County,Incorporated place,44.011656,-97.524566,1
+SD,4630740,place:SD:4630740,Hudson town,Hudson,Hudson,46083,Lincoln County,Incorporated place,43.130109,-96.455619,1
+SD,4630900,place:SD:4630900,Humboldt town,Humboldt,Humboldt,46099,Minnehaha County,Incorporated place,43.64494,-97.07452,1
+SD,4630980,place:SD:4630980,Hurley city,Hurley,Hurley,46125,Turner County,Incorporated place,43.279327,-97.089437,1
+SD,4631060,place:SD:4631060,Huron city,Huron,Huron,46005,Beadle County,Incorporated place,44.362341,-98.209571,1
+SD,4631140,place:SD:4631140,Huron Colony CDP,Huron Colony,Huron Colony,46005,Beadle County,Census-designated place,44.563437,-98.205468,1
+SD,4631196,place:SD:4631196,Hutterville Colony CDP,Hutterville Colony,Hutterville Colony,46013,Brown County,Census-designated place,45.266322,-98.211516,1
+SD,4631220,place:SD:4631220,Ideal CDP,Ideal,Ideal,46123,Tripp County,Census-designated place,43.540003,-99.921751,1
+SD,4631620,place:SD:4631620,Interior town,Interior,Interior,46071,Jackson County,Incorporated place,43.730963,-101.983658,1
+SD,4631860,place:SD:4631860,Ipswich city,Ipswich,Ipswich,46045,Edmunds County,Incorporated place,45.443459,-99.029995,1
+SD,4631940,place:SD:4631940,Irene city,Irene,Irene,46125,Turner County,Incorporated place,43.083441,-97.156828,1
+SD,4632020,place:SD:4632020,Iroquois city,Iroquois,Iroquois,46077,Kingsbury County,Incorporated place,44.367859,-97.849534,1
+SD,4632140,place:SD:4632140,Isabel town,Isabel,Isabel,46041,Dewey County,Incorporated place,45.393744,-101.431515,1
+SD,4632388,place:SD:4632388,Jamesville Colony CDP,Jamesville Colony,Jamesville Colony,46135,Yankton County,Census-designated place,43.101534,-97.481777,1
+SD,4632460,place:SD:4632460,Java town,Java,Java,46129,Walworth County,Incorporated place,45.503819,-99.883882,1
+SD,4632700,place:SD:4632700,Jefferson city,Jefferson,Jefferson,46127,Union County,Incorporated place,42.604266,-96.566089,1
+SD,4632820,place:SD:4632820,Johnson Siding CDP,Johnson Siding,Johnson Siding,46103,Pennington County,Census-designated place,44.084565,-103.437985,1
+SD,4633180,place:SD:4633180,Kadoka city,Kadoka,Kadoka,46071,Jackson County,Incorporated place,43.82876,-101.501341,1
+SD,4633380,place:SD:4633380,Kaylor CDP,Kaylor,Kaylor,46067,Hutchinson County,Census-designated place,43.193624,-97.844102,1
+SD,4633540,place:SD:4633540,Kenel CDP,Kenel,Kenel,46031,Corson County,Census-designated place,45.854496,-100.459222,1
+SD,4633580,place:SD:4633580,Kennebec town,Kennebec,Kennebec,46085,Lyman County,Incorporated place,43.903477,-99.862001,1
+SD,4633820,place:SD:4633820,Keystone town,Keystone,Keystone,46103,Pennington County,Incorporated place,43.894939,-103.426806,1
+SD,4633900,place:SD:4633900,Kidder CDP,Kidder,Kidder,46091,Marshall County,Census-designated place,45.88171,-97.713849,1
+SD,4633980,place:SD:4633980,Kimball city,Kimball,Kimball,46015,Brule County,Incorporated place,43.746962,-98.956559,1
+SD,4634340,place:SD:4634340,Kranzburg town,Kranzburg,Kranzburg,46029,Codington County,Incorporated place,44.888855,-96.909348,1
+SD,4634460,place:SD:4634460,Kyle CDP,Kyle,Kyle,46102,Oglala Lakota County,Census-designated place,43.42475,-102.179586,1
+SD,4634540,place:SD:4634540,La Bolt town,La Bolt,La Bolt,46051,Grant County,Incorporated place,45.049038,-96.675163,1
+SD,4635940,place:SD:4635940,La Plant CDP,La Plant,La Plant,46041,Dewey County,Census-designated place,45.128527,-100.641053,1
+SD,4635100,place:SD:4635100,Lake Andes city,Lake Andes,Lake Andes,46023,Charles Mix County,Incorporated place,43.156041,-98.537287,1
+SD,4635220,place:SD:4635220,Lake City town,Lake City,Lake City,46091,Marshall County,Incorporated place,45.724753,-97.414023,1
+SD,4635430,place:SD:4635430,Lake Madison CDP,Lake Madison,Lake Madison,46079,Lake County,Census-designated place,43.960895,-97.033873,1
+SD,4635460,place:SD:4635460,Lake Norden city,Lake Norden,Lake Norden,46057,Hamlin County,Incorporated place,44.578925,-97.210737,1
+SD,4635480,place:SD:4635480,Lake Poinsett CDP,Lake Poinsett,Lake Poinsett,46057,Hamlin County,Census-designated place,44.572462,-97.108429,1
+SD,4635500,place:SD:4635500,Lake Preston city,Lake Preston,Lake Preston,46077,Kingsbury County,Incorporated place,44.361663,-97.375992,1
+SD,4635671,place:SD:4635671,Lakeview Colony CDP,Lakeview Colony,Lakeview Colony,46023,Charles Mix County,Census-designated place,43.220202,-98.456374,1
+SD,4635780,place:SD:4635780,Lane town,Lane,Lane,46073,Jerauld County,Incorporated place,44.069689,-98.42462,1
+SD,4635820,place:SD:4635820,Langford town,Langford,Langford,46091,Marshall County,Incorporated place,45.602279,-97.830224,1
+SD,4635900,place:SD:4635900,Lantry CDP,Lantry,Lantry,46041,Dewey County,Census-designated place,45.018387,-101.432875,1
+SD,4636220,place:SD:4636220,Lead city,Lead,Lead,46081,Lawrence County,Incorporated place,44.352762,-103.767111,1
+SD,4636260,place:SD:4636260,Lebanon town,Lebanon,Lebanon,46107,Potter County,Incorporated place,45.068784,-99.76638,1
+SD,4636340,place:SD:4636340,Lemmon city,Lemmon,Lemmon,46105,Perkins County,Incorporated place,45.93835,-102.159803,1
+SD,4636380,place:SD:4636380,Lennox city,Lennox,Lennox,46083,Lincoln County,Incorporated place,43.349369,-96.894066,1
+SD,4636460,place:SD:4636460,Leola city,Leola,Leola,46089,McPherson County,Incorporated place,45.721139,-98.938466,1
+SD,4636540,place:SD:4636540,Lesterville town,Lesterville,Lesterville,46135,Yankton County,Incorporated place,43.038603,-97.590613,1
+SD,4636620,place:SD:4636620,Letcher town,Letcher,Letcher,46111,Sanborn County,Incorporated place,43.900335,-98.146159,1
+SD,4637900,place:SD:4637900,Little Eagle CDP,Little Eagle,Little Eagle,46031,Corson County,Census-designated place,45.68507,-100.794794,1
+SD,4638760,place:SD:4638760,Long Hollow CDP,Long Hollow,Long Hollow,46109,Roberts County,Census-designated place,45.677211,-97.153531,1
+SD,4638860,place:SD:4638860,Long Lake town,Long Lake,Long Lake,46089,McPherson County,Incorporated place,45.856661,-99.205788,1
+SD,4638900,place:SD:4638900,Long Lake Colony CDP,Long Lake Colony,Long Lake Colony,46089,McPherson County,Census-designated place,45.602553,-98.826007,1
+SD,4639020,place:SD:4639020,Loomis CDP,Loomis,Loomis,46035,Davison County,Census-designated place,43.792945,-98.104094,1
+SD,4639180,place:SD:4639180,Lower Brule CDP,Lower Brule,Lower Brule,46085,Lyman County,Census-designated place,44.074134,-99.583754,1
+SD,4639260,place:SD:4639260,Lowry town,Lowry,Lowry,46129,Walworth County,Incorporated place,45.315584,-99.981154,1
+SD,4639740,place:SD:4639740,Lyons CDP,Lyons,Lyons,46099,Minnehaha County,Census-designated place,43.724889,-96.866168,1
+SD,4640220,place:SD:4640220,Madison city,Madison,Madison,46079,Lake County,Incorporated place,44.006223,-97.108481,1
+SD,4640550,place:SD:4640550,Manderson-White Horse Creek CDP,Manderson-White Horse Creek,Manderson-White Horse Creek,46102,Oglala Lakota County,Census-designated place,43.235039,-102.491511,1
+SD,4640580,place:SD:4640580,Mansfield CDP,Mansfield,Mansfield,46013,Brown County,Census-designated place,45.24648,-98.558154,1
+SD,4640860,place:SD:4640860,Marion city,Marion,Marion,46125,Turner County,Incorporated place,43.423571,-97.260549,1
+SD,4641100,place:SD:4641100,Martin city,Martin,Martin,46007,Bennett County,Incorporated place,43.174875,-101.732315,1
+SD,4641180,place:SD:4641180,Marty CDP,Marty,Marty,46023,Charles Mix County,Census-designated place,42.996489,-98.430196,1
+SD,4641220,place:SD:4641220,Marvin town,Marvin,Marvin,46051,Grant County,Incorporated place,45.260507,-96.915387,1
+SD,4641398,place:SD:4641398,Maverick Junction CDP,Maverick Junction,Maverick Junction,46047,Fall River County,Census-designated place,43.40874,-103.395888,1
+SD,4641420,place:SD:4641420,Maxwell Colony CDP,Maxwell Colony,Maxwell Colony,46067,Hutchinson County,Census-designated place,43.18244,-97.635148,1
+SD,4641548,place:SD:4641548,Mayfield Colony CDP,Mayfield Colony,Mayfield Colony,46025,Clark County,Census-designated place,44.694186,-97.581162,1
+SD,4639940,place:SD:4639940,McIntosh city,McIntosh,McIntosh,46031,Corson County,Incorporated place,45.921044,-101.348558,1
+SD,4640020,place:SD:4640020,McLaughlin city,McLaughlin,McLaughlin,46031,Corson County,Incorporated place,45.813306,-100.810683,1
+SD,4641680,place:SD:4641680,Meadow View Addition CDP,Meadow View Addition,Meadow View Addition,46099,Minnehaha County,Census-designated place,43.623712,-96.701189,1
+SD,4641700,place:SD:4641700,Meckling CDP,Meckling,Meckling,46027,Clay County,Census-designated place,42.840115,-97.06724,1
+SD,4641860,place:SD:4641860,Mellette city,Mellette,Mellette,46115,Spink County,Incorporated place,45.154391,-98.498355,1
+SD,4641980,place:SD:4641980,Menno city,Menno,Menno,46067,Hutchinson County,Incorporated place,43.238489,-97.577437,1
+SD,4642140,place:SD:4642140,Midland town,Midland,Midland,46055,Haakon County,Incorporated place,44.071067,-101.155442,1
+SD,4642260,place:SD:4642260,Milbank city,Milbank,Milbank,46051,Grant County,Incorporated place,45.219432,-96.633696,1
+SD,4642440,place:SD:4642440,Millbrook Colony CDP,Millbrook Colony,Millbrook Colony,46061,Hanson County,Census-designated place,43.668098,-97.871005,1
+SD,4642460,place:SD:4642460,Miller city,Miller,Miller,46059,Hand County,Incorporated place,44.521139,-98.987041,1
+SD,4642579,place:SD:4642579,Millerdale Colony CDP,Millerdale Colony,Millerdale Colony,46059,Hand County,Census-designated place,44.397422,-99.110278,1
+SD,4642620,place:SD:4642620,Milltown CDP,Milltown,Milltown,46067,Hutchinson County,Census-designated place,43.424753,-97.810895,1
+SD,4642700,place:SD:4642700,Mina CDP,Mina,Mina,46045,Edmunds County,Census-designated place,45.454528,-98.73919,1
+SD,4642940,place:SD:4642940,Mission city,Mission,Mission,46121,Todd County,Incorporated place,43.306273,-100.660908,1
+SD,4642980,place:SD:4642980,Mission Hill town,Mission Hill,Mission Hill,46135,Yankton County,Incorporated place,42.920757,-97.279053,1
+SD,4643100,place:SD:4643100,Mitchell city,Mitchell,Mitchell,46035,Davison County,Incorporated place,43.728131,-98.041365,1
+SD,4643180,place:SD:4643180,Mobridge city,Mobridge,Mobridge,46129,Walworth County,Incorporated place,45.540961,-100.434905,1
+SD,4643380,place:SD:4643380,Monroe town,Monroe,Monroe,46125,Turner County,Incorporated place,43.486533,-97.216671,1
+SD,4643500,place:SD:4643500,Montrose city,Montrose,Montrose,46087,McCook County,Incorporated place,43.699771,-97.184405,1
+SD,4643780,place:SD:4643780,Morningside CDP,Morningside,Morningside,46005,Beadle County,Census-designated place,44.367629,-98.181393,1
+SD,4643860,place:SD:4643860,Morristown town,Morristown,Morristown,46031,Corson County,Incorporated place,45.938622,-101.71883,1
+SD,4644020,place:SD:4644020,Mound City town,Mound City,Mound City,46021,Campbell County,Incorporated place,45.726179,-100.068837,1
+SD,4644100,place:SD:4644100,Mount Vernon city,Mount Vernon,Mount Vernon,46035,Davison County,Incorporated place,43.712642,-98.261145,1
+SD,4644032,place:SD:4644032,Mountain Plains CDP,Mountain Plains,Mountain Plains,46081,Lawrence County,Census-designated place,44.467003,-103.863573,1
+SD,4644260,place:SD:4644260,Murdo city,Murdo,Murdo,46075,Jones County,Incorporated place,43.889361,-100.714156,1
+SD,4644620,place:SD:4644620,Naples town,Naples,Naples,46025,Clark County,Incorporated place,44.771645,-97.513038,1
+SD,4644820,place:SD:4644820,New Effington town,New Effington,New Effington,46109,Roberts County,Incorporated place,45.857577,-96.915005,1
+SD,4644900,place:SD:4644900,New Elm Spring Colony CDP,New Elm Spring Colony,New Elm Spring Colony,46067,Hutchinson County,Census-designated place,43.48918,-97.828377,1
+SD,4644940,place:SD:4644940,New Holland CDP,New Holland,New Holland,46043,Douglas County,Census-designated place,43.428675,-98.607331,1
+SD,4645060,place:SD:4645060,New Underwood city,New Underwood,New Underwood,46103,Pennington County,Incorporated place,44.09965,-102.838283,1
+SD,4645100,place:SD:4645100,New Witten town,New Witten,New Witten,46123,Tripp County,Incorporated place,43.440641,-100.081957,1
+SD,4644800,place:SD:4644800,Newdale Colony CDP,Newdale Colony,Newdale Colony,46011,Brookings County,Census-designated place,44.290013,-96.524318,1
+SD,4644860,place:SD:4644860,Newell city,Newell,Newell,46019,Butte County,Incorporated place,44.717454,-103.418329,1
+SD,4645024,place:SD:4645024,Newport Colony CDP,Newport Colony,Newport Colony,46091,Marshall County,Census-designated place,45.679083,-97.932789,1
+SD,4645180,place:SD:4645180,Nisland town,Nisland,Nisland,46019,Butte County,Incorporated place,44.673046,-103.553842,1
+SD,4645390,place:SD:4645390,Norfeld Colony CDP,Norfeld Colony,Norfeld Colony,46011,Brookings County,Census-designated place,44.423263,-96.55617,1
+SD,4645420,place:SD:4645420,Norris CDP,Norris,Norris,46095,Mellette County,Census-designated place,43.472289,-101.192798,1
+SD,4645548,place:SD:4645548,North Eagle Butte CDP,North Eagle Butte,North Eagle Butte,46041,Dewey County,Census-designated place,45.021502,-101.230904,1
+SD,4645700,place:SD:4645700,North Sioux City city,North Sioux City,North Sioux City,46127,Union County,Incorporated place,42.535885,-96.494717,1
+SD,4645715,place:SD:4645715,North Spearfish CDP,North Spearfish,North Spearfish,46081,Lawrence County,Census-designated place,44.510708,-103.904527,1
+SD,4645740,place:SD:4645740,Northville town,Northville,Northville,46115,Spink County,Incorporated place,45.155384,-98.579325,1
+SD,4646060,place:SD:4646060,Nunda town,Nunda,Nunda,46079,Lake County,Incorporated place,44.159852,-97.019394,1
+SD,4646180,place:SD:4646180,Oacoma town,Oacoma,Oacoma,46085,Lyman County,Incorporated place,43.804516,-99.366082,1
+SD,4646240,place:SD:4646240,Oahe Acres CDP,Oahe Acres,Oahe Acres,46065,Hughes County,Census-designated place,44.464816,-100.344913,1
+SD,4646388,place:SD:4646388,Oak Lane Colony CDP,Oak Lane Colony,Oak Lane Colony,46061,Hanson County,Census-designated place,43.509897,-97.741244,1
+SD,4646500,place:SD:4646500,Oelrichs town,Oelrichs,Oelrichs,46047,Fall River County,Incorporated place,43.182023,-103.233427,1
+SD,4646540,place:SD:4646540,Oglala CDP,Oglala,Oglala,46102,Oglala Lakota County,Census-designated place,43.191546,-102.709898,1
+SD,4646620,place:SD:4646620,Okaton CDP,Okaton,Okaton,46075,Jones County,Census-designated place,43.852108,-100.881366,1
+SD,4646660,place:SD:4646660,Okreek CDP,Okreek,Okreek,46121,Todd County,Census-designated place,43.348475,-100.38866,1
+SD,4646700,place:SD:4646700,Ola CDP,Ola,Ola,46015,Brule County,Census-designated place,43.600503,-99.211375,1
+SD,4646770,place:SD:4646770,Old Elm Spring Colony CDP,Old Elm Spring Colony,Old Elm Spring Colony,46067,Hutchinson County,Census-designated place,43.491801,-97.804332,1
+SD,4646780,place:SD:4646780,Oldham city,Oldham,Oldham,46077,Kingsbury County,Incorporated place,44.228201,-97.309527,1
+SD,4646900,place:SD:4646900,Olivet town,Olivet,Olivet,46067,Hutchinson County,Incorporated place,43.241689,-97.674359,1
+SD,4646980,place:SD:4646980,Onaka town,Onaka,Onaka,46049,Faulk County,Incorporated place,45.19118,-99.464715,1
+SD,4647180,place:SD:4647180,Onida city,Onida,Onida,46119,Sully County,Incorporated place,44.704872,-100.067506,1
+SD,4647340,place:SD:4647340,Oral CDP,Oral,Oral,46047,Fall River County,Census-designated place,43.411065,-103.259631,1
+SD,4647460,place:SD:4647460,Orient town,Orient,Orient,46049,Faulk County,Incorporated place,44.90171,-99.088712,1
+SD,4647588,place:SD:4647588,Orland Colony CDP,Orland Colony,Orland Colony,46087,McCook County,Census-designated place,43.821573,-97.199015,1
+SD,4647660,place:SD:4647660,Ortley town,Ortley,Ortley,46109,Roberts County,Incorporated place,45.334946,-97.204946,1
+SD,4648380,place:SD:4648380,Parker city,Parker,Parker,46125,Turner County,Incorporated place,43.397701,-97.13352,1
+SD,4648460,place:SD:4648460,Parkston city,Parkston,Parkston,46067,Hutchinson County,Incorporated place,43.392946,-97.986424,1
+SD,4648500,place:SD:4648500,Parmelee CDP,Parmelee,Parmelee,46121,Todd County,Census-designated place,43.333681,-101.042951,1
+SD,4648820,place:SD:4648820,Pearl Creek Colony CDP,Pearl Creek Colony,Pearl Creek Colony,46005,Beadle County,Census-designated place,44.326034,-97.918419,1
+SD,4648940,place:SD:4648940,Peever town,Peever,Peever,46109,Roberts County,Incorporated place,45.542235,-96.956123,1
+SD,4648948,place:SD:4648948,Peever Flats CDP,Peever Flats,Peever Flats,46109,Roberts County,Census-designated place,45.523388,-96.935548,1
+SD,4649028,place:SD:4649028,Pembrook Colony CDP,Pembrook Colony,Pembrook Colony,46045,Edmunds County,Census-designated place,45.372963,-98.993046,1
+SD,4649300,place:SD:4649300,Philip city,Philip,Philip,46055,Haakon County,Incorporated place,44.040888,-101.664804,1
+SD,4649460,place:SD:4649460,Pickstown town,Pickstown,Pickstown,46023,Charles Mix County,Incorporated place,43.067007,-98.529614,1
+SD,4649500,place:SD:4649500,Piedmont city,Piedmont,Piedmont,46093,Meade County,Incorporated place,44.219913,-103.376821,1
+SD,4649540,place:SD:4649540,Pierpont town,Pierpont,Pierpont,46037,Day County,Incorporated place,45.495281,-97.832041,1
+SD,4649600,place:SD:4649600,Pierre city,Pierre,Pierre,46065,Hughes County,Incorporated place,44.375163,-100.319996,1
+SD,4649640,place:SD:4649640,Pine Lakes Addition CDP,Pine Lakes Addition,Pine Lakes Addition,46099,Minnehaha County,Census-designated place,43.551178,-96.635417,1
+SD,4649660,place:SD:4649660,Pine Ridge CDP,Pine Ridge,Pine Ridge,46102,Oglala Lakota County,Census-designated place,43.026919,-102.552352,1
+SD,4649980,place:SD:4649980,Plainview Colony CDP,Plainview Colony,Plainview Colony,46045,Edmunds County,Census-designated place,45.581164,-99.011491,1
+SD,4650020,place:SD:4650020,Plankinton city,Plankinton,Plankinton,46003,Aurora County,Incorporated place,43.715421,-98.483616,1
+SD,4650260,place:SD:4650260,Platte city,Platte,Platte,46023,Charles Mix County,Incorporated place,43.386903,-98.843451,1
+SD,4650310,place:SD:4650310,Platte Colony CDP,Platte Colony,Platte Colony,46023,Charles Mix County,Census-designated place,43.467898,-99.126223,1
+SD,4650988,place:SD:4650988,Pleasant Valley Colony CDP,Pleasant Valley Colony,Pleasant Valley Colony,46101,Moody County,Census-designated place,44.058869,-96.470966,1
+SD,4651220,place:SD:4651220,Poinsett Colony CDP,Poinsett Colony,Poinsett Colony,46057,Hamlin County,Census-designated place,44.64142,-96.900264,1
+SD,4651260,place:SD:4651260,Pollock town,Pollock,Pollock,46021,Campbell County,Incorporated place,45.900515,-100.288525,1
+SD,4651340,place:SD:4651340,Porcupine CDP,Porcupine,Porcupine,46102,Oglala Lakota County,Census-designated place,43.268525,-102.335259,1
+SD,4651660,place:SD:4651660,Prairie City CDP,Prairie City,Prairie City,46105,Perkins County,Census-designated place,45.536054,-102.817088,1
+SD,4651724,place:SD:4651724,Prairiewood Village CDP,Prairiewood Village,Prairiewood Village,46013,Brown County,Census-designated place,45.509376,-98.419403,1
+SD,4651820,place:SD:4651820,Presho city,Presho,Presho,46085,Lyman County,Incorporated place,43.907158,-100.05837,1
+SD,4651940,place:SD:4651940,Pringle town,Pringle,Pringle,46033,Custer County,Incorporated place,43.608993,-103.594582,1
+SD,4652140,place:SD:4652140,Provo CDP,Provo,Provo,46047,Fall River County,Census-designated place,43.193696,-103.832914,1
+SD,4652220,place:SD:4652220,Pukwana town,Pukwana,Pukwana,46015,Brule County,Incorporated place,43.779139,-99.184293,1
+SD,4652500,place:SD:4652500,Quinn town,Quinn,Quinn,46103,Pennington County,Incorporated place,43.98658,-102.126346,1
+SD,4652860,place:SD:4652860,Ramona town,Ramona,Ramona,46079,Lake County,Incorporated place,44.119872,-97.215415,1
+SD,4652980,place:SD:4652980,Rapid City city,Rapid City,Rapid City,46103,Pennington County,Incorporated place,44.071071,-103.217924,1
+SD,4653007,place:SD:4653007,Rapid Valley CDP,Rapid Valley,Rapid Valley,46103,Pennington County,Census-designated place,44.067338,-103.122261,1
+SD,4653220,place:SD:4653220,Ravinia town,Ravinia,Ravinia,46023,Charles Mix County,Incorporated place,43.136494,-98.426861,1
+SD,4653260,place:SD:4653260,Raymond town,Raymond,Raymond,46025,Clark County,Incorporated place,44.910547,-97.937258,1
+SD,4653460,place:SD:4653460,Redfield city,Redfield,Redfield,46115,Spink County,Incorporated place,44.873315,-98.519214,1
+SD,4653940,place:SD:4653940,Ree Heights town,Ree Heights,Ree Heights,46059,Hand County,Incorporated place,44.515823,-99.200525,1
+SD,4654020,place:SD:4654020,Reliance town,Reliance,Reliance,46085,Lyman County,Incorporated place,43.880401,-99.601172,1
+SD,4654145,place:SD:4654145,Renner Corner CDP,Renner Corner,Renner Corner,46099,Minnehaha County,Census-designated place,43.653073,-96.69976,1
+SD,4654220,place:SD:4654220,Revillo town,Revillo,Revillo,46051,Grant County,Incorporated place,45.015315,-96.571104,1
+SD,4654750,place:SD:4654750,Richland CDP,Richland,Richland,46127,Union County,Census-designated place,42.763417,-96.64785,1
+SD,4655220,place:SD:4655220,Riverside Colony CDP,Riverside Colony,Riverside Colony,46005,Beadle County,Census-designated place,44.478097,-98.137241,1
+SD,4655540,place:SD:4655540,Rockham town,Rockham,Rockham,46049,Faulk County,Incorporated place,44.90428,-98.823412,1
+SD,4655620,place:SD:4655620,Rockport Colony CDP,Rockport Colony,Rockport Colony,46061,Hanson County,Census-designated place,43.581986,-97.843052,1
+SD,4655684,place:SD:4655684,Rolland Colony CDP,Rolland Colony,Rolland Colony,46011,Brookings County,Census-designated place,44.3437,-96.59226,1
+SD,4655820,place:SD:4655820,Roscoe city,Roscoe,Roscoe,46045,Edmunds County,Incorporated place,45.450093,-99.336714,1
+SD,4655940,place:SD:4655940,Rosebud CDP,Rosebud,Rosebud,46121,Todd County,Census-designated place,43.238697,-100.815038,1
+SD,4656140,place:SD:4656140,Rosedale Colony CDP,Rosedale Colony,Rosedale Colony,46061,Hanson County,Census-designated place,43.626716,-97.875335,1
+SD,4656340,place:SD:4656340,Rosholt town,Rosholt,Rosholt,46109,Roberts County,Incorporated place,45.866192,-96.731776,1
+SD,4656380,place:SD:4656380,Roslyn town,Roslyn,Roslyn,46037,Day County,Incorporated place,45.496614,-97.492699,1
+SD,4656420,place:SD:4656420,Roswell CDP,Roswell,Roswell,46097,Miner County,Census-designated place,44.005973,-97.697451,1
+SD,4656580,place:SD:4656580,Rowena CDP,Rowena,Rowena,46099,Minnehaha County,Census-designated place,43.519088,-96.556151,1
+SD,4656820,place:SD:4656820,Running Water CDP,Running Water,Running Water,46009,Bon Homme County,Census-designated place,42.782167,-97.981669,1
+SD,4656964,place:SD:4656964,Rustic Acres Colony CDP,Rustic Acres Colony,Rustic Acres Colony,46079,Lake County,Census-designated place,43.869779,-97.098962,1
+SD,4657340,place:SD:4657340,Salem city,Salem,Salem,46087,McCook County,Incorporated place,43.722825,-97.389306,1
+SD,4657940,place:SD:4657940,Scotland city,Scotland,Scotland,46009,Bon Homme County,Incorporated place,43.148189,-97.719838,1
+SD,4658140,place:SD:4658140,Selby city,Selby,Selby,46129,Walworth County,Incorporated place,45.50573,-100.032904,1
+SD,4658180,place:SD:4658180,Seneca town,Seneca,Seneca,46049,Faulk County,Incorporated place,45.060804,-99.509165,1
+SD,4658310,place:SD:4658310,Shamrock Colony CDP,Shamrock Colony,Shamrock Colony,46005,Beadle County,Census-designated place,44.620952,-97.965067,1
+SD,4658332,place:SD:4658332,Shannon Colony CDP,Shannon Colony,Shannon Colony,46097,Miner County,Census-designated place,43.982612,-97.425074,1
+SD,4658580,place:SD:4658580,Sherman town,Sherman,Sherman,46099,Minnehaha County,Incorporated place,43.757545,-96.475742,1
+SD,4658590,place:SD:4658590,Shindler CDP,Shindler,Shindler,46083,Lincoln County,Census-designated place,43.467706,-96.635522,1
+SD,4658680,place:SD:4658680,Sicangu Village CDP,Sicangu Village,Sicangu Village,46121,Todd County,Census-designated place,43.013755,-100.575718,1
+SD,4658868,place:SD:4658868,Silver Lake Colony CDP,Silver Lake Colony,Silver Lake Colony,46025,Clark County,Census-designated place,44.865552,-97.608671,1
+SD,4658900,place:SD:4658900,Sinai town,Sinai,Sinai,46011,Brookings County,Incorporated place,44.2446,-97.044001,1
+SD,4659020,place:SD:4659020,Sioux Falls city,Sioux Falls,Sioux Falls,46099,Minnehaha County,Incorporated place,43.540696,-96.731962,1
+SD,4659260,place:SD:4659260,Sisseton city,Sisseton,Sisseton,46109,Roberts County,Incorporated place,45.662499,-97.045293,1
+SD,4659620,place:SD:4659620,Smithwick CDP,Smithwick,Smithwick,46047,Fall River County,Census-designated place,43.297581,-103.216297,1
+SD,4659700,place:SD:4659700,Soldier Creek CDP,Soldier Creek,Soldier Creek,46121,Todd County,Census-designated place,43.332643,-100.896809,1
+SD,4659940,place:SD:4659940,South Shore town,South Shore,South Shore,46029,Codington County,Incorporated place,45.10151,-96.930111,1
+SD,4660020,place:SD:4660020,Spearfish city,Spearfish,Spearfish,46081,Lawrence County,Incorporated place,44.491689,-103.815746,1
+SD,4660060,place:SD:4660060,Spencer city,Spencer,Spencer,46087,McCook County,Incorporated place,43.727466,-97.59111,1
+SD,4660180,place:SD:4660180,Spink Colony CDP,Spink Colony,Spink Colony,46115,Spink County,Census-designated place,44.744949,-98.289184,1
+SD,4660500,place:SD:4660500,Spring Creek CDP,Spring Creek,Spring Creek,46121,Todd County,Census-designated place,43.11537,-101.030689,1
+SD,4660540,place:SD:4660540,Spring Creek Colony CDP,Spring Creek Colony,Spring Creek Colony,46089,McPherson County,Census-designated place,45.907694,-98.880645,1
+SD,4660958,place:SD:4660958,Spring Lake Colony CDP,Spring Lake Colony,Spring Lake Colony,46077,Kingsbury County,Census-designated place,44.23495,-97.174803,1
+SD,4661180,place:SD:4661180,Spring Valley Colony CDP,Spring Valley Colony,Spring Valley Colony,46073,Jerauld County,Census-designated place,44.039516,-98.881321,1
+SD,4660660,place:SD:4660660,Springfield city,Springfield,Springfield,46009,Bon Homme County,Incorporated place,42.86235,-97.896454,1
+SD,4657060,place:SD:4657060,St. Charles CDP,St. Charles,St. Charles,46053,Gregory County,Census-designated place,43.088126,-99.094883,1
+SD,4657140,place:SD:4657140,St. Francis town,St. Francis,St. Francis,46121,Todd County,Incorporated place,43.142605,-100.902786,1
+SD,4657180,place:SD:4657180,St. Lawrence town,St. Lawrence,St. Lawrence,46059,Hand County,Incorporated place,44.516607,-98.937878,1
+SD,4657260,place:SD:4657260,St. Onge CDP,St. Onge,St. Onge,46081,Lawrence County,Census-designated place,44.545747,-103.719856,1
+SD,4661580,place:SD:4661580,Stephan CDP,Stephan,Stephan,46069,Hyde County,Census-designated place,44.249138,-99.456674,1
+SD,4661700,place:SD:4661700,Stickney town,Stickney,Stickney,46003,Aurora County,Incorporated place,43.589304,-98.437636,1
+SD,4661740,place:SD:4661740,Stockholm town,Stockholm,Stockholm,46051,Grant County,Incorporated place,45.103615,-96.797196,1
+SD,4661940,place:SD:4661940,Storla CDP,Storla,Storla,46003,Aurora County,Census-designated place,43.862499,-98.352622,1
+SD,4661980,place:SD:4661980,Strandburg town,Strandburg,Strandburg,46051,Grant County,Incorporated place,45.044067,-96.760441,1
+SD,4662020,place:SD:4662020,Stratford town,Stratford,Stratford,46013,Brown County,Incorporated place,45.317449,-98.30434,1
+SD,4662100,place:SD:4662100,Sturgis city,Sturgis,Sturgis,46093,Meade County,Incorporated place,44.410441,-103.49957,1
+SD,4662155,place:SD:4662155,Summerset city,Summerset,Summerset,46093,Meade County,Incorporated place,44.193265,-103.341647,1
+SD,4662220,place:SD:4662220,Summit town,Summit,Summit,46109,Roberts County,Incorporated place,45.305573,-97.039106,1
+SD,4662434,place:SD:4662434,Sunset Colony CDP,Sunset Colony,Sunset Colony,46091,Marshall County,Census-designated place,45.809492,-97.885151,1
+SD,4662716,place:SD:4662716,Swift Bird CDP,Swift Bird,Swift Bird,46041,Dewey County,Census-designated place,45.060062,-100.354509,1
+SD,4662820,place:SD:4662820,Tabor town,Tabor,Tabor,46009,Bon Homme County,Incorporated place,42.947672,-97.65939,1
+SD,4663100,place:SD:4663100,Tea city,Tea,Tea,46083,Lincoln County,Incorporated place,43.455646,-96.824025,1
+SD,4663452,place:SD:4663452,Thunderbird Colony CDP,Thunderbird Colony,Thunderbird Colony,46049,Faulk County,Census-designated place,45.191069,-99.262278,1
+SD,4663620,place:SD:4663620,Timber Lake city,Timber Lake,Timber Lake,46041,Dewey County,Incorporated place,45.429414,-101.071434,1
+SD,4663700,place:SD:4663700,Tolstoy town,Tolstoy,Tolstoy,46107,Potter County,Incorporated place,45.208148,-99.613985,1
+SD,4663740,place:SD:4663740,Toronto town,Toronto,Toronto,46039,Deuel County,Incorporated place,44.572404,-96.641368,1
+SD,4663940,place:SD:4663940,Trent town,Trent,Trent,46101,Moody County,Incorporated place,43.906265,-96.657813,1
+SD,4664020,place:SD:4664020,Tripp city,Tripp,Tripp,46067,Hutchinson County,Incorporated place,43.22541,-97.965829,1
+SD,4664260,place:SD:4664260,Tschetter Colony CDP,Tschetter Colony,Tschetter Colony,46067,Hutchinson County,Census-designated place,43.368277,-97.693282,1
+SD,4664300,place:SD:4664300,Tulare town,Tulare,Tulare,46115,Spink County,Incorporated place,44.738221,-98.508932,1
+SD,4664540,place:SD:4664540,Turton town,Turton,Turton,46115,Spink County,Incorporated place,45.048957,-98.097407,1
+SD,4664700,place:SD:4664700,Twin Brooks town,Twin Brooks,Twin Brooks,46051,Grant County,Incorporated place,45.208974,-96.785505,1
+SD,4664840,place:SD:4664840,Two Strike CDP,Two Strike,Two Strike,46121,Todd County,Census-designated place,43.215599,-100.908227,1
+SD,4664860,place:SD:4664860,Tyndall city,Tyndall,Tyndall,46009,Bon Homme County,Incorporated place,42.98987,-97.864223,1
+SD,4665628,place:SD:4665628,Upland Colony CDP,Upland Colony,Upland Colony,46111,Sanborn County,Census-designated place,43.877143,-97.977538,1
+SD,4665780,place:SD:4665780,Utica town,Utica,Utica,46135,Yankton County,Incorporated place,42.981085,-97.496661,1
+SD,4665900,place:SD:4665900,Vale CDP,Vale,Vale,46019,Butte County,Census-designated place,44.618315,-103.39868,1
+SD,4666260,place:SD:4666260,Valley Springs city,Valley Springs,Valley Springs,46099,Minnehaha County,Incorporated place,43.582079,-96.46587,1
+SD,4666540,place:SD:4666540,Veblen city,Veblen,Veblen,46091,Marshall County,Incorporated place,45.861989,-97.28691,1
+SD,4666660,place:SD:4666660,Verdon town,Verdon,Verdon,46013,Brown County,Incorporated place,45.244189,-98.09919,1
+SD,4666700,place:SD:4666700,Vermillion city,Vermillion,Vermillion,46027,Clay County,Incorporated place,42.782088,-96.926144,1
+SD,4667020,place:SD:4667020,Viborg city,Viborg,Viborg,46125,Turner County,Incorporated place,43.172235,-97.082427,1
+SD,4667220,place:SD:4667220,Vienna town,Vienna,Vienna,46025,Clark County,Incorporated place,44.703163,-97.50002,1
+SD,4667340,place:SD:4667340,Vilas town,Vilas,Vilas,46097,Miner County,Incorporated place,44.008433,-97.595616,1
+SD,4667500,place:SD:4667500,Virgil town,Virgil,Virgil,46005,Beadle County,Incorporated place,44.290937,-98.4276,1
+SD,4667620,place:SD:4667620,Vivian CDP,Vivian,Vivian,46085,Lyman County,Census-designated place,43.927267,-100.301123,1
+SD,4667700,place:SD:4667700,Volga city,Volga,Volga,46011,Brookings County,Incorporated place,44.321808,-96.922201,1
+SD,4667780,place:SD:4667780,Volin town,Volin,Volin,46135,Yankton County,Incorporated place,42.958621,-97.181185,1
+SD,4668020,place:SD:4668020,Wagner city,Wagner,Wagner,46023,Charles Mix County,Incorporated place,43.07695,-98.291425,1
+SD,4668100,place:SD:4668100,Wakonda town,Wakonda,Wakonda,46027,Clay County,Incorporated place,43.008115,-97.105974,1
+SD,4668140,place:SD:4668140,Wakpala CDP,Wakpala,Wakpala,46031,Corson County,Census-designated place,45.659402,-100.535546,1
+SD,4668380,place:SD:4668380,Wall town,Wall,Wall,46103,Pennington County,Incorporated place,43.994057,-102.24493,1
+SD,4668420,place:SD:4668420,Wallace town,Wallace,Wallace,46029,Codington County,Incorporated place,45.084459,-97.478129,1
+SD,4668580,place:SD:4668580,Wanblee CDP,Wanblee,Wanblee,46071,Jackson County,Census-designated place,43.571404,-101.660917,1
+SD,4668660,place:SD:4668660,Ward town,Ward,Ward,46101,Moody County,Incorporated place,44.154813,-96.462592,1
+SD,4668740,place:SD:4668740,Warner town,Warner,Warner,46013,Brown County,Incorporated place,45.325174,-98.495239,1
+SD,4669140,place:SD:4669140,Wasta town,Wasta,Wasta,46103,Pennington County,Incorporated place,44.069531,-102.446368,1
+SD,4669300,place:SD:4669300,Watertown city,Watertown,Watertown,46029,Codington County,Incorporated place,44.909188,-97.155685,1
+SD,4669340,place:SD:4669340,Waubay city,Waubay,Waubay,46037,Day County,Incorporated place,45.334533,-97.305472,1
+SD,4669420,place:SD:4669420,Waverly CDP,Waverly,Waverly,46029,Codington County,Census-designated place,44.99867,-96.974135,1
+SD,4669780,place:SD:4669780,Webster city,Webster,Webster,46037,Day County,Incorporated place,45.336605,-97.523,1
+SD,4670020,place:SD:4670020,Wentworth town,Wentworth,Wentworth,46079,Lake County,Incorporated place,43.996945,-96.964546,1
+SD,4670140,place:SD:4670140,Wessington city,Wessington,Wessington,46005,Beadle County,Incorporated place,44.455112,-98.69679,1
+SD,4670220,place:SD:4670220,Wessington Springs city,Wessington Springs,Wessington Springs,46073,Jerauld County,Incorporated place,44.080526,-98.571223,1
+SD,4670284,place:SD:4670284,West Brule CDP,West Brule,West Brule,46085,Lyman County,Census-designated place,44.072742,-99.638363,1
+SD,4670540,place:SD:4670540,Westport town,Westport,Westport,46013,Brown County,Incorporated place,45.647806,-98.498118,1
+SD,4670646,place:SD:4670646,Westwood Colony CDP,Westwood Colony,Westwood Colony,46091,Marshall County,Census-designated place,45.892867,-97.781406,1
+SD,4670740,place:SD:4670740,Wetonka town,Wetonka,Wetonka,46089,McPherson County,Incorporated place,45.624216,-98.771741,1
+SD,4670940,place:SD:4670940,White city,White,White,46011,Brookings County,Incorporated place,44.435848,-96.646133,1
+SD,4671150,place:SD:4671150,White Horse CDP,White Horse,White Horse,46121,Todd County,Census-designated place,43.310101,-100.597686,1
+SD,4671180,place:SD:4671180,White Lake city,White Lake,White Lake,46003,Aurora County,Incorporated place,43.72828,-98.712023,1
+SD,4671340,place:SD:4671340,White River city,White River,White River,46095,Mellette County,Incorporated place,43.567068,-100.744875,1
+SD,4671380,place:SD:4671380,White Rock town,White Rock,White Rock,46109,Roberts County,Incorporated place,45.924744,-96.576176,1
+SD,4671440,place:SD:4671440,White Rock Colony CDP,White Rock Colony,White Rock Colony,46109,Roberts County,Census-designated place,45.910574,-96.635885,1
+SD,4671140,place:SD:4671140,Whitehorse CDP,Whitehorse,Whitehorse,46041,Dewey County,Census-designated place,45.274631,-100.901179,1
+SD,4671580,place:SD:4671580,Whitewood city,Whitewood,Whitewood,46081,Lawrence County,Incorporated place,44.462251,-103.638306,1
+SD,4671940,place:SD:4671940,Willow Lake city,Willow Lake,Willow Lake,46025,Clark County,Incorporated place,44.627901,-97.638057,1
+SD,4671980,place:SD:4671980,Wilmot city,Wilmot,Wilmot,46109,Roberts County,Incorporated place,45.409104,-96.854561,1
+SD,4672100,place:SD:4672100,Winfred CDP,Winfred,Winfred,46079,Lake County,Census-designated place,43.998795,-97.361614,1
+SD,4672180,place:SD:4672180,Winner city,Winner,Winner,46123,Tripp County,Incorporated place,43.377613,-99.855064,1
+SD,4672500,place:SD:4672500,Wolf Creek Colony CDP,Wolf Creek Colony,Wolf Creek Colony,46067,Hutchinson County,Census-designated place,43.352777,-97.616014,1
+SD,4672540,place:SD:4672540,Wolsey town,Wolsey,Wolsey,46005,Beadle County,Incorporated place,44.410607,-98.474254,1
+SD,4672590,place:SD:4672590,Wonderland Homes CDP,Wonderland Homes,Wonderland Homes,46093,Meade County,Census-designated place,44.204118,-103.344542,1
+SD,4672620,place:SD:4672620,Wood town,Wood,Wood,46095,Mellette County,Incorporated place,43.497059,-100.480158,1
+SD,4672700,place:SD:4672700,Woonsocket city,Woonsocket,Woonsocket,46111,Sanborn County,Incorporated place,44.054198,-98.271711,1
+SD,4672820,place:SD:4672820,Worthing city,Worthing,Worthing,46083,Lincoln County,Incorporated place,43.330046,-96.768247,1
+SD,4672900,place:SD:4672900,Wounded Knee CDP,Wounded Knee,Wounded Knee,46102,Oglala Lakota County,Census-designated place,43.143548,-102.368236,1
+SD,4673020,place:SD:4673020,Yale town,Yale,Yale,46005,Beadle County,Incorporated place,44.433455,-97.987907,1
+SD,4673060,place:SD:4673060,Yankton city,Yankton,Yankton,46135,Yankton County,Incorporated place,42.889751,-97.392687,1

@@ -1,0 +1,1027 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+IA,1900190,place:IA:1900190,Ackley city,Ackley,Ackley,19083,Hardin County,Incorporated place,42.551695,-93.052272,1
+IA,1900235,place:IA:1900235,Ackworth city,Ackworth,Ackworth,19181,Warren County,Incorporated place,41.364227,-93.472304,1
+IA,1900370,place:IA:1900370,Adair city,Adair,Adair,19001,Adair County,Incorporated place,41.500225,-94.644052,1
+IA,1900505,place:IA:1900505,Adel city,Adel,Adel,19049,Dallas County,Incorporated place,41.609388,-94.012663,1
+IA,1900595,place:IA:1900595,Afton city,Afton,Afton,19175,Union County,Incorporated place,41.027589,-94.195296,1
+IA,1900640,place:IA:1900640,Agency city,Agency,Agency,19179,Wapello County,Incorporated place,40.996979,-92.307285,1
+IA,1900730,place:IA:1900730,Ainsworth city,Ainsworth,Ainsworth,19183,Washington County,Incorporated place,41.29005,-91.554266,1
+IA,1900775,place:IA:1900775,Akron city,Akron,Akron,19149,Plymouth County,Incorporated place,42.826768,-96.557027,1
+IA,1900865,place:IA:1900865,Albert City city,Albert City,Albert City,19021,Buena Vista County,Incorporated place,42.781602,-94.949139,1
+IA,1900910,place:IA:1900910,Albia city,Albia,Albia,19135,Monroe County,Incorporated place,41.026511,-92.803778,1
+IA,1900955,place:IA:1900955,Albion city,Albion,Albion,19127,Marshall County,Incorporated place,42.112523,-92.98857,1
+IA,1901000,place:IA:1901000,Alburnett city,Alburnett,Alburnett,19113,Linn County,Incorporated place,42.148939,-91.620108,1
+IA,1901045,place:IA:1901045,Alden city,Alden,Alden,19083,Hardin County,Incorporated place,42.511459,-93.380599,1
+IA,1901090,place:IA:1901090,Alexander city,Alexander,Alexander,19069,Franklin County,Incorporated place,42.804419,-93.478647,1
+IA,1901135,place:IA:1901135,Algona city,Algona,Algona,19109,Kossuth County,Incorporated place,43.076307,-94.232063,1
+IA,1901180,place:IA:1901180,Alleman city,Alleman,Alleman,19153,Polk County,Incorporated place,41.815182,-93.612637,1
+IA,1901270,place:IA:1901270,Allerton city,Allerton,Allerton,19185,Wayne County,Incorporated place,40.70827,-93.368638,1
+IA,1901315,place:IA:1901315,Allison city,Allison,Allison,19023,Butler County,Incorporated place,42.751986,-92.795719,1
+IA,1901495,place:IA:1901495,Alta city,Alta,Alta,19021,Buena Vista County,Incorporated place,42.671677,-95.304513,1
+IA,1901540,place:IA:1901540,Alta Vista city,Alta Vista,Alta Vista,19037,Chickasaw County,Incorporated place,43.196679,-92.416938,1
+IA,1901585,place:IA:1901585,Alton city,Alton,Alton,19167,Sioux County,Incorporated place,42.98767,-96.009501,1
+IA,1901630,place:IA:1901630,Altoona city,Altoona,Altoona,19153,Polk County,Incorporated place,41.653452,-93.482793,1
+IA,1901675,place:IA:1901675,Alvord city,Alvord,Alvord,19119,Lyon County,Incorporated place,43.341745,-96.303675,1
+IA,1901720,place:IA:1901720,Amana CDP,Amana,Amana,19095,Iowa County,Census-designated place,41.803635,-91.875244,1
+IA,1901855,place:IA:1901855,Ames city,Ames,Ames,19169,Story County,Incorporated place,42.025725,-93.622491,1
+IA,1901990,place:IA:1901990,Anamosa city,Anamosa,Anamosa,19105,Jones County,Incorporated place,42.108825,-91.275205,1
+IA,1902035,place:IA:1902035,Anderson CDP,Anderson,Anderson,19071,Fremont County,Census-designated place,40.798309,-95.60849,1
+IA,1902080,place:IA:1902080,Andover city,Andover,Andover,19045,Clinton County,Incorporated place,41.980058,-90.252835,1
+IA,1902125,place:IA:1902125,Andrew city,Andrew,Andrew,19097,Jackson County,Incorporated place,42.153194,-90.592277,1
+IA,1902260,place:IA:1902260,Anita city,Anita,Anita,19029,Cass County,Incorporated place,41.443693,-94.766015,1
+IA,1902305,place:IA:1902305,Ankeny city,Ankeny,Ankeny,19153,Polk County,Incorporated place,41.733637,-93.599424,1
+IA,1902350,place:IA:1902350,Anthon city,Anthon,Anthon,19193,Woodbury County,Incorporated place,42.388094,-95.865549,1
+IA,1902395,place:IA:1902395,Aplington city,Aplington,Aplington,19023,Butler County,Incorporated place,42.581925,-92.883524,1
+IA,1902485,place:IA:1902485,Arcadia city,Arcadia,Arcadia,19027,Carroll County,Incorporated place,42.086193,-95.043226,1
+IA,1902530,place:IA:1902530,Archer city,Archer,Archer,19141,O'Brien County,Incorporated place,43.115019,-95.74422,1
+IA,1902620,place:IA:1902620,Aredale city,Aredale,Aredale,19023,Butler County,Incorporated place,42.833236,-93.005442,1
+IA,1902665,place:IA:1902665,Argo CDP,Argo,Argo,19163,Scott County,Census-designated place,41.625766,-90.434092,1
+IA,1902710,place:IA:1902710,Argyle CDP,Argyle,Argyle,19111,Lee County,Census-designated place,40.535848,-91.567696,1
+IA,1902755,place:IA:1902755,Arion city,Arion,Arion,19047,Crawford County,Incorporated place,41.947755,-95.462354,1
+IA,1902800,place:IA:1902800,Arispe city,Arispe,Arispe,19175,Union County,Incorporated place,40.948971,-94.218997,1
+IA,1902845,place:IA:1902845,Arlington city,Arlington,Arlington,19065,Fayette County,Incorporated place,42.748751,-91.67101,1
+IA,1902935,place:IA:1902935,Armstrong city,Armstrong,Armstrong,19063,Emmet County,Incorporated place,43.394387,-94.483411,1
+IA,1903025,place:IA:1903025,Arnolds Park city,Arnolds Park,Arnolds Park,19059,Dickinson County,Incorporated place,43.360366,-95.129177,1
+IA,1903115,place:IA:1903115,Arthur city,Arthur,Arthur,19093,Ida County,Incorporated place,42.335353,-95.346906,1
+IA,1903160,place:IA:1903160,Asbury city,Asbury,Asbury,19061,Dubuque County,Incorporated place,42.511954,-90.779942,1
+IA,1903295,place:IA:1903295,Ashton city,Ashton,Ashton,19143,Osceola County,Incorporated place,43.309432,-95.790832,1
+IA,1903340,place:IA:1903340,Aspinwall city,Aspinwall,Aspinwall,19047,Crawford County,Incorporated place,41.91052,-95.134972,1
+IA,1903385,place:IA:1903385,Atalissa city,Atalissa,Atalissa,19139,Muscatine County,Incorporated place,41.571687,-91.166454,1
+IA,1903430,place:IA:1903430,Athelstan CDP,Athelstan,Athelstan,19173,Taylor County,Census-designated place,40.572702,-94.542631,1
+IA,1903475,place:IA:1903475,Atkins city,Atkins,Atkins,19011,Benton County,Incorporated place,41.994228,-91.858651,1
+IA,1903520,place:IA:1903520,Atlantic city,Atlantic,Atlantic,19029,Cass County,Incorporated place,41.392994,-95.021881,1
+IA,1903610,place:IA:1903610,Auburn city,Auburn,Auburn,19161,Sac County,Incorporated place,42.249549,-94.877727,1
+IA,1903655,place:IA:1903655,Audubon city,Audubon,Audubon,19009,Audubon County,Incorporated place,41.718019,-94.928372,1
+IA,1903700,place:IA:1903700,Augusta CDP,Augusta,Augusta,19057,Des Moines County,Census-designated place,40.760707,-91.276975,1
+IA,1903745,place:IA:1903745,Aurelia city,Aurelia,Aurelia,19035,Cherokee County,Incorporated place,42.713066,-95.436848,1
+IA,1903835,place:IA:1903835,Aurora city,Aurora,Aurora,19019,Buchanan County,Incorporated place,42.619445,-91.729491,1
+IA,1903970,place:IA:1903970,Avoca city,Avoca,Avoca,19155,Pottawattamie County,Incorporated place,41.482864,-95.337256,1
+IA,1904105,place:IA:1904105,Ayrshire city,Ayrshire,Ayrshire,19147,Palo Alto County,Incorporated place,43.039612,-94.83397,1
+IA,1904195,place:IA:1904195,Badger city,Badger,Badger,19187,Webster County,Incorporated place,42.614131,-94.144602,1
+IA,1904240,place:IA:1904240,Bagley city,Bagley,Bagley,19077,Guthrie County,Incorporated place,41.846437,-94.430316,1
+IA,1904330,place:IA:1904330,Baldwin city,Baldwin,Baldwin,19097,Jackson County,Incorporated place,42.073134,-90.838584,1
+IA,1904375,place:IA:1904375,Balltown city,Balltown,Balltown,19061,Dubuque County,Incorporated place,42.637228,-90.869797,1
+IA,1904420,place:IA:1904420,Bancroft city,Bancroft,Bancroft,19109,Kossuth County,Incorporated place,43.292814,-94.217607,1
+IA,1904510,place:IA:1904510,Bankston city,Bankston,Bankston,19061,Dubuque County,Incorporated place,42.507589,-90.961303,1
+IA,1904555,place:IA:1904555,Barnes City city,Barnes City,Barnes City,19123,Mahaska County,Incorporated place,41.507033,-92.469541,1
+IA,1904645,place:IA:1904645,Barnum city,Barnum,Barnum,19187,Webster County,Incorporated place,42.506183,-94.365683,1
+IA,1904735,place:IA:1904735,Bartlett CDP,Bartlett,Bartlett,19071,Fremont County,Census-designated place,40.885338,-95.794666,1
+IA,1904780,place:IA:1904780,Bassett city,Bassett,Bassett,19037,Chickasaw County,Incorporated place,43.061593,-92.515256,1
+IA,1904825,place:IA:1904825,Batavia city,Batavia,Batavia,19101,Jefferson County,Incorporated place,40.994954,-92.167346,1
+IA,1904870,place:IA:1904870,Battle Creek city,Battle Creek,Battle Creek,19093,Ida County,Incorporated place,42.31702,-95.600013,1
+IA,1904915,place:IA:1904915,Baxter city,Baxter,Baxter,19099,Jasper County,Incorporated place,41.8252,-93.152455,1
+IA,1904960,place:IA:1904960,Bayard city,Bayard,Bayard,19077,Guthrie County,Incorporated place,41.851095,-94.558554,1
+IA,1905050,place:IA:1905050,Beacon city,Beacon,Beacon,19123,Mahaska County,Incorporated place,41.2761,-92.680999,1
+IA,1905095,place:IA:1905095,Beaconsfield city,Beaconsfield,Beaconsfield,19159,Ringgold County,Incorporated place,40.807223,-94.050825,1
+IA,1905140,place:IA:1905140,Beaman city,Beaman,Beaman,19075,Grundy County,Incorporated place,42.220358,-92.82187,1
+IA,1905185,place:IA:1905185,Beaver city,Beaver,Beaver,19015,Boone County,Incorporated place,42.03826,-94.13998,1
+IA,1905200,place:IA:1905200,Beaverdale CDP,Beaverdale,Beaverdale,19057,Des Moines County,Census-designated place,40.850371,-91.199947,1
+IA,1905365,place:IA:1905365,Bedford city,Bedford,Bedford,19173,Taylor County,Incorporated place,40.671152,-94.724292,1
+IA,1905590,place:IA:1905590,Belle Plaine city,Belle Plaine,Belle Plaine,19011,Benton County,Incorporated place,41.895558,-92.275744,1
+IA,1905635,place:IA:1905635,Bellevue city,Bellevue,Bellevue,19097,Jackson County,Incorporated place,42.259626,-90.4311,1
+IA,1905680,place:IA:1905680,Belmond city,Belmond,Belmond,19197,Wright County,Incorporated place,42.846432,-93.608449,1
+IA,1905770,place:IA:1905770,Bennett city,Bennett,Bennett,19031,Cedar County,Incorporated place,41.739777,-90.973587,1
+IA,1905870,place:IA:1905870,Bentley CDP,Bentley,Bentley,19155,Pottawattamie County,Census-designated place,41.375546,-95.622501,1
+IA,1905905,place:IA:1905905,Benton city,Benton,Benton,19159,Ringgold County,Incorporated place,40.70427,-94.359867,1
+IA,1906040,place:IA:1906040,Berkley city,Berkley,Berkley,19015,Boone County,Incorporated place,41.946481,-94.113621,1
+IA,1906085,place:IA:1906085,Bernard city,Bernard,Bernard,19061,Dubuque County,Incorporated place,42.313244,-90.831734,1
+IA,1906175,place:IA:1906175,Bertram city,Bertram,Bertram,19113,Linn County,Incorporated place,41.95167,-91.537841,1
+IA,1906355,place:IA:1906355,Bettendorf city,Bettendorf,Bettendorf,19163,Scott County,Incorporated place,41.567047,-90.477035,1
+IA,1906490,place:IA:1906490,Bevington city,Bevington,Bevington,19181,Warren County,Incorporated place,41.359955,-93.784187,1
+IA,1906535,place:IA:1906535,Big Rock CDP,Big Rock,Big Rock,19163,Scott County,Census-designated place,41.769079,-90.826528,1
+IA,1906625,place:IA:1906625,Birmingham city,Birmingham,Birmingham,19177,Van Buren County,Incorporated place,40.878494,-91.947895,1
+IA,1906760,place:IA:1906760,Blairsburg city,Blairsburg,Blairsburg,19079,Hamilton County,Incorporated place,42.478373,-93.642798,1
+IA,1906805,place:IA:1906805,Blairstown city,Blairstown,Blairstown,19011,Benton County,Incorporated place,41.905984,-92.082229,1
+IA,1906850,place:IA:1906850,Blakesburg city,Blakesburg,Blakesburg,19179,Wapello County,Incorporated place,40.961951,-92.634712,1
+IA,1906895,place:IA:1906895,Blanchard city,Blanchard,Blanchard,19145,Page County,Incorporated place,40.580314,-95.221238,1
+IA,1906940,place:IA:1906940,Blencoe city,Blencoe,Blencoe,19133,Monona County,Incorporated place,41.930322,-96.082057,1
+IA,1906985,place:IA:1906985,Blockton city,Blockton,Blockton,19173,Taylor County,Incorporated place,40.616881,-94.477841,1
+IA,1907030,place:IA:1907030,Bloomfield city,Bloomfield,Bloomfield,19051,Davis County,Incorporated place,40.749108,-92.417031,1
+IA,1907075,place:IA:1907075,Blue Grass city,Blue Grass,Blue Grass,19163,Scott County,Incorporated place,41.510192,-90.76694,1
+IA,1907210,place:IA:1907210,Bode city,Bode,Bode,19091,Humboldt County,Incorporated place,42.867984,-94.286241,1
+IA,1907255,place:IA:1907255,Bolan CDP,Bolan,Bolan,19195,Worth County,Census-designated place,43.370968,-93.119014,1
+IA,1907345,place:IA:1907345,Bonaparte city,Bonaparte,Bonaparte,19177,Van Buren County,Incorporated place,40.701244,-91.800697,1
+IA,1907390,place:IA:1907390,Bondurant city,Bondurant,Bondurant,19153,Polk County,Incorporated place,41.699873,-93.447983,1
+IA,1907480,place:IA:1907480,Boone city,Boone,Boone,19015,Boone County,Incorporated place,42.049257,-93.872526,1
+IA,1907660,place:IA:1907660,Bouton city,Bouton,Bouton,19049,Dallas County,Incorporated place,41.85115,-94.010564,1
+IA,1907750,place:IA:1907750,Boxholm city,Boxholm,Boxholm,19015,Boone County,Incorporated place,42.173633,-94.106085,1
+IA,1907840,place:IA:1907840,Boyden city,Boyden,Boyden,19167,Sioux County,Incorporated place,43.189116,-96.003151,1
+IA,1907930,place:IA:1907930,Braddyville city,Braddyville,Braddyville,19145,Page County,Incorporated place,40.580603,-95.031244,1
+IA,1908020,place:IA:1908020,Bradford CDP,Bradford,Bradford,19069,Franklin County,Census-designated place,42.636716,-93.252388,1
+IA,1908065,place:IA:1908065,Bradgate city,Bradgate,Bradgate,19091,Humboldt County,Incorporated place,42.803155,-94.42057,1
+IA,1908155,place:IA:1908155,Brandon city,Brandon,Brandon,19019,Buchanan County,Incorporated place,42.315047,-92.003138,1
+IA,1908200,place:IA:1908200,Brayton city,Brayton,Brayton,19009,Audubon County,Incorporated place,41.544663,-94.930256,1
+IA,1908290,place:IA:1908290,Breda city,Breda,Breda,19027,Carroll County,Incorporated place,42.183967,-94.97501,1
+IA,1908425,place:IA:1908425,Bridgewater city,Bridgewater,Bridgewater,19001,Adair County,Incorporated place,41.247107,-94.668949,1
+IA,1908470,place:IA:1908470,Brighton city,Brighton,Brighton,19183,Washington County,Incorporated place,41.174692,-91.821185,1
+IA,1908560,place:IA:1908560,Bristow city,Bristow,Bristow,19023,Butler County,Incorporated place,42.773771,-92.907947,1
+IA,1908605,place:IA:1908605,Britt city,Britt,Britt,19081,Hancock County,Incorporated place,43.098438,-93.803057,1
+IA,1908650,place:IA:1908650,Bronson city,Bronson,Bronson,19193,Woodbury County,Incorporated place,42.409025,-96.210531,1
+IA,1908695,place:IA:1908695,Brooklyn city,Brooklyn,Brooklyn,19157,Poweshiek County,Incorporated place,41.73147,-92.444886,1
+IA,1908875,place:IA:1908875,Brunsville city,Brunsville,Brunsville,19149,Plymouth County,Incorporated place,42.810976,-96.266363,1
+IA,1909145,place:IA:1909145,Buck Grove city,Buck Grove,Buck Grove,19047,Crawford County,Incorporated place,41.917703,-95.395193,1
+IA,1909100,place:IA:1909100,Buckeye city,Buckeye,Buckeye,19083,Hardin County,Incorporated place,42.419533,-93.375825,1
+IA,1909235,place:IA:1909235,Buffalo city,Buffalo,Buffalo,19163,Scott County,Incorporated place,41.461288,-90.76888,1
+IA,1909280,place:IA:1909280,Buffalo Center city,Buffalo Center,Buffalo Center,19189,Winnebago County,Incorporated place,43.389371,-93.942821,1
+IA,1909415,place:IA:1909415,Burchinal CDP,Burchinal,Burchinal,19033,Cerro Gordo County,Census-designated place,43.064797,-93.278516,1
+IA,1909550,place:IA:1909550,Burlington city,Burlington,Burlington,19057,Des Moines County,Incorporated place,40.807102,-91.123676,1
+IA,1909640,place:IA:1909640,Burr Oak CDP,Burr Oak,Burr Oak,19191,Winneshiek County,Census-designated place,43.457984,-91.861927,1
+IA,1909685,place:IA:1909685,Burt city,Burt,Burt,19109,Kossuth County,Incorporated place,43.199109,-94.221313,1
+IA,1909730,place:IA:1909730,Bussey city,Bussey,Bussey,19125,Marion County,Incorporated place,41.205432,-92.884286,1
+IA,1909820,place:IA:1909820,Calamus city,Calamus,Calamus,19045,Clinton County,Incorporated place,41.826415,-90.759673,1
+IA,1909910,place:IA:1909910,California Junction CDP,California Junction,California Junction,19085,Harrison County,Census-designated place,41.56017,-95.994752,1
+IA,1909955,place:IA:1909955,Callender city,Callender,Callender,19187,Webster County,Incorporated place,42.361634,-94.295473,1
+IA,1910045,place:IA:1910045,Calmar city,Calmar,Calmar,19191,Winneshiek County,Incorporated place,43.181104,-91.867965,1
+IA,1910090,place:IA:1910090,Calumet city,Calumet,Calumet,19141,O'Brien County,Incorporated place,42.945024,-95.551435,1
+IA,1910135,place:IA:1910135,Camanche city,Camanche,Camanche,19045,Clinton County,Incorporated place,41.792708,-90.276227,1
+IA,1910225,place:IA:1910225,Cambridge city,Cambridge,Cambridge,19169,Story County,Incorporated place,41.90168,-93.53656,1
+IA,1910450,place:IA:1910450,Cantril city,Cantril,Cantril,19177,Van Buren County,Incorporated place,40.642898,-92.068372,1
+IA,1910585,place:IA:1910585,Carbon city,Carbon,Carbon,19003,Adams County,Incorporated place,41.04975,-94.824575,1
+IA,1910765,place:IA:1910765,Carlisle city,Carlisle,Carlisle,19153,Polk County,Incorporated place,41.517032,-93.480405,1
+IA,1911035,place:IA:1911035,Carpenter city,Carpenter,Carpenter,19131,Mitchell County,Incorporated place,43.415119,-93.017244,1
+IA,1911080,place:IA:1911080,Carroll city,Carroll,Carroll,19027,Carroll County,Incorporated place,42.070359,-94.864643,1
+IA,1911170,place:IA:1911170,Carson city,Carson,Carson,19155,Pottawattamie County,Incorporated place,41.235658,-95.419811,1
+IA,1911215,place:IA:1911215,Carter Lake city,Carter Lake,Carter Lake,19155,Pottawattamie County,Incorporated place,41.288533,-95.916872,1
+IA,1911305,place:IA:1911305,Cascade city,Cascade,Cascade,19061,Dubuque County,Incorporated place,42.3018,-91.004658,1
+IA,1911395,place:IA:1911395,Casey city,Casey,Casey,19077,Guthrie County,Incorporated place,41.507457,-94.521366,1
+IA,1911485,place:IA:1911485,Castalia city,Castalia,Castalia,19191,Winneshiek County,Incorporated place,43.112575,-91.676935,1
+IA,1911530,place:IA:1911530,Castana city,Castana,Castana,19133,Monona County,Incorporated place,42.073358,-95.910388,1
+IA,1911755,place:IA:1911755,Cedar Falls city,Cedar Falls,Cedar Falls,19013,Black Hawk County,Incorporated place,42.51907,-92.454009,1
+IA,1912000,place:IA:1912000,Cedar Rapids city,Cedar Rapids,Cedar Rapids,19113,Linn County,Incorporated place,41.964226,-91.679164,1
+IA,1912225,place:IA:1912225,Center Junction CDP,Center Junction,Center Junction,19105,Jones County,Census-designated place,42.114127,-91.09034,1
+IA,1912270,place:IA:1912270,Center Point city,Center Point,Center Point,19113,Linn County,Incorporated place,42.183811,-91.780478,1
+IA,1912315,place:IA:1912315,Centerville city,Centerville,Centerville,19007,Appanoose County,Incorporated place,40.728381,-92.871391,1
+IA,1912495,place:IA:1912495,Central City city,Central City,Central City,19113,Linn County,Incorporated place,42.201437,-91.522972,1
+IA,1912630,place:IA:1912630,Centralia city,Centralia,Centralia,19061,Dubuque County,Incorporated place,42.4723,-90.836213,1
+IA,1912675,place:IA:1912675,Chapin CDP,Chapin,Chapin,19069,Franklin County,Census-designated place,42.835258,-93.222042,1
+IA,1912720,place:IA:1912720,Chariton city,Chariton,Chariton,19117,Lucas County,Incorporated place,41.017447,-93.309629,1
+IA,1912765,place:IA:1912765,Charles City city,Charles City,Charles City,19067,Floyd County,Incorporated place,43.062245,-92.671492,1
+IA,1912855,place:IA:1912855,Charlotte city,Charlotte,Charlotte,19045,Clinton County,Incorporated place,41.962169,-90.468252,1
+IA,1912900,place:IA:1912900,Charter Oak city,Charter Oak,Charter Oak,19047,Crawford County,Incorporated place,42.067838,-95.589526,1
+IA,1912945,place:IA:1912945,Chatsworth city,Chatsworth,Chatsworth,19167,Sioux County,Incorporated place,42.916301,-96.514499,1
+IA,1912990,place:IA:1912990,Chelsea city,Chelsea,Chelsea,19171,Tama County,Incorporated place,41.920463,-92.394447,1
+IA,1913080,place:IA:1913080,Cherokee city,Cherokee,Cherokee,19035,Cherokee County,Incorporated place,42.749499,-95.552159,1
+IA,1913125,place:IA:1913125,Chester city,Chester,Chester,19089,Howard County,Incorporated place,43.491579,-92.363964,1
+IA,1913215,place:IA:1913215,Chillicothe city,Chillicothe,Chillicothe,19179,Wapello County,Incorporated place,41.085939,-92.529673,1
+IA,1913350,place:IA:1913350,Churdan city,Churdan,Churdan,19073,Greene County,Incorporated place,42.153928,-94.477867,1
+IA,1913395,place:IA:1913395,Cincinnati city,Cincinnati,Cincinnati,19007,Appanoose County,Incorporated place,40.63095,-92.922199,1
+IA,1913485,place:IA:1913485,Clare city,Clare,Clare,19187,Webster County,Incorporated place,42.587439,-94.344414,1
+IA,1913530,place:IA:1913530,Clarence city,Clarence,Clarence,19031,Cedar County,Incorporated place,41.885751,-91.057925,1
+IA,1913575,place:IA:1913575,Clarinda city,Clarinda,Clarinda,19145,Page County,Incorporated place,40.737707,-95.033748,1
+IA,1913620,place:IA:1913620,Clarion city,Clarion,Clarion,19197,Wright County,Incorporated place,42.731971,-93.729808,1
+IA,1913755,place:IA:1913755,Clarksville city,Clarksville,Clarksville,19023,Butler County,Incorporated place,42.779686,-92.669657,1
+IA,1913845,place:IA:1913845,Clayton city,Clayton,Clayton,19043,Clayton County,Incorporated place,42.902269,-91.149305,1
+IA,1914025,place:IA:1914025,Clear Lake city,Clear Lake,Clear Lake,19033,Cerro Gordo County,Incorporated place,43.13509,-93.373651,1
+IA,1913980,place:IA:1913980,Clearfield city,Clearfield,Clearfield,19173,Taylor County,Incorporated place,40.800872,-94.483249,1
+IA,1914115,place:IA:1914115,Cleghorn city,Cleghorn,Cleghorn,19035,Cherokee County,Incorporated place,42.812518,-95.71273,1
+IA,1914160,place:IA:1914160,Clemons city,Clemons,Clemons,19127,Marshall County,Incorporated place,42.113915,-93.158684,1
+IA,1914250,place:IA:1914250,Clermont city,Clermont,Clermont,19065,Fayette County,Incorporated place,42.999591,-91.652252,1
+IA,1914385,place:IA:1914385,Climbing Hill CDP,Climbing Hill,Climbing Hill,19193,Woodbury County,Census-designated place,42.339375,-96.081085,1
+IA,1914430,place:IA:1914430,Clinton city,Clinton,Clinton,19045,Clinton County,Incorporated place,41.842365,-90.242816,1
+IA,1914475,place:IA:1914475,Clio city,Clio,Clio,19185,Wayne County,Incorporated place,40.63603,-93.451392,1
+IA,1914520,place:IA:1914520,Clive city,Clive,Clive,19153,Polk County,Incorporated place,41.612128,-93.800877,1
+IA,1914655,place:IA:1914655,Clutier city,Clutier,Clutier,19171,Tama County,Incorporated place,42.079326,-92.403559,1
+IA,1914835,place:IA:1914835,Coalville CDP,Coalville,Coalville,19187,Webster County,Census-designated place,42.440126,-94.115861,1
+IA,1914880,place:IA:1914880,Coburg city,Coburg,Coburg,19137,Montgomery County,Incorporated place,40.918635,-95.26549,1
+IA,1914925,place:IA:1914925,Coggon city,Coggon,Coggon,19113,Linn County,Incorporated place,42.277808,-91.529865,1
+IA,1914970,place:IA:1914970,Coin city,Coin,Coin,19145,Page County,Incorporated place,40.655828,-95.234878,1
+IA,1915015,place:IA:1915015,Colesburg city,Colesburg,Colesburg,19055,Delaware County,Incorporated place,42.638761,-91.201119,1
+IA,1915060,place:IA:1915060,Colfax city,Colfax,Colfax,19099,Jasper County,Incorporated place,41.679795,-93.236279,1
+IA,1915105,place:IA:1915105,College Springs city,College Springs,College Springs,19145,Page County,Incorporated place,40.621352,-95.120992,1
+IA,1915195,place:IA:1915195,Collins city,Collins,Collins,19169,Story County,Incorporated place,41.902382,-93.308069,1
+IA,1915240,place:IA:1915240,Colo city,Colo,Colo,19169,Story County,Incorporated place,42.014531,-93.318587,1
+IA,1915375,place:IA:1915375,Columbus City city,Columbus City,Columbus City,19115,Louisa County,Incorporated place,41.259178,-91.374738,1
+IA,1915420,place:IA:1915420,Columbus Junction city,Columbus Junction,Columbus Junction,19115,Louisa County,Incorporated place,41.278853,-91.363933,1
+IA,1915465,place:IA:1915465,Colwell city,Colwell,Colwell,19067,Floyd County,Incorporated place,43.157245,-92.591611,1
+IA,1915645,place:IA:1915645,Conesville city,Conesville,Conesville,19139,Muscatine County,Incorporated place,41.379644,-91.348585,1
+IA,1915825,place:IA:1915825,Conrad city,Conrad,Conrad,19075,Grundy County,Incorporated place,42.224012,-92.872346,1
+IA,1915870,place:IA:1915870,Conroy CDP,Conroy,Conroy,19095,Iowa County,Census-designated place,41.726613,-91.998528,1
+IA,1915960,place:IA:1915960,Conway city,Conway,Conway,19173,Taylor County,Incorporated place,40.749048,-94.619349,1
+IA,1916050,place:IA:1916050,Coon Rapids city,Coon Rapids,Coon Rapids,19027,Carroll County,Incorporated place,41.874705,-94.678452,1
+IA,1916140,place:IA:1916140,Coppock city,Coppock,Coppock,19183,Washington County,Incorporated place,41.164252,-91.714827,1
+IA,1916230,place:IA:1916230,Coralville city,Coralville,Coralville,19103,Johnson County,Incorporated place,41.698795,-91.5968,1
+IA,1916320,place:IA:1916320,Corley CDP,Corley,Corley,19165,Shelby County,Census-designated place,41.577719,-95.330558,1
+IA,1916500,place:IA:1916500,Corning city,Corning,Corning,19003,Adams County,Incorporated place,40.992369,-94.738794,1
+IA,1916545,place:IA:1916545,Correctionville city,Correctionville,Correctionville,19193,Woodbury County,Incorporated place,42.477592,-95.783158,1
+IA,1916590,place:IA:1916590,Corwith city,Corwith,Corwith,19081,Hancock County,Incorporated place,42.988882,-93.958164,1
+IA,1916635,place:IA:1916635,Corydon city,Corydon,Corydon,19185,Wayne County,Incorporated place,40.757909,-93.317602,1
+IA,1916725,place:IA:1916725,Cotter city,Cotter,Cotter,19115,Louisa County,Incorporated place,41.292494,-91.462028,1
+IA,1916815,place:IA:1916815,Coulter city,Coulter,Coulter,19069,Franklin County,Incorporated place,42.733039,-93.370071,1
+IA,1916860,place:IA:1916860,Council Bluffs city,Council Bluffs,Council Bluffs,19155,Pottawattamie County,Incorporated place,41.236147,-95.853393,1
+IA,1916950,place:IA:1916950,Craig city,Craig,Craig,19149,Plymouth County,Incorporated place,42.895534,-96.309566,1
+IA,1917130,place:IA:1917130,Crawfordsville city,Crawfordsville,Crawfordsville,19183,Washington County,Incorporated place,41.213914,-91.536634,1
+IA,1917175,place:IA:1917175,Crescent city,Crescent,Crescent,19155,Pottawattamie County,Incorporated place,41.365275,-95.858937,1
+IA,1917220,place:IA:1917220,Cresco city,Cresco,Cresco,19089,Howard County,Incorporated place,43.371746,-92.116287,1
+IA,1917265,place:IA:1917265,Creston city,Creston,Creston,19175,Union County,Incorporated place,41.060314,-94.364727,1
+IA,1917490,place:IA:1917490,Cromwell city,Cromwell,Cromwell,19175,Union County,Incorporated place,41.040489,-94.461779,1
+IA,1917670,place:IA:1917670,Crystal Lake city,Crystal Lake,Crystal Lake,19081,Hancock County,Incorporated place,43.223018,-93.792709,1
+IA,1917760,place:IA:1917760,Cumberland city,Cumberland,Cumberland,19029,Cass County,Incorporated place,41.273178,-94.870503,1
+IA,1917850,place:IA:1917850,Cumming city,Cumming,Cumming,19181,Warren County,Incorporated place,41.484719,-93.761921,1
+IA,1917895,place:IA:1917895,Curlew city,Curlew,Curlew,19147,Palo Alto County,Incorporated place,42.979699,-94.7378,1
+IA,1917940,place:IA:1917940,Cushing city,Cushing,Cushing,19193,Woodbury County,Incorporated place,42.465068,-95.675727,1
+IA,1917985,place:IA:1917985,Cylinder city,Cylinder,Cylinder,19147,Palo Alto County,Incorporated place,43.09025,-94.551229,1
+IA,1918075,place:IA:1918075,Dakota City city,Dakota City,Dakota City,19091,Humboldt County,Incorporated place,42.72383,-94.19712,1
+IA,1918255,place:IA:1918255,Dallas Center city,Dallas Center,Dallas Center,19049,Dallas County,Incorporated place,41.685546,-93.980711,1
+IA,1918345,place:IA:1918345,Dana city,Dana,Dana,19073,Greene County,Incorporated place,42.107242,-94.23835,1
+IA,1918390,place:IA:1918390,Danbury city,Danbury,Danbury,19193,Woodbury County,Incorporated place,42.236429,-95.721581,1
+IA,1918435,place:IA:1918435,Danville city,Danville,Danville,19057,Des Moines County,Incorporated place,40.859951,-91.314519,1
+IA,1919000,place:IA:1919000,Davenport city,Davenport,Davenport,19163,Scott County,Incorporated place,41.55682,-90.603948,1
+IA,1919090,place:IA:1919090,Davis City city,Davis City,Davis City,19053,Decatur County,Incorporated place,40.640009,-93.812586,1
+IA,1919135,place:IA:1919135,Dawson city,Dawson,Dawson,19049,Dallas County,Incorporated place,41.843089,-94.220319,1
+IA,1919180,place:IA:1919180,Dayton city,Dayton,Dayton,19187,Webster County,Incorporated place,42.262208,-94.071108,1
+IA,1921045,place:IA:1921045,De Soto city,De Soto,De Soto,19049,Dallas County,Incorporated place,41.537777,-94.009953,1
+IA,1919315,place:IA:1919315,Decatur city,Decatur,Decatur,19053,Decatur County,Incorporated place,40.742661,-93.832801,0
+IA,1919405,place:IA:1919405,Decorah city,Decorah,Decorah,19191,Winneshiek County,Incorporated place,43.301618,-91.78475,1
+IA,1919450,place:IA:1919450,Dedham city,Dedham,Dedham,19027,Carroll County,Incorporated place,41.908421,-94.823323,1
+IA,1919495,place:IA:1919495,Deep River city,Deep River,Deep River,19157,Poweshiek County,Incorporated place,41.581637,-92.37293,1
+IA,1919585,place:IA:1919585,Defiance city,Defiance,Defiance,19165,Shelby County,Incorporated place,41.825022,-95.340111,1
+IA,1919630,place:IA:1919630,Delaware city,Delaware,Delaware,19055,Delaware County,Incorporated place,42.472111,-91.338259,1
+IA,1919675,place:IA:1919675,Delhi city,Delhi,Delhi,19055,Delaware County,Incorporated place,42.433719,-91.325945,1
+IA,1919720,place:IA:1919720,Delmar city,Delmar,Delmar,19045,Clinton County,Incorporated place,41.998881,-90.607872,1
+IA,1919765,place:IA:1919765,Deloit city,Deloit,Deloit,19047,Crawford County,Incorporated place,42.097175,-95.317356,1
+IA,1919810,place:IA:1919810,Delphos CDP,Delphos,Delphos,19159,Ringgold County,Census-designated place,40.663177,-94.339571,1
+IA,1919855,place:IA:1919855,Delta city,Delta,Delta,19107,Keokuk County,Incorporated place,41.322766,-92.33057,1
+IA,1919945,place:IA:1919945,Denison city,Denison,Denison,19047,Crawford County,Incorporated place,42.015886,-95.352404,1
+IA,1919990,place:IA:1919990,Denmark CDP,Denmark,Denmark,19111,Lee County,Census-designated place,40.732964,-91.336172,1
+IA,1920035,place:IA:1920035,Denver city,Denver,Denver,19017,Bremer County,Incorporated place,42.66822,-92.333942,1
+IA,1920125,place:IA:1920125,Derby city,Derby,Derby,19117,Lucas County,Incorporated place,40.930296,-93.456521,1
+IA,1921000,place:IA:1921000,Des Moines city,Des Moines,Des Moines,19153,Polk County,Incorporated place,41.57259,-93.610243,1
+IA,1921180,place:IA:1921180,DeWitt city,DeWitt,DeWitt,19045,Clinton County,Incorporated place,41.822712,-90.544087,1
+IA,1921225,place:IA:1921225,Dexter city,Dexter,Dexter,19049,Dallas County,Incorporated place,41.515385,-94.227621,1
+IA,1921270,place:IA:1921270,Diagonal city,Diagonal,Diagonal,19159,Ringgold County,Incorporated place,40.810888,-94.34151,1
+IA,1921320,place:IA:1921320,Diamondhead Lake CDP,Diamondhead Lake,Diamondhead Lake,19077,Guthrie County,Census-designated place,41.551083,-94.255346,1
+IA,1921360,place:IA:1921360,Dickens city,Dickens,Dickens,19041,Clay County,Incorporated place,43.133805,-95.022243,1
+IA,1921405,place:IA:1921405,Dike city,Dike,Dike,19075,Grundy County,Incorporated place,42.464155,-92.625606,1
+IA,1921540,place:IA:1921540,Dixon city,Dixon,Dixon,19163,Scott County,Incorporated place,41.742124,-90.782371,1
+IA,1921675,place:IA:1921675,Dolliver city,Dolliver,Dolliver,19063,Emmet County,Incorporated place,43.463561,-94.614271,1
+IA,1921720,place:IA:1921720,Donahue city,Donahue,Donahue,19163,Scott County,Incorporated place,41.691534,-90.67463,1
+IA,1921810,place:IA:1921810,Donnellson city,Donnellson,Donnellson,19111,Lee County,Incorporated place,40.645318,-91.564097,1
+IA,1921900,place:IA:1921900,Doon city,Doon,Doon,19119,Lyon County,Incorporated place,43.279281,-96.233092,1
+IA,1922035,place:IA:1922035,Douds CDP,Douds,Douds,19177,Van Buren County,Census-designated place,40.844631,-92.073239,1
+IA,1922080,place:IA:1922080,Dougherty city,Dougherty,Dougherty,19033,Cerro Gordo County,Incorporated place,42.922017,-93.036127,1
+IA,1922215,place:IA:1922215,Dow City city,Dow City,Dow City,19047,Crawford County,Incorporated place,41.927465,-95.494419,1
+IA,1922260,place:IA:1922260,Downey CDP,Downey,Downey,19031,Cedar County,Census-designated place,41.611962,-91.347263,1
+IA,1922305,place:IA:1922305,Dows city,Dows,Dows,19197,Wright County,Incorporated place,42.658364,-93.502041,1
+IA,1922350,place:IA:1922350,Drakesville city,Drakesville,Drakesville,19051,Davis County,Incorporated place,40.798556,-92.481309,1
+IA,1922395,place:IA:1922395,Dubuque city,Dubuque,Dubuque,19061,Dubuque County,Incorporated place,42.498901,-90.707258,1
+IA,1922620,place:IA:1922620,Dumont city,Dumont,Dumont,19023,Butler County,Incorporated place,42.752196,-92.973652,1
+IA,1922710,place:IA:1922710,Duncan CDP,Duncan,Duncan,19081,Hancock County,Census-designated place,43.108149,-93.702237,1
+IA,1922755,place:IA:1922755,Duncombe city,Duncombe,Duncombe,19187,Webster County,Incorporated place,42.469788,-93.996792,1
+IA,1922800,place:IA:1922800,Dundee city,Dundee,Dundee,19055,Delaware County,Incorporated place,42.579284,-91.546457,1
+IA,1922845,place:IA:1922845,Dunkerton city,Dunkerton,Dunkerton,19013,Black Hawk County,Incorporated place,42.568498,-92.16002,1
+IA,1922890,place:IA:1922890,Dunlap city,Dunlap,Dunlap,19085,Harrison County,Incorporated place,41.851575,-95.601225,1
+IA,1922935,place:IA:1922935,Durango city,Durango,Durango,19061,Dubuque County,Incorporated place,42.561962,-90.775364,1
+IA,1922980,place:IA:1922980,Durant city,Durant,Durant,19031,Cedar County,Incorporated place,41.601134,-90.91381,1
+IA,1923115,place:IA:1923115,Dyersville city,Dyersville,Dyersville,19061,Dubuque County,Incorporated place,42.48241,-91.116615,1
+IA,1923160,place:IA:1923160,Dysart city,Dysart,Dysart,19171,Tama County,Incorporated place,42.172071,-92.309095,1
+IA,1923250,place:IA:1923250,Eagle Grove city,Eagle Grove,Eagle Grove,19197,Wright County,Incorporated place,42.666336,-93.902429,1
+IA,1923340,place:IA:1923340,Earlham city,Earlham,Earlham,19121,Madison County,Incorporated place,41.49441,-94.122283,1
+IA,1923385,place:IA:1923385,Earling city,Earling,Earling,19165,Shelby County,Incorporated place,41.776283,-95.419014,1
+IA,1923430,place:IA:1923430,Earlville city,Earlville,Earlville,19055,Delaware County,Incorporated place,42.482667,-91.27011,1
+IA,1923475,place:IA:1923475,Early city,Early,Early,19161,Sac County,Incorporated place,42.461098,-95.152411,1
+IA,1923520,place:IA:1923520,East Amana CDP,East Amana,East Amana,19095,Iowa County,Census-designated place,41.808665,-91.852737,1
+IA,1923790,place:IA:1923790,East Peru city,East Peru,East Peru,19121,Madison County,Incorporated place,41.227029,-93.929512,1
+IA,1923970,place:IA:1923970,Eddyville city,Eddyville,Eddyville,19179,Wapello County,Incorporated place,41.159335,-92.630333,1
+IA,1924060,place:IA:1924060,Edgewood city,Edgewood,Edgewood,19055,Delaware County,Incorporated place,42.644237,-91.402209,1
+IA,1924375,place:IA:1924375,Elberon city,Elberon,Elberon,19171,Tama County,Incorporated place,42.005532,-92.316108,1
+IA,1924420,place:IA:1924420,Eldon city,Eldon,Eldon,19179,Wapello County,Incorporated place,40.918004,-92.218227,1
+IA,1924465,place:IA:1924465,Eldora city,Eldora,Eldora,19083,Hardin County,Incorporated place,42.360533,-93.101295,1
+IA,1924600,place:IA:1924600,Eldridge city,Eldridge,Eldridge,19163,Scott County,Incorporated place,41.639034,-90.580918,1
+IA,1924645,place:IA:1924645,Elgin city,Elgin,Elgin,19065,Fayette County,Incorporated place,42.955417,-91.635366,1
+IA,1924780,place:IA:1924780,Elk Horn city,Elk Horn,Elk Horn,19165,Shelby County,Incorporated place,41.593091,-95.061252,1
+IA,1924870,place:IA:1924870,Elk Run Heights city,Elk Run Heights,Elk Run Heights,19013,Black Hawk County,Incorporated place,42.469161,-92.256065,1
+IA,1924690,place:IA:1924690,Elkader city,Elkader,Elkader,19043,Clayton County,Incorporated place,42.857388,-91.402831,1
+IA,1924735,place:IA:1924735,Elkhart city,Elkhart,Elkhart,19153,Polk County,Incorporated place,41.79423,-93.52327,1
+IA,1924825,place:IA:1924825,Elkport city,Elkport,Elkport,19043,Clayton County,Incorporated place,42.741818,-91.274767,1
+IA,1924915,place:IA:1924915,Elliott city,Elliott,Elliott,19137,Montgomery County,Incorporated place,41.149365,-95.162954,1
+IA,1925005,place:IA:1925005,Ellston city,Ellston,Ellston,19159,Ringgold County,Incorporated place,40.840071,-94.108367,1
+IA,1925050,place:IA:1925050,Ellsworth city,Ellsworth,Ellsworth,19079,Hamilton County,Incorporated place,42.310239,-93.581877,1
+IA,1925095,place:IA:1925095,Elma city,Elma,Elma,19089,Howard County,Incorporated place,43.245705,-92.438689,1
+IA,1925365,place:IA:1925365,Ely city,Ely,Ely,19113,Linn County,Incorporated place,41.881758,-91.588244,1
+IA,1925500,place:IA:1925500,Emerson city,Emerson,Emerson,19129,Mills County,Incorporated place,41.01798,-95.402725,1
+IA,1925590,place:IA:1925590,Emmetsburg city,Emmetsburg,Emmetsburg,19147,Palo Alto County,Incorporated place,43.114798,-94.679579,1
+IA,1925725,place:IA:1925725,Epworth city,Epworth,Epworth,19061,Dubuque County,Incorporated place,42.446145,-90.931502,1
+IA,1925815,place:IA:1925815,Essex city,Essex,Essex,19145,Page County,Incorporated place,40.832802,-95.305347,1
+IA,1925860,place:IA:1925860,Estherville city,Estherville,Estherville,19063,Emmet County,Incorporated place,43.399735,-94.834216,1
+IA,1925995,place:IA:1925995,Evansdale city,Evansdale,Evansdale,19013,Black Hawk County,Incorporated place,42.465698,-92.269402,1
+IA,1926175,place:IA:1926175,Everly city,Everly,Everly,19041,Clay County,Incorporated place,43.165075,-95.317519,1
+IA,1926265,place:IA:1926265,Exira city,Exira,Exira,19009,Audubon County,Incorporated place,41.591425,-94.881335,1
+IA,1926310,place:IA:1926310,Exline city,Exline,Exline,19007,Appanoose County,Incorporated place,40.649101,-92.843177,1
+IA,1926355,place:IA:1926355,Fairbank city,Fairbank,Fairbank,19019,Buchanan County,Incorporated place,42.640139,-92.047788,1
+IA,1926400,place:IA:1926400,Fairfax city,Fairfax,Fairfax,19113,Linn County,Incorporated place,41.925549,-91.777598,1
+IA,1926445,place:IA:1926445,Fairfield city,Fairfield,Fairfield,19101,Jefferson County,Incorporated place,41.006376,-91.966628,1
+IA,1926580,place:IA:1926580,Fairport CDP,Fairport,Fairport,19139,Muscatine County,Census-designated place,41.439519,-90.923803,1
+IA,1926760,place:IA:1926760,Farley city,Farley,Farley,19061,Dubuque County,Incorporated place,42.443736,-91.009182,1
+IA,1926850,place:IA:1926850,Farmersburg city,Farmersburg,Farmersburg,19043,Clayton County,Incorporated place,42.959343,-91.366709,1
+IA,1926895,place:IA:1926895,Farmington city,Farmington,Farmington,19177,Van Buren County,Incorporated place,40.638812,-91.738964,1
+IA,1926940,place:IA:1926940,Farnhamville city,Farnhamville,Farnhamville,19025,Calhoun County,Incorporated place,42.276475,-94.407713,1
+IA,1926985,place:IA:1926985,Farragut city,Farragut,Farragut,19071,Fremont County,Incorporated place,40.720099,-95.480798,1
+IA,1927165,place:IA:1927165,Fayette city,Fayette,Fayette,19065,Fayette County,Incorporated place,42.841755,-91.803755,1
+IA,1927210,place:IA:1927210,Fenton city,Fenton,Fenton,19109,Kossuth County,Incorporated place,43.218435,-94.427898,1
+IA,1927255,place:IA:1927255,Ferguson city,Ferguson,Ferguson,19127,Marshall County,Incorporated place,41.938595,-92.862908,1
+IA,1927390,place:IA:1927390,Fertile city,Fertile,Fertile,19195,Worth County,Incorporated place,43.262295,-93.423199,1
+IA,1927975,place:IA:1927975,Floris city,Floris,Floris,19051,Davis County,Incorporated place,40.8645,-92.332647,1
+IA,1928020,place:IA:1928020,Floyd city,Floyd,Floyd,19067,Floyd County,Incorporated place,43.128185,-92.739944,1
+IA,1928245,place:IA:1928245,Fonda city,Fonda,Fonda,19151,Pocahontas County,Incorporated place,42.581699,-94.845519,1
+IA,1928290,place:IA:1928290,Fontanelle city,Fontanelle,Fontanelle,19001,Adair County,Incorporated place,41.290039,-94.560204,1
+IA,1928380,place:IA:1928380,Forest City city,Forest City,Forest City,19189,Winnebago County,Incorporated place,43.257083,-93.636556,1
+IA,1928425,place:IA:1928425,Fort Atkinson city,Fort Atkinson,Fort Atkinson,19191,Winneshiek County,Incorporated place,43.144264,-91.93449,1
+IA,1928515,place:IA:1928515,Fort Dodge city,Fort Dodge,Fort Dodge,19187,Webster County,Incorporated place,42.509863,-94.175675,1
+IA,1928605,place:IA:1928605,Fort Madison city,Fort Madison,Fort Madison,19111,Lee County,Incorporated place,40.621463,-91.346257,1
+IA,1928650,place:IA:1928650,Fostoria city,Fostoria,Fostoria,19041,Clay County,Incorporated place,43.242964,-95.154941,1
+IA,1928740,place:IA:1928740,Franklin city,Franklin,Franklin,19111,Lee County,Incorporated place,40.666797,-91.511823,1
+IA,1928920,place:IA:1928920,Fraser city,Fraser,Fraser,19015,Boone County,Incorporated place,42.126252,-93.972695,1
+IA,1928965,place:IA:1928965,Fredericksburg city,Fredericksburg,Fredericksburg,19037,Chickasaw County,Incorporated place,42.964784,-92.196378,1
+IA,1929010,place:IA:1929010,Frederika city,Frederika,Frederika,19017,Bremer County,Incorporated place,42.883394,-92.306017,1
+IA,1929055,place:IA:1929055,Fredonia city,Fredonia,Fredonia,19115,Louisa County,Incorporated place,41.284311,-91.339167,1
+IA,1929190,place:IA:1929190,Fremont city,Fremont,Fremont,19123,Mahaska County,Incorporated place,41.212483,-92.433721,1
+IA,1929280,place:IA:1929280,Fruitland city,Fruitland,Fruitland,19139,Muscatine County,Incorporated place,41.34745,-91.128785,1
+IA,1929325,place:IA:1929325,Frytown CDP,Frytown,Frytown,19103,Johnson County,Census-designated place,41.571949,-91.732134,1
+IA,1929550,place:IA:1929550,Galt city,Galt,Galt,19197,Wright County,Incorporated place,42.693538,-93.604621,1
+IA,1929595,place:IA:1929595,Galva city,Galva,Galva,19093,Ida County,Incorporated place,42.505659,-95.418037,1
+IA,1929685,place:IA:1929685,Garber city,Garber,Garber,19043,Clayton County,Incorporated place,42.744245,-91.260656,1
+IA,1929730,place:IA:1929730,Garden City CDP,Garden City,Garden City,19083,Hardin County,Census-designated place,42.245521,-93.395378,1
+IA,1929775,place:IA:1929775,Garden Grove city,Garden Grove,Garden Grove,19053,Decatur County,Incorporated place,40.826716,-93.60688,1
+IA,1929910,place:IA:1929910,Garnavillo city,Garnavillo,Garnavillo,19043,Clayton County,Incorporated place,42.866688,-91.23624,1
+IA,1929955,place:IA:1929955,Garner city,Garner,Garner,19081,Hancock County,Incorporated place,43.099971,-93.603118,1
+IA,1930000,place:IA:1930000,Garrison city,Garrison,Garrison,19011,Benton County,Incorporated place,42.145031,-92.144201,1
+IA,1930045,place:IA:1930045,Garwin city,Garwin,Garwin,19171,Tama County,Incorporated place,42.093481,-92.679118,1
+IA,1930135,place:IA:1930135,Geneva city,Geneva,Geneva,19069,Franklin County,Incorporated place,42.674846,-93.129833,1
+IA,1930225,place:IA:1930225,George city,George,George,19119,Lyon County,Incorporated place,43.341873,-96.003257,1
+IA,1930540,place:IA:1930540,Gibson city,Gibson,Gibson,19107,Keokuk County,Incorporated place,41.480255,-92.392156,1
+IA,1930630,place:IA:1930630,Gilbert city,Gilbert,Gilbert,19169,Story County,Incorporated place,42.106197,-93.646053,1
+IA,1930675,place:IA:1930675,Gilbertville city,Gilbertville,Gilbertville,19013,Black Hawk County,Incorporated place,42.418279,-92.214115,1
+IA,1930810,place:IA:1930810,Gillett Grove city,Gillett Grove,Gillett Grove,19041,Clay County,Incorporated place,43.016331,-95.036759,1
+IA,1930900,place:IA:1930900,Gilman city,Gilman,Gilman,19127,Marshall County,Incorporated place,41.878881,-92.788118,1
+IA,1930945,place:IA:1930945,Gilmore City city,Gilmore City,Gilmore City,19091,Humboldt County,Incorporated place,42.726804,-94.436817,1
+IA,1931035,place:IA:1931035,Gladbrook city,Gladbrook,Gladbrook,19171,Tama County,Incorporated place,42.186106,-92.715088,1
+IA,1931350,place:IA:1931350,Glenwood city,Glenwood,Glenwood,19129,Mills County,Incorporated place,41.044701,-95.740606,1
+IA,1931395,place:IA:1931395,Glidden city,Glidden,Glidden,19027,Carroll County,Incorporated place,42.057776,-94.726606,1
+IA,1931530,place:IA:1931530,Goldfield city,Goldfield,Goldfield,19197,Wright County,Incorporated place,42.735623,-93.917906,1
+IA,1931575,place:IA:1931575,Goodell city,Goodell,Goodell,19081,Hancock County,Incorporated place,42.923826,-93.6141,1
+IA,1931665,place:IA:1931665,Goose Lake city,Goose Lake,Goose Lake,19045,Clinton County,Incorporated place,41.96764,-90.381829,1
+IA,1931710,place:IA:1931710,Gowrie city,Gowrie,Gowrie,19187,Webster County,Incorporated place,42.277932,-94.289735,1
+IA,1931800,place:IA:1931800,Graettinger city,Graettinger,Graettinger,19147,Palo Alto County,Incorporated place,43.23702,-94.750469,1
+IA,1931845,place:IA:1931845,Graf city,Graf,Graf,19061,Dubuque County,Incorporated place,42.493853,-90.873191,1
+IA,1931890,place:IA:1931890,Grafton city,Grafton,Grafton,19195,Worth County,Incorporated place,43.330678,-93.068714,1
+IA,1931980,place:IA:1931980,Grand Junction city,Grand Junction,Grand Junction,19073,Greene County,Incorporated place,42.032994,-94.236952,1
+IA,1932025,place:IA:1932025,Grand Mound city,Grand Mound,Grand Mound,19045,Clinton County,Incorporated place,41.823745,-90.650673,1
+IA,1932070,place:IA:1932070,Grand River city,Grand River,Grand River,19053,Decatur County,Incorporated place,40.819011,-93.963064,1
+IA,1932115,place:IA:1932115,Grandview city,Grandview,Grandview,19115,Louisa County,Incorporated place,41.277115,-91.188077,1
+IA,1932160,place:IA:1932160,Granger city,Granger,Granger,19049,Dallas County,Incorporated place,41.757816,-93.817061,1
+IA,1932295,place:IA:1932295,Grant city,Grant,Grant,19137,Montgomery County,Incorporated place,41.143271,-94.98417,1
+IA,1932475,place:IA:1932475,Granville city,Granville,Granville,19167,Sioux County,Incorporated place,42.985344,-95.875011,1
+IA,1932520,place:IA:1932520,Gravity city,Gravity,Gravity,19173,Taylor County,Incorporated place,40.763944,-94.743228,1
+IA,1932565,place:IA:1932565,Gray city,Gray,Gray,19009,Audubon County,Incorporated place,41.841711,-94.985863,1
+IA,1932610,place:IA:1932610,Greeley city,Greeley,Greeley,19055,Delaware County,Incorporated place,42.584905,-91.341734,1
+IA,1932925,place:IA:1932925,Green Mountain CDP,Green Mountain,Green Mountain,19127,Marshall County,Census-designated place,42.101917,-92.819626,1
+IA,1932745,place:IA:1932745,Greene city,Greene,Greene,19023,Butler County,Incorporated place,42.896506,-92.803538,1
+IA,1932790,place:IA:1932790,Greenfield city,Greenfield,Greenfield,19001,Adair County,Incorporated place,41.305797,-94.459268,1
+IA,1932970,place:IA:1932970,Greenville city,Greenville,Greenville,19041,Clay County,Incorporated place,43.016978,-95.146117,1
+IA,1933060,place:IA:1933060,Grimes city,Grimes,Grimes,19153,Polk County,Incorporated place,41.677688,-93.802226,1
+IA,1933105,place:IA:1933105,Grinnell city,Grinnell,Grinnell,19157,Poweshiek County,Incorporated place,41.735236,-92.724902,1
+IA,1933150,place:IA:1933150,Griswold city,Griswold,Griswold,19029,Cass County,Incorporated place,41.234332,-95.139368,1
+IA,1933195,place:IA:1933195,Grundy Center city,Grundy Center,Grundy Center,19075,Grundy County,Incorporated place,42.363729,-92.774017,1
+IA,1933240,place:IA:1933240,Gruver city,Gruver,Gruver,19063,Emmet County,Incorporated place,43.393076,-94.703556,1
+IA,1933285,place:IA:1933285,Guernsey city,Guernsey,Guernsey,19157,Poweshiek County,Incorporated place,41.650551,-92.346018,1
+IA,1933420,place:IA:1933420,Guthrie Center city,Guthrie Center,Guthrie Center,19077,Guthrie County,Incorporated place,41.677935,-94.499153,1
+IA,1933465,place:IA:1933465,Guttenberg city,Guttenberg,Guttenberg,19043,Clayton County,Incorporated place,42.788556,-91.108775,1
+IA,1933645,place:IA:1933645,Halbur city,Halbur,Halbur,19027,Carroll County,Incorporated place,42.005319,-94.971946,1
+IA,1933780,place:IA:1933780,Hamburg city,Hamburg,Hamburg,19071,Fremont County,Incorporated place,40.605862,-95.657528,1
+IA,1933870,place:IA:1933870,Hamilton city,Hamilton,Hamilton,19125,Marion County,Incorporated place,41.17049,-92.904095,1
+IA,1933960,place:IA:1933960,Hampton city,Hampton,Hampton,19069,Franklin County,Incorporated place,42.741989,-93.204992,1
+IA,1934005,place:IA:1934005,Hancock city,Hancock,Hancock,19155,Pottawattamie County,Incorporated place,41.39511,-95.360646,1
+IA,1934185,place:IA:1934185,Hanlontown city,Hanlontown,Hanlontown,19195,Worth County,Incorporated place,43.280934,-93.378907,1
+IA,1934365,place:IA:1934365,Hansell city,Hansell,Hansell,19069,Franklin County,Incorporated place,42.757771,-93.104119,1
+IA,1934410,place:IA:1934410,Harcourt city,Harcourt,Harcourt,19187,Webster County,Incorporated place,42.260558,-94.174487,1
+IA,1934455,place:IA:1934455,Hardy city,Hardy,Hardy,19091,Humboldt County,Incorporated place,42.81017,-94.0512,1
+IA,1934500,place:IA:1934500,Harlan city,Harlan,Harlan,19165,Shelby County,Incorporated place,41.649529,-95.326788,1
+IA,1934545,place:IA:1934545,Harper city,Harper,Harper,19107,Keokuk County,Incorporated place,41.363721,-92.050895,1
+IA,1934590,place:IA:1934590,Harpers Ferry city,Harpers Ferry,Harpers Ferry,19005,Allamakee County,Incorporated place,43.200858,-91.152102,1
+IA,1934635,place:IA:1934635,Harris city,Harris,Harris,19143,Osceola County,Incorporated place,43.4451,-95.437199,1
+IA,1934680,place:IA:1934680,Hartford city,Hartford,Hartford,19181,Warren County,Incorporated place,41.457729,-93.403799,1
+IA,1934725,place:IA:1934725,Hartley city,Hartley,Hartley,19141,O'Brien County,Incorporated place,43.179058,-95.476755,1
+IA,1934770,place:IA:1934770,Hartwick city,Hartwick,Hartwick,19157,Poweshiek County,Incorporated place,41.785608,-92.345194,1
+IA,1934860,place:IA:1934860,Harvey city,Harvey,Harvey,19125,Marion County,Incorporated place,41.317948,-92.922715,1
+IA,1934995,place:IA:1934995,Hastings city,Hastings,Hastings,19129,Mills County,Incorporated place,41.025153,-95.494742,1
+IA,1935130,place:IA:1935130,Havelock city,Havelock,Havelock,19151,Pocahontas County,Incorporated place,42.833019,-94.701025,1
+IA,1935220,place:IA:1935220,Haverhill city,Haverhill,Haverhill,19127,Marshall County,Incorporated place,41.944144,-92.960721,1
+IA,1935265,place:IA:1935265,Hawarden city,Hawarden,Hawarden,19167,Sioux County,Incorporated place,43.001314,-96.482908,1
+IA,1935310,place:IA:1935310,Hawkeye city,Hawkeye,Hawkeye,19065,Fayette County,Incorporated place,42.937787,-91.950402,1
+IA,1935445,place:IA:1935445,Hayesville city,Hayesville,Hayesville,19107,Keokuk County,Incorporated place,41.2648,-92.247792,1
+IA,1935490,place:IA:1935490,Hayfield CDP,Hayfield,Hayfield,19081,Hancock County,Census-designated place,43.178562,-93.694828,1
+IA,1935580,place:IA:1935580,Hazleton city,Hazleton,Hazleton,19019,Buchanan County,Incorporated place,42.618538,-91.906112,1
+IA,1935670,place:IA:1935670,Hedrick city,Hedrick,Hedrick,19107,Keokuk County,Incorporated place,41.171327,-92.307914,1
+IA,1935715,place:IA:1935715,Henderson city,Henderson,Henderson,19129,Mills County,Incorporated place,41.139914,-95.430294,1
+IA,1935940,place:IA:1935940,Hiawatha city,Hiawatha,Hiawatha,19113,Linn County,Incorporated place,42.056054,-91.689939,1
+IA,1936030,place:IA:1936030,High Amana CDP,High Amana,High Amana,19095,Iowa County,Census-designated place,41.801129,-91.941871,1
+IA,1936345,place:IA:1936345,Hills city,Hills,Hills,19103,Johnson County,Incorporated place,41.556611,-91.536295,1
+IA,1936390,place:IA:1936390,Hillsboro city,Hillsboro,Hillsboro,19087,Henry County,Incorporated place,40.837159,-91.711321,1
+IA,1936480,place:IA:1936480,Hinton city,Hinton,Hinton,19149,Plymouth County,Incorporated place,42.62279,-96.29815,1
+IA,1936660,place:IA:1936660,Holiday Lake CDP,Holiday Lake,Holiday Lake,19157,Poweshiek County,Census-designated place,41.817971,-92.453517,1
+IA,1936705,place:IA:1936705,Holland city,Holland,Holland,19075,Grundy County,Incorporated place,42.400127,-92.798835,1
+IA,1936840,place:IA:1936840,Holstein city,Holstein,Holstein,19093,Ida County,Incorporated place,42.487149,-95.542877,1
+IA,1936885,place:IA:1936885,Holy Cross city,Holy Cross,Holy Cross,19061,Dubuque County,Incorporated place,42.601087,-90.996177,1
+IA,1936975,place:IA:1936975,Homestead CDP,Homestead,Homestead,19095,Iowa County,Census-designated place,41.761205,-91.87114,1
+IA,1937155,place:IA:1937155,Hopkinton city,Hopkinton,Hopkinton,19055,Delaware County,Incorporated place,42.342873,-91.249048,1
+IA,1937200,place:IA:1937200,Hornick city,Hornick,Hornick,19193,Woodbury County,Incorporated place,42.228989,-96.096459,1
+IA,1937290,place:IA:1937290,Hospers city,Hospers,Hospers,19167,Sioux County,Incorporated place,43.07192,-95.903677,1
+IA,1937335,place:IA:1937335,Houghton city,Houghton,Houghton,19111,Lee County,Incorporated place,40.783708,-91.609996,1
+IA,1937425,place:IA:1937425,Hubbard city,Hubbard,Hubbard,19083,Hardin County,Incorporated place,42.305483,-93.301828,1
+IA,1937470,place:IA:1937470,Hudson city,Hudson,Hudson,19013,Black Hawk County,Incorporated place,42.434882,-92.451284,1
+IA,1937515,place:IA:1937515,Hull city,Hull,Hull,19167,Sioux County,Incorporated place,43.189577,-96.134091,1
+IA,1937560,place:IA:1937560,Humboldt city,Humboldt,Humboldt,19091,Humboldt County,Incorporated place,42.722928,-94.22502,1
+IA,1937605,place:IA:1937605,Humeston city,Humeston,Humeston,19185,Wayne County,Incorporated place,40.860728,-93.497303,1
+IA,1937875,place:IA:1937875,Hutchins CDP,Hutchins,Hutchins,19081,Hancock County,Census-designated place,43.08778,-93.88657,1
+IA,1937920,place:IA:1937920,Huxley city,Huxley,Huxley,19169,Story County,Incorporated place,41.894376,-93.591306,1
+IA,1938010,place:IA:1938010,Ida Grove city,Ida Grove,Ida Grove,19093,Ida County,Incorporated place,42.34324,-95.473368,1
+IA,1938055,place:IA:1938055,Imogene city,Imogene,Imogene,19071,Fremont County,Incorporated place,40.877674,-95.429213,1
+IA,1938100,place:IA:1938100,Independence city,Independence,Independence,19019,Buchanan County,Incorporated place,42.462193,-91.903152,1
+IA,1938280,place:IA:1938280,Indianola city,Indianola,Indianola,19181,Warren County,Incorporated place,41.362971,-93.565545,1
+IA,1938415,place:IA:1938415,Inwood city,Inwood,Inwood,19119,Lyon County,Incorporated place,43.309209,-96.434357,1
+IA,1938460,place:IA:1938460,Ionia city,Ionia,Ionia,19037,Chickasaw County,Incorporated place,43.035879,-92.458402,1
+IA,1938595,place:IA:1938595,Iowa City city,Iowa City,Iowa City,19103,Johnson County,Incorporated place,41.655654,-91.530863,1
+IA,1938640,place:IA:1938640,Iowa Falls city,Iowa Falls,Iowa Falls,19083,Hardin County,Incorporated place,42.51917,-93.267284,1
+IA,1938820,place:IA:1938820,Ireton city,Ireton,Ireton,19167,Sioux County,Incorporated place,42.974897,-96.321609,1
+IA,1938955,place:IA:1938955,Irvington CDP,Irvington,Irvington,19109,Kossuth County,Census-designated place,43.012876,-94.195715,1
+IA,1939000,place:IA:1939000,Irwin city,Irwin,Irwin,19165,Shelby County,Incorporated place,41.790131,-95.206781,1
+IA,1939135,place:IA:1939135,Jackson Junction city,Jackson Junction,Jackson Junction,19191,Winneshiek County,Incorporated place,43.10133,-92.04622,1
+IA,1939180,place:IA:1939180,Jacksonville CDP,Jacksonville,Jacksonville,19165,Shelby County,Census-designated place,41.645074,-95.151693,1
+IA,1939225,place:IA:1939225,Jamaica city,Jamaica,Jamaica,19077,Guthrie County,Incorporated place,41.845358,-94.306963,1
+IA,1939405,place:IA:1939405,Janesville city,Janesville,Janesville,19017,Bremer County,Incorporated place,42.645805,-92.462397,1
+IA,1939450,place:IA:1939450,Jefferson city,Jefferson,Jefferson,19073,Greene County,Incorporated place,42.017743,-94.379422,1
+IA,1939585,place:IA:1939585,Jesup city,Jesup,Jesup,19019,Buchanan County,Incorporated place,42.474505,-92.065974,1
+IA,1939675,place:IA:1939675,Jewell Junction city,Jewell Junction,Jewell Junction,19079,Hamilton County,Incorporated place,42.311582,-93.638693,1
+IA,1939765,place:IA:1939765,Johnston city,Johnston,Johnston,19153,Polk County,Incorporated place,41.69195,-93.724456,1
+IA,1939855,place:IA:1939855,Joice city,Joice,Joice,19195,Worth County,Incorporated place,43.364147,-93.457308,1
+IA,1939900,place:IA:1939900,Jolley city,Jolley,Jolley,19025,Calhoun County,Incorporated place,42.47938,-94.719076,1
+IA,1940170,place:IA:1940170,Kalona city,Kalona,Kalona,19183,Washington County,Incorporated place,41.487378,-91.701828,1
+IA,1940215,place:IA:1940215,Kamrar city,Kamrar,Kamrar,19079,Hamilton County,Incorporated place,42.389632,-93.727835,1
+IA,1940260,place:IA:1940260,Kanawha city,Kanawha,Kanawha,19081,Hancock County,Incorporated place,42.93416,-93.793179,1
+IA,1940350,place:IA:1940350,Kellerton city,Kellerton,Kellerton,19159,Ringgold County,Incorporated place,40.710408,-94.049929,1
+IA,1940395,place:IA:1940395,Kelley city,Kelley,Kelley,19169,Story County,Incorporated place,41.950866,-93.664958,1
+IA,1940440,place:IA:1940440,Kellogg city,Kellogg,Kellogg,19099,Jasper County,Incorporated place,41.718036,-92.907157,1
+IA,1940665,place:IA:1940665,Kensett city,Kensett,Kensett,19195,Worth County,Incorporated place,43.35338,-93.210797,1
+IA,1940710,place:IA:1940710,Kent CDP,Kent,Kent,19175,Union County,Census-designated place,40.953632,-94.461127,1
+IA,1940733,place:IA:1940733,Kent Estates CDP,Kent Estates,Kent Estates,19139,Muscatine County,Census-designated place,41.466488,-91.056876,1
+IA,1940845,place:IA:1940845,Keokuk city,Keokuk,Keokuk,19111,Lee County,Incorporated place,40.409546,-91.402511,1
+IA,1940890,place:IA:1940890,Keomah Village city,Keomah Village,Keomah Village,19123,Mahaska County,Incorporated place,41.286783,-92.536876,1
+IA,1940935,place:IA:1940935,Keosauqua city,Keosauqua,Keosauqua,19177,Van Buren County,Incorporated place,40.73464,-91.960305,1
+IA,1940980,place:IA:1940980,Keota city,Keota,Keota,19107,Keokuk County,Incorporated place,41.365129,-91.953314,1
+IA,1941070,place:IA:1941070,Keswick city,Keswick,Keswick,19107,Keokuk County,Incorporated place,41.45455,-92.238315,1
+IA,1941115,place:IA:1941115,Keystone city,Keystone,Keystone,19011,Benton County,Incorporated place,41.999484,-92.198186,1
+IA,1941295,place:IA:1941295,Kimballton city,Kimballton,Kimballton,19009,Audubon County,Incorporated place,41.627204,-95.074671,1
+IA,1941385,place:IA:1941385,Kingsley city,Kingsley,Kingsley,19149,Plymouth County,Incorporated place,42.586432,-95.967948,1
+IA,1941430,place:IA:1941430,Kingston CDP,Kingston,Kingston,19057,Des Moines County,Census-designated place,40.97923,-91.045788,1
+IA,1941475,place:IA:1941475,Kinross city,Kinross,Kinross,19107,Keokuk County,Incorporated place,41.459056,-91.987297,1
+IA,1941520,place:IA:1941520,Kirkman city,Kirkman,Kirkman,19165,Shelby County,Incorporated place,41.728596,-95.267062,1
+IA,1941565,place:IA:1941565,Kirkville city,Kirkville,Kirkville,19179,Wapello County,Incorporated place,41.142286,-92.503565,1
+IA,1941610,place:IA:1941610,Kiron city,Kiron,Kiron,19047,Crawford County,Incorporated place,42.19416,-95.327078,1
+IA,1941655,place:IA:1941655,Klemme city,Klemme,Klemme,19081,Hancock County,Incorporated place,43.009644,-93.601345,1
+IA,1941790,place:IA:1941790,Knierim city,Knierim,Knierim,19025,Calhoun County,Incorporated place,42.456339,-94.455871,1
+IA,1942015,place:IA:1942015,Knoxville city,Knoxville,Knoxville,19125,Marion County,Incorporated place,41.318484,-93.102624,1
+IA,1943050,place:IA:1943050,La Motte city,La Motte,La Motte,19097,Jackson County,Incorporated place,42.295638,-90.623289,1
+IA,1943365,place:IA:1943365,La Porte City city,La Porte City,La Porte City,19013,Black Hawk County,Incorporated place,42.313759,-92.190878,1
+IA,1942285,place:IA:1942285,Lacona city,Lacona,Lacona,19181,Warren County,Incorporated place,41.190095,-93.385081,1
+IA,1942330,place:IA:1942330,Ladora city,Ladora,Ladora,19095,Iowa County,Incorporated place,41.755742,-92.185917,1
+IA,1942465,place:IA:1942465,Lake City city,Lake City,Lake City,19025,Calhoun County,Incorporated place,42.26767,-94.731054,1
+IA,1942555,place:IA:1942555,Lake Mills city,Lake Mills,Lake Mills,19189,Winnebago County,Incorporated place,43.417081,-93.531588,1
+IA,1942575,place:IA:1942575,Lake Panorama CDP,Lake Panorama,Lake Panorama,19077,Guthrie County,Census-designated place,41.721545,-94.404021,1
+IA,1942600,place:IA:1942600,Lake Park city,Lake Park,Lake Park,19059,Dickinson County,Incorporated place,43.446938,-95.324947,1
+IA,1942690,place:IA:1942690,Lake View city,Lake View,Lake View,19161,Sac County,Incorporated place,42.301996,-95.035761,1
+IA,1942645,place:IA:1942645,Lakeside city,Lakeside,Lakeside,19021,Buena Vista County,Incorporated place,42.617373,-95.177431,1
+IA,1942825,place:IA:1942825,Lakota city,Lakota,Lakota,19109,Kossuth County,Incorporated place,43.378647,-94.096303,1
+IA,1942870,place:IA:1942870,Lambs Grove city,Lambs Grove,Lambs Grove,19099,Jasper County,Incorporated place,41.700761,-93.079345,1
+IA,1942960,place:IA:1942960,Lamoni city,Lamoni,Lamoni,19053,Decatur County,Incorporated place,40.619579,-93.930477,1
+IA,1943005,place:IA:1943005,Lamont city,Lamont,Lamont,19019,Buchanan County,Incorporated place,42.598552,-91.640388,1
+IA,1943140,place:IA:1943140,Lanesboro city,Lanesboro,Lanesboro,19027,Carroll County,Incorporated place,42.182541,-94.689769,1
+IA,1943275,place:IA:1943275,Lansing city,Lansing,Lansing,19005,Allamakee County,Incorporated place,43.359835,-91.222859,1
+IA,1943410,place:IA:1943410,Larchwood city,Larchwood,Larchwood,19119,Lyon County,Incorporated place,43.454648,-96.436341,1
+IA,1943500,place:IA:1943500,Larrabee city,Larrabee,Larrabee,19035,Cherokee County,Incorporated place,42.861501,-95.544737,1
+IA,1943590,place:IA:1943590,Latimer city,Latimer,Latimer,19069,Franklin County,Incorporated place,42.762921,-93.365518,1
+IA,1943680,place:IA:1943680,Laurel city,Laurel,Laurel,19127,Marshall County,Incorporated place,41.883997,-92.922312,1
+IA,1943725,place:IA:1943725,Laurens city,Laurens,Laurens,19151,Pocahontas County,Incorporated place,42.847502,-94.847939,1
+IA,1943815,place:IA:1943815,Lawler city,Lawler,Lawler,19037,Chickasaw County,Incorporated place,43.071919,-92.152813,1
+IA,1943905,place:IA:1943905,Lawton city,Lawton,Lawton,19193,Woodbury County,Incorporated place,42.476974,-96.185092,1
+IA,1944085,place:IA:1944085,Le Claire city,Le Claire,Le Claire,19163,Scott County,Incorporated place,41.595594,-90.377006,1
+IA,1944220,place:IA:1944220,Le Grand city,Le Grand,Le Grand,19127,Marshall County,Incorporated place,42.007186,-92.775058,1
+IA,1944400,place:IA:1944400,Le Mars city,Le Mars,Le Mars,19149,Plymouth County,Incorporated place,42.781514,-96.173311,1
+IA,1944580,place:IA:1944580,Le Roy city,Le Roy,Le Roy,19053,Decatur County,Incorporated place,40.877911,-93.592622,1
+IA,1943950,place:IA:1943950,Leando CDP,Leando,Leando,19177,Van Buren County,Census-designated place,40.821203,-92.074516,1
+IA,1944130,place:IA:1944130,Ledyard city,Ledyard,Ledyard,19109,Kossuth County,Incorporated place,43.419204,-94.159283,1
+IA,1944265,place:IA:1944265,Lehigh city,Lehigh,Lehigh,19187,Webster County,Incorporated place,42.358189,-94.053351,1
+IA,1944310,place:IA:1944310,Leighton city,Leighton,Leighton,19123,Mahaska County,Incorporated place,41.338839,-92.786348,1
+IA,1944355,place:IA:1944355,Leland city,Leland,Leland,19189,Winnebago County,Incorporated place,43.334026,-93.631824,1
+IA,1944490,place:IA:1944490,Lenox city,Lenox,Lenox,19173,Taylor County,Incorporated place,40.883177,-94.557932,1
+IA,1944535,place:IA:1944535,Leon city,Leon,Leon,19053,Decatur County,Incorporated place,40.741341,-93.755571,1
+IA,1944670,place:IA:1944670,Lester city,Lester,Lester,19119,Lyon County,Incorporated place,43.440293,-96.331416,1
+IA,1944715,place:IA:1944715,Letts city,Letts,Letts,19115,Louisa County,Incorporated place,41.330017,-91.23539,1
+IA,1944805,place:IA:1944805,Lewis city,Lewis,Lewis,19029,Cass County,Incorporated place,41.306403,-95.084269,1
+IA,1944985,place:IA:1944985,Libertyville city,Libertyville,Libertyville,19101,Jefferson County,Incorporated place,40.958218,-92.04962,1
+IA,1945030,place:IA:1945030,Lidderdale city,Lidderdale,Lidderdale,19027,Carroll County,Incorporated place,42.122421,-94.783642,1
+IA,1945165,place:IA:1945165,Lime Springs city,Lime Springs,Lime Springs,19089,Howard County,Incorporated place,43.449899,-92.284064,1
+IA,1945255,place:IA:1945255,Lincoln city,Lincoln,Lincoln,19171,Tama County,Incorporated place,42.262718,-92.69233,1
+IA,1945390,place:IA:1945390,Linden city,Linden,Linden,19049,Dallas County,Incorporated place,41.64274,-94.27002,1
+IA,1945435,place:IA:1945435,Lineville city,Lineville,Lineville,19185,Wayne County,Incorporated place,40.587032,-93.523193,1
+IA,1945480,place:IA:1945480,Linn Grove city,Linn Grove,Linn Grove,19021,Buena Vista County,Incorporated place,42.89389,-95.243647,1
+IA,1945615,place:IA:1945615,Lisbon city,Lisbon,Lisbon,19113,Linn County,Incorporated place,41.920514,-91.391611,1
+IA,1945660,place:IA:1945660,Liscomb city,Liscomb,Liscomb,19127,Marshall County,Incorporated place,42.191262,-93.006282,1
+IA,1945705,place:IA:1945705,Little Cedar CDP,Little Cedar,Little Cedar,19131,Mitchell County,Census-designated place,43.380049,-92.725683,1
+IA,1945795,place:IA:1945795,Little Rock city,Little Rock,Little Rock,19119,Lyon County,Incorporated place,43.447066,-95.880434,1
+IA,1945840,place:IA:1945840,Little Sioux city,Little Sioux,Little Sioux,19085,Harrison County,Incorporated place,41.808191,-96.027402,1
+IA,1945975,place:IA:1945975,Livermore city,Livermore,Livermore,19091,Humboldt County,Incorporated place,42.867823,-94.183803,1
+IA,1946065,place:IA:1946065,Lockridge city,Lockridge,Lockridge,19101,Jefferson County,Incorporated place,40.993593,-91.750642,1
+IA,1946155,place:IA:1946155,Logan city,Logan,Logan,19085,Harrison County,Incorporated place,41.646003,-95.791311,1
+IA,1946245,place:IA:1946245,Lohrville city,Lohrville,Lohrville,19025,Calhoun County,Incorporated place,42.266945,-94.551547,1
+IA,1946290,place:IA:1946290,Lone Rock city,Lone Rock,Lone Rock,19109,Kossuth County,Incorporated place,43.220867,-94.325289,1
+IA,1946335,place:IA:1946335,Lone Tree city,Lone Tree,Lone Tree,19103,Johnson County,Incorporated place,41.485893,-91.426698,1
+IA,1946425,place:IA:1946425,Long Grove city,Long Grove,Long Grove,19163,Scott County,Incorporated place,41.692236,-90.580271,1
+IA,1946515,place:IA:1946515,Lorimor city,Lorimor,Lorimor,19175,Union County,Incorporated place,41.126742,-94.056855,1
+IA,1946605,place:IA:1946605,Lost Nation city,Lost Nation,Lost Nation,19045,Clinton County,Incorporated place,41.967548,-90.818139,1
+IA,1946785,place:IA:1946785,Loveland CDP,Loveland,Loveland,19155,Pottawattamie County,Census-designated place,41.49702,-95.890225,1
+IA,1946830,place:IA:1946830,Lovilia city,Lovilia,Lovilia,19135,Monroe County,Incorporated place,41.134735,-92.907907,1
+IA,1947010,place:IA:1947010,Low Moor city,Low Moor,Low Moor,19045,Clinton County,Incorporated place,41.802829,-90.3551,1
+IA,1946920,place:IA:1946920,Lowden city,Lowden,Lowden,19031,Cedar County,Incorporated place,41.858932,-90.922906,1
+IA,1946965,place:IA:1946965,Lowell CDP,Lowell,Lowell,19087,Henry County,Census-designated place,40.834348,-91.438597,1
+IA,1947370,place:IA:1947370,Lu Verne city,Lu Verne,Lu Verne,19109,Kossuth County,Incorporated place,42.90946,-94.083593,1
+IA,1947055,place:IA:1947055,Luana city,Luana,Luana,19043,Clayton County,Incorporated place,43.059422,-91.455727,1
+IA,1947100,place:IA:1947100,Lucas city,Lucas,Lucas,19117,Lucas County,Incorporated place,41.03241,-93.461601,1
+IA,1947280,place:IA:1947280,Luther city,Luther,Luther,19015,Boone County,Incorporated place,41.966902,-93.817641,1
+IA,1947460,place:IA:1947460,Luxemburg city,Luxemburg,Luxemburg,19061,Dubuque County,Incorporated place,42.604024,-91.072608,1
+IA,1947505,place:IA:1947505,Luzerne city,Luzerne,Luzerne,19011,Benton County,Incorporated place,41.905434,-92.180366,1
+IA,1947595,place:IA:1947595,Lynnville city,Lynnville,Lynnville,19099,Jasper County,Incorporated place,41.572859,-92.786893,1
+IA,1947730,place:IA:1947730,Lytton city,Lytton,Lytton,19161,Sac County,Incorporated place,42.423252,-94.860874,1
+IA,1947955,place:IA:1947955,Macedonia city,Macedonia,Macedonia,19155,Pottawattamie County,Incorporated place,41.192259,-95.426544,1
+IA,1948180,place:IA:1948180,Macksburg city,Macksburg,Macksburg,19121,Madison County,Incorporated place,41.214704,-94.185073,1
+IA,1948450,place:IA:1948450,Madrid city,Madrid,Madrid,19015,Boone County,Incorporated place,41.875688,-93.820526,1
+IA,1948495,place:IA:1948495,Magnolia city,Magnolia,Magnolia,19085,Harrison County,Incorporated place,41.692671,-95.874139,1
+IA,1948500,place:IA:1948500,Maharishi Vedic City city,Maharishi Vedic City,Maharishi Vedic City,19101,Jefferson County,Incorporated place,41.054451,-92.014608,1
+IA,1948540,place:IA:1948540,Malcom city,Malcom,Malcom,19157,Poweshiek County,Incorporated place,41.706101,-92.55531,1
+IA,1948585,place:IA:1948585,Mallard city,Mallard,Mallard,19147,Palo Alto County,Incorporated place,42.939394,-94.683394,1
+IA,1948675,place:IA:1948675,Maloy city,Maloy,Maloy,19159,Ringgold County,Incorporated place,40.670467,-94.409672,1
+IA,1948720,place:IA:1948720,Malvern city,Malvern,Malvern,19129,Mills County,Incorporated place,41.003747,-95.584141,1
+IA,1948810,place:IA:1948810,Manchester city,Manchester,Manchester,19055,Delaware County,Incorporated place,42.485339,-91.456086,1
+IA,1948855,place:IA:1948855,Manilla city,Manilla,Manilla,19047,Crawford County,Incorporated place,41.892555,-95.234506,1
+IA,1948900,place:IA:1948900,Manly city,Manly,Manly,19195,Worth County,Incorporated place,43.288254,-93.200815,1
+IA,1948945,place:IA:1948945,Manning city,Manning,Manning,19027,Carroll County,Incorporated place,41.90963,-95.064442,1
+IA,1948990,place:IA:1948990,Manson city,Manson,Manson,19025,Calhoun County,Incorporated place,42.528638,-94.540064,1
+IA,1949170,place:IA:1949170,Mapleton city,Mapleton,Mapleton,19133,Monona County,Incorporated place,42.167315,-95.790869,1
+IA,1949215,place:IA:1949215,Maquoketa city,Maquoketa,Maquoketa,19097,Jackson County,Incorporated place,42.06053,-90.663862,1
+IA,1949260,place:IA:1949260,Marathon city,Marathon,Marathon,19021,Buena Vista County,Incorporated place,42.860193,-94.982866,1
+IA,1949305,place:IA:1949305,Marble Rock city,Marble Rock,Marble Rock,19067,Floyd County,Incorporated place,42.964608,-92.867772,1
+IA,1949350,place:IA:1949350,Marcus city,Marcus,Marcus,19035,Cherokee County,Incorporated place,42.822401,-95.806842,1
+IA,1949395,place:IA:1949395,Marengo city,Marengo,Marengo,19095,Iowa County,Incorporated place,41.796205,-92.068061,1
+IA,1949485,place:IA:1949485,Marion city,Marion,Marion,19113,Linn County,Incorporated place,42.044596,-91.58616,1
+IA,1949575,place:IA:1949575,Marne city,Marne,Marne,19029,Cass County,Incorporated place,41.448857,-95.110897,1
+IA,1949620,place:IA:1949620,Marquette city,Marquette,Marquette,19043,Clayton County,Incorporated place,43.043143,-91.192527,1
+IA,1949755,place:IA:1949755,Marshalltown city,Marshalltown,Marshalltown,19127,Marshall County,Incorporated place,42.0343,-92.906266,1
+IA,1949845,place:IA:1949845,Martelle city,Martelle,Martelle,19105,Jones County,Incorporated place,42.02043,-91.357818,1
+IA,1949890,place:IA:1949890,Martensdale city,Martensdale,Martensdale,19181,Warren County,Incorporated place,41.37375,-93.7388,1
+IA,1949935,place:IA:1949935,Martinsburg city,Martinsburg,Martinsburg,19107,Keokuk County,Incorporated place,41.17877,-92.25189,1
+IA,1950070,place:IA:1950070,Marysville city,Marysville,Marysville,19125,Marion County,Incorporated place,41.180833,-92.953778,1
+IA,1950160,place:IA:1950160,Mason City city,Mason City,Mason City,19033,Cerro Gordo County,Incorporated place,43.147762,-93.200403,1
+IA,1950205,place:IA:1950205,Masonville city,Masonville,Masonville,19055,Delaware County,Incorporated place,42.479808,-91.591513,1
+IA,1950250,place:IA:1950250,Massena city,Massena,Massena,19029,Cass County,Incorporated place,41.250632,-94.769859,1
+IA,1950385,place:IA:1950385,Matlock city,Matlock,Matlock,19167,Sioux County,Incorporated place,43.244307,-95.934382,1
+IA,1950430,place:IA:1950430,Maurice city,Maurice,Maurice,19167,Sioux County,Incorporated place,42.966136,-96.182029,1
+IA,1950520,place:IA:1950520,Maxwell city,Maxwell,Maxwell,19169,Story County,Incorporated place,41.891433,-93.396063,1
+IA,1950610,place:IA:1950610,Maynard city,Maynard,Maynard,19065,Fayette County,Incorporated place,42.773315,-91.878025,1
+IA,1950655,place:IA:1950655,Maysville city,Maysville,Maysville,19163,Scott County,Incorporated place,41.649532,-90.718296,1
+IA,1947775,place:IA:1947775,McCallsburg city,McCallsburg,McCallsburg,19169,Story County,Incorporated place,42.164883,-93.390781,1
+IA,1947820,place:IA:1947820,McCausland city,McCausland,McCausland,19163,Scott County,Incorporated place,41.743407,-90.445881,1
+IA,1947865,place:IA:1947865,McClelland city,McClelland,McClelland,19155,Pottawattamie County,Incorporated place,41.331616,-95.681396,1
+IA,1948000,place:IA:1948000,McGregor city,McGregor,McGregor,19043,Clayton County,Incorporated place,43.0283,-91.185697,1
+IA,1948045,place:IA:1948045,McIntire city,McIntire,McIntire,19131,Mitchell County,Incorporated place,43.435949,-92.593634,1
+IA,1950700,place:IA:1950700,Mechanicsville city,Mechanicsville,Mechanicsville,19031,Cedar County,Incorporated place,41.905593,-91.253272,1
+IA,1950790,place:IA:1950790,Mediapolis city,Mediapolis,Mediapolis,19057,Des Moines County,Incorporated place,41.007901,-91.163705,1
+IA,1950880,place:IA:1950880,Melbourne city,Melbourne,Melbourne,19127,Marshall County,Incorporated place,41.941623,-93.102304,1
+IA,1950935,place:IA:1950935,Melcher-Dallas city,Melcher-Dallas,Melcher-Dallas,19125,Marion County,Incorporated place,41.226962,-93.241634,1
+IA,1950970,place:IA:1950970,Melrose city,Melrose,Melrose,19135,Monroe County,Incorporated place,40.979074,-93.050824,1
+IA,1951060,place:IA:1951060,Melvin city,Melvin,Melvin,19143,Osceola County,Incorporated place,43.286461,-95.608631,1
+IA,1951105,place:IA:1951105,Menlo city,Menlo,Menlo,19077,Guthrie County,Incorporated place,41.522126,-94.403754,1
+IA,1951150,place:IA:1951150,Meriden city,Meriden,Meriden,19035,Cherokee County,Incorporated place,42.794537,-95.634142,1
+IA,1951375,place:IA:1951375,Merrill city,Merrill,Merrill,19149,Plymouth County,Incorporated place,42.720432,-96.251928,1
+IA,1951420,place:IA:1951420,Meservey city,Meservey,Meservey,19033,Cerro Gordo County,Incorporated place,42.915648,-93.473276,1
+IA,1951510,place:IA:1951510,Meyer CDP,Meyer,Meyer,19131,Mitchell County,Census-designated place,43.461813,-92.701063,1
+IA,1951600,place:IA:1951600,Middle Amana CDP,Middle Amana,Middle Amana,19095,Iowa County,Census-designated place,41.794765,-91.901539,1
+IA,1951735,place:IA:1951735,Middletown city,Middletown,Middletown,19057,Des Moines County,Incorporated place,40.827862,-91.262227,1
+IA,1952050,place:IA:1952050,Miles city,Miles,Miles,19097,Jackson County,Incorporated place,42.048121,-90.313318,1
+IA,1952095,place:IA:1952095,Milford city,Milford,Milford,19059,Dickinson County,Incorporated place,43.340632,-95.146655,1
+IA,1952140,place:IA:1952140,Miller CDP,Miller,Miller,19081,Hancock County,Census-designated place,43.186371,-93.607646,1
+IA,1952230,place:IA:1952230,Millersburg city,Millersburg,Millersburg,19095,Iowa County,Incorporated place,41.573345,-92.159358,1
+IA,1952275,place:IA:1952275,Millerton city,Millerton,Millerton,19185,Wayne County,Incorporated place,40.849935,-93.306614,1
+IA,1952455,place:IA:1952455,Milo city,Milo,Milo,19181,Warren County,Incorporated place,41.289284,-93.440373,1
+IA,1952500,place:IA:1952500,Milton city,Milton,Milton,19177,Van Buren County,Incorporated place,40.671531,-92.161951,1
+IA,1952545,place:IA:1952545,Minburn city,Minburn,Minburn,19049,Dallas County,Incorporated place,41.757564,-94.028481,1
+IA,1952590,place:IA:1952590,Minden city,Minden,Minden,19155,Pottawattamie County,Incorporated place,41.469409,-95.543198,1
+IA,1952635,place:IA:1952635,Mineola CDP,Mineola,Mineola,19129,Mills County,Census-designated place,41.141446,-95.694773,1
+IA,1952815,place:IA:1952815,Mingo city,Mingo,Mingo,19099,Jasper County,Incorporated place,41.766212,-93.282532,1
+IA,1952860,place:IA:1952860,Missouri Valley city,Missouri Valley,Missouri Valley,19085,Harrison County,Incorporated place,41.559319,-95.902635,1
+IA,1952905,place:IA:1952905,Mitchell city,Mitchell,Mitchell,19131,Mitchell County,Incorporated place,43.320189,-92.871072,1
+IA,1952950,place:IA:1952950,Mitchellville city,Mitchellville,Mitchellville,19153,Polk County,Incorporated place,41.670401,-93.366444,1
+IA,1952995,place:IA:1952995,Modale city,Modale,Modale,19085,Harrison County,Incorporated place,41.618227,-96.012082,1
+IA,1953085,place:IA:1953085,Mona CDP,Mona,Mona,19131,Mitchell County,Census-designated place,43.485981,-92.953441,1
+IA,1953175,place:IA:1953175,Mondamin city,Mondamin,Mondamin,19085,Harrison County,Incorporated place,41.710035,-96.021466,1
+IA,1953265,place:IA:1953265,Monmouth city,Monmouth,Monmouth,19097,Jackson County,Incorporated place,42.0751,-90.88223,1
+IA,1953310,place:IA:1953310,Monona city,Monona,Monona,19043,Clayton County,Incorporated place,43.049843,-91.391056,1
+IA,1953355,place:IA:1953355,Monroe city,Monroe,Monroe,19099,Jasper County,Incorporated place,41.518945,-93.103739,1
+IA,1953490,place:IA:1953490,Montezuma city,Montezuma,Montezuma,19157,Poweshiek County,Incorporated place,41.582991,-92.527828,1
+IA,1953625,place:IA:1953625,Monticello city,Monticello,Monticello,19105,Jones County,Incorporated place,42.230425,-91.185925,1
+IA,1953670,place:IA:1953670,Montour city,Montour,Montour,19171,Tama County,Incorporated place,41.980306,-92.715062,1
+IA,1953715,place:IA:1953715,Montpelier CDP,Montpelier,Montpelier,19139,Muscatine County,Census-designated place,41.461433,-90.811395,1
+IA,1953760,place:IA:1953760,Montrose city,Montrose,Montrose,19111,Lee County,Incorporated place,40.523558,-91.42232,1
+IA,1953805,place:IA:1953805,Mooar CDP,Mooar,Mooar,19111,Lee County,Census-designated place,40.431936,-91.44456,1
+IA,1953850,place:IA:1953850,Moorhead city,Moorhead,Moorhead,19133,Monona County,Incorporated place,41.923267,-95.851415,1
+IA,1953895,place:IA:1953895,Moorland city,Moorland,Moorland,19187,Webster County,Incorporated place,42.441533,-94.295395,1
+IA,1953985,place:IA:1953985,Moravia city,Moravia,Moravia,19007,Appanoose County,Incorporated place,40.891662,-92.819972,1
+IA,1954030,place:IA:1954030,Morley city,Morley,Morley,19105,Jones County,Incorporated place,42.006145,-91.245878,1
+IA,1954120,place:IA:1954120,Morning Sun city,Morning Sun,Morning Sun,19115,Louisa County,Incorporated place,41.094139,-91.250598,1
+IA,1954165,place:IA:1954165,Morrison city,Morrison,Morrison,19075,Grundy County,Incorporated place,42.34297,-92.673299,1
+IA,1954345,place:IA:1954345,Moscow CDP,Moscow,Moscow,19139,Muscatine County,Census-designated place,41.570664,-91.074306,1
+IA,1954390,place:IA:1954390,Moulton city,Moulton,Moulton,19007,Appanoose County,Incorporated place,40.685492,-92.676302,1
+IA,1954435,place:IA:1954435,Mount Auburn city,Mount Auburn,Mount Auburn,19011,Benton County,Incorporated place,42.257284,-92.093859,1
+IA,1954480,place:IA:1954480,Mount Ayr city,Mount Ayr,Mount Ayr,19159,Ringgold County,Incorporated place,40.714071,-94.237225,1
+IA,1954705,place:IA:1954705,Mount Pleasant city,Mount Pleasant,Mount Pleasant,19087,Henry County,Incorporated place,40.962205,-91.547162,1
+IA,1954750,place:IA:1954750,Mount Sterling CDP,Mount Sterling,Mount Sterling,19177,Van Buren County,Census-designated place,40.618481,-91.935382,1
+IA,1954795,place:IA:1954795,Mount Union CDP,Mount Union,Mount Union,19087,Henry County,Census-designated place,41.057704,-91.391398,1
+IA,1954840,place:IA:1954840,Mount Vernon city,Mount Vernon,Mount Vernon,19113,Linn County,Incorporated place,41.925066,-91.425173,1
+IA,1954930,place:IA:1954930,Moville city,Moville,Moville,19193,Woodbury County,Incorporated place,42.490235,-96.067924,1
+IA,1955065,place:IA:1955065,Murray city,Murray,Murray,19039,Clarke County,Incorporated place,41.041338,-93.948817,1
+IA,1955110,place:IA:1955110,Muscatine city,Muscatine,Muscatine,19139,Muscatine County,Incorporated place,41.419361,-91.067286,1
+IA,1955200,place:IA:1955200,Mystic city,Mystic,Mystic,19007,Appanoose County,Incorporated place,40.779175,-92.944387,1
+IA,1955335,place:IA:1955335,Nashua city,Nashua,Nashua,19037,Chickasaw County,Incorporated place,42.950393,-92.542538,1
+IA,1955515,place:IA:1955515,Nemaha city,Nemaha,Nemaha,19161,Sac County,Incorporated place,42.514693,-95.088523,1
+IA,1955560,place:IA:1955560,Neola city,Neola,Neola,19155,Pottawattamie County,Incorporated place,41.451904,-95.618914,1
+IA,1955695,place:IA:1955695,Nevada city,Nevada,Nevada,19169,Story County,Incorporated place,42.018078,-93.469303,1
+IA,1955785,place:IA:1955785,New Albin city,New Albin,New Albin,19005,Allamakee County,Incorporated place,43.497019,-91.287848,1
+IA,1956100,place:IA:1956100,New Hampton city,New Hampton,New Hampton,19037,Chickasaw County,Incorporated place,43.056219,-92.314725,1
+IA,1956145,place:IA:1956145,New Hartford city,New Hartford,New Hartford,19023,Butler County,Incorporated place,42.568201,-92.621391,1
+IA,1956190,place:IA:1956190,New Haven CDP,New Haven,New Haven,19131,Mitchell County,Census-designated place,43.283922,-92.642192,1
+IA,1956280,place:IA:1956280,New Liberty city,New Liberty,New Liberty,19163,Scott County,Incorporated place,41.715953,-90.877832,1
+IA,1956325,place:IA:1956325,New London city,New London,New London,19087,Henry County,Incorporated place,40.922919,-91.400663,1
+IA,1956370,place:IA:1956370,New Market city,New Market,New Market,19173,Taylor County,Incorporated place,40.732565,-94.900042,1
+IA,1956415,place:IA:1956415,New Providence city,New Providence,New Providence,19083,Hardin County,Incorporated place,42.281328,-93.171623,1
+IA,1956460,place:IA:1956460,New Sharon city,New Sharon,New Sharon,19123,Mahaska County,Incorporated place,41.470056,-92.650966,1
+IA,1956550,place:IA:1956550,New Vienna city,New Vienna,New Vienna,19061,Dubuque County,Incorporated place,42.548345,-91.113845,1
+IA,1956595,place:IA:1956595,New Virginia city,New Virginia,New Virginia,19181,Warren County,Incorporated place,41.181764,-93.73107,1
+IA,1955965,place:IA:1955965,Newell city,Newell,Newell,19021,Buena Vista County,Incorporated place,42.609682,-95.003978,1
+IA,1956055,place:IA:1956055,Newhall city,Newhall,Newhall,19011,Benton County,Incorporated place,41.993249,-91.967224,1
+IA,1956505,place:IA:1956505,Newton city,Newton,Newton,19099,Jasper County,Incorporated place,41.696337,-93.040512,1
+IA,1956685,place:IA:1956685,Nichols city,Nichols,Nichols,19139,Muscatine County,Incorporated place,41.479667,-91.30797,1
+IA,1956865,place:IA:1956865,Nodaway city,Nodaway,Nodaway,19003,Adams County,Incorporated place,40.936099,-94.897373,1
+IA,1956910,place:IA:1956910,Nora Springs city,Nora Springs,Nora Springs,19067,Floyd County,Incorporated place,43.145973,-93.010079,1
+IA,1957135,place:IA:1957135,North Buena Vista city,North Buena Vista,North Buena Vista,19043,Clayton County,Incorporated place,42.672713,-90.961256,1
+IA,1957225,place:IA:1957225,North English city,North English,North English,19095,Iowa County,Incorporated place,41.5168,-92.077664,1
+IA,1957360,place:IA:1957360,North Liberty city,North Liberty,North Liberty,19103,Johnson County,Incorporated place,41.743619,-91.611178,1
+IA,1957495,place:IA:1957495,North Washington city,North Washington,North Washington,19037,Chickasaw County,Incorporated place,43.117131,-92.41511,1
+IA,1957045,place:IA:1957045,Northboro city,Northboro,Northboro,19145,Page County,Incorporated place,40.60733,-95.29247,1
+IA,1957630,place:IA:1957630,Northwood city,Northwood,Northwood,19195,Worth County,Incorporated place,43.444091,-93.215969,1
+IA,1957675,place:IA:1957675,Norwalk city,Norwalk,Norwalk,19181,Warren County,Incorporated place,41.48711,-93.698329,1
+IA,1957720,place:IA:1957720,Norway city,Norway,Norway,19011,Benton County,Incorporated place,41.902206,-91.922791,1
+IA,1957945,place:IA:1957945,Numa city,Numa,Numa,19007,Appanoose County,Incorporated place,40.685562,-92.980144,1
+IA,1958048,place:IA:1958048,Oak Hills CDP,Oak Hills,Oak Hills,19057,Des Moines County,Census-designated place,40.755479,-91.149736,1
+IA,1958080,place:IA:1958080,Oakland city,Oakland,Oakland,19155,Pottawattamie County,Incorporated place,41.31371,-95.397539,1
+IA,1958170,place:IA:1958170,Oakland Acres city,Oakland Acres,Oakland Acres,19099,Jasper County,Incorporated place,41.720862,-92.81987,1
+IA,1958395,place:IA:1958395,Oakville city,Oakville,Oakville,19115,Louisa County,Incorporated place,41.097988,-91.04379,1
+IA,1958530,place:IA:1958530,Ocheyedan city,Ocheyedan,Ocheyedan,19143,Osceola County,Incorporated place,43.418215,-95.53666,1
+IA,1958575,place:IA:1958575,Odebolt city,Odebolt,Odebolt,19161,Sac County,Incorporated place,42.311842,-95.254378,1
+IA,1958620,place:IA:1958620,Oelwein city,Oelwein,Oelwein,19065,Fayette County,Incorporated place,42.671581,-91.912787,1
+IA,1958665,place:IA:1958665,Ogden city,Ogden,Ogden,19015,Boone County,Incorporated place,42.039479,-94.028288,1
+IA,1958710,place:IA:1958710,Okoboji city,Okoboji,Okoboji,19059,Dickinson County,Incorporated place,43.388082,-95.133244,1
+IA,1958890,place:IA:1958890,Olds city,Olds,Olds,19087,Henry County,Incorporated place,41.134292,-91.544026,1
+IA,1958980,place:IA:1958980,Olin city,Olin,Olin,19105,Jones County,Incorporated place,41.997473,-91.141242,1
+IA,1959070,place:IA:1959070,Ollie city,Ollie,Ollie,19107,Keokuk County,Incorporated place,41.199187,-92.092344,1
+IA,1959115,place:IA:1959115,Onawa city,Onawa,Onawa,19133,Monona County,Incorporated place,42.026476,-96.090917,1
+IA,1959250,place:IA:1959250,Onslow city,Onslow,Onslow,19105,Jones County,Incorporated place,42.10685,-91.015062,1
+IA,1959475,place:IA:1959475,Orange City city,Orange City,Orange City,19167,Sioux County,Incorporated place,43.00184,-96.05561,1
+IA,1959520,place:IA:1959520,Orchard city,Orchard,Orchard,19131,Mitchell County,Incorporated place,43.227529,-92.775888,1
+IA,1959565,place:IA:1959565,Orient city,Orient,Orient,19001,Adair County,Incorporated place,41.203211,-94.417291,1
+IA,1959655,place:IA:1959655,Orleans city,Orleans,Orleans,19059,Dickinson County,Incorporated place,43.452724,-95.085873,1
+IA,1959745,place:IA:1959745,Osage city,Osage,Osage,19131,Mitchell County,Incorporated place,43.28267,-92.811311,1
+IA,1959835,place:IA:1959835,Osceola city,Osceola,Osceola,19039,Clarke County,Incorporated place,41.034847,-93.786677,1
+IA,1959925,place:IA:1959925,Oskaloosa city,Oskaloosa,Oskaloosa,19123,Mahaska County,Incorporated place,41.292209,-92.640854,1
+IA,1959970,place:IA:1959970,Ossian city,Ossian,Ossian,19191,Winneshiek County,Incorporated place,43.146976,-91.764555,1
+IA,1960015,place:IA:1960015,Osterdock city,Osterdock,Osterdock,19043,Clayton County,Incorporated place,42.731252,-91.158664,1
+IA,1960105,place:IA:1960105,Otho city,Otho,Otho,19187,Webster County,Incorporated place,42.422211,-94.14938,1
+IA,1960240,place:IA:1960240,Oto city,Oto,Oto,19193,Woodbury County,Incorporated place,42.282168,-95.894552,1
+IA,1960285,place:IA:1960285,Otranto CDP,Otranto,Otranto,19131,Mitchell County,Census-designated place,43.460856,-92.986294,1
+IA,1960420,place:IA:1960420,Ottosen city,Ottosen,Ottosen,19091,Humboldt County,Incorporated place,42.897748,-94.376004,1
+IA,1960465,place:IA:1960465,Ottumwa city,Ottumwa,Ottumwa,19179,Wapello County,Incorporated place,41.022251,-92.423263,1
+IA,1960555,place:IA:1960555,Owasa city,Owasa,Owasa,19083,Hardin County,Incorporated place,42.431854,-93.204663,1
+IA,1960645,place:IA:1960645,Oxford city,Oxford,Oxford,19103,Johnson County,Incorporated place,41.722773,-91.791087,1
+IA,1960690,place:IA:1960690,Oxford Junction city,Oxford Junction,Oxford Junction,19105,Jones County,Incorporated place,41.983747,-90.954342,1
+IA,1960780,place:IA:1960780,Oyens city,Oyens,Oyens,19149,Plymouth County,Incorporated place,42.819816,-96.058042,1
+IA,1960825,place:IA:1960825,Pacific Junction city,Pacific Junction,Pacific Junction,19129,Mills County,Incorporated place,41.017975,-95.799453,1
+IA,1960915,place:IA:1960915,Packwood city,Packwood,Packwood,19101,Jefferson County,Incorporated place,41.132711,-92.082517,1
+IA,1961050,place:IA:1961050,Palmer city,Palmer,Palmer,19151,Pocahontas County,Incorporated place,42.630096,-94.598517,1
+IA,1961230,place:IA:1961230,Palo city,Palo,Palo,19113,Linn County,Incorporated place,42.064233,-91.799285,1
+IA,1961275,place:IA:1961275,Panama city,Panama,Panama,19165,Shelby County,Incorporated place,41.726229,-95.475373,1
+IA,1961320,place:IA:1961320,Panora city,Panora,Panora,19077,Guthrie County,Incorporated place,41.691126,-94.363909,1
+IA,1961365,place:IA:1961365,Panorama Park city,Panorama Park,Panorama Park,19163,Scott County,Incorporated place,41.555701,-90.453769,1
+IA,1961725,place:IA:1961725,Park View CDP,Park View,Park View,19163,Scott County,Census-designated place,41.695277,-90.539372,1
+IA,1961590,place:IA:1961590,Parkersburg city,Parkersburg,Parkersburg,19023,Butler County,Incorporated place,42.573851,-92.77845,1
+IA,1961770,place:IA:1961770,Parnell city,Parnell,Parnell,19095,Iowa County,Incorporated place,41.583702,-92.004425,1
+IA,1961815,place:IA:1961815,Paton city,Paton,Paton,19073,Greene County,Incorporated place,42.164386,-94.25503,1
+IA,1961860,place:IA:1961860,Patterson city,Patterson,Patterson,19121,Madison County,Incorporated place,41.348429,-93.877594,1
+IA,1961905,place:IA:1961905,Paullina city,Paullina,Paullina,19141,O'Brien County,Incorporated place,42.97986,-95.683443,1
+IA,1962040,place:IA:1962040,Pella city,Pella,Pella,19125,Marion County,Incorporated place,41.404715,-92.917412,1
+IA,1962130,place:IA:1962130,Peosta city,Peosta,Peosta,19061,Dubuque County,Incorporated place,42.447214,-90.841426,1
+IA,1962175,place:IA:1962175,Percival CDP,Percival,Percival,19071,Fremont County,Census-designated place,40.751269,-95.813266,1
+IA,1962355,place:IA:1962355,Perry city,Perry,Perry,19049,Dallas County,Incorporated place,41.837907,-94.093255,1
+IA,1962445,place:IA:1962445,Persia city,Persia,Persia,19085,Harrison County,Incorporated place,41.578556,-95.570113,1
+IA,1962625,place:IA:1962625,Peterson city,Peterson,Peterson,19041,Clay County,Incorporated place,42.917324,-95.343117,1
+IA,1962760,place:IA:1962760,Pierson city,Pierson,Pierson,19193,Woodbury County,Incorporated place,42.543586,-95.866538,1
+IA,1962850,place:IA:1962850,Pilot Mound city,Pilot Mound,Pilot Mound,19015,Boone County,Incorporated place,42.159243,-94.018294,1
+IA,1963075,place:IA:1963075,Pisgah city,Pisgah,Pisgah,19085,Harrison County,Incorporated place,41.829855,-95.926167,1
+IA,1963210,place:IA:1963210,Plainfield city,Plainfield,Plainfield,19017,Bremer County,Incorporated place,42.844571,-92.535693,1
+IA,1963300,place:IA:1963300,Plainview CDP,Plainview,Plainview,19163,Scott County,Census-designated place,41.667177,-90.780098,1
+IA,1963345,place:IA:1963345,Plano city,Plano,Plano,19007,Appanoose County,Incorporated place,40.755625,-93.046942,1
+IA,1963525,place:IA:1963525,Pleasant Hill city,Pleasant Hill,Pleasant Hill,19153,Polk County,Incorporated place,41.599106,-93.505047,1
+IA,1963615,place:IA:1963615,Pleasant Plain city,Pleasant Plain,Pleasant Plain,19101,Jefferson County,Incorporated place,41.147178,-91.85962,1
+IA,1963570,place:IA:1963570,Pleasanton city,Pleasanton,Pleasanton,19053,Decatur County,Incorporated place,40.582444,-93.742929,1
+IA,1963750,place:IA:1963750,Pleasantville city,Pleasantville,Pleasantville,19125,Marion County,Incorporated place,41.387011,-93.272787,1
+IA,1963840,place:IA:1963840,Plover city,Plover,Plover,19151,Pocahontas County,Incorporated place,42.876645,-94.622318,1
+IA,1963885,place:IA:1963885,Plymouth city,Plymouth,Plymouth,19033,Cerro Gordo County,Incorporated place,43.246394,-93.123281,1
+IA,1963975,place:IA:1963975,Pocahontas city,Pocahontas,Pocahontas,19151,Pocahontas County,Incorporated place,42.737021,-94.666046,1
+IA,1964020,place:IA:1964020,Polk City city,Polk City,Polk City,19153,Polk County,Incorporated place,41.781953,-93.722792,1
+IA,1964065,place:IA:1964065,Pomeroy city,Pomeroy,Pomeroy,19025,Calhoun County,Incorporated place,42.551934,-94.677879,1
+IA,1964110,place:IA:1964110,Popejoy city,Popejoy,Popejoy,19069,Franklin County,Incorporated place,42.593766,-93.42782,1
+IA,1964155,place:IA:1964155,Portland CDP,Portland,Portland,19033,Cerro Gordo County,Census-designated place,43.122618,-93.13707,1
+IA,1964200,place:IA:1964200,Portsmouth city,Portsmouth,Portsmouth,19165,Shelby County,Incorporated place,41.650302,-95.519491,1
+IA,1964290,place:IA:1964290,Postville city,Postville,Postville,19005,Allamakee County,Incorporated place,43.084381,-91.567791,1
+IA,1964470,place:IA:1964470,Prairie City city,Prairie City,Prairie City,19099,Jasper County,Incorporated place,41.595422,-93.239273,1
+IA,1964425,place:IA:1964425,Prairieburg city,Prairieburg,Prairieburg,19113,Linn County,Incorporated place,42.237527,-91.425728,1
+IA,1964560,place:IA:1964560,Prescott city,Prescott,Prescott,19003,Adams County,Incorporated place,41.023587,-94.612816,1
+IA,1964605,place:IA:1964605,Preston city,Preston,Preston,19097,Jackson County,Incorporated place,42.049179,-90.396957,1
+IA,1964650,place:IA:1964650,Primghar city,Primghar,Primghar,19141,O'Brien County,Incorporated place,43.086311,-95.620637,1
+IA,1964740,place:IA:1964740,Princeton city,Princeton,Princeton,19163,Scott County,Incorporated place,41.668817,-90.357638,1
+IA,1964875,place:IA:1964875,Promise City city,Promise City,Promise City,19185,Wayne County,Incorporated place,40.747648,-93.148345,1
+IA,1965010,place:IA:1965010,Protivin city,Protivin,Protivin,19089,Howard County,Incorporated place,43.216739,-92.088952,1
+IA,1965055,place:IA:1965055,Pulaski city,Pulaski,Pulaski,19051,Davis County,Incorporated place,40.694358,-92.274173,1
+IA,1965235,place:IA:1965235,Quasqueton city,Quasqueton,Quasqueton,19019,Buchanan County,Incorporated place,42.394773,-91.757679,1
+IA,1965280,place:IA:1965280,Quimby city,Quimby,Quimby,19035,Cherokee County,Incorporated place,42.629075,-95.644144,1
+IA,1965370,place:IA:1965370,Radcliffe city,Radcliffe,Radcliffe,19083,Hardin County,Incorporated place,42.31771,-93.434311,1
+IA,1965415,place:IA:1965415,Rake city,Rake,Rake,19189,Winnebago County,Incorporated place,43.480579,-93.919654,1
+IA,1965505,place:IA:1965505,Ralston city,Ralston,Ralston,19027,Carroll County,Incorporated place,42.041855,-94.629287,1
+IA,1965550,place:IA:1965550,Randalia CDP,Randalia,Randalia,19065,Fayette County,Census-designated place,42.86339,-91.886736,1
+IA,1965595,place:IA:1965595,Randall city,Randall,Randall,19079,Hamilton County,Incorporated place,42.237033,-93.602579,1
+IA,1965640,place:IA:1965640,Randolph city,Randolph,Randolph,19071,Fremont County,Incorporated place,40.873135,-95.564727,1
+IA,1965730,place:IA:1965730,Rathbun city,Rathbun,Rathbun,19007,Appanoose County,Incorporated place,40.801138,-92.886829,1
+IA,1965820,place:IA:1965820,Raymond city,Raymond,Raymond,19013,Black Hawk County,Incorporated place,42.469381,-92.229653,1
+IA,1965910,place:IA:1965910,Readlyn city,Readlyn,Readlyn,19017,Bremer County,Incorporated place,42.703703,-92.22503,1
+IA,1965955,place:IA:1965955,Reasnor city,Reasnor,Reasnor,19099,Jasper County,Incorporated place,41.578855,-93.022898,1
+IA,1966135,place:IA:1966135,Red Oak city,Red Oak,Red Oak,19137,Montgomery County,Incorporated place,41.01413,-95.224371,1
+IA,1966000,place:IA:1966000,Redding city,Redding,Redding,19159,Ringgold County,Incorporated place,40.605433,-94.381948,1
+IA,1966045,place:IA:1966045,Redfield city,Redfield,Redfield,19049,Dallas County,Incorporated place,41.590085,-94.196018,1
+IA,1966315,place:IA:1966315,Reinbeck city,Reinbeck,Reinbeck,19075,Grundy County,Incorporated place,42.322503,-92.594265,1
+IA,1966360,place:IA:1966360,Rembrandt city,Rembrandt,Rembrandt,19021,Buena Vista County,Incorporated place,42.825719,-95.16561,1
+IA,1966405,place:IA:1966405,Remsen city,Remsen,Remsen,19149,Plymouth County,Incorporated place,42.815835,-95.972712,1
+IA,1966450,place:IA:1966450,Renwick city,Renwick,Renwick,19091,Humboldt County,Incorporated place,42.826926,-93.981343,1
+IA,1966540,place:IA:1966540,Rhodes city,Rhodes,Rhodes,19127,Marshall County,Incorporated place,41.927815,-93.183723,1
+IA,1966585,place:IA:1966585,Riceville city,Riceville,Riceville,19089,Howard County,Incorporated place,43.361563,-92.553318,1
+IA,1966720,place:IA:1966720,Richland city,Richland,Richland,19107,Keokuk County,Incorporated place,41.185542,-91.993573,1
+IA,1966810,place:IA:1966810,Rickardsville city,Rickardsville,Rickardsville,19061,Dubuque County,Incorporated place,42.581552,-90.876279,1
+IA,1966855,place:IA:1966855,Ricketts city,Ricketts,Ricketts,19047,Crawford County,Incorporated place,42.127962,-95.574864,1
+IA,1967035,place:IA:1967035,Ridgeway city,Ridgeway,Ridgeway,19191,Winneshiek County,Incorporated place,43.297113,-91.992422,1
+IA,1967125,place:IA:1967125,Rinard city,Rinard,Rinard,19025,Calhoun County,Incorporated place,42.33964,-94.484914,1
+IA,1967170,place:IA:1967170,Ringsted city,Ringsted,Ringsted,19063,Emmet County,Incorporated place,43.295074,-94.507408,1
+IA,1967215,place:IA:1967215,Rippey city,Rippey,Rippey,19073,Greene County,Incorporated place,41.933895,-94.200723,1
+IA,1967530,place:IA:1967530,River Sioux CDP,River Sioux,River Sioux,19085,Harrison County,Census-designated place,41.802439,-96.047988,1
+IA,1967350,place:IA:1967350,Riverdale city,Riverdale,Riverdale,19163,Scott County,Incorporated place,41.537276,-90.463583,1
+IA,1967440,place:IA:1967440,Riverside city,Riverside,Riverside,19183,Washington County,Incorporated place,41.483235,-91.572195,1
+IA,1967575,place:IA:1967575,Riverton city,Riverton,Riverton,19071,Fremont County,Incorporated place,40.686871,-95.568613,1
+IA,1967800,place:IA:1967800,Robins city,Robins,Robins,19113,Linn County,Incorporated place,42.079184,-91.67426,1
+IA,1967890,place:IA:1967890,Rochester CDP,Rochester,Rochester,19031,Cedar County,Census-designated place,41.674149,-91.144309,1
+IA,1968025,place:IA:1968025,Rock Falls city,Rock Falls,Rock Falls,19033,Cerro Gordo County,Incorporated place,43.207148,-93.086793,1
+IA,1968160,place:IA:1968160,Rock Rapids city,Rock Rapids,Rock Rapids,19119,Lyon County,Incorporated place,43.427899,-96.166347,1
+IA,1968205,place:IA:1968205,Rock Valley city,Rock Valley,Rock Valley,19167,Sioux County,Incorporated place,43.202585,-96.289038,1
+IA,1968070,place:IA:1968070,Rockford city,Rockford,Rockford,19067,Floyd County,Incorporated place,43.052435,-92.94769,1
+IA,1968250,place:IA:1968250,Rockwell city,Rockwell,Rockwell,19033,Cerro Gordo County,Incorporated place,42.979972,-93.18718,1
+IA,1968295,place:IA:1968295,Rockwell City city,Rockwell City,Rockwell City,19025,Calhoun County,Incorporated place,42.398125,-94.62887,1
+IA,1968340,place:IA:1968340,Rodman city,Rodman,Rodman,19147,Palo Alto County,Incorporated place,43.026584,-94.527369,1
+IA,1968385,place:IA:1968385,Rodney city,Rodney,Rodney,19133,Monona County,Incorporated place,42.204484,-95.95073,1
+IA,1968475,place:IA:1968475,Roland city,Roland,Roland,19169,Story County,Incorporated place,42.16585,-93.503043,1
+IA,1968520,place:IA:1968520,Rolfe city,Rolfe,Rolfe,19151,Pocahontas County,Incorporated place,42.813197,-94.531855,1
+IA,1968565,place:IA:1968565,Rome city,Rome,Rome,19087,Henry County,Incorporated place,40.982415,-91.680759,1
+IA,1968700,place:IA:1968700,Rose Hill city,Rose Hill,Rose Hill,19123,Mahaska County,Incorporated place,41.320399,-92.463589,1
+IA,1968800,place:IA:1968800,Roseville CDP,Roseville,Roseville,19067,Floyd County,Census-designated place,43.02535,-92.808174,1
+IA,1968925,place:IA:1968925,Rossie city,Rossie,Rossie,19041,Clay County,Incorporated place,43.013661,-95.188612,1
+IA,1969015,place:IA:1969015,Rowan city,Rowan,Rowan,19197,Wright County,Incorporated place,42.739935,-93.550288,1
+IA,1969060,place:IA:1969060,Rowley city,Rowley,Rowley,19019,Buchanan County,Incorporated place,42.368544,-91.844282,1
+IA,1969105,place:IA:1969105,Royal city,Royal,Royal,19041,Clay County,Incorporated place,43.064441,-95.283721,1
+IA,1969195,place:IA:1969195,Rudd city,Rudd,Rudd,19067,Floyd County,Incorporated place,43.126262,-92.904722,1
+IA,1969240,place:IA:1969240,Runnells city,Runnells,Runnells,19153,Polk County,Incorporated place,41.515889,-93.360397,1
+IA,1969285,place:IA:1969285,Russell city,Russell,Russell,19117,Lucas County,Incorporated place,40.980404,-93.201121,1
+IA,1969330,place:IA:1969330,Ruthven city,Ruthven,Ruthven,19147,Palo Alto County,Incorporated place,43.130059,-94.898694,1
+IA,1969375,place:IA:1969375,Rutland city,Rutland,Rutland,19091,Humboldt County,Incorporated place,42.761402,-94.29517,1
+IA,1969465,place:IA:1969465,Ryan city,Ryan,Ryan,19055,Delaware County,Incorporated place,42.352295,-91.484892,1
+IA,1969510,place:IA:1969510,Sabula city,Sabula,Sabula,19097,Jackson County,Incorporated place,42.070189,-90.182533,1
+IA,1969645,place:IA:1969645,Sac City city,Sac City,Sac City,19161,Sac County,Incorporated place,42.422042,-94.997437,1
+IA,1969690,place:IA:1969690,Sageville city,Sageville,Sageville,19061,Dubuque County,Incorporated place,42.550327,-90.706932,1
+IA,1970230,place:IA:1970230,Salem city,Salem,Salem,19087,Henry County,Incorporated place,40.85217,-91.62066,1
+IA,1970320,place:IA:1970320,Salix city,Salix,Salix,19193,Woodbury County,Incorporated place,42.311921,-96.292189,1
+IA,1970410,place:IA:1970410,Sanborn city,Sanborn,Sanborn,19141,O'Brien County,Incorporated place,43.181432,-95.655335,1
+IA,1970545,place:IA:1970545,Sandusky CDP,Sandusky,Sandusky,19111,Lee County,Census-designated place,40.453922,-91.389358,1
+IA,1970590,place:IA:1970590,Sandyville city,Sandyville,Sandyville,19181,Warren County,Incorporated place,41.370935,-93.386159,1
+IA,1970995,place:IA:1970995,Saylorville CDP,Saylorville,Saylorville,19153,Polk County,Census-designated place,41.681205,-93.628027,1
+IA,1971040,place:IA:1971040,Scarville city,Scarville,Scarville,19189,Winnebago County,Incorporated place,43.470963,-93.618419,1
+IA,1971085,place:IA:1971085,Schaller city,Schaller,Schaller,19161,Sac County,Incorporated place,42.496531,-95.296271,1
+IA,1971130,place:IA:1971130,Schleswig city,Schleswig,Schleswig,19047,Crawford County,Incorporated place,42.161028,-95.434646,1
+IA,1971310,place:IA:1971310,Scranton city,Scranton,Scranton,19073,Greene County,Incorporated place,42.019165,-94.549182,1
+IA,1971355,place:IA:1971355,Searsboro city,Searsboro,Searsboro,19157,Poweshiek County,Incorporated place,41.579124,-92.704124,1
+IA,1971625,place:IA:1971625,Sergeant Bluff city,Sergeant Bluff,Sergeant Bluff,19193,Woodbury County,Incorporated place,42.397549,-96.350934,1
+IA,1971715,place:IA:1971715,Sexton CDP,Sexton,Sexton,19109,Kossuth County,Census-designated place,43.074905,-94.089152,1
+IA,1971760,place:IA:1971760,Seymour city,Seymour,Seymour,19185,Wayne County,Incorporated place,40.682141,-93.121099,1
+IA,1971895,place:IA:1971895,Shambaugh city,Shambaugh,Shambaugh,19145,Page County,Incorporated place,40.657459,-95.035259,1
+IA,1971940,place:IA:1971940,Shannon City city,Shannon City,Shannon City,19175,Union County,Incorporated place,40.898751,-94.263651,1
+IA,1972075,place:IA:1972075,Sharpsburg city,Sharpsburg,Sharpsburg,19173,Taylor County,Incorporated place,40.804491,-94.638149,1
+IA,1972210,place:IA:1972210,Sheffield city,Sheffield,Sheffield,19069,Franklin County,Incorporated place,42.888808,-93.210037,1
+IA,1972300,place:IA:1972300,Shelby city,Shelby,Shelby,19155,Pottawattamie County,Incorporated place,41.505133,-95.449353,1
+IA,1972345,place:IA:1972345,Sheldahl city,Sheldahl,Sheldahl,19169,Story County,Incorporated place,41.864523,-93.69675,1
+IA,1972390,place:IA:1972390,Sheldon city,Sheldon,Sheldon,19141,O'Brien County,Incorporated place,43.179596,-95.843346,1
+IA,1972435,place:IA:1972435,Shell Rock city,Shell Rock,Shell Rock,19023,Butler County,Incorporated place,42.716862,-92.583081,1
+IA,1972480,place:IA:1972480,Shellsburg city,Shellsburg,Shellsburg,19011,Benton County,Incorporated place,42.092881,-91.871544,1
+IA,1972525,place:IA:1972525,Shenandoah city,Shenandoah,Shenandoah,19145,Page County,Incorporated place,40.758206,-95.372068,1
+IA,1972660,place:IA:1972660,Sherrill city,Sherrill,Sherrill,19061,Dubuque County,Incorporated place,42.604588,-90.784178,1
+IA,1972840,place:IA:1972840,Shueyville city,Shueyville,Shueyville,19103,Johnson County,Incorporated place,41.846257,-91.651221,1
+IA,1972975,place:IA:1972975,Sibley city,Sibley,Sibley,19143,Osceola County,Incorporated place,43.401476,-95.743031,1
+IA,1973065,place:IA:1973065,Sidney city,Sidney,Sidney,19071,Fremont County,Incorporated place,40.745895,-95.644728,1
+IA,1973110,place:IA:1973110,Sigourney city,Sigourney,Sigourney,19107,Keokuk County,Incorporated place,41.333974,-92.204448,1
+IA,1973155,place:IA:1973155,Silver City city,Silver City,Silver City,19129,Mills County,Incorporated place,41.111474,-95.637852,1
+IA,1973290,place:IA:1973290,Sioux Center city,Sioux Center,Sioux Center,19167,Sioux County,Incorporated place,43.076063,-96.171151,1
+IA,1973335,place:IA:1973335,Sioux City city,Sioux City,Sioux City,19193,Woodbury County,Incorporated place,42.49538,-96.389495,1
+IA,1973425,place:IA:1973425,Sioux Rapids city,Sioux Rapids,Sioux Rapids,19021,Buena Vista County,Incorporated place,42.891672,-95.148538,1
+IA,1973515,place:IA:1973515,Slater city,Slater,Slater,19169,Story County,Incorporated place,41.880736,-93.691179,1
+IA,1973605,place:IA:1973605,Sloan city,Sloan,Sloan,19193,Woodbury County,Incorporated place,42.233062,-96.22483,1
+IA,1973650,place:IA:1973650,Smithland city,Smithland,Smithland,19193,Woodbury County,Incorporated place,42.228903,-95.931578,1
+IA,1973785,place:IA:1973785,Soldier city,Soldier,Soldier,19133,Monona County,Incorporated place,41.984306,-95.780438,1
+IA,1973875,place:IA:1973875,Solon city,Solon,Solon,19103,Johnson County,Incorporated place,41.80715,-91.498918,1
+IA,1973920,place:IA:1973920,Somers city,Somers,Somers,19025,Calhoun County,Incorporated place,42.37875,-94.430991,1
+IA,1973965,place:IA:1973965,South Amana CDP,South Amana,South Amana,19095,Iowa County,Census-designated place,41.77039,-91.959919,1
+IA,1974055,place:IA:1974055,South English city,South English,South English,19107,Keokuk County,Incorporated place,41.452153,-92.090333,1
+IA,1974280,place:IA:1974280,Spencer city,Spencer,Spencer,19041,Clay County,Incorporated place,43.147025,-95.152691,1
+IA,1974325,place:IA:1974325,Sperry CDP,Sperry,Sperry,19057,Des Moines County,Census-designated place,40.962536,-91.161916,1
+IA,1974370,place:IA:1974370,Spillville city,Spillville,Spillville,19191,Winneshiek County,Incorporated place,43.202841,-91.952212,1
+IA,1974415,place:IA:1974415,Spirit Lake city,Spirit Lake,Spirit Lake,19059,Dickinson County,Incorporated place,43.419587,-95.109574,1
+IA,1974460,place:IA:1974460,Spragueville city,Spragueville,Spragueville,19097,Jackson County,Incorporated place,42.071527,-90.432745,1
+IA,1974685,place:IA:1974685,Spring Hill city,Spring Hill,Spring Hill,19181,Warren County,Incorporated place,41.412179,-93.650052,1
+IA,1974505,place:IA:1974505,Springbrook city,Springbrook,Springbrook,19097,Jackson County,Incorporated place,42.165732,-90.479136,1
+IA,1974775,place:IA:1974775,Springville city,Springville,Springville,19113,Linn County,Incorporated place,42.049178,-91.446474,1
+IA,1969735,place:IA:1969735,St. Ansgar city,St. Ansgar,St. Ansgar,19131,Mitchell County,Incorporated place,43.379893,-92.917791,1
+IA,1969780,place:IA:1969780,St. Anthony city,St. Anthony,St. Anthony,19127,Marshall County,Incorporated place,42.123547,-93.197512,1
+IA,1969825,place:IA:1969825,St. Benedict CDP,St. Benedict,St. Benedict,19109,Kossuth County,Census-designated place,43.044008,-94.06095,1
+IA,1969915,place:IA:1969915,St. Charles city,St. Charles,St. Charles,19121,Madison County,Incorporated place,41.287152,-93.807451,1
+IA,1969960,place:IA:1969960,St. Donatus city,St. Donatus,St. Donatus,19097,Jackson County,Incorporated place,42.362442,-90.542206,1
+IA,1970005,place:IA:1970005,St. Joseph CDP,St. Joseph,St. Joseph,19109,Kossuth County,Census-designated place,42.91229,-94.230914,1
+IA,1970050,place:IA:1970050,St. Lucas city,St. Lucas,St. Lucas,19065,Fayette County,Incorporated place,43.066468,-91.934063,1
+IA,1970095,place:IA:1970095,St. Marys city,St. Marys,St. Marys,19181,Warren County,Incorporated place,41.307698,-93.733845,1
+IA,1970140,place:IA:1970140,St. Olaf city,St. Olaf,St. Olaf,19043,Clayton County,Incorporated place,42.926811,-91.387696,1
+IA,1970185,place:IA:1970185,St. Paul city,St. Paul,St. Paul,19111,Lee County,Incorporated place,40.767847,-91.516424,1
+IA,1974820,place:IA:1974820,Stacyville city,Stacyville,Stacyville,19131,Mitchell County,Incorporated place,43.439217,-92.783966,1
+IA,1974910,place:IA:1974910,Stanhope city,Stanhope,Stanhope,19079,Hamilton County,Incorporated place,42.288933,-93.795986,1
+IA,1974955,place:IA:1974955,Stanley city,Stanley,Stanley,19019,Buchanan County,Incorporated place,42.641963,-91.811891,1
+IA,1975000,place:IA:1975000,Stanton city,Stanton,Stanton,19137,Montgomery County,Incorporated place,40.981653,-95.102371,1
+IA,1975045,place:IA:1975045,Stanwood city,Stanwood,Stanwood,19031,Cedar County,Incorporated place,41.892697,-91.148758,1
+IA,1975135,place:IA:1975135,State Center city,State Center,State Center,19127,Marshall County,Incorporated place,42.014821,-93.165304,1
+IA,1975180,place:IA:1975180,Steamboat Rock city,Steamboat Rock,Steamboat Rock,19083,Hardin County,Incorporated place,42.408061,-93.066168,1
+IA,1975405,place:IA:1975405,Stockport city,Stockport,Stockport,19177,Van Buren County,Incorporated place,40.857266,-91.833349,1
+IA,1975450,place:IA:1975450,Stockton city,Stockton,Stockton,19139,Muscatine County,Incorporated place,41.590828,-90.856428,1
+IA,1975540,place:IA:1975540,Stone City CDP,Stone City,Stone City,19105,Jones County,Census-designated place,42.105427,-91.350196,1
+IA,1975630,place:IA:1975630,Storm Lake city,Storm Lake,Storm Lake,19021,Buena Vista County,Incorporated place,42.642951,-95.196463,1
+IA,1975675,place:IA:1975675,Story City city,Story City,Story City,19169,Story County,Incorporated place,42.185743,-93.586885,1
+IA,1975720,place:IA:1975720,Stout city,Stout,Stout,19075,Grundy County,Incorporated place,42.526962,-92.711533,1
+IA,1975810,place:IA:1975810,Stratford city,Stratford,Stratford,19079,Hamilton County,Incorporated place,42.269593,-93.927416,1
+IA,1975855,place:IA:1975855,Strawberry Point city,Strawberry Point,Strawberry Point,19043,Clayton County,Incorporated place,42.680489,-91.53478,1
+IA,1975945,place:IA:1975945,Struble city,Struble,Struble,19149,Plymouth County,Incorporated place,42.894418,-96.194453,1
+IA,1975990,place:IA:1975990,Stuart city,Stuart,Stuart,19001,Adair County,Incorporated place,41.500574,-94.317534,1
+IA,1976035,place:IA:1976035,Sully city,Sully,Sully,19099,Jasper County,Incorporated place,41.577998,-92.846792,1
+IA,1976260,place:IA:1976260,Sumner city,Sumner,Sumner,19017,Bremer County,Incorporated place,42.849372,-92.097154,1
+IA,1976415,place:IA:1976415,Sun Valley Lake CDP,Sun Valley Lake,Sun Valley Lake,19159,Ringgold County,Census-designated place,40.849185,-94.067581,1
+IA,1976440,place:IA:1976440,Superior city,Superior,Superior,19059,Dickinson County,Incorporated place,43.433646,-94.946634,1
+IA,1976485,place:IA:1976485,Sutherland city,Sutherland,Sutherland,19141,O'Brien County,Incorporated place,42.972941,-95.495245,1
+IA,1976620,place:IA:1976620,Swaledale city,Swaledale,Swaledale,19033,Cerro Gordo County,Incorporated place,42.976453,-93.3155,1
+IA,1976665,place:IA:1976665,Swan city,Swan,Swan,19125,Marion County,Incorporated place,41.467598,-93.309547,1
+IA,1976755,place:IA:1976755,Swea City city,Swea City,Swea City,19109,Kossuth County,Incorporated place,43.38349,-94.310265,1
+IA,1976800,place:IA:1976800,Swedesburg CDP,Swedesburg,Swedesburg,19087,Henry County,Census-designated place,41.106002,-91.553228,1
+IA,1976890,place:IA:1976890,Swisher city,Swisher,Swisher,19103,Johnson County,Incorporated place,41.845186,-91.693684,1
+IA,1976935,place:IA:1976935,Tabor city,Tabor,Tabor,19071,Fremont County,Incorporated place,40.894941,-95.673618,1
+IA,1977115,place:IA:1977115,Tama city,Tama,Tama,19171,Tama County,Incorporated place,41.965123,-92.573799,1
+IA,1977340,place:IA:1977340,Templeton city,Templeton,Templeton,19027,Carroll County,Incorporated place,41.918097,-94.940666,1
+IA,1977430,place:IA:1977430,Tennant city,Tennant,Tennant,19165,Shelby County,Incorporated place,41.594115,-95.444963,1
+IA,1977520,place:IA:1977520,Terril city,Terril,Terril,19059,Dickinson County,Incorporated place,43.305796,-94.968925,1
+IA,1977565,place:IA:1977565,Thayer city,Thayer,Thayer,19175,Union County,Incorporated place,41.028705,-94.049938,1
+IA,1977745,place:IA:1977745,Thompson city,Thompson,Thompson,19189,Winnebago County,Incorporated place,43.369903,-93.774701,1
+IA,1977790,place:IA:1977790,Thor city,Thor,Thor,19091,Humboldt County,Incorporated place,42.6881,-94.049601,1
+IA,1977835,place:IA:1977835,Thornburg city,Thornburg,Thornburg,19107,Keokuk County,Incorporated place,41.455752,-92.332273,1
+IA,1977880,place:IA:1977880,Thornton city,Thornton,Thornton,19033,Cerro Gordo County,Incorporated place,42.944221,-93.38702,1
+IA,1977970,place:IA:1977970,Thurman city,Thurman,Thurman,19071,Fremont County,Incorporated place,40.820118,-95.748813,1
+IA,1978060,place:IA:1978060,Tiffin city,Tiffin,Tiffin,19103,Johnson County,Incorporated place,41.705675,-91.657708,1
+IA,1978195,place:IA:1978195,Tingley city,Tingley,Tingley,19159,Ringgold County,Incorporated place,40.852837,-94.195749,1
+IA,1978285,place:IA:1978285,Tipton city,Tipton,Tipton,19031,Cedar County,Incorporated place,41.770121,-91.128281,1
+IA,1978330,place:IA:1978330,Titonka city,Titonka,Titonka,19109,Kossuth County,Incorporated place,43.23717,-94.041422,1
+IA,1978465,place:IA:1978465,Toeterville CDP,Toeterville,Toeterville,19131,Mitchell County,Census-designated place,43.440024,-92.887899,1
+IA,1978510,place:IA:1978510,Toledo city,Toledo,Toledo,19171,Tama County,Incorporated place,41.990174,-92.580342,1
+IA,1978600,place:IA:1978600,Toronto city,Toronto,Toronto,19045,Clinton County,Incorporated place,41.903118,-90.862815,1
+IA,1978735,place:IA:1978735,Traer city,Traer,Traer,19171,Tama County,Incorporated place,42.189577,-92.464042,1
+IA,1978780,place:IA:1978780,Trenton CDP,Trenton,Trenton,19087,Henry County,Census-designated place,41.065974,-91.639498,1
+IA,1978825,place:IA:1978825,Treynor city,Treynor,Treynor,19155,Pottawattamie County,Incorporated place,41.232024,-95.606455,1
+IA,1978915,place:IA:1978915,Tripoli city,Tripoli,Tripoli,19017,Bremer County,Incorporated place,42.808371,-92.257843,1
+IA,1979095,place:IA:1979095,Truesdale city,Truesdale,Truesdale,19021,Buena Vista County,Incorporated place,42.729257,-95.183407,1
+IA,1979140,place:IA:1979140,Truro city,Truro,Truro,19121,Madison County,Incorporated place,41.209794,-93.846711,1
+IA,1979185,place:IA:1979185,Turin city,Turin,Turin,19133,Monona County,Incorporated place,42.020881,-95.966158,1
+IA,1979335,place:IA:1979335,Twin Lakes CDP,Twin Lakes,Twin Lakes,19025,Calhoun County,Census-designated place,42.480996,-94.629756,1
+IA,1979410,place:IA:1979410,Udell city,Udell,Udell,19007,Appanoose County,Incorporated place,40.78014,-92.743163,1
+IA,1979500,place:IA:1979500,Underwood city,Underwood,Underwood,19155,Pottawattamie County,Incorporated place,41.380169,-95.682518,1
+IA,1979545,place:IA:1979545,Union city,Union,Union,19083,Hardin County,Incorporated place,42.243627,-93.062473,1
+IA,1979680,place:IA:1979680,Unionville city,Unionville,Unionville,19007,Appanoose County,Incorporated place,40.818136,-92.695832,1
+IA,1979770,place:IA:1979770,University Heights city,University Heights,University Heights,19103,Johnson County,Incorporated place,41.655036,-91.558868,1
+IA,1979815,place:IA:1979815,University Park city,University Park,University Park,19123,Mahaska County,Incorporated place,41.285546,-92.614978,1
+IA,1979905,place:IA:1979905,Urbana city,Urbana,Urbana,19011,Benton County,Incorporated place,42.229835,-91.885511,1
+IA,1979950,place:IA:1979950,Urbandale city,Urbandale,Urbandale,19153,Polk County,Incorporated place,41.636656,-93.779889,1
+IA,1979995,place:IA:1979995,Ute city,Ute,Ute,19133,Monona County,Incorporated place,42.050259,-95.705776,1
+IA,1980130,place:IA:1980130,Vail city,Vail,Vail,19047,Crawford County,Incorporated place,42.059715,-95.200454,1
+IA,1980175,place:IA:1980175,Valeria city,Valeria,Valeria,19099,Jasper County,Incorporated place,41.729794,-93.325533,1
+IA,1980400,place:IA:1980400,Van Horne city,Van Horne,Van Horne,19011,Benton County,Incorporated place,42.008311,-92.089718,1
+IA,1980445,place:IA:1980445,Van Meter city,Van Meter,Van Meter,19049,Dallas County,Incorporated place,41.52462,-93.94419,1
+IA,1980490,place:IA:1980490,Van Wert city,Van Wert,Van Wert,19053,Decatur County,Incorporated place,40.870742,-93.792178,1
+IA,1980535,place:IA:1980535,Varina city,Varina,Varina,19151,Pocahontas County,Incorporated place,42.658578,-94.898011,1
+IA,1980580,place:IA:1980580,Ventura city,Ventura,Ventura,19033,Cerro Gordo County,Incorporated place,43.128835,-93.465942,1
+IA,1980805,place:IA:1980805,Victor city,Victor,Victor,19095,Iowa County,Incorporated place,41.730599,-92.294846,1
+IA,1980985,place:IA:1980985,Villisca city,Villisca,Villisca,19137,Montgomery County,Incorporated place,40.929875,-94.981108,1
+IA,1981075,place:IA:1981075,Vincent city,Vincent,Vincent,19187,Webster County,Incorporated place,42.59187,-94.01887,1
+IA,1981120,place:IA:1981120,Vining city,Vining,Vining,19171,Tama County,Incorporated place,41.99102,-92.387278,1
+IA,1981210,place:IA:1981210,Vinton city,Vinton,Vinton,19011,Benton County,Incorporated place,42.163106,-92.026206,1
+IA,1981345,place:IA:1981345,Volga city,Volga,Volga,19043,Clayton County,Incorporated place,42.802939,-91.542301,1
+IA,1981570,place:IA:1981570,Wadena city,Wadena,Wadena,19065,Fayette County,Incorporated place,42.839676,-91.659402,1
+IA,1981615,place:IA:1981615,Wahpeton city,Wahpeton,Wahpeton,19059,Dickinson County,Incorporated place,43.369515,-95.17591,1
+IA,1981705,place:IA:1981705,Walcott city,Walcott,Walcott,19163,Scott County,Incorporated place,41.587217,-90.780232,1
+IA,1981840,place:IA:1981840,Walford city,Walford,Walford,19113,Linn County,Incorporated place,41.879845,-91.830559,1
+IA,1981885,place:IA:1981885,Walker city,Walker,Walker,19113,Linn County,Incorporated place,42.287545,-91.781479,1
+IA,1982020,place:IA:1982020,Wall Lake city,Wall Lake,Wall Lake,19161,Sac County,Incorporated place,42.26732,-95.093226,1
+IA,1981975,place:IA:1981975,Wallingford city,Wallingford,Wallingford,19063,Emmet County,Incorporated place,43.320285,-94.792177,1
+IA,1982065,place:IA:1982065,Walnut city,Walnut,Walnut,19155,Pottawattamie County,Incorporated place,41.489453,-95.219669,1
+IA,1982200,place:IA:1982200,Wapello city,Wapello,Wapello,19115,Louisa County,Incorporated place,41.177222,-91.188991,1
+IA,1982290,place:IA:1982290,Washburn CDP,Washburn,Washburn,19013,Black Hawk County,Census-designated place,42.410291,-92.266866,1
+IA,1982335,place:IA:1982335,Washington city,Washington,Washington,19183,Washington County,Incorporated place,41.297913,-91.693671,1
+IA,1982380,place:IA:1982380,Washta city,Washta,Washta,19035,Cherokee County,Incorporated place,42.575575,-95.720125,1
+IA,1982425,place:IA:1982425,Waterloo city,Waterloo,Waterloo,19013,Black Hawk County,Incorporated place,42.492327,-92.351947,1
+IA,1982470,place:IA:1982470,Waterville city,Waterville,Waterville,19005,Allamakee County,Incorporated place,43.207661,-91.2966,1
+IA,1982515,place:IA:1982515,Watkins CDP,Watkins,Watkins,19011,Benton County,Census-designated place,41.893102,-91.984993,1
+IA,1982650,place:IA:1982650,Waucoma city,Waucoma,Waucoma,19065,Fayette County,Incorporated place,43.055629,-92.034459,1
+IA,1982695,place:IA:1982695,Waukee city,Waukee,Waukee,19049,Dallas County,Incorporated place,41.59048,-93.882818,1
+IA,1982740,place:IA:1982740,Waukon city,Waukon,Waukon,19005,Allamakee County,Incorporated place,43.268523,-91.478488,1
+IA,1982875,place:IA:1982875,Waverly city,Waverly,Waverly,19017,Bremer County,Incorporated place,42.722049,-92.469462,1
+IA,1982965,place:IA:1982965,Wayland city,Wayland,Wayland,19087,Henry County,Incorporated place,41.148347,-91.657535,1
+IA,1983010,place:IA:1983010,Webb city,Webb,Webb,19041,Clay County,Incorporated place,42.949759,-95.012919,1
+IA,1983055,place:IA:1983055,Webster city,Webster,Webster,19107,Keokuk County,Incorporated place,41.438464,-92.171718,1
+IA,1983145,place:IA:1983145,Webster City city,Webster City,Webster City,19079,Hamilton County,Incorporated place,42.462423,-93.818201,1
+IA,1983190,place:IA:1983190,Weldon city,Weldon,Weldon,19053,Decatur County,Incorporated place,40.897314,-93.735023,1
+IA,1983280,place:IA:1983280,Wellman city,Wellman,Wellman,19183,Washington County,Incorporated place,41.469238,-91.835247,1
+IA,1983325,place:IA:1983325,Wellsburg city,Wellsburg,Wellsburg,19075,Grundy County,Incorporated place,42.433855,-92.926618,1
+IA,1983370,place:IA:1983370,Welton city,Welton,Welton,19045,Clinton County,Incorporated place,41.905503,-90.595614,1
+IA,1983415,place:IA:1983415,Wesley city,Wesley,Wesley,19109,Kossuth County,Incorporated place,43.089114,-93.99289,1
+IA,1983505,place:IA:1983505,West Amana CDP,West Amana,West Amana,19095,Iowa County,Census-designated place,41.808457,-91.965539,1
+IA,1983550,place:IA:1983550,West Bend city,West Bend,West Bend,19147,Palo Alto County,Incorporated place,42.960034,-94.445586,1
+IA,1983595,place:IA:1983595,West Branch city,West Branch,West Branch,19031,Cedar County,Incorporated place,41.666158,-91.344197,1
+IA,1983685,place:IA:1983685,West Burlington city,West Burlington,West Burlington,19057,Des Moines County,Incorporated place,40.821628,-91.175475,1
+IA,1983775,place:IA:1983775,West Chester city,West Chester,West Chester,19183,Washington County,Incorporated place,41.340039,-91.816948,1
+IA,1983910,place:IA:1983910,West Des Moines city,West Des Moines,West Des Moines,19153,Polk County,Incorporated place,41.549937,-93.781351,1
+IA,1984315,place:IA:1984315,West Liberty city,West Liberty,West Liberty,19139,Muscatine County,Incorporated place,41.572995,-91.262639,1
+IA,1984450,place:IA:1984450,West Okoboji city,West Okoboji,West Okoboji,19059,Dickinson County,Incorporated place,43.348751,-95.170366,1
+IA,1984585,place:IA:1984585,West Point city,West Point,West Point,19111,Lee County,Incorporated place,40.71454,-91.452832,1
+IA,1984765,place:IA:1984765,West Union city,West Union,West Union,19065,Fayette County,Incorporated place,42.958873,-91.813024,1
+IA,1984090,place:IA:1984090,Westfield city,Westfield,Westfield,19149,Plymouth County,Incorporated place,42.756206,-96.605527,1
+IA,1984180,place:IA:1984180,Westgate city,Westgate,Westgate,19065,Fayette County,Incorporated place,42.768333,-91.995669,1
+IA,1984495,place:IA:1984495,Weston CDP,Weston,Weston,19155,Pottawattamie County,Census-designated place,41.342261,-95.744822,1
+IA,1984540,place:IA:1984540,Westphalia city,Westphalia,Westphalia,19165,Shelby County,Incorporated place,41.719399,-95.39377,1
+IA,1984630,place:IA:1984630,Westside city,Westside,Westside,19047,Crawford County,Incorporated place,42.075699,-95.101385,1
+IA,1984835,place:IA:1984835,Westwood city,Westwood,Westwood,19087,Henry County,Incorporated place,40.964963,-91.626578,1
+IA,1984855,place:IA:1984855,Wever CDP,Wever,Wever,19111,Lee County,Census-designated place,40.705655,-91.228102,1
+IA,1984900,place:IA:1984900,What Cheer city,What Cheer,What Cheer,19107,Keokuk County,Incorporated place,41.400348,-92.357088,1
+IA,1984945,place:IA:1984945,Wheatland city,Wheatland,Wheatland,19045,Clinton County,Incorporated place,41.833064,-90.83801,1
+IA,1985215,place:IA:1985215,Whiting city,Whiting,Whiting,19133,Monona County,Incorporated place,42.127224,-96.150677,1
+IA,1985260,place:IA:1985260,Whittemore city,Whittemore,Whittemore,19109,Kossuth County,Incorporated place,43.063335,-94.425246,1
+IA,1985305,place:IA:1985305,Whitten city,Whitten,Whitten,19083,Hardin County,Incorporated place,42.264447,-93.010614,1
+IA,1985710,place:IA:1985710,Willey city,Willey,Willey,19027,Carroll County,Incorporated place,41.97878,-94.822404,1
+IA,1985800,place:IA:1985800,Williams city,Williams,Williams,19079,Hamilton County,Incorporated place,42.489193,-93.541245,1
+IA,1985845,place:IA:1985845,Williamsburg city,Williamsburg,Williamsburg,19095,Iowa County,Incorporated place,41.668884,-92.013249,1
+IA,1985935,place:IA:1985935,Williamson city,Williamson,Williamson,19117,Lucas County,Incorporated place,41.088234,-93.256955,1
+IA,1986070,place:IA:1986070,Wilton city,Wilton,Wilton,19139,Muscatine County,Incorporated place,41.589109,-91.025481,1
+IA,1986250,place:IA:1986250,Windsor Heights city,Windsor Heights,Windsor Heights,19153,Polk County,Incorporated place,41.60446,-93.712802,1
+IA,1986385,place:IA:1986385,Winfield city,Winfield,Winfield,19087,Henry County,Incorporated place,41.125904,-91.438127,1
+IA,1986520,place:IA:1986520,Winterset city,Winterset,Winterset,19121,Madison County,Incorporated place,41.34436,-94.013037,1
+IA,1986565,place:IA:1986565,Winthrop city,Winthrop,Winthrop,19019,Buchanan County,Incorporated place,42.470766,-91.737378,1
+IA,1986610,place:IA:1986610,Wiota city,Wiota,Wiota,19029,Cass County,Incorporated place,41.40078,-94.887329,1
+IA,1986700,place:IA:1986700,Woden city,Woden,Woden,19081,Hancock County,Incorporated place,43.230756,-93.911402,1
+IA,1986835,place:IA:1986835,Woodbine city,Woodbine,Woodbine,19085,Harrison County,Incorporated place,41.736338,-95.711055,1
+IA,1986880,place:IA:1986880,Woodburn city,Woodburn,Woodburn,19039,Clarke County,Incorporated place,41.010852,-93.59632,1
+IA,1986970,place:IA:1986970,Woodward city,Woodward,Woodward,19049,Dallas County,Incorporated place,41.85273,-93.92075,1
+IA,1987015,place:IA:1987015,Woolstock city,Woolstock,Woolstock,19197,Wright County,Incorporated place,42.564776,-93.843131,1
+IA,1987060,place:IA:1987060,Worthington city,Worthington,Worthington,19061,Dubuque County,Incorporated place,42.397928,-91.120703,1
+IA,1987240,place:IA:1987240,Wyoming city,Wyoming,Wyoming,19105,Jones County,Incorporated place,42.059542,-91.005188,1
+IA,1987285,place:IA:1987285,Yale city,Yale,Yale,19077,Guthrie County,Incorporated place,41.77512,-94.3578,1
+IA,1987330,place:IA:1987330,Yarmouth CDP,Yarmouth,Yarmouth,19057,Des Moines County,Census-designated place,41.024513,-91.322067,1
+IA,1987375,place:IA:1987375,Yetter city,Yetter,Yetter,19025,Calhoun County,Incorporated place,42.316107,-94.843199,1
+IA,1987420,place:IA:1987420,Yorktown city,Yorktown,Yorktown,19145,Page County,Incorporated place,40.735257,-95.154337,1
+IA,1987555,place:IA:1987555,Zearing city,Zearing,Zearing,19169,Story County,Incorporated place,42.158925,-93.297182,1
+IA,1987690,place:IA:1987690,Zwingle city,Zwingle,Zwingle,19061,Dubuque County,Incorporated place,42.297192,-90.687436,1

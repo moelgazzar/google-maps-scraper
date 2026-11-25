@@ -1,0 +1,1082 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+MO,2900244,place:MO:2900244,Adrian city,Adrian,Adrian,29013,Bates County,Incorporated place,38.403489,-94.34735,1
+MO,2900262,place:MO:2900262,Advance city,Advance,Advance,29207,Stoddard County,Incorporated place,37.103749,-89.911722,1
+MO,2900280,place:MO:2900280,Affton CDP,Affton,Affton,29189,St. Louis County,Census-designated place,38.549912,-90.326423,1
+MO,2900298,place:MO:2900298,Agency village,Agency,Agency,29021,Buchanan County,Incorporated place,39.655456,-94.748333,1
+MO,2900424,place:MO:2900424,Airport Drive village,Airport Drive,Airport Drive,29097,Jasper County,Incorporated place,37.140546,-94.516193,1
+MO,2900496,place:MO:2900496,Alba city,Alba,Alba,29097,Jasper County,Incorporated place,37.237156,-94.417613,1
+MO,2900514,place:MO:2900514,Albany city,Albany,Albany,29075,Gentry County,Incorporated place,40.247893,-94.333455,1
+MO,2900568,place:MO:2900568,Aldrich village,Aldrich,Aldrich,29167,Polk County,Incorporated place,37.548678,-93.551115,1
+MO,2900604,place:MO:2900604,Alexandria city,Alexandria,Alexandria,29045,Clark County,Incorporated place,40.35989,-91.459391,1
+MO,2900712,place:MO:2900712,Allendale village,Allendale,Allendale,29227,Worth County,Incorporated place,40.48534,-94.288679,1
+MO,2900748,place:MO:2900748,Allenville village,Allenville,Allenville,29031,Cape Girardeau County,Incorporated place,37.221831,-89.755466,1
+MO,2900802,place:MO:2900802,Alma city,Alma,Alma,29107,Lafayette County,Incorporated place,39.096409,-93.5478,1
+MO,2900910,place:MO:2900910,Altamont village,Altamont,Altamont,29061,Daviess County,Incorporated place,39.888033,-94.087031,1
+MO,2900928,place:MO:2900928,Altenburg city,Altenburg,Altenburg,29157,Perry County,Incorporated place,37.630441,-89.585897,1
+MO,2900964,place:MO:2900964,Alton city,Alton,Alton,29149,Oregon County,Incorporated place,36.690843,-91.391716,1
+MO,2901018,place:MO:2901018,Amazonia village,Amazonia,Amazonia,29003,Andrew County,Incorporated place,39.889405,-94.892276,1
+MO,2901054,place:MO:2901054,Amity town,Amity,Amity,29063,DeKalb County,Incorporated place,39.868335,-94.4347,1
+MO,2901072,place:MO:2901072,Amoret city,Amoret,Amoret,29013,Bates County,Incorporated place,38.254796,-94.58729,1
+MO,2901090,place:MO:2901090,Amsterdam city,Amsterdam,Amsterdam,29013,Bates County,Incorporated place,38.349521,-94.589172,1
+MO,2901198,place:MO:2901198,Anderson city,Anderson,Anderson,29119,McDonald County,Incorporated place,36.653156,-94.444084,1
+MO,2901252,place:MO:2901252,Annada village,Annada,Annada,29163,Pike County,Incorporated place,39.262293,-90.828726,1
+MO,2901270,place:MO:2901270,Annapolis city,Annapolis,Annapolis,29093,Iron County,Incorporated place,37.36414,-90.697702,1
+MO,2901288,place:MO:2901288,Anniston town,Anniston,Anniston,29133,Mississippi County,Incorporated place,36.824339,-89.326655,1
+MO,2901522,place:MO:2901522,Appleton City city,Appleton City,Appleton City,29185,St. Clair County,Incorporated place,38.191141,-94.031668,1
+MO,2901576,place:MO:2901576,Arbela town,Arbela,Arbela,29199,Scotland County,Incorporated place,40.463135,-92.015571,1
+MO,2901630,place:MO:2901630,Arbyrd city,Arbyrd,Arbyrd,29069,Dunklin County,Incorporated place,36.053454,-90.239916,1
+MO,2901648,place:MO:2901648,Arcadia city,Arcadia,Arcadia,29093,Iron County,Incorporated place,37.585879,-90.629496,1
+MO,2901702,place:MO:2901702,Archie city,Archie,Archie,29037,Cass County,Incorporated place,38.481116,-94.350614,1
+MO,2901720,place:MO:2901720,Arcola village,Arcola,Arcola,29057,Dade County,Incorporated place,37.549286,-93.875295,1
+MO,2901828,place:MO:2901828,Argyle town,Argyle,Argyle,29151,Osage County,Incorporated place,38.295386,-92.025533,1
+MO,2901864,place:MO:2901864,Arkoe town,Arkoe,Arkoe,29147,Nodaway County,Incorporated place,40.259376,-94.827943,1
+MO,2901954,place:MO:2901954,Armstrong city,Armstrong,Armstrong,29089,Howard County,Incorporated place,39.26918,-92.704173,1
+MO,2901972,place:MO:2901972,Arnold city,Arnold,Arnold,29099,Jefferson County,Incorporated place,38.426025,-90.369315,1
+MO,2902034,place:MO:2902034,Arrow Point village,Arrow Point,Arrow Point,29009,Barry County,Incorporated place,36.544076,-93.622374,1
+MO,2902044,place:MO:2902044,Arrow Rock town,Arrow Rock,Arrow Rock,29195,Saline County,Incorporated place,39.07,-92.947247,1
+MO,2902098,place:MO:2902098,Asbury city,Asbury,Asbury,29097,Jasper County,Incorporated place,37.272941,-94.605154,1
+MO,2902188,place:MO:2902188,Ash Grove city,Ash Grove,Ash Grove,29077,Greene County,Incorporated place,37.31887,-93.580498,1
+MO,2902152,place:MO:2902152,Ashburn town,Ashburn,Ashburn,29163,Pike County,Incorporated place,39.545774,-91.171962,1
+MO,2902242,place:MO:2902242,Ashland city,Ashland,Ashland,29019,Boone County,Incorporated place,38.812464,-92.239531,1
+MO,2902260,place:MO:2902260,Ashley CDP,Ashley,Ashley,29163,Pike County,Census-designated place,39.253271,-91.223522,1
+MO,2902422,place:MO:2902422,Atlanta city,Atlanta,Atlanta,29121,Macon County,Incorporated place,39.898224,-92.480278,1
+MO,2902512,place:MO:2902512,Augusta town,Augusta,Augusta,29183,St. Charles County,Incorporated place,38.570823,-90.879315,1
+MO,2902530,place:MO:2902530,Aullville village,Aullville,Aullville,29107,Lafayette County,Incorporated place,39.017495,-93.677882,1
+MO,2902548,place:MO:2902548,Aurora city,Aurora,Aurora,29109,Lawrence County,Incorporated place,36.967436,-93.718596,1
+MO,2902584,place:MO:2902584,Aurora Springs CDP,Aurora Springs,Aurora Springs,29131,Miller County,Census-designated place,38.324351,-92.582347,1
+MO,2902638,place:MO:2902638,Auxvasse city,Auxvasse,Auxvasse,29027,Callaway County,Incorporated place,39.017487,-91.895611,1
+MO,2902674,place:MO:2902674,Ava city,Ava,Ava,29067,Douglas County,Incorporated place,36.956222,-92.665965,1
+MO,2902692,place:MO:2902692,Avalon CDP,Avalon,Avalon,29117,Livingston County,Census-designated place,39.659671,-93.439342,1
+MO,2902746,place:MO:2902746,Avilla town,Avilla,Avilla,29097,Jasper County,Incorporated place,37.19381,-94.129842,1
+MO,2902800,place:MO:2902800,Avondale city,Avondale,Avondale,29047,Clay County,Incorporated place,39.154528,-94.545168,1
+MO,2902962,place:MO:2902962,Bagnell town,Bagnell,Bagnell,29131,Miller County,Incorporated place,38.229717,-92.605725,1
+MO,2903034,place:MO:2903034,Baker village,Baker,Baker,29207,Stoddard County,Incorporated place,36.773542,-89.761394,1
+MO,2903052,place:MO:2903052,Bakersfield village,Bakersfield,Bakersfield,29153,Ozark County,Incorporated place,36.526673,-92.14805,1
+MO,2903124,place:MO:2903124,Baldwin Park village,Baldwin Park,Baldwin Park,29037,Cass County,Incorporated place,38.792703,-94.248927,1
+MO,2903160,place:MO:2903160,Ballwin city,Ballwin,Ballwin,29189,St. Louis County,Incorporated place,38.594725,-90.54996,1
+MO,2903322,place:MO:2903322,Baring city,Baring,Baring,29103,Knox County,Incorporated place,40.244831,-92.205882,1
+MO,2903340,place:MO:2903340,Barnard city,Barnard,Barnard,29147,Nodaway County,Incorporated place,40.175398,-94.823154,1
+MO,2903376,place:MO:2903376,Barnett city,Barnett,Barnett,29141,Morgan County,Incorporated place,38.377408,-92.674581,1
+MO,2903394,place:MO:2903394,Barnhart CDP,Barnhart,Barnhart,29099,Jefferson County,Census-designated place,38.336604,-90.403095,1
+MO,2903556,place:MO:2903556,Bates City city,Bates City,Bates City,29107,Lafayette County,Incorporated place,39.003936,-94.063391,1
+MO,2903592,place:MO:2903592,Battlefield city,Battlefield,Battlefield,29077,Greene County,Incorporated place,37.119324,-93.368334,1
+MO,2904348,place:MO:2904348,Bel-Nor village,Bel-Nor,Bel-Nor,29189,St. Louis County,Incorporated place,38.698079,-90.31779,1
+MO,2904366,place:MO:2904366,Bel-Ridge village,Bel-Ridge,Bel-Ridge,29189,St. Louis County,Incorporated place,38.712818,-90.328524,1
+MO,2904132,place:MO:2904132,Bell City city,Bell City,Bell City,29207,Stoddard County,Incorporated place,37.024008,-89.819341,1
+MO,2904114,place:MO:2904114,Bella Villa city,Bella Villa,Bella Villa,29189,St. Louis County,Incorporated place,38.543621,-90.285432,1
+MO,2904150,place:MO:2904150,Belle city,Belle,Belle,29125,Maries County,Incorporated place,38.285138,-91.721466,1
+MO,2904222,place:MO:2904222,Bellefontaine Neighbors city,Bellefontaine Neighbors,Bellefontaine Neighbors,29189,St. Louis County,Incorporated place,38.752849,-90.227992,1
+MO,2904248,place:MO:2904248,Bellerive Acres city,Bellerive Acres,Bellerive Acres,29189,St. Louis County,Incorporated place,38.712226,-90.312133,1
+MO,2904330,place:MO:2904330,Bellflower city,Bellflower,Bellflower,29139,Montgomery County,Incorporated place,39.003917,-91.351664,1
+MO,2904384,place:MO:2904384,Belton city,Belton,Belton,29037,Cass County,Incorporated place,38.81873,-94.529639,1
+MO,2904525,place:MO:2904525,Bennett Springs CDP,Bennett Springs,Bennett Springs,29105,Laclede County,Census-designated place,37.733714,-92.856269,1
+MO,2904864,place:MO:2904864,Bent Tree Harbor CDP,Bent Tree Harbor,Bent Tree Harbor,29015,Benton County,Census-designated place,38.246631,-93.489899,1
+MO,2904798,place:MO:2904798,Benton city,Benton,Benton,29201,Scott County,Incorporated place,37.099303,-89.560466,1
+MO,2904834,place:MO:2904834,Benton City village,Benton City,Benton City,29007,Audrain County,Incorporated place,39.134548,-91.764865,1
+MO,2904888,place:MO:2904888,Berger city,Berger,Berger,29071,Franklin County,Incorporated place,38.667539,-91.341117,1
+MO,2904906,place:MO:2904906,Berkeley city,Berkeley,Berkeley,29189,St. Louis County,Incorporated place,38.746446,-90.336128,1
+MO,2904960,place:MO:2904960,Bernie city,Bernie,Bernie,29207,Stoddard County,Incorporated place,36.671719,-89.97069,1
+MO,2904996,place:MO:2904996,Bertrand city,Bertrand,Bertrand,29133,Mississippi County,Incorporated place,36.907726,-89.452649,1
+MO,2905068,place:MO:2905068,Bethany city,Bethany,Bethany,29081,Harrison County,Incorporated place,40.268164,-94.029822,1
+MO,2905104,place:MO:2905104,Bethel village,Bethel,Bethel,29205,Shelby County,Incorporated place,39.877772,-92.022665,1
+MO,2905248,place:MO:2905248,Beverly Hills city,Beverly Hills,Beverly Hills,29189,St. Louis County,Incorporated place,38.697948,-90.290116,1
+MO,2905266,place:MO:2905266,Bevier city,Bevier,Bevier,29121,Macon County,Incorporated place,39.751449,-92.563896,1
+MO,2905320,place:MO:2905320,Biehle CDP,Biehle,Biehle,29157,Perry County,Census-designated place,37.606549,-89.837694,1
+MO,2905495,place:MO:2905495,Big Lake village,Big Lake,Big Lake,29087,Holt County,Incorporated place,40.061355,-95.351419,1
+MO,2905608,place:MO:2905608,Big Spring CDP,Big Spring,Big Spring,29139,Montgomery County,Census-designated place,38.794949,-91.482933,1
+MO,2905464,place:MO:2905464,Bigelow village,Bigelow,Bigelow,29087,Holt County,Incorporated place,40.109783,-95.289403,1
+MO,2905626,place:MO:2905626,Billings city,Billings,Billings,29043,Christian County,Incorporated place,37.064054,-93.555594,1
+MO,2905734,place:MO:2905734,Birch Tree city,Birch Tree,Birch Tree,29203,Shannon County,Incorporated place,36.996681,-91.49167,1
+MO,2905824,place:MO:2905824,Birmingham village,Birmingham,Birmingham,29047,Clay County,Incorporated place,39.167575,-94.45008,1
+MO,2905878,place:MO:2905878,Bismarck city,Bismarck,Bismarck,29187,St. Francois County,Incorporated place,37.767325,-90.622518,1
+MO,2906004,place:MO:2906004,Black Jack city,Black Jack,Black Jack,29189,St. Louis County,Incorporated place,38.798982,-90.263444,1
+MO,2905950,place:MO:2905950,Blackburn city,Blackburn,Blackburn,29195,Saline County,Incorporated place,39.104769,-93.486049,1
+MO,2906148,place:MO:2906148,Blackwater city,Blackwater,Blackwater,29053,Cooper County,Incorporated place,38.979195,-92.991967,1
+MO,2906238,place:MO:2906238,Blairstown city,Blairstown,Blairstown,29083,Henry County,Incorporated place,38.557925,-93.957796,1
+MO,2906247,place:MO:2906247,Blanchard CDP,Blanchard,Blanchard,29005,Atchison County,Census-designated place,40.574885,-95.210979,1
+MO,2906256,place:MO:2906256,Bland city,Bland,Bland,29073,Gasconade County,Incorporated place,38.300447,-91.633062,1
+MO,2906346,place:MO:2906346,Blodgett city,Blodgett,Blodgett,29201,Scott County,Incorporated place,37.003435,-89.527022,1
+MO,2906382,place:MO:2906382,Bloomfield city,Bloomfield,Bloomfield,29207,Stoddard County,Incorporated place,36.887695,-89.931538,1
+MO,2906454,place:MO:2906454,Bloomsdale city,Bloomsdale,Bloomsdale,29186,Ste. Genevieve County,Incorporated place,38.014427,-90.220348,1
+MO,2906526,place:MO:2906526,Blue Eye town,Blue Eye,Blue Eye,29209,Stone County,Incorporated place,36.519314,-93.377148,1
+MO,2906652,place:MO:2906652,Blue Springs city,Blue Springs,Blue Springs,29095,Jackson County,Incorporated place,39.012001,-94.267612,1
+MO,2906670,place:MO:2906670,Blue Summit CDP,Blue Summit,Blue Summit,29095,Jackson County,Census-designated place,39.086909,-94.480742,1
+MO,2906742,place:MO:2906742,Blythedale village,Blythedale,Blythedale,29081,Harrison County,Incorporated place,40.475172,-93.927495,1
+MO,2906832,place:MO:2906832,Bogard city,Bogard,Bogard,29033,Carroll County,Incorporated place,39.457927,-93.523861,1
+MO,2906922,place:MO:2906922,Bolckow city,Bolckow,Bolckow,29003,Andrew County,Incorporated place,40.115217,-94.821207,1
+MO,2906976,place:MO:2906976,Bolivar city,Bolivar,Bolivar,29167,Polk County,Incorporated place,37.603518,-93.41673,1
+MO,2907102,place:MO:2907102,Bonne Terre city,Bonne Terre,Bonne Terre,29187,St. Francois County,Incorporated place,37.921102,-90.54268,1
+MO,2907318,place:MO:2907318,Boonville city,Boonville,Boonville,29053,Cooper County,Incorporated place,38.961439,-92.746203,1
+MO,2907426,place:MO:2907426,Bosworth city,Bosworth,Bosworth,29033,Carroll County,Incorporated place,39.469909,-93.335558,1
+MO,2907534,place:MO:2907534,Bourbon city,Bourbon,Bourbon,29055,Crawford County,Incorporated place,38.15058,-91.249279,1
+MO,2907660,place:MO:2907660,Bowling Green city,Bowling Green,Bowling Green,29163,Pike County,Incorporated place,39.344774,-91.202488,1
+MO,2907876,place:MO:2907876,Bragg City town,Bragg City,Bragg City,29155,Pemiscot County,Incorporated place,36.268134,-89.911302,1
+MO,2907948,place:MO:2907948,Brandsville city,Brandsville,Brandsville,29091,Howell County,Incorporated place,36.65074,-91.696457,1
+MO,2907966,place:MO:2907966,Branson city,Branson,Branson,29213,Taney County,Incorporated place,36.624611,-93.293449,1
+MO,2907989,place:MO:2907989,Branson West city,Branson West,Branson West,29209,Stone County,Incorporated place,36.696053,-93.373607,1
+MO,2908002,place:MO:2908002,Brashear city,Brashear,Brashear,29001,Adair County,Incorporated place,40.148339,-92.378842,1
+MO,2908038,place:MO:2908038,Braymer city,Braymer,Braymer,29025,Caldwell County,Incorporated place,39.590235,-93.795891,1
+MO,2908128,place:MO:2908128,Breckenridge city,Breckenridge,Breckenridge,29025,Caldwell County,Incorporated place,39.761452,-93.805152,1
+MO,2908164,place:MO:2908164,Breckenridge Hills city,Breckenridge Hills,Breckenridge Hills,29189,St. Louis County,Incorporated place,38.715769,-90.368438,1
+MO,2908236,place:MO:2908236,Brentwood city,Brentwood,Brentwood,29189,St. Louis County,Incorporated place,38.619423,-90.347528,1
+MO,2908272,place:MO:2908272,Brewer CDP,Brewer,Brewer,29157,Perry County,Census-designated place,37.783578,-89.917995,1
+MO,2908294,place:MO:2908294,Briarwood Estates CDP,Briarwood Estates,Briarwood Estates,29099,Jefferson County,Census-designated place,38.156103,-90.586594,1
+MO,2908398,place:MO:2908398,Bridgeton city,Bridgeton,Bridgeton,29189,St. Louis County,Incorporated place,38.773317,-90.416997,1
+MO,2908470,place:MO:2908470,Brimson village,Brimson,Brimson,29079,Grundy County,Incorporated place,40.144945,-93.738397,1
+MO,2908614,place:MO:2908614,Bronaugh city,Bronaugh,Bronaugh,29217,Vernon County,Incorporated place,37.693669,-94.468611,1
+MO,2908650,place:MO:2908650,Brookfield city,Brookfield,Brookfield,29115,Linn County,Incorporated place,39.785329,-93.077967,1
+MO,2908776,place:MO:2908776,Brooklyn Heights town,Brooklyn Heights,Brooklyn Heights,29097,Jasper County,Incorporated place,37.169412,-94.385535,1
+MO,2908812,place:MO:2908812,Broseley CDP,Broseley,Broseley,29023,Butler County,Census-designated place,36.675396,-90.24412,1
+MO,2908884,place:MO:2908884,Browning city,Browning,Browning,29115,Linn County,Incorporated place,40.034946,-93.160347,1
+MO,2908902,place:MO:2908902,Brownington town,Brownington,Brownington,29083,Henry County,Incorporated place,38.244418,-93.722721,1
+MO,2908974,place:MO:2908974,Brumley town,Brumley,Brumley,29131,Miller County,Incorporated place,38.088523,-92.484333,1
+MO,2909046,place:MO:2909046,Brunswick city,Brunswick,Brunswick,29041,Chariton County,Incorporated place,39.427184,-93.127184,1
+MO,2909388,place:MO:2909388,Bucklin city,Bucklin,Bucklin,29115,Linn County,Incorporated place,39.784024,-92.888132,1
+MO,2909424,place:MO:2909424,Buckner city,Buckner,Buckner,29095,Jackson County,Incorporated place,39.132481,-94.196811,1
+MO,2909496,place:MO:2909496,Buell CDP,Buell,Buell,29139,Montgomery County,Census-designated place,39.03241,-91.440732,1
+MO,2909514,place:MO:2909514,Buffalo city,Buffalo,Buffalo,29059,Dallas County,Incorporated place,37.64519,-93.096564,1
+MO,2909642,place:MO:2909642,Bull Creek village,Bull Creek,Bull Creek,29213,Taney County,Incorporated place,36.715166,-93.201927,1
+MO,2909658,place:MO:2909658,Bunceton city,Bunceton,Bunceton,29053,Cooper County,Incorporated place,38.789683,-92.798688,1
+MO,2909694,place:MO:2909694,Bunker city,Bunker,Bunker,29065,Dent County,Incorporated place,37.457569,-91.211626,1
+MO,2909784,place:MO:2909784,Burfordville CDP,Burfordville,Burfordville,29031,Cape Girardeau County,Census-designated place,37.367711,-89.809776,1
+MO,2909802,place:MO:2909802,Burgess CDP,Burgess,Burgess,29011,Barton County,Census-designated place,37.556935,-94.615528,1
+MO,2909838,place:MO:2909838,Burlington Junction city,Burlington Junction,Burlington Junction,29147,Nodaway County,Incorporated place,40.446557,-95.066716,1
+MO,2910054,place:MO:2910054,Butler city,Butler,Butler,29013,Bates County,Incorporated place,38.259362,-94.339531,1
+MO,2910144,place:MO:2910144,Butterfield city,Butterfield,Butterfield,29009,Barry County,Incorporated place,36.745994,-93.903979,1
+MO,2910240,place:MO:2910240,Byrnes Mill city,Byrnes Mill,Byrnes Mill,29099,Jefferson County,Incorporated place,38.439042,-90.573597,1
+MO,2910288,place:MO:2910288,Cabool city,Cabool,Cabool,29215,Texas County,Incorporated place,37.126012,-92.103986,1
+MO,2910342,place:MO:2910342,Cainsville city,Cainsville,Cainsville,29081,Harrison County,Incorporated place,40.439802,-93.774675,1
+MO,2910360,place:MO:2910360,Cairo village,Cairo,Cairo,29175,Randolph County,Incorporated place,39.511164,-92.441007,1
+MO,2910432,place:MO:2910432,Caledonia village,Caledonia,Caledonia,29221,Washington County,Incorporated place,37.764771,-90.772354,1
+MO,2910450,place:MO:2910450,Calhoun city,Calhoun,Calhoun,29083,Henry County,Incorporated place,38.468085,-93.623939,1
+MO,2910468,place:MO:2910468,California city,California,California,29135,Moniteau County,Incorporated place,38.630306,-92.567079,1
+MO,2910486,place:MO:2910486,Callao city,Callao,Callao,29121,Macon County,Incorporated place,39.762397,-92.623349,1
+MO,2910612,place:MO:2910612,Calverton Park city,Calverton Park,Calverton Park,29189,St. Louis County,Incorporated place,38.766488,-90.30909,1
+MO,2910738,place:MO:2910738,Camden city,Camden,Camden,29177,Ray County,Incorporated place,39.19906,-94.023381,1
+MO,2910792,place:MO:2910792,Camden Point city,Camden Point,Camden Point,29165,Platte County,Incorporated place,39.452795,-94.75019,1
+MO,2910810,place:MO:2910810,Camdenton city,Camdenton,Camdenton,29029,Camden County,Incorporated place,38.013237,-92.751393,1
+MO,2910828,place:MO:2910828,Cameron city,Cameron,Cameron,29049,Clinton County,Incorporated place,39.743977,-94.232367,1
+MO,2910864,place:MO:2910864,Campbell city,Campbell,Campbell,29069,Dunklin County,Incorporated place,36.493043,-90.076073,1
+MO,2911026,place:MO:2911026,Canalou city,Canalou,Canalou,29143,New Madrid County,Incorporated place,36.754019,-89.686506,1
+MO,2911134,place:MO:2911134,Canton city,Canton,Canton,29111,Lewis County,Incorporated place,40.129921,-91.527015,1
+MO,2911242,place:MO:2911242,Cape Girardeau city,Cape Girardeau,Cape Girardeau,29031,Cape Girardeau County,Incorporated place,37.309389,-89.558359,1
+MO,2911350,place:MO:2911350,Cardwell city,Cardwell,Cardwell,29069,Dunklin County,Incorporated place,36.04748,-90.290905,1
+MO,2911368,place:MO:2911368,Carl Junction city,Carl Junction,Carl Junction,29097,Jasper County,Incorporated place,37.16417,-94.542693,1
+MO,2911566,place:MO:2911566,Carrollton city,Carrollton,Carrollton,29033,Carroll County,Incorporated place,39.363642,-93.49506,1
+MO,2911638,place:MO:2911638,Carterville city,Carterville,Carterville,29097,Jasper County,Incorporated place,37.146587,-94.438807,1
+MO,2911656,place:MO:2911656,Carthage city,Carthage,Carthage,29097,Jasper County,Incorporated place,37.147317,-94.323362,1
+MO,2911692,place:MO:2911692,Caruthersville city,Caruthersville,Caruthersville,29155,Pemiscot County,Incorporated place,36.18126,-89.666904,1
+MO,2911728,place:MO:2911728,Carytown village,Carytown,Carytown,29097,Jasper County,Incorporated place,37.26155,-94.33446,1
+MO,2911890,place:MO:2911890,Cassville city,Cassville,Cassville,29009,Barry County,Incorporated place,36.678302,-93.868105,1
+MO,2911908,place:MO:2911908,Castle Point CDP,Castle Point,Castle Point,29189,St. Louis County,Census-designated place,38.756823,-90.248501,1
+MO,2912052,place:MO:2912052,Catron town,Catron,Catron,29143,New Madrid County,Incorporated place,36.61104,-89.706033,1
+MO,2912079,place:MO:2912079,Cave town,Cave,Cave,29113,Lincoln County,Incorporated place,39.023555,-91.041869,1
+MO,2912358,place:MO:2912358,Cedar Hill CDP,Cedar Hill,Cedar Hill,29099,Jefferson County,Census-designated place,38.357542,-90.640958,1
+MO,2912376,place:MO:2912376,Cedar Hill Lakes village,Cedar Hill Lakes,Cedar Hill Lakes,29099,Jefferson County,Incorporated place,38.330919,-90.656307,1
+MO,2912592,place:MO:2912592,Center city,Center,Center,29173,Ralls County,Incorporated place,39.509438,-91.529335,1
+MO,2912664,place:MO:2912664,Centertown town,Centertown,Centertown,29051,Cole County,Incorporated place,38.617995,-92.408952,1
+MO,2912682,place:MO:2912682,Centerview city,Centerview,Centerview,29101,Johnson County,Incorporated place,38.746032,-93.844304,1
+MO,2912718,place:MO:2912718,Centerville city,Centerville,Centerville,29179,Reynolds County,Incorporated place,37.436679,-90.95969,1
+MO,2912898,place:MO:2912898,Centralia city,Centralia,Centralia,29019,Boone County,Incorporated place,39.210777,-92.13428,1
+MO,2912988,place:MO:2912988,Chaffee city,Chaffee,Chaffee,29201,Scott County,Incorporated place,37.181218,-89.661242,1
+MO,2913006,place:MO:2913006,Chain of Rocks village,Chain of Rocks,Chain of Rocks,29113,Lincoln County,Incorporated place,38.915006,-90.802289,1
+MO,2913015,place:MO:2913015,Chain-O-Lakes village,Chain-O-Lakes,Chain-O-Lakes,29009,Barry County,Incorporated place,36.534197,-93.724179,1
+MO,2913060,place:MO:2913060,Chamois city,Chamois,Chamois,29151,Osage County,Incorporated place,38.673784,-91.772978,1
+MO,2913078,place:MO:2913078,Champ village,Champ,Champ,29189,St. Louis County,Incorporated place,38.744994,-90.453524,1
+MO,2913330,place:MO:2913330,Charlack city,Charlack,Charlack,29189,St. Louis County,Incorporated place,38.702908,-90.342677,1
+MO,2913366,place:MO:2913366,Charleston city,Charleston,Charleston,29133,Mississippi County,Incorporated place,36.916934,-89.333912,1
+MO,2913390,place:MO:2913390,Charmwood town,Charmwood,Charmwood,29071,Franklin County,Incorporated place,38.281138,-91.096881,1
+MO,2913474,place:MO:2913474,Cherokee Pass CDP,Cherokee Pass,Cherokee Pass,29123,Madison County,Census-designated place,37.48753,-90.294959,1
+MO,2913582,place:MO:2913582,Chesapeake CDP,Chesapeake,Chesapeake,29109,Lawrence County,Census-designated place,37.114809,-93.678794,1
+MO,2913600,place:MO:2913600,Chesterfield city,Chesterfield,Chesterfield,29189,St. Louis County,Incorporated place,38.65887,-90.57944,1
+MO,2913654,place:MO:2913654,Chilhowee town,Chilhowee,Chilhowee,29101,Johnson County,Incorporated place,38.588586,-93.856195,1
+MO,2913690,place:MO:2913690,Chillicothe city,Chillicothe,Chillicothe,29117,Livingston County,Incorporated place,39.794761,-93.547397,1
+MO,2913852,place:MO:2913852,Chula city,Chula,Chula,29117,Livingston County,Incorporated place,39.921944,-93.47757,1
+MO,2913978,place:MO:2913978,Clarence city,Clarence,Clarence,29205,Shelby County,Incorporated place,39.743181,-92.260136,1
+MO,2914068,place:MO:2914068,Clark city,Clark,Clark,29175,Randolph County,Incorporated place,39.279675,-92.359534,1
+MO,2914140,place:MO:2914140,Clarksburg city,Clarksburg,Clarksburg,29135,Moniteau County,Incorporated place,38.66132,-92.666496,1
+MO,2914158,place:MO:2914158,Clarksdale city,Clarksdale,Clarksdale,29063,DeKalb County,Incorporated place,39.813849,-94.550768,1
+MO,2914176,place:MO:2914176,Clarkson Valley city,Clarkson Valley,Clarkson Valley,29189,St. Louis County,Incorporated place,38.625394,-90.5972,1
+MO,2914194,place:MO:2914194,Clarksville city,Clarksville,Clarksville,29163,Pike County,Incorporated place,39.369502,-90.904896,1
+MO,2914212,place:MO:2914212,Clarkton city,Clarkton,Clarkton,29069,Dunklin County,Incorporated place,36.452045,-89.968088,1
+MO,2914554,place:MO:2914554,Claycomo village,Claycomo,Claycomo,29047,Clay County,Incorporated place,39.198621,-94.478833,1
+MO,2914572,place:MO:2914572,Clayton city,Clayton,Clayton,29189,St. Louis County,Incorporated place,38.644403,-90.330212,1
+MO,2914662,place:MO:2914662,Clearmont city,Clearmont,Clearmont,29147,Nodaway County,Incorporated place,40.507995,-95.032591,1
+MO,2914770,place:MO:2914770,Cleveland city,Cleveland,Cleveland,29037,Cass County,Incorporated place,38.677801,-94.600002,1
+MO,2914788,place:MO:2914788,Clever city,Clever,Clever,29043,Christian County,Incorporated place,37.031478,-93.470857,1
+MO,2914806,place:MO:2914806,Cliff Village village,Cliff Village,Cliff Village,29145,Newton County,Incorporated place,37.025142,-94.517195,1
+MO,2914896,place:MO:2914896,Clifton Hill city,Clifton Hill,Clifton Hill,29175,Randolph County,Incorporated place,39.438619,-92.663681,1
+MO,2914914,place:MO:2914914,Climax Springs CDP,Climax Springs,Climax Springs,29029,Camden County,Census-designated place,38.100402,-93.052807,1
+MO,2914986,place:MO:2914986,Clinton city,Clinton,Clinton,29083,Henry County,Incorporated place,38.371172,-93.768142,1
+MO,2915130,place:MO:2915130,Clyde village,Clyde,Clyde,29147,Nodaway County,Incorporated place,40.26621,-94.669598,1
+MO,2915220,place:MO:2915220,Cobalt village,Cobalt,Cobalt,29123,Madison County,Incorporated place,37.545119,-90.286929,1
+MO,2915274,place:MO:2915274,Coffey city,Coffey,Coffey,29061,Daviess County,Incorporated place,40.105548,-94.006538,1
+MO,2915436,place:MO:2915436,Cole Camp city,Cole Camp,Cole Camp,29015,Benton County,Incorporated place,38.459643,-93.202099,1
+MO,2915562,place:MO:2915562,Collins village,Collins,Collins,29185,St. Clair County,Incorporated place,37.889607,-93.621824,1
+MO,2915670,place:MO:2915670,Columbia city,Columbia,Columbia,29019,Boone County,Incorporated place,38.94729,-92.326387,1
+MO,2915760,place:MO:2915760,Commerce village,Commerce,Commerce,29201,Scott County,Incorporated place,37.158176,-89.446373,1
+MO,2915886,place:MO:2915886,Conception CDP,Conception,Conception,29147,Nodaway County,Census-designated place,40.238845,-94.680901,1
+MO,2915922,place:MO:2915922,Conception Junction town,Conception Junction,Conception Junction,29147,Nodaway County,Incorporated place,40.268351,-94.69136,1
+MO,2916030,place:MO:2916030,Concord CDP,Concord,Concord,29189,St. Louis County,Census-designated place,38.511705,-90.350891,1
+MO,2916102,place:MO:2916102,Concordia city,Concordia,Concordia,29107,Lafayette County,Incorporated place,38.987513,-93.569227,1
+MO,2916115,place:MO:2916115,Coney Island village,Coney Island,Coney Island,29209,Stone County,Incorporated place,36.59321,-93.397142,1
+MO,2916138,place:MO:2916138,Connelsville CDP,Connelsville,Connelsville,29001,Adair County,Census-designated place,40.277831,-92.701778,1
+MO,2916192,place:MO:2916192,Conway city,Conway,Conway,29105,Laclede County,Incorporated place,37.506792,-92.831003,1
+MO,2916228,place:MO:2916228,Cool Valley city,Cool Valley,Cool Valley,29189,St. Louis County,Incorporated place,38.72503,-90.305826,1
+MO,2916336,place:MO:2916336,Cooter city,Cooter,Cooter,29155,Pemiscot County,Incorporated place,36.046694,-89.80917,1
+MO,2916408,place:MO:2916408,Corder city,Corder,Corder,29107,Lafayette County,Incorporated place,39.099195,-93.638931,1
+MO,2916462,place:MO:2916462,Corning town,Corning,Corning,29087,Holt County,Incorporated place,40.248604,-95.454498,1
+MO,2916588,place:MO:2916588,Cosby village,Cosby,Cosby,29003,Andrew County,Incorporated place,39.863839,-94.679819,1
+MO,2916678,place:MO:2916678,Cottleville city,Cottleville,Cottleville,29183,St. Charles County,Incorporated place,38.751583,-90.6578,1
+MO,2916802,place:MO:2916802,Country Club village,Country Club,Country Club,29003,Andrew County,Incorporated place,39.84674,-94.823876,1
+MO,2916822,place:MO:2916822,Country Club Hills city,Country Club Hills,Country Club Hills,29189,St. Louis County,Incorporated place,38.720869,-90.275071,1
+MO,2916876,place:MO:2916876,Country Life Acres village,Country Life Acres,Country Life Acres,29189,St. Louis County,Incorporated place,38.622244,-90.455384,1
+MO,2916984,place:MO:2916984,Cowgill city,Cowgill,Cowgill,29025,Caldwell County,Incorporated place,39.560787,-93.926245,1
+MO,2917056,place:MO:2917056,Craig city,Craig,Craig,29087,Holt County,Incorporated place,40.192383,-95.374257,1
+MO,2917074,place:MO:2917074,Crane city,Crane,Crane,29209,Stone County,Incorporated place,36.901446,-93.570537,1
+MO,2917164,place:MO:2917164,Creighton city,Creighton,Creighton,29037,Cass County,Incorporated place,38.496557,-94.072089,1
+MO,2917218,place:MO:2917218,Crestwood city,Crestwood,Crestwood,29189,St. Louis County,Incorporated place,38.55688,-90.378228,1
+MO,2917272,place:MO:2917272,Creve Coeur city,Creve Coeur,Creve Coeur,29189,St. Louis County,Incorporated place,38.662023,-90.443048,1
+MO,2917344,place:MO:2917344,Crocker city,Crocker,Crocker,29169,Pulaski County,Incorporated place,37.946872,-92.267918,1
+MO,2917524,place:MO:2917524,Cross Timbers city,Cross Timbers,Cross Timbers,29085,Hickory County,Incorporated place,38.024273,-93.229358,1
+MO,2917632,place:MO:2917632,Crystal City city,Crystal City,Crystal City,29099,Jefferson County,Incorporated place,38.221544,-90.381303,1
+MO,2917650,place:MO:2917650,Crystal Lake Park city,Crystal Lake Park,Crystal Lake Park,29189,St. Louis County,Incorporated place,38.621241,-90.432053,1
+MO,2917660,place:MO:2917660,Crystal Lakes city,Crystal Lakes,Crystal Lakes,29177,Ray County,Incorporated place,39.36202,-94.18891,1
+MO,2917668,place:MO:2917668,Cuba city,Cuba,Cuba,29055,Crawford County,Incorporated place,38.067095,-91.405733,1
+MO,2917902,place:MO:2917902,Curryville city,Curryville,Curryville,29163,Pike County,Incorporated place,39.345743,-91.341513,1
+MO,2917992,place:MO:2917992,Dadeville village,Dadeville,Dadeville,29057,Dade County,Incorporated place,37.479698,-93.673684,1
+MO,2918118,place:MO:2918118,Dalton town,Dalton,Dalton,29041,Chariton County,Incorporated place,39.397606,-92.992063,1
+MO,2918190,place:MO:2918190,Danville CDP,Danville,Danville,29139,Montgomery County,Census-designated place,38.912232,-91.529817,1
+MO,2918253,place:MO:2918253,Dardenne Prairie city,Dardenne Prairie,Dardenne Prairie,29183,St. Charles County,Incorporated place,38.741116,-90.715362,1
+MO,2918316,place:MO:2918316,Darlington village,Darlington,Darlington,29075,Gentry County,Incorporated place,40.198004,-94.399682,1
+MO,2918496,place:MO:2918496,Dawn CDP,Dawn,Dawn,29117,Livingston County,Census-designated place,39.671302,-93.634117,1
+MO,2918946,place:MO:2918946,De Kalb town,De Kalb,De Kalb,29021,Buchanan County,Incorporated place,39.588255,-94.923582,1
+MO,2919252,place:MO:2919252,De Soto city,De Soto,De Soto,29099,Jefferson County,Incorporated place,38.141136,-90.561205,1
+MO,2919378,place:MO:2919378,De Witt city,De Witt,De Witt,29033,Carroll County,Incorporated place,39.38488,-93.219913,1
+MO,2918658,place:MO:2918658,Dearborn city,Dearborn,Dearborn,29165,Platte County,Incorporated place,39.525205,-94.772588,1
+MO,2918730,place:MO:2918730,Deepwater city,Deepwater,Deepwater,29083,Henry County,Incorporated place,38.259188,-93.775135,1
+MO,2918802,place:MO:2918802,Deerfield village,Deerfield,Deerfield,29217,Vernon County,Incorporated place,37.838652,-94.507702,1
+MO,2918838,place:MO:2918838,Deering CDP,Deering,Deering,29155,Pemiscot County,Census-designated place,36.191637,-89.884209,1
+MO,2918910,place:MO:2918910,Defiance CDP,Defiance,Defiance,29183,St. Charles County,Census-designated place,38.632751,-90.784621,1
+MO,2919018,place:MO:2919018,Dellwood city,Dellwood,Dellwood,29189,St. Louis County,Incorporated place,38.756329,-90.276633,1
+MO,2919072,place:MO:2919072,Delta city,Delta,Delta,29031,Cape Girardeau County,Incorporated place,37.197458,-89.73916,1
+MO,2919090,place:MO:2919090,Dennis Acres village,Dennis Acres,Dennis Acres,29145,Newton County,Incorporated place,37.046471,-94.50442,1
+MO,2919144,place:MO:2919144,Denton CDP,Denton,Denton,29155,Pemiscot County,Census-designated place,36.090523,-89.891485,1
+MO,2919162,place:MO:2919162,Denver village,Denver,Denver,29227,Worth County,Incorporated place,40.398948,-94.323297,1
+MO,2919198,place:MO:2919198,Des Arc village,Des Arc,Des Arc,29093,Iron County,Incorporated place,37.283155,-90.636068,1
+MO,2919270,place:MO:2919270,Des Peres city,Des Peres,Des Peres,29189,St. Louis County,Incorporated place,38.598415,-90.445274,1
+MO,2919216,place:MO:2919216,Desloge city,Desloge,Desloge,29187,St. Francois County,Incorporated place,37.875128,-90.519133,1
+MO,2919396,place:MO:2919396,Dexter city,Dexter,Dexter,29207,Stoddard County,Incorporated place,36.792821,-89.962969,1
+MO,2919432,place:MO:2919432,Diamond town,Diamond,Diamond,29145,Newton County,Incorporated place,36.997069,-94.315376,1
+MO,2919486,place:MO:2919486,Diehlstadt village,Diehlstadt,Diehlstadt,29201,Scott County,Incorporated place,36.959314,-89.432154,1
+MO,2919504,place:MO:2919504,Diggins village,Diggins,Diggins,29225,Webster County,Incorporated place,37.173152,-92.849496,1
+MO,2919630,place:MO:2919630,Dixon city,Dixon,Dixon,29169,Pulaski County,Incorporated place,37.995277,-92.095877,1
+MO,2919684,place:MO:2919684,Doe Run CDP,Doe Run,Doe Run,29187,St. Francois County,Census-designated place,37.745524,-90.49992,1
+MO,2919792,place:MO:2919792,Doniphan city,Doniphan,Doniphan,29181,Ripley County,Incorporated place,36.623355,-90.82186,1
+MO,2919828,place:MO:2919828,Doolittle city,Doolittle,Doolittle,29161,Phelps County,Incorporated place,37.941681,-91.89103,1
+MO,2919918,place:MO:2919918,Dover town,Dover,Dover,29107,Lafayette County,Incorporated place,39.194106,-93.689524,1
+MO,2919990,place:MO:2919990,Downing city,Downing,Downing,29197,Schuyler County,Incorporated place,40.486772,-92.368616,1
+MO,2920134,place:MO:2920134,Drexel city,Drexel,Drexel,29037,Cass County,Incorporated place,38.500914,-94.603827,1
+MO,2920296,place:MO:2920296,Dudley city,Dudley,Dudley,29207,Stoddard County,Incorporated place,36.789745,-90.091603,1
+MO,2920314,place:MO:2920314,Duenweg city,Duenweg,Duenweg,29097,Jasper County,Incorporated place,37.089179,-94.409261,1
+MO,2920512,place:MO:2920512,Duquesne village,Duquesne,Duquesne,29097,Jasper County,Incorporated place,37.070881,-94.456793,1
+MO,2920566,place:MO:2920566,Dutchtown CDP,Dutchtown,Dutchtown,29031,Cape Girardeau County,Census-designated place,37.259804,-89.64651,1
+MO,2920656,place:MO:2920656,Eagle Rock CDP,Eagle Rock,Eagle Rock,29009,Barry County,Census-designated place,36.554058,-93.743642,1
+MO,2920674,place:MO:2920674,Eagleville town,Eagleville,Eagleville,29081,Harrison County,Incorporated place,40.468725,-93.985963,1
+MO,2920980,place:MO:2920980,East Lynne city,East Lynne,East Lynne,29037,Cass County,Incorporated place,38.668457,-94.231545,1
+MO,2921052,place:MO:2921052,East Prairie city,East Prairie,East Prairie,29133,Mississippi County,Incorporated place,36.778916,-89.384081,1
+MO,2921034,place:MO:2921034,Easton city,Easton,Easton,29021,Buchanan County,Incorporated place,39.72285,-94.640643,1
+MO,2921214,place:MO:2921214,Edgar Springs city,Edgar Springs,Edgar Springs,29161,Phelps County,Incorporated place,37.702592,-91.866065,1
+MO,2921250,place:MO:2921250,Edgerton city,Edgerton,Edgerton,29165,Platte County,Incorporated place,39.502268,-94.629599,1
+MO,2921322,place:MO:2921322,Edina city,Edina,Edina,29103,Knox County,Incorporated place,40.168013,-92.172993,1
+MO,2921340,place:MO:2921340,Edinburg CDP,Edinburg,Edinburg,29079,Grundy County,Census-designated place,40.081099,-93.689848,1
+MO,2921376,place:MO:2921376,Edmundson city,Edmundson,Edmundson,29189,St. Louis County,Incorporated place,38.735095,-90.365738,1
+MO,2921502,place:MO:2921502,El Dorado Springs city,El Dorado Springs,El Dorado Springs,29039,Cedar County,Incorporated place,37.869698,-94.019954,1
+MO,2921484,place:MO:2921484,Eldon city,Eldon,Eldon,29131,Miller County,Incorporated place,38.351176,-92.576704,1
+MO,2921844,place:MO:2921844,Ellington city,Ellington,Ellington,29179,Reynolds County,Incorporated place,37.236868,-90.973744,1
+MO,2921898,place:MO:2921898,Ellisville city,Ellisville,Ellisville,29189,St. Louis County,Incorporated place,38.589604,-90.58839,1
+MO,2921916,place:MO:2921916,Ellsinore city,Ellsinore,Ellsinore,29035,Carter County,Incorporated place,36.932839,-90.747672,1
+MO,2921988,place:MO:2921988,Elmer city,Elmer,Elmer,29121,Macon County,Incorporated place,39.957904,-92.648804,1
+MO,2922006,place:MO:2922006,Elmira village,Elmira,Elmira,29177,Ray County,Incorporated place,39.508635,-94.154644,1
+MO,2922024,place:MO:2922024,Elmo city,Elmo,Elmo,29147,Nodaway County,Incorporated place,40.518741,-95.117025,1
+MO,2922114,place:MO:2922114,Elsberry city,Elsberry,Elsberry,29113,Lincoln County,Incorporated place,39.167624,-90.788189,1
+MO,2922250,place:MO:2922250,Emerald Beach village,Emerald Beach,Emerald Beach,29009,Barry County,Incorporated place,36.574195,-93.670794,1
+MO,2922276,place:MO:2922276,Eminence city,Eminence,Eminence,29203,Shannon County,Incorporated place,37.150891,-91.358713,1
+MO,2922312,place:MO:2922312,Emma city,Emma,Emma,29107,Lafayette County,Incorporated place,38.975197,-93.495039,1
+MO,2922474,place:MO:2922474,Eolia village,Eolia,Eolia,29163,Pike County,Incorporated place,39.23789,-91.013166,1
+MO,2922600,place:MO:2922600,Essex city,Essex,Essex,29207,Stoddard County,Incorporated place,36.811804,-89.862628,1
+MO,2922672,place:MO:2922672,Ethel town,Ethel,Ethel,29121,Macon County,Incorporated place,39.893781,-92.74071,1
+MO,2922798,place:MO:2922798,Eugene CDP,Eugene,Eugene,29051,Cole County,Census-designated place,38.357113,-92.40195,1
+MO,2922834,place:MO:2922834,Eureka city,Eureka,Eureka,29189,St. Louis County,Incorporated place,38.498482,-90.645387,1
+MO,2922951,place:MO:2922951,Evergreen village,Evergreen,Evergreen,29105,Laclede County,Incorporated place,37.550038,-92.595768,1
+MO,2922996,place:MO:2922996,Everton city,Everton,Everton,29057,Dade County,Incorporated place,37.343178,-93.702709,1
+MO,2923032,place:MO:2923032,Ewing city,Ewing,Ewing,29111,Lewis County,Incorporated place,40.008749,-91.714683,1
+MO,2923050,place:MO:2923050,Excello CDP,Excello,Excello,29121,Macon County,Census-designated place,39.631407,-92.472206,1
+MO,2923077,place:MO:2923077,Excelsior Estates village,Excelsior Estates,Excelsior Estates,29177,Ray County,Incorporated place,39.389943,-94.208213,1
+MO,2923086,place:MO:2923086,Excelsior Springs city,Excelsior Springs,Excelsior Springs,29047,Clay County,Incorporated place,39.339929,-94.240992,1
+MO,2923122,place:MO:2923122,Exeter city,Exeter,Exeter,29009,Barry County,Incorporated place,36.670711,-93.939886,1
+MO,2923338,place:MO:2923338,Fair Grove city,Fair Grove,Fair Grove,29077,Greene County,Incorporated place,37.383321,-93.152154,1
+MO,2923428,place:MO:2923428,Fair Play city,Fair Play,Fair Play,29167,Polk County,Incorporated place,37.633576,-93.57718,1
+MO,2923248,place:MO:2923248,Fairdealing CDP,Fairdealing,Fairdealing,29181,Ripley County,Census-designated place,36.663114,-90.604491,1
+MO,2923266,place:MO:2923266,Fairfax city,Fairfax,Fairfax,29005,Atchison County,Incorporated place,40.339503,-95.392039,1
+MO,2923518,place:MO:2923518,Fairview town,Fairview,Fairview,29145,Newton County,Incorporated place,36.817285,-94.086631,1
+MO,2923662,place:MO:2923662,Farber city,Farber,Farber,29007,Audrain County,Incorporated place,39.274235,-91.576708,1
+MO,2923698,place:MO:2923698,Farley village,Farley,Farley,29165,Platte County,Incorporated place,39.288289,-94.828522,1
+MO,2923752,place:MO:2923752,Farmington city,Farmington,Farmington,29187,St. Francois County,Incorporated place,37.782494,-90.427303,1
+MO,2923824,place:MO:2923824,Faucett CDP,Faucett,Faucett,29021,Buchanan County,Census-designated place,39.600244,-94.79747,1
+MO,2923842,place:MO:2923842,Fayette city,Fayette,Fayette,29089,Howard County,Incorporated place,39.147294,-92.685669,1
+MO,2923950,place:MO:2923950,Fenton city,Fenton,Fenton,29189,St. Louis County,Incorporated place,38.52848,-90.450758,1
+MO,2923986,place:MO:2923986,Ferguson city,Ferguson,Ferguson,29189,St. Louis County,Incorporated place,38.748829,-90.295827,1
+MO,2924058,place:MO:2924058,Ferrelview village,Ferrelview,Ferrelview,29165,Platte County,Incorporated place,39.31428,-94.665286,1
+MO,2924094,place:MO:2924094,Festus city,Festus,Festus,29099,Jefferson County,Incorporated place,38.219232,-90.409797,1
+MO,2924120,place:MO:2924120,Fidelity town,Fidelity,Fidelity,29097,Jasper County,Incorporated place,37.08172,-94.309564,1
+MO,2924184,place:MO:2924184,Fillmore city,Fillmore,Fillmore,29003,Andrew County,Incorporated place,40.025302,-94.973146,1
+MO,2924328,place:MO:2924328,Fisk city,Fisk,Fisk,29023,Butler County,Incorporated place,36.782276,-90.207514,1
+MO,2924562,place:MO:2924562,Fleming city,Fleming,Fleming,29177,Ray County,Incorporated place,39.195519,-94.052054,1
+MO,2924580,place:MO:2924580,Flemington village,Flemington,Flemington,29167,Polk County,Incorporated place,37.803875,-93.501444,1
+MO,2924688,place:MO:2924688,Flint Hill city,Flint Hill,Flint Hill,29183,St. Charles County,Incorporated place,38.865127,-90.868419,1
+MO,2924706,place:MO:2924706,Flordell Hills city,Flordell Hills,Flordell Hills,29189,St. Louis County,Incorporated place,38.717405,-90.264834,1
+MO,2924760,place:MO:2924760,Florida village,Florida,Florida,29137,Monroe County,Incorporated place,39.493023,-91.790617,1
+MO,2924778,place:MO:2924778,Florissant city,Florissant,Florissant,29189,St. Louis County,Incorporated place,38.799725,-90.327076,1
+MO,2924886,place:MO:2924886,Foley city,Foley,Foley,29113,Lincoln County,Incorporated place,39.045447,-90.740836,1
+MO,2925012,place:MO:2925012,Fordland city,Fordland,Fordland,29225,Webster County,Incorporated place,37.155512,-92.942579,1
+MO,2925066,place:MO:2925066,Forest City city,Forest City,Forest City,29087,Holt County,Incorporated place,39.98295,-95.18831,1
+MO,2925120,place:MO:2925120,Foristell city,Foristell,Foristell,29183,St. Charles County,Incorporated place,38.814393,-90.958962,1
+MO,2925192,place:MO:2925192,Forsyth city,Forsyth,Forsyth,29213,Taney County,Incorporated place,36.685278,-93.102651,1
+MO,2925264,place:MO:2925264,Fort Leonard Wood CDP,Fort Leonard Wood,Fort Leonard Wood,29169,Pulaski County,Census-designated place,37.756163,-92.127752,1
+MO,2925228,place:MO:2925228,Fortescue town,Fortescue,Fortescue,29087,Holt County,Incorporated place,40.051861,-95.317594,1
+MO,2925300,place:MO:2925300,Fortuna CDP,Fortuna,Fortuna,29135,Moniteau County,Census-designated place,38.567651,-92.797003,1
+MO,2925372,place:MO:2925372,Foster village,Foster,Foster,29013,Bates County,Incorporated place,38.166697,-94.50828,1
+MO,2925411,place:MO:2925411,Fountain N' Lakes village,Fountain N' Lakes,Fountain N' Lakes,29113,Lincoln County,Incorporated place,38.968994,-90.849266,1
+MO,2925516,place:MO:2925516,Frankclay CDP,Frankclay,Frankclay,29187,St. Francois County,Census-designated place,37.862962,-90.614429,1
+MO,2925552,place:MO:2925552,Frankford city,Frankford,Frankford,29163,Pike County,Incorporated place,39.492399,-91.32018,1
+MO,2925624,place:MO:2925624,Franklin city,Franklin,Franklin,29089,Howard County,Incorporated place,39.01277,-92.756656,1
+MO,2925768,place:MO:2925768,Fredericktown city,Fredericktown,Fredericktown,29123,Madison County,Incorporated place,37.562912,-90.303605,1
+MO,2925822,place:MO:2925822,Freeburg village,Freeburg,Freeburg,29151,Osage County,Incorporated place,38.316104,-91.922331,1
+MO,2925894,place:MO:2925894,Freeman city,Freeman,Freeman,29037,Cass County,Incorporated place,38.625336,-94.507956,1
+MO,2925912,place:MO:2925912,Freistatt village,Freistatt,Freistatt,29109,Lawrence County,Incorporated place,37.021347,-93.897588,1
+MO,2925948,place:MO:2925948,Fremont CDP,Fremont,Fremont,29035,Carter County,Census-designated place,36.95226,-91.162309,1
+MO,2925957,place:MO:2925957,Fremont Hills city,Fremont Hills,Fremont Hills,29043,Christian County,Incorporated place,37.064742,-93.253127,1
+MO,2926000,place:MO:2926000,Friedenswald village,Friedenswald,Friedenswald,29029,Camden County,Incorporated place,38.072781,-92.759953,1
+MO,2926020,place:MO:2926020,Frisbee CDP,Frisbee,Frisbee,29069,Dunklin County,Census-designated place,36.351572,-90.029835,1
+MO,2926092,place:MO:2926092,Frohna city,Frohna,Frohna,29157,Perry County,Incorporated place,37.637557,-89.619791,1
+MO,2926110,place:MO:2926110,Frontenac city,Frontenac,Frontenac,29189,St. Louis County,Incorporated place,38.630067,-90.418983,1
+MO,2926182,place:MO:2926182,Fulton city,Fulton,Fulton,29027,Callaway County,Incorporated place,38.855146,-91.950802,1
+MO,2926218,place:MO:2926218,Gainesville city,Gainesville,Gainesville,29153,Ozark County,Incorporated place,36.60628,-92.424632,1
+MO,2926254,place:MO:2926254,Galena city,Galena,Galena,29209,Stone County,Incorporated place,36.803206,-93.469506,1
+MO,2926308,place:MO:2926308,Gallatin city,Gallatin,Gallatin,29061,Daviess County,Incorporated place,39.910352,-93.964011,1
+MO,2926362,place:MO:2926362,Galt city,Galt,Galt,29079,Grundy County,Incorporated place,40.127258,-93.387917,1
+MO,2926434,place:MO:2926434,Garden City city,Garden City,Garden City,29037,Cass County,Incorporated place,38.562133,-94.195167,1
+MO,2926578,place:MO:2926578,Gasconade city,Gasconade,Gasconade,29073,Gasconade County,Incorporated place,38.670263,-91.559935,1
+MO,2926776,place:MO:2926776,Gentry village,Gentry,Gentry,29075,Gentry County,Incorporated place,40.332568,-94.423258,1
+MO,2926866,place:MO:2926866,Gerald city,Gerald,Gerald,29071,Franklin County,Incorporated place,38.399347,-91.330915,1
+MO,2926902,place:MO:2926902,Gerster town,Gerster,Gerster,29185,St. Clair County,Incorporated place,37.955122,-93.576778,1
+MO,2926920,place:MO:2926920,Gibbs village,Gibbs,Gibbs,29001,Adair County,Incorporated place,40.099017,-92.41662,1
+MO,2926974,place:MO:2926974,Gideon city,Gideon,Gideon,29143,New Madrid County,Incorporated place,36.444405,-89.906009,1
+MO,2927028,place:MO:2927028,Gilliam city,Gilliam,Gilliam,29195,Saline County,Incorporated place,39.232738,-93.004127,1
+MO,2927064,place:MO:2927064,Gilman City city,Gilman City,Gilman City,29061,Daviess County,Incorporated place,40.131212,-93.873915,1
+MO,2927100,place:MO:2927100,Ginger Blue village,Ginger Blue,Ginger Blue,29119,McDonald County,Incorporated place,36.589913,-94.459639,1
+MO,2927190,place:MO:2927190,Gladstone city,Gladstone,Gladstone,29047,Clay County,Incorporated place,39.21298,-94.558956,1
+MO,2927208,place:MO:2927208,Glasgow city,Glasgow,Glasgow,29089,Howard County,Incorporated place,39.228504,-92.837742,1
+MO,2927226,place:MO:2927226,Glasgow Village CDP,Glasgow Village,Glasgow Village,29189,St. Louis County,Census-designated place,38.757878,-90.198437,1
+MO,2927280,place:MO:2927280,Glen Allen town,Glen Allen,Glen Allen,29017,Bollinger County,Incorporated place,37.317064,-90.028118,1
+MO,2927262,place:MO:2927262,Glenaire city,Glenaire,Glenaire,29047,Clay County,Incorporated place,39.219731,-94.451462,1
+MO,2927334,place:MO:2927334,Glendale city,Glendale,Glendale,29189,St. Louis County,Incorporated place,38.593507,-90.382573,1
+MO,2927514,place:MO:2927514,Glenwood village,Glenwood,Glenwood,29197,Schuyler County,Incorporated place,40.523032,-92.57588,1
+MO,2927658,place:MO:2927658,Golden CDP,Golden,Golden,29009,Barry County,Census-designated place,36.53713,-93.660407,1
+MO,2927676,place:MO:2927676,Golden City city,Golden City,Golden City,29011,Barton County,Incorporated place,37.393596,-94.095538,1
+MO,2927874,place:MO:2927874,Goodman city,Goodman,Goodman,29119,McDonald County,Incorporated place,36.738821,-94.409167,1
+MO,2927924,place:MO:2927924,Goose Creek Lake CDP,Goose Creek Lake,Goose Creek Lake,29187,St. Francois County,Census-designated place,37.978682,-90.33485,1
+MO,2927928,place:MO:2927928,Gordonville village,Gordonville,Gordonville,29031,Cape Girardeau County,Incorporated place,37.308574,-89.67391,1
+MO,2928000,place:MO:2928000,Goss town,Goss,Goss,29137,Monroe County,Incorporated place,39.514635,-91.944747,1
+MO,2928036,place:MO:2928036,Gower city,Gower,Gower,29049,Clinton County,Incorporated place,39.617044,-94.591413,1
+MO,2928072,place:MO:2928072,Graham town,Graham,Graham,29147,Nodaway County,Incorporated place,40.201255,-95.040391,1
+MO,2928090,place:MO:2928090,Grain Valley city,Grain Valley,Grain Valley,29095,Jackson County,Incorporated place,39.015227,-94.213839,1
+MO,2928108,place:MO:2928108,Granby city,Granby,Granby,29145,Newton County,Incorporated place,36.919613,-94.262938,1
+MO,2928170,place:MO:2928170,Grand Falls Plaza town,Grand Falls Plaza,Grand Falls Plaza,29145,Newton County,Incorporated place,37.036161,-94.539253,1
+MO,2928198,place:MO:2928198,Grand Pass village,Grand Pass,Grand Pass,29195,Saline County,Incorporated place,39.204942,-93.442639,1
+MO,2928180,place:MO:2928180,Grandin city,Grandin,Grandin,29035,Carter County,Incorporated place,36.830862,-90.82132,1
+MO,2928324,place:MO:2928324,Grandview city,Grandview,Grandview,29095,Jackson County,Incorporated place,38.881359,-94.522744,1
+MO,2928360,place:MO:2928360,Granger village,Granger,Granger,29199,Scotland County,Incorporated place,40.466959,-91.973506,1
+MO,2928594,place:MO:2928594,Grant City town,Grant City,Grant City,29227,Worth County,Incorporated place,40.485778,-94.413458,1
+MO,2928630,place:MO:2928630,Grantwood Village town,Grantwood Village,Grantwood Village,29189,St. Louis County,Incorporated place,38.553576,-90.358688,1
+MO,2928828,place:MO:2928828,Gravois Mills town,Gravois Mills,Gravois Mills,29141,Morgan County,Incorporated place,38.299525,-92.824996,1
+MO,2928918,place:MO:2928918,Gray Summit CDP,Gray Summit,Gray Summit,29071,Franklin County,Census-designated place,38.495822,-90.823421,1
+MO,2928860,place:MO:2928860,Grayhawk CDP,Grayhawk,Grayhawk,29186,Ste. Genevieve County,Census-designated place,37.927883,-90.241178,1
+MO,2928864,place:MO:2928864,Grayridge CDP,Grayridge,Grayridge,29207,Stoddard County,Census-designated place,36.824711,-89.781927,1
+MO,2928882,place:MO:2928882,Grayson CDP,Grayson,Grayson,29049,Clinton County,Census-designated place,39.534305,-94.561777,1
+MO,2929116,place:MO:2929116,Green Castle city,Green Castle,Green Castle,29211,Sullivan County,Incorporated place,40.258618,-92.875864,1
+MO,2929134,place:MO:2929134,Green City city,Green City,Green City,29211,Sullivan County,Incorporated place,40.264833,-92.961534,1
+MO,2929324,place:MO:2929324,Green Park city,Green Park,Green Park,29189,St. Louis County,Incorporated place,38.522636,-90.339007,1
+MO,2929332,place:MO:2929332,Green Ridge city,Green Ridge,Green Ridge,29159,Pettis County,Incorporated place,38.62125,-93.409858,1
+MO,2929152,place:MO:2929152,Greendale city,Greendale,Greendale,29189,St. Louis County,Incorporated place,38.693835,-90.312512,1
+MO,2929206,place:MO:2929206,Greenfield city,Greenfield,Greenfield,29057,Dade County,Incorporated place,37.416084,-93.842883,1
+MO,2929422,place:MO:2929422,Greentop city,Greentop,Greentop,29197,Schuyler County,Incorporated place,40.350615,-92.566118,1
+MO,2929476,place:MO:2929476,Greenville city,Greenville,Greenville,29223,Wayne County,Incorporated place,37.127933,-90.447878,1
+MO,2929494,place:MO:2929494,Greenwood city,Greenwood,Greenwood,29095,Jackson County,Incorporated place,38.842391,-94.333709,1
+MO,2929656,place:MO:2929656,Grovespring CDP,Grovespring,Grovespring,29229,Wright County,Census-designated place,37.40393,-92.606814,1
+MO,2929692,place:MO:2929692,Guilford town,Guilford,Guilford,29147,Nodaway County,Incorporated place,40.168573,-94.735985,1
+MO,2929764,place:MO:2929764,Gunn City village,Gunn City,Gunn City,29037,Cass County,Incorporated place,38.665983,-94.163994,1
+MO,2929908,place:MO:2929908,Hale city,Hale,Hale,29033,Carroll County,Incorporated place,39.605085,-93.343305,1
+MO,2929962,place:MO:2929962,Halfway village,Halfway,Halfway,29167,Polk County,Incorporated place,37.618802,-93.240519,1
+MO,2929998,place:MO:2929998,Hallsville city,Hallsville,Hallsville,29019,Boone County,Incorporated place,39.119432,-92.226759,1
+MO,2930016,place:MO:2930016,Halltown village,Halltown,Halltown,29109,Lawrence County,Incorporated place,37.19451,-93.629094,1
+MO,2930034,place:MO:2930034,Hamilton city,Hamilton,Hamilton,29025,Caldwell County,Incorporated place,39.743535,-94.0024,1
+MO,2930196,place:MO:2930196,Hanley Hills village,Hanley Hills,Hanley Hills,29189,St. Louis County,Incorporated place,38.685593,-90.324877,1
+MO,2930214,place:MO:2930214,Hannibal city,Hannibal,Hannibal,29127,Marion County,Incorporated place,39.708646,-91.399521,1
+MO,2930322,place:MO:2930322,Hardin city,Hardin,Hardin,29177,Ray County,Incorporated place,39.267584,-93.831336,1
+MO,2930466,place:MO:2930466,Harris town,Harris,Harris,29211,Sullivan County,Incorporated place,40.306148,-93.350379,1
+MO,2930484,place:MO:2930484,Harrisburg town,Harrisburg,Harrisburg,29019,Boone County,Incorporated place,39.140237,-92.459559,1
+MO,2930610,place:MO:2930610,Harrisonville city,Harrisonville,Harrisonville,29037,Cass County,Incorporated place,38.650159,-94.350483,1
+MO,2930718,place:MO:2930718,Hartsburg town,Hartsburg,Hartsburg,29019,Boone County,Incorporated place,38.697218,-92.306981,1
+MO,2930754,place:MO:2930754,Hartville city,Hartville,Hartville,29229,Wright County,Incorporated place,37.250274,-92.513382,1
+MO,2930772,place:MO:2930772,Hartwell CDP,Hartwell,Hartwell,29083,Henry County,Census-designated place,38.431481,-93.933918,1
+MO,2930844,place:MO:2930844,Harviell CDP,Harviell,Harviell,29023,Butler County,Census-designated place,36.656408,-90.478938,1
+MO,2930862,place:MO:2930862,Harwood village,Harwood,Harwood,29217,Vernon County,Incorporated place,37.956675,-94.153943,1
+MO,2931024,place:MO:2931024,Hawk Point city,Hawk Point,Hawk Point,29113,Lincoln County,Incorporated place,38.971296,-91.130561,1
+MO,2931132,place:MO:2931132,Hayti city,Hayti,Hayti,29155,Pemiscot County,Incorporated place,36.232528,-89.747362,1
+MO,2931168,place:MO:2931168,Hayti Heights city,Hayti Heights,Hayti Heights,29155,Pemiscot County,Incorporated place,36.231165,-89.768199,1
+MO,2931186,place:MO:2931186,Hayward CDP,Hayward,Hayward,29155,Pemiscot County,Census-designated place,36.395974,-89.666796,1
+MO,2931204,place:MO:2931204,Haywood City village,Haywood City,Haywood City,29201,Scott County,Incorporated place,37.011679,-89.60033,1
+MO,2931276,place:MO:2931276,Hazelwood city,Hazelwood,Hazelwood,29189,St. Louis County,Incorporated place,38.794706,-90.396002,1
+MO,2931654,place:MO:2931654,Henrietta city,Henrietta,Henrietta,29177,Ray County,Incorporated place,39.23703,-93.938395,1
+MO,2931708,place:MO:2931708,Herculaneum city,Herculaneum,Herculaneum,29099,Jefferson County,Incorporated place,38.257558,-90.39313,1
+MO,2931762,place:MO:2931762,Hermann city,Hermann,Hermann,29073,Gasconade County,Incorporated place,38.697652,-91.434865,1
+MO,2931780,place:MO:2931780,Hermitage city,Hermitage,Hermitage,29085,Hickory County,Incorporated place,37.945134,-93.328956,1
+MO,2931924,place:MO:2931924,Higbee city,Higbee,Higbee,29175,Randolph County,Incorporated place,39.306337,-92.513176,1
+MO,2931960,place:MO:2931960,Higginsville city,Higginsville,Higginsville,29107,Lafayette County,Incorporated place,39.064863,-93.726835,1
+MO,2931996,place:MO:2931996,High Hill city,High Hill,High Hill,29139,Montgomery County,Incorporated place,38.876309,-91.380665,1
+MO,2932140,place:MO:2932140,High Ridge CDP,High Ridge,High Ridge,29099,Jefferson County,Census-designated place,38.460844,-90.533835,1
+MO,2932068,place:MO:2932068,Highlandville city,Highlandville,Highlandville,29043,Christian County,Incorporated place,36.938424,-93.28258,1
+MO,2932248,place:MO:2932248,Hillsboro city,Hillsboro,Hillsboro,29099,Jefferson County,Incorporated place,38.232898,-90.567197,1
+MO,2932266,place:MO:2932266,Hillsdale village,Hillsdale,Hillsdale,29189,St. Louis County,Incorporated place,38.685777,-90.286919,1
+MO,2932410,place:MO:2932410,Hoberg village,Hoberg,Hoberg,29109,Lawrence County,Incorporated place,37.068197,-93.849257,1
+MO,2932536,place:MO:2932536,Holcomb city,Holcomb,Holcomb,29069,Dunklin County,Incorporated place,36.401341,-90.024838,1
+MO,2932572,place:MO:2932572,Holden city,Holden,Holden,29101,Johnson County,Incorporated place,38.713456,-93.989412,1
+MO,2932590,place:MO:2932590,Holland town,Holland,Holland,29155,Pemiscot County,Incorporated place,36.057046,-89.870531,1
+MO,2932626,place:MO:2932626,Holliday village,Holliday,Holliday,29137,Monroe County,Incorporated place,39.491927,-92.134341,1
+MO,2932662,place:MO:2932662,Hollister city,Hollister,Hollister,29213,Taney County,Incorporated place,36.607215,-93.232005,1
+MO,2932698,place:MO:2932698,Hollywood CDP,Hollywood,Hollywood,29069,Dunklin County,Census-designated place,36.051483,-90.186036,1
+MO,2932752,place:MO:2932752,Holt city,Holt,Holt,29047,Clay County,Incorporated place,39.454209,-94.338511,1
+MO,2932770,place:MO:2932770,Holts Summit city,Holts Summit,Holts Summit,29027,Callaway County,Incorporated place,38.647266,-92.113009,1
+MO,2932806,place:MO:2932806,Homestead village,Homestead,Homestead,29177,Ray County,Incorporated place,39.363223,-94.200536,1
+MO,2932824,place:MO:2932824,Homestown city,Homestown,Homestown,29155,Pemiscot County,Incorporated place,36.331823,-89.824233,1
+MO,2933004,place:MO:2933004,Hopkins city,Hopkins,Hopkins,29147,Nodaway County,Incorporated place,40.551183,-94.816961,1
+MO,2933040,place:MO:2933040,Horine CDP,Horine,Horine,29099,Jefferson County,Census-designated place,38.268508,-90.432211,1
+MO,2933076,place:MO:2933076,Hornersville city,Hornersville,Hornersville,29069,Dunklin County,Incorporated place,36.040224,-90.116377,1
+MO,2933238,place:MO:2933238,Houston city,Houston,Houston,29215,Texas County,Incorporated place,37.320948,-91.961155,1
+MO,2933292,place:MO:2933292,Houston Lake city,Houston Lake,Houston Lake,29165,Platte County,Incorporated place,39.190127,-94.620165,1
+MO,2933256,place:MO:2933256,Houstonia city,Houstonia,Houstonia,29159,Pettis County,Incorporated place,38.899357,-93.359417,1
+MO,2933364,place:MO:2933364,Howardville city,Howardville,Howardville,29143,New Madrid County,Incorporated place,36.56845,-89.597123,1
+MO,2933652,place:MO:2933652,Hughesville village,Hughesville,Hughesville,29159,Pettis County,Incorporated place,38.83689,-93.29517,1
+MO,2933706,place:MO:2933706,Humansville city,Humansville,Humansville,29167,Polk County,Incorporated place,37.795122,-93.577034,1
+MO,2933724,place:MO:2933724,Hume town,Hume,Hume,29013,Bates County,Incorporated place,38.090412,-94.583214,1
+MO,2933742,place:MO:2933742,Humphreys village,Humphreys,Humphreys,29211,Sullivan County,Incorporated place,40.123309,-93.321709,1
+MO,2933760,place:MO:2933760,Hunnewell city,Hunnewell,Hunnewell,29205,Shelby County,Incorporated place,39.667961,-91.858884,1
+MO,2933778,place:MO:2933778,Hunter CDP,Hunter,Hunter,29035,Carter County,Census-designated place,36.881939,-90.847862,1
+MO,2933850,place:MO:2933850,Huntleigh city,Huntleigh,Huntleigh,29189,St. Louis County,Incorporated place,38.613081,-90.409074,1
+MO,2933868,place:MO:2933868,Huntsdale town,Huntsdale,Huntsdale,29019,Boone County,Incorporated place,38.911978,-92.478607,1
+MO,2933886,place:MO:2933886,Huntsville city,Huntsville,Huntsville,29175,Randolph County,Incorporated place,39.436427,-92.543825,1
+MO,2933904,place:MO:2933904,Hurdland city,Hurdland,Hurdland,29103,Knox County,Incorporated place,40.148386,-92.302632,1
+MO,2933922,place:MO:2933922,Hurley city,Hurley,Hurley,29209,Stone County,Incorporated place,36.930598,-93.499156,1
+MO,2934192,place:MO:2934192,Iantha CDP,Iantha,Iantha,29011,Barton County,Census-designated place,37.514919,-94.399336,1
+MO,2934210,place:MO:2934210,Iatan village,Iatan,Iatan,29165,Platte County,Incorporated place,39.479049,-94.984734,1
+MO,2934228,place:MO:2934228,Iberia city,Iberia,Iberia,29131,Miller County,Incorporated place,38.08888,-92.296065,1
+MO,2934354,place:MO:2934354,Imperial CDP,Imperial,Imperial,29099,Jefferson County,Census-designated place,38.35246,-90.382273,1
+MO,2935000,place:MO:2935000,Independence city,Independence,Independence,29095,Jackson County,Incorporated place,39.085469,-94.352082,1
+MO,2935180,place:MO:2935180,Indian Lake CDP,Indian Lake,Indian Lake,29055,Crawford County,Census-designated place,38.103766,-91.453418,1
+MO,2935186,place:MO:2935186,Indian Point village,Indian Point,Indian Point,29209,Stone County,Incorporated place,36.64807,-93.345469,1
+MO,2935240,place:MO:2935240,Innsbrook village,Innsbrook,Innsbrook,29219,Warren County,Incorporated place,38.761578,-91.054388,1
+MO,2935306,place:MO:2935306,Ionia town,Ionia,Ionia,29015,Benton County,Incorporated place,38.503722,-93.323534,1
+MO,2935324,place:MO:2935324,Irena village,Irena,Irena,29227,Worth County,Incorporated place,40.540255,-94.389875,1
+MO,2935450,place:MO:2935450,Iron Mountain Lake city,Iron Mountain Lake,Iron Mountain Lake,29187,St. Francois County,Incorporated place,37.690865,-90.621708,1
+MO,2935396,place:MO:2935396,Irondale city,Irondale,Irondale,29221,Washington County,Incorporated place,37.837614,-90.669543,1
+MO,2935468,place:MO:2935468,Ironton city,Ironton,Ironton,29093,Iron County,Incorporated place,37.595839,-90.629752,1
+MO,2935486,place:MO:2935486,Irwin CDP,Irwin,Irwin,29011,Barton County,Census-designated place,37.590437,-94.289735,1
+MO,2935648,place:MO:2935648,Jackson city,Jackson,Jackson,29031,Cape Girardeau County,Incorporated place,37.379922,-89.654073,1
+MO,2936224,place:MO:2936224,Jacksonville village,Jacksonville,Jacksonville,29175,Randolph County,Incorporated place,39.587791,-92.472852,1
+MO,2936314,place:MO:2936314,Jameson town,Jameson,Jameson,29061,Daviess County,Incorporated place,40.005852,-93.987789,1
+MO,2936332,place:MO:2936332,Jamesport city,Jamesport,Jamesport,29061,Daviess County,Incorporated place,39.974637,-93.802585,1
+MO,2936368,place:MO:2936368,Jamestown town,Jamestown,Jamestown,29135,Moniteau County,Incorporated place,38.769237,-92.483904,1
+MO,2936422,place:MO:2936422,Jane town,Jane,Jane,29119,McDonald County,Incorporated place,36.540313,-94.307774,1
+MO,2936512,place:MO:2936512,Jasper city,Jasper,Jasper,29097,Jasper County,Incorporated place,37.335665,-94.302795,1
+MO,2937000,place:MO:2937000,Jefferson City city,Jefferson City,Jefferson City,29051,Cole County,Incorporated place,38.567461,-92.175254,1
+MO,2937178,place:MO:2937178,Jennings city,Jennings,Jennings,29189,St. Louis County,Incorporated place,38.723078,-90.264373,1
+MO,2937214,place:MO:2937214,Jerico Springs village,Jerico Springs,Jerico Springs,29039,Cedar County,Incorporated place,37.61903,-94.015167,1
+MO,2937574,place:MO:2937574,Jonesburg city,Jonesburg,Jonesburg,29139,Montgomery County,Incorporated place,38.856376,-91.303157,1
+MO,2937592,place:MO:2937592,Joplin city,Joplin,Joplin,29097,Jasper County,Incorporated place,37.075218,-94.501259,1
+MO,2937700,place:MO:2937700,Josephville village,Josephville,Josephville,29183,St. Charles County,Incorporated place,38.830523,-90.788292,1
+MO,2937736,place:MO:2937736,Junction City village,Junction City,Junction City,29123,Madison County,Incorporated place,37.572944,-90.292552,1
+MO,2937790,place:MO:2937790,Kahoka city,Kahoka,Kahoka,29045,Clark County,Incorporated place,40.423846,-91.718772,1
+MO,2938000,place:MO:2938000,Kansas City city,Kansas City,Kansas City,29095,Jackson County,Incorporated place,39.125155,-94.550313,1
+MO,2938072,place:MO:2938072,Kearney city,Kearney,Kearney,29047,Clay County,Incorporated place,39.355111,-94.35858,1
+MO,2938216,place:MO:2938216,Kelso village,Kelso,Kelso,29201,Scott County,Incorporated place,37.192189,-89.550429,1
+MO,2938306,place:MO:2938306,Kennett city,Kennett,Kennett,29069,Dunklin County,Incorporated place,36.239945,-90.047014,1
+MO,2938468,place:MO:2938468,Keytesville city,Keytesville,Keytesville,29041,Chariton County,Incorporated place,39.43135,-92.937835,1
+MO,2938522,place:MO:2938522,Kidder city,Kidder,Kidder,29025,Caldwell County,Incorporated place,39.781977,-94.102471,1
+MO,2938612,place:MO:2938612,Kimberling City city,Kimberling City,Kimberling City,29209,Stone County,Incorporated place,36.648016,-93.424196,1
+MO,2938684,place:MO:2938684,Kimmswick city,Kimmswick,Kimmswick,29099,Jefferson County,Incorporated place,38.365752,-90.364327,1
+MO,2938774,place:MO:2938774,King City city,King City,King City,29075,Gentry County,Incorporated place,40.050567,-94.525167,1
+MO,2938792,place:MO:2938792,Kingdom City village,Kingdom City,Kingdom City,29027,Callaway County,Incorporated place,38.947306,-91.935419,1
+MO,2938846,place:MO:2938846,Kingston city,Kingston,Kingston,29025,Caldwell County,Incorporated place,39.642576,-94.038388,1
+MO,2938918,place:MO:2938918,Kingsville city,Kingsville,Kingsville,29101,Johnson County,Incorporated place,38.74361,-94.07076,1
+MO,2938972,place:MO:2938972,Kinloch city,Kinloch,Kinloch,29189,St. Louis County,Incorporated place,38.738399,-90.324955,1
+MO,2939008,place:MO:2939008,Kirbyville village,Kirbyville,Kirbyville,29213,Taney County,Incorporated place,36.629409,-93.156778,1
+MO,2939026,place:MO:2939026,Kirksville city,Kirksville,Kirksville,29001,Adair County,Incorporated place,40.198171,-92.574562,1
+MO,2939044,place:MO:2939044,Kirkwood city,Kirkwood,Kirkwood,29189,St. Louis County,Incorporated place,38.579356,-90.420881,1
+MO,2939080,place:MO:2939080,Kissee Mills CDP,Kissee Mills,Kissee Mills,29213,Taney County,Census-designated place,36.667025,-93.052352,1
+MO,2939170,place:MO:2939170,Knob Lick CDP,Knob Lick,Knob Lick,29187,St. Francois County,Census-designated place,37.678464,-90.36787,1
+MO,2939188,place:MO:2939188,Knob Noster city,Knob Noster,Knob Noster,29101,Johnson County,Incorporated place,38.767381,-93.560575,1
+MO,2939278,place:MO:2939278,Knox City city,Knox City,Knox City,29103,Knox County,Incorporated place,40.14416,-92.010197,1
+MO,2939440,place:MO:2939440,Koshkonong town,Koshkonong,Koshkonong,29149,Oregon County,Incorporated place,36.597444,-91.645953,1
+MO,2939512,place:MO:2939512,La Belle city,La Belle,La Belle,29111,Lewis County,Incorporated place,40.116186,-91.91534,1
+MO,2939638,place:MO:2939638,La Due village,La Due,La Due,29083,Henry County,Incorporated place,38.312561,-93.877689,1
+MO,2939764,place:MO:2939764,La Grange city,La Grange,La Grange,29111,Lewis County,Incorporated place,40.046851,-91.50229,1
+MO,2940520,place:MO:2940520,La Monte city,La Monte,La Monte,29159,Pettis County,Incorporated place,38.771682,-93.423907,1
+MO,2940682,place:MO:2940682,La Plata city,La Plata,La Plata,29121,Macon County,Incorporated place,40.023952,-92.490779,1
+MO,2940790,place:MO:2940790,La Russell city,La Russell,La Russell,29097,Jasper County,Incorporated place,37.140226,-94.060942,1
+MO,2940880,place:MO:2940880,La Tour CDP,La Tour,La Tour,29101,Johnson County,Census-designated place,38.635643,-94.100549,1
+MO,2939503,place:MO:2939503,LaBarque Creek CDP,LaBarque Creek,LaBarque Creek,29099,Jefferson County,Census-designated place,38.417006,-90.679886,1
+MO,2939566,place:MO:2939566,Laclede city,Laclede,Laclede,29115,Linn County,Incorporated place,39.787354,-93.16972,1
+MO,2939602,place:MO:2939602,Laddonia city,Laddonia,Laddonia,29007,Audrain County,Incorporated place,39.242798,-91.642566,1
+MO,2939656,place:MO:2939656,Ladue city,Ladue,Ladue,29189,St. Louis County,Incorporated place,38.636434,-90.385114,1
+MO,2939845,place:MO:2939845,Lake Annette city,Lake Annette,Lake Annette,29037,Cass County,Incorporated place,38.653716,-94.505837,1
+MO,2939852,place:MO:2939852,Lake Arrowhead CDP,Lake Arrowhead,Lake Arrowhead,29049,Clinton County,Census-designated place,39.484057,-94.317205,1
+MO,2939952,place:MO:2939952,Lake Lafayette city,Lake Lafayette,Lake Lafayette,29107,Lafayette County,Incorporated place,38.949161,-93.968073,1
+MO,2939980,place:MO:2939980,Lake Lotawana city,Lake Lotawana,Lake Lotawana,29095,Jackson County,Incorporated place,38.90377,-94.258369,1
+MO,2940034,place:MO:2940034,Lake Ozark city,Lake Ozark,Lake Ozark,29131,Miller County,Incorporated place,38.200874,-92.630016,1
+MO,2940039,place:MO:2940039,Lake St. Clair CDP,Lake St. Clair,Lake St. Clair,29071,Franklin County,Census-designated place,38.32295,-90.999201,1
+MO,2940043,place:MO:2940043,Lake St. Louis city,Lake St. Louis,Lake St. Louis,29183,St. Charles County,Incorporated place,38.779858,-90.785586,1
+MO,2940196,place:MO:2940196,Lake Tapawingo city,Lake Tapawingo,Lake Tapawingo,29095,Jackson County,Incorporated place,39.022379,-94.31389,1
+MO,2940214,place:MO:2940214,Lake Tekakwitha village,Lake Tekakwitha,Lake Tekakwitha,29099,Jefferson County,Incorporated place,38.441206,-90.718106,1
+MO,2940222,place:MO:2940222,Lake Timberline CDP,Lake Timberline,Lake Timberline,29187,St. Francois County,Census-designated place,37.997365,-90.54985,1
+MO,2940304,place:MO:2940304,Lake Viking CDP,Lake Viking,Lake Viking,29061,Daviess County,Census-designated place,39.929676,-94.068292,1
+MO,2940322,place:MO:2940322,Lake Waukomis city,Lake Waukomis,Lake Waukomis,29165,Platte County,Incorporated place,39.232716,-94.637818,1
+MO,2940340,place:MO:2940340,Lake Winnebago city,Lake Winnebago,Lake Winnebago,29037,Cass County,Incorporated place,38.821099,-94.362303,1
+MO,2940088,place:MO:2940088,Lakeshire city,Lakeshire,Lakeshire,29189,St. Louis County,Incorporated place,38.539942,-90.338363,1
+MO,2940142,place:MO:2940142,Lakeside city,Lakeside,Lakeside,29131,Miller County,Incorporated place,38.204078,-92.621357,1
+MO,2940376,place:MO:2940376,Lamar city,Lamar,Lamar,29011,Barton County,Incorporated place,37.493918,-94.278428,1
+MO,2940430,place:MO:2940430,Lamar Heights city,Lamar Heights,Lamar Heights,29011,Barton County,Incorporated place,37.494409,-94.293375,1
+MO,2940448,place:MO:2940448,Lambert village,Lambert,Lambert,29201,Scott County,Incorporated place,37.093619,-89.555269,1
+MO,2940592,place:MO:2940592,Lanagan town,Lanagan,Lanagan,29119,McDonald County,Incorporated place,36.606136,-94.451708,1
+MO,2940610,place:MO:2940610,Lancaster city,Lancaster,Lancaster,29197,Schuyler County,Incorporated place,40.526323,-92.531732,1
+MO,2940736,place:MO:2940736,Laredo city,Laredo,Laredo,29079,Grundy County,Incorporated place,40.026072,-93.448005,1
+MO,2940808,place:MO:2940808,Latham CDP,Latham,Latham,29135,Moniteau County,Census-designated place,38.559352,-92.678913,1
+MO,2940826,place:MO:2940826,Lathrop city,Lathrop,Lathrop,29049,Clinton County,Incorporated place,39.561848,-94.319853,1
+MO,2940916,place:MO:2940916,Laurie city,Laurie,Laurie,29141,Morgan County,Incorporated place,38.207984,-92.825358,1
+MO,2940988,place:MO:2940988,Lawson city,Lawson,Lawson,29047,Clay County,Incorporated place,39.432965,-94.220311,1
+MO,2941024,place:MO:2941024,Leadington city,Leadington,Leadington,29187,St. Francois County,Incorporated place,37.834306,-90.480686,1
+MO,2941078,place:MO:2941078,Leadwood city,Leadwood,Leadwood,29187,St. Francois County,Incorporated place,37.861742,-90.589155,1
+MO,2941114,place:MO:2941114,Leasburg village,Leasburg,Leasburg,29055,Crawford County,Incorporated place,38.094846,-91.295322,1
+MO,2941132,place:MO:2941132,Leawood village,Leawood,Leawood,29145,Newton County,Incorporated place,37.031143,-94.501891,1
+MO,2941168,place:MO:2941168,Lebanon city,Lebanon,Lebanon,29105,Laclede County,Incorporated place,37.672131,-92.65967,1
+MO,2941348,place:MO:2941348,Lee's Summit city,Lee's Summit,Lee's Summit,29095,Jackson County,Incorporated place,38.921601,-94.384763,1
+MO,2941402,place:MO:2941402,Leeton city,Leeton,Leeton,29101,Johnson County,Incorporated place,38.583343,-93.695305,1
+MO,2941417,place:MO:2941417,Leisure Lake CDP,Leisure Lake,Leisure Lake,29079,Grundy County,Census-designated place,40.109834,-93.723479,1
+MO,2941438,place:MO:2941438,Lemay CDP,Lemay,Lemay,29189,St. Louis County,Census-designated place,38.533539,-90.285047,1
+MO,2941546,place:MO:2941546,Leonard village,Leonard,Leonard,29205,Shelby County,Incorporated place,39.894409,-92.181961,1
+MO,2941690,place:MO:2941690,Leslie village,Leslie,Leslie,29071,Franklin County,Incorporated place,38.417731,-91.230783,1
+MO,2941762,place:MO:2941762,Levasy city,Levasy,Levasy,29095,Jackson County,Incorporated place,39.135222,-94.128124,1
+MO,2941834,place:MO:2941834,Lewis and Clark Village town,Lewis and Clark Village,Lewis and Clark Village,29021,Buchanan County,Incorporated place,39.535932,-95.051461,1
+MO,2941852,place:MO:2941852,Lewistown town,Lewistown,Lewistown,29111,Lewis County,Incorporated place,40.084811,-91.81339,1
+MO,2941870,place:MO:2941870,Lexington city,Lexington,Lexington,29107,Lafayette County,Incorporated place,39.180313,-93.869051,1
+MO,2941906,place:MO:2941906,Liberal city,Liberal,Liberal,29011,Barton County,Incorporated place,37.559004,-94.51717,1
+MO,2942032,place:MO:2942032,Liberty city,Liberty,Liberty,29047,Clay County,Incorporated place,39.24127,-94.419445,1
+MO,2942464,place:MO:2942464,Licking city,Licking,Licking,29215,Texas County,Incorporated place,37.500455,-91.861146,1
+MO,2942536,place:MO:2942536,Lilbourn city,Lilbourn,Lilbourn,29143,New Madrid County,Incorporated place,36.590763,-89.613064,1
+MO,2942608,place:MO:2942608,Lincoln city,Lincoln,Lincoln,29015,Benton County,Incorporated place,38.394141,-93.33073,1
+MO,2943238,place:MO:2943238,Linn city,Linn,Linn,29151,Osage County,Incorporated place,38.478798,-91.844989,1
+MO,2943274,place:MO:2943274,Linn Creek city,Linn Creek,Linn Creek,29029,Camden County,Incorporated place,38.042934,-92.713973,1
+MO,2943292,place:MO:2943292,Linneus city,Linneus,Linneus,29115,Linn County,Incorporated place,39.877495,-93.186594,1
+MO,2943346,place:MO:2943346,Lithium CDP,Lithium,Lithium,29157,Perry County,Census-designated place,37.829318,-89.881999,1
+MO,2943454,place:MO:2943454,Livonia village,Livonia,Livonia,29171,Putnam County,Incorporated place,40.492034,-92.700484,1
+MO,2943468,place:MO:2943468,Loch Lloyd village,Loch Lloyd,Loch Lloyd,29037,Cass County,Incorporated place,38.826326,-94.598827,1
+MO,2943472,place:MO:2943472,Lock Springs village,Lock Springs,Lock Springs,29061,Daviess County,Incorporated place,39.848805,-93.776157,1
+MO,2943490,place:MO:2943490,Lockwood city,Lockwood,Lockwood,29057,Dade County,Incorporated place,37.38799,-93.965957,1
+MO,2943652,place:MO:2943652,Lohman city,Lohman,Lohman,29051,Cole County,Incorporated place,38.542936,-92.364544,1
+MO,2943672,place:MO:2943672,Loma Linda town,Loma Linda,Loma Linda,29145,Newton County,Incorporated place,36.988094,-94.59026,1
+MO,2943760,place:MO:2943760,Lone Jack city,Lone Jack,Lone Jack,29095,Jackson County,Incorporated place,38.871023,-94.185898,1
+MO,2943940,place:MO:2943940,Longtown town,Longtown,Longtown,29157,Perry County,Incorporated place,37.670308,-89.774141,1
+MO,2944156,place:MO:2944156,Louisburg village,Louisburg,Louisburg,29059,Dallas County,Incorporated place,37.756418,-93.141047,1
+MO,2944174,place:MO:2944174,Louisiana city,Louisiana,Louisiana,29163,Pike County,Incorporated place,39.441456,-91.062033,1
+MO,2944282,place:MO:2944282,Lowry City city,Lowry City,Lowry City,29185,St. Clair County,Incorporated place,38.140018,-93.726769,1
+MO,2944372,place:MO:2944372,Lucerne village,Lucerne,Lucerne,29171,Putnam County,Incorporated place,40.463699,-93.291714,1
+MO,2944390,place:MO:2944390,Ludlow town,Ludlow,Ludlow,29117,Livingston County,Incorporated place,39.65427,-93.70259,1
+MO,2944498,place:MO:2944498,Lupus town,Lupus,Lupus,29135,Moniteau County,Incorporated place,38.84597,-92.454006,1
+MO,2944516,place:MO:2944516,Luray village,Luray,Luray,29045,Clark County,Incorporated place,40.45234,-91.884117,1
+MO,2945218,place:MO:2945218,Macks Creek CDP,Macks Creek,Macks Creek,29029,Camden County,Census-designated place,37.963497,-92.966926,1
+MO,2945326,place:MO:2945326,Macon city,Macon,Macon,29121,Macon County,Incorporated place,39.74223,-92.470551,1
+MO,2945470,place:MO:2945470,Madison city,Madison,Madison,29137,Monroe County,Incorporated place,39.475454,-92.213848,1
+MO,2945596,place:MO:2945596,Maitland city,Maitland,Maitland,29087,Holt County,Incorporated place,40.2021,-95.077912,1
+MO,2945614,place:MO:2945614,Malden city,Malden,Malden,29069,Dunklin County,Incorporated place,36.601,-89.997512,1
+MO,2945632,place:MO:2945632,Malta Bend town,Malta Bend,Malta Bend,29195,Saline County,Incorporated place,39.193986,-93.3635,1
+MO,2945668,place:MO:2945668,Manchester city,Manchester,Manchester,29189,St. Louis County,Incorporated place,38.583044,-90.506457,1
+MO,2945740,place:MO:2945740,Mansfield city,Mansfield,Mansfield,29229,Wright County,Incorporated place,37.109843,-92.580955,1
+MO,2945830,place:MO:2945830,Maplewood city,Maplewood,Maplewood,29189,St. Louis County,Incorporated place,38.61213,-90.323951,1
+MO,2945848,place:MO:2945848,Marble Hill city,Marble Hill,Marble Hill,29017,Bollinger County,Incorporated place,37.303115,-89.983125,1
+MO,2945866,place:MO:2945866,Marceline city,Marceline,Marceline,29115,Linn County,Incorporated place,39.717518,-92.947351,1
+MO,2946172,place:MO:2946172,Marionville city,Marionville,Marionville,29109,Lawrence County,Incorporated place,37.002203,-93.6356,1
+MO,2946208,place:MO:2946208,Marlborough village,Marlborough,Marlborough,29189,St. Louis County,Incorporated place,38.568301,-90.339241,1
+MO,2946244,place:MO:2946244,Marquand city,Marquand,Marquand,29123,Madison County,Incorporated place,37.428786,-90.167432,1
+MO,2946316,place:MO:2946316,Marshall city,Marshall,Marshall,29195,Saline County,Incorporated place,39.115093,-93.202469,1
+MO,2946388,place:MO:2946388,Marshfield city,Marshfield,Marshfield,29225,Webster County,Incorporated place,37.342202,-92.911043,1
+MO,2946406,place:MO:2946406,Marston city,Marston,Marston,29143,New Madrid County,Incorporated place,36.517177,-89.605831,1
+MO,2946424,place:MO:2946424,Marthasville city,Marthasville,Marthasville,29219,Warren County,Incorporated place,38.630916,-91.05805,1
+MO,2946460,place:MO:2946460,Martinsburg town,Martinsburg,Martinsburg,29007,Audrain County,Incorporated place,39.100999,-91.647272,1
+MO,2946586,place:MO:2946586,Maryland Heights city,Maryland Heights,Maryland Heights,29189,St. Louis County,Incorporated place,38.716767,-90.471857,1
+MO,2946640,place:MO:2946640,Maryville city,Maryville,Maryville,29147,Nodaway County,Incorporated place,40.342515,-94.870048,1
+MO,2946730,place:MO:2946730,Matthews city,Matthews,Matthews,29143,New Madrid County,Incorporated place,36.7568,-89.567477,1
+MO,2946946,place:MO:2946946,Maysville city,Maysville,Maysville,29063,DeKalb County,Incorporated place,39.885628,-94.368991,1
+MO,2946964,place:MO:2946964,Mayview city,Mayview,Mayview,29107,Lafayette County,Incorporated place,39.052766,-93.833297,1
+MO,2944768,place:MO:2944768,McBaine town,McBaine,McBaine,29019,Boone County,Incorporated place,38.883007,-92.45661,1
+MO,2944829,place:MO:2944829,McCord Bend village,McCord Bend,McCord Bend,29209,Stone County,Incorporated place,36.787442,-93.503061,1
+MO,2945020,place:MO:2945020,McFall city,McFall,McFall,29075,Gentry County,Incorporated place,40.111584,-94.222302,1
+MO,2945200,place:MO:2945200,McKittrick town,McKittrick,McKittrick,29139,Montgomery County,Incorporated place,38.739059,-91.444988,1
+MO,2947036,place:MO:2947036,Meadville city,Meadville,Meadville,29115,Linn County,Incorporated place,39.787177,-93.298072,1
+MO,2947144,place:MO:2947144,Medill CDP,Medill,Medill,29045,Clark County,Census-designated place,40.430451,-91.770387,1
+MO,2947180,place:MO:2947180,Mehlville CDP,Mehlville,Mehlville,29189,St. Louis County,Census-designated place,38.502311,-90.314447,1
+MO,2947270,place:MO:2947270,Memphis city,Memphis,Memphis,29199,Scotland County,Incorporated place,40.460798,-92.169929,1
+MO,2947288,place:MO:2947288,Mendon city,Mendon,Mendon,29041,Chariton County,Incorporated place,39.590583,-93.133926,1
+MO,2947486,place:MO:2947486,Mercer town,Mercer,Mercer,29129,Mercer County,Incorporated place,40.510635,-93.529909,1
+MO,2947520,place:MO:2947520,Merriam Woods city,Merriam Woods,Merriam Woods,29213,Taney County,Incorporated place,36.721515,-93.172877,1
+MO,2947540,place:MO:2947540,Merwin village,Merwin,Merwin,29013,Bates County,Incorporated place,38.404093,-94.590797,1
+MO,2947594,place:MO:2947594,Meta city,Meta,Meta,29151,Osage County,Incorporated place,38.312282,-92.165752,1
+MO,2947612,place:MO:2947612,Metz town,Metz,Metz,29217,Vernon County,Incorporated place,37.99678,-94.442531,1
+MO,2947648,place:MO:2947648,Mexico city,Mexico,Mexico,29007,Audrain County,Incorporated place,39.162169,-91.87277,1
+MO,2947684,place:MO:2947684,Miami city,Miami,Miami,29195,Saline County,Incorporated place,39.322473,-93.225907,1
+MO,2947846,place:MO:2947846,Middle Grove CDP,Middle Grove,Middle Grove,29137,Monroe County,Census-designated place,39.397313,-92.275665,1
+MO,2947900,place:MO:2947900,Middletown town,Middletown,Middletown,29139,Montgomery County,Incorporated place,39.128655,-91.413846,1
+MO,2948062,place:MO:2948062,Milan city,Milan,Milan,29211,Sullivan County,Incorporated place,40.203239,-93.124004,1
+MO,2948098,place:MO:2948098,Milford village,Milford,Milford,29011,Barton County,Incorporated place,37.586264,-94.158167,1
+MO,2948386,place:MO:2948386,Mill Spring village,Mill Spring,Mill Spring,29223,Wayne County,Incorporated place,37.065084,-90.677861,1
+MO,2948134,place:MO:2948134,Millard village,Millard,Millard,29001,Adair County,Incorporated place,40.10749,-92.545962,1
+MO,2948242,place:MO:2948242,Miller city,Miller,Miller,29109,Lawrence County,Incorporated place,37.215137,-93.840972,1
+MO,2948350,place:MO:2948350,Millersville CDP,Millersville,Millersville,29031,Cape Girardeau County,Census-designated place,37.429424,-89.790699,1
+MO,2948476,place:MO:2948476,Milo village,Milo,Milo,29217,Vernon County,Incorporated place,37.755412,-94.305146,1
+MO,2948566,place:MO:2948566,Mindenmines city,Mindenmines,Mindenmines,29011,Barton County,Incorporated place,37.4786,-94.579056,1
+MO,2948602,place:MO:2948602,Mine La Motte CDP,Mine La Motte,Mine La Motte,29123,Madison County,Census-designated place,37.614161,-90.296494,1
+MO,2948656,place:MO:2948656,Miner city,Miner,Miner,29201,Scott County,Incorporated place,36.905887,-89.535972,1
+MO,2948710,place:MO:2948710,Mineral Point town,Mineral Point,Mineral Point,29221,Washington County,Incorporated place,37.945577,-90.724632,1
+MO,2948880,place:MO:2948880,Miramiguoa Park village,Miramiguoa Park,Miramiguoa Park,29071,Franklin County,Incorporated place,38.239002,-91.068689,1
+MO,2948980,place:MO:2948980,Missouri City city,Missouri City,Missouri City,29047,Clay County,Incorporated place,39.238254,-94.302692,1
+MO,2949034,place:MO:2949034,Moberly city,Moberly,Moberly,29175,Randolph County,Incorporated place,39.418112,-92.436544,1
+MO,2949070,place:MO:2949070,Mokane city,Mokane,Mokane,29027,Callaway County,Incorporated place,38.67444,-91.872445,1
+MO,2949088,place:MO:2949088,Moline Acres city,Moline Acres,Moline Acres,29189,St. Louis County,Incorporated place,38.745612,-90.243,1
+MO,2949196,place:MO:2949196,Monett city,Monett,Monett,29009,Barry County,Incorporated place,36.92147,-93.927108,1
+MO,2949394,place:MO:2949394,Monroe City city,Monroe City,Monroe City,29137,Monroe County,Incorporated place,39.65439,-91.732494,1
+MO,2949574,place:MO:2949574,Montgomery City city,Montgomery City,Montgomery City,29139,Montgomery County,Incorporated place,38.973892,-91.502572,1
+MO,2949592,place:MO:2949592,Monticello village,Monticello,Monticello,29111,Lewis County,Incorporated place,40.118961,-91.713054,1
+MO,2949610,place:MO:2949610,Montier CDP,Montier,Montier,29203,Shannon County,Census-designated place,36.981727,-91.574954,1
+MO,2949646,place:MO:2949646,Montreal CDP,Montreal,Montreal,29029,Camden County,Census-designated place,37.969698,-92.589534,1
+MO,2949664,place:MO:2949664,Montrose city,Montrose,Montrose,29083,Henry County,Incorporated place,38.258475,-93.98228,1
+MO,2949790,place:MO:2949790,Mooresville village,Mooresville,Mooresville,29117,Livingston County,Incorporated place,39.74666,-93.720906,1
+MO,2949898,place:MO:2949898,Morehouse city,Morehouse,Morehouse,29143,New Madrid County,Incorporated place,36.84637,-89.69095,1
+MO,2949988,place:MO:2949988,Morley city,Morley,Morley,29201,Scott County,Incorporated place,37.043202,-89.611808,1
+MO,2950060,place:MO:2950060,Morrison city,Morrison,Morrison,29073,Gasconade County,Incorporated place,38.670231,-91.632696,1
+MO,2950078,place:MO:2950078,Morrisville city,Morrisville,Morrisville,29167,Polk County,Incorporated place,37.478637,-93.433979,1
+MO,2950168,place:MO:2950168,Mosby city,Mosby,Mosby,29047,Clay County,Incorporated place,39.31562,-94.307145,1
+MO,2950204,place:MO:2950204,Moscow Mills city,Moscow Mills,Moscow Mills,29113,Lincoln County,Incorporated place,38.943519,-90.924705,1
+MO,2950312,place:MO:2950312,Mound City city,Mound City,Mound City,29087,Holt County,Incorporated place,40.136503,-95.233739,1
+MO,2950330,place:MO:2950330,Moundville town,Moundville,Moundville,29217,Vernon County,Incorporated place,37.764683,-94.450947,1
+MO,2950510,place:MO:2950510,Mount Leonard town,Mount Leonard,Mount Leonard,29195,Saline County,Incorporated place,39.125446,-93.394515,1
+MO,2950528,place:MO:2950528,Mount Moriah town,Mount Moriah,Mount Moriah,29081,Harrison County,Incorporated place,40.329255,-93.797065,1
+MO,2950672,place:MO:2950672,Mount Vernon city,Mount Vernon,Mount Vernon,29109,Lawrence County,Incorporated place,37.104823,-93.818683,1
+MO,2950402,place:MO:2950402,Mountain Grove city,Mountain Grove,Mountain Grove,29229,Wright County,Incorporated place,37.134222,-92.266291,1
+MO,2950438,place:MO:2950438,Mountain View city,Mountain View,Mountain View,29091,Howell County,Incorporated place,36.993719,-91.701863,1
+MO,2950834,place:MO:2950834,Murphy CDP,Murphy,Murphy,29099,Jefferson County,Census-designated place,38.492069,-90.485917,1
+MO,2951140,place:MO:2951140,Napoleon city,Napoleon,Napoleon,29107,Lafayette County,Incorporated place,39.128446,-94.08882,1
+MO,2951302,place:MO:2951302,Naylor city,Naylor,Naylor,29181,Ripley County,Incorporated place,36.574469,-90.605575,1
+MO,2951356,place:MO:2951356,Neck City city,Neck City,Neck City,29097,Jasper County,Incorporated place,37.254904,-94.444881,1
+MO,2951446,place:MO:2951446,Neelyville city,Neelyville,Neelyville,29023,Butler County,Incorporated place,36.556292,-90.513676,1
+MO,2951500,place:MO:2951500,Nelson city,Nelson,Nelson,29195,Saline County,Incorporated place,38.994503,-93.030816,1
+MO,2951572,place:MO:2951572,Neosho city,Neosho,Neosho,29145,Newton County,Incorporated place,36.845458,-94.376438,1
+MO,2951644,place:MO:2951644,Nevada city,Nevada,Nevada,29217,Vernon County,Incorporated place,37.844908,-94.350321,1
+MO,2951680,place:MO:2951680,New Bloomfield city,New Bloomfield,New Bloomfield,29027,Callaway County,Incorporated place,38.717172,-92.091658,1
+MO,2951734,place:MO:2951734,New Cambria city,New Cambria,New Cambria,29121,Macon County,Incorporated place,39.776679,-92.751273,1
+MO,2951770,place:MO:2951770,New Florence city,New Florence,New Florence,29139,Montgomery County,Incorporated place,38.908466,-91.454789,1
+MO,2951824,place:MO:2951824,New Franklin city,New Franklin,New Franklin,29089,Howard County,Incorporated place,39.014819,-92.744841,1
+MO,2951842,place:MO:2951842,New Hamburg CDP,New Hamburg,New Hamburg,29201,Scott County,Census-designated place,37.131975,-89.598308,1
+MO,2951860,place:MO:2951860,New Hampton city,New Hampton,New Hampton,29081,Harrison County,Incorporated place,40.264766,-94.195089,1
+MO,2951914,place:MO:2951914,New Haven city,New Haven,New Haven,29071,Franklin County,Incorporated place,38.604249,-91.218083,1
+MO,2952058,place:MO:2952058,New London city,New London,New London,29173,Ralls County,Incorporated place,39.584704,-91.398977,1
+MO,2952076,place:MO:2952076,New Madrid city,New Madrid,New Madrid,29143,New Madrid County,Incorporated place,36.586507,-89.551201,1
+MO,2952130,place:MO:2952130,New Market CDP,New Market,New Market,29165,Platte County,Census-designated place,39.501843,-94.799424,1
+MO,2952148,place:MO:2952148,New Melle city,New Melle,New Melle,29183,St. Charles County,Incorporated place,38.723168,-90.893788,1
+MO,2952364,place:MO:2952364,New Wells CDP,New Wells,New Wells,29031,Cape Girardeau County,Census-designated place,37.553987,-89.624497,1
+MO,2951662,place:MO:2951662,Newark village,Newark,Newark,29103,Knox County,Incorporated place,39.994484,-91.973476,1
+MO,2951716,place:MO:2951716,Newburg city,Newburg,Newburg,29161,Phelps County,Incorporated place,37.915584,-91.900374,1
+MO,2952292,place:MO:2952292,Newtonia town,Newtonia,Newtonia,29145,Newton County,Incorporated place,36.879345,-94.183683,1
+MO,2952328,place:MO:2952328,Newtown town,Newtown,Newtown,29211,Sullivan County,Incorporated place,40.374632,-93.332481,1
+MO,2952418,place:MO:2952418,Niangua city,Niangua,Niangua,29225,Webster County,Incorporated place,37.388909,-92.830136,1
+MO,2952616,place:MO:2952616,Nixa city,Nixa,Nixa,29043,Christian County,Incorporated place,37.045093,-93.295914,1
+MO,2952742,place:MO:2952742,Noel city,Noel,Noel,29119,McDonald County,Incorporated place,36.541232,-94.489462,1
+MO,2952760,place:MO:2952760,Norborne city,Norborne,Norborne,29033,Carroll County,Incorporated place,39.302423,-93.675967,1
+MO,2952796,place:MO:2952796,Normandy city,Normandy,Normandy,29189,St. Louis County,Incorporated place,38.707001,-90.300827,1
+MO,2953102,place:MO:2953102,North Kansas City city,North Kansas City,North Kansas City,29047,Clay County,Incorporated place,39.139553,-94.565159,1
+MO,2953138,place:MO:2953138,North Lilbourn village,North Lilbourn,North Lilbourn,29143,New Madrid County,Incorporated place,36.601814,-89.621989,1
+MO,2953174,place:MO:2953174,Northmoor city,Northmoor,Northmoor,29165,Platte County,Incorporated place,39.184467,-94.605484,1
+MO,2953408,place:MO:2953408,Northwoods city,Northwoods,Northwoods,29189,St. Louis County,Incorporated place,38.703538,-90.282378,1
+MO,2953454,place:MO:2953454,Norwood city,Norwood,Norwood,29229,Wright County,Incorporated place,37.107192,-92.418931,1
+MO,2953462,place:MO:2953462,Norwood Court town,Norwood Court,Norwood Court,29189,St. Louis County,Incorporated place,38.714112,-90.289488,1
+MO,2953516,place:MO:2953516,Novelty village,Novelty,Novelty,29103,Knox County,Incorporated place,40.012462,-92.20716,1
+MO,2953534,place:MO:2953534,Novinger city,Novinger,Novinger,29001,Adair County,Incorporated place,40.234435,-92.706968,1
+MO,2954074,place:MO:2954074,O'Fallon city,O'Fallon,O'Fallon,29183,St. Charles County,Incorporated place,38.778825,-90.72178,1
+MO,2953624,place:MO:2953624,Oak Grove city,Oak Grove,Oak Grove,29095,Jackson County,Incorporated place,39.007033,-94.128441,1
+MO,2953650,place:MO:2953650,Oak Grove Village village,Oak Grove Village,Oak Grove Village,29071,Franklin County,Incorporated place,38.227632,-91.149599,1
+MO,2953786,place:MO:2953786,Oak Ridge town,Oak Ridge,Oak Ridge,29031,Cape Girardeau County,Incorporated place,37.498739,-89.729875,1
+MO,2953750,place:MO:2953750,Oakland city,Oakland,Oakland,29189,St. Louis County,Incorporated place,38.576835,-90.384921,1
+MO,2953804,place:MO:2953804,Oaks village,Oaks,Oaks,29047,Clay County,Incorporated place,39.197007,-94.571971,1
+MO,2953858,place:MO:2953858,Oakview village,Oakview,Oakview,29047,Clay County,Incorporated place,39.208549,-94.57041,1
+MO,2953876,place:MO:2953876,Oakville CDP,Oakville,Oakville,29189,St. Louis County,Census-designated place,38.449644,-90.31839,1
+MO,2953894,place:MO:2953894,Oakwood village,Oakwood,Oakwood,29047,Clay County,Incorporated place,39.20049,-94.570504,1
+MO,2953948,place:MO:2953948,Oakwood Park village,Oakwood Park,Oakwood Park,29047,Clay County,Incorporated place,39.204717,-94.573835,1
+MO,2954038,place:MO:2954038,Odessa city,Odessa,Odessa,29107,Lafayette County,Incorporated place,38.999397,-93.966404,1
+MO,2954200,place:MO:2954200,Old Appleton town,Old Appleton,Old Appleton,29031,Cape Girardeau County,Incorporated place,37.593907,-89.710705,1
+MO,2954352,place:MO:2954352,Old Jamestown CDP,Old Jamestown,Old Jamestown,29189,St. Louis County,Census-designated place,38.834931,-90.285107,1
+MO,2954416,place:MO:2954416,Old Monroe city,Old Monroe,Old Monroe,29113,Lincoln County,Incorporated place,38.934162,-90.749088,1
+MO,2954560,place:MO:2954560,Olean town,Olean,Olean,29131,Miller County,Incorporated place,38.410196,-92.529917,1
+MO,2954650,place:MO:2954650,Olivette city,Olivette,Olivette,29189,St. Louis County,Incorporated place,38.672373,-90.378582,1
+MO,2954686,place:MO:2954686,Olympian Village city,Olympian Village,Olympian Village,29099,Jefferson County,Incorporated place,38.134797,-90.459295,1
+MO,2954758,place:MO:2954758,Oran city,Oran,Oran,29201,Scott County,Incorporated place,37.085403,-89.653247,1
+MO,2954848,place:MO:2954848,Oregon city,Oregon,Oregon,29087,Holt County,Incorporated place,39.986092,-95.143302,1
+MO,2954920,place:MO:2954920,Oronogo city,Oronogo,Oronogo,29097,Jasper County,Incorporated place,37.191743,-94.463867,1
+MO,2954938,place:MO:2954938,Orrick city,Orrick,Orrick,29177,Ray County,Incorporated place,39.213715,-94.126206,1
+MO,2955244,place:MO:2955244,Osage Beach city,Osage Beach,Osage Beach,29029,Camden County,Incorporated place,38.136219,-92.64703,1
+MO,2955352,place:MO:2955352,Osborn city,Osborn,Osborn,29063,DeKalb County,Incorporated place,39.749851,-94.356902,1
+MO,2955388,place:MO:2955388,Osceola city,Osceola,Osceola,29185,St. Clair County,Incorporated place,38.044398,-93.689701,1
+MO,2955424,place:MO:2955424,Osgood village,Osgood,Osgood,29211,Sullivan County,Incorporated place,40.197328,-93.350531,1
+MO,2955478,place:MO:2955478,Otterville city,Otterville,Otterville,29053,Cooper County,Incorporated place,38.702925,-93.002769,1
+MO,2955550,place:MO:2955550,Overland city,Overland,Overland,29189,St. Louis County,Incorporated place,38.695945,-90.368346,1
+MO,2955640,place:MO:2955640,Owensville city,Owensville,Owensville,29073,Gasconade County,Incorporated place,38.348438,-91.497361,1
+MO,2955694,place:MO:2955694,Oxly CDP,Oxly,Oxly,29181,Ripley County,Census-designated place,36.602532,-90.678992,1
+MO,2955766,place:MO:2955766,Ozark city,Ozark,Ozark,29043,Christian County,Incorporated place,37.0336,-93.218044,1
+MO,2955892,place:MO:2955892,Ozora CDP,Ozora,Ozora,29186,Ste. Genevieve County,Census-designated place,37.862616,-90.050565,1
+MO,2955910,place:MO:2955910,Pacific city,Pacific,Pacific,29071,Franklin County,Incorporated place,38.479724,-90.749453,1
+MO,2955964,place:MO:2955964,Pagedale city,Pagedale,Pagedale,29189,St. Louis County,Incorporated place,38.68018,-90.308106,1
+MO,2956036,place:MO:2956036,Palmyra city,Palmyra,Palmyra,29127,Marion County,Incorporated place,39.797911,-91.526558,1
+MO,2956126,place:MO:2956126,Paradise CDP,Paradise,Paradise,29047,Clay County,Census-designated place,39.42886,-94.512796,1
+MO,2956144,place:MO:2956144,Paris city,Paris,Paris,29137,Monroe County,Incorporated place,39.474146,-92.010106,1
+MO,2956272,place:MO:2956272,Park Hills city,Park Hills,Park Hills,29187,St. Francois County,Incorporated place,37.815647,-90.498344,1
+MO,2956226,place:MO:2956226,Parkdale village,Parkdale,Parkdale,29099,Jefferson County,Incorporated place,38.481014,-90.527088,1
+MO,2956288,place:MO:2956288,Parkville city,Parkville,Parkville,29165,Platte County,Incorporated place,39.214601,-94.704369,1
+MO,2956306,place:MO:2956306,Parkway village,Parkway,Parkway,29071,Franklin County,Incorporated place,38.335529,-90.96809,1
+MO,2956342,place:MO:2956342,Parma city,Parma,Parma,29143,New Madrid County,Incorporated place,36.611053,-89.818126,1
+MO,2956360,place:MO:2956360,Parnell city,Parnell,Parnell,29147,Nodaway County,Incorporated place,40.438359,-94.622256,1
+MO,2956396,place:MO:2956396,Pasadena Hills city,Pasadena Hills,Pasadena Hills,29189,St. Louis County,Incorporated place,38.70829,-90.292139,1
+MO,2956414,place:MO:2956414,Pasadena Park village,Pasadena Park,Pasadena Park,29189,St. Louis County,Incorporated place,38.710978,-90.297433,1
+MO,2956432,place:MO:2956432,Pascola village,Pascola,Pascola,29155,Pemiscot County,Incorporated place,36.267263,-89.825805,1
+MO,2956468,place:MO:2956468,Passaic town,Passaic,Passaic,29013,Bates County,Incorporated place,38.321631,-94.348985,1
+MO,2956558,place:MO:2956558,Pattonsburg city,Pattonsburg,Pattonsburg,29061,Daviess County,Incorporated place,40.068764,-94.10881,1
+MO,2956612,place:MO:2956612,Paynesville village,Paynesville,Paynesville,29163,Pike County,Incorporated place,39.262477,-90.900295,1
+MO,2956620,place:MO:2956620,Peaceful Village village,Peaceful Village,Peaceful Village,29099,Jefferson County,Incorporated place,38.46686,-90.542856,1
+MO,2956756,place:MO:2956756,Peculiar city,Peculiar,Peculiar,29037,Cass County,Incorporated place,38.733428,-94.470686,1
+MO,2956882,place:MO:2956882,Pendleton village,Pendleton,Pendleton,29219,Warren County,Incorporated place,38.834894,-91.229488,1
+MO,2956900,place:MO:2956900,Penermon village,Penermon,Penermon,29207,Stoddard County,Incorporated place,36.790958,-89.830082,1
+MO,2957044,place:MO:2957044,Perkins CDP,Perkins,Perkins,29201,Scott County,Census-designated place,37.09425,-89.774723,1
+MO,2957080,place:MO:2957080,Perry city,Perry,Perry,29173,Ralls County,Incorporated place,39.433564,-91.662225,1
+MO,2957116,place:MO:2957116,Perryville city,Perryville,Perryville,29157,Perry County,Incorporated place,37.72633,-89.876493,1
+MO,2957278,place:MO:2957278,Pevely city,Pevely,Pevely,29099,Jefferson County,Incorporated place,38.288089,-90.400038,1
+MO,2957332,place:MO:2957332,Phelps City CDP,Phelps City,Phelps City,29005,Atchison County,Census-designated place,40.400635,-95.594955,1
+MO,2957350,place:MO:2957350,Philadelphia CDP,Philadelphia,Philadelphia,29127,Marion County,Census-designated place,39.835051,-91.741179,1
+MO,2957368,place:MO:2957368,Phillipsburg village,Phillipsburg,Phillipsburg,29105,Laclede County,Incorporated place,37.552599,-92.789465,1
+MO,2957404,place:MO:2957404,Pickering city,Pickering,Pickering,29147,Nodaway County,Incorporated place,40.450224,-94.84189,1
+MO,2957422,place:MO:2957422,Piedmont city,Piedmont,Piedmont,29223,Wayne County,Incorporated place,37.150372,-90.695747,1
+MO,2957494,place:MO:2957494,Pierce City city,Pierce City,Pierce City,29109,Lawrence County,Incorporated place,36.946883,-94.003511,1
+MO,2957512,place:MO:2957512,Pierpont village,Pierpont,Pierpont,29019,Boone County,Incorporated place,38.863179,-92.312991,1
+MO,2957602,place:MO:2957602,Pilot Grove city,Pilot Grove,Pilot Grove,29053,Cooper County,Incorporated place,38.873621,-92.912608,1
+MO,2957656,place:MO:2957656,Pilot Knob city,Pilot Knob,Pilot Knob,29093,Iron County,Incorporated place,37.622032,-90.644592,1
+MO,2957800,place:MO:2957800,Pine Lawn city,Pine Lawn,Pine Lawn,29189,St. Louis County,Incorporated place,38.695274,-90.275629,1
+MO,2957818,place:MO:2957818,Pineville city,Pineville,Pineville,29119,McDonald County,Incorporated place,36.575504,-94.391543,1
+MO,2957926,place:MO:2957926,Pinhook village,Pinhook,Pinhook,29133,Mississippi County,Incorporated place,36.73804,-89.26948,1
+MO,2958088,place:MO:2958088,Plato village,Plato,Plato,29215,Texas County,Incorporated place,37.50163,-92.218398,1
+MO,2958178,place:MO:2958178,Platte City city,Platte City,Platte City,29165,Platte County,Incorporated place,39.359735,-94.75632,1
+MO,2958196,place:MO:2958196,Platte Woods city,Platte Woods,Platte Woods,29165,Platte County,Incorporated place,39.228892,-94.652121,1
+MO,2958250,place:MO:2958250,Plattsburg city,Plattsburg,Plattsburg,29049,Clinton County,Incorporated place,39.554166,-94.463355,1
+MO,2958394,place:MO:2958394,Pleasant Hill city,Pleasant Hill,Pleasant Hill,29037,Cass County,Incorporated place,38.803908,-94.275126,1
+MO,2958448,place:MO:2958448,Pleasant Hope city,Pleasant Hope,Pleasant Hope,29167,Polk County,Incorporated place,37.465315,-93.274361,1
+MO,2958520,place:MO:2958520,Pleasant Valley city,Pleasant Valley,Pleasant Valley,29047,Clay County,Incorporated place,39.217175,-94.48094,1
+MO,2958574,place:MO:2958574,Plevna CDP,Plevna,Plevna,29103,Knox County,Census-designated place,39.980885,-92.083595,1
+MO,2958628,place:MO:2958628,Pocahontas town,Pocahontas,Pocahontas,29031,Cape Girardeau County,Incorporated place,37.50161,-89.639849,1
+MO,2958898,place:MO:2958898,Pollock village,Pollock,Pollock,29211,Sullivan County,Incorporated place,40.358357,-93.08373,1
+MO,2958916,place:MO:2958916,Polo city,Polo,Polo,29025,Caldwell County,Incorporated place,39.551711,-94.035984,1
+MO,2958934,place:MO:2958934,Pomona CDP,Pomona,Pomona,29091,Howell County,Census-designated place,36.869078,-91.911095,1
+MO,2959060,place:MO:2959060,Pontiac CDP,Pontiac,Pontiac,29153,Ozark County,Census-designated place,36.520351,-92.602716,1
+MO,2959096,place:MO:2959096,Poplar Bluff city,Poplar Bluff,Poplar Bluff,29023,Butler County,Incorporated place,36.763259,-90.413953,1
+MO,2959150,place:MO:2959150,Portage Des Sioux city,Portage Des Sioux,Portage Des Sioux,29183,St. Charles County,Incorporated place,38.92997,-90.34067,1
+MO,2959186,place:MO:2959186,Portageville city,Portageville,Portageville,29143,New Madrid County,Incorporated place,36.429467,-89.699336,1
+MO,2959330,place:MO:2959330,Potosi city,Potosi,Potosi,29221,Washington County,Incorporated place,37.933739,-90.775033,1
+MO,2959420,place:MO:2959420,Powersville village,Powersville,Powersville,29171,Putnam County,Incorporated place,40.549811,-93.299658,1
+MO,2959708,place:MO:2959708,Prairie Hill CDP,Prairie Hill,Prairie Hill,29041,Chariton County,Census-designated place,39.520808,-92.736229,1
+MO,2959726,place:MO:2959726,Prairie Home city,Prairie Home,Prairie Home,29053,Cooper County,Incorporated place,38.814377,-92.590595,1
+MO,2959816,place:MO:2959816,Prathersville village,Prathersville,Prathersville,29047,Clay County,Incorporated place,39.315312,-94.273806,1
+MO,2959870,place:MO:2959870,Preston village,Preston,Preston,29085,Hickory County,Incorporated place,37.940963,-93.212707,1
+MO,2959942,place:MO:2959942,Princeton city,Princeton,Princeton,29129,Mercer County,Incorporated place,40.396332,-93.58877,1
+MO,2960140,place:MO:2960140,Purcell city,Purcell,Purcell,29097,Jasper County,Incorporated place,37.243297,-94.439445,1
+MO,2960158,place:MO:2960158,Purdin city,Purdin,Purdin,29115,Linn County,Incorporated place,39.95018,-93.164536,1
+MO,2960176,place:MO:2960176,Purdy city,Purdy,Purdy,29009,Barry County,Incorporated place,36.81876,-93.920551,1
+MO,2960284,place:MO:2960284,Puxico city,Puxico,Puxico,29207,Stoddard County,Incorporated place,36.950544,-90.158831,1
+MO,2960356,place:MO:2960356,Queen City city,Queen City,Queen City,29197,Schuyler County,Incorporated place,40.411775,-92.566678,1
+MO,2960410,place:MO:2960410,Quitman CDP,Quitman,Quitman,29147,Nodaway County,Census-designated place,40.373304,-95.076957,1
+MO,2960428,place:MO:2960428,Qulin city,Qulin,Qulin,29023,Butler County,Incorporated place,36.595255,-90.246295,1
+MO,2960528,place:MO:2960528,Raintree Plantation CDP,Raintree Plantation,Raintree Plantation,29099,Jefferson County,Census-designated place,38.254778,-90.602567,1
+MO,2960590,place:MO:2960590,Randolph village,Randolph,Randolph,29047,Clay County,Incorporated place,39.156068,-94.493125,1
+MO,2960644,place:MO:2960644,Ravanna CDP,Ravanna,Ravanna,29129,Mercer County,Census-designated place,40.457777,-93.45732,1
+MO,2960716,place:MO:2960716,Ravenwood town,Ravenwood,Ravenwood,29147,Nodaway County,Incorporated place,40.352414,-94.67214,1
+MO,2960734,place:MO:2960734,Raymondville town,Raymondville,Raymondville,29215,Texas County,Incorporated place,37.339785,-91.836469,1
+MO,2960752,place:MO:2960752,Raymore city,Raymore,Raymore,29037,Cass County,Incorporated place,38.803303,-94.45832,1
+MO,2960788,place:MO:2960788,Raytown city,Raytown,Raytown,29095,Jackson County,Incorporated place,38.994274,-94.461511,1
+MO,2960824,place:MO:2960824,Rayville CDP,Rayville,Rayville,29177,Ray County,Census-designated place,39.346328,-94.064919,1
+MO,2960842,place:MO:2960842,Rea city,Rea,Rea,29003,Andrew County,Incorporated place,40.060961,-94.764441,1
+MO,2960986,place:MO:2960986,Redings Mill village,Redings Mill,Redings Mill,29145,Newton County,Incorporated place,37.019968,-94.516546,1
+MO,2961094,place:MO:2961094,Reeds town,Reeds,Reeds,29097,Jasper County,Incorporated place,37.11647,-94.168242,1
+MO,2961112,place:MO:2961112,Reeds Spring city,Reeds Spring,Reeds Spring,29209,Stone County,Incorporated place,36.739264,-93.380568,1
+MO,2961166,place:MO:2961166,Renick village,Renick,Renick,29175,Randolph County,Incorporated place,39.343058,-92.409814,1
+MO,2961184,place:MO:2961184,Rensselaer village,Rensselaer,Rensselaer,29173,Ralls County,Incorporated place,39.669797,-91.540363,1
+MO,2961238,place:MO:2961238,Republic city,Republic,Republic,29077,Greene County,Incorporated place,37.168552,-93.413059,1
+MO,2961292,place:MO:2961292,Revere town,Revere,Revere,29045,Clark County,Incorporated place,40.49437,-91.676299,1
+MO,2961328,place:MO:2961328,Rhineland town,Rhineland,Rhineland,29139,Montgomery County,Incorporated place,38.722603,-91.517123,1
+MO,2961418,place:MO:2961418,Rich Hill city,Rich Hill,Rich Hill,29013,Bates County,Incorporated place,38.095871,-94.363462,1
+MO,2961364,place:MO:2961364,Richards town,Richards,Richards,29217,Vernon County,Incorporated place,37.909967,-94.557501,1
+MO,2961562,place:MO:2961562,Richland city,Richland,Richland,29169,Pulaski County,Incorporated place,37.861142,-92.399744,1
+MO,2961670,place:MO:2961670,Richmond city,Richmond,Richmond,29177,Ray County,Incorporated place,39.27545,-93.972584,1
+MO,2961706,place:MO:2961706,Richmond Heights city,Richmond Heights,Richmond Heights,29189,St. Louis County,Incorporated place,38.630928,-90.333181,1
+MO,2961886,place:MO:2961886,Ridgely village,Ridgely,Ridgely,29165,Platte County,Incorporated place,39.453611,-94.64034,1
+MO,2961904,place:MO:2961904,Ridgeway city,Ridgeway,Ridgeway,29081,Harrison County,Incorporated place,40.377823,-93.937845,1
+MO,2961994,place:MO:2961994,Risco city,Risco,Risco,29143,New Madrid County,Incorporated place,36.551667,-89.818654,1
+MO,2962030,place:MO:2962030,Ritchey town,Ritchey,Ritchey,29145,Newton County,Incorporated place,36.944031,-94.185792,1
+MO,2962056,place:MO:2962056,River Bend village,River Bend,River Bend,29095,Jackson County,Incorporated place,39.17904,-94.38811,1
+MO,2962156,place:MO:2962156,Riverside city,Riverside,Riverside,29165,Platte County,Incorporated place,39.172175,-94.632499,1
+MO,2962192,place:MO:2962192,Riverview city,Riverview,Riverview,29189,St. Louis County,Incorporated place,38.744155,-90.211104,1
+MO,2962210,place:MO:2962210,Riverview Estates village,Riverview Estates,Riverview Estates,29037,Cass County,Incorporated place,38.748856,-94.524603,1
+MO,2962228,place:MO:2962228,Rives town,Rives,Rives,29069,Dunklin County,Incorporated place,36.094462,-90.011461,1
+MO,2962498,place:MO:2962498,Rocheport city,Rocheport,Rocheport,29019,Boone County,Incorporated place,38.978176,-92.563518,1
+MO,2962660,place:MO:2962660,Rock Hill city,Rock Hill,Rock Hill,29189,St. Louis County,Incorporated place,38.609052,-90.367299,1
+MO,2962696,place:MO:2962696,Rock Port city,Rock Port,Rock Port,29005,Atchison County,Incorporated place,40.410911,-95.533087,1
+MO,2962570,place:MO:2962570,Rockaway Beach city,Rockaway Beach,Rockaway Beach,29213,Taney County,Incorporated place,36.703472,-93.160508,1
+MO,2962786,place:MO:2962786,Rockville city,Rockville,Rockville,29013,Bates County,Incorporated place,38.072476,-94.080525,1
+MO,2962822,place:MO:2962822,Rocky Comfort CDP,Rocky Comfort,Rocky Comfort,29119,McDonald County,Census-designated place,36.742366,-94.090346,1
+MO,2962894,place:MO:2962894,Rogersville city,Rogersville,Rogersville,29077,Greene County,Incorporated place,37.114961,-93.07504,1
+MO,2962912,place:MO:2962912,Rolla city,Rolla,Rolla,29161,Phelps County,Incorporated place,37.946433,-91.761116,1
+MO,2963074,place:MO:2963074,Roscoe village,Roscoe,Roscoe,29185,St. Clair County,Incorporated place,37.976643,-93.817473,1
+MO,2963110,place:MO:2963110,Rosebud city,Rosebud,Rosebud,29073,Gasconade County,Incorporated place,38.384762,-91.402961,1
+MO,2963200,place:MO:2963200,Rosendale city,Rosendale,Rosendale,29003,Andrew County,Incorporated place,40.040696,-94.823239,1
+MO,2963236,place:MO:2963236,Rothville village,Rothville,Rothville,29041,Chariton County,Incorporated place,39.654745,-93.061105,1
+MO,2963560,place:MO:2963560,Rush Hill village,Rush Hill,Rush Hill,29007,Audrain County,Incorporated place,39.210012,-91.725162,1
+MO,2963596,place:MO:2963596,Rushville village,Rushville,Rushville,29021,Buchanan County,Incorporated place,39.587399,-95.023759,1
+MO,2963704,place:MO:2963704,Russellville city,Russellville,Russellville,29051,Cole County,Incorporated place,38.512348,-92.439169,1
+MO,2963776,place:MO:2963776,Rutledge town,Rutledge,Rutledge,29199,Scotland County,Incorporated place,40.313983,-92.087587,1
+MO,2963857,place:MO:2963857,Saddlebrooke village,Saddlebrooke,Saddlebrooke,29043,Christian County,Incorporated place,36.825602,-93.203421,1
+MO,2963902,place:MO:2963902,Saginaw village,Saginaw,Saginaw,29145,Newton County,Incorporated place,37.024763,-94.474924,1
+MO,2965234,place:MO:2965234,Salem city,Salem,Salem,29065,Dent County,Incorporated place,37.639568,-91.53486,1
+MO,2965450,place:MO:2965450,Salisbury city,Salisbury,Salisbury,29041,Chariton County,Incorporated place,39.423327,-92.802424,1
+MO,2965954,place:MO:2965954,Sappington CDP,Sappington,Sappington,29189,St. Louis County,Census-designated place,38.526042,-90.373051,1
+MO,2965990,place:MO:2965990,Sarcoxie city,Sarcoxie,Sarcoxie,29097,Jasper County,Incorporated place,37.068571,-94.12692,1
+MO,2966044,place:MO:2966044,Savannah city,Savannah,Savannah,29003,Andrew County,Incorporated place,39.938789,-94.828049,1
+MO,2966062,place:MO:2966062,Saverton CDP,Saverton,Saverton,29173,Ralls County,Census-designated place,39.644221,-91.269714,1
+MO,2966134,place:MO:2966134,Schell City city,Schell City,Schell City,29217,Vernon County,Incorporated place,38.019149,-94.116772,1
+MO,2966337,place:MO:2966337,Scotsdale town,Scotsdale,Scotsdale,29099,Jefferson County,Incorporated place,38.394601,-90.589994,1
+MO,2966368,place:MO:2966368,Scott City city,Scott City,Scott City,29201,Scott County,Incorporated place,37.224475,-89.537758,1
+MO,2966440,place:MO:2966440,Sedalia city,Sedalia,Sedalia,29159,Pettis County,Incorporated place,38.705239,-93.235819,1
+MO,2966476,place:MO:2966476,Sedgewickville village,Sedgewickville,Sedgewickville,29017,Bollinger County,Incorporated place,37.514614,-89.906018,1
+MO,2966530,place:MO:2966530,Seligman city,Seligman,Seligman,29009,Barry County,Incorporated place,36.523399,-93.938989,1
+MO,2966638,place:MO:2966638,Senath city,Senath,Senath,29069,Dunklin County,Incorporated place,36.134005,-90.161358,1
+MO,2966674,place:MO:2966674,Seneca city,Seneca,Seneca,29145,Newton County,Incorporated place,36.844515,-94.609244,1
+MO,2966800,place:MO:2966800,Seymour city,Seymour,Seymour,29225,Webster County,Incorporated place,37.147424,-92.768837,1
+MO,2966935,place:MO:2966935,Shakertowne CDP,Shakertowne,Shakertowne,29157,Perry County,Census-designated place,37.693956,-89.867372,1
+MO,2967124,place:MO:2967124,Shawneetown CDP,Shawneetown,Shawneetown,29031,Cape Girardeau County,Census-designated place,37.55109,-89.655517,1
+MO,2967178,place:MO:2967178,Shelbina city,Shelbina,Shelbina,29205,Shelby County,Incorporated place,39.693022,-92.039652,1
+MO,2967196,place:MO:2967196,Shelbyville city,Shelbyville,Shelbyville,29205,Shelby County,Incorporated place,39.807328,-92.039887,1
+MO,2967214,place:MO:2967214,Sheldon city,Sheldon,Sheldon,29217,Vernon County,Incorporated place,37.658356,-94.295713,1
+MO,2967232,place:MO:2967232,Shell Knob CDP,Shell Knob,Shell Knob,29009,Barry County,Census-designated place,36.595528,-93.59734,1
+MO,2967358,place:MO:2967358,Sheridan town,Sheridan,Sheridan,29227,Worth County,Incorporated place,40.517175,-94.614602,1
+MO,2967628,place:MO:2967628,Shoal Creek Drive village,Shoal Creek Drive,Shoal Creek Drive,29145,Newton County,Incorporated place,37.037,-94.522751,1
+MO,2967632,place:MO:2967632,Shoal Creek Estates village,Shoal Creek Estates,Shoal Creek Estates,29145,Newton County,Incorporated place,37.01734,-94.493404,1
+MO,2967700,place:MO:2967700,Shrewsbury city,Shrewsbury,Shrewsbury,29189,St. Louis County,Incorporated place,38.586566,-90.328164,1
+MO,2967718,place:MO:2967718,Sibley village,Sibley,Sibley,29095,Jackson County,Incorporated place,39.17589,-94.200871,1
+MO,2967790,place:MO:2967790,Sikeston city,Sikeston,Sikeston,29201,Scott County,Incorporated place,36.883729,-89.587199,1
+MO,2967808,place:MO:2967808,Silex city,Silex,Silex,29113,Lincoln County,Incorporated place,39.126991,-91.057066,1
+MO,2968132,place:MO:2968132,Skidmore city,Skidmore,Skidmore,29147,Nodaway County,Incorporated place,40.287885,-95.079503,1
+MO,2968204,place:MO:2968204,Slater city,Slater,Slater,29195,Saline County,Incorporated place,39.223279,-93.065347,1
+MO,2968384,place:MO:2968384,Smithton city,Smithton,Smithton,29159,Pettis County,Incorporated place,38.680728,-93.0924,1
+MO,2968420,place:MO:2968420,Smithville city,Smithville,Smithville,29047,Clay County,Incorporated place,39.396871,-94.570978,1
+MO,2968762,place:MO:2968762,South Fork CDP,South Fork,South Fork,29091,Howell County,Census-designated place,36.637973,-91.954841,1
+MO,2968852,place:MO:2968852,South Gifford village,South Gifford,South Gifford,29121,Macon County,Incorporated place,40.027717,-92.684034,1
+MO,2968870,place:MO:2968870,South Gorin town,South Gorin,South Gorin,29199,Scotland County,Incorporated place,40.3585,-92.025345,1
+MO,2968888,place:MO:2968888,South Greenfield village,South Greenfield,South Greenfield,29057,Dade County,Incorporated place,37.376052,-93.840888,1
+MO,2968942,place:MO:2968942,South Lineville town,South Lineville,South Lineville,29129,Mercer County,Incorporated place,40.578578,-93.524073,1
+MO,2969230,place:MO:2969230,Southwest City town,Southwest City,Southwest City,29119,McDonald County,Incorporated place,36.517302,-94.607498,1
+MO,2969266,place:MO:2969266,Spanish Lake CDP,Spanish Lake,Spanish Lake,29189,St. Louis County,Census-designated place,38.788536,-90.207797,1
+MO,2969302,place:MO:2969302,Sparta city,Sparta,Sparta,29043,Christian County,Incorporated place,37.001797,-93.084557,1
+MO,2969464,place:MO:2969464,Spickard city,Spickard,Spickard,29079,Grundy County,Incorporated place,40.24316,-93.59224,1
+MO,2969518,place:MO:2969518,Spokane CDP,Spokane,Spokane,29043,Christian County,Census-designated place,36.866877,-93.287058,1
+MO,2970000,place:MO:2970000,Springfield city,Springfield,Springfield,29077,Greene County,Incorporated place,37.195337,-93.292363,1
+MO,2963956,place:MO:2963956,St. Ann city,St. Ann,St. Ann,29189,St. Louis County,Incorporated place,38.726613,-90.387181,1
+MO,2964046,place:MO:2964046,St. Catharine CDP,St. Catharine,St. Catharine,29115,Linn County,Census-designated place,39.797769,-92.99565,1
+MO,2964082,place:MO:2964082,St. Charles city,St. Charles,St. Charles,29183,St. Charles County,Incorporated place,38.795702,-90.515364,1
+MO,2964136,place:MO:2964136,St. Clair city,St. Clair,St. Clair,29071,Franklin County,Incorporated place,38.34639,-90.994367,1
+MO,2964154,place:MO:2964154,St. Clement CDP,St. Clement,St. Clement,29163,Pike County,Census-designated place,39.280538,-91.211843,1
+MO,2964172,place:MO:2964172,St. Cloud village,St. Cloud,St. Cloud,29055,Crawford County,Incorporated place,38.173189,-91.212759,1
+MO,2964190,place:MO:2964190,St. Elizabeth village,St. Elizabeth,St. Elizabeth,29131,Miller County,Incorporated place,38.256019,-92.267182,1
+MO,2964244,place:MO:2964244,St. Francisville CDP,St. Francisville,St. Francisville,29045,Clark County,Census-designated place,40.442284,-91.576057,1
+MO,2964370,place:MO:2964370,St. George CDP,St. George,St. George,29189,St. Louis County,Census-designated place,38.537548,-90.312075,1
+MO,2964424,place:MO:2964424,St. James city,St. James,St. James,29161,Phelps County,Incorporated place,38.002356,-91.613372,1
+MO,2964478,place:MO:2964478,St. John city,St. John,St. John,29189,St. Louis County,Incorporated place,38.714758,-90.346265,1
+MO,2964550,place:MO:2964550,St. Joseph city,St. Joseph,St. Joseph,29021,Buchanan County,Incorporated place,39.75946,-94.821143,1
+MO,2965000,place:MO:2965000,St. Louis city,St. Louis,St. Louis,29510,St. Louis city,Incorporated place,38.635699,-90.244582,1
+MO,2965018,place:MO:2965018,St. Martins city,St. Martins,St. Martins,29051,Cole County,Incorporated place,38.598458,-92.334195,1
+MO,2965034,place:MO:2965034,St. Mary city,St. Mary,St. Mary,29186,Ste. Genevieve County,Incorporated place,37.873603,-89.949588,1
+MO,2965108,place:MO:2965108,St. Paul city,St. Paul,St. Paul,29183,St. Charles County,Incorporated place,38.848844,-90.740479,1
+MO,2965126,place:MO:2965126,St. Peters city,St. Peters,St. Peters,29183,St. Charles County,Incorporated place,38.781323,-90.60497,1
+MO,2965144,place:MO:2965144,St. Robert city,St. Robert,St. Robert,29169,Pulaski County,Incorporated place,37.830607,-92.157005,1
+MO,2965162,place:MO:2965162,St. Thomas town,St. Thomas,St. Thomas,29051,Cole County,Incorporated place,38.367049,-92.216002,1
+MO,2970270,place:MO:2970270,Stanberry city,Stanberry,Stanberry,29075,Gentry County,Incorporated place,40.216583,-94.538093,1
+MO,2970342,place:MO:2970342,Stanton CDP,Stanton,Stanton,29071,Franklin County,Census-designated place,38.270254,-91.105889,1
+MO,2970414,place:MO:2970414,Stark City town,Stark City,Stark City,29145,Newton County,Incorporated place,36.862873,-94.186342,1
+MO,2964180,place:MO:2964180,Ste. Genevieve city,Ste. Genevieve,Ste. Genevieve,29186,Ste. Genevieve County,Incorporated place,37.973116,-90.052789,1
+MO,2970558,place:MO:2970558,Steele city,Steele,Steele,29155,Pemiscot County,Incorporated place,36.09479,-89.862102,1
+MO,2970576,place:MO:2970576,Steelville city,Steelville,Steelville,29055,Crawford County,Incorporated place,37.969608,-91.354581,1
+MO,2970648,place:MO:2970648,Stella town,Stella,Stella,29145,Newton County,Incorporated place,36.762585,-94.191119,1
+MO,2970738,place:MO:2970738,Stewartsville city,Stewartsville,Stewartsville,29063,DeKalb County,Incorporated place,39.756499,-94.499049,1
+MO,2970828,place:MO:2970828,Stockton city,Stockton,Stockton,29039,Cedar County,Incorporated place,37.696889,-93.795886,1
+MO,2970954,place:MO:2970954,Stotesbury town,Stotesbury,Stotesbury,29217,Vernon County,Incorporated place,37.9751,-94.564991,1
+MO,2970990,place:MO:2970990,Stotts City city,Stotts City,Stotts City,29109,Lawrence County,Incorporated place,37.10178,-93.948284,1
+MO,2971008,place:MO:2971008,Stoutland city,Stoutland,Stoutland,29029,Camden County,Incorporated place,37.813194,-92.515975,1
+MO,2971026,place:MO:2971026,Stoutsville village,Stoutsville,Stoutsville,29137,Monroe County,Incorporated place,39.548684,-91.856716,1
+MO,2971044,place:MO:2971044,Stover city,Stover,Stover,29141,Morgan County,Incorporated place,38.441813,-92.990138,1
+MO,2971062,place:MO:2971062,Strafford city,Strafford,Strafford,29077,Greene County,Incorporated place,37.268711,-93.117963,1
+MO,2971098,place:MO:2971098,Strasburg city,Strasburg,Strasburg,29037,Cass County,Incorporated place,38.759888,-94.164837,1
+MO,2971224,place:MO:2971224,Sturgeon city,Sturgeon,Sturgeon,29019,Boone County,Incorporated place,39.234828,-92.281925,1
+MO,2971368,place:MO:2971368,Sugar Creek city,Sugar Creek,Sugar Creek,29095,Jackson County,Incorporated place,39.142844,-94.405813,1
+MO,2971440,place:MO:2971440,Sullivan city,Sullivan,Sullivan,29071,Franklin County,Incorporated place,38.21261,-91.163998,1
+MO,2971508,place:MO:2971508,Summer Set CDP,Summer Set,Summer Set,29099,Jefferson County,Census-designated place,38.087499,-90.576149,1
+MO,2971512,place:MO:2971512,Summersville city,Summersville,Summersville,29215,Texas County,Incorporated place,37.178547,-91.657691,1
+MO,2971620,place:MO:2971620,Sumner town,Sumner,Sumner,29041,Chariton County,Incorporated place,39.656058,-93.243431,1
+MO,2971628,place:MO:2971628,Sundown CDP,Sundown,Sundown,29153,Ozark County,Census-designated place,36.559973,-92.643131,1
+MO,2971728,place:MO:2971728,Sunrise Beach village,Sunrise Beach,Sunrise Beach,29029,Camden County,Incorporated place,38.167149,-92.777244,1
+MO,2971746,place:MO:2971746,Sunset Hills city,Sunset Hills,Sunset Hills,29189,St. Louis County,Incorporated place,38.531246,-90.409285,1
+MO,2971890,place:MO:2971890,Sweet Springs city,Sweet Springs,Sweet Springs,29195,Saline County,Incorporated place,38.964279,-93.416504,1
+MO,2972034,place:MO:2972034,Sycamore Hills village,Sycamore Hills,Sycamore Hills,29189,St. Louis County,Incorporated place,38.701246,-90.349028,1
+MO,2972106,place:MO:2972106,Syracuse city,Syracuse,Syracuse,29141,Morgan County,Incorporated place,38.669568,-92.876329,1
+MO,2972196,place:MO:2972196,Tallapoosa city,Tallapoosa,Tallapoosa,29143,New Madrid County,Incorporated place,36.50606,-89.817,1
+MO,2972232,place:MO:2972232,Taneyville village,Taneyville,Taneyville,29213,Taney County,Incorporated place,36.73769,-93.03542,1
+MO,2972304,place:MO:2972304,Taos city,Taos,Taos,29051,Cole County,Incorporated place,38.500084,-92.092069,1
+MO,2972340,place:MO:2972340,Tarkio city,Tarkio,Tarkio,29005,Atchison County,Incorporated place,40.442988,-95.383516,1
+MO,2972376,place:MO:2972376,Tarrants village,Tarrants,Tarrants,29163,Pike County,Incorporated place,39.357609,-91.183704,1
+MO,2972412,place:MO:2972412,Tarsney Lakes CDP,Tarsney Lakes,Tarsney Lakes,29095,Jackson County,Census-designated place,38.950764,-94.205272,1
+MO,2972574,place:MO:2972574,Tebbetts CDP,Tebbetts,Tebbetts,29027,Callaway County,Census-designated place,38.617658,-91.956001,1
+MO,2972772,place:MO:2972772,Terre du Lac CDP,Terre du Lac,Terre du Lac,29187,St. Francois County,Census-designated place,37.904256,-90.618431,1
+MO,2972826,place:MO:2972826,Thayer city,Thayer,Thayer,29149,Oregon County,Incorporated place,36.522362,-91.540781,1
+MO,2972898,place:MO:2972898,Theodosia village,Theodosia,Theodosia,29153,Ozark County,Incorporated place,36.579889,-92.664568,1
+MO,2973006,place:MO:2973006,Thomasville CDP,Thomasville,Thomasville,29149,Oregon County,Census-designated place,36.790741,-91.533944,1
+MO,2973127,place:MO:2973127,Three Creeks village,Three Creeks,Three Creeks,29219,Warren County,Incorporated place,38.570032,-90.983015,1
+MO,2973240,place:MO:2973240,Tightwad village,Tightwad,Tightwad,29083,Henry County,Incorporated place,38.305763,-93.542298,1
+MO,2973330,place:MO:2973330,Tina village,Tina,Tina,29033,Carroll County,Incorporated place,39.537885,-93.441318,1
+MO,2973348,place:MO:2973348,Tindall town,Tindall,Tindall,29079,Grundy County,Incorporated place,40.160878,-93.609654,1
+MO,2973420,place:MO:2973420,Tipton city,Tipton,Tipton,29135,Moniteau County,Incorporated place,38.655059,-92.781266,1
+MO,2973618,place:MO:2973618,Town and Country city,Town and Country,Town and Country,29189,St. Louis County,Incorporated place,38.633094,-90.475763,1
+MO,2973690,place:MO:2973690,Tracy city,Tracy,Tracy,29165,Platte County,Incorporated place,39.377467,-94.791152,1
+MO,2973816,place:MO:2973816,Trenton city,Trenton,Trenton,29079,Grundy County,Incorporated place,40.081255,-93.602387,1
+MO,2973852,place:MO:2973852,Trimble city,Trimble,Trimble,29049,Clinton County,Incorporated place,39.475525,-94.56219,1
+MO,2973870,place:MO:2973870,Triplett city,Triplett,Triplett,29041,Chariton County,Incorporated place,39.498355,-93.19386,1
+MO,2973942,place:MO:2973942,Troy city,Troy,Troy,29113,Lincoln County,Incorporated place,38.969985,-90.967467,1
+MO,2973978,place:MO:2973978,Truesdale city,Truesdale,Truesdale,29219,Warren County,Incorporated place,38.813115,-91.12213,1
+MO,2974014,place:MO:2974014,Truxton village,Truxton,Truxton,29113,Lincoln County,Incorporated place,39.004591,-91.23897,1
+MO,2974176,place:MO:2974176,Turney village,Turney,Turney,29049,Clinton County,Incorporated place,39.637603,-94.321028,1
+MO,2974194,place:MO:2974194,Tuscumbia town,Tuscumbia,Tuscumbia,29131,Miller County,Incorporated place,38.237161,-92.460003,1
+MO,2974284,place:MO:2974284,Twin Oaks village,Twin Oaks,Twin Oaks,29189,St. Louis County,Incorporated place,38.565764,-90.500958,1
+MO,2974473,place:MO:2974473,Umber View Heights village,Umber View Heights,Umber View Heights,29039,Cedar County,Incorporated place,37.623402,-93.803555,1
+MO,2974626,place:MO:2974626,Union city,Union,Union,29071,Franklin County,Incorporated place,38.437828,-90.995782,1
+MO,2975130,place:MO:2975130,Union Star town,Union Star,Union Star,29063,DeKalb County,Incorporated place,39.979417,-94.598246,1
+MO,2975166,place:MO:2975166,Unionville city,Unionville,Unionville,29171,Putnam County,Incorporated place,40.475708,-93.004416,1
+MO,2975202,place:MO:2975202,Unity Village village,Unity Village,Unity Village,29095,Jackson County,Incorporated place,38.958952,-94.400935,1
+MO,2975220,place:MO:2975220,University City city,University City,University City,29189,St. Louis County,Incorporated place,38.665731,-90.331551,1
+MO,2975238,place:MO:2975238,Uplands Park village,Uplands Park,Uplands Park,29189,St. Louis County,Incorporated place,38.692709,-90.282849,1
+MO,2975310,place:MO:2975310,Urbana city,Urbana,Urbana,29059,Dallas County,Incorporated place,37.843534,-93.167662,1
+MO,2975346,place:MO:2975346,Urich city,Urich,Urich,29083,Henry County,Incorporated place,38.460417,-93.998985,1
+MO,2975364,place:MO:2975364,Utica village,Utica,Utica,29117,Livingston County,Incorporated place,39.745582,-93.6286,1
+MO,2975472,place:MO:2975472,Valley Park city,Valley Park,Valley Park,29189,St. Louis County,Incorporated place,38.550005,-90.495917,1
+MO,2975580,place:MO:2975580,Van Buren town,Van Buren,Van Buren,29035,Carter County,Incorporated place,37.014284,-91.007059,1
+MO,2975688,place:MO:2975688,Vandalia city,Vandalia,Vandalia,29007,Audrain County,Incorporated place,39.308127,-91.489488,1
+MO,2975706,place:MO:2975706,Vandiver village,Vandiver,Vandiver,29007,Audrain County,Incorporated place,39.160809,-91.84661,1
+MO,2975724,place:MO:2975724,Vanduser village,Vanduser,Vanduser,29201,Scott County,Incorporated place,36.991087,-89.686417,1
+MO,2975796,place:MO:2975796,Velda City city,Velda City,Velda City,29189,St. Louis County,Incorporated place,38.694105,-90.293443,1
+MO,2975814,place:MO:2975814,Velda Village Hills city,Velda Village Hills,Velda Village Hills,29189,St. Louis County,Incorporated place,38.69216,-90.287661,1
+MO,2975886,place:MO:2975886,Verona town,Verona,Verona,29109,Lawrence County,Incorporated place,36.962128,-93.790675,1
+MO,2975922,place:MO:2975922,Versailles city,Versailles,Versailles,29141,Morgan County,Incorporated place,38.433449,-92.846034,1
+MO,2975994,place:MO:2975994,Vibbard CDP,Vibbard,Vibbard,29177,Ray County,Census-designated place,39.387493,-94.144139,1
+MO,2976012,place:MO:2976012,Viburnum city,Viburnum,Viburnum,29093,Iron County,Incorporated place,37.715059,-91.130767,1
+MO,2976102,place:MO:2976102,Vienna city,Vienna,Vienna,29125,Maries County,Incorporated place,38.188045,-91.950952,1
+MO,2976192,place:MO:2976192,Villa Ridge CDP,Villa Ridge,Villa Ridge,29071,Franklin County,Census-designated place,38.465699,-90.882348,1
+MO,2976157,place:MO:2976157,Village of Four Seasons village,Village of Four Seasons,Village of Four Seasons,29029,Camden County,Incorporated place,38.196203,-92.713614,1
+MO,2976246,place:MO:2976246,Vinita Park city,Vinita Park,Vinita Park,29189,St. Louis County,Incorporated place,38.688789,-90.33922,1
+MO,2976390,place:MO:2976390,Vista village,Vista,Vista,29185,St. Clair County,Incorporated place,37.988826,-93.664195,1
+MO,2976444,place:MO:2976444,Waco city,Waco,Waco,29097,Jasper County,Incorporated place,37.246952,-94.600279,1
+MO,2976660,place:MO:2976660,Walker city,Walker,Walker,29217,Vernon County,Incorporated place,37.898872,-94.231062,1
+MO,2976840,place:MO:2976840,Walnut Grove city,Walnut Grove,Walnut Grove,29077,Greene County,Incorporated place,37.411233,-93.547976,1
+MO,2976966,place:MO:2976966,Wardell town,Wardell,Wardell,29155,Pemiscot County,Incorporated place,36.353808,-89.815302,1
+MO,2977002,place:MO:2977002,Wardsville village,Wardsville,Wardsville,29051,Cole County,Incorporated place,38.492023,-92.182546,1
+MO,2977092,place:MO:2977092,Warrensburg city,Warrensburg,Warrensburg,29101,Johnson County,Incorporated place,38.761267,-93.717581,1
+MO,2977128,place:MO:2977128,Warrenton city,Warrenton,Warrenton,29219,Warren County,Incorporated place,38.819056,-91.137933,1
+MO,2977146,place:MO:2977146,Warsaw city,Warsaw,Warsaw,29015,Benton County,Incorporated place,38.248858,-93.367038,1
+MO,2977182,place:MO:2977182,Warson Woods city,Warson Woods,Warson Woods,29189,St. Louis County,Incorporated place,38.606827,-90.39125,1
+MO,2977200,place:MO:2977200,Washburn city,Washburn,Washburn,29009,Barry County,Incorporated place,36.588812,-93.965698,1
+MO,2977416,place:MO:2977416,Washington city,Washington,Washington,29071,Franklin County,Incorporated place,38.551919,-91.015491,1
+MO,2977794,place:MO:2977794,Wasola CDP,Wasola,Wasola,29153,Ozark County,Census-designated place,36.778227,-92.567454,1
+MO,2977848,place:MO:2977848,Watson village,Watson,Watson,29005,Atchison County,Incorporated place,40.479906,-95.62348,1
+MO,2977866,place:MO:2977866,Waverly city,Waverly,Waverly,29107,Lafayette County,Incorporated place,39.207007,-93.518133,1
+MO,2977920,place:MO:2977920,Wayland city,Wayland,Wayland,29045,Clark County,Incorporated place,40.396301,-91.575443,1
+MO,2977992,place:MO:2977992,Waynesville city,Waynesville,Waynesville,29169,Pulaski County,Incorporated place,37.819832,-92.221403,1
+MO,2978028,place:MO:2978028,Weatherby town,Weatherby,Weatherby,29063,DeKalb County,Incorporated place,39.909263,-94.242172,1
+MO,2978046,place:MO:2978046,Weatherby Lake city,Weatherby Lake,Weatherby Lake,29165,Platte County,Incorporated place,39.234359,-94.696135,1
+MO,2978064,place:MO:2978064,Weaubleau city,Weaubleau,Weaubleau,29085,Hickory County,Incorporated place,37.891207,-93.539457,1
+MO,2978118,place:MO:2978118,Webb City city,Webb City,Webb City,29097,Jasper County,Incorporated place,37.141275,-94.467627,1
+MO,2978154,place:MO:2978154,Webster Groves city,Webster Groves,Webster Groves,29189,St. Louis County,Incorporated place,38.586595,-90.354421,1
+MO,2978226,place:MO:2978226,Weingarten CDP,Weingarten,Weingarten,29186,Ste. Genevieve County,Census-designated place,37.889384,-90.217272,1
+MO,2978314,place:MO:2978314,Weldon Spring city,Weldon Spring,Weldon Spring,29183,St. Charles County,Incorporated place,38.709381,-90.652536,1
+MO,2978334,place:MO:2978334,Weldon Spring Heights town,Weldon Spring Heights,Weldon Spring Heights,29183,St. Charles County,Incorporated place,38.704287,-90.685303,1
+MO,2978352,place:MO:2978352,Wellington city,Wellington,Wellington,29107,Lafayette County,Incorporated place,39.14218,-93.985952,1
+MO,2978370,place:MO:2978370,Wellston city,Wellston,Wellston,29189,St. Louis County,Incorporated place,38.674976,-90.294036,1
+MO,2978406,place:MO:2978406,Wellsville city,Wellsville,Wellsville,29139,Montgomery County,Incorporated place,39.073202,-91.568904,1
+MO,2978424,place:MO:2978424,Wentworth village,Wentworth,Wentworth,29145,Newton County,Incorporated place,36.993218,-94.075485,1
+MO,2978442,place:MO:2978442,Wentzville city,Wentzville,Wentzville,29183,St. Charles County,Incorporated place,38.816374,-90.867024,1
+MO,2978514,place:MO:2978514,West Alton city,West Alton,West Alton,29183,St. Charles County,Incorporated place,38.862917,-90.204069,1
+MO,2978838,place:MO:2978838,West Line village,West Line,West Line,29037,Cass County,Incorporated place,38.635748,-94.586958,1
+MO,2978928,place:MO:2978928,West Plains city,West Plains,West Plains,29091,Howell County,Incorporated place,36.73743,-91.867957,1
+MO,2979000,place:MO:2979000,West Sullivan town,West Sullivan,West Sullivan,29055,Crawford County,Incorporated place,38.191966,-91.19172,1
+MO,2978622,place:MO:2978622,Westboro city,Westboro,Westboro,29005,Atchison County,Incorporated place,40.53505,-95.321106,1
+MO,2978856,place:MO:2978856,Weston city,Weston,Weston,29165,Platte County,Incorporated place,39.404115,-94.891263,1
+MO,2978910,place:MO:2978910,Westphalia city,Westphalia,Westphalia,29151,Osage County,Incorporated place,38.441452,-91.998657,1
+MO,2979054,place:MO:2979054,Westwood village,Westwood,Westwood,29189,St. Louis County,Incorporated place,38.643489,-90.433486,1
+MO,2979090,place:MO:2979090,Wheatland city,Wheatland,Wheatland,29085,Hickory County,Incorporated place,37.937928,-93.395021,1
+MO,2979126,place:MO:2979126,Wheaton city,Wheaton,Wheaton,29009,Barry County,Incorporated place,36.761423,-94.056836,1
+MO,2979180,place:MO:2979180,Wheeling city,Wheeling,Wheeling,29117,Livingston County,Incorporated place,39.786065,-93.386011,1
+MO,2979288,place:MO:2979288,White Branch CDP,White Branch,White Branch,29015,Benton County,Census-designated place,38.230557,-93.353461,1
+MO,2979468,place:MO:2979468,White Oak CDP,White Oak,White Oak,29069,Dunklin County,Census-designated place,36.329985,-90.027582,1
+MO,2979432,place:MO:2979432,Whiteman AFB CDP,Whiteman AFB,Whiteman AFB,29101,Johnson County,Census-designated place,38.730555,-93.549894,1
+MO,2979558,place:MO:2979558,Whiteside village,Whiteside,Whiteside,29113,Lincoln County,Incorporated place,39.183969,-91.01553,1
+MO,2979612,place:MO:2979612,Whitewater town,Whitewater,Whitewater,29031,Cape Girardeau County,Incorporated place,37.236766,-89.797842,1
+MO,2979684,place:MO:2979684,Whiting CDP,Whiting,Whiting,29133,Mississippi County,Census-designated place,36.792072,-89.371559,1
+MO,2979756,place:MO:2979756,Wilbur Park village,Wilbur Park,Wilbur Park,29189,St. Louis County,Incorporated place,38.55319,-90.308732,1
+MO,2979820,place:MO:2979820,Wildwood city,Wildwood,Wildwood,29189,St. Louis County,Incorporated place,38.576902,-90.667633,1
+MO,2979882,place:MO:2979882,Willard city,Willard,Willard,29077,Greene County,Incorporated place,37.292995,-93.417061,1
+MO,2980008,place:MO:2980008,Williamstown CDP,Williamstown,Williamstown,29111,Lewis County,Census-designated place,40.240837,-91.797619,1
+MO,2980026,place:MO:2980026,Williamsville city,Williamsville,Williamsville,29223,Wayne County,Incorporated place,36.973654,-90.547828,1
+MO,2980098,place:MO:2980098,Willow Springs city,Willow Springs,Willow Springs,29091,Howell County,Incorporated place,36.986752,-91.961551,1
+MO,2980260,place:MO:2980260,Wilson City village,Wilson City,Wilson City,29133,Mississippi County,Incorporated place,36.923591,-89.223016,1
+MO,2980314,place:MO:2980314,Winchester city,Winchester,Winchester,29189,St. Louis County,Incorporated place,38.58958,-90.526221,1
+MO,2980350,place:MO:2980350,Windsor city,Windsor,Windsor,29083,Henry County,Incorporated place,38.532265,-93.522945,1
+MO,2980380,place:MO:2980380,Windsor Place village,Windsor Place,Windsor Place,29053,Cooper County,Incorporated place,38.934258,-92.703119,1
+MO,2980422,place:MO:2980422,Winfield city,Winfield,Winfield,29113,Lincoln County,Incorporated place,38.993114,-90.747526,1
+MO,2980440,place:MO:2980440,Winigan CDP,Winigan,Winigan,29211,Sullivan County,Census-designated place,40.046873,-92.89827,1
+MO,2980512,place:MO:2980512,Winona city,Winona,Winona,29203,Shannon County,Incorporated place,37.004151,-91.326962,1
+MO,2980548,place:MO:2980548,Winston village,Winston,Winston,29061,Daviess County,Incorporated place,39.86973,-94.141598,1
+MO,2980767,place:MO:2980767,Wood Heights city,Wood Heights,Wood Heights,29177,Ray County,Incorporated place,39.341727,-94.163048,1
+MO,2980962,place:MO:2980962,Woodson Terrace city,Woodson Terrace,Woodson Terrace,29189,St. Louis County,Incorporated place,38.728606,-90.360035,1
+MO,2981016,place:MO:2981016,Wooldridge village,Wooldridge,Wooldridge,29053,Cooper County,Incorporated place,38.906559,-92.521405,1
+MO,2981070,place:MO:2981070,Worth village,Worth,Worth,29227,Worth County,Incorporated place,40.404522,-94.446506,1
+MO,2981088,place:MO:2981088,Wortham CDP,Wortham,Wortham,29187,St. Francois County,Census-designated place,37.839749,-90.603497,1
+MO,2981106,place:MO:2981106,Worthington village,Worthington,Worthington,29171,Putnam County,Incorporated place,40.408501,-92.689255,1
+MO,2981124,place:MO:2981124,Wright City city,Wright City,Wright City,29219,Warren County,Incorporated place,38.832209,-91.035817,1
+MO,2981142,place:MO:2981142,Wyaconda city,Wyaconda,Wyaconda,29045,Clark County,Incorporated place,40.392187,-91.926118,1
+MO,2981178,place:MO:2981178,Wyatt city,Wyatt,Wyatt,29133,Mississippi County,Incorporated place,36.960331,-89.169548,1
+MO,2981430,place:MO:2981430,Zalma CDP,Zalma,Zalma,29017,Bollinger County,Census-designated place,37.142766,-90.081661,1

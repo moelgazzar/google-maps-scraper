@@ -1,0 +1,594 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+NE,3100205,place:NE:3100205,Abie village,Abie,Abie,31023,Butler County,Incorporated place,41.334104,-96.949747,1
+NE,3100240,place:NE:3100240,Adams village,Adams,Adams,31067,Gage County,Incorporated place,40.459011,-96.507363,1
+NE,3100380,place:NE:3100380,Agnew CDP,Agnew,Agnew,31109,Lancaster County,Census-designated place,41.014234,-96.81427,1
+NE,3100415,place:NE:3100415,Ainsworth city,Ainsworth,Ainsworth,31017,Brown County,Incorporated place,42.548439,-99.857522,1
+NE,3100555,place:NE:3100555,Albion city,Albion,Albion,31011,Boone County,Incorporated place,41.687988,-97.999694,1
+NE,3100625,place:NE:3100625,Alda village,Alda,Alda,31079,Hall County,Incorporated place,40.866567,-98.46805,1
+NE,3100730,place:NE:3100730,Alexandria village,Alexandria,Alexandria,31169,Thayer County,Incorporated place,40.247547,-97.387838,1
+NE,3100870,place:NE:3100870,Allen village,Allen,Allen,31051,Dixon County,Incorporated place,42.414434,-96.843209,1
+NE,3100905,place:NE:3100905,Alliance city,Alliance,Alliance,31013,Box Butte County,Incorporated place,42.102553,-102.876885,1
+NE,3100975,place:NE:3100975,Alma city,Alma,Alma,31083,Harlan County,Incorporated place,40.103463,-99.365616,1
+NE,3101150,place:NE:3101150,Alvo village,Alvo,Alvo,31025,Cass County,Incorporated place,40.872198,-96.386539,1
+NE,3101220,place:NE:3101220,Ames CDP,Ames,Ames,31053,Dodge County,Census-designated place,41.448501,-96.62628,1
+NE,3101290,place:NE:3101290,Amherst village,Amherst,Amherst,31019,Buffalo County,Incorporated place,40.838372,-99.269509,1
+NE,3101465,place:NE:3101465,Anoka village,Anoka,Anoka,31015,Boyd County,Incorporated place,42.946,-98.828529,1
+NE,3101500,place:NE:3101500,Anselmo village,Anselmo,Anselmo,31041,Custer County,Incorporated place,41.618581,-99.864577,1
+NE,3101535,place:NE:3101535,Ansley village,Ansley,Ansley,31041,Custer County,Incorporated place,41.287315,-99.382521,1
+NE,3101780,place:NE:3101780,Arapahoe city,Arapahoe,Arapahoe,31065,Furnas County,Incorporated place,40.305124,-99.897977,1
+NE,3101850,place:NE:3101850,Arcadia village,Arcadia,Arcadia,31175,Valley County,Incorporated place,41.424823,-99.126062,1
+NE,3101920,place:NE:3101920,Archer CDP,Archer,Archer,31121,Merrick County,Census-designated place,41.166629,-98.138864,1
+NE,3101990,place:NE:3101990,Arlington village,Arlington,Arlington,31177,Washington County,Incorporated place,41.454854,-96.356526,1
+NE,3102095,place:NE:3102095,Arnold village,Arnold,Arnold,31041,Custer County,Incorporated place,41.423244,-100.193561,1
+NE,3102200,place:NE:3102200,Arthur village,Arthur,Arthur,31005,Arthur County,Incorporated place,41.571866,-101.692263,1
+NE,3102305,place:NE:3102305,Ashland city,Ashland,Ashland,31155,Saunders County,Incorporated place,41.04035,-96.371339,1
+NE,3102375,place:NE:3102375,Ashton village,Ashton,Ashton,31163,Sherman County,Incorporated place,41.247748,-98.795147,1
+NE,3102480,place:NE:3102480,Aten CDP,Aten,Aten,31027,Cedar County,Census-designated place,42.836736,-97.44081,1
+NE,3102550,place:NE:3102550,Atkinson city,Atkinson,Atkinson,31089,Holt County,Incorporated place,42.530868,-98.974728,1
+NE,3102620,place:NE:3102620,Atlanta village,Atlanta,Atlanta,31137,Phelps County,Incorporated place,40.368409,-99.473223,1
+NE,3102655,place:NE:3102655,Auburn city,Auburn,Auburn,31127,Nemaha County,Incorporated place,40.389384,-95.843601,1
+NE,3102690,place:NE:3102690,Aurora city,Aurora,Aurora,31081,Hamilton County,Incorporated place,40.863867,-98.006966,1
+NE,3102795,place:NE:3102795,Avoca village,Avoca,Avoca,31025,Cass County,Incorporated place,40.795851,-96.119894,1
+NE,3102830,place:NE:3102830,Axtell village,Axtell,Axtell,31099,Kearney County,Incorporated place,40.479845,-99.129248,1
+NE,3102865,place:NE:3102865,Ayr village,Ayr,Ayr,31001,Adams County,Incorporated place,40.437809,-98.440943,1
+NE,3103005,place:NE:3103005,Bancroft village,Bancroft,Bancroft,31039,Cuming County,Incorporated place,42.010439,-96.573486,1
+NE,3103040,place:NE:3103040,Barada village,Barada,Barada,31147,Richardson County,Incorporated place,40.21846,-95.5778,1
+NE,3103075,place:NE:3103075,Barneston village,Barneston,Barneston,31067,Gage County,Incorporated place,40.048697,-96.573598,1
+NE,3103145,place:NE:3103145,Bartlett village,Bartlett,Bartlett,31183,Wheeler County,Incorporated place,41.883933,-98.552565,1
+NE,3103180,place:NE:3103180,Bartley village,Bartley,Bartley,31145,Red Willow County,Incorporated place,40.251122,-100.310428,1
+NE,3103215,place:NE:3103215,Bassett city,Bassett,Bassett,31149,Rock County,Incorporated place,42.582541,-99.536625,1
+NE,3103250,place:NE:3103250,Battle Creek city,Battle Creek,Battle Creek,31119,Madison County,Incorporated place,41.998119,-97.599465,1
+NE,3103285,place:NE:3103285,Bayard city,Bayard,Bayard,31123,Morrill County,Incorporated place,41.757193,-103.323015,1
+NE,3103355,place:NE:3103355,Bazile Mills village,Bazile Mills,Bazile Mills,31107,Knox County,Incorporated place,42.512436,-97.908329,1
+NE,3103377,place:NE:3103377,Beacon View CDP,Beacon View,Beacon View,31153,Sarpy County,Census-designated place,41.071193,-96.326474,1
+NE,3103390,place:NE:3103390,Beatrice city,Beatrice,Beatrice,31067,Gage County,Incorporated place,40.273281,-96.745954,1
+NE,3103495,place:NE:3103495,Beaver City city,Beaver City,Beaver City,31065,Furnas County,Incorporated place,40.138246,-99.828444,1
+NE,3103530,place:NE:3103530,Beaver Crossing village,Beaver Crossing,Beaver Crossing,31159,Seward County,Incorporated place,40.777916,-97.282465,1
+NE,3103546,place:NE:3103546,Beaver Lake CDP,Beaver Lake,Beaver Lake,31025,Cass County,Census-designated place,40.921344,-95.885527,0
+NE,3103600,place:NE:3103600,Bee village,Bee,Bee,31159,Seward County,Incorporated place,41.00641,-97.058268,1
+NE,3103635,place:NE:3103635,Beemer village,Beemer,Beemer,31039,Cuming County,Incorporated place,41.929765,-96.809123,1
+NE,3103775,place:NE:3103775,Belden village,Belden,Belden,31027,Cedar County,Incorporated place,42.411678,-97.207406,1
+NE,3103810,place:NE:3103810,Belgrade village,Belgrade,Belgrade,31125,Nance County,Incorporated place,41.470955,-98.067784,1
+NE,3103950,place:NE:3103950,Bellevue city,Bellevue,Bellevue,31153,Sarpy County,Incorporated place,41.144659,-95.938505,1
+NE,3104020,place:NE:3104020,Bellwood village,Bellwood,Bellwood,31023,Butler County,Incorporated place,41.341897,-97.239856,1
+NE,3104055,place:NE:3104055,Belmar CDP,Belmar,Belmar,31101,Keith County,Census-designated place,41.305457,-101.934626,1
+NE,3104160,place:NE:3104160,Belvidere village,Belvidere,Belvidere,31169,Thayer County,Incorporated place,40.254697,-97.557415,1
+NE,3104195,place:NE:3104195,Benedict village,Benedict,Benedict,31185,York County,Incorporated place,41.006259,-97.607136,1
+NE,3104230,place:NE:3104230,Benkelman city,Benkelman,Benkelman,31057,Dundy County,Incorporated place,40.046826,-101.540193,1
+NE,3104300,place:NE:3104300,Bennet village,Bennet,Bennet,31109,Lancaster County,Incorporated place,40.681727,-96.503932,1
+NE,3104405,place:NE:3104405,Bennington city,Bennington,Bennington,31055,Douglas County,Incorporated place,41.367632,-96.161684,1
+NE,3104545,place:NE:3104545,Berea CDP,Berea,Berea,31013,Box Butte County,Census-designated place,42.212279,-102.982984,1
+NE,3104615,place:NE:3104615,Bertrand village,Bertrand,Bertrand,31137,Phelps County,Incorporated place,40.526313,-99.632362,1
+NE,3104650,place:NE:3104650,Berwyn village,Berwyn,Berwyn,31041,Custer County,Incorporated place,41.350852,-99.50061,1
+NE,3104895,place:NE:3104895,Big Springs village,Big Springs,Big Springs,31049,Deuel County,Incorporated place,41.060902,-102.074466,1
+NE,3105140,place:NE:3105140,Bladen village,Bladen,Bladen,31181,Webster County,Incorporated place,40.323444,-98.59588,1
+NE,3105350,place:NE:3105350,Blair city,Blair,Blair,31177,Washington County,Incorporated place,41.538287,-96.136982,1
+NE,3105455,place:NE:3105455,Bloomfield city,Bloomfield,Bloomfield,31107,Knox County,Incorporated place,42.598412,-97.648138,1
+NE,3105490,place:NE:3105490,Bloomington village,Bloomington,Bloomington,31061,Franklin County,Incorporated place,40.093791,-99.038389,1
+NE,3105560,place:NE:3105560,Blue Hill city,Blue Hill,Blue Hill,31181,Webster County,Incorporated place,40.333065,-98.448403,1
+NE,3105630,place:NE:3105630,Blue Springs city,Blue Springs,Blue Springs,31067,Gage County,Incorporated place,40.137192,-96.662835,1
+NE,3105980,place:NE:3105980,Bow Valley CDP,Bow Valley,Bow Valley,31027,Cedar County,Census-designated place,42.715424,-97.252206,1
+NE,3106015,place:NE:3106015,Boys Town village,Boys Town,Boys Town,31055,Douglas County,Incorporated place,41.254607,-96.123884,1
+NE,3106050,place:NE:3106050,Bradshaw village,Bradshaw,Bradshaw,31185,York County,Incorporated place,40.883465,-97.746856,1
+NE,3106085,place:NE:3106085,Brady village,Brady,Brady,31111,Lincoln County,Incorporated place,41.02229,-100.367563,1
+NE,3106120,place:NE:3106120,Brainard village,Brainard,Brainard,31023,Butler County,Incorporated place,41.181711,-97.002252,1
+NE,3106260,place:NE:3106260,Brewster village,Brewster,Brewster,31009,Blaine County,Incorporated place,41.938271,-99.864985,1
+NE,3106295,place:NE:3106295,Bridgeport city,Bridgeport,Bridgeport,31123,Morrill County,Incorporated place,41.664707,-103.097142,1
+NE,3106400,place:NE:3106400,Bristow village,Bristow,Bristow,31015,Boyd County,Incorporated place,42.840777,-98.583307,1
+NE,3106470,place:NE:3106470,Broadwater village,Broadwater,Broadwater,31123,Morrill County,Incorporated place,41.597982,-102.852454,1
+NE,3106505,place:NE:3106505,Brock village,Brock,Brock,31127,Nemaha County,Incorporated place,40.480475,-95.960053,1
+NE,3106610,place:NE:3106610,Broken Bow city,Broken Bow,Broken Bow,31041,Custer County,Incorporated place,41.405188,-99.640758,1
+NE,3106680,place:NE:3106680,Brownlee CDP,Brownlee,Brownlee,31031,Cherry County,Census-designated place,42.289207,-100.624178,1
+NE,3106750,place:NE:3106750,Brownville village,Brownville,Brownville,31127,Nemaha County,Incorporated place,40.397617,-95.661086,1
+NE,3106785,place:NE:3106785,Brule village,Brule,Brule,31101,Keith County,Incorporated place,41.094699,-101.888506,1
+NE,3106820,place:NE:3106820,Bruning village,Bruning,Bruning,31169,Thayer County,Incorporated place,40.335167,-97.565572,1
+NE,3106855,place:NE:3106855,Bruno village,Bruno,Bruno,31023,Butler County,Incorporated place,41.28304,-96.960927,1
+NE,3106890,place:NE:3106890,Brunswick village,Brunswick,Brunswick,31003,Antelope County,Incorporated place,42.337705,-97.971758,1
+NE,3106945,place:NE:3106945,Buccaneer Bay CDP,Buccaneer Bay,Buccaneer Bay,31025,Cass County,Census-designated place,41.04939,-95.96576,0
+NE,3107065,place:NE:3107065,Burchard village,Burchard,Burchard,31133,Pawnee County,Incorporated place,40.149323,-96.34859,1
+NE,3107205,place:NE:3107205,Burr village,Burr,Burr,31131,Otoe County,Incorporated place,40.535947,-96.299775,1
+NE,3107310,place:NE:3107310,Burton village,Burton,Burton,31103,Keya Paha County,Incorporated place,42.911927,-99.591852,1
+NE,3107345,place:NE:3107345,Burwell city,Burwell,Burwell,31071,Garfield County,Incorporated place,41.780044,-99.134214,1
+NE,3107415,place:NE:3107415,Bushnell village,Bushnell,Bushnell,31105,Kimball County,Incorporated place,41.232729,-103.891125,1
+NE,3107485,place:NE:3107485,Butte village,Butte,Butte,31015,Boyd County,Incorporated place,42.91298,-98.847362,1
+NE,3107555,place:NE:3107555,Byron village,Byron,Byron,31169,Thayer County,Incorporated place,40.004717,-97.768771,1
+NE,3107625,place:NE:3107625,Cairo village,Cairo,Cairo,31079,Hall County,Incorporated place,41.004776,-98.600552,1
+NE,3107660,place:NE:3107660,Callaway village,Callaway,Callaway,31041,Custer County,Incorporated place,41.291446,-99.920312,1
+NE,3107730,place:NE:3107730,Cambridge city,Cambridge,Cambridge,31065,Furnas County,Incorporated place,40.284302,-100.1658,1
+NE,3107870,place:NE:3107870,Campbell village,Campbell,Campbell,31061,Franklin County,Incorporated place,40.296339,-98.731522,1
+NE,3107975,place:NE:3107975,Carleton village,Carleton,Carleton,31169,Thayer County,Incorporated place,40.30328,-97.68364,1
+NE,3108010,place:NE:3108010,Carroll village,Carroll,Carroll,31179,Wayne County,Incorporated place,42.275777,-97.190902,1
+NE,3108150,place:NE:3108150,Cedar Bluffs village,Cedar Bluffs,Cedar Bluffs,31155,Saunders County,Incorporated place,41.397119,-96.609756,1
+NE,3108185,place:NE:3108185,Cedar Creek village,Cedar Creek,Cedar Creek,31025,Cass County,Incorporated place,41.044529,-96.100396,1
+NE,3108220,place:NE:3108220,Cedar Rapids village,Cedar Rapids,Cedar Rapids,31011,Boone County,Incorporated place,41.558862,-98.149577,1
+NE,3108360,place:NE:3108360,Center village,Center,Center,31107,Knox County,Incorporated place,42.608974,-97.876225,1
+NE,3108535,place:NE:3108535,Central City city,Central City,Central City,31121,Merrick County,Incorporated place,41.113043,-98.000335,1
+NE,3108570,place:NE:3108570,Ceresco village,Ceresco,Ceresco,31155,Saunders County,Incorporated place,41.057704,-96.645739,1
+NE,3108605,place:NE:3108605,Chadron city,Chadron,Chadron,31045,Dawes County,Incorporated place,42.825975,-103.002478,1
+NE,3108640,place:NE:3108640,Chalco CDP,Chalco,Chalco,31153,Sarpy County,Census-designated place,41.18237,-96.135353,1
+NE,3108675,place:NE:3108675,Chambers village,Chambers,Chambers,31089,Holt County,Incorporated place,42.204733,-98.748606,1
+NE,3108745,place:NE:3108745,Champion CDP,Champion,Champion,31029,Chase County,Census-designated place,40.470854,-101.744895,1
+NE,3108780,place:NE:3108780,Chapman village,Chapman,Chapman,31121,Merrick County,Incorporated place,41.023278,-98.159385,1
+NE,3108885,place:NE:3108885,Chappell city,Chappell,Chappell,31049,Deuel County,Incorporated place,41.0913,-102.469938,1
+NE,3108990,place:NE:3108990,Cheney CDP,Cheney,Cheney,31109,Lancaster County,Census-designated place,40.726041,-96.593604,1
+NE,3109095,place:NE:3109095,Chester village,Chester,Chester,31169,Thayer County,Incorporated place,40.010215,-97.618092,1
+NE,3109165,place:NE:3109165,Clarks village,Clarks,Clarks,31121,Merrick County,Incorporated place,41.21627,-97.839487,1
+NE,3109200,place:NE:3109200,Clarkson city,Clarkson,Clarkson,31037,Colfax County,Incorporated place,41.723424,-97.12152,1
+NE,3109270,place:NE:3109270,Clatonia village,Clatonia,Clatonia,31067,Gage County,Incorporated place,40.465345,-96.85113,1
+NE,3109375,place:NE:3109375,Clay Center city,Clay Center,Clay Center,31035,Clay County,Incorporated place,40.525471,-98.054996,1
+NE,3109445,place:NE:3109445,Clearwater village,Clearwater,Clearwater,31003,Antelope County,Incorporated place,42.170363,-98.189457,1
+NE,3109655,place:NE:3109655,Clinton village,Clinton,Clinton,31161,Sheridan County,Incorporated place,42.75972,-102.347883,1
+NE,3109760,place:NE:3109760,Cody village,Cody,Cody,31031,Cherry County,Incorporated place,42.937746,-101.248928,1
+NE,3109865,place:NE:3109865,Coleridge village,Coleridge,Coleridge,31027,Cedar County,Incorporated place,42.506409,-97.203078,1
+NE,3110005,place:NE:3110005,Colon village,Colon,Colon,31155,Saunders County,Incorporated place,41.298119,-96.607335,1
+NE,3110110,place:NE:3110110,Columbus city,Columbus,Columbus,31141,Platte County,Incorporated place,41.437087,-97.358615,1
+NE,3110180,place:NE:3110180,Comstock village,Comstock,Comstock,31041,Custer County,Incorporated place,41.557197,-99.243008,1
+NE,3110250,place:NE:3110250,Concord village,Concord,Concord,31051,Dixon County,Incorporated place,42.384172,-96.989293,1
+NE,3110390,place:NE:3110390,Cook village,Cook,Cook,31097,Johnson County,Incorporated place,40.510575,-96.161637,1
+NE,3110495,place:NE:3110495,Cordova village,Cordova,Cordova,31159,Seward County,Incorporated place,40.716373,-97.351602,1
+NE,3110600,place:NE:3110600,Cornlea village,Cornlea,Cornlea,31141,Platte County,Incorporated place,41.680049,-97.566904,1
+NE,3110635,place:NE:3110635,Cortland village,Cortland,Cortland,31067,Gage County,Incorporated place,40.505969,-96.706046,1
+NE,3110740,place:NE:3110740,Cotesfield village,Cotesfield,Cotesfield,31093,Howard County,Incorporated place,41.35757,-98.633605,1
+NE,3110985,place:NE:3110985,Cowles village,Cowles,Cowles,31181,Webster County,Incorporated place,40.1714,-98.449019,1
+NE,3111020,place:NE:3111020,Cozad city,Cozad,Cozad,31047,Dawson County,Incorporated place,40.861301,-99.986366,1
+NE,3111055,place:NE:3111055,Crab Orchard village,Crab Orchard,Crab Orchard,31097,Johnson County,Incorporated place,40.334652,-96.422437,1
+NE,3111090,place:NE:3111090,Craig village,Craig,Craig,31021,Burt County,Incorporated place,41.785262,-96.362433,1
+NE,3111195,place:NE:3111195,Crawford city,Crawford,Crawford,31045,Dawes County,Incorporated place,42.684566,-103.415996,1
+NE,3111230,place:NE:3111230,Creighton city,Creighton,Creighton,31107,Knox County,Incorporated place,42.464857,-97.907146,1
+NE,3111300,place:NE:3111300,Creston village,Creston,Creston,31141,Platte County,Incorporated place,41.707979,-97.362655,1
+NE,3111370,place:NE:3111370,Crete city,Crete,Crete,31151,Saline County,Incorporated place,40.624769,-96.952498,1
+NE,3111440,place:NE:3111440,Crofton city,Crofton,Crofton,31107,Knox County,Incorporated place,42.731613,-97.498608,1
+NE,3111475,place:NE:3111475,Crookston village,Crookston,Crookston,31031,Cherry County,Incorporated place,42.926311,-100.753435,1
+NE,3111615,place:NE:3111615,Culbertson village,Culbertson,Culbertson,31087,Hitchcock County,Incorporated place,40.2242,-100.83964,1
+NE,3111825,place:NE:3111825,Curtis city,Curtis,Curtis,31063,Frontier County,Incorporated place,40.633562,-100.511262,1
+NE,3111860,place:NE:3111860,Cushing village,Cushing,Cushing,31093,Howard County,Incorporated place,41.294827,-98.369257,1
+NE,3112000,place:NE:3112000,Dakota City city,Dakota City,Dakota City,31043,Dakota County,Incorporated place,42.418115,-96.420744,1
+NE,3112070,place:NE:3112070,Dalton village,Dalton,Dalton,31033,Cheyenne County,Incorporated place,41.408231,-102.970777,1
+NE,3112105,place:NE:3112105,Danbury village,Danbury,Danbury,31145,Red Willow County,Incorporated place,40.037706,-100.405108,1
+NE,3112140,place:NE:3112140,Dannebrog village,Dannebrog,Dannebrog,31093,Howard County,Incorporated place,41.118605,-98.545735,1
+NE,3112245,place:NE:3112245,Davenport village,Davenport,Davenport,31169,Thayer County,Incorporated place,40.312388,-97.811355,1
+NE,3112280,place:NE:3112280,Davey village,Davey,Davey,31109,Lancaster County,Incorporated place,40.983769,-96.669157,1
+NE,3112315,place:NE:3112315,David City city,David City,David City,31023,Butler County,Incorporated place,41.253325,-97.126433,1
+NE,3112420,place:NE:3112420,Dawson village,Dawson,Dawson,31147,Richardson County,Incorporated place,40.130886,-95.830079,1
+NE,3112455,place:NE:3112455,Daykin village,Daykin,Daykin,31095,Jefferson County,Incorporated place,40.32172,-97.298328,1
+NE,3113015,place:NE:3113015,De Witt village,De Witt,De Witt,31151,Saline County,Incorporated place,40.394888,-96.921794,1
+NE,3112525,place:NE:3112525,Decatur village,Decatur,Decatur,31021,Burt County,Incorporated place,42.005886,-96.248312,1
+NE,3112770,place:NE:3112770,Denton village,Denton,Denton,31109,Lancaster County,Incorporated place,40.739248,-96.845973,1
+NE,3112840,place:NE:3112840,Deshler city,Deshler,Deshler,31169,Thayer County,Incorporated place,40.139897,-97.723657,1
+NE,3112945,place:NE:3112945,Deweese village,Deweese,Deweese,31035,Clay County,Incorporated place,40.354731,-98.13916,1
+NE,3113085,place:NE:3113085,Diller village,Diller,Diller,31095,Jefferson County,Incorporated place,40.108765,-96.93783,1
+NE,3113190,place:NE:3113190,Dix village,Dix,Dix,31105,Kimball County,Incorporated place,41.23428,-103.486672,1
+NE,3113225,place:NE:3113225,Dixon village,Dixon,Dixon,31051,Dixon County,Incorporated place,42.415408,-96.994834,1
+NE,3113295,place:NE:3113295,Dodge village,Dodge,Dodge,31053,Dodge County,Incorporated place,41.721815,-96.880385,1
+NE,3113365,place:NE:3113365,Doniphan village,Doniphan,Doniphan,31079,Hall County,Incorporated place,40.774465,-98.371523,1
+NE,3113435,place:NE:3113435,Dorchester village,Dorchester,Dorchester,31151,Saline County,Incorporated place,40.648011,-97.115439,1
+NE,3113505,place:NE:3113505,Douglas village,Douglas,Douglas,31131,Otoe County,Incorporated place,40.593182,-96.38823,1
+NE,3113750,place:NE:3113750,Du Bois village,Du Bois,Du Bois,31133,Pawnee County,Incorporated place,40.034838,-96.047246,1
+NE,3113855,place:NE:3113855,Dunbar village,Dunbar,Dunbar,31131,Otoe County,Incorporated place,40.668688,-96.03087,1
+NE,3113890,place:NE:3113890,Duncan village,Duncan,Duncan,31141,Platte County,Incorporated place,41.390436,-97.492713,1
+NE,3113960,place:NE:3113960,Dunning village,Dunning,Dunning,31009,Blaine County,Incorporated place,41.827078,-100.104499,1
+NE,3114065,place:NE:3114065,Dwight village,Dwight,Dwight,31023,Butler County,Incorporated place,41.082747,-97.019096,1
+NE,3114100,place:NE:3114100,Eagle village,Eagle,Eagle,31025,Cass County,Incorporated place,40.815943,-96.432585,1
+NE,3114380,place:NE:3114380,Eddyville village,Eddyville,Eddyville,31047,Dawson County,Incorporated place,41.012213,-99.623996,1
+NE,3114450,place:NE:3114450,Edgar city,Edgar,Edgar,31035,Clay County,Incorporated place,40.368263,-97.970973,1
+NE,3114520,place:NE:3114520,Edison village,Edison,Edison,31065,Furnas County,Incorporated place,40.279237,-99.775808,1
+NE,3114555,place:NE:3114555,Elba village,Elba,Elba,31093,Howard County,Incorporated place,41.285311,-98.569262,1
+NE,3114730,place:NE:3114730,Elgin city,Elgin,Elgin,31003,Antelope County,Incorporated place,41.983115,-98.082773,1
+NE,3114975,place:NE:3114975,Elk Creek village,Elk Creek,Elk Creek,31097,Johnson County,Incorporated place,40.288253,-96.126943,1
+NE,3115360,place:NE:3115360,Elm Creek village,Elm Creek,Elm Creek,31019,Buffalo County,Incorporated place,40.720084,-99.37559,1
+NE,3115430,place:NE:3115430,Elmwood village,Elmwood,Elmwood,31025,Cass County,Incorporated place,40.842781,-96.295224,1
+NE,3115500,place:NE:3115500,Elsie village,Elsie,Elsie,31135,Perkins County,Incorporated place,40.847168,-101.389155,1
+NE,3115570,place:NE:3115570,Elwood village,Elwood,Elwood,31073,Gosper County,Incorporated place,40.590133,-99.861978,1
+NE,3115605,place:NE:3115605,Elyria village,Elyria,Elyria,31175,Valley County,Incorporated place,41.680064,-99.005316,1
+NE,3115675,place:NE:3115675,Emerald CDP,Emerald,Emerald,31109,Lancaster County,Census-designated place,40.81313,-96.835371,1
+NE,3115710,place:NE:3115710,Emerson village,Emerson,Emerson,31043,Dakota County,Incorporated place,42.278205,-96.72629,1
+NE,3115815,place:NE:3115815,Emmet village,Emmet,Emmet,31089,Holt County,Incorporated place,42.475683,-98.809273,1
+NE,3115885,place:NE:3115885,Enders CDP,Enders,Enders,31029,Chase County,Census-designated place,40.454919,-101.535567,1
+NE,3115920,place:NE:3115920,Endicott village,Endicott,Endicott,31095,Jefferson County,Incorporated place,40.082198,-97.095385,1
+NE,3116025,place:NE:3116025,Ericson village,Ericson,Ericson,31183,Wheeler County,Incorporated place,41.780442,-98.678576,1
+NE,3116165,place:NE:3116165,Eustis village,Eustis,Eustis,31063,Frontier County,Incorporated place,40.664527,-100.029551,1
+NE,3116270,place:NE:3116270,Ewing village,Ewing,Ewing,31089,Holt County,Incorporated place,42.258888,-98.343915,1
+NE,3116340,place:NE:3116340,Exeter village,Exeter,Exeter,31059,Fillmore County,Incorporated place,40.64454,-97.448793,1
+NE,3116410,place:NE:3116410,Fairbury city,Fairbury,Fairbury,31095,Jefferson County,Incorporated place,40.144738,-97.176504,1
+NE,3116445,place:NE:3116445,Fairfield city,Fairfield,Fairfield,31035,Clay County,Incorporated place,40.432309,-98.103204,1
+NE,3116550,place:NE:3116550,Fairmont village,Fairmont,Fairmont,31059,Fillmore County,Incorporated place,40.633554,-97.584954,1
+NE,3116655,place:NE:3116655,Falls City city,Falls City,Falls City,31147,Richardson County,Incorporated place,40.062208,-95.599013,1
+NE,3116725,place:NE:3116725,Farnam village,Farnam,Farnam,31047,Dawson County,Incorporated place,40.706496,-100.215492,1
+NE,3116760,place:NE:3116760,Farwell village,Farwell,Farwell,31093,Howard County,Incorporated place,41.215623,-98.628055,1
+NE,3116830,place:NE:3116830,Filley village,Filley,Filley,31067,Gage County,Incorporated place,40.285202,-96.533935,1
+NE,3116935,place:NE:3116935,Firth village,Firth,Firth,31109,Lancaster County,Incorporated place,40.535457,-96.604168,1
+NE,3117040,place:NE:3117040,Fontanelle CDP,Fontanelle,Fontanelle,31177,Washington County,Census-designated place,41.538255,-96.427187,1
+NE,3117110,place:NE:3117110,Fordyce village,Fordyce,Fordyce,31027,Cedar County,Incorporated place,42.698235,-97.362605,1
+NE,3117145,place:NE:3117145,Fort Calhoun city,Fort Calhoun,Fort Calhoun,31177,Washington County,Incorporated place,41.456364,-96.026259,1
+NE,3117320,place:NE:3117320,Foster village,Foster,Foster,31139,Pierce County,Incorporated place,42.274699,-97.665093,1
+NE,3117530,place:NE:3117530,Franklin city,Franklin,Franklin,31061,Franklin County,Incorporated place,40.096549,-98.951425,1
+NE,3117670,place:NE:3117670,Fremont city,Fremont,Fremont,31053,Dodge County,Incorporated place,41.439842,-96.487,1
+NE,3117775,place:NE:3117775,Friend city,Friend,Friend,31151,Saline County,Incorporated place,40.650585,-97.284233,1
+NE,3117810,place:NE:3117810,Fullerton city,Fullerton,Fullerton,31125,Nance County,Incorporated place,41.364988,-97.972261,1
+NE,3117880,place:NE:3117880,Funk village,Funk,Funk,31137,Phelps County,Incorporated place,40.463051,-99.250838,1
+NE,3117950,place:NE:3117950,Gandy village,Gandy,Gandy,31113,Logan County,Incorporated place,41.469749,-100.458337,1
+NE,3118230,place:NE:3118230,Garland village,Garland,Garland,31159,Seward County,Incorporated place,40.944587,-96.985292,1
+NE,3118300,place:NE:3118300,Garrison village,Garrison,Garrison,31023,Butler County,Incorporated place,41.175505,-97.163426,1
+NE,3118405,place:NE:3118405,Geneva city,Geneva,Geneva,31059,Fillmore County,Incorporated place,40.530692,-97.597135,1
+NE,3118475,place:NE:3118475,Genoa city,Genoa,Genoa,31125,Nance County,Incorporated place,41.445874,-97.733273,1
+NE,3118580,place:NE:3118580,Gering city,Gering,Gering,31157,Scotts Bluff County,Incorporated place,41.826918,-103.662462,1
+NE,3118615,place:NE:3118615,Gibbon city,Gibbon,Gibbon,31019,Buffalo County,Incorporated place,40.745932,-98.845848,1
+NE,3118720,place:NE:3118720,Gilead village,Gilead,Gilead,31169,Thayer County,Incorporated place,40.146093,-97.415052,1
+NE,3118825,place:NE:3118825,Giltner village,Giltner,Giltner,31081,Hamilton County,Incorporated place,40.774371,-98.1543,1
+NE,3119070,place:NE:3119070,Glenvil village,Glenvil,Glenvil,31035,Clay County,Incorporated place,40.502682,-98.254545,1
+NE,3119160,place:NE:3119160,Glenwood CDP,Glenwood,Glenwood,31019,Buffalo County,Census-designated place,40.755459,-99.081007,1
+NE,3119245,place:NE:3119245,Goehner village,Goehner,Goehner,31159,Seward County,Incorporated place,40.832732,-97.219574,1
+NE,3119350,place:NE:3119350,Gordon city,Gordon,Gordon,31161,Sheridan County,Incorporated place,42.806378,-102.204002,1
+NE,3119385,place:NE:3119385,Gothenburg city,Gothenburg,Gothenburg,31047,Dawson County,Incorporated place,40.924676,-100.153929,1
+NE,3119455,place:NE:3119455,Grafton village,Grafton,Grafton,31059,Fillmore County,Incorporated place,40.629777,-97.714629,1
+NE,3119595,place:NE:3119595,Grand Island city,Grand Island,Grand Island,31079,Hall County,Incorporated place,40.921352,-98.358559,1
+NE,3119910,place:NE:3119910,Grant city,Grant,Grant,31135,Perkins County,Incorporated place,40.844593,-101.725529,1
+NE,3120050,place:NE:3120050,Greeley Center village,Greeley Center,Greeley Center,31077,Greeley County,Incorporated place,41.548405,-98.530511,1
+NE,3120190,place:NE:3120190,Greenwood village,Greenwood,Greenwood,31025,Cass County,Incorporated place,40.961687,-96.443043,1
+NE,3120225,place:NE:3120225,Gresham village,Gresham,Gresham,31185,York County,Incorporated place,41.02842,-97.401093,1
+NE,3120260,place:NE:3120260,Gretna city,Gretna,Gretna,31153,Sarpy County,Incorporated place,41.127917,-96.196863,1
+NE,3120295,place:NE:3120295,Gross village,Gross,Gross,31015,Boyd County,Incorporated place,42.94608,-98.569735,1
+NE,3120365,place:NE:3120365,Guide Rock village,Guide Rock,Guide Rock,31181,Webster County,Incorporated place,40.073721,-98.328803,1
+NE,3120435,place:NE:3120435,Gurley village,Gurley,Gurley,31033,Cheyenne County,Incorporated place,41.321506,-102.97383,1
+NE,3120470,place:NE:3120470,Hadar village,Hadar,Hadar,31139,Pierce County,Incorporated place,42.107221,-97.450972,1
+NE,3120540,place:NE:3120540,Haigler village,Haigler,Haigler,31057,Dundy County,Incorporated place,40.012142,-101.938559,1
+NE,3120610,place:NE:3120610,Hallam village,Hallam,Hallam,31109,Lancaster County,Incorporated place,40.536507,-96.786789,1
+NE,3120680,place:NE:3120680,Halsey village,Halsey,Halsey,31171,Thomas County,Incorporated place,41.903319,-100.269793,1
+NE,3120750,place:NE:3120750,Hamlet village,Hamlet,Hamlet,31085,Hayes County,Incorporated place,40.38445,-101.234549,1
+NE,3120785,place:NE:3120785,Hampton village,Hampton,Hampton,31081,Hamilton County,Incorporated place,40.881027,-97.887687,1
+NE,3120960,place:NE:3120960,Harbine village,Harbine,Harbine,31095,Jefferson County,Incorporated place,40.191627,-96.974149,1
+NE,3120995,place:NE:3120995,Hardy village,Hardy,Hardy,31129,Nuckolls County,Incorporated place,40.011351,-97.923808,1
+NE,3121030,place:NE:3121030,Harrisburg CDP,Harrisburg,Harrisburg,31007,Banner County,Census-designated place,41.550529,-103.726684,1
+NE,3121240,place:NE:3121240,Harrison village,Harrison,Harrison,31165,Sioux County,Incorporated place,42.688085,-103.882471,1
+NE,3121275,place:NE:3121275,Hartington city,Hartington,Hartington,31027,Cedar County,Incorporated place,42.620101,-97.267344,1
+NE,3121345,place:NE:3121345,Harvard city,Harvard,Harvard,31035,Clay County,Incorporated place,40.620076,-98.096122,1
+NE,3121415,place:NE:3121415,Hastings city,Hastings,Hastings,31001,Adams County,Incorporated place,40.596264,-98.39032,1
+NE,3121730,place:NE:3121730,Hay Springs village,Hay Springs,Hay Springs,31161,Sheridan County,Incorporated place,42.68329,-102.689593,1
+NE,3121660,place:NE:3121660,Hayes Center village,Hayes Center,Hayes Center,31085,Hayes County,Incorporated place,40.511024,-101.020397,1
+NE,3121765,place:NE:3121765,Hazard village,Hazard,Hazard,31163,Sherman County,Incorporated place,41.09154,-99.077244,1
+NE,3121835,place:NE:3121835,Heartwell village,Heartwell,Heartwell,31099,Kearney County,Incorporated place,40.569907,-98.789077,1
+NE,3121905,place:NE:3121905,Hebron city,Hebron,Hebron,31169,Thayer County,Incorporated place,40.168769,-97.585984,1
+NE,3122045,place:NE:3122045,Hemingford village,Hemingford,Hemingford,31013,Box Butte County,Incorporated place,42.321255,-103.075356,1
+NE,3122080,place:NE:3122080,Henderson city,Henderson,Henderson,31185,York County,Incorporated place,40.78025,-97.812209,1
+NE,3122115,place:NE:3122115,Hendley village,Hendley,Hendley,31065,Furnas County,Incorporated place,40.131315,-99.971192,1
+NE,3122150,place:NE:3122150,Henry village,Henry,Henry,31157,Scotts Bluff County,Incorporated place,41.99975,-104.048845,1
+NE,3122185,place:NE:3122185,Herman village,Herman,Herman,31177,Washington County,Incorporated place,41.673825,-96.216718,1
+NE,3122290,place:NE:3122290,Hershey village,Hershey,Hershey,31111,Lincoln County,Incorporated place,41.160187,-100.998528,1
+NE,3122325,place:NE:3122325,Hickman city,Hickman,Hickman,31109,Lancaster County,Incorporated place,40.626156,-96.62821,1
+NE,3122430,place:NE:3122430,Hildreth village,Hildreth,Hildreth,31061,Franklin County,Incorporated place,40.337832,-99.045751,1
+NE,3122605,place:NE:3122605,Holbrook village,Holbrook,Holbrook,31065,Furnas County,Incorporated place,40.30474,-100.009989,1
+NE,3122640,place:NE:3122640,Holdrege city,Holdrege,Holdrege,31137,Phelps County,Incorporated place,40.439441,-99.377037,1
+NE,3122780,place:NE:3122780,Holmesville CDP,Holmesville,Holmesville,31067,Gage County,Census-designated place,40.201426,-96.65885,1
+NE,3122815,place:NE:3122815,Holstein village,Holstein,Holstein,31001,Adams County,Incorporated place,40.465224,-98.651043,1
+NE,3122920,place:NE:3122920,Homer village,Homer,Homer,31043,Dakota County,Incorporated place,42.322495,-96.49121,1
+NE,3123025,place:NE:3123025,Hooper city,Hooper,Hooper,31053,Dodge County,Incorporated place,41.611435,-96.549246,1
+NE,3123200,place:NE:3123200,Hordville village,Hordville,Hordville,31081,Hamilton County,Incorporated place,41.079361,-97.89035,1
+NE,3123235,place:NE:3123235,Hoskins village,Hoskins,Hoskins,31179,Wayne County,Incorporated place,42.112636,-97.304384,1
+NE,3123270,place:NE:3123270,Howard City (Boelus) village,Howard City (Boelus),Howard City (Boelus),31093,Howard County,Incorporated place,41.075411,-98.715322,1
+NE,3123340,place:NE:3123340,Howells village,Howells,Howells,31037,Colfax County,Incorporated place,41.724232,-97.004645,1
+NE,3123375,place:NE:3123375,Hubbard village,Hubbard,Hubbard,31043,Dakota County,Incorporated place,42.385904,-96.59101,1
+NE,3123410,place:NE:3123410,Hubbell village,Hubbell,Hubbell,31169,Thayer County,Incorporated place,40.008741,-97.497006,1
+NE,3123445,place:NE:3123445,Humboldt city,Humboldt,Humboldt,31147,Richardson County,Incorporated place,40.165819,-95.94432,1
+NE,3123480,place:NE:3123480,Humphrey city,Humphrey,Humphrey,31141,Platte County,Incorporated place,41.688506,-97.485148,1
+NE,3123550,place:NE:3123550,Huntley village,Huntley,Huntley,31083,Harlan County,Incorporated place,40.210522,-99.290134,1
+NE,3123655,place:NE:3123655,Hyannis village,Hyannis,Hyannis,31075,Grant County,Incorporated place,42.000496,-101.762228,1
+NE,3123690,place:NE:3123690,Imperial city,Imperial,Imperial,31029,Chase County,Incorporated place,40.51442,-101.637245,1
+NE,3123725,place:NE:3123725,Inavale CDP,Inavale,Inavale,31181,Webster County,Census-designated place,40.092266,-98.648391,1
+NE,3123830,place:NE:3123830,Indianola city,Indianola,Indianola,31145,Red Willow County,Incorporated place,40.234629,-100.419843,1
+NE,3123970,place:NE:3123970,Inglewood village,Inglewood,Inglewood,31053,Dodge County,Incorporated place,41.415759,-96.501805,1
+NE,3124005,place:NE:3124005,Inland CDP,Inland,Inland,31035,Clay County,Census-designated place,40.595297,-98.223076,1
+NE,3124075,place:NE:3124075,Inman village,Inman,Inman,31089,Holt County,Incorporated place,42.381915,-98.529814,1
+NE,3124285,place:NE:3124285,Ithaca village,Ithaca,Ithaca,31155,Saunders County,Incorporated place,41.159339,-96.539495,1
+NE,3124355,place:NE:3124355,Jackson village,Jackson,Jackson,31043,Dakota County,Incorporated place,42.448167,-96.571302,1
+NE,3124530,place:NE:3124530,Jansen village,Jansen,Jansen,31095,Jefferson County,Incorporated place,40.18395,-97.084783,1
+NE,3124670,place:NE:3124670,Johnson village,Johnson,Johnson,31127,Nemaha County,Incorporated place,40.410459,-95.999865,1
+NE,3124740,place:NE:3124740,Johnstown village,Johnstown,Johnstown,31017,Brown County,Incorporated place,42.572103,-100.056289,1
+NE,3124915,place:NE:3124915,Julian village,Julian,Julian,31127,Nemaha County,Incorporated place,40.519205,-95.867096,1
+NE,3124950,place:NE:3124950,Juniata village,Juniata,Juniata,31001,Adams County,Incorporated place,40.590167,-98.506963,1
+NE,3125055,place:NE:3125055,Kearney city,Kearney,Kearney,31019,Buffalo County,Incorporated place,40.701745,-99.082312,1
+NE,3125160,place:NE:3125160,Kenesaw village,Kenesaw,Kenesaw,31001,Adams County,Incorporated place,40.618944,-98.657585,1
+NE,3125230,place:NE:3125230,Kennard village,Kennard,Kennard,31177,Washington County,Incorporated place,41.475052,-96.203581,1
+NE,3125335,place:NE:3125335,Keystone CDP,Keystone,Keystone,31101,Keith County,Census-designated place,41.21874,-101.584122,1
+NE,3125405,place:NE:3125405,Kilgore village,Kilgore,Kilgore,31031,Cherry County,Incorporated place,42.939097,-100.957305,1
+NE,3125475,place:NE:3125475,Kimball city,Kimball,Kimball,31105,Kimball County,Incorporated place,41.232433,-103.651862,1
+NE,3125510,place:NE:3125510,King Lake CDP,King Lake,King Lake,31055,Douglas County,Census-designated place,41.309669,-96.302285,1
+NE,3125720,place:NE:3125720,Kramer CDP,Kramer,Kramer,31109,Lancaster County,Census-designated place,40.591319,-96.873283,1
+NE,3126315,place:NE:3126315,La Platte CDP,La Platte,La Platte,31153,Sarpy County,Census-designated place,41.072281,-95.926528,1
+NE,3126385,place:NE:3126385,La Vista city,La Vista,La Vista,31153,Sarpy County,Incorporated place,41.182055,-96.067581,1
+NE,3126156,place:NE:3126156,Lake Waconda CDP,Lake Waconda,Lake Waconda,31025,Cass County,Census-designated place,40.840594,-95.857976,0
+NE,3126150,place:NE:3126150,Lakeview CDP,Lakeview,Lakeview,31141,Platte County,Census-designated place,41.499135,-97.373736,1
+NE,3126175,place:NE:3126175,Lamar village,Lamar,Lamar,31029,Chase County,Incorporated place,40.572468,-101.979284,1
+NE,3126350,place:NE:3126350,Laurel city,Laurel,Laurel,31027,Cedar County,Incorporated place,42.428614,-97.096363,1
+NE,3126420,place:NE:3126420,Lawrence village,Lawrence,Lawrence,31129,Nuckolls County,Incorporated place,40.290167,-98.259675,1
+NE,3126455,place:NE:3126455,Lebanon village,Lebanon,Lebanon,31145,Red Willow County,Incorporated place,40.048793,-100.275944,1
+NE,3126560,place:NE:3126560,Leigh village,Leigh,Leigh,31037,Colfax County,Incorporated place,41.703261,-97.240679,1
+NE,3126595,place:NE:3126595,Lemoyne CDP,Lemoyne,Lemoyne,31101,Keith County,Census-designated place,41.276644,-101.813356,1
+NE,3126630,place:NE:3126630,Leshara village,Leshara,Leshara,31155,Saunders County,Incorporated place,41.32979,-96.429203,1
+NE,3126805,place:NE:3126805,Lewellen village,Lewellen,Lewellen,31069,Garden County,Incorporated place,41.330531,-102.143702,1
+NE,3126875,place:NE:3126875,Lewiston village,Lewiston,Lewiston,31133,Pawnee County,Incorporated place,40.243054,-96.406555,1
+NE,3126910,place:NE:3126910,Lexington city,Lexington,Lexington,31047,Dawson County,Incorporated place,40.777453,-99.746755,1
+NE,3126980,place:NE:3126980,Liberty village,Liberty,Liberty,31067,Gage County,Incorporated place,40.08569,-96.483058,1
+NE,3128000,place:NE:3128000,Lincoln city,Lincoln,Lincoln,31109,Lancaster County,Incorporated place,40.810284,-96.674856,1
+NE,3128105,place:NE:3128105,Lindsay village,Lindsay,Lindsay,31141,Platte County,Incorporated place,41.700658,-97.693416,1
+NE,3128140,place:NE:3128140,Lindy CDP,Lindy,Lindy,31107,Knox County,Census-designated place,42.735114,-97.749951,1
+NE,3128165,place:NE:3128165,Linoma Beach CDP,Linoma Beach,Linoma Beach,31153,Sarpy County,Census-designated place,41.057297,-96.314066,1
+NE,3128245,place:NE:3128245,Linwood village,Linwood,Linwood,31023,Butler County,Incorporated place,41.412341,-96.932347,1
+NE,3128315,place:NE:3128315,Lisco CDP,Lisco,Lisco,31069,Garden County,Census-designated place,41.498669,-102.623647,1
+NE,3128350,place:NE:3128350,Litchfield village,Litchfield,Litchfield,31163,Sherman County,Incorporated place,41.156047,-99.153053,1
+NE,3128420,place:NE:3128420,Lodgepole village,Lodgepole,Lodgepole,31033,Cheyenne County,Incorporated place,41.148929,-102.638635,1
+NE,3129050,place:NE:3129050,Long Pine city,Long Pine,Long Pine,31017,Brown County,Incorporated place,42.535252,-99.702698,1
+NE,3129085,place:NE:3129085,Loomis village,Loomis,Loomis,31137,Phelps County,Incorporated place,40.478181,-99.507415,1
+NE,3129120,place:NE:3129120,Lorenzo CDP,Lorenzo,Lorenzo,31033,Cheyenne County,Census-designated place,41.057574,-103.082098,1
+NE,3129155,place:NE:3129155,Loretto CDP,Loretto,Loretto,31011,Boone County,Census-designated place,41.763444,-98.081721,1
+NE,3129175,place:NE:3129175,Lorton village,Lorton,Lorton,31131,Otoe County,Incorporated place,40.59722,-96.024177,1
+NE,3129260,place:NE:3129260,Louisville city,Louisville,Louisville,31025,Cass County,Incorporated place,40.996471,-96.161406,1
+NE,3129470,place:NE:3129470,Loup City city,Loup City,Loup City,31163,Sherman County,Incorporated place,41.276683,-98.967727,1
+NE,3129645,place:NE:3129645,Lushton village,Lushton,Lushton,31185,York County,Incorporated place,40.72403,-97.723648,1
+NE,3129715,place:NE:3129715,Lyman village,Lyman,Lyman,31157,Scotts Bluff County,Incorporated place,41.917043,-104.038058,1
+NE,3129750,place:NE:3129750,Lynch village,Lynch,Lynch,31015,Boyd County,Incorporated place,42.831216,-98.466854,1
+NE,3129855,place:NE:3129855,Lyons city,Lyons,Lyons,31021,Burt County,Incorporated place,41.93588,-96.472338,1
+NE,3130170,place:NE:3130170,Macy CDP,Macy,Macy,31173,Thurston County,Census-designated place,42.115881,-96.366599,1
+NE,3130240,place:NE:3130240,Madison city,Madison,Madison,31119,Madison County,Incorporated place,41.828292,-97.456719,1
+NE,3130275,place:NE:3130275,Madrid village,Madrid,Madrid,31135,Perkins County,Incorporated place,40.852426,-101.527891,1
+NE,3130310,place:NE:3130310,Magnet village,Magnet,Magnet,31027,Cedar County,Incorporated place,42.45612,-97.469294,1
+NE,3130345,place:NE:3130345,Malcolm village,Malcolm,Malcolm,31109,Lancaster County,Incorporated place,40.909047,-96.866058,1
+NE,3130380,place:NE:3130380,Malmo village,Malmo,Malmo,31155,Saunders County,Incorporated place,41.266455,-96.720922,1
+NE,3130415,place:NE:3130415,Manley village,Manley,Manley,31025,Cass County,Incorporated place,40.918428,-96.165733,1
+NE,3130730,place:NE:3130730,Marquette village,Marquette,Marquette,31081,Hamilton County,Incorporated place,41.006336,-98.009751,1
+NE,3130835,place:NE:3130835,Martell CDP,Martell,Martell,31109,Lancaster County,Census-designated place,40.638942,-96.758794,1
+NE,3130905,place:NE:3130905,Martin CDP,Martin,Martin,31101,Keith County,Census-designated place,41.258135,-101.709005,1
+NE,3130940,place:NE:3130940,Martinsburg village,Martinsburg,Martinsburg,31051,Dixon County,Incorporated place,42.508573,-96.832,1
+NE,3131045,place:NE:3131045,Maskell village,Maskell,Maskell,31051,Dixon County,Incorporated place,42.690418,-96.9809,1
+NE,3131115,place:NE:3131115,Mason City village,Mason City,Mason City,31041,Custer County,Incorporated place,41.222172,-99.298789,1
+NE,3131150,place:NE:3131150,Max CDP,Max,Max,31057,Dundy County,Census-designated place,40.11432,-101.404489,1
+NE,3131220,place:NE:3131220,Maxwell village,Maxwell,Maxwell,31111,Lincoln County,Incorporated place,41.077114,-100.526314,1
+NE,3131325,place:NE:3131325,Maywood village,Maywood,Maywood,31063,Frontier County,Incorporated place,40.658698,-100.622233,1
+NE,3129925,place:NE:3129925,McCook city,McCook,McCook,31145,Red Willow County,Incorporated place,40.204896,-100.622118,1
+NE,3129960,place:NE:3129960,McCool Junction village,McCool Junction,McCool Junction,31185,York County,Incorporated place,40.744616,-97.600062,1
+NE,3130030,place:NE:3130030,McGrew village,McGrew,McGrew,31157,Scotts Bluff County,Incorporated place,41.747668,-103.417167,1
+NE,3130065,place:NE:3130065,McLean village,McLean,McLean,31139,Pierce County,Incorporated place,42.386341,-97.468177,1
+NE,3131395,place:NE:3131395,Mead village,Mead,Mead,31155,Saunders County,Incorporated place,41.224402,-96.487187,1
+NE,3131465,place:NE:3131465,Meadow Grove village,Meadow Grove,Meadow Grove,31119,Madison County,Incorporated place,42.029007,-97.73604,1
+NE,3131570,place:NE:3131570,Melbeta village,Melbeta,Melbeta,31157,Scotts Bluff County,Incorporated place,41.781441,-103.517635,1
+NE,3131605,place:NE:3131605,Melia CDP,Melia,Melia,31153,Sarpy County,Census-designated place,41.097166,-96.276438,1
+NE,3131640,place:NE:3131640,Memphis village,Memphis,Memphis,31155,Saunders County,Incorporated place,41.094564,-96.433137,1
+NE,3131780,place:NE:3131780,Merna village,Merna,Merna,31041,Custer County,Incorporated place,41.485159,-99.761064,1
+NE,3131815,place:NE:3131815,Merriman village,Merriman,Merriman,31031,Cherry County,Incorporated place,42.922998,-101.699732,1
+NE,3132060,place:NE:3132060,Milford city,Milford,Milford,31159,Seward County,Incorporated place,40.771944,-97.054298,1
+NE,3132130,place:NE:3132130,Miller village,Miller,Miller,31019,Buffalo County,Incorporated place,40.927611,-99.39012,1
+NE,3132200,place:NE:3132200,Milligan village,Milligan,Milligan,31059,Fillmore County,Incorporated place,40.499957,-97.388419,1
+NE,3132305,place:NE:3132305,Minatare city,Minatare,Minatare,31157,Scotts Bluff County,Incorporated place,41.811541,-103.500936,1
+NE,3132340,place:NE:3132340,Minden city,Minden,Minden,31099,Kearney County,Incorporated place,40.498187,-98.967003,1
+NE,3132410,place:NE:3132410,Mitchell city,Mitchell,Mitchell,31157,Scotts Bluff County,Incorporated place,41.942509,-103.809792,1
+NE,3132550,place:NE:3132550,Monowi village,Monowi,Monowi,31015,Boyd County,Incorporated place,42.830705,-98.32956,1
+NE,3132585,place:NE:3132585,Monroe village,Monroe,Monroe,31141,Platte County,Incorporated place,41.474054,-97.599088,1
+NE,3132760,place:NE:3132760,Moorefield village,Moorefield,Moorefield,31063,Frontier County,Incorporated place,40.689917,-100.400327,1
+NE,3132830,place:NE:3132830,Morrill village,Morrill,Morrill,31157,Scotts Bluff County,Incorporated place,41.964086,-103.924846,1
+NE,3132865,place:NE:3132865,Morse Bluff village,Morse Bluff,Morse Bluff,31155,Saunders County,Incorporated place,41.430946,-96.766514,1
+NE,3133250,place:NE:3133250,Mullen village,Mullen,Mullen,31091,Hooker County,Incorporated place,42.042962,-101.044553,1
+NE,3133320,place:NE:3133320,Murdock village,Murdock,Murdock,31025,Cass County,Incorporated place,40.926175,-96.280879,1
+NE,3133425,place:NE:3133425,Murray village,Murray,Murray,31025,Cass County,Incorporated place,40.916386,-95.927464,1
+NE,3133530,place:NE:3133530,Naper village,Naper,Naper,31015,Boyd County,Incorporated place,42.964168,-99.097,1
+NE,3133565,place:NE:3133565,Naponee village,Naponee,Naponee,31061,Franklin County,Incorporated place,40.074733,-99.138628,1
+NE,3133705,place:NE:3133705,Nebraska City city,Nebraska City,Nebraska City,31131,Otoe County,Incorporated place,40.675746,-95.861659,1
+NE,3133740,place:NE:3133740,Nehawka village,Nehawka,Nehawka,31025,Cass County,Incorporated place,40.829642,-95.990819,1
+NE,3133775,place:NE:3133775,Neligh city,Neligh,Neligh,31003,Antelope County,Incorporated place,42.129093,-98.029229,1
+NE,3133880,place:NE:3133880,Nelson city,Nelson,Nelson,31129,Nuckolls County,Incorporated place,40.201167,-98.06863,1
+NE,3133950,place:NE:3133950,Nemaha village,Nemaha,Nemaha,31127,Nemaha County,Incorporated place,40.338801,-95.675965,1
+NE,3133985,place:NE:3133985,Nenzel village,Nenzel,Nenzel,31031,Cherry County,Incorporated place,42.927354,-101.101804,1
+NE,3134090,place:NE:3134090,Newcastle village,Newcastle,Newcastle,31051,Dixon County,Incorporated place,42.652413,-96.87403,1
+NE,3134230,place:NE:3134230,Newman Grove city,Newman Grove,Newman Grove,31119,Madison County,Incorporated place,41.746815,-97.776722,1
+NE,3134265,place:NE:3134265,Newport village,Newport,Newport,31149,Rock County,Incorporated place,42.600218,-99.328302,1
+NE,3134300,place:NE:3134300,Nickerson village,Nickerson,Nickerson,31053,Dodge County,Incorporated place,41.534723,-96.47085,1
+NE,3134370,place:NE:3134370,Niobrara village,Niobrara,Niobrara,31107,Knox County,Incorporated place,42.74995,-98.031505,1
+NE,3134545,place:NE:3134545,Nora village,Nora,Nora,31129,Nuckolls County,Incorporated place,40.164141,-97.973788,1
+NE,3134615,place:NE:3134615,Norfolk city,Norfolk,Norfolk,31119,Madison County,Incorporated place,42.028216,-97.427807,1
+NE,3134650,place:NE:3134650,Norman village,Norman,Norman,31099,Kearney County,Incorporated place,40.479154,-98.792102,1
+NE,3134720,place:NE:3134720,North Bend city,North Bend,North Bend,31053,Dodge County,Incorporated place,41.461968,-96.785754,1
+NE,3134825,place:NE:3134825,North Loup village,North Loup,North Loup,31175,Valley County,Incorporated place,41.495444,-98.772784,1
+NE,3135000,place:NE:3135000,North Platte city,North Platte,North Platte,31111,Lincoln County,Incorporated place,41.125637,-100.749795,1
+NE,3137105,place:NE:3137105,O'Neill city,O'Neill,O'Neill,31089,Holt County,Incorporated place,42.461533,-98.646955,1
+NE,3135245,place:NE:3135245,Oak village,Oak,Oak,31129,Nuckolls County,Incorporated place,40.238155,-97.903649,1
+NE,3135385,place:NE:3135385,Oakdale village,Oakdale,Oakdale,31003,Antelope County,Incorporated place,42.070084,-97.967159,1
+NE,3135490,place:NE:3135490,Oakland city,Oakland,Oakland,31021,Burt County,Incorporated place,41.835081,-96.467051,1
+NE,3135560,place:NE:3135560,Obert village,Obert,Obert,31027,Cedar County,Incorporated place,42.689511,-97.027222,1
+NE,3135665,place:NE:3135665,Oconto village,Oconto,Oconto,31041,Custer County,Incorporated place,41.141659,-99.761938,1
+NE,3135700,place:NE:3135700,Octavia village,Octavia,Octavia,31023,Butler County,Incorporated place,41.347374,-97.058954,1
+NE,3135735,place:NE:3135735,Odell village,Odell,Odell,31067,Gage County,Incorporated place,40.050312,-96.801637,1
+NE,3135770,place:NE:3135770,Odessa CDP,Odessa,Odessa,31019,Buffalo County,Census-designated place,40.699108,-99.25441,1
+NE,3135875,place:NE:3135875,Offutt AFB CDP,Offutt AFB,Offutt AFB,31153,Sarpy County,Census-designated place,41.120993,-95.921108,1
+NE,3135980,place:NE:3135980,Ogallala city,Ogallala,Ogallala,31101,Keith County,Incorporated place,41.129595,-101.720677,1
+NE,3136015,place:NE:3136015,Ohiowa village,Ohiowa,Ohiowa,31059,Fillmore County,Incorporated place,40.413641,-97.452375,1
+NE,3137000,place:NE:3137000,Omaha city,Omaha,Omaha,31055,Douglas County,Incorporated place,41.264013,-96.056496,1
+NE,3137140,place:NE:3137140,Ong village,Ong,Ong,31035,Clay County,Incorporated place,40.398332,-97.83923,1
+NE,3137210,place:NE:3137210,Orchard village,Orchard,Orchard,31003,Antelope County,Incorporated place,42.336475,-98.240919,1
+NE,3137280,place:NE:3137280,Ord city,Ord,Ord,31175,Valley County,Incorporated place,41.60232,-98.918999,1
+NE,3137420,place:NE:3137420,Orleans village,Orleans,Orleans,31083,Harlan County,Incorporated place,40.131722,-99.455099,1
+NE,3137525,place:NE:3137525,Osceola city,Osceola,Osceola,31143,Polk County,Incorporated place,41.178484,-97.550044,1
+NE,3137560,place:NE:3137560,Oshkosh city,Oshkosh,Oshkosh,31069,Garden County,Incorporated place,41.408005,-102.345209,1
+NE,3137595,place:NE:3137595,Osmond city,Osmond,Osmond,31139,Pierce County,Incorporated place,42.358156,-97.599135,1
+NE,3137630,place:NE:3137630,Otoe village,Otoe,Otoe,31131,Otoe County,Incorporated place,40.724075,-96.12061,1
+NE,3137735,place:NE:3137735,Overland CDP,Overland,Overland,31081,Hamilton County,Census-designated place,41.08024,-97.978905,1
+NE,3137770,place:NE:3137770,Overton village,Overton,Overton,31047,Dawson County,Incorporated place,40.74057,-99.53741,1
+NE,3137910,place:NE:3137910,Oxford village,Oxford,Oxford,31065,Furnas County,Incorporated place,40.253033,-99.63221,1
+NE,3138085,place:NE:3138085,Page village,Page,Page,31089,Holt County,Incorporated place,42.400014,-98.417663,1
+NE,3138130,place:NE:3138130,Palisade village,Palisade,Palisade,31087,Hitchcock County,Incorporated place,40.348404,-101.107462,1
+NE,3138160,place:NE:3138160,Palmer village,Palmer,Palmer,31121,Merrick County,Incorporated place,41.222489,-98.259838,1
+NE,3138190,place:NE:3138190,Palmyra village,Palmyra,Palmyra,31131,Otoe County,Incorporated place,40.705701,-96.392119,1
+NE,3138225,place:NE:3138225,Panama village,Panama,Panama,31109,Lancaster County,Incorporated place,40.599804,-96.511169,1
+NE,3138295,place:NE:3138295,Papillion city,Papillion,Papillion,31153,Sarpy County,Incorporated place,41.143361,-96.078393,1
+NE,3138365,place:NE:3138365,Parks CDP,Parks,Parks,31057,Dundy County,Census-designated place,40.04362,-101.725113,1
+NE,3138575,place:NE:3138575,Pawnee City city,Pawnee City,Pawnee City,31133,Pawnee County,Incorporated place,40.11063,-96.153129,1
+NE,3138610,place:NE:3138610,Paxton village,Paxton,Paxton,31101,Keith County,Incorporated place,41.123371,-101.351957,1
+NE,3138750,place:NE:3138750,Pender village,Pender,Pender,31173,Thurston County,Incorporated place,42.110646,-96.711619,1
+NE,3138960,place:NE:3138960,Peru city,Peru,Peru,31127,Nemaha County,Incorporated place,40.478512,-95.731392,1
+NE,3138995,place:NE:3138995,Petersburg village,Petersburg,Petersburg,31011,Boone County,Incorporated place,41.853667,-98.081199,1
+NE,3139030,place:NE:3139030,Phillips village,Phillips,Phillips,31081,Hamilton County,Incorporated place,40.89767,-98.214594,1
+NE,3139065,place:NE:3139065,Pickrell village,Pickrell,Pickrell,31067,Gage County,Incorporated place,40.378319,-96.729117,1
+NE,3139100,place:NE:3139100,Pierce city,Pierce,Pierce,31139,Pierce County,Incorporated place,42.199484,-97.529203,1
+NE,3139135,place:NE:3139135,Pilger village,Pilger,Pilger,31167,Stanton County,Incorporated place,42.007495,-97.054876,1
+NE,3139170,place:NE:3139170,Plainview city,Plainview,Plainview,31139,Pierce County,Incorporated place,42.353346,-97.787145,1
+NE,3139310,place:NE:3139310,Platte Center village,Platte Center,Platte Center,31141,Platte County,Incorporated place,41.537427,-97.488475,1
+NE,3139345,place:NE:3139345,Plattsmouth city,Plattsmouth,Plattsmouth,31025,Cass County,Incorporated place,41.005341,-95.892859,1
+NE,3139380,place:NE:3139380,Pleasant Dale village,Pleasant Dale,Pleasant Dale,31159,Seward County,Incorporated place,40.79121,-96.932966,1
+NE,3139450,place:NE:3139450,Pleasanton village,Pleasanton,Pleasanton,31019,Buffalo County,Incorporated place,40.970018,-99.087897,1
+NE,3139590,place:NE:3139590,Plymouth village,Plymouth,Plymouth,31095,Jefferson County,Incorporated place,40.302516,-96.988492,1
+NE,3139660,place:NE:3139660,Polk village,Polk,Polk,31143,Polk County,Incorporated place,41.075208,-97.783774,1
+NE,3139695,place:NE:3139695,Ponca city,Ponca,Ponca,31051,Dixon County,Incorporated place,42.564934,-96.709154,1
+NE,3139835,place:NE:3139835,Poole CDP,Poole,Poole,31019,Buffalo County,Census-designated place,40.992254,-98.960602,1
+NE,3139870,place:NE:3139870,Potter village,Potter,Potter,31033,Cheyenne County,Incorporated place,41.217308,-103.307428,1
+NE,3139975,place:NE:3139975,Prague village,Prague,Prague,31155,Saunders County,Incorporated place,41.309512,-96.808157,1
+NE,3140255,place:NE:3140255,Prairie Home CDP,Prairie Home,Prairie Home,31109,Lancaster County,Census-designated place,40.862006,-96.524538,1
+NE,3140325,place:NE:3140325,Preston CDP,Preston,Preston,31147,Richardson County,Census-designated place,40.034587,-95.518106,1
+NE,3140360,place:NE:3140360,Primrose village,Primrose,Primrose,31011,Boone County,Incorporated place,41.623798,-98.237395,1
+NE,3140395,place:NE:3140395,Princeton CDP,Princeton,Princeton,31109,Lancaster County,Census-designated place,40.576026,-96.705952,1
+NE,3140430,place:NE:3140430,Prosser village,Prosser,Prosser,31001,Adams County,Incorporated place,40.687385,-98.577967,1
+NE,3140535,place:NE:3140535,Raeville CDP,Raeville,Raeville,31011,Boone County,Census-designated place,41.895582,-98.053616,1
+NE,3140570,place:NE:3140570,Ragan village,Ragan,Ragan,31083,Harlan County,Incorporated place,40.310771,-99.289628,1
+NE,3140605,place:NE:3140605,Ralston city,Ralston,Ralston,31055,Douglas County,Incorporated place,41.20001,-96.037825,1
+NE,3140675,place:NE:3140675,Randolph city,Randolph,Randolph,31027,Cedar County,Incorporated place,42.377957,-97.357725,1
+NE,3140710,place:NE:3140710,Ravenna city,Ravenna,Ravenna,31019,Buffalo County,Incorporated place,41.029341,-98.898191,1
+NE,3140780,place:NE:3140780,Raymond village,Raymond,Raymond,31109,Lancaster County,Incorporated place,40.956822,-96.781452,1
+NE,3140920,place:NE:3140920,Red Cloud city,Red Cloud,Red Cloud,31181,Webster County,Incorporated place,40.08642,-98.522224,1
+NE,3141130,place:NE:3141130,Republican City village,Republican City,Republican City,31083,Harlan County,Incorporated place,40.098748,-99.222254,1
+NE,3141235,place:NE:3141235,Reynolds village,Reynolds,Reynolds,31095,Jefferson County,Incorporated place,40.059811,-97.335947,1
+NE,3141340,place:NE:3141340,Richfield CDP,Richfield,Richfield,31153,Sarpy County,Census-designated place,41.110763,-96.076324,1
+NE,3141375,place:NE:3141375,Richland village,Richland,Richland,31037,Colfax County,Incorporated place,41.436862,-97.214905,1
+NE,3141480,place:NE:3141480,Rising City village,Rising City,Rising City,31023,Butler County,Incorporated place,41.198102,-97.297122,1
+NE,3141515,place:NE:3141515,Riverdale village,Riverdale,Riverdale,31019,Buffalo County,Incorporated place,40.783886,-99.160459,1
+NE,3141760,place:NE:3141760,Riverton village,Riverton,Riverton,31061,Franklin County,Incorporated place,40.089715,-98.759642,1
+NE,3141830,place:NE:3141830,Roca village,Roca,Roca,31109,Lancaster County,Incorporated place,40.658469,-96.661397,1
+NE,3142075,place:NE:3142075,Rockville village,Rockville,Rockville,31163,Sherman County,Incorporated place,41.118479,-98.831076,1
+NE,3142145,place:NE:3142145,Rogers village,Rogers,Rogers,31037,Colfax County,Incorporated place,41.464584,-96.916439,1
+NE,3142250,place:NE:3142250,Rosalie village,Rosalie,Rosalie,31173,Thurston County,Incorporated place,42.057348,-96.512761,1
+NE,3142285,place:NE:3142285,Roscoe CDP,Roscoe,Roscoe,31101,Keith County,Census-designated place,41.131613,-101.585195,1
+NE,3142355,place:NE:3142355,Roseland village,Roseland,Roseland,31001,Adams County,Incorporated place,40.469698,-98.558704,1
+NE,3142495,place:NE:3142495,Royal village,Royal,Royal,31003,Antelope County,Incorporated place,42.332941,-98.125047,1
+NE,3142670,place:NE:3142670,Rulo village,Rulo,Rulo,31147,Richardson County,Incorporated place,40.05166,-95.430569,1
+NE,3142775,place:NE:3142775,Rushville city,Rushville,Rushville,31161,Sheridan County,Incorporated place,42.71338,-102.466563,1
+NE,3142810,place:NE:3142810,Ruskin village,Ruskin,Ruskin,31129,Nuckolls County,Incorporated place,40.144007,-97.86704,1
+NE,3143370,place:NE:3143370,Salem village,Salem,Salem,31147,Richardson County,Incorporated place,40.076889,-95.728522,1
+NE,3143475,place:NE:3143475,Santee village,Santee,Santee,31107,Knox County,Incorporated place,42.838695,-97.84945,1
+NE,3143650,place:NE:3143650,Sarben CDP,Sarben,Sarben,31101,Keith County,Census-designated place,41.166277,-101.304402,1
+NE,3143685,place:NE:3143685,Sargent city,Sargent,Sargent,31041,Custer County,Incorporated place,41.639744,-99.368851,1
+NE,3143755,place:NE:3143755,Saronville village,Saronville,Saronville,31035,Clay County,Incorporated place,40.602841,-97.938847,1
+NE,3144035,place:NE:3144035,Schuyler city,Schuyler,Schuyler,31037,Colfax County,Incorporated place,41.450134,-97.061591,1
+NE,3144070,place:NE:3144070,Scotia village,Scotia,Scotia,31077,Greeley County,Incorporated place,41.467778,-98.702415,1
+NE,3144245,place:NE:3144245,Scottsbluff city,Scottsbluff,Scottsbluff,31157,Scotts Bluff County,Incorporated place,41.868095,-103.660696,1
+NE,3144280,place:NE:3144280,Scribner city,Scribner,Scribner,31053,Dodge County,Incorporated place,41.665244,-96.665273,1
+NE,3144385,place:NE:3144385,Seneca CDP,Seneca,Seneca,31171,Thomas County,Census-designated place,42.043949,-100.832055,1
+NE,3144420,place:NE:3144420,Seward city,Seward,Seward,31159,Seward County,Incorporated place,40.909211,-97.096095,1
+NE,3144595,place:NE:3144595,Shelby village,Shelby,Shelby,31143,Polk County,Incorporated place,41.194247,-97.426267,1
+NE,3144700,place:NE:3144700,Shelton village,Shelton,Shelton,31019,Buffalo County,Incorporated place,40.77834,-98.72948,1
+NE,3145085,place:NE:3145085,Shickley village,Shickley,Shickley,31059,Fillmore County,Incorporated place,40.416519,-97.724088,1
+NE,3145190,place:NE:3145190,Sholes village,Sholes,Sholes,31179,Wayne County,Incorporated place,42.334813,-97.294619,1
+NE,3145225,place:NE:3145225,Shubert village,Shubert,Shubert,31147,Richardson County,Incorporated place,40.235914,-95.683615,1
+NE,3145295,place:NE:3145295,Sidney city,Sidney,Sidney,31033,Cheyenne County,Incorporated place,41.133633,-102.96954,1
+NE,3145400,place:NE:3145400,Silver Creek village,Silver Creek,Silver Creek,31121,Merrick County,Incorporated place,41.315343,-97.665134,1
+NE,3145575,place:NE:3145575,Smithfield village,Smithfield,Smithfield,31073,Gosper County,Incorporated place,40.573302,-99.740936,1
+NE,3145610,place:NE:3145610,Snyder village,Snyder,Snyder,31053,Dodge County,Incorporated place,41.704573,-96.786835,1
+NE,3145680,place:NE:3145680,South Bend village,South Bend,South Bend,31025,Cass County,Incorporated place,41.002541,-96.247381,1
+NE,3146030,place:NE:3146030,South Sioux City city,South Sioux City,South Sioux City,31043,Dakota County,Incorporated place,42.462129,-96.413256,1
+NE,3146135,place:NE:3146135,Spalding village,Spalding,Spalding,31077,Greeley County,Incorporated place,41.689292,-98.362554,1
+NE,3146275,place:NE:3146275,Spencer village,Spencer,Spencer,31015,Boyd County,Incorporated place,42.875585,-98.699878,1
+NE,3146380,place:NE:3146380,Sprague village,Sprague,Sprague,31109,Lancaster County,Incorporated place,40.626514,-96.744682,1
+NE,3146520,place:NE:3146520,Springfield city,Springfield,Springfield,31153,Sarpy County,Incorporated place,41.107246,-96.148539,1
+NE,3146625,place:NE:3146625,Springview village,Springview,Springview,31103,Keya Paha County,Incorporated place,42.824883,-99.747541,1
+NE,3143055,place:NE:3143055,St. Edward city,St. Edward,St. Edward,31011,Boone County,Incorporated place,41.571448,-97.861197,1
+NE,3143090,place:NE:3143090,St. Helena village,St. Helena,St. Helena,31027,Cedar County,Incorporated place,42.810655,-97.248885,1
+NE,3143160,place:NE:3143160,St. Libory CDP,St. Libory,St. Libory,31093,Howard County,Census-designated place,41.08214,-98.359077,1
+NE,3143265,place:NE:3143265,St. Paul city,St. Paul,St. Paul,31093,Howard County,Incorporated place,41.213669,-98.459446,1
+NE,3146695,place:NE:3146695,Stamford village,Stamford,Stamford,31083,Harlan County,Incorporated place,40.131243,-99.594438,1
+NE,3146800,place:NE:3146800,Stanton city,Stanton,Stanton,31167,Stanton County,Incorporated place,41.948045,-97.212285,1
+NE,3146835,place:NE:3146835,Staplehurst village,Staplehurst,Staplehurst,31159,Seward County,Incorporated place,40.974663,-97.173191,1
+NE,3146870,place:NE:3146870,Stapleton village,Stapleton,Stapleton,31113,Logan County,Incorporated place,41.480198,-100.51255,1
+NE,3147010,place:NE:3147010,Steele City village,Steele City,Steele City,31095,Jefferson County,Incorporated place,40.036558,-97.022994,1
+NE,3147080,place:NE:3147080,Steinauer village,Steinauer,Steinauer,31133,Pawnee County,Incorporated place,40.207368,-96.23286,1
+NE,3147115,place:NE:3147115,Stella village,Stella,Stella,31147,Richardson County,Incorporated place,40.232302,-95.773422,1
+NE,3147150,place:NE:3147150,Sterling village,Sterling,Sterling,31097,Johnson County,Incorporated place,40.461295,-96.377365,1
+NE,3147220,place:NE:3147220,Stockham village,Stockham,Stockham,31081,Hamilton County,Incorporated place,40.71641,-97.943365,1
+NE,3147290,place:NE:3147290,Stockville village,Stockville,Stockville,31063,Frontier County,Incorporated place,40.533628,-100.384431,1
+NE,3147360,place:NE:3147360,Strang village,Strang,Strang,31059,Fillmore County,Incorporated place,40.414858,-97.587094,1
+NE,3147395,place:NE:3147395,Stratton village,Stratton,Stratton,31087,Hitchcock County,Incorporated place,40.150816,-101.227598,1
+NE,3147465,place:NE:3147465,Stromsburg city,Stromsburg,Stromsburg,31143,Polk County,Incorporated place,41.116416,-97.590615,1
+NE,3147500,place:NE:3147500,Stuart village,Stuart,Stuart,31089,Holt County,Incorporated place,42.600788,-99.140459,1
+NE,3147675,place:NE:3147675,Sumner village,Sumner,Sumner,31047,Dawson County,Incorporated place,40.949024,-99.508084,1
+NE,3147745,place:NE:3147745,Sunol CDP,Sunol,Sunol,31033,Cheyenne County,Census-designated place,41.154105,-102.762746,1
+NE,3147815,place:NE:3147815,Superior city,Superior,Superior,31129,Nuckolls County,Incorporated place,40.021709,-98.06186,1
+NE,3147850,place:NE:3147850,Surprise village,Surprise,Surprise,31023,Butler County,Incorporated place,41.104445,-97.309013,1
+NE,3147920,place:NE:3147920,Sutherland village,Sutherland,Sutherland,31111,Lincoln County,Incorporated place,41.16013,-101.122671,1
+NE,3147955,place:NE:3147955,Sutton city,Sutton,Sutton,31035,Clay County,Incorporated place,40.607046,-97.857344,1
+NE,3148060,place:NE:3148060,Swanton village,Swanton,Swanton,31151,Saline County,Incorporated place,40.379603,-97.079821,1
+NE,3148235,place:NE:3148235,Syracuse city,Syracuse,Syracuse,31131,Otoe County,Incorporated place,40.663504,-96.182733,1
+NE,3148270,place:NE:3148270,Table Rock village,Table Rock,Table Rock,31133,Pawnee County,Incorporated place,40.178281,-96.088715,1
+NE,3148305,place:NE:3148305,Talmage village,Talmage,Talmage,31131,Otoe County,Incorporated place,40.531595,-96.02385,1
+NE,3148340,place:NE:3148340,Tamora CDP,Tamora,Tamora,31159,Seward County,Census-designated place,40.894445,-97.229266,1
+NE,3148410,place:NE:3148410,Tarnov village,Tarnov,Tarnov,31141,Platte County,Incorporated place,41.614799,-97.502478,1
+NE,3148445,place:NE:3148445,Taylor village,Taylor,Taylor,31115,Loup County,Incorporated place,41.769604,-99.381384,1
+NE,3148480,place:NE:3148480,Tecumseh city,Tecumseh,Tecumseh,31097,Johnson County,Incorporated place,40.371817,-96.188706,1
+NE,3148515,place:NE:3148515,Tekamah city,Tekamah,Tekamah,31021,Burt County,Incorporated place,41.777803,-96.224498,1
+NE,3148585,place:NE:3148585,Terrytown city,Terrytown,Terrytown,31157,Scotts Bluff County,Incorporated place,41.84713,-103.670553,1
+NE,3148690,place:NE:3148690,Thayer village,Thayer,Thayer,31185,York County,Incorporated place,40.97025,-97.496687,1
+NE,3148760,place:NE:3148760,Thedford village,Thedford,Thedford,31171,Thomas County,Incorporated place,41.979172,-100.574729,1
+NE,3148900,place:NE:3148900,Thurston village,Thurston,Thurston,31173,Thurston County,Incorporated place,42.174737,-96.7016,1
+NE,3148935,place:NE:3148935,Tilden city,Tilden,Tilden,31119,Madison County,Incorporated place,42.043494,-97.831808,1
+NE,3149005,place:NE:3149005,Tobias village,Tobias,Tobias,31151,Saline County,Incorporated place,40.418502,-97.336621,1
+NE,3149145,place:NE:3149145,Trenton village,Trenton,Trenton,31087,Hitchcock County,Incorporated place,40.174733,-101.013573,1
+NE,3149285,place:NE:3149285,Trumbull village,Trumbull,Trumbull,31035,Clay County,Incorporated place,40.68004,-98.273454,1
+NE,3149320,place:NE:3149320,Tryon CDP,Tryon,Tryon,31117,McPherson County,Census-designated place,41.558444,-100.953594,1
+NE,3149425,place:NE:3149425,Uehling village,Uehling,Uehling,31053,Dodge County,Incorporated place,41.734704,-96.505644,1
+NE,3149460,place:NE:3149460,Ulysses village,Ulysses,Ulysses,31023,Butler County,Incorporated place,41.07208,-97.203115,1
+NE,3149530,place:NE:3149530,Unadilla village,Unadilla,Unadilla,31131,Otoe County,Incorporated place,40.683043,-96.269889,1
+NE,3149635,place:NE:3149635,Union village,Union,Union,31025,Cass County,Incorporated place,40.814436,-95.921837,1
+NE,3149880,place:NE:3149880,Upland village,Upland,Upland,31061,Franklin County,Incorporated place,40.319532,-98.902369,1
+NE,3149915,place:NE:3149915,Utica village,Utica,Utica,31159,Seward County,Incorporated place,40.895279,-97.345349,1
+NE,3149950,place:NE:3149950,Valentine city,Valentine,Valentine,31031,Cherry County,Incorporated place,42.873892,-100.547014,1
+NE,3150020,place:NE:3150020,Valley city,Valley,Valley,31055,Douglas County,Incorporated place,41.320546,-96.358619,1
+NE,3150125,place:NE:3150125,Valparaiso village,Valparaiso,Valparaiso,31155,Saunders County,Incorporated place,41.08006,-96.833595,1
+NE,3150230,place:NE:3150230,Venango village,Venango,Venango,31135,Perkins County,Incorporated place,40.763664,-102.044184,1
+NE,3150265,place:NE:3150265,Venice CDP,Venice,Venice,31055,Douglas County,Census-designated place,41.239991,-96.350066,1
+NE,3150335,place:NE:3150335,Verdel village,Verdel,Verdel,31107,Knox County,Incorporated place,42.811399,-98.193296,1
+NE,3150370,place:NE:3150370,Verdigre village,Verdigre,Verdigre,31107,Knox County,Incorporated place,42.597246,-98.035599,1
+NE,3150510,place:NE:3150510,Verdon village,Verdon,Verdon,31147,Richardson County,Incorporated place,40.149086,-95.711196,1
+NE,3150790,place:NE:3150790,Virginia village,Virginia,Virginia,31067,Gage County,Incorporated place,40.245859,-96.498824,1
+NE,3150895,place:NE:3150895,Waco village,Waco,Waco,31185,York County,Incorporated place,40.897,-97.461747,1
+NE,3150965,place:NE:3150965,Wahoo city,Wahoo,Wahoo,31155,Saunders County,Incorporated place,41.21712,-96.617844,1
+NE,3151070,place:NE:3151070,Wakefield city,Wakefield,Wakefield,31051,Dixon County,Incorporated place,42.266651,-96.862925,1
+NE,3151175,place:NE:3151175,Wallace village,Wallace,Wallace,31111,Lincoln County,Incorporated place,40.837579,-101.164481,1
+NE,3151245,place:NE:3151245,Walthill village,Walthill,Walthill,31173,Thurston County,Incorporated place,42.148853,-96.49287,1
+NE,3151280,place:NE:3151280,Walton CDP,Walton,Walton,31109,Lancaster County,Census-designated place,40.796237,-96.565275,1
+NE,3151350,place:NE:3151350,Wann CDP,Wann,Wann,31155,Saunders County,Census-designated place,41.141891,-96.364161,1
+NE,3151595,place:NE:3151595,Washington village,Washington,Washington,31177,Washington County,Incorporated place,41.397606,-96.207508,1
+NE,3151630,place:NE:3151630,Waterbury village,Waterbury,Waterbury,31051,Dixon County,Incorporated place,42.45724,-96.735582,1
+NE,3151665,place:NE:3151665,Waterloo village,Waterloo,Waterloo,31055,Douglas County,Incorporated place,41.285804,-96.288325,1
+NE,3151700,place:NE:3151700,Wauneta village,Wauneta,Wauneta,31029,Chase County,Incorporated place,40.416109,-101.372104,1
+NE,3151735,place:NE:3151735,Wausa village,Wausa,Wausa,31107,Knox County,Incorporated place,42.497827,-97.539305,1
+NE,3151770,place:NE:3151770,Waverly city,Waverly,Waverly,31109,Lancaster County,Incorporated place,40.912009,-96.533267,1
+NE,3151840,place:NE:3151840,Wayne city,Wayne,Wayne,31179,Wayne County,Incorporated place,42.237218,-97.008701,1
+NE,3152015,place:NE:3152015,Weeping Water city,Weeping Water,Weeping Water,31025,Cass County,Incorporated place,40.869125,-96.140346,1
+NE,3152085,place:NE:3152085,Wellfleet village,Wellfleet,Wellfleet,31111,Lincoln County,Incorporated place,40.753912,-100.731818,1
+NE,3152575,place:NE:3152575,West Point city,West Point,West Point,31039,Cuming County,Incorporated place,41.837747,-96.706238,1
+NE,3152295,place:NE:3152295,Western village,Western,Western,31151,Saline County,Incorporated place,40.393079,-97.198396,1
+NE,3152330,place:NE:3152330,Westerville CDP,Westerville,Westerville,31041,Custer County,Census-designated place,41.396196,-99.381796,1
+NE,3152540,place:NE:3152540,Weston village,Weston,Weston,31155,Saunders County,Incorporated place,41.19314,-96.741985,1
+NE,3152855,place:NE:3152855,White Clay CDP,White Clay,White Clay,31161,Sheridan County,Census-designated place,42.997019,-102.555017,1
+NE,3152925,place:NE:3152925,Whitney village,Whitney,Whitney,31045,Dawes County,Incorporated place,42.783759,-103.256697,1
+NE,3152960,place:NE:3152960,Wilber city,Wilber,Wilber,31151,Saline County,Incorporated place,40.480914,-96.964863,1
+NE,3152995,place:NE:3152995,Wilcox village,Wilcox,Wilcox,31099,Kearney County,Incorporated place,40.3644,-99.169257,1
+NE,3153205,place:NE:3153205,Willow Island CDP,Willow Island,Willow Island,31047,Dawson County,Census-designated place,40.890044,-100.070711,1
+NE,3153240,place:NE:3153240,Wilsonville village,Wilsonville,Wilsonville,31065,Furnas County,Incorporated place,40.1119,-100.106678,1
+NE,3153275,place:NE:3153275,Winnebago village,Winnebago,Winnebago,31173,Thurston County,Incorporated place,42.23838,-96.471521,1
+NE,3153345,place:NE:3153345,Winnetoon village,Winnetoon,Winnetoon,31107,Knox County,Incorporated place,42.513528,-97.960134,1
+NE,3153380,place:NE:3153380,Winside village,Winside,Winside,31179,Wayne County,Incorporated place,42.177556,-97.175492,1
+NE,3153415,place:NE:3153415,Winslow village,Winslow,Winslow,31053,Dodge County,Incorporated place,41.610126,-96.504696,1
+NE,3153450,place:NE:3153450,Wisner city,Wisner,Wisner,31039,Cuming County,Incorporated place,41.989387,-96.914345,1
+NE,3153520,place:NE:3153520,Wolbach village,Wolbach,Wolbach,31077,Greeley County,Incorporated place,41.400649,-98.389818,1
+NE,3153555,place:NE:3153555,Wood Lake village,Wood Lake,Wood Lake,31031,Cherry County,Incorporated place,42.638344,-100.237122,1
+NE,3153660,place:NE:3153660,Wood River city,Wood River,Wood River,31079,Hall County,Incorporated place,40.819797,-98.604355,1
+NE,3153575,place:NE:3153575,Woodland Hills CDP,Woodland Hills,Woodland Hills,31131,Otoe County,Census-designated place,40.75148,-96.422086,1
+NE,3153580,place:NE:3153580,Woodland Park CDP,Woodland Park,Woodland Park,31167,Stanton County,Census-designated place,42.05424,-97.345189,1
+NE,3153835,place:NE:3153835,Wymore city,Wymore,Wymore,31067,Gage County,Incorporated place,40.122838,-96.664155,1
+NE,3153905,place:NE:3153905,Wynot village,Wynot,Wynot,31027,Cedar County,Incorporated place,42.739801,-97.169737,1
+NE,3154020,place:NE:3154020,Yankee Hill CDP,Yankee Hill,Yankee Hill,31109,Lancaster County,Census-designated place,40.765915,-96.732933,1
+NE,3154045,place:NE:3154045,York city,York,York,31185,York County,Incorporated place,40.869389,-97.592739,1
+NE,3154115,place:NE:3154115,Yutan city,Yutan,Yutan,31155,Saunders County,Incorporated place,41.242989,-96.39573,1

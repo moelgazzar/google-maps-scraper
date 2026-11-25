@@ -1,0 +1,741 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+KS,2000100,place:KS:2000100,Abbyville city,Abbyville,Abbyville,20155,Reno County,Incorporated place,37.970576,-98.202961,1
+KS,2000125,place:KS:2000125,Abilene city,Abilene,Abilene,20041,Dickinson County,Incorporated place,38.924271,-97.228773,1
+KS,2000225,place:KS:2000225,Ada CDP,Ada,Ada,20143,Ottawa County,Census-designated place,39.1622,-97.885948,1
+KS,2000325,place:KS:2000325,Admire city,Admire,Admire,20111,Lyon County,Incorporated place,38.640995,-96.102009,1
+KS,2000475,place:KS:2000475,Agenda city,Agenda,Agenda,20157,Republic County,Incorporated place,39.706567,-97.432239,1
+KS,2000550,place:KS:2000550,Agra city,Agra,Agra,20147,Phillips County,Incorporated place,39.761262,-99.119427,1
+KS,2000825,place:KS:2000825,Albert city,Albert,Albert,20009,Barton County,Incorporated place,38.453959,-99.011129,1
+KS,2000950,place:KS:2000950,Alden city,Alden,Alden,20159,Rice County,Incorporated place,38.243839,-98.31173,1
+KS,2001050,place:KS:2001050,Alexander city,Alexander,Alexander,20165,Rush County,Incorporated place,38.469417,-99.552998,1
+KS,2001275,place:KS:2001275,Allen city,Allen,Allen,20111,Lyon County,Incorporated place,38.655123,-96.169636,1
+KS,2001350,place:KS:2001350,Alma city,Alma,Alma,20197,Wabaunsee County,Incorporated place,39.015681,-96.287096,1
+KS,2001425,place:KS:2001425,Almena city,Almena,Almena,20137,Norton County,Incorporated place,39.891274,-99.709613,1
+KS,2001575,place:KS:2001575,Alta Vista city,Alta Vista,Alta Vista,20197,Wabaunsee County,Incorporated place,38.862942,-96.488838,1
+KS,2001550,place:KS:2001550,Altamont city,Altamont,Altamont,20099,Labette County,Incorporated place,37.185422,-95.292196,1
+KS,2001600,place:KS:2001600,Alton city,Alton,Alton,20141,Osborne County,Incorporated place,39.467804,-98.948639,1
+KS,2001625,place:KS:2001625,Altoona city,Altoona,Altoona,20205,Wilson County,Incorporated place,37.524517,-95.661498,1
+KS,2001675,place:KS:2001675,Americus city,Americus,Americus,20111,Lyon County,Incorporated place,38.506385,-96.261282,1
+KS,2001725,place:KS:2001725,Ames CDP,Ames,Ames,20029,Cloud County,Census-designated place,39.568894,-97.450965,1
+KS,2001775,place:KS:2001775,Andale city,Andale,Andale,20173,Sedgwick County,Incorporated place,37.791285,-97.627417,1
+KS,2001800,place:KS:2001800,Andover city,Andover,Andover,20015,Butler County,Incorporated place,37.688916,-97.134347,1
+KS,2001975,place:KS:2001975,Anthony city,Anthony,Anthony,20077,Harper County,Incorporated place,37.158533,-98.042776,1
+KS,2002175,place:KS:2002175,Arcadia city,Arcadia,Arcadia,20037,Crawford County,Incorporated place,37.641172,-94.624019,1
+KS,2002250,place:KS:2002250,Argonia city,Argonia,Argonia,20191,Sumner County,Incorporated place,37.267876,-97.762939,1
+KS,2002300,place:KS:2002300,Arkansas City city,Arkansas City,Arkansas City,20035,Cowley County,Incorporated place,37.074234,-97.038451,1
+KS,2002325,place:KS:2002325,Arlington city,Arlington,Arlington,20155,Reno County,Incorporated place,37.89629,-98.178064,1
+KS,2002375,place:KS:2002375,Arma city,Arma,Arma,20037,Crawford County,Incorporated place,37.542775,-94.701807,1
+KS,2002600,place:KS:2002600,Asherville CDP,Asherville,Asherville,20123,Mitchell County,Census-designated place,39.407469,-97.9732,1
+KS,2002675,place:KS:2002675,Ashland city,Ashland,Ashland,20025,Clark County,Incorporated place,37.186661,-99.769671,1
+KS,2002850,place:KS:2002850,Assaria city,Assaria,Assaria,20169,Saline County,Incorporated place,38.680203,-97.604142,1
+KS,2002900,place:KS:2002900,Atchison city,Atchison,Atchison,20005,Atchison County,Incorporated place,39.562552,-95.136611,1
+KS,2003025,place:KS:2003025,Athol city,Athol,Athol,20183,Smith County,Incorporated place,39.766191,-98.919748,1
+KS,2003050,place:KS:2003050,Atlanta city,Atlanta,Atlanta,20035,Cowley County,Incorporated place,37.435738,-96.766978,1
+KS,2003100,place:KS:2003100,Attica city,Attica,Attica,20077,Harper County,Incorporated place,37.242605,-98.227624,1
+KS,2003150,place:KS:2003150,Atwood city,Atwood,Atwood,20153,Rawlins County,Incorporated place,39.8099,-101.041893,1
+KS,2003250,place:KS:2003250,Auburn city,Auburn,Auburn,20177,Shawnee County,Incorporated place,38.907756,-95.815555,1
+KS,2003300,place:KS:2003300,Augusta city,Augusta,Augusta,20015,Butler County,Incorporated place,37.698016,-96.97316,1
+KS,2003425,place:KS:2003425,Aurora city,Aurora,Aurora,20029,Cloud County,Incorporated place,39.451924,-97.529846,1
+KS,2003600,place:KS:2003600,Axtell city,Axtell,Axtell,20117,Marshall County,Incorporated place,39.871258,-96.256896,1
+KS,2003675,place:KS:2003675,Baileyville CDP,Baileyville,Baileyville,20131,Nemaha County,Census-designated place,39.85012,-96.192719,1
+KS,2003800,place:KS:2003800,Bala CDP,Bala,Bala,20161,Riley County,Census-designated place,39.310829,-96.950392,1
+KS,2003900,place:KS:2003900,Baldwin City city,Baldwin City,Baldwin City,20045,Douglas County,Incorporated place,38.777506,-95.18748,1
+KS,2004225,place:KS:2004225,Barnard city,Barnard,Barnard,20105,Lincoln County,Incorporated place,39.189171,-98.044252,1
+KS,2004250,place:KS:2004250,Barnes city,Barnes,Barnes,20201,Washington County,Incorporated place,39.711551,-96.873404,1
+KS,2004350,place:KS:2004350,Bartlett city,Bartlett,Bartlett,20099,Labette County,Incorporated place,37.05486,-95.211569,1
+KS,2004400,place:KS:2004400,Basehor city,Basehor,Basehor,20103,Leavenworth County,Incorporated place,39.131462,-94.934769,1
+KS,2004450,place:KS:2004450,Bassett city,Bassett,Bassett,20001,Allen County,Incorporated place,37.903829,-95.407615,1
+KS,2004575,place:KS:2004575,Bavaria CDP,Bavaria,Bavaria,20169,Saline County,Census-designated place,38.795467,-97.754756,1
+KS,2004625,place:KS:2004625,Baxter Springs city,Baxter Springs,Baxter Springs,20021,Cherokee County,Incorporated place,37.019951,-94.734961,1
+KS,2004775,place:KS:2004775,Bazine city,Bazine,Bazine,20135,Ness County,Incorporated place,38.446126,-99.693006,1
+KS,2004900,place:KS:2004900,Beattie city,Beattie,Beattie,20117,Marshall County,Incorporated place,39.862371,-96.41779,1
+KS,2004925,place:KS:2004925,Beaumont CDP,Beaumont,Beaumont,20015,Butler County,Census-designated place,37.655975,-96.531814,1
+KS,2004950,place:KS:2004950,Beaver CDP,Beaver,Beaver,20009,Barton County,Census-designated place,38.64552,-98.673715,1
+KS,2005337,place:KS:2005337,Bel Aire city,Bel Aire,Bel Aire,20173,Sedgwick County,Incorporated place,37.775898,-97.246548,1
+KS,2005500,place:KS:2005500,Belle Plaine city,Belle Plaine,Belle Plaine,20191,Sumner County,Incorporated place,37.393355,-97.279242,1
+KS,2005600,place:KS:2005600,Belleville city,Belleville,Belleville,20157,Republic County,Incorporated place,39.824337,-97.633855,1
+KS,2005775,place:KS:2005775,Beloit city,Beloit,Beloit,20123,Mitchell County,Incorporated place,39.464698,-98.10834,1
+KS,2005825,place:KS:2005825,Belpre city,Belpre,Belpre,20047,Edwards County,Incorporated place,37.950669,-99.099822,1
+KS,2005925,place:KS:2005925,Belvue city,Belvue,Belvue,20149,Pottawatomie County,Incorporated place,39.216297,-96.179001,1
+KS,2005975,place:KS:2005975,Bendena CDP,Bendena,Bendena,20043,Doniphan County,Census-designated place,39.743541,-95.181057,1
+KS,2006000,place:KS:2006000,Benedict city,Benedict,Benedict,20205,Wilson County,Incorporated place,37.626883,-95.743483,1
+KS,2006075,place:KS:2006075,Bennington city,Bennington,Bennington,20143,Ottawa County,Incorporated place,39.033146,-97.593228,1
+KS,2006125,place:KS:2006125,Bentley city,Bentley,Bentley,20173,Sedgwick County,Incorporated place,37.886762,-97.514712,1
+KS,2006175,place:KS:2006175,Benton city,Benton,Benton,20015,Butler County,Incorporated place,37.788515,-97.10872,1
+KS,2006275,place:KS:2006275,Bern city,Bern,Bern,20131,Nemaha County,Incorporated place,39.961415,-95.971065,1
+KS,2006500,place:KS:2006500,Beverly city,Beverly,Beverly,20105,Lincoln County,Incorporated place,39.013831,-97.975454,1
+KS,2006575,place:KS:2006575,Big Bow CDP,Big Bow,Big Bow,20187,Stanton County,Census-designated place,37.560851,-101.557372,1
+KS,2006825,place:KS:2006825,Bird City city,Bird City,Bird City,20023,Cheyenne County,Incorporated place,39.749514,-101.532765,1
+KS,2006950,place:KS:2006950,Bison city,Bison,Bison,20165,Rush County,Incorporated place,38.519915,-99.19789,1
+KS,2007600,place:KS:2007600,Blue Mound city,Blue Mound,Blue Mound,20107,Linn County,Incorporated place,38.089357,-95.009926,1
+KS,2007650,place:KS:2007650,Blue Rapids city,Blue Rapids,Blue Rapids,20117,Marshall County,Incorporated place,39.678439,-96.658901,1
+KS,2007775,place:KS:2007775,Bluff City city,Bluff City,Bluff City,20077,Harper County,Incorporated place,37.076116,-97.874701,1
+KS,2007825,place:KS:2007825,Bogue city,Bogue,Bogue,20065,Graham County,Incorporated place,39.359522,-99.68739,1
+KS,2007975,place:KS:2007975,Bonner Springs city,Bonner Springs,Bonner Springs,20209,Wyandotte County,Incorporated place,39.075368,-94.871739,1
+KS,2008300,place:KS:2008300,Bremen CDP,Bremen,Bremen,20117,Marshall County,Census-designated place,39.897772,-96.795507,1
+KS,2008425,place:KS:2008425,Brewster city,Brewster,Brewster,20193,Thomas County,Incorporated place,39.363054,-101.37713,1
+KS,2008450,place:KS:2008450,Bridgeport CDP,Bridgeport,Bridgeport,20169,Saline County,Census-designated place,38.62714,-97.614004,1
+KS,2008475,place:KS:2008475,Bronson city,Bronson,Bronson,20011,Bourbon County,Incorporated place,37.895806,-95.073113,1
+KS,2008575,place:KS:2008575,Brookville city,Brookville,Brookville,20169,Saline County,Incorporated place,38.773557,-97.864544,1
+KS,2008675,place:KS:2008675,Brownell city,Brownell,Brownell,20135,Ness County,Incorporated place,38.640619,-99.744275,1
+KS,2009000,place:KS:2009000,Bucklin city,Bucklin,Bucklin,20057,Ford County,Incorporated place,37.548647,-99.634419,1
+KS,2009050,place:KS:2009050,Bucyrus CDP,Bucyrus,Bucyrus,20121,Miami County,Census-designated place,38.720917,-94.708347,1
+KS,2009150,place:KS:2009150,Buffalo city,Buffalo,Buffalo,20205,Wilson County,Incorporated place,37.709108,-95.69693,1
+KS,2009200,place:KS:2009200,Buhler city,Buhler,Buhler,20155,Reno County,Incorporated place,38.138031,-97.770552,1
+KS,2009225,place:KS:2009225,Bunker Hill city,Bunker Hill,Bunker Hill,20167,Russell County,Incorporated place,38.875298,-98.698938,1
+KS,2009250,place:KS:2009250,Burden city,Burden,Burden,20035,Cowley County,Incorporated place,37.315609,-96.755372,1
+KS,2009275,place:KS:2009275,Burdett city,Burdett,Burdett,20145,Pawnee County,Incorporated place,38.193523,-99.526452,1
+KS,2009300,place:KS:2009300,Burdick CDP,Burdick,Burdick,20127,Morris County,Census-designated place,38.558943,-96.847244,1
+KS,2009350,place:KS:2009350,Burlingame city,Burlingame,Burlingame,20139,Osage County,Incorporated place,38.751864,-95.835775,1
+KS,2009400,place:KS:2009400,Burlington city,Burlington,Burlington,20031,Coffey County,Incorporated place,38.193289,-95.745428,1
+KS,2009450,place:KS:2009450,Burns city,Burns,Burns,20115,Marion County,Incorporated place,38.089738,-96.887668,1
+KS,2009525,place:KS:2009525,Burr Oak city,Burr Oak,Burr Oak,20089,Jewell County,Incorporated place,39.870347,-98.305708,1
+KS,2009575,place:KS:2009575,Burrton city,Burrton,Burrton,20079,Harvey County,Incorporated place,38.023805,-97.671391,1
+KS,2009675,place:KS:2009675,Bushong city,Bushong,Bushong,20111,Lyon County,Incorporated place,38.642797,-96.256717,1
+KS,2009700,place:KS:2009700,Bushton city,Bushton,Bushton,20159,Rice County,Incorporated place,38.512275,-98.396003,1
+KS,2009800,place:KS:2009800,Byers city,Byers,Byers,20151,Pratt County,Incorporated place,37.787896,-98.867055,1
+KS,2009900,place:KS:2009900,Caldwell city,Caldwell,Caldwell,20191,Sumner County,Incorporated place,37.034877,-97.608827,1
+KS,2010125,place:KS:2010125,Cambridge city,Cambridge,Cambridge,20035,Cowley County,Incorporated place,37.317776,-96.667166,1
+KS,2010375,place:KS:2010375,Caney city,Caney,Caney,20125,Montgomery County,Incorporated place,37.013573,-95.931931,1
+KS,2010475,place:KS:2010475,Canton city,Canton,Canton,20113,McPherson County,Incorporated place,38.385862,-97.43005,1
+KS,2010600,place:KS:2010600,Carbondale city,Carbondale,Carbondale,20139,Osage County,Incorporated place,38.821914,-95.693201,1
+KS,2010675,place:KS:2010675,Carlton city,Carlton,Carlton,20041,Dickinson County,Incorporated place,38.686663,-97.293159,1
+KS,2010925,place:KS:2010925,Cassoday city,Cassoday,Cassoday,20015,Butler County,Incorporated place,38.03869,-96.638667,1
+KS,2011025,place:KS:2011025,Catharine CDP,Catharine,Catharine,20051,Ellis County,Census-designated place,38.9302,-99.214354,1
+KS,2011175,place:KS:2011175,Cawker City city,Cawker City,Cawker City,20123,Mitchell County,Incorporated place,39.509511,-98.433107,1
+KS,2011325,place:KS:2011325,Cedar city,Cedar,Cedar,20183,Smith County,Incorporated place,39.65712,-98.940178,1
+KS,2011425,place:KS:2011425,Cedar Point city,Cedar Point,Cedar Point,20017,Chase County,Incorporated place,38.259585,-96.82421,1
+KS,2011450,place:KS:2011450,Cedar Vale city,Cedar Vale,Cedar Vale,20019,Chautauqua County,Incorporated place,37.105135,-96.502623,1
+KS,2012325,place:KS:2012325,Centerville CDP,Centerville,Centerville,20107,Linn County,Census-designated place,38.229623,-95.015662,1
+KS,2012425,place:KS:2012425,Centralia city,Centralia,Centralia,20131,Nemaha County,Incorporated place,39.724413,-96.130955,1
+KS,2012450,place:KS:2012450,Centropolis CDP,Centropolis,Centropolis,20059,Franklin County,Census-designated place,38.719537,-95.349447,1
+KS,2012500,place:KS:2012500,Chanute city,Chanute,Chanute,20133,Neosho County,Incorporated place,37.669661,-95.464162,1
+KS,2012550,place:KS:2012550,Chapman city,Chapman,Chapman,20041,Dickinson County,Incorporated place,38.974372,-97.023258,1
+KS,2012650,place:KS:2012650,Chase city,Chase,Chase,20159,Rice County,Incorporated place,38.35532,-98.348666,1
+KS,2012675,place:KS:2012675,Chautauqua city,Chautauqua,Chautauqua,20019,Chautauqua County,Incorporated place,37.023897,-96.177144,1
+KS,2012775,place:KS:2012775,Cheney city,Cheney,Cheney,20173,Sedgwick County,Incorporated place,37.635291,-97.779716,1
+KS,2012825,place:KS:2012825,Cherokee city,Cherokee,Cherokee,20037,Crawford County,Incorporated place,37.344474,-94.823123,1
+KS,2012925,place:KS:2012925,Cherryvale city,Cherryvale,Cherryvale,20125,Montgomery County,Incorporated place,37.269148,-95.553354,1
+KS,2012950,place:KS:2012950,Chetopa city,Chetopa,Chetopa,20099,Labette County,Incorporated place,37.037437,-95.092249,1
+KS,2013100,place:KS:2013100,Chicopee CDP,Chicopee,Chicopee,20037,Crawford County,Census-designated place,37.38341,-94.743461,1
+KS,2013275,place:KS:2013275,Cimarron city,Cimarron,Cimarron,20069,Gray County,Incorporated place,37.812877,-100.346697,1
+KS,2013375,place:KS:2013375,Circleville city,Circleville,Circleville,20085,Jackson County,Incorporated place,39.509437,-95.855674,1
+KS,2013425,place:KS:2013425,Claflin city,Claflin,Claflin,20009,Barton County,Incorporated place,38.524579,-98.53687,1
+KS,2013625,place:KS:2013625,Clay Center city,Clay Center,Clay Center,20027,Clay County,Incorporated place,39.381182,-97.127372,1
+KS,2013675,place:KS:2013675,Clayton city,Clayton,Clayton,20137,Norton County,Incorporated place,39.736866,-100.176484,1
+KS,2013925,place:KS:2013925,Clearwater city,Clearwater,Clearwater,20173,Sedgwick County,Incorporated place,37.510921,-97.497723,1
+KS,2014200,place:KS:2014200,Clifton city,Clifton,Clifton,20201,Washington County,Incorporated place,39.568095,-97.280552,1
+KS,2014275,place:KS:2014275,Climax city,Climax,Climax,20073,Greenwood County,Incorporated place,37.719168,-96.224032,1
+KS,2014475,place:KS:2014475,Clyde city,Clyde,Clyde,20029,Cloud County,Incorporated place,39.59183,-97.400212,1
+KS,2014525,place:KS:2014525,Coats city,Coats,Coats,20151,Pratt County,Incorporated place,37.51078,-98.825338,1
+KS,2014575,place:KS:2014575,Codell CDP,Codell,Codell,20163,Rooks County,Census-designated place,39.195378,-99.170123,1
+KS,2014600,place:KS:2014600,Coffeyville city,Coffeyville,Coffeyville,20125,Montgomery County,Incorporated place,37.032717,-95.65158,1
+KS,2014650,place:KS:2014650,Colby city,Colby,Colby,20193,Thomas County,Incorporated place,39.383325,-101.045959,1
+KS,2014700,place:KS:2014700,Coldwater city,Coldwater,Coldwater,20033,Comanche County,Incorporated place,37.267543,-99.3234,1
+KS,2014900,place:KS:2014900,Collyer city,Collyer,Collyer,20195,Trego County,Incorporated place,39.037322,-100.11826,1
+KS,2014950,place:KS:2014950,Colony city,Colony,Colony,20003,Anderson County,Incorporated place,38.072839,-95.362225,1
+KS,2015075,place:KS:2015075,Columbus city,Columbus,Columbus,20021,Cherokee County,Incorporated place,37.171568,-94.843982,1
+KS,2015100,place:KS:2015100,Colwich city,Colwich,Colwich,20173,Sedgwick County,Incorporated place,37.78181,-97.536277,1
+KS,2015200,place:KS:2015200,Concordia city,Concordia,Concordia,20029,Cloud County,Incorporated place,39.56687,-97.646785,1
+KS,2015325,place:KS:2015325,Conway Springs city,Conway Springs,Conway Springs,20191,Sumner County,Incorporated place,37.389861,-97.642942,1
+KS,2015400,place:KS:2015400,Coolidge city,Coolidge,Coolidge,20075,Hamilton County,Incorporated place,38.041507,-102.008503,1
+KS,2015475,place:KS:2015475,Copeland city,Copeland,Copeland,20069,Gray County,Incorporated place,37.540242,-100.628607,1
+KS,2015725,place:KS:2015725,Corning city,Corning,Corning,20131,Nemaha County,Incorporated place,39.657089,-96.028789,1
+KS,2015900,place:KS:2015900,Cottonwood Falls city,Cottonwood Falls,Cottonwood Falls,20017,Chase County,Incorporated place,38.368211,-96.542755,1
+KS,2015925,place:KS:2015925,Council Grove city,Council Grove,Council Grove,20127,Morris County,Incorporated place,38.663149,-96.491782,1
+KS,2016025,place:KS:2016025,Courtland city,Courtland,Courtland,20157,Republic County,Incorporated place,39.783242,-97.896159,1
+KS,2016150,place:KS:2016150,Coyville city,Coyville,Coyville,20205,Wilson County,Incorporated place,37.68724,-95.895938,1
+KS,2016325,place:KS:2016325,Crestline CDP,Crestline,Crestline,20021,Cherokee County,Census-designated place,37.170073,-94.706448,1
+KS,2016475,place:KS:2016475,Croweburg CDP,Croweburg,Croweburg,20037,Crawford County,Census-designated place,37.553621,-94.672338,1
+KS,2016625,place:KS:2016625,Cuba city,Cuba,Cuba,20157,Republic County,Incorporated place,39.802346,-97.457422,1
+KS,2016675,place:KS:2016675,Cullison city,Cullison,Cullison,20151,Pratt County,Incorporated place,37.630227,-98.905172,1
+KS,2016700,place:KS:2016700,Culver city,Culver,Culver,20143,Ottawa County,Incorporated place,38.970159,-97.759078,1
+KS,2016775,place:KS:2016775,Cunningham city,Cunningham,Cunningham,20095,Kingman County,Incorporated place,37.644623,-98.43113,1
+KS,2016975,place:KS:2016975,Damar city,Damar,Damar,20163,Rooks County,Incorporated place,39.319152,-99.584459,1
+KS,2017000,place:KS:2017000,Danville city,Danville,Danville,20077,Harper County,Incorporated place,37.285952,-97.892071,1
+KS,2017850,place:KS:2017850,De Soto city,De Soto,De Soto,20091,Johnson County,Incorporated place,38.944755,-94.986983,1
+KS,2017150,place:KS:2017150,Dearing city,Dearing,Dearing,20125,Montgomery County,Incorporated place,37.053363,-95.695365,1
+KS,2017225,place:KS:2017225,Deerfield city,Deerfield,Deerfield,20093,Kearny County,Incorporated place,37.981869,-101.133182,1
+KS,2017525,place:KS:2017525,Delia city,Delia,Delia,20085,Jackson County,Incorporated place,39.239365,-95.964992,1
+KS,2017600,place:KS:2017600,Delphos city,Delphos,Delphos,20143,Ottawa County,Incorporated place,39.274577,-97.764852,1
+KS,2017625,place:KS:2017625,Denison city,Denison,Denison,20085,Jackson County,Incorporated place,39.393795,-95.628451,1
+KS,2017675,place:KS:2017675,Dennis CDP,Dennis,Dennis,20099,Labette County,Census-designated place,37.348635,-95.4031,1
+KS,2017750,place:KS:2017750,Denton city,Denton,Denton,20043,Doniphan County,Incorporated place,39.731933,-95.269536,1
+KS,2017800,place:KS:2017800,Derby city,Derby,Derby,20173,Sedgwick County,Incorporated place,37.559529,-97.255712,1
+KS,2017875,place:KS:2017875,Detroit CDP,Detroit,Detroit,20041,Dickinson County,Census-designated place,38.935999,-97.126851,1
+KS,2017900,place:KS:2017900,Devon CDP,Devon,Devon,20011,Bourbon County,Census-designated place,37.922248,-94.815308,1
+KS,2017925,place:KS:2017925,Dexter city,Dexter,Dexter,20035,Cowley County,Incorporated place,37.179567,-96.716039,1
+KS,2018050,place:KS:2018050,Dighton city,Dighton,Dighton,20101,Lane County,Incorporated place,38.48101,-100.466367,1
+KS,2018250,place:KS:2018250,Dodge City city,Dodge City,Dodge City,20057,Ford County,Incorporated place,37.760677,-100.018438,1
+KS,2018325,place:KS:2018325,Dorrance city,Dorrance,Dorrance,20167,Russell County,Incorporated place,38.846891,-98.590044,1
+KS,2018400,place:KS:2018400,Douglass city,Douglass,Douglass,20015,Butler County,Incorporated place,37.516954,-97.010399,1
+KS,2018500,place:KS:2018500,Downs city,Downs,Downs,20141,Osborne County,Incorporated place,39.50457,-98.547305,1
+KS,2018600,place:KS:2018600,Dresden city,Dresden,Dresden,20039,Decatur County,Incorporated place,39.622762,-100.41905,1
+KS,2018950,place:KS:2018950,Dunlap city,Dunlap,Dunlap,20127,Morris County,Incorporated place,38.576286,-96.367568,1
+KS,2019050,place:KS:2019050,Durham city,Durham,Durham,20115,Marion County,Incorporated place,38.484456,-97.226885,1
+KS,2019125,place:KS:2019125,Dwight city,Dwight,Dwight,20127,Morris County,Incorporated place,38.84503,-96.592248,1
+KS,2019275,place:KS:2019275,Earlton city,Earlton,Earlton,20133,Neosho County,Incorporated place,37.587421,-95.469787,1
+KS,2019300,place:KS:2019300,Eastborough city,Eastborough,Eastborough,20173,Sedgwick County,Incorporated place,37.684623,-97.258588,1
+KS,2019600,place:KS:2019600,Easton city,Easton,Easton,20103,Leavenworth County,Incorporated place,39.34502,-95.119548,1
+KS,2019700,place:KS:2019700,Eastshore CDP,Eastshore,Eastshore,20115,Marion County,Census-designated place,38.384506,-97.06642,1
+KS,2019825,place:KS:2019825,Edgerton city,Edgerton,Edgerton,20091,Johnson County,Incorporated place,38.769314,-94.965141,1
+KS,2019875,place:KS:2019875,Edmond city,Edmond,Edmond,20137,Norton County,Incorporated place,39.627144,-99.819865,1
+KS,2019900,place:KS:2019900,Edna city,Edna,Edna,20099,Labette County,Incorporated place,37.058485,-95.359175,1
+KS,2019925,place:KS:2019925,Edson CDP,Edson,Edson,20181,Sherman County,Census-designated place,39.334926,-101.54953,1
+KS,2020000,place:KS:2020000,Edwardsville city,Edwardsville,Edwardsville,20209,Wyandotte County,Incorporated place,39.078168,-94.818818,1
+KS,2020025,place:KS:2020025,Effingham city,Effingham,Effingham,20005,Atchison County,Incorporated place,39.522909,-95.396919,1
+KS,2020075,place:KS:2020075,El Dorado city,El Dorado,El Dorado,20015,Butler County,Incorporated place,37.820429,-96.862979,1
+KS,2020050,place:KS:2020050,Elbing city,Elbing,Elbing,20015,Butler County,Incorporated place,38.053436,-97.128263,1
+KS,2020125,place:KS:2020125,Elgin city,Elgin,Elgin,20019,Chautauqua County,Incorporated place,37.001645,-96.280647,1
+KS,2020250,place:KS:2020250,Elk City city,Elk City,Elk City,20125,Montgomery County,Incorporated place,37.289083,-95.910317,1
+KS,2020300,place:KS:2020300,Elk Falls city,Elk Falls,Elk Falls,20049,Elk County,Incorporated place,37.372961,-96.192904,1
+KS,2020350,place:KS:2020350,Elkhart city,Elkhart,Elkhart,20129,Morton County,Incorporated place,37.003754,-101.894418,1
+KS,2020425,place:KS:2020425,Ellinwood city,Ellinwood,Ellinwood,20009,Barton County,Incorporated place,38.357365,-98.583852,1
+KS,2020450,place:KS:2020450,Ellis city,Ellis,Ellis,20051,Ellis County,Incorporated place,38.934654,-99.556791,1
+KS,2020500,place:KS:2020500,Ellsworth city,Ellsworth,Ellsworth,20053,Ellsworth County,Incorporated place,38.733875,-98.228017,1
+KS,2020675,place:KS:2020675,Elmdale city,Elmdale,Elmdale,20017,Chase County,Incorporated place,38.372965,-96.645988,1
+KS,2020875,place:KS:2020875,Elsmore city,Elsmore,Elsmore,20001,Allen County,Incorporated place,37.794175,-95.149913,1
+KS,2020950,place:KS:2020950,Elwood city,Elwood,Elwood,20043,Doniphan County,Incorporated place,39.751495,-94.893409,1
+KS,2020975,place:KS:2020975,Elyria CDP,Elyria,Elyria,20113,McPherson County,Census-designated place,38.289582,-97.633885,1
+KS,2021100,place:KS:2021100,Emmett city,Emmett,Emmett,20149,Pottawatomie County,Incorporated place,39.307314,-96.057609,1
+KS,2021275,place:KS:2021275,Emporia city,Emporia,Emporia,20111,Lyon County,Incorporated place,38.402352,-96.194581,1
+KS,2021350,place:KS:2021350,Englewood city,Englewood,Englewood,20025,Clark County,Incorporated place,37.040449,-99.987616,1
+KS,2021400,place:KS:2021400,Ensign city,Ensign,Ensign,20069,Gray County,Incorporated place,37.653118,-100.232824,1
+KS,2021425,place:KS:2021425,Enterprise city,Enterprise,Enterprise,20041,Dickinson County,Incorporated place,38.903403,-97.116367,1
+KS,2021500,place:KS:2021500,Erie city,Erie,Erie,20133,Neosho County,Incorporated place,37.571658,-95.241786,1
+KS,2021600,place:KS:2021600,Esbon city,Esbon,Esbon,20089,Jewell County,Incorporated place,39.821841,-98.433716,1
+KS,2021650,place:KS:2021650,Eskridge city,Eskridge,Eskridge,20197,Wabaunsee County,Incorporated place,38.859508,-96.105262,1
+KS,2021675,place:KS:2021675,Eudora city,Eudora,Eudora,20045,Douglas County,Incorporated place,38.931618,-95.104006,1
+KS,2021800,place:KS:2021800,Eureka city,Eureka,Eureka,20073,Greenwood County,Incorporated place,37.826047,-96.289001,1
+KS,2022025,place:KS:2022025,Everest city,Everest,Everest,20013,Brown County,Incorporated place,39.676974,-95.424757,1
+KS,2022425,place:KS:2022425,Fairview city,Fairview,Fairview,20013,Brown County,Incorporated place,39.839579,-95.728101,1
+KS,2022700,place:KS:2022700,Fairway city,Fairway,Fairway,20091,Johnson County,Incorporated place,39.024525,-94.62872,1
+KS,2022775,place:KS:2022775,Fall River city,Fall River,Fall River,20073,Greenwood County,Incorporated place,37.607772,-96.028555,1
+KS,2022900,place:KS:2022900,Falun CDP,Falun,Falun,20169,Saline County,Census-designated place,38.674449,-97.751145,1
+KS,2023050,place:KS:2023050,Farlington CDP,Farlington,Farlington,20037,Crawford County,Census-designated place,37.615415,-94.822662,1
+KS,2023600,place:KS:2023600,Florence city,Florence,Florence,20115,Marion County,Incorporated place,38.243075,-96.929155,1
+KS,2023650,place:KS:2023650,Fontana city,Fontana,Fontana,20121,Miami County,Incorporated place,38.421707,-94.844441,1
+KS,2023725,place:KS:2023725,Ford city,Ford,Ford,20057,Ford County,Incorporated place,37.636652,-99.753778,1
+KS,2023825,place:KS:2023825,Formoso city,Formoso,Formoso,20089,Jewell County,Incorporated place,39.77848,-97.992873,1
+KS,2023890,place:KS:2023890,Fort Dodge CDP,Fort Dodge,Fort Dodge,20057,Ford County,Census-designated place,37.730399,-99.937003,1
+KS,2023975,place:KS:2023975,Fort Riley CDP,Fort Riley,Fort Riley,20161,Riley County,Census-designated place,39.106344,-96.812547,1
+KS,2024000,place:KS:2024000,Fort Scott city,Fort Scott,Fort Scott,20011,Bourbon County,Incorporated place,37.828,-94.704141,1
+KS,2024175,place:KS:2024175,Fowler city,Fowler,Fowler,20119,Meade County,Incorporated place,37.383265,-100.195793,1
+KS,2024275,place:KS:2024275,Frankfort city,Frankfort,Frankfort,20117,Marshall County,Incorporated place,39.704121,-96.417807,1
+KS,2024325,place:KS:2024325,Franklin CDP,Franklin,Franklin,20037,Crawford County,Census-designated place,37.519978,-94.696366,1
+KS,2024550,place:KS:2024550,Frederick city,Frederick,Frederick,20159,Rice County,Incorporated place,38.512859,-98.267582,1
+KS,2024575,place:KS:2024575,Fredonia city,Fredonia,Fredonia,20205,Wilson County,Incorporated place,37.533095,-95.822348,1
+KS,2024850,place:KS:2024850,Frontenac city,Frontenac,Frontenac,20037,Crawford County,Incorporated place,37.458763,-94.700771,1
+KS,2024925,place:KS:2024925,Fulton city,Fulton,Fulton,20011,Bourbon County,Incorporated place,38.009842,-94.719734,1
+KS,2024975,place:KS:2024975,Furley CDP,Furley,Furley,20173,Sedgwick County,Census-designated place,37.880071,-97.211869,1
+KS,2025050,place:KS:2025050,Galatia city,Galatia,Galatia,20009,Barton County,Incorporated place,38.641082,-98.957757,1
+KS,2025100,place:KS:2025100,Galena city,Galena,Galena,20021,Cherokee County,Incorporated place,37.075194,-94.635517,1
+KS,2025150,place:KS:2025150,Galesburg city,Galesburg,Galesburg,20133,Neosho County,Incorporated place,37.472162,-95.356398,1
+KS,2025200,place:KS:2025200,Galva city,Galva,Galva,20113,McPherson County,Incorporated place,38.383604,-97.53808,1
+KS,2025325,place:KS:2025325,Garden City city,Garden City,Garden City,20055,Finney County,Incorporated place,37.975876,-100.850884,1
+KS,2025375,place:KS:2025375,Garden Plain city,Garden Plain,Garden Plain,20173,Sedgwick County,Incorporated place,37.66225,-97.677288,1
+KS,2025425,place:KS:2025425,Gardner city,Gardner,Gardner,20091,Johnson County,Incorporated place,38.809322,-94.920513,1
+KS,2025750,place:KS:2025750,Garfield city,Garfield,Garfield,20145,Pawnee County,Incorporated place,38.077054,-99.244542,1
+KS,2025900,place:KS:2025900,Garland CDP,Garland,Garland,20011,Bourbon County,Census-designated place,37.730483,-94.624384,1
+KS,2025925,place:KS:2025925,Garnett city,Garnett,Garnett,20003,Anderson County,Incorporated place,38.285873,-95.241231,1
+KS,2025975,place:KS:2025975,Gas city,Gas,Gas,20001,Allen County,Incorporated place,37.92257,-95.344956,1
+KS,2026000,place:KS:2026000,Gaylord city,Gaylord,Gaylord,20183,Smith County,Incorporated place,39.646383,-98.847325,1
+KS,2026050,place:KS:2026050,Gem city,Gem,Gem,20193,Thomas County,Incorporated place,39.426,-100.897249,1
+KS,2026075,place:KS:2026075,Geneseo city,Geneseo,Geneseo,20159,Rice County,Incorporated place,38.51702,-98.154473,1
+KS,2026200,place:KS:2026200,Geuda Springs city,Geuda Springs,Geuda Springs,20191,Sumner County,Incorporated place,37.111447,-97.150447,1
+KS,2026300,place:KS:2026300,Girard city,Girard,Girard,20037,Crawford County,Incorporated place,37.508855,-94.84552,1
+KS,2026325,place:KS:2026325,Glade city,Glade,Glade,20147,Phillips County,Incorporated place,39.683745,-99.311557,1
+KS,2026375,place:KS:2026375,Glasco city,Glasco,Glasco,20029,Cloud County,Incorporated place,39.361,-97.836963,1
+KS,2026500,place:KS:2026500,Glen Elder city,Glen Elder,Glen Elder,20123,Mitchell County,Incorporated place,39.500166,-98.30649,1
+KS,2026725,place:KS:2026725,Goddard city,Goddard,Goddard,20173,Sedgwick County,Incorporated place,37.664202,-97.557639,1
+KS,2026750,place:KS:2026750,Goessel city,Goessel,Goessel,20115,Marion County,Incorporated place,38.247072,-97.345742,1
+KS,2026775,place:KS:2026775,Goff city,Goff,Goff,20131,Nemaha County,Incorporated place,39.664116,-95.931762,1
+KS,2026875,place:KS:2026875,Goodland city,Goodland,Goodland,20181,Sherman County,Incorporated place,39.349341,-101.713817,1
+KS,2027000,place:KS:2027000,Gorham city,Gorham,Gorham,20167,Russell County,Incorporated place,38.880676,-99.023701,1
+KS,2027125,place:KS:2027125,Gove City city,Gove City,Gove City,20063,Gove County,Incorporated place,38.959462,-100.487071,1
+KS,2027200,place:KS:2027200,Grainfield city,Grainfield,Grainfield,20063,Gove County,Incorporated place,39.114283,-100.468369,1
+KS,2027425,place:KS:2027425,Grandview Plaza city,Grandview Plaza,Grandview Plaza,20061,Geary County,Incorporated place,39.032811,-96.792765,1
+KS,2028200,place:KS:2028200,Grantville CDP,Grantville,Grantville,20087,Jefferson County,Census-designated place,39.080594,-95.561169,1
+KS,2028300,place:KS:2028300,Great Bend city,Great Bend,Great Bend,20009,Barton County,Incorporated place,38.358664,-98.798879,1
+KS,2028350,place:KS:2028350,Greeley city,Greeley,Greeley,20003,Anderson County,Incorporated place,38.367374,-95.126349,1
+KS,2028412,place:KS:2028412,Greeley County unified government (balance),Greeley County,Greeley County,20071,Greeley County,Incorporated place,38.480413,-101.806024,1
+KS,2028425,place:KS:2028425,Green city,Green,Green,20027,Clay County,Incorporated place,39.430124,-96.999896,1
+KS,2028625,place:KS:2028625,Greenleaf city,Greenleaf,Greenleaf,20201,Washington County,Incorporated place,39.726706,-96.979827,1
+KS,2028675,place:KS:2028675,Greensburg city,Greensburg,Greensburg,20097,Kiowa County,Incorporated place,37.604875,-99.289569,1
+KS,2028700,place:KS:2028700,Greenwich CDP,Greenwich,Greenwich,20173,Sedgwick County,Census-designated place,37.783374,-97.203149,1
+KS,2028800,place:KS:2028800,Grenola city,Grenola,Grenola,20049,Elk County,Incorporated place,37.350289,-96.449671,1
+KS,2028850,place:KS:2028850,Gridley city,Gridley,Gridley,20031,Coffey County,Incorporated place,38.101054,-95.881511,1
+KS,2028900,place:KS:2028900,Grinnell city,Grinnell,Grinnell,20063,Gove County,Incorporated place,39.126617,-100.631071,1
+KS,2029250,place:KS:2029250,Gypsum city,Gypsum,Gypsum,20169,Saline County,Incorporated place,38.705775,-97.426623,1
+KS,2029400,place:KS:2029400,Haddam city,Haddam,Haddam,20201,Washington County,Incorporated place,39.855282,-97.304262,1
+KS,2029550,place:KS:2029550,Hallowell CDP,Hallowell,Hallowell,20021,Cherokee County,Census-designated place,37.173362,-95.002735,1
+KS,2029600,place:KS:2029600,Halstead city,Halstead,Halstead,20079,Harvey County,Incorporated place,38.000976,-97.508875,1
+KS,2029675,place:KS:2029675,Hamilton city,Hamilton,Hamilton,20073,Greenwood County,Incorporated place,37.980583,-96.163836,1
+KS,2029700,place:KS:2029700,Hamlin city,Hamlin,Hamlin,20013,Brown County,Incorporated place,39.915513,-95.627539,1
+KS,2029875,place:KS:2029875,Hanover city,Hanover,Hanover,20201,Washington County,Incorporated place,39.89317,-96.875067,1
+KS,2029925,place:KS:2029925,Hanston city,Hanston,Hanston,20083,Hodgeman County,Incorporated place,38.123008,-99.712712,1
+KS,2030000,place:KS:2030000,Hardtner city,Hardtner,Hardtner,20007,Barber County,Incorporated place,37.014417,-98.649178,1
+KS,2030175,place:KS:2030175,Harper city,Harper,Harper,20077,Harper County,Incorporated place,37.285072,-98.027592,1
+KS,2030250,place:KS:2030250,Harris CDP,Harris,Harris,20003,Anderson County,Census-designated place,38.320836,-95.447459,1
+KS,2030475,place:KS:2030475,Hartford city,Hartford,Hartford,20111,Lyon County,Incorporated place,38.308378,-95.956649,1
+KS,2030575,place:KS:2030575,Harveyville city,Harveyville,Harveyville,20197,Wabaunsee County,Incorporated place,38.789117,-95.962523,1
+KS,2030700,place:KS:2030700,Havana city,Havana,Havana,20125,Montgomery County,Incorporated place,37.092113,-95.941917,1
+KS,2030725,place:KS:2030725,Haven city,Haven,Haven,20155,Reno County,Incorporated place,37.901633,-97.783094,1
+KS,2030775,place:KS:2030775,Havensville city,Havensville,Havensville,20149,Pottawatomie County,Incorporated place,39.511228,-96.076352,1
+KS,2030825,place:KS:2030825,Haviland city,Haviland,Haviland,20097,Kiowa County,Incorporated place,37.617413,-99.10582,1
+KS,2031100,place:KS:2031100,Hays city,Hays,Hays,20051,Ellis County,Incorporated place,38.882637,-99.322227,1
+KS,2031125,place:KS:2031125,Haysville city,Haysville,Haysville,20173,Sedgwick County,Incorporated place,37.566059,-97.353513,1
+KS,2031150,place:KS:2031150,Hazelton city,Hazelton,Hazelton,20007,Barber County,Incorporated place,37.089447,-98.401541,1
+KS,2031200,place:KS:2031200,Healy CDP,Healy,Healy,20101,Lane County,Census-designated place,38.603042,-100.61759,1
+KS,2031375,place:KS:2031375,Hepler city,Hepler,Hepler,20037,Crawford County,Incorporated place,37.663398,-94.969967,1
+KS,2031400,place:KS:2031400,Herington city,Herington,Herington,20127,Morris County,Incorporated place,38.696855,-96.807268,1
+KS,2031425,place:KS:2031425,Herkimer CDP,Herkimer,Herkimer,20117,Marshall County,Census-designated place,39.892367,-96.708932,1
+KS,2031475,place:KS:2031475,Herndon city,Herndon,Herndon,20153,Rawlins County,Incorporated place,39.90916,-100.786496,1
+KS,2031600,place:KS:2031600,Hesston city,Hesston,Hesston,20079,Harvey County,Incorporated place,38.140217,-97.426721,1
+KS,2031675,place:KS:2031675,Hiawatha city,Hiawatha,Hiawatha,20013,Brown County,Incorporated place,39.851661,-95.537789,1
+KS,2031850,place:KS:2031850,Highland city,Highland,Highland,20043,Doniphan County,Incorporated place,39.860407,-95.265269,1
+KS,2032175,place:KS:2032175,Hill City city,Hill City,Hill City,20065,Graham County,Incorporated place,39.368726,-99.840476,1
+KS,2032275,place:KS:2032275,Hillsboro city,Hillsboro,Hillsboro,20115,Marion County,Incorporated place,38.352652,-97.199572,1
+KS,2032300,place:KS:2032300,Hillsdale CDP,Hillsdale,Hillsdale,20121,Miami County,Census-designated place,38.661396,-94.856905,1
+KS,2032550,place:KS:2032550,Hoisington city,Hoisington,Hoisington,20009,Barton County,Incorporated place,38.518673,-98.778499,1
+KS,2032575,place:KS:2032575,Holcomb city,Holcomb,Holcomb,20055,Finney County,Incorporated place,37.985983,-100.993619,1
+KS,2032650,place:KS:2032650,Hollenberg city,Hollenberg,Hollenberg,20201,Washington County,Incorporated place,39.98105,-96.991914,1
+KS,2032825,place:KS:2032825,Holton city,Holton,Holton,20085,Jackson County,Incorporated place,39.469861,-95.732555,1
+KS,2032850,place:KS:2032850,Holyrood city,Holyrood,Holyrood,20053,Ellsworth County,Incorporated place,38.587748,-98.410685,1
+KS,2032875,place:KS:2032875,Home CDP,Home,Home,20117,Marshall County,Census-designated place,39.841028,-96.519378,1
+KS,2033075,place:KS:2033075,Hope city,Hope,Hope,20041,Dickinson County,Incorporated place,38.691222,-97.076496,1
+KS,2033150,place:KS:2033150,Horace city,Horace,Horace,20071,Greeley County,Incorporated place,38.476841,-101.790499,1
+KS,2033200,place:KS:2033200,Horton city,Horton,Horton,20013,Brown County,Incorporated place,39.663791,-95.532532,1
+KS,2033250,place:KS:2033250,Howard city,Howard,Howard,20049,Elk County,Incorporated place,37.469432,-96.263019,1
+KS,2033350,place:KS:2033350,Hoxie city,Hoxie,Hoxie,20179,Sheridan County,Incorporated place,39.355828,-100.439844,1
+KS,2033375,place:KS:2033375,Hoyt city,Hoyt,Hoyt,20085,Jackson County,Incorporated place,39.249358,-95.707921,1
+KS,2033400,place:KS:2033400,Hudson city,Hudson,Hudson,20185,Stafford County,Incorporated place,38.104878,-98.660685,1
+KS,2033425,place:KS:2033425,Hugoton city,Hugoton,Hugoton,20189,Stevens County,Incorporated place,37.17451,-101.344544,1
+KS,2033450,place:KS:2033450,Humboldt city,Humboldt,Humboldt,20001,Allen County,Incorporated place,37.812392,-95.436146,1
+KS,2033500,place:KS:2033500,Hunnewell city,Hunnewell,Hunnewell,20191,Sumner County,Incorporated place,37.004128,-97.407613,1
+KS,2033525,place:KS:2033525,Hunter city,Hunter,Hunter,20123,Mitchell County,Incorporated place,39.235043,-98.396117,1
+KS,2033575,place:KS:2033575,Huron city,Huron,Huron,20005,Atchison County,Incorporated place,39.638233,-95.351199,1
+KS,2033625,place:KS:2033625,Hutchinson city,Hutchinson,Hutchinson,20155,Reno County,Incorporated place,38.064237,-97.908629,1
+KS,2033700,place:KS:2033700,Idana CDP,Idana,Idana,20027,Clay County,Census-designated place,39.361521,-97.266409,1
+KS,2033875,place:KS:2033875,Independence city,Independence,Independence,20125,Montgomery County,Incorporated place,37.232857,-95.713312,1
+KS,2034225,place:KS:2034225,Ingalls city,Ingalls,Ingalls,20069,Gray County,Incorporated place,37.828578,-100.453323,1
+KS,2034275,place:KS:2034275,Inman city,Inman,Inman,20113,McPherson County,Incorporated place,38.232423,-97.772212,1
+KS,2034300,place:KS:2034300,Iola city,Iola,Iola,20001,Allen County,Incorporated place,37.925873,-95.398539,1
+KS,2034350,place:KS:2034350,Ionia CDP,Ionia,Ionia,20089,Jewell County,Census-designated place,39.662632,-98.343964,1
+KS,2034550,place:KS:2034550,Isabel city,Isabel,Isabel,20007,Barber County,Incorporated place,37.467151,-98.551517,1
+KS,2034625,place:KS:2034625,Iuka city,Iuka,Iuka,20151,Pratt County,Incorporated place,37.729006,-98.732717,1
+KS,2034975,place:KS:2034975,Jamestown city,Jamestown,Jamestown,20029,Cloud County,Incorporated place,39.599548,-97.861255,1
+KS,2035375,place:KS:2035375,Jennings city,Jennings,Jennings,20039,Decatur County,Incorporated place,39.680547,-100.293208,1
+KS,2035450,place:KS:2035450,Jetmore city,Jetmore,Jetmore,20083,Hodgeman County,Incorporated place,37.98662,-99.8847,1
+KS,2035475,place:KS:2035475,Jewell city,Jewell,Jewell,20089,Jewell County,Incorporated place,39.671551,-98.152408,1
+KS,2035600,place:KS:2035600,Johnson City city,Johnson City,Johnson City,20187,Stanton County,Incorporated place,37.570442,-101.744783,1
+KS,2035750,place:KS:2035750,Junction City city,Junction City,Junction City,20061,Geary County,Incorporated place,39.02722,-96.852271,1
+KS,2035950,place:KS:2035950,Kanopolis city,Kanopolis,Kanopolis,20053,Ellsworth County,Incorporated place,38.708111,-98.158069,1
+KS,2035975,place:KS:2035975,Kanorado city,Kanorado,Kanorado,20181,Sherman County,Incorporated place,39.336542,-102.037255,1
+KS,2036000,place:KS:2036000,Kansas City city,Kansas City,Kansas City,20209,Wyandotte County,Incorporated place,39.122539,-94.741781,1
+KS,2036200,place:KS:2036200,Keats CDP,Keats,Keats,20161,Riley County,Census-designated place,39.216782,-96.707417,1
+KS,2036225,place:KS:2036225,Kechi city,Kechi,Kechi,20173,Sedgwick County,Incorporated place,37.794371,-97.26646,1
+KS,2036375,place:KS:2036375,Kelly CDP,Kelly,Kelly,20131,Nemaha County,Census-designated place,39.736844,-96.000723,1
+KS,2036550,place:KS:2036550,Kensington city,Kensington,Kensington,20183,Smith County,Incorporated place,39.766702,-99.03285,1
+KS,2036735,place:KS:2036735,Kickapoo Site 1 CDP,Kickapoo Site 1,Kickapoo Site 1,20013,Brown County,Census-designated place,39.714452,-95.648428,1
+KS,2036736,place:KS:2036736,Kickapoo Site 2 CDP,Kickapoo Site 2,Kickapoo Site 2,20013,Brown County,Census-designated place,39.702941,-95.649533,1
+KS,2036739,place:KS:2036739,Kickapoo Site 5 CDP,Kickapoo Site 5,Kickapoo Site 5,20013,Brown County,Census-designated place,39.673481,-95.684199,1
+KS,2036740,place:KS:2036740,Kickapoo Site 6 CDP,Kickapoo Site 6,Kickapoo Site 6,20013,Brown County,Census-designated place,39.691751,-95.690494,1
+KS,2036741,place:KS:2036741,Kickapoo Site 7 CDP,Kickapoo Site 7,Kickapoo Site 7,20013,Brown County,Census-designated place,39.689531,-95.671328,1
+KS,2036744,place:KS:2036744,Kickapoo Tribal Center CDP,Kickapoo Tribal Center,Kickapoo Tribal Center,20013,Brown County,Census-designated place,39.672245,-95.645276,1
+KS,2036875,place:KS:2036875,Kincaid city,Kincaid,Kincaid,20003,Anderson County,Incorporated place,38.080732,-95.156157,1
+KS,2036950,place:KS:2036950,Kingman city,Kingman,Kingman,20095,Kingman County,Incorporated place,37.647712,-98.115993,1
+KS,2037075,place:KS:2037075,Kinsley city,Kinsley,Kinsley,20047,Edwards County,Incorporated place,37.922377,-99.411407,1
+KS,2037125,place:KS:2037125,Kiowa city,Kiowa,Kiowa,20007,Barber County,Incorporated place,37.017405,-98.484819,1
+KS,2037200,place:KS:2037200,Kipp CDP,Kipp,Kipp,20169,Saline County,Census-designated place,38.78499,-97.456822,1
+KS,2037275,place:KS:2037275,Kirwin city,Kirwin,Kirwin,20147,Phillips County,Incorporated place,39.669807,-99.12175,1
+KS,2037325,place:KS:2037325,Kismet city,Kismet,Kismet,20175,Seward County,Incorporated place,37.204485,-100.70166,1
+KS,2037500,place:KS:2037500,La Crosse city,La Crosse,La Crosse,20165,Rush County,Incorporated place,38.531837,-99.309498,1
+KS,2037575,place:KS:2037575,La Cygne city,La Cygne,La Cygne,20107,Linn County,Incorporated place,38.347832,-94.760569,1
+KS,2037725,place:KS:2037725,La Harpe city,La Harpe,La Harpe,20001,Allen County,Incorporated place,37.916446,-95.30305,1
+KS,2037375,place:KS:2037375,Labette city,Labette,Labette,20099,Labette County,Incorporated place,37.230015,-95.18355,1
+KS,2037675,place:KS:2037675,Lafontaine CDP,Lafontaine,Lafontaine,20205,Wilson County,Census-designated place,37.399839,-95.842408,1
+KS,2037875,place:KS:2037875,Lake City CDP,Lake City,Lake City,20007,Barber County,Census-designated place,37.356957,-98.827864,1
+KS,2037975,place:KS:2037975,Lake Quivira city,Lake Quivira,Lake Quivira,20091,Johnson County,Incorporated place,39.04019,-94.768526,1
+KS,2038175,place:KS:2038175,Lakin city,Lakin,Lakin,20093,Kearny County,Incorporated place,37.940016,-101.258444,1
+KS,2038325,place:KS:2038325,Lancaster city,Lancaster,Lancaster,20005,Atchison County,Incorporated place,39.571159,-95.303712,1
+KS,2038400,place:KS:2038400,Lane city,Lane,Lane,20059,Franklin County,Incorporated place,38.440047,-95.082091,1
+KS,2038500,place:KS:2038500,Langdon city,Langdon,Langdon,20155,Reno County,Incorporated place,37.853192,-98.32418,1
+KS,2038650,place:KS:2038650,Lansing city,Lansing,Lansing,20103,Leavenworth County,Incorporated place,39.242934,-94.897884,1
+KS,2038700,place:KS:2038700,Larned city,Larned,Larned,20145,Pawnee County,Incorporated place,38.18339,-99.101261,1
+KS,2038775,place:KS:2038775,Latham city,Latham,Latham,20015,Butler County,Incorporated place,37.535587,-96.642529,1
+KS,2038800,place:KS:2038800,Latimer city,Latimer,Latimer,20127,Morris County,Incorporated place,38.738573,-96.845956,1
+KS,2038900,place:KS:2038900,Lawrence city,Lawrence,Lawrence,20045,Douglas County,Incorporated place,38.959551,-95.265468,1
+KS,2039000,place:KS:2039000,Leavenworth city,Leavenworth,Leavenworth,20103,Leavenworth County,Incorporated place,39.322717,-94.925013,1
+KS,2039075,place:KS:2039075,Leawood city,Leawood,Leawood,20091,Johnson County,Incorporated place,38.907263,-94.62524,1
+KS,2039100,place:KS:2039100,Lebanon city,Lebanon,Lebanon,20183,Smith County,Incorporated place,39.810176,-98.557294,1
+KS,2039125,place:KS:2039125,Lebo city,Lebo,Lebo,20031,Coffey County,Incorporated place,38.416179,-95.862482,1
+KS,2039150,place:KS:2039150,Lecompton city,Lecompton,Lecompton,20045,Douglas County,Incorporated place,39.040324,-95.393844,1
+KS,2039225,place:KS:2039225,Lehigh city,Lehigh,Lehigh,20115,Marion County,Incorporated place,38.374407,-97.30241,1
+KS,2039350,place:KS:2039350,Lenexa city,Lenexa,Lenexa,20091,Johnson County,Incorporated place,38.965268,-94.803937,1
+KS,2039400,place:KS:2039400,Lenora city,Lenora,Lenora,20137,Norton County,Incorporated place,39.610868,-100.001406,1
+KS,2039450,place:KS:2039450,Leon city,Leon,Leon,20015,Butler County,Incorporated place,37.689517,-96.783833,1
+KS,2039475,place:KS:2039475,Leona city,Leona,Leona,20043,Doniphan County,Incorporated place,39.785986,-95.321367,1
+KS,2039500,place:KS:2039500,Leonardville city,Leonardville,Leonardville,20161,Riley County,Incorporated place,39.36405,-96.859637,1
+KS,2039550,place:KS:2039550,Leoti city,Leoti,Leoti,20203,Wichita County,Incorporated place,38.483388,-101.357648,1
+KS,2039650,place:KS:2039650,LeRoy city,LeRoy,LeRoy,20031,Coffey County,Incorporated place,38.085957,-95.63297,1
+KS,2039700,place:KS:2039700,Levant CDP,Levant,Levant,20193,Thomas County,Census-designated place,39.388111,-101.194773,1
+KS,2039725,place:KS:2039725,Lewis city,Lewis,Lewis,20047,Edwards County,Incorporated place,37.937028,-99.254671,1
+KS,2039825,place:KS:2039825,Liberal city,Liberal,Liberal,20175,Seward County,Incorporated place,37.046108,-100.927706,1
+KS,2040250,place:KS:2040250,Liberty city,Liberty,Liberty,20125,Montgomery County,Incorporated place,37.156361,-95.597674,1
+KS,2040400,place:KS:2040400,Liebenthal city,Liebenthal,Liebenthal,20165,Rush County,Incorporated place,38.654479,-99.320027,1
+KS,2041300,place:KS:2041300,Lincoln Center city,Lincoln Center,Lincoln Center,20105,Lincoln County,Incorporated place,39.042955,-98.146737,1
+KS,2041325,place:KS:2041325,Lincolnville city,Lincolnville,Lincolnville,20115,Marion County,Incorporated place,38.494273,-96.961481,1
+KS,2041375,place:KS:2041375,Lindsborg city,Lindsborg,Lindsborg,20113,McPherson County,Incorporated place,38.577142,-97.674009,1
+KS,2041425,place:KS:2041425,Linn city,Linn,Linn,20201,Washington County,Incorporated place,39.678802,-97.086968,1
+KS,2041465,place:KS:2041465,Linn Valley city,Linn Valley,Linn Valley,20107,Linn County,Incorporated place,38.376182,-94.710466,1
+KS,2041475,place:KS:2041475,Linwood city,Linwood,Linwood,20103,Leavenworth County,Incorporated place,39.001999,-95.037101,1
+KS,2041575,place:KS:2041575,Little River city,Little River,Little River,20159,Rice County,Incorporated place,38.398214,-98.014947,1
+KS,2042100,place:KS:2042100,Logan city,Logan,Logan,20147,Phillips County,Incorporated place,39.661656,-99.567282,1
+KS,2042425,place:KS:2042425,Lone Elm city,Lone Elm,Lone Elm,20003,Anderson County,Incorporated place,38.079628,-95.243056,1
+KS,2042600,place:KS:2042600,Long Island city,Long Island,Long Island,20147,Phillips County,Incorporated place,39.946121,-99.533914,1
+KS,2042575,place:KS:2042575,Longford city,Longford,Longford,20027,Clay County,Incorporated place,39.172096,-97.329074,1
+KS,2042650,place:KS:2042650,Longton city,Longton,Longton,20049,Elk County,Incorporated place,37.377463,-96.081839,1
+KS,2042800,place:KS:2042800,Lorraine city,Lorraine,Lorraine,20053,Ellsworth County,Incorporated place,38.569049,-98.317331,1
+KS,2042825,place:KS:2042825,Lost Springs city,Lost Springs,Lost Springs,20115,Marion County,Incorporated place,38.566619,-96.965767,1
+KS,2042875,place:KS:2042875,Louisburg city,Louisburg,Louisburg,20121,Miami County,Incorporated place,38.620506,-94.677082,1
+KS,2042925,place:KS:2042925,Louisville city,Louisville,Louisville,20149,Pottawatomie County,Incorporated place,39.249865,-96.314479,1
+KS,2043050,place:KS:2043050,Lowell CDP,Lowell,Lowell,20021,Cherokee County,Census-designated place,37.051305,-94.70267,1
+KS,2043150,place:KS:2043150,Lucas city,Lucas,Lucas,20167,Russell County,Incorporated place,39.058653,-98.537708,1
+KS,2043175,place:KS:2043175,Ludell CDP,Ludell,Ludell,20153,Rawlins County,Census-designated place,39.856568,-100.958426,1
+KS,2043250,place:KS:2043250,Luray city,Luray,Luray,20167,Russell County,Incorporated place,39.114989,-98.692151,1
+KS,2043350,place:KS:2043350,Lyndon city,Lyndon,Lyndon,20139,Osage County,Incorporated place,38.611908,-95.684424,1
+KS,2043525,place:KS:2043525,Lyons city,Lyons,Lyons,20159,Rice County,Incorporated place,38.346138,-98.204672,1
+KS,2043850,place:KS:2043850,Macksville city,Macksville,Macksville,20185,Stafford County,Incorporated place,37.95723,-98.968862,1
+KS,2044050,place:KS:2044050,Madison city,Madison,Madison,20073,Greenwood County,Incorporated place,38.133558,-96.13718,1
+KS,2044150,place:KS:2044150,Mahaska city,Mahaska,Mahaska,20201,Washington County,Incorporated place,39.987269,-97.353609,1
+KS,2044200,place:KS:2044200,Maize city,Maize,Maize,20173,Sedgwick County,Incorporated place,37.77486,-97.459134,1
+KS,2044225,place:KS:2044225,Manchester city,Manchester,Manchester,20041,Dickinson County,Incorporated place,39.093313,-97.320156,1
+KS,2044250,place:KS:2044250,Manhattan city,Manhattan,Manhattan,20161,Riley County,Incorporated place,39.188307,-96.605864,1
+KS,2044300,place:KS:2044300,Mankato city,Mankato,Mankato,20089,Jewell County,Incorporated place,39.787339,-98.208267,1
+KS,2044375,place:KS:2044375,Manter city,Manter,Manter,20187,Stanton County,Incorporated place,37.524515,-101.883166,1
+KS,2044500,place:KS:2044500,Maple Hill city,Maple Hill,Maple Hill,20197,Wabaunsee County,Incorporated place,39.085423,-96.028015,1
+KS,2044550,place:KS:2044550,Mapleton city,Mapleton,Mapleton,20011,Bourbon County,Incorporated place,38.015693,-94.884081,1
+KS,2044600,place:KS:2044600,Marienthal CDP,Marienthal,Marienthal,20203,Wichita County,Census-designated place,38.48908,-101.220035,1
+KS,2044750,place:KS:2044750,Marion city,Marion,Marion,20115,Marion County,Incorporated place,38.353315,-97.007777,1
+KS,2044925,place:KS:2044925,Marquette city,Marquette,Marquette,20113,McPherson County,Incorporated place,38.555844,-97.834428,1
+KS,2045050,place:KS:2045050,Marysville city,Marysville,Marysville,20117,Marshall County,Incorporated place,39.84369,-96.638878,1
+KS,2045150,place:KS:2045150,Matfield Green city,Matfield Green,Matfield Green,20017,Chase County,Incorporated place,38.159651,-96.562014,1
+KS,2045250,place:KS:2045250,Mayetta city,Mayetta,Mayetta,20085,Jackson County,Incorporated place,39.338642,-95.721806,1
+KS,2045275,place:KS:2045275,Mayfield city,Mayfield,Mayfield,20191,Sumner County,Incorporated place,37.263088,-97.540402,1
+KS,2043675,place:KS:2043675,McConnell AFB CDP,McConnell AFB,McConnell AFB,20173,Sedgwick County,Census-designated place,37.634437,-97.258492,1
+KS,2043700,place:KS:2043700,McCracken city,McCracken,McCracken,20165,Rush County,Incorporated place,38.582085,-99.568446,1
+KS,2043725,place:KS:2043725,McCune city,McCune,McCune,20037,Crawford County,Incorporated place,37.353804,-95.019203,1
+KS,2043750,place:KS:2043750,McDonald city,McDonald,McDonald,20153,Rawlins County,Incorporated place,39.784746,-101.370194,1
+KS,2043775,place:KS:2043775,McFarland city,McFarland,McFarland,20197,Wabaunsee County,Incorporated place,39.054691,-96.237983,1
+KS,2043900,place:KS:2043900,McLouth city,McLouth,McLouth,20087,Jefferson County,Incorporated place,39.196439,-95.208614,1
+KS,2043950,place:KS:2043950,McPherson city,McPherson,McPherson,20113,McPherson County,Incorporated place,38.369881,-97.664518,1
+KS,2045325,place:KS:2045325,Meade city,Meade,Meade,20119,Meade County,Incorporated place,37.283612,-100.343022,1
+KS,2045500,place:KS:2045500,Medicine Lodge city,Medicine Lodge,Medicine Lodge,20007,Barber County,Incorporated place,37.285137,-98.581185,1
+KS,2045700,place:KS:2045700,Melvern city,Melvern,Melvern,20139,Osage County,Incorporated place,38.507339,-95.637764,1
+KS,2045750,place:KS:2045750,Menlo city,Menlo,Menlo,20193,Thomas County,Incorporated place,39.356106,-100.72425,1
+KS,2045875,place:KS:2045875,Mentor CDP,Mentor,Mentor,20169,Saline County,Census-designated place,38.740665,-97.597925,1
+KS,2045950,place:KS:2045950,Meriden city,Meriden,Meriden,20087,Jefferson County,Incorporated place,39.189512,-95.568127,1
+KS,2046000,place:KS:2046000,Merriam city,Merriam,Merriam,20091,Johnson County,Incorporated place,39.017607,-94.693955,1
+KS,2046450,place:KS:2046450,Milan city,Milan,Milan,20191,Sumner County,Incorporated place,37.257474,-97.673998,1
+KS,2046500,place:KS:2046500,Mildred CDP,Mildred,Mildred,20001,Allen County,Census-designated place,38.024205,-95.172299,1
+KS,2046525,place:KS:2046525,Milford city,Milford,Milford,20061,Geary County,Incorporated place,39.172929,-96.910427,1
+KS,2046925,place:KS:2046925,Milton CDP,Milton,Milton,20191,Sumner County,Census-designated place,37.443211,-97.769393,1
+KS,2046950,place:KS:2046950,Miltonvale city,Miltonvale,Miltonvale,20029,Cloud County,Incorporated place,39.349571,-97.452302,1
+KS,2047075,place:KS:2047075,Minneapolis city,Minneapolis,Minneapolis,20143,Ottawa County,Incorporated place,39.124289,-97.699657,1
+KS,2047150,place:KS:2047150,Minneola city,Minneola,Minneola,20025,Clark County,Incorporated place,37.442029,-100.013078,1
+KS,2047225,place:KS:2047225,Mission city,Mission,Mission,20091,Johnson County,Incorporated place,39.026774,-94.656962,1
+KS,2047350,place:KS:2047350,Mission Hills city,Mission Hills,Mission Hills,20091,Johnson County,Incorporated place,39.013994,-94.617393,1
+KS,2047425,place:KS:2047425,Mission Woods city,Mission Woods,Mission Woods,20091,Johnson County,Incorporated place,39.034198,-94.610647,1
+KS,2047600,place:KS:2047600,Moline city,Moline,Moline,20049,Elk County,Incorporated place,37.36365,-96.302384,1
+KS,2047975,place:KS:2047975,Mont Ida CDP,Mont Ida,Mont Ida,20003,Anderson County,Census-designated place,38.216923,-95.364009,1
+KS,2047875,place:KS:2047875,Montezuma city,Montezuma,Montezuma,20069,Gray County,Incorporated place,37.59249,-100.450756,1
+KS,2048025,place:KS:2048025,Monument CDP,Monument,Monument,20109,Logan County,Census-designated place,39.104969,-101.008095,1
+KS,2048125,place:KS:2048125,Moran city,Moran,Moran,20001,Allen County,Incorporated place,37.916542,-95.171429,1
+KS,2048225,place:KS:2048225,Morganville city,Morganville,Morganville,20027,Clay County,Incorporated place,39.466715,-97.203674,1
+KS,2048275,place:KS:2048275,Morland city,Morland,Morland,20065,Graham County,Incorporated place,39.348999,-100.074352,1
+KS,2048300,place:KS:2048300,Morrill city,Morrill,Morrill,20013,Brown County,Incorporated place,39.929169,-95.694323,1
+KS,2048450,place:KS:2048450,Morrowville city,Morrowville,Morrowville,20201,Washington County,Incorporated place,39.845303,-97.172769,1
+KS,2048600,place:KS:2048600,Moscow city,Moscow,Moscow,20189,Stevens County,Incorporated place,37.32511,-101.206771,1
+KS,2048750,place:KS:2048750,Mound City city,Mound City,Mound City,20107,Linn County,Incorporated place,38.139532,-94.821245,1
+KS,2048825,place:KS:2048825,Mound Valley city,Mound Valley,Mound Valley,20099,Labette County,Incorporated place,37.207018,-95.404763,1
+KS,2048800,place:KS:2048800,Moundridge city,Moundridge,Moundridge,20113,McPherson County,Incorporated place,38.201829,-97.514879,1
+KS,2048900,place:KS:2048900,Mount Hope city,Mount Hope,Mount Hope,20173,Sedgwick County,Incorporated place,37.872566,-97.655168,1
+KS,2049025,place:KS:2049025,Mulberry city,Mulberry,Mulberry,20037,Crawford County,Incorporated place,37.556082,-94.623442,1
+KS,2049075,place:KS:2049075,Mullinville city,Mullinville,Mullinville,20097,Kiowa County,Incorporated place,37.588574,-99.47556,1
+KS,2049100,place:KS:2049100,Mulvane city,Mulvane,Mulvane,20173,Sedgwick County,Incorporated place,37.476451,-97.235365,1
+KS,2049150,place:KS:2049150,Munden city,Munden,Munden,20157,Republic County,Incorporated place,39.912633,-97.53845,1
+KS,2049200,place:KS:2049200,Munjor CDP,Munjor,Munjor,20051,Ellis County,Census-designated place,38.808856,-99.267461,1
+KS,2049250,place:KS:2049250,Murdock CDP,Murdock,Murdock,20095,Kingman County,Census-designated place,37.6111,-97.931664,1
+KS,2049325,place:KS:2049325,Muscotah city,Muscotah,Muscotah,20005,Atchison County,Incorporated place,39.553567,-95.520419,1
+KS,2049350,place:KS:2049350,Narka city,Narka,Narka,20157,Republic County,Incorporated place,39.959763,-97.426729,1
+KS,2049400,place:KS:2049400,Nashville city,Nashville,Nashville,20095,Kingman County,Incorporated place,37.438445,-98.422751,1
+KS,2049425,place:KS:2049425,Natoma city,Natoma,Natoma,20141,Osborne County,Incorporated place,39.188486,-99.024156,1
+KS,2049525,place:KS:2049525,Navarre CDP,Navarre,Navarre,20041,Dickinson County,Census-designated place,38.801737,-97.107739,1
+KS,2049550,place:KS:2049550,Neal CDP,Neal,Neal,20073,Greenwood County,Census-designated place,37.833753,-96.080848,1
+KS,2049650,place:KS:2049650,Neodesha city,Neodesha,Neodesha,20205,Wilson County,Incorporated place,37.424177,-95.684586,1
+KS,2049825,place:KS:2049825,Neosho Falls city,Neosho Falls,Neosho Falls,20207,Woodson County,Incorporated place,38.006009,-95.555289,1
+KS,2049875,place:KS:2049875,Neosho Rapids city,Neosho Rapids,Neosho Rapids,20111,Lyon County,Incorporated place,38.36848,-95.991885,1
+KS,2049925,place:KS:2049925,Ness City city,Ness City,Ness City,20135,Ness County,Incorporated place,38.454055,-99.904656,1
+KS,2049950,place:KS:2049950,Netawaka city,Netawaka,Netawaka,20085,Jackson County,Incorporated place,39.602967,-95.718909,1
+KS,2050150,place:KS:2050150,New Albany city,New Albany,New Albany,20205,Wilson County,Incorporated place,37.567822,-95.936288,1
+KS,2050300,place:KS:2050300,New Cambria city,New Cambria,New Cambria,20169,Saline County,Incorporated place,38.879046,-97.506602,1
+KS,2050425,place:KS:2050425,New Salem CDP,New Salem,New Salem,20035,Cowley County,Census-designated place,37.314282,-96.889719,1
+KS,2050450,place:KS:2050450,New Strawn city,New Strawn,New Strawn,20031,Coffey County,Incorporated place,38.264027,-95.742731,1
+KS,2050250,place:KS:2050250,Newbury CDP,Newbury,Newbury,20197,Wabaunsee County,Census-designated place,39.082363,-96.174106,1
+KS,2050475,place:KS:2050475,Newton city,Newton,Newton,20079,Harvey County,Incorporated place,38.037683,-97.345018,1
+KS,2050525,place:KS:2050525,Nickerson city,Nickerson,Nickerson,20155,Reno County,Incorporated place,38.148899,-98.08826,1
+KS,2050550,place:KS:2050550,Nicodemus CDP,Nicodemus,Nicodemus,20065,Graham County,Census-designated place,39.386144,-99.613519,1
+KS,2050600,place:KS:2050600,Niles CDP,Niles,Niles,20143,Ottawa County,Census-designated place,38.968955,-97.457376,1
+KS,2050750,place:KS:2050750,Niotaze city,Niotaze,Niotaze,20019,Chautauqua County,Incorporated place,37.067346,-96.014469,1
+KS,2050925,place:KS:2050925,Norcatur city,Norcatur,Norcatur,20039,Decatur County,Incorporated place,39.834753,-100.188804,1
+KS,2051225,place:KS:2051225,North Newton city,North Newton,North Newton,20079,Harvey County,Incorporated place,38.077603,-97.346315,1
+KS,2051500,place:KS:2051500,Norton city,Norton,Norton,20137,Norton County,Incorporated place,39.836219,-99.891596,1
+KS,2051525,place:KS:2051525,Nortonville city,Nortonville,Nortonville,20087,Jefferson County,Incorporated place,39.415419,-95.330042,1
+KS,2051550,place:KS:2051550,Norway CDP,Norway,Norway,20157,Republic County,Census-designated place,39.696533,-97.77377,1
+KS,2051600,place:KS:2051600,Norwich city,Norwich,Norwich,20095,Kingman County,Incorporated place,37.457242,-97.847916,1
+KS,2051700,place:KS:2051700,Oak Hill city,Oak Hill,Oak Hill,20027,Clay County,Incorporated place,39.246544,-97.342954,1
+KS,2051810,place:KS:2051810,Oaklawn-Sunview CDP,Oaklawn-Sunview,Oaklawn-Sunview,20173,Sedgwick County,Census-designated place,37.608411,-97.298464,1
+KS,2051825,place:KS:2051825,Oakley city,Oakley,Oakley,20109,Logan County,Incorporated place,39.123486,-100.845153,1
+KS,2052000,place:KS:2052000,Oberlin city,Oberlin,Oberlin,20039,Decatur County,Incorporated place,39.823608,-100.530782,1
+KS,2052175,place:KS:2052175,Odin CDP,Odin,Odin,20009,Barton County,Census-designated place,38.573005,-98.616693,1
+KS,2052200,place:KS:2052200,Offerle city,Offerle,Offerle,20047,Edwards County,Incorporated place,37.890723,-99.56035,1
+KS,2052225,place:KS:2052225,Ogallah CDP,Ogallah,Ogallah,20195,Trego County,Census-designated place,38.994596,-99.732583,1
+KS,2052275,place:KS:2052275,Ogden city,Ogden,Ogden,20161,Riley County,Incorporated place,39.110924,-96.702357,1
+KS,2052525,place:KS:2052525,Oketo city,Oketo,Oketo,20117,Marshall County,Incorporated place,39.96323,-96.598951,1
+KS,2052575,place:KS:2052575,Olathe city,Olathe,Olathe,20091,Johnson County,Incorporated place,38.87983,-94.820044,1
+KS,2052700,place:KS:2052700,Olivet city,Olivet,Olivet,20139,Osage County,Incorporated place,38.481496,-95.751276,1
+KS,2052750,place:KS:2052750,Olmitz city,Olmitz,Olmitz,20009,Barton County,Incorporated place,38.516444,-98.936644,1
+KS,2052800,place:KS:2052800,Olpe city,Olpe,Olpe,20111,Lyon County,Incorporated place,38.264738,-96.165072,1
+KS,2052825,place:KS:2052825,Olsburg city,Olsburg,Olsburg,20149,Pottawatomie County,Incorporated place,39.431807,-96.615674,1
+KS,2052875,place:KS:2052875,Onaga city,Onaga,Onaga,20149,Pottawatomie County,Incorporated place,39.489283,-96.170241,1
+KS,2052900,place:KS:2052900,Oneida city,Oneida,Oneida,20131,Nemaha County,Incorporated place,39.866799,-95.93982,1
+KS,2052925,place:KS:2052925,Opolis CDP,Opolis,Opolis,20037,Crawford County,Census-designated place,37.348316,-94.624352,1
+KS,2053200,place:KS:2053200,Osage City city,Osage City,Osage City,20139,Osage County,Incorporated place,38.634098,-95.821002,1
+KS,2053225,place:KS:2053225,Osawatomie city,Osawatomie,Osawatomie,20121,Miami County,Incorporated place,38.49993,-94.945895,1
+KS,2053325,place:KS:2053325,Osborne city,Osborne,Osborne,20141,Osborne County,Incorporated place,39.440452,-98.699469,1
+KS,2053375,place:KS:2053375,Oskaloosa city,Oskaloosa,Oskaloosa,20087,Jefferson County,Incorporated place,39.215988,-95.314713,1
+KS,2053450,place:KS:2053450,Oswego city,Oswego,Oswego,20099,Labette County,Incorporated place,37.167641,-95.112052,1
+KS,2053525,place:KS:2053525,Otis city,Otis,Otis,20165,Rush County,Incorporated place,38.5348,-99.053498,1
+KS,2053550,place:KS:2053550,Ottawa city,Ottawa,Ottawa,20059,Franklin County,Incorporated place,38.598191,-95.262773,1
+KS,2053725,place:KS:2053725,Overbrook city,Overbrook,Overbrook,20139,Osage County,Incorporated place,38.779367,-95.556967,1
+KS,2053775,place:KS:2053775,Overland Park city,Overland Park,Overland Park,20091,Johnson County,Incorporated place,38.889042,-94.690584,1
+KS,2053850,place:KS:2053850,Oxford city,Oxford,Oxford,20191,Sumner County,Incorporated place,37.273704,-97.169349,1
+KS,2053925,place:KS:2053925,Ozawkie city,Ozawkie,Ozawkie,20087,Jefferson County,Incorporated place,39.235333,-95.465837,1
+KS,2054125,place:KS:2054125,Palco city,Palco,Palco,20163,Rooks County,Incorporated place,39.25321,-99.563541,1
+KS,2054200,place:KS:2054200,Palmer city,Palmer,Palmer,20201,Washington County,Incorporated place,39.632875,-97.140377,1
+KS,2054250,place:KS:2054250,Paola city,Paola,Paola,20121,Miami County,Incorporated place,38.57893,-94.860401,1
+KS,2054325,place:KS:2054325,Paradise city,Paradise,Paradise,20167,Russell County,Incorporated place,39.114525,-98.918444,1
+KS,2054400,place:KS:2054400,Park city,Park,Park,20063,Gove County,Incorporated place,39.111786,-100.361362,1
+KS,2054450,place:KS:2054450,Park City city,Park City,Park City,20173,Sedgwick County,Incorporated place,37.808385,-97.325287,1
+KS,2054500,place:KS:2054500,Parker city,Parker,Parker,20107,Linn County,Incorporated place,38.328646,-94.989179,1
+KS,2054560,place:KS:2054560,Parkerfield city,Parkerfield,Parkerfield,20035,Cowley County,Incorporated place,37.067798,-96.995578,1
+KS,2054575,place:KS:2054575,Parkerville city,Parkerville,Parkerville,20127,Morris County,Incorporated place,38.763315,-96.66092,1
+KS,2054675,place:KS:2054675,Parsons city,Parsons,Parsons,20099,Labette County,Incorporated place,37.334013,-95.264998,1
+KS,2054700,place:KS:2054700,Partridge city,Partridge,Partridge,20155,Reno County,Incorporated place,37.966874,-98.092259,1
+KS,2054875,place:KS:2054875,Pawnee Rock city,Pawnee Rock,Pawnee Rock,20009,Barton County,Incorporated place,38.264944,-98.982366,1
+KS,2054950,place:KS:2054950,Paxico city,Paxico,Paxico,20197,Wabaunsee County,Incorporated place,39.068904,-96.167021,1
+KS,2055100,place:KS:2055100,Peabody city,Peabody,Peabody,20115,Marion County,Incorporated place,38.168306,-97.104348,1
+KS,2055175,place:KS:2055175,Peck CDP,Peck,Peck,20173,Sedgwick County,Census-designated place,37.477724,-97.36948,1
+KS,2055225,place:KS:2055225,Penalosa city,Penalosa,Penalosa,20095,Kingman County,Incorporated place,37.71565,-98.320248,1
+KS,2055450,place:KS:2055450,Perry city,Perry,Perry,20087,Jefferson County,Incorporated place,39.073876,-95.387528,1
+KS,2055525,place:KS:2055525,Peru city,Peru,Peru,20019,Chautauqua County,Incorporated place,37.08033,-96.096138,1
+KS,2055675,place:KS:2055675,Phillipsburg city,Phillipsburg,Phillipsburg,20147,Phillips County,Incorporated place,39.751215,-99.320973,1
+KS,2055750,place:KS:2055750,Piedmont CDP,Piedmont,Piedmont,20073,Greenwood County,Census-designated place,37.615323,-96.379271,1
+KS,2055775,place:KS:2055775,Pierceville CDP,Pierceville,Pierceville,20055,Finney County,Census-designated place,37.88241,-100.676805,1
+KS,2055875,place:KS:2055875,Pilsen CDP,Pilsen,Pilsen,20115,Marion County,Census-designated place,38.467952,-97.034406,1
+KS,2056000,place:KS:2056000,Piqua CDP,Piqua,Piqua,20207,Woodson County,Census-designated place,37.921704,-95.537682,1
+KS,2056025,place:KS:2056025,Pittsburg city,Pittsburg,Pittsburg,20037,Crawford County,Incorporated place,37.413564,-94.697998,1
+KS,2056100,place:KS:2056100,Plains city,Plains,Plains,20119,Meade County,Incorporated place,37.264239,-100.589759,1
+KS,2056150,place:KS:2056150,Plainville city,Plainville,Plainville,20163,Rooks County,Incorporated place,39.234109,-99.30085,1
+KS,2056450,place:KS:2056450,Pleasanton city,Pleasanton,Pleasanton,20107,Linn County,Incorporated place,38.177877,-94.705328,1
+KS,2056725,place:KS:2056725,Plevna city,Plevna,Plevna,20155,Reno County,Incorporated place,37.97162,-98.309592,1
+KS,2057000,place:KS:2057000,Pomona city,Pomona,Pomona,20059,Franklin County,Incorporated place,38.611184,-95.454439,1
+KS,2057100,place:KS:2057100,Portis city,Portis,Portis,20141,Osborne County,Incorporated place,39.563743,-98.691582,1
+KS,2057300,place:KS:2057300,Potwin city,Potwin,Potwin,20015,Butler County,Incorporated place,37.938623,-97.018348,1
+KS,2057350,place:KS:2057350,Powhattan city,Powhattan,Powhattan,20013,Brown County,Incorporated place,39.761734,-95.634011,1
+KS,2057525,place:KS:2057525,Prairie View city,Prairie View,Prairie View,20147,Phillips County,Incorporated place,39.831989,-99.573294,1
+KS,2057575,place:KS:2057575,Prairie Village city,Prairie Village,Prairie Village,20091,Johnson County,Incorporated place,38.986835,-94.636195,1
+KS,2057625,place:KS:2057625,Pratt city,Pratt,Pratt,20151,Pratt County,Incorporated place,37.698576,-98.765936,1
+KS,2057650,place:KS:2057650,Prescott city,Prescott,Prescott,20107,Linn County,Incorporated place,38.063122,-94.692512,1
+KS,2057675,place:KS:2057675,Preston city,Preston,Preston,20151,Pratt County,Incorporated place,37.758445,-98.557787,1
+KS,2057700,place:KS:2057700,Pretty Prairie city,Pretty Prairie,Pretty Prairie,20155,Reno County,Incorporated place,37.780063,-98.022482,1
+KS,2057725,place:KS:2057725,Princeton city,Princeton,Princeton,20059,Franklin County,Incorporated place,38.488327,-95.270802,1
+KS,2057850,place:KS:2057850,Protection city,Protection,Protection,20033,Comanche County,Incorporated place,37.200391,-99.480775,1
+KS,2058100,place:KS:2058100,Quenemo city,Quenemo,Quenemo,20139,Osage County,Incorporated place,38.580223,-95.526614,1
+KS,2058250,place:KS:2058250,Quinter city,Quinter,Quinter,20063,Gove County,Incorporated place,39.066626,-100.234742,1
+KS,2058300,place:KS:2058300,Radium city,Radium,Radium,20185,Stafford County,Incorporated place,38.173812,-98.894475,1
+KS,2058325,place:KS:2058325,Radley CDP,Radley,Radley,20037,Crawford County,Census-designated place,37.484928,-94.762042,1
+KS,2058375,place:KS:2058375,Ramona city,Ramona,Ramona,20115,Marion County,Incorporated place,38.597867,-97.063699,1
+KS,2058450,place:KS:2058450,Randall city,Randall,Randall,20089,Jewell County,Incorporated place,39.641613,-98.045572,1
+KS,2058475,place:KS:2058475,Randolph city,Randolph,Randolph,20161,Riley County,Incorporated place,39.429359,-96.759431,1
+KS,2058500,place:KS:2058500,Ransom city,Ransom,Ransom,20135,Ness County,Incorporated place,38.636525,-99.932724,1
+KS,2058525,place:KS:2058525,Rantoul city,Rantoul,Rantoul,20059,Franklin County,Incorporated place,38.548394,-95.100897,1
+KS,2058550,place:KS:2058550,Raymond city,Raymond,Raymond,20159,Rice County,Incorporated place,38.277972,-98.414314,1
+KS,2058600,place:KS:2058600,Reading city,Reading,Reading,20111,Lyon County,Incorporated place,38.519149,-95.957377,1
+KS,2058725,place:KS:2058725,Redfield city,Redfield,Redfield,20011,Bourbon County,Incorporated place,37.836556,-94.881987,1
+KS,2059000,place:KS:2059000,Republic city,Republic,Republic,20157,Republic County,Incorporated place,39.923935,-97.824472,1
+KS,2059050,place:KS:2059050,Reserve city,Reserve,Reserve,20013,Brown County,Incorporated place,39.97696,-95.565145,1
+KS,2059125,place:KS:2059125,Rexford city,Rexford,Rexford,20193,Thomas County,Incorporated place,39.470415,-100.743906,1
+KS,2059200,place:KS:2059200,Richfield city,Richfield,Richfield,20129,Morton County,Incorporated place,37.265276,-101.782786,1
+KS,2059675,place:KS:2059675,Richmond city,Richmond,Richmond,20059,Franklin County,Incorporated place,38.400333,-95.251949,1
+KS,2059875,place:KS:2059875,Riley city,Riley,Riley,20161,Riley County,Incorporated place,39.299222,-96.827775,1
+KS,2059975,place:KS:2059975,Ringo CDP,Ringo,Ringo,20037,Crawford County,Census-designated place,37.506274,-94.769887,1
+KS,2060200,place:KS:2060200,Riverton CDP,Riverton,Riverton,20021,Cherokee County,Census-designated place,37.073242,-94.70697,1
+KS,2060325,place:KS:2060325,Robinson city,Robinson,Robinson,20013,Brown County,Incorporated place,39.815538,-95.411582,1
+KS,2060400,place:KS:2060400,Rock CDP,Rock,Rock,20035,Cowley County,Census-designated place,37.441789,-97.007062,1
+KS,2060825,place:KS:2060825,Roeland Park city,Roeland Park,Roeland Park,20091,Johnson County,Incorporated place,39.035855,-94.637409,1
+KS,2060900,place:KS:2060900,Rolla city,Rolla,Rolla,20129,Morton County,Incorporated place,37.117929,-101.63183,1
+KS,2061100,place:KS:2061100,Rosalia CDP,Rosalia,Rosalia,20015,Butler County,Census-designated place,37.815847,-96.625002,1
+KS,2061250,place:KS:2061250,Rose Hill city,Rose Hill,Rose Hill,20015,Butler County,Incorporated place,37.570252,-97.136048,1
+KS,2061275,place:KS:2061275,Roseland city,Roseland,Roseland,20021,Cherokee County,Incorporated place,37.280487,-94.843845,1
+KS,2061400,place:KS:2061400,Rossville city,Rossville,Rossville,20177,Shawnee County,Incorporated place,39.135799,-95.949624,1
+KS,2061550,place:KS:2061550,Roxbury CDP,Roxbury,Roxbury,20113,McPherson County,Census-designated place,38.550549,-97.427721,1
+KS,2061600,place:KS:2061600,Rozel city,Rozel,Rozel,20145,Pawnee County,Incorporated place,38.195387,-99.403253,1
+KS,2061775,place:KS:2061775,Rush Center city,Rush Center,Rush Center,20165,Rush County,Incorporated place,38.46488,-99.310798,1
+KS,2061825,place:KS:2061825,Russell city,Russell,Russell,20167,Russell County,Incorporated place,38.887455,-98.851392,1
+KS,2061875,place:KS:2061875,Russell Springs city,Russell Springs,Russell Springs,20109,Logan County,Incorporated place,38.912778,-101.17574,1
+KS,2062025,place:KS:2062025,Sabetha city,Sabetha,Sabetha,20131,Nemaha County,Incorporated place,39.910228,-95.792832,1
+KS,2062700,place:KS:2062700,Salina city,Salina,Salina,20169,Saline County,Incorporated place,38.810675,-97.614617,1
+KS,2063150,place:KS:2063150,Satanta city,Satanta,Satanta,20081,Haskell County,Incorporated place,37.437777,-100.988043,1
+KS,2063200,place:KS:2063200,Savonburg city,Savonburg,Savonburg,20001,Allen County,Incorporated place,37.749136,-95.141834,1
+KS,2063275,place:KS:2063275,Sawyer city,Sawyer,Sawyer,20151,Pratt County,Incorporated place,37.498457,-98.682951,1
+KS,2063325,place:KS:2063325,Scammon city,Scammon,Scammon,20021,Cherokee County,Incorporated place,37.279173,-94.823556,1
+KS,2063350,place:KS:2063350,Scandia city,Scandia,Scandia,20157,Republic County,Incorporated place,39.796886,-97.784001,1
+KS,2063425,place:KS:2063425,Schoenchen city,Schoenchen,Schoenchen,20051,Ellis County,Incorporated place,38.712895,-99.332255,1
+KS,2063600,place:KS:2063600,Scott City city,Scott City,Scott City,20171,Scott County,Incorporated place,38.478872,-100.903053,1
+KS,2063650,place:KS:2063650,Scottsville city,Scottsville,Scottsville,20123,Mitchell County,Incorporated place,39.542577,-97.952304,1
+KS,2063675,place:KS:2063675,Scranton city,Scranton,Scranton,20139,Osage County,Incorporated place,38.778028,-95.74109,1
+KS,2063750,place:KS:2063750,Sedan city,Sedan,Sedan,20019,Chautauqua County,Incorporated place,37.128456,-96.184825,1
+KS,2063800,place:KS:2063800,Sedgwick city,Sedgwick,Sedgwick,20079,Harvey County,Incorporated place,37.918316,-97.419824,1
+KS,2063875,place:KS:2063875,Selden city,Selden,Selden,20179,Sheridan County,Incorporated place,39.541447,-100.567185,1
+KS,2063950,place:KS:2063950,Seneca city,Seneca,Seneca,20131,Nemaha County,Incorporated place,39.837998,-96.069608,1
+KS,2064025,place:KS:2064025,Severance city,Severance,Severance,20043,Doniphan County,Incorporated place,39.766819,-95.249236,1
+KS,2064050,place:KS:2064050,Severy city,Severy,Severy,20073,Greenwood County,Incorporated place,37.621955,-96.227525,1
+KS,2064100,place:KS:2064100,Seward city,Seward,Seward,20185,Stafford County,Incorporated place,38.177828,-98.794281,1
+KS,2064200,place:KS:2064200,Shallow Water CDP,Shallow Water,Shallow Water,20171,Scott County,Census-designated place,38.373774,-100.910446,1
+KS,2064325,place:KS:2064325,Sharon city,Sharon,Sharon,20007,Barber County,Incorporated place,37.249734,-98.417669,1
+KS,2064375,place:KS:2064375,Sharon Springs city,Sharon Springs,Sharon Springs,20199,Wallace County,Incorporated place,38.894334,-101.751163,1
+KS,2064500,place:KS:2064500,Shawnee city,Shawnee,Shawnee,20091,Johnson County,Incorporated place,39.017491,-94.805806,1
+KS,2065600,place:KS:2065600,Silver Lake city,Silver Lake,Silver Lake,20177,Shawnee County,Incorporated place,39.099849,-95.856655,1
+KS,2065550,place:KS:2065550,Silverdale CDP,Silverdale,Silverdale,20035,Cowley County,Census-designated place,37.042394,-96.901749,1
+KS,2065650,place:KS:2065650,Simpson city,Simpson,Simpson,20123,Mitchell County,Incorporated place,39.386038,-97.934005,1
+KS,2065925,place:KS:2065925,Smith Center city,Smith Center,Smith Center,20183,Smith County,Incorporated place,39.773939,-98.783474,1
+KS,2066100,place:KS:2066100,Smolan city,Smolan,Smolan,20169,Saline County,Incorporated place,38.738116,-97.684352,1
+KS,2066175,place:KS:2066175,Soldier city,Soldier,Soldier,20085,Jackson County,Incorporated place,39.537227,-95.965584,1
+KS,2066275,place:KS:2066275,Solomon city,Solomon,Solomon,20041,Dickinson County,Incorporated place,38.921471,-97.369235,1
+KS,2066475,place:KS:2066475,Somerset CDP,Somerset,Somerset,20121,Miami County,Census-designated place,38.604854,-94.779367,1
+KS,2066650,place:KS:2066650,South Haven city,South Haven,South Haven,20191,Sumner County,Incorporated place,37.049495,-97.401264,1
+KS,2066750,place:KS:2066750,South Hutchinson city,South Hutchinson,South Hutchinson,20155,Reno County,Incorporated place,38.023124,-97.944967,1
+KS,2066800,place:KS:2066800,South Mound CDP,South Mound,South Mound,20133,Neosho County,Census-designated place,37.436028,-95.219853,1
+KS,2067125,place:KS:2067125,Spearville city,Spearville,Spearville,20057,Ford County,Incorporated place,37.848067,-99.754714,1
+KS,2067175,place:KS:2067175,Speed city,Speed,Speed,20147,Phillips County,Incorporated place,39.676325,-99.42099,1
+KS,2067250,place:KS:2067250,Spivey city,Spivey,Spivey,20095,Kingman County,Incorporated place,37.44839,-98.165734,1
+KS,2067625,place:KS:2067625,Spring Hill city,Spring Hill,Spring Hill,20091,Johnson County,Incorporated place,38.756685,-94.820976,1
+KS,2062075,place:KS:2062075,St. Benedict CDP,St. Benedict,St. Benedict,20131,Nemaha County,Census-designated place,39.892851,-96.102919,1
+KS,2062175,place:KS:2062175,St. Francis city,St. Francis,St. Francis,20023,Cheyenne County,Incorporated place,39.771479,-101.801428,1
+KS,2062200,place:KS:2062200,St. George city,St. George,St. George,20149,Pottawatomie County,Incorporated place,39.192621,-96.418287,1
+KS,2062275,place:KS:2062275,St. John city,St. John,St. John,20185,Stafford County,Incorporated place,38.000024,-98.761071,1
+KS,2062375,place:KS:2062375,St. Marks CDP,St. Marks,St. Marks,20173,Sedgwick County,Census-designated place,37.7393,-97.55908,1
+KS,2062400,place:KS:2062400,St. Marys city,St. Marys,St. Marys,20149,Pottawatomie County,Incorporated place,39.194178,-96.064198,1
+KS,2062500,place:KS:2062500,St. Paul city,St. Paul,St. Paul,20133,Neosho County,Incorporated place,37.518361,-95.17411,1
+KS,2067775,place:KS:2067775,Stafford city,Stafford,Stafford,20185,Stafford County,Incorporated place,37.962372,-98.599332,1
+KS,2068025,place:KS:2068025,Stark city,Stark,Stark,20133,Neosho County,Incorporated place,37.68972,-95.144108,1
+KS,2068200,place:KS:2068200,Sterling city,Sterling,Sterling,20159,Rice County,Incorporated place,38.209293,-98.206463,1
+KS,2068350,place:KS:2068350,Stockton city,Stockton,Stockton,20163,Rooks County,Incorporated place,39.425124,-99.276399,1
+KS,2068650,place:KS:2068650,Strong City city,Strong City,Strong City,20017,Chase County,Incorporated place,38.395431,-96.536666,1
+KS,2068750,place:KS:2068750,Stuttgart CDP,Stuttgart,Stuttgart,20147,Phillips County,Census-designated place,39.799521,-99.454667,1
+KS,2068775,place:KS:2068775,Sublette city,Sublette,Sublette,20081,Haskell County,Incorporated place,37.482179,-100.846563,1
+KS,2068950,place:KS:2068950,Summerfield city,Summerfield,Summerfield,20117,Marshall County,Incorporated place,39.99687,-96.349293,1
+KS,2069275,place:KS:2069275,Sun City city,Sun City,Sun City,20007,Barber County,Incorporated place,37.378518,-98.916813,1
+KS,2069525,place:KS:2069525,Susank city,Susank,Susank,20009,Barton County,Incorporated place,38.640677,-98.774491,1
+KS,2069725,place:KS:2069725,Sycamore CDP,Sycamore,Sycamore,20125,Montgomery County,Census-designated place,37.318641,-95.715476,1
+KS,2069775,place:KS:2069775,Sylvan Grove city,Sylvan Grove,Sylvan Grove,20105,Lincoln County,Incorporated place,39.012291,-98.394369,1
+KS,2069800,place:KS:2069800,Sylvia city,Sylvia,Sylvia,20155,Reno County,Incorporated place,37.95887,-98.408674,1
+KS,2069850,place:KS:2069850,Syracuse city,Syracuse,Syracuse,20075,Hamilton County,Incorporated place,37.953578,-101.796759,1
+KS,2069925,place:KS:2069925,Talmage CDP,Talmage,Talmage,20041,Dickinson County,Census-designated place,39.02689,-97.259713,1
+KS,2070000,place:KS:2070000,Tampa city,Tampa,Tampa,20115,Marion County,Incorporated place,38.548087,-97.154181,1
+KS,2070075,place:KS:2070075,Tecumseh CDP,Tecumseh,Tecumseh,20177,Shawnee County,Census-designated place,39.036209,-95.579538,1
+KS,2070250,place:KS:2070250,Tescott city,Tescott,Tescott,20143,Ottawa County,Incorporated place,39.01297,-97.878286,1
+KS,2070300,place:KS:2070300,Thayer city,Thayer,Thayer,20133,Neosho County,Incorporated place,37.489012,-95.47674,1
+KS,2070357,place:KS:2070357,The Highlands city,The Highlands,The Highlands,20155,Reno County,Incorporated place,38.165949,-97.949637,1
+KS,2070625,place:KS:2070625,Timken city,Timken,Timken,20165,Rush County,Incorporated place,38.473175,-99.177998,1
+KS,2070675,place:KS:2070675,Tipton city,Tipton,Tipton,20123,Mitchell County,Incorporated place,39.33951,-98.470904,1
+KS,2070800,place:KS:2070800,Tonganoxie city,Tonganoxie,Tonganoxie,20103,Leavenworth County,Incorporated place,39.104595,-95.078296,1
+KS,2071000,place:KS:2071000,Topeka city,Topeka,Topeka,20177,Shawnee County,Incorporated place,39.034673,-95.696191,1
+KS,2071050,place:KS:2071050,Toronto city,Toronto,Toronto,20207,Woodson County,Incorporated place,37.798525,-95.949752,1
+KS,2071125,place:KS:2071125,Towanda city,Towanda,Towanda,20015,Butler County,Incorporated place,37.792511,-96.993066,1
+KS,2071450,place:KS:2071450,Tribune city,Tribune,Tribune,20071,Greeley County,Incorporated place,38.472037,-101.754525,1
+KS,2071575,place:KS:2071575,Troy city,Troy,Troy,20043,Doniphan County,Incorporated place,39.785178,-95.094088,1
+KS,2071800,place:KS:2071800,Turon city,Turon,Turon,20155,Reno County,Incorporated place,37.807537,-98.42775,1
+KS,2071925,place:KS:2071925,Tyro city,Tyro,Tyro,20125,Montgomery County,Incorporated place,37.038665,-95.824339,1
+KS,2071950,place:KS:2071950,Udall city,Udall,Udall,20035,Cowley County,Incorporated place,37.389028,-97.117673,1
+KS,2071975,place:KS:2071975,Ulysses city,Ulysses,Ulysses,20067,Grant County,Incorporated place,37.577342,-101.354864,1
+KS,2072525,place:KS:2072525,Uniontown city,Uniontown,Uniontown,20011,Bourbon County,Incorporated place,37.847198,-94.975688,1
+KS,2072600,place:KS:2072600,Urbana CDP,Urbana,Urbana,20133,Neosho County,Census-designated place,37.557959,-95.399858,1
+KS,2072650,place:KS:2072650,Utica city,Utica,Utica,20135,Ness County,Incorporated place,38.642705,-100.169767,1
+KS,2073250,place:KS:2073250,Valley Center city,Valley Center,Valley Center,20173,Sedgwick County,Incorporated place,37.832979,-97.367699,1
+KS,2073300,place:KS:2073300,Valley Falls city,Valley Falls,Valley Falls,20087,Jefferson County,Incorporated place,39.339329,-95.461198,1
+KS,2073450,place:KS:2073450,Vassar CDP,Vassar,Vassar,20139,Osage County,Census-designated place,38.648654,-95.609817,1
+KS,2073525,place:KS:2073525,Vermillion city,Vermillion,Vermillion,20117,Marshall County,Incorporated place,39.718858,-96.265066,1
+KS,2073775,place:KS:2073775,Victoria city,Victoria,Victoria,20051,Ellis County,Incorporated place,38.853691,-99.147244,1
+KS,2073950,place:KS:2073950,Vining city,Vining,Vining,20201,Washington County,Incorporated place,39.567319,-97.293613,1
+KS,2074025,place:KS:2074025,Viola city,Viola,Viola,20173,Sedgwick County,Incorporated place,37.482855,-97.644393,1
+KS,2074075,place:KS:2074075,Virgil city,Virgil,Virgil,20073,Greenwood County,Incorporated place,37.9805,-96.011209,1
+KS,2074225,place:KS:2074225,Wabaunsee CDP,Wabaunsee,Wabaunsee,20197,Wabaunsee County,Census-designated place,39.143642,-96.342309,1
+KS,2074425,place:KS:2074425,Wakarusa CDP,Wakarusa,Wakarusa,20177,Shawnee County,Census-designated place,38.893829,-95.70491,1
+KS,2074450,place:KS:2074450,WaKeeney city,WaKeeney,WaKeeney,20195,Trego County,Incorporated place,39.023449,-99.881455,1
+KS,2074525,place:KS:2074525,Wakefield city,Wakefield,Wakefield,20027,Clay County,Incorporated place,39.21639,-97.018779,1
+KS,2074575,place:KS:2074575,Waldo city,Waldo,Waldo,20167,Russell County,Incorporated place,39.120026,-98.798325,1
+KS,2074625,place:KS:2074625,Waldron city,Waldron,Waldron,20077,Harper County,Incorporated place,37.001753,-98.182545,1
+KS,2074750,place:KS:2074750,Wallace city,Wallace,Wallace,20199,Wallace County,Incorporated place,38.912663,-101.593016,1
+KS,2074950,place:KS:2074950,Walnut city,Walnut,Walnut,20037,Crawford County,Incorporated place,37.606241,-95.075916,1
+KS,2075200,place:KS:2075200,Walton city,Walton,Walton,20079,Harvey County,Incorporated place,38.118663,-97.258257,1
+KS,2075325,place:KS:2075325,Wamego city,Wamego,Wamego,20149,Pottawatomie County,Incorporated place,39.205263,-96.310126,1
+KS,2075825,place:KS:2075825,Washington city,Washington,Washington,20201,Washington County,Incorporated place,39.815798,-97.048422,1
+KS,2075950,place:KS:2075950,Waterville city,Waterville,Waterville,20117,Marshall County,Incorporated place,39.691738,-96.746774,1
+KS,2076000,place:KS:2076000,Wathena city,Wathena,Wathena,20043,Doniphan County,Incorporated place,39.761733,-94.926106,1
+KS,2076050,place:KS:2076050,Waverly city,Waverly,Waverly,20031,Coffey County,Incorporated place,38.395809,-95.605082,1
+KS,2076175,place:KS:2076175,Wayside CDP,Wayside,Wayside,20125,Montgomery County,Census-designated place,37.126402,-95.870235,1
+KS,2076250,place:KS:2076250,Webber city,Webber,Webber,20089,Jewell County,Incorporated place,39.934371,-98.035063,1
+KS,2076350,place:KS:2076350,Weir city,Weir,Weir,20021,Cherokee County,Incorporated place,37.309594,-94.774468,1
+KS,2076425,place:KS:2076425,Welda CDP,Welda,Welda,20003,Anderson County,Census-designated place,38.172177,-95.291643,1
+KS,2076475,place:KS:2076475,Wellington city,Wellington,Wellington,20191,Sumner County,Incorporated place,37.278109,-97.406672,1
+KS,2076550,place:KS:2076550,Wells CDP,Wells,Wells,20143,Ottawa County,Census-designated place,39.139086,-97.551183,1
+KS,2076625,place:KS:2076625,Wellsville city,Wellsville,Wellsville,20059,Franklin County,Incorporated place,38.717662,-95.077862,1
+KS,2076675,place:KS:2076675,Weskan CDP,Weskan,Weskan,20199,Wallace County,Census-designated place,38.865253,-101.968141,1
+KS,2077150,place:KS:2077150,West Mineral city,West Mineral,West Mineral,20021,Cherokee County,Incorporated place,37.283906,-94.926801,1
+KS,2077200,place:KS:2077200,Westmoreland city,Westmoreland,Westmoreland,20149,Pottawatomie County,Incorporated place,39.3933,-96.413642,1
+KS,2077250,place:KS:2077250,Westphalia city,Westphalia,Westphalia,20003,Anderson County,Incorporated place,38.182184,-95.490351,1
+KS,2077500,place:KS:2077500,Westwood city,Westwood,Westwood,20091,Johnson County,Incorporated place,39.039379,-94.61558,1
+KS,2077525,place:KS:2077525,Westwood Hills city,Westwood Hills,Westwood Hills,20091,Johnson County,Incorporated place,39.038905,-94.609664,1
+KS,2077550,place:KS:2077550,Wetmore city,Wetmore,Wetmore,20131,Nemaha County,Incorporated place,39.63558,-95.811378,1
+KS,2077700,place:KS:2077700,Wheaton city,Wheaton,Wheaton,20149,Pottawatomie County,Incorporated place,39.502205,-96.318574,1
+KS,2077825,place:KS:2077825,White City city,White City,White City,20127,Morris County,Incorporated place,38.793344,-96.734992,1
+KS,2077850,place:KS:2077850,White Cloud city,White Cloud,White Cloud,20043,Doniphan County,Incorporated place,39.974342,-95.299039,1
+KS,2078050,place:KS:2078050,Whitewater city,Whitewater,Whitewater,20015,Butler County,Incorporated place,37.963557,-97.146032,1
+KS,2078100,place:KS:2078100,Whiting city,Whiting,Whiting,20085,Jackson County,Incorporated place,39.587874,-95.6112,1
+KS,2079000,place:KS:2079000,Wichita city,Wichita,Wichita,20173,Sedgwick County,Incorporated place,37.689344,-97.348353,1
+KS,2079250,place:KS:2079250,Willard city,Willard,Willard,20177,Shawnee County,Incorporated place,39.094061,-95.942916,1
+KS,2079300,place:KS:2079300,Williamsburg city,Williamsburg,Williamsburg,20059,Franklin County,Incorporated place,38.481056,-95.467501,1
+KS,2079375,place:KS:2079375,Williamstown CDP,Williamstown,Williamstown,20087,Jefferson County,Census-designated place,39.064209,-95.332316,1
+KS,2079400,place:KS:2079400,Willis city,Willis,Willis,20013,Brown County,Incorporated place,39.722642,-95.505789,1
+KS,2079425,place:KS:2079425,Willowbrook city,Willowbrook,Willowbrook,20155,Reno County,Incorporated place,38.10117,-97.991932,1
+KS,2079550,place:KS:2079550,Wilmore city,Wilmore,Wilmore,20033,Comanche County,Incorporated place,37.335036,-99.210197,1
+KS,2079625,place:KS:2079625,Wilroads Gardens CDP,Wilroads Gardens,Wilroads Gardens,20057,Ford County,Census-designated place,37.715279,-99.926841,1
+KS,2079650,place:KS:2079650,Wilsey city,Wilsey,Wilsey,20127,Morris County,Incorporated place,38.635718,-96.676455,1
+KS,2079675,place:KS:2079675,Wilson city,Wilson,Wilson,20053,Ellsworth County,Incorporated place,38.825332,-98.474923,1
+KS,2079800,place:KS:2079800,Winchester city,Winchester,Winchester,20087,Jefferson County,Incorporated place,39.32272,-95.26916,1
+KS,2079850,place:KS:2079850,Windom city,Windom,Windom,20113,McPherson County,Incorporated place,38.384134,-97.910165,1
+KS,2079950,place:KS:2079950,Winfield city,Winfield,Winfield,20035,Cowley County,Incorporated place,37.242774,-96.979674,1
+KS,2080075,place:KS:2080075,Winona city,Winona,Winona,20109,Logan County,Incorporated place,39.061717,-101.244927,1
+KS,2080350,place:KS:2080350,Woodbine city,Woodbine,Woodbine,20041,Dickinson County,Incorporated place,38.795602,-96.959307,1
+KS,2080400,place:KS:2080400,Woodruff CDP,Woodruff,Woodruff,20147,Phillips County,Census-designated place,39.987637,-99.431559,1
+KS,2080450,place:KS:2080450,Woodston city,Woodston,Woodston,20163,Rooks County,Incorporated place,39.453885,-99.098307,1
+KS,2080500,place:KS:2080500,Wright CDP,Wright,Wright,20057,Ford County,Census-designated place,37.775286,-99.890469,1
+KS,2080650,place:KS:2080650,Yale CDP,Yale,Yale,20037,Crawford County,Census-designated place,37.4894,-94.647355,1
+KS,2080700,place:KS:2080700,Yates Center city,Yates Center,Yates Center,20207,Woodson County,Incorporated place,37.867333,-95.754811,1
+KS,2080750,place:KS:2080750,Yoder CDP,Yoder,Yoder,20155,Reno County,Census-designated place,37.945462,-97.86811,1
+KS,2080875,place:KS:2080875,Zeandale CDP,Zeandale,Zeandale,20161,Riley County,Census-designated place,39.162791,-96.427893,1
+KS,2080925,place:KS:2080925,Zenda city,Zenda,Zenda,20095,Kingman County,Incorporated place,37.444077,-98.281996,1
+KS,2081025,place:KS:2081025,Zurich city,Zurich,Zurich,20163,Rooks County,Incorporated place,39.232265,-99.4347,1

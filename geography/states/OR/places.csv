@@ -1,0 +1,427 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+OR,4100275,place:OR:4100275,Adair Village city,Adair Village,Adair Village,41003,Benton County,Incorporated place,44.669909,-123.216125,1
+OR,4100350,place:OR:4100350,Adams city,Adams,Adams,41059,Umatilla County,Incorporated place,45.766325,-118.564085,1
+OR,4100500,place:OR:4100500,Adrian city,Adrian,Adrian,41045,Malheur County,Incorporated place,43.740826,-117.070882,1
+OR,4101000,place:OR:4101000,Albany city,Albany,Albany,41043,Linn County,Incorporated place,44.626928,-123.096741,1
+OR,4101650,place:OR:4101650,Aloha CDP,Aloha,Aloha,41067,Washington County,Census-designated place,45.491872,-122.872617,1
+OR,4101700,place:OR:4101700,Alpine CDP,Alpine,Alpine,41003,Benton County,Census-designated place,44.330261,-123.362845,1
+OR,4101800,place:OR:4101800,Alsea CDP,Alsea,Alsea,41003,Benton County,Census-designated place,44.381815,-123.595831,1
+OR,4101850,place:OR:4101850,Altamont CDP,Altamont,Altamont,41035,Klamath County,Census-designated place,42.197845,-121.72473,1
+OR,4102000,place:OR:4102000,Amity city,Amity,Amity,41071,Yamhill County,Incorporated place,45.116161,-123.199672,1
+OR,4102200,place:OR:4102200,Annex CDP,Annex,Annex,41045,Malheur County,Census-designated place,44.234248,-116.992408,1
+OR,4102250,place:OR:4102250,Antelope city,Antelope,Antelope,41065,Wasco County,Incorporated place,44.91126,-120.723581,1
+OR,4102800,place:OR:4102800,Arlington city,Arlington,Arlington,41021,Gilliam County,Incorporated place,45.722731,-120.185245,1
+OR,4103050,place:OR:4103050,Ashland city,Ashland,Ashland,41029,Jackson County,Incorporated place,42.192225,-122.698266,1
+OR,4103150,place:OR:4103150,Astoria city,Astoria,Astoria,41007,Clatsop County,Incorporated place,46.187538,-123.814783,1
+OR,4103200,place:OR:4103200,Athena city,Athena,Athena,41059,Umatilla County,Incorporated place,45.813484,-118.492994,1
+OR,4103250,place:OR:4103250,Aumsville city,Aumsville,Aumsville,41047,Marion County,Incorporated place,44.846171,-122.869871,1
+OR,4103300,place:OR:4103300,Aurora city,Aurora,Aurora,41047,Marion County,Incorporated place,45.228317,-122.757227,1
+OR,4103650,place:OR:4103650,Baker City city,Baker City,Baker City,41001,Baker County,Incorporated place,44.774972,-117.831808,1
+OR,4103800,place:OR:4103800,Bandon city,Bandon,Bandon,41011,Coos County,Incorporated place,43.11469,-124.41552,1
+OR,4103850,place:OR:4103850,Banks city,Banks,Banks,41067,Washington County,Incorporated place,45.614954,-123.107086,1
+OR,4104000,place:OR:4104000,Barlow city,Barlow,Barlow,41005,Clackamas County,Incorporated place,45.252401,-122.72231,1
+OR,4104125,place:OR:4104125,Barnesdale CDP,Barnesdale,Barnesdale,41057,Tillamook County,Census-designated place,45.64869,-123.854321,1
+OR,4104400,place:OR:4104400,Barview CDP,Barview,Barview,41011,Coos County,Census-designated place,43.347917,-124.306543,1
+OR,4104800,place:OR:4104800,Bay City city,Bay City,Bay City,41057,Tillamook County,Incorporated place,45.521427,-123.889029,1
+OR,4104850,place:OR:4104850,Bayshore CDP,Bayshore,Bayshore,41041,Lincoln County,Census-designated place,44.440759,-124.081012,1
+OR,4104925,place:OR:4104925,Bayside Gardens CDP,Bayside Gardens,Bayside Gardens,41057,Tillamook County,Census-designated place,45.714329,-123.916474,1
+OR,4105150,place:OR:4105150,Beatty CDP,Beatty,Beatty,41035,Klamath County,Census-designated place,42.44188,-121.271602,1
+OR,4105200,place:OR:4105200,Beaver CDP,Beaver,Beaver,41057,Tillamook County,Census-designated place,45.27901,-123.824616,1
+OR,4105300,place:OR:4105300,Beaver Marsh CDP,Beaver Marsh,Beaver Marsh,41035,Klamath County,Census-designated place,43.136384,-121.804189,1
+OR,4105250,place:OR:4105250,Beavercreek CDP,Beavercreek,Beavercreek,41005,Clackamas County,Census-designated place,45.281036,-122.50849,1
+OR,4105350,place:OR:4105350,Beaverton city,Beaverton,Beaverton,41067,Washington County,Incorporated place,45.478058,-122.817079,1
+OR,4105700,place:OR:4105700,Bellfountain CDP,Bellfountain,Bellfountain,41003,Benton County,Census-designated place,44.365424,-123.355855,1
+OR,4105800,place:OR:4105800,Bend city,Bend,Bend,41017,Deschutes County,Incorporated place,44.056683,-121.307991,1
+OR,4105950,place:OR:4105950,Bethany CDP,Bethany,Bethany,41067,Washington County,Census-designated place,45.561341,-122.836947,1
+OR,4106400,place:OR:4106400,Biggs Junction CDP,Biggs Junction,Biggs Junction,41055,Sherman County,Census-designated place,45.663971,-120.839157,1
+OR,4106650,place:OR:4106650,Black Butte Ranch CDP,Black Butte Ranch,Black Butte Ranch,41017,Deschutes County,Census-designated place,44.364176,-121.668579,1
+OR,4106950,place:OR:4106950,Blodgett CDP,Blodgett,Blodgett,41003,Benton County,Census-designated place,44.59698,-123.521026,1
+OR,4107150,place:OR:4107150,Bly CDP,Bly,Bly,41035,Klamath County,Census-designated place,42.391666,-121.043455,1
+OR,4107200,place:OR:4107200,Boardman city,Boardman,Boardman,41049,Morrow County,Incorporated place,45.836497,-119.692866,1
+OR,4107300,place:OR:4107300,Bonanza town,Bonanza,Bonanza,41035,Klamath County,Incorporated place,42.200317,-121.406675,1
+OR,4107550,place:OR:4107550,Boring CDP,Boring,Boring,41005,Clackamas County,Census-designated place,45.431266,-122.372496,1
+OR,4108600,place:OR:4108600,Brogan CDP,Brogan,Brogan,41045,Malheur County,Census-designated place,44.247544,-117.518669,1
+OR,4108650,place:OR:4108650,Brookings city,Brookings,Brookings,41015,Curry County,Incorporated place,42.072389,-124.304843,1
+OR,4108750,place:OR:4108750,Brooks CDP,Brooks,Brooks,41047,Marion County,Census-designated place,45.050852,-122.957438,1
+OR,4109050,place:OR:4109050,Brownsville city,Brownsville,Brownsville,41043,Linn County,Incorporated place,44.392189,-122.983287,1
+OR,4109535,place:OR:4109535,Bull Mountain CDP,Bull Mountain,Bull Mountain,41067,Washington County,Census-designated place,45.41259,-122.831994,1
+OR,4109600,place:OR:4109600,Bunker Hill CDP,Bunker Hill,Bunker Hill,41011,Coos County,Census-designated place,43.347417,-124.212288,1
+OR,4109800,place:OR:4109800,Burns city,Burns,Burns,41025,Harney County,Incorporated place,43.588281,-119.06129,1
+OR,4110050,place:OR:4110050,Butte Falls town,Butte Falls,Butte Falls,41029,Jackson County,Incorporated place,42.54141,-122.56908,1
+OR,4110100,place:OR:4110100,Butteville CDP,Butteville,Butteville,41047,Marion County,Census-designated place,45.252414,-122.834472,1
+OR,4110550,place:OR:4110550,Camp Sherman CDP,Camp Sherman,Camp Sherman,41031,Jefferson County,Census-designated place,44.449305,-121.649605,1
+OR,4110750,place:OR:4110750,Canby city,Canby,Canby,41005,Clackamas County,Incorporated place,45.26509,-122.688395,1
+OR,4110850,place:OR:4110850,Cannon Beach city,Cannon Beach,Cannon Beach,41007,Clatsop County,Incorporated place,45.888053,-123.960107,1
+OR,4110950,place:OR:4110950,Canyon City town,Canyon City,Canyon City,41023,Grant County,Incorporated place,44.39301,-118.949485,1
+OR,4111000,place:OR:4111000,Canyonville city,Canyonville,Canyonville,41019,Douglas County,Incorporated place,42.927297,-123.27889,1
+OR,4111050,place:OR:4111050,Cape Meares CDP,Cape Meares,Cape Meares,41057,Tillamook County,Census-designated place,45.5265,-123.951825,1
+OR,4111150,place:OR:4111150,Carlton city,Carlton,Carlton,41071,Yamhill County,Incorporated place,45.294505,-123.175373,1
+OR,4111600,place:OR:4111600,Cascade Locks city,Cascade Locks,Cascade Locks,41027,Hood River County,Incorporated place,45.676045,-121.868706,1
+OR,4111700,place:OR:4111700,Cascadia CDP,Cascadia,Cascadia,41043,Linn County,Census-designated place,44.393003,-122.50264,1
+OR,4111850,place:OR:4111850,Cave Junction city,Cave Junction,Cave Junction,41033,Josephine County,Incorporated place,42.166664,-123.648096,1
+OR,4111900,place:OR:4111900,Cayuse CDP,Cayuse,Cayuse,41059,Umatilla County,Census-designated place,45.676497,-118.5735,1
+OR,4112050,place:OR:4112050,Cedar Hills CDP,Cedar Hills,Cedar Hills,41067,Washington County,Census-designated place,45.504435,-122.80655,1
+OR,4112150,place:OR:4112150,Cedar Mill CDP,Cedar Mill,Cedar Mill,41067,Washington County,Census-designated place,45.535475,-122.80064,1
+OR,4112400,place:OR:4112400,Central Point city,Central Point,Central Point,41029,Jackson County,Incorporated place,42.376479,-122.91043,1
+OR,4112750,place:OR:4112750,Chemult CDP,Chemult,Chemult,41035,Klamath County,Census-designated place,43.215056,-121.785013,1
+OR,4112800,place:OR:4112800,Chenoweth CDP,Chenoweth,Chenoweth,41065,Wasco County,Census-designated place,45.616403,-121.234279,1
+OR,4112850,place:OR:4112850,Cherry Grove CDP,Cherry Grove,Cherry Grove,41067,Washington County,Census-designated place,45.450705,-123.248126,1
+OR,4113000,place:OR:4113000,Cheshire CDP,Cheshire,Cheshire,41039,Lane County,Census-designated place,44.190134,-123.283391,1
+OR,4113050,place:OR:4113050,Chiloquin city,Chiloquin,Chiloquin,41035,Klamath County,Incorporated place,42.576417,-121.867752,1
+OR,4113750,place:OR:4113750,Clatskanie city,Clatskanie,Clatskanie,41009,Columbia County,Incorporated place,46.104628,-123.204491,1
+OR,4114200,place:OR:4114200,Cloverdale CDP,Cloverdale,Cloverdale,41057,Tillamook County,Census-designated place,45.200608,-123.884165,1
+OR,4114400,place:OR:4114400,Coburg city,Coburg,Coburg,41039,Lane County,Incorporated place,44.138481,-123.056977,1
+OR,4114750,place:OR:4114750,Columbia City city,Columbia City,Columbia City,41009,Columbia County,Incorporated place,45.895793,-122.8109,1
+OR,4115000,place:OR:4115000,Condon city,Condon,Condon,41021,Gilliam County,Incorporated place,45.2366,-120.18582,1
+OR,4115250,place:OR:4115250,Coos Bay city,Coos Bay,Coos Bay,41011,Coos County,Incorporated place,43.381126,-124.232597,1
+OR,4115350,place:OR:4115350,Coquille city,Coquille,Coquille,41011,Coos County,Incorporated place,43.180331,-124.184163,1
+OR,4115550,place:OR:4115550,Cornelius city,Cornelius,Cornelius,41067,Washington County,Incorporated place,45.518872,-123.050869,1
+OR,4115800,place:OR:4115800,Corvallis city,Corvallis,Corvallis,41003,Benton County,Incorporated place,44.569949,-123.278285,1
+OR,4115950,place:OR:4115950,Cottage Grove city,Cottage Grove,Cottage Grove,41039,Lane County,Incorporated place,43.795891,-123.057228,1
+OR,4116250,place:OR:4116250,Cove city,Cove,Cove,41061,Union County,Incorporated place,45.296426,-117.8102,1
+OR,4116350,place:OR:4116350,Crabtree CDP,Crabtree,Crabtree,41043,Linn County,Census-designated place,44.637638,-122.905948,1
+OR,4116450,place:OR:4116450,Crane CDP,Crane,Crane,41025,Harney County,Census-designated place,43.417916,-118.587477,1
+OR,4116650,place:OR:4116650,Crawfordsville CDP,Crawfordsville,Crawfordsville,41043,Linn County,Census-designated place,44.356077,-122.864927,1
+OR,4116750,place:OR:4116750,Crescent CDP,Crescent,Crescent,41035,Klamath County,Census-designated place,43.453446,-121.699734,1
+OR,4116800,place:OR:4116800,Crescent Lake CDP,Crescent Lake,Crescent Lake,41035,Klamath County,Census-designated place,43.509612,-121.935345,1
+OR,4116950,place:OR:4116950,Creswell city,Creswell,Creswell,41039,Lane County,Incorporated place,43.922616,-123.014001,1
+OR,4116975,place:OR:4116975,Crooked River Ranch CDP,Crooked River Ranch,Crooked River Ranch,41031,Jefferson County,Census-designated place,44.424179,-121.275717,1
+OR,4117300,place:OR:4117300,Culver city,Culver,Culver,41031,Jefferson County,Incorporated place,44.523371,-121.211017,1
+OR,4117700,place:OR:4117700,Dallas city,Dallas,Dallas,41053,Polk County,Incorporated place,44.922145,-123.313016,1
+OR,4117800,place:OR:4117800,Damascus CDP,Damascus,Damascus,41005,Clackamas County,Census-designated place,45.426416,-122.442992,1
+OR,4118150,place:OR:4118150,Days Creek CDP,Days Creek,Days Creek,41019,Douglas County,Census-designated place,42.970493,-123.165742,1
+OR,4118250,place:OR:4118250,Dayton city,Dayton,Dayton,41071,Yamhill County,Incorporated place,45.21985,-123.078093,1
+OR,4118300,place:OR:4118300,Dayville town,Dayville,Dayville,41023,Grant County,Incorporated place,44.466761,-119.53222,1
+OR,4118450,place:OR:4118450,Deer Island CDP,Deer Island,Deer Island,41009,Columbia County,Census-designated place,45.932994,-122.849762,1
+OR,4118850,place:OR:4118850,Depoe Bay city,Depoe Bay,Depoe Bay,41041,Lincoln County,Incorporated place,44.809106,-124.059688,1
+OR,4119020,place:OR:4119020,Deschutes River Woods CDP,Deschutes River Woods,Deschutes River Woods,41017,Deschutes County,Census-designated place,43.987447,-121.359101,1
+OR,4119100,place:OR:4119100,Detroit city,Detroit,Detroit,41047,Marion County,Incorporated place,44.733778,-122.151664,1
+OR,4119250,place:OR:4119250,Dexter CDP,Dexter,Dexter,41039,Lane County,Census-designated place,43.922266,-122.827663,1
+OR,4119600,place:OR:4119600,Dillard CDP,Dillard,Dillard,41019,Douglas County,Census-designated place,43.108239,-123.426192,1
+OR,4119650,place:OR:4119650,Dilley CDP,Dilley,Dilley,41067,Washington County,Census-designated place,45.491714,-123.12227,1
+OR,4120100,place:OR:4120100,Donald city,Donald,Donald,41047,Marion County,Incorporated place,45.221483,-122.837818,1
+OR,4120500,place:OR:4120500,Drain city,Drain,Drain,41019,Douglas County,Incorporated place,43.662314,-123.314309,1
+OR,4120900,place:OR:4120900,Dufur city,Dufur,Dufur,41065,Wasco County,Incorporated place,45.45309,-121.128741,1
+OR,4121050,place:OR:4121050,Dundee city,Dundee,Dundee,41071,Yamhill County,Incorporated place,45.275798,-123.007417,1
+OR,4121150,place:OR:4121150,Dunes City city,Dunes City,Dunes City,41039,Lane County,Incorporated place,43.910229,-124.091461,1
+OR,4121215,place:OR:4121215,Dunthorpe CDP,Dunthorpe,Dunthorpe,41051,Multnomah County,Census-designated place,45.441808,-122.660295,1
+OR,4121250,place:OR:4121250,Durham city,Durham,Durham,41067,Washington County,Incorporated place,45.394459,-122.757985,1
+OR,4121450,place:OR:4121450,Eagle Crest CDP,Eagle Crest,Eagle Crest,41017,Deschutes County,Census-designated place,44.26142,-121.29955,1
+OR,4121550,place:OR:4121550,Eagle Point city,Eagle Point,Eagle Point,41029,Jackson County,Incorporated place,42.467688,-122.801593,1
+OR,4122200,place:OR:4122200,Echo city,Echo,Echo,41059,Umatilla County,Incorporated place,45.746666,-119.193535,1
+OR,4122550,place:OR:4122550,Elgin city,Elgin,Elgin,41061,Union County,Incorporated place,45.564655,-117.92127,1
+OR,4122800,place:OR:4122800,Elkton city,Elkton,Elkton,41019,Douglas County,Incorporated place,43.638066,-123.570339,1
+OR,4123000,place:OR:4123000,Elmira CDP,Elmira,Elmira,41039,Lane County,Census-designated place,44.07146,-123.35706,1
+OR,4123500,place:OR:4123500,Enterprise city,Enterprise,Enterprise,41063,Wallowa County,Incorporated place,45.425772,-117.278809,1
+OR,4123550,place:OR:4123550,Eola CDP,Eola,Eola,41053,Polk County,Census-designated place,44.931237,-123.120718,1
+OR,4123800,place:OR:4123800,Estacada city,Estacada,Estacada,41005,Clackamas County,Incorporated place,45.298198,-122.332394,1
+OR,4123850,place:OR:4123850,Eugene city,Eugene,Eugene,41039,Lane County,Incorporated place,44.056848,-123.119019,1
+OR,4124100,place:OR:4124100,Fair Oaks CDP,Fair Oaks,Fair Oaks,41019,Douglas County,Census-designated place,43.410894,-123.219492,1
+OR,4124250,place:OR:4124250,Fairview city,Fairview,"Fairview, Multnomah County",41051,Multnomah County,Incorporated place,45.547585,-122.436823,1
+OR,4124300,place:OR:4124300,Fairview CDP,Fairview,"Fairview, Tillamook County",41057,Tillamook County,Census-designated place,45.458328,-123.792589,1
+OR,4124350,place:OR:4124350,Falcon Heights CDP,Falcon Heights,Falcon Heights,41035,Klamath County,Census-designated place,42.131365,-121.756612,1
+OR,4124550,place:OR:4124550,Falls City city,Falls City,Falls City,41053,Polk County,Incorporated place,44.864785,-123.437554,1
+OR,4126050,place:OR:4126050,Florence city,Florence,Florence,41039,Lane County,Incorporated place,43.993359,-124.107288,1
+OR,4126165,place:OR:4126165,Foots Creek CDP,Foots Creek,Foots Creek,41029,Jackson County,Census-designated place,42.388135,-123.140951,1
+OR,4126200,place:OR:4126200,Forest Grove city,Forest Grove,Forest Grove,41067,Washington County,Incorporated place,45.526091,-123.109944,1
+OR,4126400,place:OR:4126400,Fort Hill CDP,Fort Hill,Fort Hill,41053,Polk County,Census-designated place,45.067025,-123.56051,1
+OR,4126450,place:OR:4126450,Fort Klamath CDP,Fort Klamath,Fort Klamath,41035,Klamath County,Census-designated place,42.704957,-121.994258,1
+OR,4126650,place:OR:4126650,Fossil city,Fossil,Fossil,41069,Wheeler County,Incorporated place,44.998072,-120.214642,1
+OR,4126750,place:OR:4126750,Four Corners CDP,Four Corners,Four Corners,41047,Marion County,Census-designated place,44.929119,-122.973212,1
+OR,4127825,place:OR:4127825,Garden Home-Whitford CDP,Garden Home-Whitford,Garden Home-Whitford,41067,Washington County,Census-designated place,45.463369,-122.760742,1
+OR,4127850,place:OR:4127850,Gardiner CDP,Gardiner,Gardiner,41019,Douglas County,Census-designated place,43.732721,-124.106808,1
+OR,4128000,place:OR:4128000,Garibaldi city,Garibaldi,Garibaldi,41057,Tillamook County,Incorporated place,45.560783,-123.91135,1
+OR,4128100,place:OR:4128100,Gaston city,Gaston,Gaston,41067,Washington County,Incorporated place,45.43488,-123.14506,1
+OR,4128200,place:OR:4128200,Gates city,Gates,Gates,41047,Marion County,Incorporated place,44.756008,-122.420127,1
+OR,4128450,place:OR:4128450,Gearhart city,Gearhart,Gearhart,41007,Clatsop County,Incorporated place,46.030579,-123.918447,1
+OR,4128650,place:OR:4128650,Gervais city,Gervais,Gervais,41047,Marion County,Incorporated place,45.108038,-122.896426,1
+OR,4128800,place:OR:4128800,Gilchrist CDP,Gilchrist,Gilchrist,41035,Klamath County,Census-designated place,43.478489,-121.69387,1
+OR,4129000,place:OR:4129000,Gladstone city,Gladstone,Gladstone,41005,Clackamas County,Incorporated place,45.38565,-122.592827,1
+OR,4129100,place:OR:4129100,Glasgow CDP,Glasgow,Glasgow,41011,Coos County,Census-designated place,43.437656,-124.195127,1
+OR,4129350,place:OR:4129350,Glendale city,Glendale,Glendale,41019,Douglas County,Incorporated place,42.738052,-123.429355,1
+OR,4129750,place:OR:4129750,Glide CDP,Glide,Glide,41019,Douglas County,Census-designated place,43.291835,-123.073618,1
+OR,4129900,place:OR:4129900,Gold Beach city,Gold Beach,Gold Beach,41015,Curry County,Incorporated place,42.401878,-124.423589,1
+OR,4129950,place:OR:4129950,Gold Hill city,Gold Hill,Gold Hill,41029,Jackson County,Incorporated place,42.435789,-123.05264,1
+OR,4130165,place:OR:4130165,Gopher Flats CDP,Gopher Flats,Gopher Flats,41059,Umatilla County,Census-designated place,45.665942,-118.722499,1
+OR,4130250,place:OR:4130250,Government Camp CDP,Government Camp,Government Camp,41005,Clackamas County,Census-designated place,45.302233,-121.752589,1
+OR,4130300,place:OR:4130300,Grand Ronde CDP,Grand Ronde,Grand Ronde,41053,Polk County,Census-designated place,45.073843,-123.621044,1
+OR,4130500,place:OR:4130500,Granite city,Granite,Granite,41023,Grant County,Incorporated place,44.810265,-118.419242,1
+OR,4130550,place:OR:4130550,Grants Pass city,Grants Pass,Grants Pass,41033,Josephine County,Incorporated place,42.43186,-123.333158,1
+OR,4130650,place:OR:4130650,Grass Valley city,Grass Valley,Grass Valley,41055,Sherman County,Incorporated place,45.359058,-120.784166,1
+OR,4130750,place:OR:4130750,Green CDP,Green,Green,41019,Douglas County,Census-designated place,43.151399,-123.387402,1
+OR,4131115,place:OR:4131115,Green Meadows CDP,Green Meadows,Green Meadows,41059,Umatilla County,Census-designated place,45.613003,-118.800007,1
+OR,4131050,place:OR:4131050,Greenhorn city,Greenhorn,Greenhorn,41001,Baker County,Incorporated place,44.708716,-118.496741,1
+OR,4131250,place:OR:4131250,Gresham city,Gresham,Gresham,41051,Multnomah County,Incorporated place,45.502319,-122.441609,1
+OR,4131600,place:OR:4131600,Haines city,Haines,Haines,41001,Baker County,Incorporated place,44.912272,-117.939552,1
+OR,4131650,place:OR:4131650,Halfway city,Halfway,Halfway,41001,Baker County,Incorporated place,44.878023,-117.109699,1
+OR,4131750,place:OR:4131750,Halsey city,Halsey,Halsey,41043,Linn County,Incorporated place,44.382845,-123.109487,1
+OR,4132050,place:OR:4132050,Happy Valley city,Happy Valley,Happy Valley,41005,Clackamas County,Incorporated place,45.433966,-122.508694,1
+OR,4132100,place:OR:4132100,Harbor CDP,Harbor,Harbor,41015,Curry County,Census-designated place,42.036734,-124.252045,1
+OR,4132400,place:OR:4132400,Harper CDP,Harper,Harper,41045,Malheur County,Census-designated place,43.856971,-117.626545,1
+OR,4132550,place:OR:4132550,Harrisburg city,Harrisburg,Harrisburg,41043,Linn County,Incorporated place,44.270278,-123.162583,1
+OR,4132850,place:OR:4132850,Hayesville CDP,Hayesville,Hayesville,41047,Marion County,Census-designated place,44.979279,-122.973706,1
+OR,4133100,place:OR:4133100,Hebo CDP,Hebo,Hebo,41057,Tillamook County,Census-designated place,45.226003,-123.858629,1
+OR,4133150,place:OR:4133150,Heceta Beach CDP,Heceta Beach,Heceta Beach,41039,Lane County,Census-designated place,44.024262,-124.117793,1
+OR,4133250,place:OR:4133250,Helix city,Helix,Helix,41059,Umatilla County,Incorporated place,45.850663,-118.659081,1
+OR,4133550,place:OR:4133550,Heppner city,Heppner,Heppner,41049,Morrow County,Incorporated place,45.352941,-119.560545,1
+OR,4133700,place:OR:4133700,Hermiston city,Hermiston,Hermiston,41059,Umatilla County,Incorporated place,45.833058,-119.284689,1
+OR,4134100,place:OR:4134100,Hillsboro city,Hillsboro,Hillsboro,41067,Washington County,Incorporated place,45.525315,-122.93638,1
+OR,4134250,place:OR:4134250,Hines city,Hines,Hines,41025,Harney County,Incorporated place,43.557352,-119.081832,1
+OR,4134650,place:OR:4134650,Holley CDP,Holley,Holley,41043,Linn County,Census-designated place,44.348986,-122.785581,1
+OR,4134900,place:OR:4134900,Hood River city,Hood River,Hood River,41027,Hood River County,Incorporated place,45.70907,-121.524132,1
+OR,4135450,place:OR:4135450,Hubbard city,Hubbard,Hubbard,41047,Marion County,Incorporated place,45.181472,-122.808324,1
+OR,4135700,place:OR:4135700,Huntington city,Huntington,Huntington,41001,Baker County,Incorporated place,44.350086,-117.266763,1
+OR,4135800,place:OR:4135800,Idanha city,Idanha,Idanha,41047,Marion County,Incorporated place,44.701513,-122.083184,1
+OR,4135850,place:OR:4135850,Idaville CDP,Idaville,Idaville,41057,Tillamook County,Census-designated place,45.509725,-123.863276,1
+OR,4136050,place:OR:4136050,Imbler city,Imbler,Imbler,41061,Union County,Incorporated place,45.462114,-117.963193,1
+OR,4136150,place:OR:4136150,Independence city,Independence,Independence,41053,Polk County,Incorporated place,44.857805,-123.197722,1
+OR,4136400,place:OR:4136400,Ione city,Ione,Ione,41049,Morrow County,Incorporated place,45.50291,-119.821972,1
+OR,4136500,place:OR:4136500,Irrigon city,Irrigon,Irrigon,41049,Morrow County,Incorporated place,45.89497,-119.489908,1
+OR,4136750,place:OR:4136750,Island City city,Island City,Island City,41061,Union County,Incorporated place,45.335842,-118.049176,1
+OR,4137000,place:OR:4137000,Jacksonville city,Jacksonville,Jacksonville,41029,Jackson County,Incorporated place,42.312632,-122.969169,1
+OR,4137150,place:OR:4137150,Jasper CDP,Jasper,Jasper,41039,Lane County,Census-designated place,43.987035,-122.916322,1
+OR,4137202,place:OR:4137202,Jeffers Gardens CDP,Jeffers Gardens,Jeffers Gardens,41007,Clatsop County,Census-designated place,46.151755,-123.852082,1
+OR,4137250,place:OR:4137250,Jefferson city,Jefferson,Jefferson,41047,Marion County,Incorporated place,44.716554,-123.005969,1
+OR,4137400,place:OR:4137400,Jennings Lodge CDP,Jennings Lodge,Jennings Lodge,41005,Clackamas County,Census-designated place,45.393518,-122.615453,1
+OR,4137550,place:OR:4137550,John Day city,John Day,John Day,41023,Grant County,Incorporated place,44.418121,-118.956296,1
+OR,4137650,place:OR:4137650,Johnson City city,Johnson City,Johnson City,41005,Clackamas County,Incorporated place,45.405369,-122.58178,1
+OR,4137850,place:OR:4137850,Jordan Valley city,Jordan Valley,Jordan Valley,41045,Malheur County,Incorporated place,42.979333,-117.057442,1
+OR,4137900,place:OR:4137900,Joseph city,Joseph,Joseph,41063,Wallowa County,Incorporated place,45.352531,-117.230358,1
+OR,4138000,place:OR:4138000,Junction City city,Junction City,Junction City,41039,Lane County,Incorporated place,44.21191,-123.200151,1
+OR,4138075,place:OR:4138075,Juniper Canyon CDP,Juniper Canyon,Juniper Canyon,41013,Crook County,Census-designated place,44.199775,-120.746693,1
+OR,4138150,place:OR:4138150,Juntura CDP,Juntura,Juntura,41045,Malheur County,Census-designated place,43.748684,-118.078841,1
+OR,4138500,place:OR:4138500,Keizer city,Keizer,Keizer,41047,Marion County,Incorporated place,45.000532,-123.021013,1
+OR,4138750,place:OR:4138750,Keno CDP,Keno,Keno,41035,Klamath County,Census-designated place,42.139755,-121.943211,1
+OR,4138900,place:OR:4138900,Kerby CDP,Kerby,Kerby,41033,Josephine County,Census-designated place,42.199844,-123.645659,1
+OR,4139150,place:OR:4139150,King City city,King City,King City,41067,Washington County,Incorporated place,45.400148,-122.817978,1
+OR,4139350,place:OR:4139350,Kings Valley CDP,Kings Valley,Kings Valley,41003,Benton County,Census-designated place,44.698503,-123.426859,1
+OR,4139566,place:OR:4139566,Kirkpatrick CDP,Kirkpatrick,Kirkpatrick,41059,Umatilla County,Census-designated place,45.679586,-118.649878,1
+OR,4139700,place:OR:4139700,Klamath Falls city,Klamath Falls,Klamath Falls,41035,Klamath County,Incorporated place,42.215766,-121.775805,1
+OR,4139850,place:OR:4139850,Knappa CDP,Knappa,Knappa,41007,Clatsop County,Census-designated place,46.170814,-123.579823,1
+OR,4140350,place:OR:4140350,La Grande city,La Grande,La Grande,41061,Union County,Incorporated place,45.324004,-118.085518,1
+OR,4141050,place:OR:4141050,La Pine city,La Pine,La Pine,41017,Deschutes County,Incorporated place,43.68685,-121.485315,1
+OR,4140050,place:OR:4140050,Labish Village CDP,Labish Village,Labish Village,41047,Marion County,Census-designated place,45.019095,-122.973569,1
+OR,4140150,place:OR:4140150,Lacomb CDP,Lacomb,Lacomb,41043,Linn County,Census-designated place,44.584365,-122.741669,1
+OR,4140300,place:OR:4140300,Lafayette city,Lafayette,Lafayette,41071,Yamhill County,Incorporated place,45.246856,-123.111899,1
+OR,4140550,place:OR:4140550,Lake Oswego city,Lake Oswego,Lake Oswego,41005,Clackamas County,Incorporated place,45.413551,-122.700007,1
+OR,4140650,place:OR:4140650,Lakeside city,Lakeside,Lakeside,41011,Coos County,Incorporated place,43.584511,-124.171965,1
+OR,4140700,place:OR:4140700,Lakeview town,Lakeview,Lakeview,41037,Lake County,Incorporated place,42.191856,-120.352907,1
+OR,4140950,place:OR:4140950,Langlois CDP,Langlois,Langlois,41015,Curry County,Census-designated place,42.925901,-124.453177,1
+OR,4141650,place:OR:4141650,Lebanon city,Lebanon,Lebanon,41043,Linn County,Incorporated place,44.529981,-122.908103,1
+OR,4142200,place:OR:4142200,Lexington town,Lexington,Lexington,41049,Morrow County,Incorporated place,45.44616,-119.687952,1
+OR,4142550,place:OR:4142550,Lincoln Beach CDP,Lincoln Beach,Lincoln Beach,41041,Lincoln County,Census-designated place,44.865074,-124.024688,1
+OR,4142600,place:OR:4142600,Lincoln City city,Lincoln City,Lincoln City,41041,Lincoln County,Incorporated place,44.977732,-124.0033,1
+OR,4143400,place:OR:4143400,Lonerock city,Lonerock,Lonerock,41021,Gilliam County,Incorporated place,45.088769,-119.883974,1
+OR,4143550,place:OR:4143550,Long Creek city,Long Creek,Long Creek,41023,Grant County,Incorporated place,44.714152,-119.104245,1
+OR,4143650,place:OR:4143650,Lookingglass CDP,Lookingglass,Lookingglass,41019,Douglas County,Census-designated place,43.184802,-123.499903,1
+OR,4143900,place:OR:4143900,Lostine city,Lostine,Lostine,41063,Wallowa County,Incorporated place,45.486703,-117.429466,1
+OR,4144050,place:OR:4144050,Lowell city,Lowell,Lowell,41039,Lane County,Incorporated place,43.920071,-122.781752,1
+OR,4144300,place:OR:4144300,Lyons city,Lyons,Lyons,41043,Linn County,Incorporated place,44.780664,-122.612542,1
+OR,4145250,place:OR:4145250,Madras city,Madras,Madras,41031,Jefferson County,Incorporated place,44.663897,-121.160438,1
+OR,4145400,place:OR:4145400,Malin city,Malin,Malin,41035,Klamath County,Incorporated place,42.013367,-121.409744,1
+OR,4145700,place:OR:4145700,Manzanita city,Manzanita,Manzanita,41057,Tillamook County,Incorporated place,45.716584,-123.935073,1
+OR,4145750,place:OR:4145750,Mapleton CDP,Mapleton,Mapleton,41039,Lane County,Census-designated place,44.033416,-123.86483,1
+OR,4145850,place:OR:4145850,Marcola CDP,Marcola,Marcola,41039,Lane County,Census-designated place,44.175058,-122.858162,1
+OR,4145900,place:OR:4145900,Marion CDP,Marion,Marion,41047,Marion County,Census-designated place,44.75125,-122.927723,1
+OR,4146100,place:OR:4146100,Marlene Village CDP,Marlene Village,Marlene Village,41067,Washington County,Census-designated place,45.517206,-122.819851,1
+OR,4146500,place:OR:4146500,Maupin city,Maupin,Maupin,41065,Wasco County,Incorporated place,45.17072,-121.088318,1
+OR,4146730,place:OR:4146730,Maywood Park city,Maywood Park,Maywood Park,41051,Multnomah County,Incorporated place,45.552517,-122.561778,1
+OR,4144625,place:OR:4144625,McKay CDP,McKay,McKay,41059,Umatilla County,Census-designated place,45.492346,-118.68418,1
+OR,4145000,place:OR:4145000,McMinnville city,McMinnville,McMinnville,41071,Yamhill County,Incorporated place,45.211047,-123.191822,1
+OR,4146800,place:OR:4146800,Meacham CDP,Meacham,Meacham,41059,Umatilla County,Census-designated place,45.523066,-118.439518,1
+OR,4147000,place:OR:4147000,Medford city,Medford,Medford,41029,Jackson County,Incorporated place,42.336006,-122.851762,1
+OR,4147300,place:OR:4147300,Mehama CDP,Mehama,Mehama,41047,Marion County,Census-designated place,44.79119,-122.625416,1
+OR,4147350,place:OR:4147350,Melrose CDP,Melrose,Melrose,41019,Douglas County,Census-designated place,43.252861,-123.457458,1
+OR,4147650,place:OR:4147650,Merlin CDP,Merlin,Merlin,41033,Josephine County,Census-designated place,42.519934,-123.432297,1
+OR,4147700,place:OR:4147700,Merrill city,Merrill,Merrill,41035,Klamath County,Incorporated place,42.025866,-121.600723,1
+OR,4147750,place:OR:4147750,Metolius city,Metolius,Metolius,41031,Jefferson County,Incorporated place,44.587479,-121.175989,1
+OR,4147800,place:OR:4147800,Metzger CDP,Metzger,Metzger,41067,Washington County,Census-designated place,45.449287,-122.76201,1
+OR,4148150,place:OR:4148150,Mill City city,Mill City,Mill City,41043,Linn County,Incorporated place,44.752002,-122.477004,1
+OR,4148300,place:OR:4148300,Millersburg city,Millersburg,Millersburg,41043,Linn County,Incorporated place,44.678867,-123.072469,1
+OR,4148600,place:OR:4148600,Milton-Freewater city,Milton-Freewater,Milton-Freewater,41059,Umatilla County,Incorporated place,45.933986,-118.390958,1
+OR,4148650,place:OR:4148650,Milwaukie city,Milwaukie,Milwaukie,41005,Clackamas County,Incorporated place,45.444835,-122.620848,1
+OR,4149000,place:OR:4149000,Mission CDP,Mission,Mission,41059,Umatilla County,Census-designated place,45.658566,-118.665527,1
+OR,4149150,place:OR:4149150,Mitchell city,Mitchell,Mitchell,41069,Wheeler County,Incorporated place,44.573695,-120.152883,1
+OR,4149450,place:OR:4149450,Molalla city,Molalla,Molalla,41005,Clackamas County,Incorporated place,45.149348,-122.584865,1
+OR,4149550,place:OR:4149550,Monmouth city,Monmouth,Monmouth,41053,Polk County,Incorporated place,44.851316,-123.228603,1
+OR,4149600,place:OR:4149600,Monroe city,Monroe,Monroe,41003,Benton County,Incorporated place,44.316948,-123.298903,1
+OR,4149750,place:OR:4149750,Monument city,Monument,Monument,41023,Grant County,Incorporated place,44.820795,-119.420885,1
+OR,4150000,place:OR:4150000,Moro city,Moro,Moro,41055,Sherman County,Incorporated place,45.483752,-120.733315,1
+OR,4150050,place:OR:4150050,Mosier city,Mosier,Mosier,41065,Wasco County,Incorporated place,45.685038,-121.398216,1
+OR,4150150,place:OR:4150150,Mount Angel city,Mount Angel,Mount Angel,41047,Marion County,Incorporated place,45.069535,-122.797219,1
+OR,4150200,place:OR:4150200,Mount Hood CDP,Mount Hood,Mount Hood,41027,Hood River County,Census-designated place,45.533898,-121.566214,1
+OR,4150236,place:OR:4150236,Mount Hood Villages CDP,Mount Hood Villages,Mount Hood Villages,41005,Clackamas County,Census-designated place,45.323983,-121.990434,1
+OR,4150250,place:OR:4150250,Mount Vernon city,Mount Vernon,Mount Vernon,41023,Grant County,Incorporated place,44.416897,-119.113174,1
+OR,4150450,place:OR:4150450,Mulino CDP,Mulino,Mulino,41005,Clackamas County,Census-designated place,45.222006,-122.557242,1
+OR,4150950,place:OR:4150950,Myrtle Creek city,Myrtle Creek,Myrtle Creek,41019,Douglas County,Incorporated place,43.024065,-123.27835,1
+OR,4151050,place:OR:4151050,Myrtle Point city,Myrtle Point,Myrtle Point,41011,Coos County,Incorporated place,43.06268,-124.13308,1
+OR,4151450,place:OR:4151450,Neahkahnie CDP,Neahkahnie,Neahkahnie,41057,Tillamook County,Census-designated place,45.732341,-123.939798,1
+OR,4151700,place:OR:4151700,Nehalem city,Nehalem,Nehalem,41057,Tillamook County,Incorporated place,45.719528,-123.894023,1
+OR,4151900,place:OR:4151900,Neotsu CDP,Neotsu,Neotsu,41041,Lincoln County,Census-designated place,44.996052,-123.977634,1
+OR,4151950,place:OR:4151950,Nesika Beach CDP,Nesika Beach,Nesika Beach,41015,Curry County,Census-designated place,42.507682,-124.402253,1
+OR,4152000,place:OR:4152000,Neskowin CDP,Neskowin,Neskowin,41057,Tillamook County,Census-designated place,45.120823,-123.976305,1
+OR,4152050,place:OR:4152050,Netarts CDP,Netarts,Netarts,41057,Tillamook County,Census-designated place,45.435624,-123.934386,1
+OR,4152275,place:OR:4152275,New Hope CDP,New Hope,New Hope,41033,Josephine County,Census-designated place,42.36929,-123.35895,1
+OR,4152400,place:OR:4152400,New Pine Creek CDP,New Pine Creek,New Pine Creek,41037,Lake County,Census-designated place,42.001464,-120.304404,1
+OR,4152100,place:OR:4152100,Newberg city,Newberg,Newberg,41071,Yamhill County,Incorporated place,45.306618,-122.960782,1
+OR,4152450,place:OR:4152450,Newport city,Newport,Newport,41041,Lincoln County,Incorporated place,44.621411,-124.043824,1
+OR,4153000,place:OR:4153000,North Bend city,North Bend,North Bend,41011,Coos County,Incorporated place,43.407163,-124.234483,1
+OR,4153150,place:OR:4153150,North Plains city,North Plains,North Plains,41067,Washington County,Incorporated place,45.597475,-122.994719,1
+OR,4153300,place:OR:4153300,North Powder city,North Powder,North Powder,41061,Union County,Incorporated place,45.03003,-117.920316,1
+OR,4153750,place:OR:4153750,Nyssa city,Nyssa,Nyssa,41045,Malheur County,Incorporated place,43.87788,-116.9956,1
+OR,4154350,place:OR:4154350,O'Brien CDP,O'Brien,O'Brien,41033,Josephine County,Census-designated place,42.079926,-123.704571,1
+OR,4153900,place:OR:4153900,Oak Grove CDP,Oak Grove,Oak Grove,41005,Clackamas County,Census-designated place,45.412653,-122.634446,1
+OR,4153988,place:OR:4153988,Oak Hills CDP,Oak Hills,Oak Hills,41067,Washington County,Census-designated place,45.540399,-122.841285,1
+OR,4154000,place:OR:4154000,Oakland city,Oakland,Oakland,41019,Douglas County,Incorporated place,43.422998,-123.297168,1
+OR,4154100,place:OR:4154100,Oakridge city,Oakridge,Oakridge,41039,Lane County,Incorporated place,43.745594,-122.465804,1
+OR,4154325,place:OR:4154325,Oatfield CDP,Oatfield,Oatfield,41005,Clackamas County,Census-designated place,45.412533,-122.594082,1
+OR,4154450,place:OR:4154450,Oceanside CDP,Oceanside,Oceanside,41057,Tillamook County,Census-designated place,45.454901,-123.961265,1
+OR,4154527,place:OR:4154527,Ochoco West CDP,Ochoco West,Ochoco West,41013,Crook County,Census-designated place,44.403269,-120.92083,1
+OR,4154550,place:OR:4154550,Odell CDP,Odell,Odell,41027,Hood River County,Census-designated place,45.635462,-121.552231,1
+OR,4154900,place:OR:4154900,Ontario city,Ontario,Ontario,41045,Malheur County,Incorporated place,44.025336,-116.977368,1
+OR,4155200,place:OR:4155200,Oregon City city,Oregon City,Oregon City,41005,Clackamas County,Incorporated place,45.341314,-122.592327,1
+OR,4155268,place:OR:4155268,Oregon Shores CDP,Oregon Shores,Oregon Shores,41035,Klamath County,Census-designated place,42.538031,-121.920711,1
+OR,4155500,place:OR:4155500,Orient CDP,Orient,Orient,41051,Multnomah County,Census-designated place,45.4694,-122.354978,1
+OR,4156150,place:OR:4156150,Pacific City CDP,Pacific City,Pacific City,41057,Tillamook County,Census-designated place,45.204919,-123.954514,1
+OR,4156250,place:OR:4156250,Paisley city,Paisley,Paisley,41037,Lake County,Incorporated place,42.692535,-120.545275,1
+OR,4156500,place:OR:4156500,Parkdale CDP,Parkdale,Parkdale,41027,Hood River County,Census-designated place,45.513042,-121.592076,1
+OR,4157150,place:OR:4157150,Pendleton city,Pendleton,Pendleton,41059,Umatilla County,Incorporated place,45.675609,-118.819548,1
+OR,4157300,place:OR:4157300,Peoria CDP,Peoria,Peoria,41043,Linn County,Census-designated place,44.450749,-123.204252,1
+OR,4157450,place:OR:4157450,Philomath city,Philomath,Philomath,41003,Benton County,Incorporated place,44.54213,-123.359956,1
+OR,4157500,place:OR:4157500,Phoenix city,Phoenix,Phoenix,41029,Jackson County,Incorporated place,42.278446,-122.814865,1
+OR,4157650,place:OR:4157650,Pilot Rock city,Pilot Rock,Pilot Rock,41059,Umatilla County,Incorporated place,45.492787,-118.83016,1
+OR,4157850,place:OR:4157850,Pine Grove CDP,Pine Grove,Pine Grove,41065,Wasco County,Census-designated place,45.11351,-121.355334,1
+OR,4157875,place:OR:4157875,Pine Hollow CDP,Pine Hollow,Pine Hollow,41065,Wasco County,Census-designated place,45.235235,-121.283705,1
+OR,4158050,place:OR:4158050,Pistol River CDP,Pistol River,Pistol River,41015,Curry County,Census-designated place,42.287853,-124.398775,1
+OR,4158500,place:OR:4158500,Pleasant Valley CDP,Pleasant Valley,Pleasant Valley,41057,Tillamook County,Census-designated place,45.376125,-123.795172,1
+OR,4158550,place:OR:4158550,Plush CDP,Plush,Plush,41037,Lake County,Census-designated place,42.405043,-119.899312,1
+OR,4159250,place:OR:4159250,Port Orford city,Port Orford,Port Orford,41015,Curry County,Incorporated place,42.749276,-124.498118,1
+OR,4159000,place:OR:4159000,Portland city,Portland,Portland,41051,Multnomah County,Incorporated place,45.536951,-122.649971,1
+OR,4159600,place:OR:4159600,Powers city,Powers,Powers,41011,Coos County,Incorporated place,42.885003,-124.076248,1
+OR,4159650,place:OR:4159650,Prairie City city,Prairie City,Prairie City,41023,Grant County,Incorporated place,44.461101,-118.70938,1
+OR,4159750,place:OR:4159750,Prescott city,Prescott,Prescott,41009,Columbia County,Incorporated place,46.04892,-122.887181,1
+OR,4159850,place:OR:4159850,Prineville city,Prineville,Prineville,41013,Crook County,Incorporated place,44.29854,-120.860718,1
+OR,4159916,place:OR:4159916,Prineville Lake Acres CDP,Prineville Lake Acres,Prineville Lake Acres,41013,Crook County,Census-designated place,44.167579,-120.788884,1
+OR,4160070,place:OR:4160070,Pronghorn CDP,Pronghorn,Pronghorn,41017,Deschutes County,Census-designated place,44.188124,-121.181724,1
+OR,4160100,place:OR:4160100,Prospect CDP,Prospect,Prospect,41029,Jackson County,Census-designated place,42.754675,-122.471115,1
+OR,4160850,place:OR:4160850,Rainier city,Rainier,Rainier,41009,Columbia County,Incorporated place,46.058054,-122.933598,1
+OR,4160900,place:OR:4160900,Raleigh Hills CDP,Raleigh Hills,Raleigh Hills,41067,Washington County,Census-designated place,45.48511,-122.756674,1
+OR,4161200,place:OR:4161200,Redmond city,Redmond,Redmond,41017,Deschutes County,Incorporated place,44.260694,-121.182425,1
+OR,4161250,place:OR:4161250,Redwood CDP,Redwood,Redwood,41033,Josephine County,Census-designated place,42.420898,-123.393189,1
+OR,4161300,place:OR:4161300,Reedsport city,Reedsport,Reedsport,41019,Douglas County,Incorporated place,43.698854,-124.111918,1
+OR,4161550,place:OR:4161550,Rhododendron CDP,Rhododendron,Rhododendron,41005,Clackamas County,Census-designated place,45.305321,-121.847917,1
+OR,4161700,place:OR:4161700,Richland city,Richland,Richland,41001,Baker County,Incorporated place,44.769508,-117.168576,1
+OR,4161800,place:OR:4161800,Rickreall CDP,Rickreall,Rickreall,41053,Polk County,Census-designated place,44.931926,-123.234362,1
+OR,4161850,place:OR:4161850,Riddle city,Riddle,Riddle,41019,Douglas County,Incorporated place,42.954177,-123.364485,1
+OR,4162292,place:OR:4162292,River Point CDP,River Point,River Point,41007,Clatsop County,Census-designated place,46.144397,-123.804877,1
+OR,4162300,place:OR:4162300,River Road CDP,River Road,River Road,41039,Lane County,Census-designated place,44.083556,-123.132127,1
+OR,4162250,place:OR:4162250,Rivergrove city,Rivergrove,Rivergrove,41005,Clackamas County,Incorporated place,45.385167,-122.733525,1
+OR,4162412,place:OR:4162412,Riverside CDP,Riverside,Riverside,41059,Umatilla County,Census-designated place,45.676815,-118.736816,1
+OR,4162900,place:OR:4162900,Rockaway Beach city,Rockaway Beach,Rockaway Beach,41057,Tillamook County,Incorporated place,45.617027,-123.938885,1
+OR,4163010,place:OR:4163010,Rockcreek CDP,Rockcreek,Rockcreek,41067,Washington County,Census-designated place,45.552516,-122.875945,1
+OR,4163250,place:OR:4163250,Rocky Point CDP,Rocky Point,Rocky Point,41035,Klamath County,Census-designated place,42.433579,-122.118865,1
+OR,4163450,place:OR:4163450,Rogue River city,Rogue River,Rogue River,41029,Jackson County,Incorporated place,42.435534,-123.168226,1
+OR,4163800,place:OR:4163800,Rose Lodge CDP,Rose Lodge,Rose Lodge,41041,Lincoln County,Census-designated place,45.018708,-123.888223,1
+OR,4163650,place:OR:4163650,Roseburg city,Roseburg,Roseburg,41019,Douglas County,Incorporated place,43.223604,-123.352037,1
+OR,4163660,place:OR:4163660,Roseburg North CDP,Roseburg North,Roseburg North,41019,Douglas County,Census-designated place,43.272999,-123.344683,1
+OR,4163950,place:OR:4163950,Rowena CDP,Rowena,Rowena,41065,Wasco County,Census-designated place,45.670108,-121.274947,1
+OR,4164150,place:OR:4164150,Ruch CDP,Ruch,Ruch,41029,Jackson County,Census-designated place,42.231368,-123.040322,1
+OR,4164200,place:OR:4164200,Rufus city,Rufus,Rufus,41055,Sherman County,Incorporated place,45.689226,-120.742683,1
+OR,4164282,place:OR:4164282,Running Y Ranch CDP,Running Y Ranch,Running Y Ranch,41035,Klamath County,Census-designated place,42.273266,-121.874966,1
+OR,4164900,place:OR:4164900,Salem city,Salem,Salem,41047,Marion County,Incorporated place,44.9239,-123.023007,1
+OR,4165300,place:OR:4165300,San Marine CDP,San Marine,San Marine,41041,Lincoln County,Census-designated place,44.35473,-124.093996,1
+OR,4165250,place:OR:4165250,Sandy city,Sandy,Sandy,41005,Clackamas County,Incorporated place,45.398073,-122.268802,1
+OR,4165400,place:OR:4165400,Santa Clara CDP,Santa Clara,Santa Clara,41039,Lane County,Census-designated place,44.115022,-123.134283,1
+OR,4165450,place:OR:4165450,Saunders Lake CDP,Saunders Lake,Saunders Lake,41011,Coos County,Census-designated place,43.519681,-124.211737,1
+OR,4165500,place:OR:4165500,Scappoose city,Scappoose,Scappoose,41009,Columbia County,Incorporated place,45.758079,-122.873097,1
+OR,4165650,place:OR:4165650,Scio city,Scio,Scio,41043,Linn County,Incorporated place,44.704285,-122.851061,1
+OR,4165800,place:OR:4165800,Scotts Mills city,Scotts Mills,Scotts Mills,41047,Marion County,Incorporated place,45.04103,-122.668923,1
+OR,4165950,place:OR:4165950,Seaside city,Seaside,Seaside,41007,Clatsop County,Incorporated place,45.989019,-123.920958,1
+OR,4166150,place:OR:4166150,Selma CDP,Selma,Selma,41033,Josephine County,Census-designated place,42.279724,-123.615063,1
+OR,4166200,place:OR:4166200,Seneca city,Seneca,Seneca,41023,Grant County,Incorporated place,44.135219,-118.97627,1
+OR,4166385,place:OR:4166385,Seventh Mountain CDP,Seventh Mountain,Seventh Mountain,41017,Deschutes County,Census-designated place,44.003862,-121.383829,1
+OR,4166550,place:OR:4166550,Shady Cove city,Shady Cove,Shady Cove,41029,Jackson County,Incorporated place,42.605321,-122.819377,1
+OR,4166700,place:OR:4166700,Shaniko city,Shaniko,Shaniko,41065,Wasco County,Incorporated place,45.003653,-120.752151,1
+OR,4166900,place:OR:4166900,Shedd CDP,Shedd,Shedd,41043,Linn County,Census-designated place,44.457955,-123.111911,1
+OR,4167050,place:OR:4167050,Sheridan city,Sheridan,Sheridan,41071,Yamhill County,Incorporated place,45.095933,-123.398088,1
+OR,4167100,place:OR:4167100,Sherwood city,Sherwood,Sherwood,41067,Washington County,Incorporated place,45.359496,-122.841914,1
+OR,4167500,place:OR:4167500,Siletz city,Siletz,Siletz,41041,Lincoln County,Incorporated place,44.721834,-123.9187,1
+OR,4167600,place:OR:4167600,Silver Lake CDP,Silver Lake,Silver Lake,41037,Lake County,Census-designated place,43.12639,-121.049471,1
+OR,4167650,place:OR:4167650,Silverton city,Silverton,Silverton,41047,Marion County,Incorporated place,45.003391,-122.780928,1
+OR,4167950,place:OR:4167950,Sisters city,Sisters,Sisters,41017,Deschutes County,Incorporated place,44.292382,-121.552975,1
+OR,4168550,place:OR:4168550,Sodaville city,Sodaville,Sodaville,41043,Linn County,Incorporated place,44.483042,-122.869078,1
+OR,4168875,place:OR:4168875,South Lebanon CDP,South Lebanon,South Lebanon,41043,Linn County,Census-designated place,44.506392,-122.900579,1
+OR,4169387,place:OR:4169387,Sportsmans Park CDP,Sportsmans Park,Sportsmans Park,41065,Wasco County,Census-designated place,45.219499,-121.39562,1
+OR,4169400,place:OR:4169400,Sprague River CDP,Sprague River,Sprague River,41035,Klamath County,Census-designated place,42.456624,-121.502141,1
+OR,4169450,place:OR:4169450,Spray town,Spray,Spray,41069,Wheeler County,Incorporated place,44.833131,-119.794227,1
+OR,4169600,place:OR:4169600,Springfield city,Springfield,Springfield,41039,Lane County,Incorporated place,44.05356,-122.980924,1
+OR,4164600,place:OR:4164600,St. Helens city,St. Helens,St. Helens,41009,Columbia County,Incorporated place,45.856308,-122.817204,1
+OR,4164850,place:OR:4164850,St. Paul city,St. Paul,St. Paul,41047,Marion County,Incorporated place,45.212249,-122.977166,1
+OR,4169800,place:OR:4169800,Stafford CDP,Stafford,Stafford,41005,Clackamas County,Census-designated place,45.382617,-122.676463,1
+OR,4169900,place:OR:4169900,Stanfield city,Stanfield,Stanfield,41059,Umatilla County,Incorporated place,45.782187,-119.216064,1
+OR,4170200,place:OR:4170200,Stayton city,Stayton,Stayton,41047,Marion County,Incorporated place,44.805514,-122.799814,1
+OR,4170700,place:OR:4170700,Sublimity city,Sublimity,Sublimity,41047,Marion County,Incorporated place,44.829407,-122.792302,1
+OR,4170850,place:OR:4170850,Summerville town,Summerville,Summerville,41061,Union County,Incorporated place,45.489708,-118.004065,1
+OR,4170870,place:OR:4170870,Summit CDP,Summit,Summit,41003,Benton County,Census-designated place,44.636046,-123.576709,1
+OR,4171000,place:OR:4171000,Sumpter city,Sumpter,Sumpter,41001,Baker County,Incorporated place,44.743547,-118.197461,1
+OR,4171250,place:OR:4171250,Sunriver CDP,Sunriver,Sunriver,41017,Deschutes County,Census-designated place,43.882123,-121.434971,1
+OR,4171650,place:OR:4171650,Sutherlin city,Sutherlin,Sutherlin,41019,Douglas County,Incorporated place,43.386245,-123.322673,1
+OR,4171800,place:OR:4171800,Svensen CDP,Svensen,Svensen,41007,Clatsop County,Census-designated place,46.156421,-123.655415,1
+OR,4171950,place:OR:4171950,Sweet Home city,Sweet Home,Sweet Home,41043,Linn County,Incorporated place,44.404606,-122.699455,1
+OR,4172400,place:OR:4172400,Takilma CDP,Takilma,Takilma,41033,Josephine County,Census-designated place,42.040835,-123.622313,1
+OR,4172500,place:OR:4172500,Talent city,Talent,Talent,41029,Jackson County,Incorporated place,42.240369,-122.780622,1
+OR,4172600,place:OR:4172600,Tangent city,Tangent,Tangent,41043,Linn County,Incorporated place,44.547613,-123.110798,1
+OR,4172800,place:OR:4172800,Terrebonne CDP,Terrebonne,Terrebonne,41017,Deschutes County,Census-designated place,44.353349,-121.18083,1
+OR,4172820,place:OR:4172820,Tetherow CDP,Tetherow,Tetherow,41017,Deschutes County,Census-designated place,44.038944,-121.366544,1
+OR,4172950,place:OR:4172950,The Dalles city,The Dalles,The Dalles,41065,Wasco County,Incorporated place,45.598386,-121.152411,1
+OR,4173225,place:OR:4173225,Three Rivers CDP,Three Rivers,Three Rivers,41017,Deschutes County,Census-designated place,43.836558,-121.46463,1
+OR,4173650,place:OR:4173650,Tigard city,Tigard,Tigard,41067,Washington County,Incorporated place,45.422921,-122.784388,1
+OR,4173700,place:OR:4173700,Tillamook city,Tillamook,Tillamook,41057,Tillamook County,Incorporated place,45.456124,-123.833147,1
+OR,4174000,place:OR:4174000,Toledo city,Toledo,Toledo,41041,Lincoln County,Incorporated place,44.619748,-123.933704,1
+OR,4174400,place:OR:4174400,Trail CDP,Trail,Trail,41029,Jackson County,Census-designated place,42.666404,-122.812748,1
+OR,4174550,place:OR:4174550,Trent CDP,Trent,Trent,41039,Lane County,Census-designated place,43.943618,-122.857848,1
+OR,4174650,place:OR:4174650,Tri-City CDP,Tri-City,Tri-City,41019,Douglas County,Census-designated place,42.989349,-123.299866,1
+OR,4174850,place:OR:4174850,Troutdale city,Troutdale,Troutdale,41051,Multnomah County,Incorporated place,45.53922,-122.392673,1
+OR,4174950,place:OR:4174950,Tualatin city,Tualatin,Tualatin,41067,Washington County,Incorporated place,45.376856,-122.774723,1
+OR,4175050,place:OR:4175050,Tumalo CDP,Tumalo,Tumalo,41017,Deschutes County,Census-designated place,44.156065,-121.327985,1
+OR,4175150,place:OR:4175150,Turner city,Turner,Turner,41047,Marion County,Incorporated place,44.848455,-122.951336,1
+OR,4175185,place:OR:4175185,Tutuilla CDP,Tutuilla,Tutuilla,41059,Umatilla County,Census-designated place,45.614178,-118.706494,1
+OR,4175500,place:OR:4175500,Tygh Valley CDP,Tygh Valley,Tygh Valley,41065,Wasco County,Census-designated place,45.241802,-121.169278,1
+OR,4175550,place:OR:4175550,Ukiah city,Ukiah,Ukiah,41059,Umatilla County,Incorporated place,45.134694,-118.933206,1
+OR,4175600,place:OR:4175600,Umapine CDP,Umapine,Umapine,41059,Umatilla County,Census-designated place,45.975929,-118.500938,1
+OR,4175650,place:OR:4175650,Umatilla city,Umatilla,Umatilla,41059,Umatilla County,Incorporated place,45.917612,-119.331979,1
+OR,4175850,place:OR:4175850,Union city,Union,Union,41061,Union County,Incorporated place,45.208913,-117.867864,1
+OR,4176250,place:OR:4176250,Unity city,Unity,Unity,41001,Baker County,Incorporated place,44.451573,-118.186298,1
+OR,4176600,place:OR:4176600,Vale city,Vale,Vale,41045,Malheur County,Incorporated place,43.983987,-117.242198,1
+OR,4177050,place:OR:4177050,Veneta city,Veneta,Veneta,41039,Lane County,Incorporated place,44.04715,-123.351335,1
+OR,4177250,place:OR:4177250,Vernonia city,Vernonia,Vernonia,41009,Columbia County,Incorporated place,45.864121,-123.183523,1
+OR,4178000,place:OR:4178000,Waldport city,Waldport,Waldport,41041,Lincoln County,Incorporated place,44.419775,-124.065754,1
+OR,4178150,place:OR:4178150,Wallowa city,Wallowa,Wallowa,41063,Wallowa County,Incorporated place,45.570357,-117.528524,1
+OR,4178160,place:OR:4178160,Wallowa Lake CDP,Wallowa Lake,Wallowa Lake,41063,Wallowa County,Census-designated place,45.300501,-117.215248,1
+OR,4178300,place:OR:4178300,Wamic CDP,Wamic,Wamic,41065,Wasco County,Census-designated place,45.225619,-121.292667,1
+OR,4178600,place:OR:4178600,Warm Springs CDP,Warm Springs,Warm Springs,41031,Jefferson County,Census-designated place,44.791248,-121.247664,1
+OR,4178800,place:OR:4178800,Warren CDP,Warren,Warren,41009,Columbia County,Census-designated place,45.816024,-122.882741,1
+OR,4178900,place:OR:4178900,Warrenton city,Warrenton,Warrenton,41007,Clatsop County,Incorporated place,46.173101,-123.929668,1
+OR,4178950,place:OR:4178950,Wasco city,Wasco,Wasco,41055,Sherman County,Incorporated place,45.591657,-120.697464,1
+OR,4179050,place:OR:4179050,Waterloo town,Waterloo,Waterloo,41043,Linn County,Incorporated place,44.494663,-122.824265,1
+OR,4179500,place:OR:4179500,Wedderburn CDP,Wedderburn,Wedderburn,41015,Curry County,Census-designated place,42.434187,-124.420148,1
+OR,4180025,place:OR:4180025,West Haven-Sylvan CDP,West Haven-Sylvan,West Haven-Sylvan,41067,Washington County,Census-designated place,45.516439,-122.765448,1
+OR,4180150,place:OR:4180150,West Linn city,West Linn,West Linn,41005,Clackamas County,Incorporated place,45.36652,-122.638391,1
+OR,4180750,place:OR:4180750,West Scio CDP,West Scio,West Scio,41043,Linn County,Census-designated place,44.709831,-122.88122,1
+OR,4180900,place:OR:4180900,West Slope CDP,West Slope,West Slope,41067,Washington County,Census-designated place,45.496217,-122.773008,1
+OR,4179950,place:OR:4179950,Westfir city,Westfir,Westfir,41039,Lane County,Incorporated place,43.757972,-122.502614,1
+OR,4180350,place:OR:4180350,Weston city,Weston,Weston,41059,Umatilla County,Incorporated place,45.815204,-118.425712,1
+OR,4180400,place:OR:4180400,Westport CDP,Westport,Westport,41007,Clatsop County,Census-designated place,46.130373,-123.37144,1
+OR,4181300,place:OR:4181300,Wheeler city,Wheeler,Wheeler,41057,Tillamook County,Incorporated place,45.687317,-123.887071,1
+OR,4181450,place:OR:4181450,White City CDP,White City,White City,41029,Jackson County,Census-designated place,42.431667,-122.832231,1
+OR,4182350,place:OR:4182350,Willamina city,Willamina,Willamina,41071,Yamhill County,Incorporated place,45.078649,-123.48487,1
+OR,4182450,place:OR:4182450,Williams CDP,Williams,Williams,41033,Josephine County,Census-designated place,42.219433,-123.292208,1
+OR,4182800,place:OR:4182800,Wilsonville city,Wilsonville,Wilsonville,41005,Clackamas County,Incorporated place,45.311262,-122.77092,1
+OR,4182850,place:OR:4182850,Wimer CDP,Wimer,Wimer,41029,Jackson County,Census-designated place,42.552527,-123.145949,1
+OR,4183050,place:OR:4183050,Winchester Bay CDP,Winchester Bay,Winchester Bay,41019,Douglas County,Census-designated place,43.669982,-124.186938,1
+OR,4183400,place:OR:4183400,Winston city,Winston,Winston,41019,Douglas County,Incorporated place,43.120109,-123.424531,1
+OR,4183950,place:OR:4183950,Wood Village city,Wood Village,Wood Village,41051,Multnomah County,Incorporated place,45.535789,-122.420493,1
+OR,4183750,place:OR:4183750,Woodburn city,Woodburn,Woodburn,41047,Marion County,Incorporated place,45.147001,-122.861144,1
+OR,4184200,place:OR:4184200,Yachats city,Yachats,Yachats,41041,Lincoln County,Incorporated place,44.311619,-124.101229,1
+OR,4184250,place:OR:4184250,Yamhill city,Yamhill,Yamhill,41071,Yamhill County,Incorporated place,45.34083,-123.184471,1
+OR,4184600,place:OR:4184600,Yoncalla city,Yoncalla,Yoncalla,41019,Douglas County,Incorporated place,43.600247,-123.292371,1

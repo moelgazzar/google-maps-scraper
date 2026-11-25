@@ -1,0 +1,50 @@
+{
+  "states": {
+    "MO": {
+      "counties": 115,
+      "places": 1081,
+      "census_designated_places": 134,
+      "zip_areas": 1040,
+      "zip_areas_without_2020_place_overlap": 150,
+      "places_without_matched_2020_zip_overlap": 0,
+      "places_with_county_qualified_search_label": 0,
+      "places_requiring_manual_search_label": 0,
+      "place_zip_links": 1609,
+      "legacy_only_place_links": 1,
+      "place_links_without_a_matched_zip_area": 0,
+      "county_ids_without_matching_boundary": 0
+    }
+  },
+  "sources": {
+    "places.zip": {
+      "url": "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2026_Gazetteer/2026_Gaz_place_national.zip",
+      "bytes": 1214650,
+      "sha256": "af678e2d990827c89ee39b98c82de6e90b693c7361ff0e559ae3076670dd2863"
+    },
+    "counties.zip": {
+      "url": "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2026_Gazetteer/2026_Gaz_counties_national.zip",
+      "bytes": 139190,
+      "sha256": "6a99ca00efbc0be5112e225d4102704c51d5ce3b16e3afd6e4159460595fd12a"
+    },
+    "zctas.zip": {
+      "url": "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2026_Gazetteer/2026_Gaz_zcta_national.zip",
+      "bytes": 952131,
+      "sha256": "f1e9046b91f6e60686a99343cb2752834c02b0764939403b331c78c017e2c54c"
+    },
+    "zcta-place.txt": {
+      "url": "https://www2.census.gov/geo/docs/maps-data/data/rel2020/zcta520/tab20_zcta520_place20_natl.txt",
+      "bytes": 9811563,
+      "sha256": "698a5dad71ed419411677d0ffd8ecd9331067f59c472cdd239b92c12f698285d"
+    },
+    "zcta-county.txt": {
+      "url": "https://www2.census.gov/geo/docs/maps-data/data/rel2020/zcta520/tab20_zcta520_county20_natl.txt",
+      "bytes": 6821287,
+      "sha256": "3ed41278d637dc249e0323306f68be8a6c234e3090f4de88ef328dee71aeaaaf"
+    },
+    "county-shapes.zip": {
+      "url": "https://www2.census.gov/geo/tiger/GENZ2025/kml/cb_2025_us_county_500k.zip",
+      "bytes": 8614776,
+      "sha256": "fd8e3d57d59d43ab16692ba62a3c139705a899acd6ad4db3d66a05e3a21a54c6"
+    }
+  }
+}

@@ -1,0 +1,1294 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+NY,3600155,place:NY:3600155,Accord CDP,Accord,Accord,36111,Ulster County,Census-designated place,41.801491,-74.230258,1
+NY,3600199,place:NY:3600199,Adams village,Adams,Adams,36045,Jefferson County,Incorporated place,43.810218,-76.022978,1
+NY,3600232,place:NY:3600232,Adams Center CDP,Adams Center,Adams Center,36045,Jefferson County,Census-designated place,43.869989,-75.988663,1
+NY,3600276,place:NY:3600276,Addison village,Addison,Addison,36101,Steuben County,Incorporated place,42.106321,-77.23199,1
+NY,3600342,place:NY:3600342,Afton village,Afton,Afton,36017,Chenango County,Incorporated place,42.229199,-75.52475,1
+NY,3600408,place:NY:3600408,Airmont village,Airmont,Airmont,36087,Rockland County,Incorporated place,41.099156,-74.098002,1
+NY,3600441,place:NY:3600441,Akron village,Akron,Akron,36029,Erie County,Incorporated place,43.017986,-78.497824,1
+NY,3600457,place:NY:3600457,Akwesasne CDP,Akwesasne,Akwesasne,36033,Franklin County,Census-designated place,44.968597,-74.665983,1
+NY,3601000,place:NY:3601000,Albany city,Albany,Albany,36001,Albany County,Incorporated place,42.665745,-73.798353,1
+NY,3601011,place:NY:3601011,Albertson CDP,Albertson,Albertson,36059,Nassau County,Census-designated place,40.771589,-73.648155,1
+NY,3601033,place:NY:3601033,Albion village,Albion,Albion,36073,Orleans County,Incorporated place,43.246024,-78.1902,1
+NY,3601088,place:NY:3601088,Alden village,Alden,Alden,36029,Erie County,Incorporated place,42.898879,-78.494607,1
+NY,3601154,place:NY:3601154,Alexander village,Alexander,Alexander,36037,Genesee County,Incorporated place,42.902021,-78.259113,1
+NY,3601187,place:NY:3601187,Alexandria Bay village,Alexandria Bay,Alexandria Bay,36045,Jefferson County,Incorporated place,44.337221,-75.922707,1
+NY,3601198,place:NY:3601198,Alfred village,Alfred,Alfred,36003,Allegany County,Incorporated place,42.254333,-77.789646,1
+NY,3601286,place:NY:3601286,Allegany village,Allegany,Allegany,36009,Cattaraugus County,Incorporated place,42.090649,-78.489633,1
+NY,3601440,place:NY:3601440,Almond village,Almond,Almond,36003,Allegany County,Incorporated place,42.319325,-77.738608,1
+NY,3601517,place:NY:3601517,Altamont village,Altamont,Altamont,36001,Albany County,Incorporated place,42.705345,-74.033633,1
+NY,3601550,place:NY:3601550,Altmar CDP,Altmar,Altmar,36075,Oswego County,Census-designated place,43.512425,-76.005578,1
+NY,3601572,place:NY:3601572,Altona CDP,Altona,Altona,36019,Clinton County,Census-designated place,44.890097,-73.659565,1
+NY,3601594,place:NY:3601594,Amagansett CDP,Amagansett,Amagansett,36103,Suffolk County,Census-designated place,40.983382,-72.130131,1
+NY,3601682,place:NY:3601682,Amenia CDP,Amenia,Amenia,36027,Dutchess County,Census-designated place,41.848203,-73.555575,1
+NY,3601737,place:NY:3601737,Ames village,Ames,Ames,36057,Montgomery County,Incorporated place,42.837469,-74.601681,1
+NY,3602044,place:NY:3602044,Amityville village,Amityville,Amityville,36103,Suffolk County,Incorporated place,40.669844,-73.415787,1
+NY,3602066,place:NY:3602066,Amsterdam city,Amsterdam,Amsterdam,36057,Montgomery County,Incorporated place,42.941628,-74.190566,1
+NY,3602121,place:NY:3602121,Andes CDP,Andes,Andes,36025,Delaware County,Census-designated place,42.187625,-74.780353,1
+NY,3602143,place:NY:3602143,Andover village,Andover,Andover,36003,Allegany County,Incorporated place,42.156996,-77.796098,1
+NY,3602176,place:NY:3602176,Angelica village,Angelica,Angelica,36003,Allegany County,Incorporated place,42.305506,-78.020645,1
+NY,3602198,place:NY:3602198,Angola village,Angola,Angola,36029,Erie County,Incorporated place,42.637885,-79.029516,1
+NY,3602220,place:NY:3602220,Angola on the Lake CDP,Angola on the Lake,Angola on the Lake,36029,Erie County,Census-designated place,42.654966,-79.052241,1
+NY,3602286,place:NY:3602286,Antwerp village,Antwerp,Antwerp,36045,Jefferson County,Incorporated place,44.199538,-75.608971,1
+NY,3602308,place:NY:3602308,Apalachin CDP,Apalachin,Apalachin,36107,Tioga County,Census-designated place,42.063844,-76.156757,1
+NY,3602374,place:NY:3602374,Aquebogue CDP,Aquebogue,Aquebogue,36103,Suffolk County,Census-designated place,40.944651,-72.605593,1
+NY,3602407,place:NY:3602407,Arcade village,Arcade,Arcade,36121,Wyoming County,Incorporated place,42.531726,-78.439916,1
+NY,3602506,place:NY:3602506,Ardsley village,Ardsley,Ardsley,36119,Westchester County,Incorporated place,41.013479,-73.839289,1
+NY,3602550,place:NY:3602550,Argyle village,Argyle,Argyle,36115,Washington County,Incorporated place,43.236345,-73.490739,1
+NY,3602583,place:NY:3602583,Arkport village,Arkport,Arkport,36101,Steuben County,Incorporated place,42.392596,-77.695482,1
+NY,3602616,place:NY:3602616,Arlington CDP,Arlington,Arlington,36027,Dutchess County,Census-designated place,41.696478,-73.898949,1
+NY,3602649,place:NY:3602649,Armonk CDP,Armonk,Armonk,36119,Westchester County,Census-designated place,41.133462,-73.719279,1
+NY,3602737,place:NY:3602737,Asharoken village,Asharoken,Asharoken,36103,Suffolk County,Incorporated place,40.93927,-73.38506,1
+NY,3602902,place:NY:3602902,Athens village,Athens,Athens,36039,Greene County,Incorporated place,42.27103,-73.815933,1
+NY,3602968,place:NY:3602968,Atlantic Beach village,Atlantic Beach,Atlantic Beach,36059,Nassau County,Incorporated place,40.586057,-73.725097,1
+NY,3603001,place:NY:3603001,Attica village,Attica,Attica,36121,Wyoming County,Incorporated place,42.863897,-78.27968,1
+NY,3603254,place:NY:3603254,Au Sable Forks CDP,Au Sable Forks,Au Sable Forks,36019,Clinton County,Census-designated place,44.454699,-73.670888,1
+NY,3603078,place:NY:3603078,Auburn city,Auburn,Auburn,36011,Cayuga County,Incorporated place,42.9338,-76.567181,1
+NY,3603188,place:NY:3603188,Aurora village,Aurora,Aurora,36011,Cayuga County,Incorporated place,42.752192,-76.698439,1
+NY,3603320,place:NY:3603320,Averill Park CDP,Averill Park,Averill Park,36083,Rensselaer County,Census-designated place,42.644407,-73.553822,1
+NY,3603331,place:NY:3603331,Avoca village,Avoca,Avoca,36101,Steuben County,Incorporated place,42.414883,-77.424835,1
+NY,3603353,place:NY:3603353,Avon village,Avon,Avon,36051,Livingston County,Incorporated place,42.912842,-77.74649,1
+NY,3603408,place:NY:3603408,Babylon village,Babylon,Babylon,36103,Suffolk County,Incorporated place,40.693679,-73.326,1
+NY,3604033,place:NY:3604033,Bainbridge village,Bainbridge,Bainbridge,36017,Chenango County,Incorporated place,42.302388,-75.480284,1
+NY,3604055,place:NY:3604055,Baiting Hollow CDP,Baiting Hollow,Baiting Hollow,36103,Suffolk County,Census-designated place,40.961742,-72.753226,1
+NY,3604143,place:NY:3604143,Baldwin CDP,Baldwin,Baldwin,36059,Nassau County,Census-designated place,40.650127,-73.607709,1
+NY,3604198,place:NY:3604198,Baldwinsville village,Baldwinsville,Baldwinsville,36067,Onondaga County,Incorporated place,43.159706,-76.338464,1
+NY,3604253,place:NY:3604253,Ballston Spa village,Ballston Spa,Ballston Spa,36091,Saratoga County,Incorporated place,43.00564,-73.854458,1
+NY,3604286,place:NY:3604286,Balmville CDP,Balmville,Balmville,36071,Orange County,Census-designated place,41.527905,-74.024627,1
+NY,3604388,place:NY:3604388,Bard College CDP,Bard College,Bard College,36027,Dutchess County,Census-designated place,42.022816,-73.909367,1
+NY,3604396,place:NY:3604396,Bardonia CDP,Bardonia,Bardonia,36087,Rockland County,Census-designated place,41.113952,-73.979297,1
+NY,3604440,place:NY:3604440,Barker village,Barker,Barker,36063,Niagara County,Incorporated place,43.328328,-78.553535,1
+NY,3604528,place:NY:3604528,Barneveld CDP,Barneveld,Barneveld,36065,Oneida County,Census-designated place,43.274497,-75.187686,1
+NY,3604550,place:NY:3604550,Barnum Island CDP,Barnum Island,Barnum Island,36059,Nassau County,Census-designated place,40.60878,-73.644672,1
+NY,3604605,place:NY:3604605,Barrytown CDP,Barrytown,Barrytown,36027,Dutchess County,Census-designated place,42.000126,-73.925973,1
+NY,3604616,place:NY:3604616,Barryville CDP,Barryville,Barryville,36105,Sullivan County,Census-designated place,41.481262,-74.916801,1
+NY,3604715,place:NY:3604715,Batavia city,Batavia,Batavia,36037,Genesee County,Incorporated place,42.998558,-78.180806,1
+NY,3604759,place:NY:3604759,Bath village,Bath,Bath,36101,Steuben County,Incorporated place,42.336093,-77.31686,1
+NY,3604803,place:NY:3604803,Baxter Estates village,Baxter Estates,Baxter Estates,36059,Nassau County,Incorporated place,40.833771,-73.694759,1
+NY,3604891,place:NY:3604891,Bay Park CDP,Bay Park,Bay Park,36059,Nassau County,Census-designated place,40.630871,-73.668904,1
+NY,3604935,place:NY:3604935,Bay Shore CDP,Bay Shore,Bay Shore,36103,Suffolk County,Census-designated place,40.729377,-73.250141,1
+NY,3604913,place:NY:3604913,Bayport CDP,Bayport,Bayport,36103,Suffolk County,Census-designated place,40.745984,-73.056388,1
+NY,3605034,place:NY:3605034,Bayville village,Bayville,Bayville,36059,Nassau County,Incorporated place,40.907257,-73.561166,1
+NY,3605039,place:NY:3605039,Baywood CDP,Baywood,Baywood,36103,Suffolk County,Census-designated place,40.753354,-73.289926,1
+NY,3605100,place:NY:3605100,Beacon city,Beacon,Beacon,36027,Dutchess County,Incorporated place,41.50324,-73.964735,1
+NY,3605188,place:NY:3605188,Beaver Dam Lake CDP,Beaver Dam Lake,Beaver Dam Lake,36071,Orange County,Census-designated place,41.43896,-74.125929,1
+NY,3605309,place:NY:3605309,Bedford CDP,Bedford,Bedford,36119,Westchester County,Census-designated place,41.187228,-73.657146,1
+NY,3605342,place:NY:3605342,Bedford Hills CDP,Bedford Hills,Bedford Hills,36119,Westchester County,Census-designated place,41.240568,-73.688149,1
+NY,3605562,place:NY:3605562,Belfast CDP,Belfast,Belfast,36003,Allegany County,Census-designated place,42.341322,-78.118465,1
+NY,3605672,place:NY:3605672,Belle Terre village,Belle Terre,Belle Terre,36103,Suffolk County,Incorporated place,40.960698,-73.067274,1
+NY,3605639,place:NY:3605639,Bellerose village,Bellerose,Bellerose,36059,Nassau County,Incorporated place,40.724275,-73.716674,1
+NY,3605661,place:NY:3605661,Bellerose Terrace CDP,Bellerose Terrace,Bellerose Terrace,36059,Nassau County,Census-designated place,40.722147,-73.725159,1
+NY,3605683,place:NY:3605683,Belleville CDP,Belleville,Belleville,36045,Jefferson County,Census-designated place,43.79221,-76.115518,1
+NY,3605738,place:NY:3605738,Bellmore CDP,Bellmore,Bellmore,36059,Nassau County,Census-designated place,40.660239,-73.526597,1
+NY,3605771,place:NY:3605771,Bellport village,Bellport,Bellport,36103,Suffolk County,Incorporated place,40.75095,-72.941325,1
+NY,3605815,place:NY:3605815,Belmont village,Belmont,Belmont,36003,Allegany County,Incorporated place,42.219371,-78.030899,1
+NY,3605848,place:NY:3605848,Bemus Point village,Bemus Point,Bemus Point,36013,Chautauqua County,Incorporated place,42.163249,-79.389476,1
+NY,3606046,place:NY:3606046,Bergen village,Bergen,Bergen,36037,Genesee County,Incorporated place,43.082601,-77.942458,1
+NY,3606387,place:NY:3606387,Bethpage CDP,Bethpage,Bethpage,36059,Nassau County,Census-designated place,40.749517,-73.485536,1
+NY,3606464,place:NY:3606464,Big Flats CDP,Big Flats,Big Flats,36015,Chemung County,Census-designated place,42.163617,-76.908739,1
+NY,3606574,place:NY:3606574,Billington Heights CDP,Billington Heights,Billington Heights,36029,Erie County,Census-designated place,42.785031,-78.626552,1
+NY,3606607,place:NY:3606607,Binghamton city,Binghamton,Binghamton,36007,Broome County,Incorporated place,42.101331,-75.909369,1
+NY,3606644,place:NY:3606644,Binghamton University CDP,Binghamton University,Binghamton University,36007,Broome County,Census-designated place,42.089141,-75.968456,1
+NY,3606794,place:NY:3606794,Black River village,Black River,Black River,36045,Jefferson County,Incorporated place,44.009525,-75.796463,1
+NY,3606849,place:NY:3606849,Blasdell village,Blasdell,Blasdell,36029,Erie County,Incorporated place,42.796519,-78.8324,1
+NY,3606860,place:NY:3606860,Blauvelt CDP,Blauvelt,Blauvelt,36087,Rockland County,Census-designated place,41.068236,-73.954937,1
+NY,3606904,place:NY:3606904,Bliss CDP,Bliss,Bliss,36121,Wyoming County,Census-designated place,42.580109,-78.253762,1
+NY,3606937,place:NY:3606937,Blodgett Mills CDP,Blodgett Mills,Blodgett Mills,36023,Cortland County,Census-designated place,42.566516,-76.132873,1
+NY,3606945,place:NY:3606945,Bloomfield village,Bloomfield,Bloomfield,36069,Ontario County,Incorporated place,42.899099,-77.424155,1
+NY,3606959,place:NY:3606959,Bloomingburg village,Bloomingburg,Bloomingburg,36105,Sullivan County,Incorporated place,41.551947,-74.443758,1
+NY,3607025,place:NY:3607025,Bloomville CDP,Bloomville,Bloomville,36025,Delaware County,Census-designated place,42.334396,-74.822777,1
+NY,3607069,place:NY:3607069,Blue Point CDP,Blue Point,Blue Point,36103,Suffolk County,Census-designated place,40.751642,-73.035015,1
+NY,3607157,place:NY:3607157,Bohemia CDP,Bohemia,Bohemia,36103,Suffolk County,Census-designated place,40.777225,-73.135171,1
+NY,3607190,place:NY:3607190,Bolivar village,Bolivar,Bolivar,36003,Allegany County,Incorporated place,42.068421,-78.166212,1
+NY,3607245,place:NY:3607245,Bolton Landing CDP,Bolton Landing,Bolton Landing,36113,Warren County,Census-designated place,43.564755,-73.652099,1
+NY,3607355,place:NY:3607355,Boonville village,Boonville,Boonville,36065,Oneida County,Incorporated place,43.480862,-75.329636,1
+NY,3607960,place:NY:3607960,Brasher Falls CDP,Brasher Falls,Brasher Falls,36089,St. Lawrence County,Census-designated place,44.813979,-74.788948,1
+NY,3608004,place:NY:3608004,Breesport CDP,Breesport,Breesport,36015,Chemung County,Census-designated place,42.184035,-76.735908,1
+NY,3608026,place:NY:3608026,Brentwood CDP,Brentwood,Brentwood,36103,Suffolk County,Census-designated place,40.783918,-73.252235,1
+NY,3608059,place:NY:3608059,Brewerton CDP,Brewerton,Brewerton,36067,Onondaga County,Census-designated place,43.232432,-76.14482,1
+NY,3608070,place:NY:3608070,Brewster village,Brewster,Brewster,36079,Putnam County,Incorporated place,41.396162,-73.616269,1
+NY,3608081,place:NY:3608081,Brewster Heights CDP,Brewster Heights,Brewster Heights,36079,Putnam County,Census-designated place,41.407277,-73.628568,1
+NY,3608092,place:NY:3608092,Brewster Hill CDP,Brewster Hill,Brewster Hill,36079,Putnam County,Census-designated place,41.421304,-73.606864,1
+NY,3608103,place:NY:3608103,Briarcliff Manor village,Briarcliff Manor,Briarcliff Manor,36119,Westchester County,Incorporated place,41.140333,-73.847504,1
+NY,3608136,place:NY:3608136,Bridgehampton CDP,Bridgehampton,Bridgehampton,36103,Suffolk County,Census-designated place,40.941131,-72.305709,1
+NY,3608147,place:NY:3608147,Bridgeport CDP,Bridgeport,Bridgeport,36053,Madison County,Census-designated place,43.159236,-75.963913,1
+NY,3608158,place:NY:3608158,Bridgeville CDP,Bridgeville,Bridgeville,36105,Sullivan County,Census-designated place,41.631082,-74.62776,1
+NY,3608169,place:NY:3608169,Bridgewater CDP,Bridgewater,Bridgewater,36065,Oneida County,Census-designated place,42.878732,-75.251993,1
+NY,3608257,place:NY:3608257,Brighton CDP,Brighton,Brighton,36055,Monroe County,Census-designated place,43.1185,-77.581014,1
+NY,3608323,place:NY:3608323,Brightwaters village,Brightwaters,Brightwaters,36103,Suffolk County,Incorporated place,40.716435,-73.261514,1
+NY,3608334,place:NY:3608334,Brinckerhoff CDP,Brinckerhoff,Brinckerhoff,36027,Dutchess County,Census-designated place,41.553472,-73.86288,1
+NY,3608422,place:NY:3608422,Broadalbin village,Broadalbin,Broadalbin,36035,Fulton County,Incorporated place,43.055533,-74.195421,1
+NY,3608466,place:NY:3608466,Brockport village,Brockport,Brockport,36055,Monroe County,Incorporated place,43.213297,-77.940824,1
+NY,3608488,place:NY:3608488,Brocton village,Brocton,Brocton,36013,Chautauqua County,Incorporated place,42.389719,-79.442815,1
+NY,3608532,place:NY:3608532,Bronxville village,Bronxville,Bronxville,36119,Westchester County,Incorporated place,40.939493,-73.82644,1
+NY,3609000,place:NY:3609000,Brookhaven CDP,Brookhaven,Brookhaven,36103,Suffolk County,Census-designated place,40.776671,-72.907833,1
+NY,3610077,place:NY:3610077,Brooktondale CDP,Brooktondale,Brooktondale,36109,Tompkins County,Census-designated place,42.381966,-76.396957,1
+NY,3610132,place:NY:3610132,Brookville village,Brookville,Brookville,36059,Nassau County,Incorporated place,40.807912,-73.570122,1
+NY,3610231,place:NY:3610231,Brownville village,Brownville,Brownville,36045,Jefferson County,Incorporated place,44.005307,-75.98307,1
+NY,3610286,place:NY:3610286,Brushton village,Brushton,Brushton,36033,Franklin County,Incorporated place,44.830681,-74.511908,1
+NY,3610341,place:NY:3610341,Buchanan village,Buchanan,Buchanan,36119,Westchester County,Incorporated place,41.263168,-73.944966,1
+NY,3611000,place:NY:3611000,Buffalo city,Buffalo,Buffalo,36029,Erie County,Incorporated place,42.892492,-78.859686,1
+NY,3611132,place:NY:3611132,Burdett village,Burdett,Burdett,36097,Schuyler County,Incorporated place,42.416873,-76.843963,1
+NY,3611154,place:NY:3611154,Burke village,Burke,Burke,36033,Franklin County,Incorporated place,44.903146,-74.169979,1
+NY,3611220,place:NY:3611220,Burlington Flats CDP,Burlington Flats,Burlington Flats,36077,Otsego County,Census-designated place,42.740306,-75.184322,1
+NY,3611440,place:NY:3611440,Busti CDP,Busti,Busti,36013,Chautauqua County,Census-designated place,42.042324,-79.278902,1
+NY,3611550,place:NY:3611550,Byersville CDP,Byersville,Byersville,36051,Livingston County,Census-designated place,42.583882,-77.791523,1
+NY,3611616,place:NY:3611616,Cadyville CDP,Cadyville,Cadyville,36019,Clinton County,Census-designated place,44.698495,-73.65344,1
+NY,3611638,place:NY:3611638,Cairo CDP,Cairo,Cairo,36039,Greene County,Census-designated place,42.305175,-74.01183,1
+NY,3611671,place:NY:3611671,Calcium CDP,Calcium,Calcium,36045,Jefferson County,Census-designated place,44.040933,-75.849388,1
+NY,3611704,place:NY:3611704,Caledonia village,Caledonia,Caledonia,36051,Livingston County,Incorporated place,42.975467,-77.857079,1
+NY,3611748,place:NY:3611748,Callicoon CDP,Callicoon,Callicoon,36105,Sullivan County,Census-designated place,41.765927,-75.057949,1
+NY,3611781,place:NY:3611781,Calverton CDP,Calverton,Calverton,36103,Suffolk County,Census-designated place,40.920008,-72.773433,1
+NY,3611825,place:NY:3611825,Cambridge village,Cambridge,Cambridge,36115,Washington County,Incorporated place,43.027975,-73.381296,1
+NY,3611847,place:NY:3611847,Camden village,Camden,Camden,36065,Oneida County,Incorporated place,43.336477,-75.74773,1
+NY,3611902,place:NY:3611902,Camillus village,Camillus,Camillus,36067,Onondaga County,Incorporated place,43.038663,-76.309928,1
+NY,3611935,place:NY:3611935,Campbell CDP,Campbell,Campbell,36101,Steuben County,Census-designated place,42.235043,-77.193694,1
+NY,3612111,place:NY:3612111,Canajoharie village,Canajoharie,Canajoharie,36057,Montgomery County,Incorporated place,42.89908,-74.567869,1
+NY,3612144,place:NY:3612144,Canandaigua city,Canandaigua,Canandaigua,36069,Ontario County,Incorporated place,42.888999,-77.280321,1
+NY,3612177,place:NY:3612177,Canaseraga village,Canaseraga,Canaseraga,36003,Allegany County,Incorporated place,42.461762,-77.77727,1
+NY,3612188,place:NY:3612188,Canastota village,Canastota,Canastota,36053,Madison County,Incorporated place,43.084149,-75.755495,1
+NY,3612210,place:NY:3612210,Candor village,Candor,Candor,36107,Tioga County,Incorporated place,42.228395,-76.336672,1
+NY,3612254,place:NY:3612254,Canisteo village,Canisteo,Canisteo,36101,Steuben County,Incorporated place,42.270354,-77.605658,1
+NY,3612331,place:NY:3612331,Canton village,Canton,Canton,36089,St. Lawrence County,Incorporated place,44.599995,-75.166584,1
+NY,3612353,place:NY:3612353,Cape Vincent village,Cape Vincent,Cape Vincent,36045,Jefferson County,Incorporated place,44.123197,-76.330734,1
+NY,3612402,place:NY:3612402,Captree CDP,Captree,Captree,36103,Suffolk County,Census-designated place,40.646074,-73.257051,1
+NY,3612419,place:NY:3612419,Carle Place CDP,Carle Place,Carle Place,36059,Nassau County,Census-designated place,40.749895,-73.612367,1
+NY,3612518,place:NY:3612518,Carmel CDP,Carmel,Carmel,36079,Putnam County,Census-designated place,41.402995,-73.684986,1
+NY,3612584,place:NY:3612584,Caroga Lake CDP,Caroga Lake,Caroga Lake,36035,Fulton County,Census-designated place,43.134003,-74.481423,1
+NY,3612683,place:NY:3612683,Carthage village,Carthage,Carthage,36045,Jefferson County,Incorporated place,43.982876,-75.603012,1
+NY,3612749,place:NY:3612749,Cassadaga village,Cassadaga,Cassadaga,36013,Chautauqua County,Incorporated place,42.341564,-79.317023,1
+NY,3612771,place:NY:3612771,Castile village,Castile,Castile,36121,Wyoming County,Incorporated place,42.631147,-78.052599,1
+NY,3612870,place:NY:3612870,Castleton-on-Hudson village,Castleton-on-Hudson,Castleton-on-Hudson,36083,Rensselaer County,Incorporated place,42.536568,-73.747924,1
+NY,3612881,place:NY:3612881,Castorland village,Castorland,Castorland,36049,Lewis County,Incorporated place,43.886156,-75.516522,1
+NY,3612958,place:NY:3612958,Cato village,Cato,Cato,36011,Cayuga County,Incorporated place,43.165568,-76.567506,1
+NY,3613002,place:NY:3613002,Catskill village,Catskill,Catskill,36039,Greene County,Incorporated place,42.217315,-73.858028,1
+NY,3613024,place:NY:3613024,Cattaraugus village,Cattaraugus,Cattaraugus,36009,Cattaraugus County,Incorporated place,42.329763,-78.867519,1
+NY,3613068,place:NY:3613068,Cayuga village,Cayuga,Cayuga,36011,Cayuga County,Incorporated place,42.919548,-76.727987,1
+NY,3613079,place:NY:3613079,Cayuga Heights village,Cayuga Heights,Cayuga Heights,36109,Tompkins County,Incorporated place,42.467675,-76.488417,1
+NY,3613145,place:NY:3613145,Cazenovia village,Cazenovia,Cazenovia,36053,Madison County,Incorporated place,42.927916,-75.85132,1
+NY,3613233,place:NY:3613233,Cedarhurst village,Cedarhurst,Cedarhurst,36059,Nassau County,Incorporated place,40.625202,-73.727831,1
+NY,3613288,place:NY:3613288,Celoron village,Celoron,Celoron,36013,Chautauqua County,Incorporated place,42.105211,-79.277691,1
+NY,3613299,place:NY:3613299,Cementon CDP,Cementon,Cementon,36039,Greene County,Census-designated place,42.135666,-73.919324,1
+NY,3613420,place:NY:3613420,Center Moriches CDP,Center Moriches,Center Moriches,36103,Suffolk County,Census-designated place,40.799313,-72.796524,1
+NY,3613376,place:NY:3613376,Centereach CDP,Centereach,Centereach,36103,Suffolk County,Census-designated place,40.868067,-73.082104,1
+NY,3613442,place:NY:3613442,Centerport CDP,Centerport,Centerport,36103,Suffolk County,Census-designated place,40.902425,-73.371427,1
+NY,3613530,place:NY:3613530,Central Bridge CDP,Central Bridge,Central Bridge,36095,Schoharie County,Census-designated place,42.712691,-74.349531,1
+NY,3613552,place:NY:3613552,Central Islip CDP,Central Islip,Central Islip,36103,Suffolk County,Census-designated place,40.783589,-73.194475,1
+NY,3613585,place:NY:3613585,Central Square village,Central Square,Central Square,36075,Oswego County,Incorporated place,43.285986,-76.141879,1
+NY,3613618,place:NY:3613618,Centre Island village,Centre Island,Centre Island,36059,Nassau County,Incorporated place,40.898546,-73.521919,1
+NY,3613662,place:NY:3613662,Chadwicks CDP,Chadwicks,Chadwicks,36065,Oneida County,Census-designated place,43.029139,-75.270976,1
+NY,3613739,place:NY:3613739,Champlain village,Champlain,Champlain,36019,Clinton County,Incorporated place,44.988261,-73.432406,1
+NY,3613805,place:NY:3613805,Chappaqua CDP,Chappaqua,Chappaqua,36119,Westchester County,Census-designated place,41.155618,-73.768753,1
+NY,3613981,place:NY:3613981,Chateaugay village,Chateaugay,Chateaugay,36033,Franklin County,Incorporated place,44.926589,-74.080398,1
+NY,3614003,place:NY:3614003,Chatham village,Chatham,Chatham,36021,Columbia County,Incorporated place,42.361187,-73.600658,1
+NY,3614036,place:NY:3614036,Chaumont village,Chaumont,Chaumont,36045,Jefferson County,Incorporated place,44.06835,-76.132748,1
+NY,3614058,place:NY:3614058,Chautauqua CDP,Chautauqua,Chautauqua,36013,Chautauqua County,Census-designated place,42.210077,-79.469015,1
+NY,3614102,place:NY:3614102,Chazy CDP,Chazy,Chazy,36019,Clinton County,Census-designated place,44.890851,-73.4292,1
+NY,3615000,place:NY:3615000,Cheektowaga CDP,Cheektowaga,Cheektowaga,36029,Erie County,Census-designated place,42.909004,-78.750763,1
+NY,3615060,place:NY:3615060,Chelsea Cove CDP,Chelsea Cove,Chelsea Cove,36027,Dutchess County,Census-designated place,41.613622,-73.745503,1
+NY,3615121,place:NY:3615121,Chenango Bridge CDP,Chenango Bridge,Chenango Bridge,36007,Broome County,Census-designated place,42.171427,-75.857719,1
+NY,3615187,place:NY:3615187,Cherry Creek CDP,Cherry Creek,Cherry Creek,36013,Chautauqua County,Census-designated place,42.295845,-79.100858,1
+NY,3615242,place:NY:3615242,Cherry Valley village,Cherry Valley,Cherry Valley,36077,Otsego County,Incorporated place,42.79818,-74.75217,1
+NY,3615297,place:NY:3615297,Chester village,Chester,Chester,36071,Orange County,Incorporated place,41.356942,-74.276921,1
+NY,3615363,place:NY:3615363,Chestertown CDP,Chestertown,Chestertown,36113,Warren County,Census-designated place,43.643112,-73.783522,1
+NY,3615400,place:NY:3615400,Chestnut Ridge village,Chestnut Ridge,Chestnut Ridge,36087,Rockland County,Incorporated place,41.084908,-74.048071,1
+NY,3615561,place:NY:3615561,Chittenango village,Chittenango,Chittenango,36053,Madison County,Incorporated place,43.046144,-75.874769,1
+NY,3615638,place:NY:3615638,Churchville village,Churchville,Churchville,36055,Monroe County,Incorporated place,43.102261,-77.881586,1
+NY,3615814,place:NY:3615814,Clarence CDP,Clarence,Clarence,36029,Erie County,Census-designated place,42.971395,-78.596891,1
+NY,3615836,place:NY:3615836,Clarence Center CDP,Clarence Center,Clarence Center,36029,Erie County,Census-designated place,43.008425,-78.630815,1
+NY,3615902,place:NY:3615902,Clark Mills CDP,Clark Mills,Clark Mills,36065,Oneida County,Census-designated place,43.084579,-75.376112,1
+NY,3615946,place:NY:3615946,Clarkson CDP,Clarkson,Clarkson,36055,Monroe County,Census-designated place,43.239818,-77.916201,1
+NY,3616050,place:NY:3616050,Claverack-Red Mills CDP,Claverack-Red Mills,Claverack-Red Mills,36021,Columbia County,Census-designated place,42.229481,-73.722275,1
+NY,3616089,place:NY:3616089,Clayton village,Clayton,Clayton,36045,Jefferson County,Incorporated place,44.237487,-76.082734,1
+NY,3616111,place:NY:3616111,Clayville village,Clayville,Clayville,36065,Oneida County,Incorporated place,42.977963,-75.250681,1
+NY,3616188,place:NY:3616188,Cleveland village,Cleveland,Cleveland,36075,Oswego County,Incorporated place,43.240002,-75.884202,1
+NY,3616298,place:NY:3616298,Clifton Gardens CDP,Clifton Gardens,Clifton Gardens,36091,Saratoga County,Census-designated place,42.847116,-73.782602,1
+NY,3616322,place:NY:3616322,Clifton Knolls-Mill Creek CDP,Clifton Knolls-Mill Creek,Clifton Knolls-Mill Creek,36091,Saratoga County,Census-designated place,42.850658,-73.806356,1
+NY,3616375,place:NY:3616375,Clifton Springs village,Clifton Springs,Clifton Springs,36069,Ontario County,Incorporated place,42.960832,-77.134788,1
+NY,3616419,place:NY:3616419,Clinton village,Clinton,Clinton,36065,Oneida County,Incorporated place,43.048866,-75.378462,1
+NY,3616452,place:NY:3616452,Clintondale CDP,Clintondale,Clintondale,36111,Ulster County,Census-designated place,41.69091,-74.045223,1
+NY,3616573,place:NY:3616573,Clyde village,Clyde,Clyde,36117,Wayne County,Incorporated place,43.084162,-76.87043,1
+NY,3616628,place:NY:3616628,Cobleskill village,Cobleskill,Cobleskill,36095,Schoharie County,Incorporated place,42.679002,-74.485234,1
+NY,3616727,place:NY:3616727,Cohocton village,Cohocton,Cohocton,36101,Steuben County,Incorporated place,42.49993,-77.500006,1
+NY,3616749,place:NY:3616749,Cohoes city,Cohoes,Cohoes,36001,Albany County,Incorporated place,42.772867,-73.707759,1
+NY,3616815,place:NY:3616815,Cold Brook village,Cold Brook,Cold Brook,36043,Herkimer County,Incorporated place,43.239875,-75.038869,1
+NY,3616936,place:NY:3616936,Cold Spring village,Cold Spring,Cold Spring,36079,Putnam County,Incorporated place,41.419238,-73.954745,1
+NY,3616958,place:NY:3616958,Cold Spring Harbor CDP,Cold Spring Harbor,Cold Spring Harbor,36103,Suffolk County,Census-designated place,40.864418,-73.456446,1
+NY,3617332,place:NY:3617332,Colonie village,Colonie,Colonie,36001,Albany County,Incorporated place,42.720873,-73.831736,1
+NY,3617398,place:NY:3617398,Colton CDP,Colton,Colton,36089,St. Lawrence County,Census-designated place,44.565056,-74.946662,1
+NY,3617530,place:NY:3617530,Commack CDP,Commack,Commack,36103,Suffolk County,Census-designated place,40.843449,-73.283336,1
+NY,3617607,place:NY:3617607,Conesus CDP,Conesus,Conesus,36051,Livingston County,Census-designated place,42.726333,-77.669676,1
+NY,3617622,place:NY:3617622,Conesus Lake CDP,Conesus Lake,Conesus Lake,36051,Livingston County,Census-designated place,42.806176,-77.69991,1
+NY,3617739,place:NY:3617739,Congers CDP,Congers,Congers,36087,Rockland County,Census-designated place,41.149122,-73.946371,1
+NY,3617882,place:NY:3617882,Constableville village,Constableville,Constableville,36049,Lewis County,Incorporated place,43.564721,-75.427685,1
+NY,3617893,place:NY:3617893,Constantia CDP,Constantia,Constantia,36075,Oswego County,Census-designated place,43.25856,-76.009024,1
+NY,3618036,place:NY:3618036,Coopers Plains CDP,Coopers Plains,Coopers Plains,36101,Steuben County,Census-designated place,42.179345,-77.137523,1
+NY,3618047,place:NY:3618047,Cooperstown village,Cooperstown,Cooperstown,36077,Otsego County,Incorporated place,42.698875,-74.930659,1
+NY,3618091,place:NY:3618091,Copake CDP,Copake,Copake,36021,Columbia County,Census-designated place,42.104842,-73.554715,1
+NY,3618113,place:NY:3618113,Copake Falls CDP,Copake Falls,Copake Falls,36021,Columbia County,Census-designated place,42.120223,-73.524723,1
+NY,3618124,place:NY:3618124,Copake Lake CDP,Copake Lake,Copake Lake,36021,Columbia County,Census-designated place,42.147242,-73.597579,1
+NY,3618135,place:NY:3618135,Copenhagen village,Copenhagen,Copenhagen,36049,Lewis County,Incorporated place,43.89329,-75.672629,1
+NY,3618146,place:NY:3618146,Copiague CDP,Copiague,Copiague,36103,Suffolk County,Census-designated place,40.670358,-73.392761,1
+NY,3618157,place:NY:3618157,Coram CDP,Coram,Coram,36103,Suffolk County,Census-designated place,40.881236,-73.005882,1
+NY,3618201,place:NY:3618201,Corfu village,Corfu,Corfu,36037,Genesee County,Incorporated place,42.961163,-78.40261,1
+NY,3618212,place:NY:3618212,Corinth village,Corinth,Corinth,36091,Saratoga County,Incorporated place,43.245662,-73.830348,1
+NY,3618256,place:NY:3618256,Corning city,Corning,Corning,36101,Steuben County,Incorporated place,42.148195,-77.056401,1
+NY,3618333,place:NY:3618333,Cornwall-on-Hudson village,Cornwall-on-Hudson,Cornwall-on-Hudson,36071,Orange County,Incorporated place,41.433521,-74.015145,1
+NY,3618388,place:NY:3618388,Cortland city,Cortland,Cortland,36023,Cortland County,Incorporated place,42.600866,-76.179127,1
+NY,3618443,place:NY:3618443,Cortland West CDP,Cortland West,Cortland West,36023,Cortland County,Census-designated place,42.594186,-76.225853,1
+NY,3618542,place:NY:3618542,Country Knolls CDP,Country Knolls,Country Knolls,36091,Saratoga County,Census-designated place,42.90875,-73.80732,1
+NY,3618597,place:NY:3618597,Cove Neck village,Cove Neck,Cove Neck,36059,Nassau County,Incorporated place,40.885781,-73.497304,1
+NY,3618718,place:NY:3618718,Coxsackie village,Coxsackie,Coxsackie,36039,Greene County,Incorporated place,42.357628,-73.807989,1
+NY,3618762,place:NY:3618762,Cragsmoor CDP,Cragsmoor,Cragsmoor,36111,Ulster County,Census-designated place,41.665484,-74.391169,1
+NY,3618817,place:NY:3618817,Cranberry Lake CDP,Cranberry Lake,Cranberry Lake,36089,St. Lawrence County,Census-designated place,44.180885,-74.86828,1
+NY,3618993,place:NY:3618993,Crest View Heights CDP,Crest View Heights,Crest View Heights,36107,Tioga County,Census-designated place,42.075728,-76.123409,1
+NY,3619070,place:NY:3619070,Croghan village,Croghan,Croghan,36049,Lewis County,Incorporated place,43.89429,-75.391521,1
+NY,3619092,place:NY:3619092,Crompond CDP,Crompond,Crompond,36119,Westchester County,Census-designated place,41.295265,-73.839963,1
+NY,3619213,place:NY:3619213,Croton-on-Hudson village,Croton-on-Hudson,Croton-on-Hudson,36119,Westchester County,Incorporated place,41.209652,-73.901152,1
+NY,3619229,place:NY:3619229,Crown Heights CDP,Crown Heights,Crown Heights,36027,Dutchess County,Census-designated place,41.641654,-73.928663,1
+NY,3619290,place:NY:3619290,Crugers CDP,Crugers,Crugers,36119,Westchester County,Census-designated place,41.231337,-73.92581,1
+NY,3619308,place:NY:3619308,Crystal Beach CDP,Crystal Beach,Crystal Beach,36069,Ontario County,Census-designated place,42.809769,-77.258293,1
+NY,3619356,place:NY:3619356,Cuba village,Cuba,Cuba,36003,Allegany County,Incorporated place,42.218292,-78.275211,1
+NY,3619408,place:NY:3619408,Cumberland Head CDP,Cumberland Head,Cumberland Head,36019,Clinton County,Census-designated place,44.717703,-73.398006,1
+NY,3619411,place:NY:3619411,Cumminsville CDP,Cumminsville,Cumminsville,36051,Livingston County,Census-designated place,42.570539,-77.718936,1
+NY,3619466,place:NY:3619466,Cutchogue CDP,Cutchogue,Cutchogue,36103,Suffolk County,Census-designated place,41.021223,-72.486958,1
+NY,3619510,place:NY:3619510,Cuylerville CDP,Cuylerville,Cuylerville,36051,Livingston County,Census-designated place,42.777692,-77.873758,1
+NY,3619587,place:NY:3619587,Dalton CDP,Dalton,Dalton,36051,Livingston County,Census-designated place,42.542227,-77.951938,1
+NY,3619609,place:NY:3619609,Danby CDP,Danby,Danby,36109,Tompkins County,Census-designated place,42.355404,-76.467307,1
+NY,3619642,place:NY:3619642,Dannemora village,Dannemora,Dannemora,36019,Clinton County,Incorporated place,44.719721,-73.718535,1
+NY,3619664,place:NY:3619664,Dansville village,Dansville,Dansville,36051,Livingston County,Incorporated place,42.562482,-77.696927,1
+NY,3619774,place:NY:3619774,Davenport Center CDP,Davenport Center,Davenport Center,36025,Delaware County,Census-designated place,42.445085,-74.911217,1
+NY,3619972,place:NY:3619972,Deer Park CDP,Deer Park,Deer Park,36103,Suffolk County,Census-designated place,40.761441,-73.321736,1
+NY,3619994,place:NY:3619994,Deferiet village,Deferiet,Deferiet,36045,Jefferson County,Incorporated place,44.032323,-75.679354,1
+NY,3620049,place:NY:3620049,DeKalb Junction CDP,DeKalb Junction,DeKalb Junction,36089,St. Lawrence County,Census-designated place,44.512052,-75.297688,1
+NY,3620082,place:NY:3620082,Delanson village,Delanson,Delanson,36093,Schenectady County,Incorporated place,42.748099,-74.182443,1
+NY,3620115,place:NY:3620115,Delevan village,Delevan,Delevan,36009,Cattaraugus County,Incorporated place,42.491288,-78.479603,1
+NY,3620126,place:NY:3620126,Delhi village,Delhi,Delhi,36025,Delaware County,Incorporated place,42.277417,-74.91548,1
+NY,3620302,place:NY:3620302,Depauville CDP,Depauville,Depauville,36045,Jefferson County,Census-designated place,44.142448,-76.045152,1
+NY,3620313,place:NY:3620313,Depew village,Depew,Depew,36029,Erie County,Incorporated place,42.911764,-78.704363,1
+NY,3620346,place:NY:3620346,Deposit village,Deposit,Deposit,36007,Broome County,Incorporated place,42.064176,-75.422919,1
+NY,3620379,place:NY:3620379,Dering Harbor village,Dering Harbor,Dering Harbor,36103,Suffolk County,Incorporated place,41.092177,-72.341328,1
+NY,3620390,place:NY:3620390,DeRuyter village,DeRuyter,DeRuyter,36053,Madison County,Incorporated place,42.758669,-75.886689,1
+NY,3620467,place:NY:3620467,DeWitt CDP,DeWitt,DeWitt,36067,Onondaga County,Census-designated place,43.027996,-76.086522,1
+NY,3620500,place:NY:3620500,Dexter village,Dexter,Dexter,36045,Jefferson County,Incorporated place,44.011052,-76.04137,1
+NY,3620687,place:NY:3620687,Dix Hills CDP,Dix Hills,Dix Hills,36103,Suffolk County,Census-designated place,40.803322,-73.337459,1
+NY,3620698,place:NY:3620698,Dobbs Ferry village,Dobbs Ferry,Dobbs Ferry,36119,Westchester County,Incorporated place,41.009994,-73.868636,1
+NY,3620731,place:NY:3620731,Dolgeville village,Dolgeville,Dolgeville,36043,Herkimer County,Incorporated place,43.106593,-74.779954,1
+NY,3620841,place:NY:3620841,Dover Plains CDP,Dover Plains,Dover Plains,36027,Dutchess County,Census-designated place,41.739272,-73.573014,1
+NY,3620852,place:NY:3620852,Downsville CDP,Downsville,Downsville,36025,Delaware County,Census-designated place,42.084598,-74.997709,1
+NY,3620896,place:NY:3620896,Dresden village,Dresden,Dresden,36123,Yates County,Incorporated place,42.683928,-76.957046,1
+NY,3620951,place:NY:3620951,Dryden village,Dryden,Dryden,36109,Tompkins County,Incorporated place,42.49083,-76.301387,1
+NY,3620989,place:NY:3620989,Duane Lake CDP,Duane Lake,Duane Lake,36093,Schenectady County,Census-designated place,42.752239,-74.107327,1
+NY,3620995,place:NY:3620995,Duanesburg CDP,Duanesburg,Duanesburg,36093,Schenectady County,Census-designated place,42.763423,-74.133129,1
+NY,3621050,place:NY:3621050,Dundee village,Dundee,Dundee,36123,Yates County,Incorporated place,42.52359,-76.977392,1
+NY,3621105,place:NY:3621105,Dunkirk city,Dunkirk,Dunkirk,36013,Chautauqua County,Incorporated place,42.480551,-79.332898,1
+NY,3621226,place:NY:3621226,Durhamville CDP,Durhamville,Durhamville,36065,Oneida County,Census-designated place,43.122562,-75.665,1
+NY,3621380,place:NY:3621380,Eagle Bay CDP,Eagle Bay,Eagle Bay,36043,Herkimer County,Census-designated place,43.768644,-74.817367,1
+NY,3621523,place:NY:3621523,Earlville village,Earlville,Earlville,36053,Madison County,Incorporated place,42.740085,-75.543595,1
+NY,3621578,place:NY:3621578,East Atlantic Beach CDP,East Atlantic Beach,East Atlantic Beach,36059,Nassau County,Census-designated place,40.585582,-73.712204,1
+NY,3621589,place:NY:3621589,East Aurora village,East Aurora,East Aurora,36029,Erie County,Incorporated place,42.766837,-78.617042,1
+NY,3621600,place:NY:3621600,East Avon CDP,East Avon,East Avon,36051,Livingston County,Census-designated place,42.912785,-77.707306,1
+NY,3621919,place:NY:3621919,East Durham CDP,East Durham,East Durham,36039,Greene County,Census-designated place,42.36565,-74.092526,1
+NY,3621985,place:NY:3621985,East Farmingdale CDP,East Farmingdale,East Farmingdale,36103,Suffolk County,Census-designated place,40.736657,-73.411368,1
+NY,3622029,place:NY:3622029,East Frankfort CDP,East Frankfort,East Frankfort,36043,Herkimer County,Census-designated place,43.016973,-75.064795,1
+NY,3622084,place:NY:3622084,East Glenville CDP,East Glenville,East Glenville,36093,Schenectady County,Census-designated place,42.864027,-73.928902,1
+NY,3622106,place:NY:3622106,East Greenbush CDP,East Greenbush,East Greenbush,36083,Rensselaer County,Census-designated place,42.595174,-73.704997,1
+NY,3622183,place:NY:3622183,East Hampton village,East Hampton,East Hampton,36103,Suffolk County,Incorporated place,40.951543,-72.196094,1
+NY,3622200,place:NY:3622200,East Hampton North CDP,East Hampton North,East Hampton North,36103,Suffolk County,Census-designated place,40.972767,-72.189126,1
+NY,3622238,place:NY:3622238,East Herkimer CDP,East Herkimer,East Herkimer,36043,Herkimer County,Census-designated place,43.031518,-74.964198,1
+NY,3622260,place:NY:3622260,East Hills village,East Hills,East Hills,36059,Nassau County,Incorporated place,40.795841,-73.629176,1
+NY,3622315,place:NY:3622315,East Islip CDP,East Islip,East Islip,36103,Suffolk County,Census-designated place,40.726249,-73.187346,1
+NY,3622326,place:NY:3622326,East Ithaca CDP,East Ithaca,East Ithaca,36109,Tompkins County,Census-designated place,42.424472,-76.458678,1
+NY,3622370,place:NY:3622370,East Kingston CDP,East Kingston,East Kingston,36111,Ulster County,Census-designated place,41.950861,-73.974596,1
+NY,3622447,place:NY:3622447,East Marion CDP,East Marion,East Marion,36103,Suffolk County,Census-designated place,41.133749,-72.341051,1
+NY,3622480,place:NY:3622480,East Massapequa CDP,East Massapequa,East Massapequa,36059,Nassau County,Census-designated place,40.676553,-73.43596,1
+NY,3622502,place:NY:3622502,East Meadow CDP,East Meadow,East Meadow,36059,Nassau County,Census-designated place,40.720115,-73.558861,1
+NY,3622546,place:NY:3622546,East Moriches CDP,East Moriches,East Moriches,36103,Suffolk County,Census-designated place,40.808772,-72.756601,1
+NY,3622557,place:NY:3622557,East Nassau village,East Nassau,East Nassau,36083,Rensselaer County,Incorporated place,42.538976,-73.504976,1
+NY,3622612,place:NY:3622612,East Northport CDP,East Northport,East Northport,36103,Suffolk County,Census-designated place,40.879131,-73.323244,1
+NY,3622623,place:NY:3622623,East Norwich CDP,East Norwich,East Norwich,36059,Nassau County,Census-designated place,40.849523,-73.528852,1
+NY,3622733,place:NY:3622733,East Patchogue CDP,East Patchogue,East Patchogue,36103,Suffolk County,Census-designated place,40.770031,-72.981772,1
+NY,3622832,place:NY:3622832,East Quogue CDP,East Quogue,East Quogue,36103,Suffolk County,Census-designated place,40.8388,-72.573801,1
+NY,3622843,place:NY:3622843,East Randolph CDP,East Randolph,East Randolph,36009,Cattaraugus County,Census-designated place,42.168067,-78.957184,1
+NY,3622865,place:NY:3622865,East Rochester village,East Rochester,East Rochester,36055,Monroe County,Incorporated place,43.11221,-77.487176,1
+NY,3622876,place:NY:3622876,East Rockaway village,East Rockaway,East Rockaway,36059,Nassau County,Incorporated place,40.643889,-73.666832,1
+NY,3622964,place:NY:3622964,East Setauket CDP,East Setauket,East Setauket,36103,Suffolk County,Census-designated place,40.920966,-73.093714,1
+NY,3622980,place:NY:3622980,East Shoreham CDP,East Shoreham,East Shoreham,36103,Suffolk County,Census-designated place,40.950232,-72.875352,1
+NY,3623052,place:NY:3623052,East Syracuse village,East Syracuse,East Syracuse,36067,Onondaga County,Incorporated place,43.063823,-76.069789,1
+NY,3623217,place:NY:3623217,East Williston village,East Williston,East Williston,36059,Nassau County,Incorporated place,40.76085,-73.633607,1
+NY,3623283,place:NY:3623283,East Worcester CDP,East Worcester,East Worcester,36077,Otsego County,Census-designated place,42.628399,-74.674321,1
+NY,3621809,place:NY:3621809,Eastchester CDP,Eastchester,Eastchester,36119,Westchester County,Census-designated place,40.957872,-73.807179,1
+NY,3622810,place:NY:3622810,Eastport CDP,Eastport,Eastport,36103,Suffolk County,Census-designated place,40.83508,-72.735052,1
+NY,3623316,place:NY:3623316,Eatons Neck CDP,Eatons Neck,Eatons Neck,36103,Suffolk County,Census-designated place,40.936146,-73.40185,1
+NY,3623404,place:NY:3623404,Eden CDP,Eden,Eden,36029,Erie County,Census-designated place,42.652344,-78.9013,1
+NY,3623602,place:NY:3623602,Edmeston CDP,Edmeston,Edmeston,36077,Otsego County,Census-designated place,42.698855,-75.252297,1
+NY,3623635,place:NY:3623635,Edwards CDP,Edwards,Edwards,36089,St. Lawrence County,Census-designated place,44.320264,-75.249374,1
+NY,3623701,place:NY:3623701,Eggertsville CDP,Eggertsville,Eggertsville,36029,Erie County,Census-designated place,42.966475,-78.807187,1
+NY,3623745,place:NY:3623745,Elba village,Elba,Elba,36037,Genesee County,Incorporated place,43.076804,-78.188908,1
+NY,3623789,place:NY:3623789,Elbridge village,Elbridge,Elbridge,36067,Onondaga County,Incorporated place,43.037936,-76.442352,1
+NY,3623811,place:NY:3623811,Eldred CDP,Eldred,Eldred,36105,Sullivan County,Census-designated place,41.526802,-74.878829,1
+NY,3623822,place:NY:3623822,Elizabethtown CDP,Elizabethtown,Elizabethtown,36031,Essex County,Census-designated place,44.225913,-73.588952,1
+NY,3623965,place:NY:3623965,Ellenville village,Ellenville,Ellenville,36111,Ulster County,Incorporated place,41.704744,-74.36219,1
+NY,3624020,place:NY:3624020,Ellicottville village,Ellicottville,Ellicottville,36009,Cattaraugus County,Incorporated place,42.274852,-78.672283,1
+NY,3624075,place:NY:3624075,Ellisburg village,Ellisburg,Ellisburg,36045,Jefferson County,Incorporated place,43.735102,-76.134388,1
+NY,3624141,place:NY:3624141,Elma Center CDP,Elma Center,Elma Center,36029,Erie County,Census-designated place,42.828198,-78.634291,1
+NY,3624229,place:NY:3624229,Elmira city,Elmira,Elmira,36015,Chemung County,Incorporated place,42.093388,-76.80961,1
+NY,3624251,place:NY:3624251,Elmira Heights village,Elmira Heights,Elmira Heights,36015,Chemung County,Incorporated place,42.12669,-76.825566,1
+NY,3624273,place:NY:3624273,Elmont CDP,Elmont,Elmont,36059,Nassau County,Census-designated place,40.699176,-73.706166,1
+NY,3624295,place:NY:3624295,Elmsford village,Elmsford,Elmsford,36119,Westchester County,Incorporated place,41.054114,-73.814325,1
+NY,3624405,place:NY:3624405,Elwood CDP,Elwood,Elwood,36103,Suffolk County,Census-designated place,40.846198,-73.338874,1
+NY,3624515,place:NY:3624515,Endicott village,Endicott,Endicott,36007,Broome County,Incorporated place,42.097489,-76.063376,1
+NY,3624526,place:NY:3624526,Endwell CDP,Endwell,Endwell,36007,Broome County,Census-designated place,42.122864,-76.023572,1
+NY,3624625,place:NY:3624625,Erin CDP,Erin,Erin,36015,Chemung County,Census-designated place,42.184079,-76.671703,1
+NY,3624713,place:NY:3624713,Esperance village,Esperance,Esperance,36095,Schoharie County,Incorporated place,42.764633,-74.257392,1
+NY,3624823,place:NY:3624823,Evans Mills village,Evans Mills,Evans Mills,36045,Jefferson County,Incorporated place,44.086978,-75.807761,1
+NY,3624867,place:NY:3624867,Fabius village,Fabius,Fabius,36067,Onondaga County,Incorporated place,42.834666,-75.984786,1
+NY,3624988,place:NY:3624988,Fair Haven village,Fair Haven,Fair Haven,36011,Cayuga County,Incorporated place,43.323175,-76.704678,1
+NY,3625043,place:NY:3625043,Fairmount CDP,Fairmount,Fairmount,36067,Onondaga County,Census-designated place,43.041383,-76.248505,1
+NY,3625076,place:NY:3625076,Fairport village,Fairport,Fairport,36055,Monroe County,Incorporated place,43.099465,-77.443069,1
+NY,3625109,place:NY:3625109,Fairview CDP,Fairview,"Fairview, Dutchess County",36027,Dutchess County,Census-designated place,41.732824,-73.913635,1
+NY,3625120,place:NY:3625120,Fairview CDP,Fairview,"Fairview, Westchester County",36119,Westchester County,Census-designated place,41.043081,-73.795402,1
+NY,3625164,place:NY:3625164,Falconer village,Falconer,Falconer,36013,Chautauqua County,Incorporated place,42.119069,-79.196932,1
+NY,3625230,place:NY:3625230,Fallsburg CDP,Fallsburg,Fallsburg,36105,Sullivan County,Census-designated place,41.738991,-74.613862,1
+NY,3625384,place:NY:3625384,Farmingdale village,Farmingdale,Farmingdale,36059,Nassau County,Incorporated place,40.732808,-73.446759,1
+NY,3625417,place:NY:3625417,Farmingville CDP,Farmingville,Farmingville,36103,Suffolk County,Census-designated place,40.838978,-73.040463,1
+NY,3625428,place:NY:3625428,Farnham village,Farnham,Farnham,36029,Erie County,Incorporated place,42.595064,-79.080859,1
+NY,3625527,place:NY:3625527,Fayetteville village,Fayetteville,Fayetteville,36067,Onondaga County,Incorporated place,43.030794,-75.998361,1
+NY,3625571,place:NY:3625571,Felts Mills CDP,Felts Mills,Felts Mills,36045,Jefferson County,Census-designated place,44.012403,-75.770123,1
+NY,3625747,place:NY:3625747,Fillmore CDP,Fillmore,Fillmore,36003,Allegany County,Census-designated place,42.465898,-78.110503,1
+NY,3625839,place:NY:3625839,Fire Island CDP,Fire Island,Fire Island,36103,Suffolk County,Census-designated place,40.636632,-73.204903,1
+NY,3625857,place:NY:3625857,Firthcliffe CDP,Firthcliffe,Firthcliffe,36071,Orange County,Census-designated place,41.442048,-74.033072,1
+NY,3625923,place:NY:3625923,Fishers Island CDP,Fishers Island,Fishers Island,36103,Suffolk County,Census-designated place,41.267681,-71.992796,1
+NY,3625934,place:NY:3625934,Fishers Landing CDP,Fishers Landing,Fishers Landing,36045,Jefferson County,Census-designated place,44.281138,-76.008229,1
+NY,3625967,place:NY:3625967,Fishkill village,Fishkill,Fishkill,36027,Dutchess County,Incorporated place,41.533908,-73.893131,1
+NY,3626121,place:NY:3626121,Flanders CDP,Flanders,Flanders,36103,Suffolk County,Census-designated place,40.888755,-72.604235,1
+NY,3626209,place:NY:3626209,Fleischmanns village,Fleischmanns,Fleischmanns,36025,Delaware County,Incorporated place,42.154925,-74.534827,1
+NY,3626264,place:NY:3626264,Floral Park village,Floral Park,Floral Park,36059,Nassau County,Incorporated place,40.721952,-73.702824,1
+NY,3626319,place:NY:3626319,Florida village,Florida,Florida,36071,Orange County,Incorporated place,41.330641,-74.354202,1
+NY,3626352,place:NY:3626352,Flower Hill village,Flower Hill,Flower Hill,36059,Nassau County,Incorporated place,40.807495,-73.675568,1
+NY,3626418,place:NY:3626418,Fly Creek CDP,Fly Creek,Fly Creek,36077,Otsego County,Census-designated place,42.719404,-74.98421,1
+NY,3626462,place:NY:3626462,Fonda village,Fonda,Fonda,36057,Montgomery County,Incorporated place,42.953384,-74.372869,1
+NY,3626561,place:NY:3626561,Forest Home CDP,Forest Home,Forest Home,36109,Tompkins County,Census-designated place,42.451895,-76.468517,1
+NY,3626649,place:NY:3626649,Forestville CDP,Forestville,Forestville,36013,Chautauqua County,Census-designated place,42.469103,-79.175491,1
+NY,3626704,place:NY:3626704,Fort Ann village,Fort Ann,Fort Ann,36115,Washington County,Incorporated place,43.415731,-73.490513,1
+NY,3626726,place:NY:3626726,Fort Covington CDP,Fort Covington,Fort Covington,36033,Franklin County,Census-designated place,44.975802,-74.499885,1
+NY,3626759,place:NY:3626759,Fort Drum CDP,Fort Drum,Fort Drum,36045,Jefferson County,Census-designated place,44.044709,-75.787763,1
+NY,3626770,place:NY:3626770,Fort Edward village,Fort Edward,Fort Edward,36115,Washington County,Incorporated place,43.268618,-73.582617,1
+NY,3626880,place:NY:3626880,Fort Johnson CDP,Fort Johnson,Fort Johnson,36057,Montgomery County,Census-designated place,42.958023,-74.236342,1
+NY,3626902,place:NY:3626902,Fort Montgomery CDP,Fort Montgomery,Fort Montgomery,36071,Orange County,Census-designated place,41.342865,-73.98718,1
+NY,3626924,place:NY:3626924,Fort Plain village,Fort Plain,Fort Plain,36057,Montgomery County,Incorporated place,42.932644,-74.62682,1
+NY,3626946,place:NY:3626946,Fort Salonga CDP,Fort Salonga,Fort Salonga,36103,Suffolk County,Census-designated place,40.908806,-73.292749,1
+NY,3627133,place:NY:3627133,Fowlerville CDP,Fowlerville,Fowlerville,36051,Livingston County,Census-designated place,42.893958,-77.848057,1
+NY,3627188,place:NY:3627188,Frankfort village,Frankfort,Frankfort,36043,Herkimer County,Incorporated place,43.037753,-75.071582,1
+NY,3627221,place:NY:3627221,Franklin village,Franklin,Franklin,36025,Delaware County,Incorporated place,42.340783,-75.168021,1
+NY,3627309,place:NY:3627309,Franklin Square CDP,Franklin Square,Franklin Square,36059,Nassau County,Census-designated place,40.700193,-73.677478,1
+NY,3627331,place:NY:3627331,Franklinville village,Franklinville,Franklinville,36009,Cattaraugus County,Incorporated place,42.334746,-78.454766,1
+NY,3627419,place:NY:3627419,Fredonia village,Fredonia,Fredonia,36013,Chautauqua County,Incorporated place,42.440658,-79.3319,1
+NY,3627452,place:NY:3627452,Freedom Plains CDP,Freedom Plains,Freedom Plains,36027,Dutchess County,Census-designated place,41.665366,-73.79862,1
+NY,3627485,place:NY:3627485,Freeport village,Freeport,Freeport,36059,Nassau County,Incorporated place,40.650851,-73.584575,1
+NY,3627529,place:NY:3627529,Freeville village,Freeville,Freeville,36109,Tompkins County,Incorporated place,42.508368,-76.343804,1
+NY,3627672,place:NY:3627672,Frewsburg CDP,Frewsburg,Frewsburg,36013,Chautauqua County,Census-designated place,42.056055,-79.133687,1
+NY,3627694,place:NY:3627694,Friendship CDP,Friendship,Friendship,36003,Allegany County,Census-designated place,42.205552,-78.141811,1
+NY,3627815,place:NY:3627815,Fulton city,Fulton,Fulton,36075,Oswego County,Incorporated place,43.319164,-76.419739,1
+NY,3627859,place:NY:3627859,Fultonville village,Fultonville,Fultonville,36057,Montgomery County,Incorporated place,42.946229,-74.369778,1
+NY,3627969,place:NY:3627969,Gainesville village,Gainesville,Gainesville,36121,Wyoming County,Incorporated place,42.641649,-78.134612,1
+NY,3628035,place:NY:3628035,Galeville CDP,Galeville,Galeville,36067,Onondaga County,Census-designated place,43.086665,-76.187788,1
+NY,3628101,place:NY:3628101,Galway village,Galway,Galway,36091,Saratoga County,Incorporated place,43.018516,-74.031838,1
+NY,3628138,place:NY:3628138,Gananda CDP,Gananda,Gananda,36117,Wayne County,Census-designated place,43.126808,-77.334912,1
+NY,3628145,place:NY:3628145,Gang Mills CDP,Gang Mills,Gang Mills,36101,Steuben County,Census-designated place,42.160361,-77.127518,1
+NY,3628178,place:NY:3628178,Garden City village,Garden City,Garden City,36059,Nassau County,Incorporated place,40.725402,-73.645882,1
+NY,3628189,place:NY:3628189,Garden City Park CDP,Garden City Park,Garden City Park,36059,Nassau County,Census-designated place,40.74293,-73.663307,1
+NY,3628200,place:NY:3628200,Garden City South CDP,Garden City South,Garden City South,36059,Nassau County,Census-designated place,40.712153,-73.660475,1
+NY,3628244,place:NY:3628244,Gardiner CDP,Gardiner,Gardiner,36111,Ulster County,Census-designated place,41.679517,-74.147896,1
+NY,3628310,place:NY:3628310,Gardnertown CDP,Gardnertown,Gardnertown,36071,Orange County,Census-designated place,41.539574,-74.057223,1
+NY,3628376,place:NY:3628376,Garrattsville CDP,Garrattsville,Garrattsville,36077,Otsego County,Census-designated place,42.652429,-75.169089,1
+NY,3628431,place:NY:3628431,Gasport CDP,Gasport,Gasport,36063,Niagara County,Census-designated place,43.189247,-78.584695,1
+NY,3628453,place:NY:3628453,Gates CDP,Gates,Gates,36055,Monroe County,Census-designated place,43.156379,-77.692359,1
+NY,3628618,place:NY:3628618,Geneseo village,Geneseo,Geneseo,36051,Livingston County,Incorporated place,42.79902,-77.809548,1
+NY,3628640,place:NY:3628640,Geneva city,Geneva,Geneva,36069,Ontario County,Incorporated place,42.863732,-76.982882,1
+NY,3628761,place:NY:3628761,Germantown CDP,Germantown,Germantown,36021,Columbia County,Census-designated place,42.135945,-73.888021,1
+NY,3628860,place:NY:3628860,Ghent CDP,Ghent,Ghent,36021,Columbia County,Census-designated place,42.323521,-73.61936,1
+NY,3628959,place:NY:3628959,Gilbertsville village,Gilbertsville,Gilbertsville,36077,Otsego County,Incorporated place,42.46933,-75.322609,1
+NY,3628990,place:NY:3628990,Gilgo CDP,Gilgo,Gilgo,36103,Suffolk County,Census-designated place,40.636151,-73.383775,1
+NY,3629014,place:NY:3629014,Glasco CDP,Glasco,Glasco,36111,Ulster County,Census-designated place,42.0457,-73.948606,1
+NY,3629058,place:NY:3629058,Glen Aubrey CDP,Glen Aubrey,Glen Aubrey,36007,Broome County,Census-designated place,42.262284,-76.000292,1
+NY,3629113,place:NY:3629113,Glen Cove city,Glen Cove,Glen Cove,36059,Nassau County,Incorporated place,40.88454,-73.644951,1
+NY,3629245,place:NY:3629245,Glen Head CDP,Glen Head,Glen Head,36059,Nassau County,Census-designated place,40.844918,-73.618018,1
+NY,3629322,place:NY:3629322,Glen Park village,Glen Park,Glen Park,36045,Jefferson County,Incorporated place,44.002499,-75.957625,1
+NY,3629333,place:NY:3629333,Glens Falls city,Glens Falls,Glens Falls,36113,Warren County,Incorporated place,43.31116,-73.645286,1
+NY,3629338,place:NY:3629338,Glens Falls North CDP,Glens Falls North,Glens Falls North,36113,Warren County,Census-designated place,43.334807,-73.683801,1
+NY,3629421,place:NY:3629421,Glenwood Landing CDP,Glenwood Landing,Glenwood Landing,36059,Nassau County,Census-designated place,40.829451,-73.637736,1
+NY,3629443,place:NY:3629443,Gloversville city,Gloversville,Gloversville,36035,Fulton County,Incorporated place,43.049244,-74.345815,1
+NY,3629476,place:NY:3629476,Golden's Bridge CDP,Golden's Bridge,Golden's Bridge,36119,Westchester County,Census-designated place,41.290172,-73.670416,1
+NY,3629509,place:NY:3629509,Gordon Heights CDP,Gordon Heights,Gordon Heights,36103,Suffolk County,Census-designated place,40.863647,-72.962088,1
+NY,3629520,place:NY:3629520,Gorham CDP,Gorham,Gorham,36069,Ontario County,Census-designated place,42.80029,-77.135835,1
+NY,3629542,place:NY:3629542,Goshen village,Goshen,Goshen,36071,Orange County,Incorporated place,41.401647,-74.326855,1
+NY,3629597,place:NY:3629597,Gouverneur village,Gouverneur,Gouverneur,36089,St. Lawrence County,Incorporated place,44.336573,-75.466035,1
+NY,3629630,place:NY:3629630,Gowanda village,Gowanda,Gowanda,36009,Cattaraugus County,Incorporated place,42.460428,-78.934518,1
+NY,3629707,place:NY:3629707,Grahamsville CDP,Grahamsville,Grahamsville,36105,Sullivan County,Census-designated place,41.852751,-74.552252,1
+NY,3629872,place:NY:3629872,Grand View-on-Hudson village,Grand View-on-Hudson,Grand View-on-Hudson,36087,Rockland County,Incorporated place,41.062889,-73.9209,1
+NY,3629894,place:NY:3629894,Grandyle Village CDP,Grandyle Village,Grandyle Village,36029,Erie County,Census-designated place,42.988488,-78.954566,1
+NY,3630026,place:NY:3630026,Granville village,Granville,Granville,36115,Washington County,Incorporated place,43.413863,-73.267622,1
+NY,3630136,place:NY:3630136,Great Bend CDP,Great Bend,Great Bend,36045,Jefferson County,Census-designated place,44.016829,-75.700166,1
+NY,3630169,place:NY:3630169,Great Neck village,Great Neck,Great Neck,36059,Nassau County,Incorporated place,40.802368,-73.733099,1
+NY,3630191,place:NY:3630191,Great Neck Estates village,Great Neck Estates,Great Neck Estates,36059,Nassau County,Incorporated place,40.786476,-73.740167,1
+NY,3630202,place:NY:3630202,Great Neck Gardens CDP,Great Neck Gardens,Great Neck Gardens,36059,Nassau County,Census-designated place,40.796953,-73.722465,1
+NY,3630213,place:NY:3630213,Great Neck Plaza village,Great Neck Plaza,Great Neck Plaza,36059,Nassau County,Incorporated place,40.786913,-73.726155,1
+NY,3630235,place:NY:3630235,Great River CDP,Great River,Great River,36103,Suffolk County,Census-designated place,40.713881,-73.154458,1
+NY,3630279,place:NY:3630279,Greece CDP,Greece,Greece,36055,Monroe County,Census-designated place,43.209517,-77.702642,1
+NY,3630521,place:NY:3630521,Green Island village,Green Island,Green Island,36001,Albany County,Incorporated place,42.747904,-73.692466,1
+NY,3630411,place:NY:3630411,Greene village,Greene,Greene,36017,Chenango County,Incorporated place,42.330992,-75.767039,1
+NY,3630543,place:NY:3630543,Greenlawn CDP,Greenlawn,Greenlawn,36103,Suffolk County,Census-designated place,40.863515,-73.365754,1
+NY,3630576,place:NY:3630576,Greenport village,Greenport,Greenport,36103,Suffolk County,Incorporated place,41.102428,-72.366763,1
+NY,3630581,place:NY:3630581,Greenport West CDP,Greenport West,Greenport West,36103,Suffolk County,Census-designated place,41.090168,-72.384584,1
+NY,3630598,place:NY:3630598,Greenvale CDP,Greenvale,Greenvale,36059,Nassau County,Census-designated place,40.811957,-73.626327,1
+NY,3630609,place:NY:3630609,Greenville CDP,Greenville,"Greenville, Greene County",36039,Greene County,Census-designated place,42.413789,-74.020324,1
+NY,3630642,place:NY:3630642,Greenville CDP,Greenville,"Greenville, Westchester County",36119,Westchester County,Census-designated place,40.998643,-73.818977,1
+NY,3630675,place:NY:3630675,Greenwich village,Greenwich,Greenwich,36115,Washington County,Incorporated place,43.086475,-73.496673,1
+NY,3630752,place:NY:3630752,Greenwood Lake village,Greenwood Lake,Greenwood Lake,36071,Orange County,Incorporated place,41.225345,-74.289025,1
+NY,3630807,place:NY:3630807,Greigsville CDP,Greigsville,Greigsville,36051,Livingston County,Census-designated place,42.830719,-77.901428,1
+NY,3630961,place:NY:3630961,Groton village,Groton,Groton,36109,Tompkins County,Incorporated place,42.58343,-76.35986,1
+NY,3631022,place:NY:3631022,Groveland Station CDP,Groveland Station,Groveland Station,36051,Livingston County,Census-designated place,42.663379,-77.76667,1
+NY,3631137,place:NY:3631137,Guilford CDP,Guilford,Guilford,36017,Chenango County,Census-designated place,42.407337,-75.485417,1
+NY,3631258,place:NY:3631258,Hadley CDP,Hadley,Hadley,36091,Saratoga County,Census-designated place,43.312494,-73.846749,1
+NY,3631291,place:NY:3631291,Hagaman village,Hagaman,Hagaman,36057,Montgomery County,Incorporated place,42.970733,-74.15979,1
+NY,3631346,place:NY:3631346,Hailesboro CDP,Hailesboro,Hailesboro,36089,St. Lawrence County,Census-designated place,44.311603,-75.433024,1
+NY,3631357,place:NY:3631357,Haines Falls CDP,Haines Falls,Haines Falls,36039,Greene County,Census-designated place,42.197005,-74.100923,1
+NY,3631445,place:NY:3631445,Halesite CDP,Halesite,Halesite,36103,Suffolk County,Census-designated place,40.886284,-73.412514,1
+NY,3631533,place:NY:3631533,Hall CDP,Hall,Hall,36069,Ontario County,Census-designated place,42.796506,-77.067963,1
+NY,3631643,place:NY:3631643,Hamburg village,Hamburg,Hamburg,36029,Erie County,Incorporated place,42.723357,-78.834804,1
+NY,3631709,place:NY:3631709,Hamilton village,Hamilton,Hamilton,36053,Madison County,Incorporated place,42.828457,-75.553015,1
+NY,3631746,place:NY:3631746,Hamilton College CDP,Hamilton College,Hamilton College,36065,Oneida County,Census-designated place,43.052666,-75.407716,1
+NY,3631786,place:NY:3631786,Hamlin CDP,Hamlin,Hamlin,36055,Monroe County,Census-designated place,43.302295,-77.921682,1
+NY,3631830,place:NY:3631830,Hammond village,Hammond,Hammond,36089,St. Lawrence County,Incorporated place,44.446385,-75.693499,1
+NY,3631852,place:NY:3631852,Hammondsport village,Hammondsport,Hammondsport,36101,Steuben County,Incorporated place,42.40874,-77.222858,1
+NY,3631896,place:NY:3631896,Hampton Bays CDP,Hampton Bays,Hampton Bays,36103,Suffolk County,Census-designated place,40.864652,-72.518104,1
+NY,3631918,place:NY:3631918,Hampton Manor CDP,Hampton Manor,Hampton Manor,36083,Rensselaer County,Census-designated place,42.620625,-73.730119,1
+NY,3631940,place:NY:3631940,Hancock village,Hancock,Hancock,36025,Delaware County,Incorporated place,41.947333,-75.28526,1
+NY,3631973,place:NY:3631973,Hankins CDP,Hankins,Hankins,36105,Sullivan County,Census-designated place,41.823158,-75.084195,1
+NY,3632006,place:NY:3632006,Hannawa Falls CDP,Hannawa Falls,Hannawa Falls,36089,St. Lawrence County,Census-designated place,44.600678,-74.97536,1
+NY,3632017,place:NY:3632017,Hannibal village,Hannibal,Hannibal,36075,Oswego County,Incorporated place,43.319437,-76.577742,1
+NY,3632094,place:NY:3632094,Harbor Hills CDP,Harbor Hills,Harbor Hills,36059,Nassau County,Census-designated place,40.788588,-73.749019,1
+NY,3632105,place:NY:3632105,Harbor Isle CDP,Harbor Isle,Harbor Isle,36059,Nassau County,Census-designated place,40.602508,-73.66472,1
+NY,3632325,place:NY:3632325,Harriman village,Harriman,Harriman,36071,Orange County,Incorporated place,41.309057,-74.144094,1
+NY,3632391,place:NY:3632391,Harris Hill CDP,Harris Hill,Harris Hill,36029,Erie County,Census-designated place,42.972969,-78.679265,1
+NY,3632402,place:NY:3632402,Harrison village,Harrison,Harrison,36119,Westchester County,Incorporated place,41.023538,-73.719283,1
+NY,3632523,place:NY:3632523,Hartsdale CDP,Hartsdale,Hartsdale,36119,Westchester County,Census-designated place,41.015434,-73.803641,1
+NY,3632578,place:NY:3632578,Hartwick CDP,Hartwick,Hartwick,36077,Otsego County,Census-designated place,42.658609,-75.061109,1
+NY,3632597,place:NY:3632597,Hartwick Seminary CDP,Hartwick Seminary,Hartwick Seminary,36077,Otsego County,Census-designated place,42.652233,-74.96023,1
+NY,3632710,place:NY:3632710,Hastings-on-Hudson village,Hastings-on-Hudson,Hastings-on-Hudson,36119,Westchester County,Incorporated place,40.988041,-73.881236,1
+NY,3632732,place:NY:3632732,Hauppauge CDP,Hauppauge,Hauppauge,36103,Suffolk County,Census-designated place,40.822422,-73.210809,1
+NY,3632754,place:NY:3632754,Haverstraw village,Haverstraw,Haverstraw,36087,Rockland County,Incorporated place,41.178245,-73.943331,1
+NY,3632776,place:NY:3632776,Haviland CDP,Haviland,Haviland,36027,Dutchess County,Census-designated place,41.763004,-73.898358,1
+NY,3632842,place:NY:3632842,Hawthorne CDP,Hawthorne,Hawthorne,36119,Westchester County,Census-designated place,41.103433,-73.796912,1
+NY,3632963,place:NY:3632963,Head of the Harbor village,Head of the Harbor,Head of the Harbor,36103,Suffolk County,Incorporated place,40.897658,-73.161536,1
+NY,3633128,place:NY:3633128,Hemlock CDP,Hemlock,Hemlock,36051,Livingston County,Census-designated place,42.793788,-77.607439,1
+NY,3633139,place:NY:3633139,Hempstead village,Hempstead,Hempstead,36059,Nassau County,Incorporated place,40.704374,-73.619445,1
+NY,3634044,place:NY:3634044,Henderson CDP,Henderson,Henderson,36045,Jefferson County,Census-designated place,43.848019,-76.184953,1
+NY,3634118,place:NY:3634118,Heritage Hills CDP,Heritage Hills,Heritage Hills,36119,Westchester County,Census-designated place,41.339661,-73.700677,1
+NY,3634121,place:NY:3634121,Herkimer village,Herkimer,Herkimer,36043,Herkimer County,Incorporated place,43.028078,-74.993306,1
+NY,3634165,place:NY:3634165,Hermon CDP,Hermon,Hermon,36089,St. Lawrence County,Census-designated place,44.467051,-75.231246,1
+NY,3634198,place:NY:3634198,Herricks CDP,Herricks,Herricks,36059,Nassau County,Census-designated place,40.756682,-73.663492,1
+NY,3634220,place:NY:3634220,Herrings CDP,Herrings,Herrings,36045,Jefferson County,Census-designated place,44.02173,-75.646333,1
+NY,3634264,place:NY:3634264,Heuvelton village,Heuvelton,Heuvelton,36089,St. Lawrence County,Incorporated place,44.61639,-75.399983,1
+NY,3634286,place:NY:3634286,Hewlett CDP,Hewlett,Hewlett,36059,Nassau County,Census-designated place,40.641996,-73.694393,1
+NY,3634297,place:NY:3634297,Hewlett Bay Park village,Hewlett Bay Park,Hewlett Bay Park,36059,Nassau County,Incorporated place,40.63512,-73.695824,1
+NY,3634308,place:NY:3634308,Hewlett Harbor village,Hewlett Harbor,Hewlett Harbor,36059,Nassau County,Incorporated place,40.633619,-73.685898,1
+NY,3634319,place:NY:3634319,Hewlett Neck village,Hewlett Neck,Hewlett Neck,36059,Nassau County,Incorporated place,40.6245,-73.698913,1
+NY,3634374,place:NY:3634374,Hicksville CDP,Hicksville,Hicksville,36059,Nassau County,Census-designated place,40.764136,-73.524806,1
+NY,3634451,place:NY:3634451,High Falls CDP,High Falls,High Falls,36111,Ulster County,Census-designated place,41.825499,-74.120253,1
+NY,3634484,place:NY:3634484,Highland CDP,Highland,Highland,36111,Ulster County,Census-designated place,41.722445,-73.963574,1
+NY,3634495,place:NY:3634495,Highland Falls village,Highland Falls,Highland Falls,36071,Orange County,Incorporated place,41.365731,-73.968065,1
+NY,3634528,place:NY:3634528,Highland-on-the-Lake CDP,Highland-on-the-Lake,Highland-on-the-Lake,36029,Erie County,Census-designated place,42.70174,-78.9824,1
+NY,3634660,place:NY:3634660,Hillburn village,Hillburn,Hillburn,36087,Rockland County,Incorporated place,41.127037,-74.170348,1
+NY,3634693,place:NY:3634693,Hillcrest CDP,Hillcrest,Hillcrest,36087,Rockland County,Census-designated place,41.129814,-74.035011,1
+NY,3634786,place:NY:3634786,Hillside CDP,Hillside,Hillside,36111,Ulster County,Census-designated place,41.91905,-74.033686,1
+NY,3634803,place:NY:3634803,Hillside Lake CDP,Hillside Lake,Hillside Lake,36027,Dutchess County,Census-designated place,41.615764,-73.79697,1
+NY,3634847,place:NY:3634847,Hilton village,Hilton,Hilton,36055,Monroe County,Incorporated place,43.289972,-77.792559,1
+NY,3634979,place:NY:3634979,Hobart village,Hobart,Hobart,36025,Delaware County,Incorporated place,42.372156,-74.668541,1
+NY,3635056,place:NY:3635056,Holbrook CDP,Holbrook,Holbrook,36103,Suffolk County,Census-designated place,40.794373,-73.070022,1
+NY,3635111,place:NY:3635111,Holland CDP,Holland,Holland,36029,Erie County,Census-designated place,42.637476,-78.551775,1
+NY,3635144,place:NY:3635144,Holland Patent village,Holland Patent,Holland Patent,36065,Oneida County,Incorporated place,43.241147,-75.256575,1
+NY,3635155,place:NY:3635155,Holley village,Holley,Holley,36073,Orleans County,Incorporated place,43.224657,-78.029194,1
+NY,3635254,place:NY:3635254,Holtsville CDP,Holtsville,Holtsville,36103,Suffolk County,Census-designated place,40.812373,-73.044653,1
+NY,3635276,place:NY:3635276,Homer village,Homer,Homer,36023,Cortland County,Incorporated place,42.637233,-76.185377,1
+NY,3635353,place:NY:3635353,Honeoye CDP,Honeoye,Honeoye,36069,Ontario County,Census-designated place,42.788582,-77.512469,1
+NY,3635364,place:NY:3635364,Honeoye Falls village,Honeoye Falls,Honeoye Falls,36055,Monroe County,Incorporated place,42.954677,-77.591126,1
+NY,3635474,place:NY:3635474,Hoosick Falls village,Hoosick Falls,Hoosick Falls,36083,Rensselaer County,Incorporated place,42.900907,-73.349968,1
+NY,3635573,place:NY:3635573,Hopewell Junction CDP,Hopewell Junction,Hopewell Junction,36027,Dutchess County,Census-designated place,41.580193,-73.811638,1
+NY,3635672,place:NY:3635672,Hornell city,Hornell,Hornell,36101,Steuben County,Incorporated place,42.333044,-77.663215,1
+NY,3635694,place:NY:3635694,Horseheads village,Horseheads,Horseheads,36015,Chemung County,Incorporated place,42.168632,-76.829658,1
+NY,3635710,place:NY:3635710,Horseheads North CDP,Horseheads North,Horseheads North,36015,Chemung County,Census-designated place,42.19664,-76.804664,1
+NY,3635738,place:NY:3635738,Hortonville CDP,Hortonville,Hortonville,36105,Sullivan County,Census-designated place,41.766137,-75.022039,1
+NY,3635771,place:NY:3635771,Houghton CDP,Houghton,Houghton,36003,Allegany County,Census-designated place,42.428258,-78.172549,1
+NY,3635969,place:NY:3635969,Hudson city,Hudson,Hudson,36021,Columbia County,Incorporated place,42.251905,-73.786028,1
+NY,3635980,place:NY:3635980,Hudson Falls village,Hudson Falls,Hudson Falls,36115,Washington County,Incorporated place,43.304735,-73.581587,1
+NY,3636156,place:NY:3636156,Hunt CDP,Hunt,Hunt,36051,Livingston County,Census-designated place,42.547566,-77.991204,1
+NY,3636167,place:NY:3636167,Hunter village,Hunter,Hunter,36039,Greene County,Incorporated place,42.210524,-74.215412,1
+NY,3636233,place:NY:3636233,Huntington CDP,Huntington,Huntington,36103,Suffolk County,Census-designated place,40.875389,-73.405761,1
+NY,3637022,place:NY:3637022,Huntington Bay village,Huntington Bay,Huntington Bay,36103,Suffolk County,Incorporated place,40.905718,-73.397809,1
+NY,3637044,place:NY:3637044,Huntington Station CDP,Huntington Station,Huntington Station,36103,Suffolk County,Census-designated place,40.844488,-73.404812,1
+NY,3637132,place:NY:3637132,Hurley CDP,Hurley,Hurley,36111,Ulster County,Census-designated place,41.910209,-74.062247,1
+NY,3637154,place:NY:3637154,Hurleyville CDP,Hurleyville,Hurleyville,36105,Sullivan County,Census-designated place,41.741859,-74.675357,1
+NY,3637198,place:NY:3637198,Hyde Park CDP,Hyde Park,Hyde Park,36027,Dutchess County,Census-designated place,41.783611,-73.934699,1
+NY,3637275,place:NY:3637275,Ilion village,Ilion,Ilion,36043,Herkimer County,Incorporated place,43.011261,-75.039655,1
+NY,3637528,place:NY:3637528,Interlaken village,Interlaken,Interlaken,36099,Seneca County,Incorporated place,42.61782,-76.725474,1
+NY,3637583,place:NY:3637583,Inwood CDP,Inwood,Inwood,36059,Nassau County,Census-designated place,40.621346,-73.75699,1
+NY,3637737,place:NY:3637737,Irondequoit CDP,Irondequoit,Irondequoit,36055,Monroe County,Census-designated place,43.209811,-77.572056,1
+NY,3637803,place:NY:3637803,Irvington village,Irvington,Irvington,36119,Westchester County,Incorporated place,41.034258,-73.867028,1
+NY,3637847,place:NY:3637847,Island Park village,Island Park,Island Park,36059,Nassau County,Incorporated place,40.605221,-73.6553,1
+NY,3637840,place:NY:3637840,Islandia village,Islandia,Islandia,36103,Suffolk County,Incorporated place,40.806862,-73.171084,1
+NY,3637869,place:NY:3637869,Islip CDP,Islip,Islip,36103,Suffolk County,Census-designated place,40.730319,-73.216113,1
+NY,3638022,place:NY:3638022,Islip Terrace CDP,Islip Terrace,Islip Terrace,36103,Suffolk County,Census-designated place,40.750269,-73.186889,1
+NY,3638077,place:NY:3638077,Ithaca city,Ithaca,Ithaca,36109,Tompkins County,Incorporated place,42.443937,-76.503055,1
+NY,3638209,place:NY:3638209,Jacksonville CDP,Jacksonville,Jacksonville,36109,Tompkins County,Census-designated place,42.506024,-76.61843,1
+NY,3638253,place:NY:3638253,Jamesport CDP,Jamesport,Jamesport,36103,Suffolk County,Census-designated place,40.960967,-72.583173,1
+NY,3638264,place:NY:3638264,Jamestown city,Jamestown,Jamestown,36013,Chautauqua County,Incorporated place,42.097603,-79.236135,1
+NY,3638275,place:NY:3638275,Jamestown West CDP,Jamestown West,Jamestown West,36013,Chautauqua County,Census-designated place,42.088456,-79.281036,1
+NY,3638429,place:NY:3638429,Jefferson CDP,Jefferson,Jefferson,36095,Schoharie County,Census-designated place,42.47817,-74.603324,1
+NY,3638451,place:NY:3638451,Jefferson Heights CDP,Jefferson Heights,Jefferson Heights,36039,Greene County,Census-designated place,42.233692,-73.87671,1
+NY,3638500,place:NY:3638500,Jefferson Valley-Yorktown CDP,Jefferson Valley-Yorktown,Jefferson Valley-Yorktown,36119,Westchester County,Census-designated place,41.318669,-73.799864,1
+NY,3638506,place:NY:3638506,Jeffersonville village,Jeffersonville,Jeffersonville,36105,Sullivan County,Incorporated place,41.777521,-74.925853,1
+NY,3638539,place:NY:3638539,Jericho CDP,Jericho,Jericho,36059,Nassau County,Census-designated place,40.787447,-73.541615,1
+NY,3638748,place:NY:3638748,Johnson City village,Johnson City,Johnson City,36007,Broome County,Incorporated place,42.125288,-75.963406,1
+NY,3638781,place:NY:3638781,Johnstown city,Johnstown,Johnstown,36035,Fulton County,Incorporated place,43.007335,-74.375065,1
+NY,3638825,place:NY:3638825,Jordan village,Jordan,Jordan,36067,Onondaga County,Incorporated place,43.067069,-76.47292,1
+NY,3638934,place:NY:3638934,Kaser village,Kaser,Kaser,36087,Rockland County,Incorporated place,41.121257,-74.068575,1
+NY,3638946,place:NY:3638946,Katonah CDP,Katonah,Katonah,36119,Westchester County,Census-designated place,41.255069,-73.685185,1
+NY,3638985,place:NY:3638985,Kauneonga Lake CDP,Kauneonga Lake,Kauneonga Lake,36105,Sullivan County,Census-designated place,41.689261,-74.833098,1
+NY,3639089,place:NY:3639089,Keeseville CDP,Keeseville,Keeseville,36031,Essex County,Census-designated place,44.504096,-73.481109,1
+NY,3639232,place:NY:3639232,Kenmore village,Kenmore,Kenmore,36029,Erie County,Incorporated place,42.964633,-78.87129,1
+NY,3639243,place:NY:3639243,Kennedy CDP,Kennedy,Kennedy,36013,Chautauqua County,Census-designated place,42.158948,-79.098287,1
+NY,3639309,place:NY:3639309,Kensington village,Kensington,Kensington,36059,Nassau County,Incorporated place,40.793077,-73.722242,1
+NY,3639397,place:NY:3639397,Kerhonkson CDP,Kerhonkson,Kerhonkson,36111,Ulster County,Census-designated place,41.782714,-74.275259,1
+NY,3639463,place:NY:3639463,Keuka Park CDP,Keuka Park,Keuka Park,36123,Yates County,Census-designated place,42.611939,-77.092614,1
+NY,3639485,place:NY:3639485,Kiamesha Lake CDP,Kiamesha Lake,Kiamesha Lake,36105,Sullivan County,Census-designated place,41.676833,-74.661337,1
+NY,3639562,place:NY:3639562,Kinderhook village,Kinderhook,Kinderhook,36021,Columbia County,Incorporated place,42.394382,-73.703768,1
+NY,3639672,place:NY:3639672,Kings Park CDP,Kings Park,Kings Park,36103,Suffolk County,Census-designated place,40.886964,-73.245571,1
+NY,3639694,place:NY:3639694,Kings Point village,Kings Point,Kings Point,36059,Nassau County,Incorporated place,40.817892,-73.73932,1
+NY,3639727,place:NY:3639727,Kingston city,Kingston,Kingston,36111,Ulster County,Incorporated place,41.930124,-73.996782,1
+NY,3639853,place:NY:3639853,Kiryas Joel village,Kiryas Joel,Kiryas Joel,36071,Orange County,Incorporated place,41.33901,-74.166941,1
+NY,3640175,place:NY:3640175,Kysorville CDP,Kysorville,Kysorville,36051,Livingston County,Census-designated place,42.652845,-77.794881,1
+NY,3640233,place:NY:3640233,La Fargeville CDP,La Fargeville,La Fargeville,36045,Jefferson County,Census-designated place,44.193359,-75.954826,1
+NY,3640189,place:NY:3640189,Lackawanna city,Lackawanna,Lackawanna,36029,Erie County,Incorporated place,42.818152,-78.832759,1
+NY,3640200,place:NY:3640200,Lacona village,Lacona,Lacona,36075,Oswego County,Incorporated place,43.642654,-76.066066,1
+NY,3640398,place:NY:3640398,Lake Carmel CDP,Lake Carmel,Lake Carmel,36079,Putnam County,Census-designated place,41.449267,-73.66949,1
+NY,3640475,place:NY:3640475,Lake Delta CDP,Lake Delta,Lake Delta,36065,Oneida County,Census-designated place,43.286754,-75.469092,1
+NY,3640486,place:NY:3640486,Lake Erie Beach CDP,Lake Erie Beach,Lake Erie Beach,36029,Erie County,Census-designated place,42.624182,-79.078563,1
+NY,3640508,place:NY:3640508,Lake George village,Lake George,Lake George,36113,Warren County,Incorporated place,43.425924,-73.715168,1
+NY,3640530,place:NY:3640530,Lake Grove village,Lake Grove,Lake Grove,36103,Suffolk County,Incorporated place,40.857817,-73.116844,1
+NY,3640552,place:NY:3640552,Lake Huntington CDP,Lake Huntington,Lake Huntington,36105,Sullivan County,Census-designated place,41.681031,-74.985485,1
+NY,3640585,place:NY:3640585,Lake Katrine CDP,Lake Katrine,Lake Katrine,36111,Ulster County,Census-designated place,41.985218,-73.989759,1
+NY,3640651,place:NY:3640651,Lake Luzerne CDP,Lake Luzerne,Lake Luzerne,36113,Warren County,Census-designated place,43.329914,-73.84353,1
+NY,3640689,place:NY:3640689,Lake Mohegan CDP,Lake Mohegan,Lake Mohegan,36119,Westchester County,Census-designated place,41.313334,-73.846039,1
+NY,3640761,place:NY:3640761,Lake Placid village,Lake Placid,Lake Placid,36031,Essex County,Incorporated place,44.28417,-73.986426,1
+NY,3640838,place:NY:3640838,Lake Ronkonkoma CDP,Lake Ronkonkoma,Lake Ronkonkoma,36103,Suffolk County,Census-designated place,40.830318,-73.113298,1
+NY,3640937,place:NY:3640937,Lake Success village,Lake Success,Lake Success,36059,Nassau County,Incorporated place,40.763883,-73.711128,1
+NY,3640607,place:NY:3640607,Lakeland CDP,Lakeland,Lakeland,36067,Onondaga County,Census-designated place,43.090858,-76.242643,1
+NY,3641003,place:NY:3641003,Lakeview CDP,Lakeview,Lakeview,36059,Nassau County,Census-designated place,40.677732,-73.649718,1
+NY,3641036,place:NY:3641036,Lakeville CDP,Lakeville,Lakeville,36051,Livingston County,Census-designated place,42.836761,-77.703154,1
+NY,3641069,place:NY:3641069,Lakewood village,Lakewood,Lakewood,36013,Chautauqua County,Incorporated place,42.099141,-79.320102,1
+NY,3641135,place:NY:3641135,Lancaster village,Lancaster,Lancaster,36029,Erie County,Incorporated place,42.900602,-78.66878,1
+NY,3641223,place:NY:3641223,Lansing village,Lansing,Lansing,36109,Tompkins County,Incorporated place,42.49015,-76.486521,1
+NY,3641333,place:NY:3641333,Larchmont village,Larchmont,Larchmont,36119,Westchester County,Incorporated place,40.925961,-73.75196,1
+NY,3641399,place:NY:3641399,Latham CDP,Latham,Latham,36001,Albany County,Census-designated place,42.742235,-73.750377,1
+NY,3641432,place:NY:3641432,Lattingtown village,Lattingtown,Lattingtown,36059,Nassau County,Incorporated place,40.89464,-73.595343,1
+NY,3641465,place:NY:3641465,Laurel CDP,Laurel,Laurel,36103,Suffolk County,Census-designated place,40.972918,-72.554532,1
+NY,3641487,place:NY:3641487,Laurel Hollow village,Laurel Hollow,Laurel Hollow,36059,Nassau County,Incorporated place,40.8567,-73.477542,1
+NY,3641520,place:NY:3641520,Laurens village,Laurens,Laurens,36077,Otsego County,Incorporated place,42.531319,-75.088716,1
+NY,3641553,place:NY:3641553,Lawrence village,Lawrence,Lawrence,36059,Nassau County,Incorporated place,40.602156,-73.715923,1
+NY,3642026,place:NY:3642026,Le Roy village,Le Roy,Le Roy,36037,Genesee County,Incorporated place,42.978006,-77.990874,1
+NY,3641784,place:NY:3641784,Leeds CDP,Leeds,Leeds,36039,Greene County,Census-designated place,42.255384,-73.893533,1
+NY,3641872,place:NY:3641872,Leicester village,Leicester,Leicester,36051,Livingston County,Incorporated place,42.770939,-77.896904,1
+NY,3642081,place:NY:3642081,Levittown CDP,Levittown,Levittown,36059,Nassau County,Census-designated place,40.72399,-73.512709,1
+NY,3642147,place:NY:3642147,Lewiston village,Lewiston,Lewiston,36063,Niagara County,Incorporated place,43.17193,-79.040674,1
+NY,3642224,place:NY:3642224,Liberty village,Liberty,Liberty,36105,Sullivan County,Incorporated place,41.796593,-74.743195,1
+NY,3642279,place:NY:3642279,Lido Beach CDP,Lido Beach,Lido Beach,36059,Nassau County,Census-designated place,40.589098,-73.604318,1
+NY,3642323,place:NY:3642323,Lima village,Lima,Lima,36051,Livingston County,Incorporated place,42.906946,-77.612265,1
+NY,3642345,place:NY:3642345,Lime Lake CDP,Lime Lake,Lime Lake,36009,Cattaraugus County,Census-designated place,42.432489,-78.488209,1
+NY,3642378,place:NY:3642378,Limestone CDP,Limestone,Limestone,36009,Cattaraugus County,Census-designated place,42.017292,-78.631178,1
+NY,3642488,place:NY:3642488,Lincoln Park CDP,Lincoln Park,Lincoln Park,36111,Ulster County,Census-designated place,41.958041,-74.004812,1
+NY,3642455,place:NY:3642455,Lincolndale CDP,Lincolndale,Lincolndale,36119,Westchester County,Census-designated place,41.335321,-73.726698,1
+NY,3642554,place:NY:3642554,Lindenhurst village,Lindenhurst,Lindenhurst,36103,Suffolk County,Incorporated place,40.685751,-73.371594,1
+NY,3642609,place:NY:3642609,Linwood CDP,Linwood,Linwood,36051,Livingston County,Census-designated place,42.896705,-77.947602,1
+NY,3642642,place:NY:3642642,Lisle village,Lisle,Lisle,36007,Broome County,Incorporated place,42.349054,-76.005522,1
+NY,3642741,place:NY:3642741,Little Falls city,Little Falls,Little Falls,36043,Herkimer County,Incorporated place,43.044835,-74.856688,1
+NY,3642829,place:NY:3642829,Little Valley village,Little Valley,Little Valley,36009,Cattaraugus County,Incorporated place,42.249365,-78.798751,1
+NY,3642884,place:NY:3642884,Liverpool village,Liverpool,Liverpool,36067,Onondaga County,Incorporated place,43.105566,-76.209664,1
+NY,3642928,place:NY:3642928,Livingston Manor CDP,Livingston Manor,Livingston Manor,36105,Sullivan County,Census-designated place,41.887442,-74.823706,1
+NY,3642950,place:NY:3642950,Livonia village,Livonia,Livonia,36051,Livingston County,Incorporated place,42.82193,-77.6688,1
+NY,3642972,place:NY:3642972,Livonia Center CDP,Livonia Center,Livonia Center,36051,Livingston County,Census-designated place,42.82106,-77.642011,1
+NY,3643005,place:NY:3643005,Lloyd Harbor village,Lloyd Harbor,Lloyd Harbor,36103,Suffolk County,Incorporated place,40.921496,-73.443386,1
+NY,3643038,place:NY:3643038,Loch Sheldrake CDP,Loch Sheldrake,Loch Sheldrake,36105,Sullivan County,Census-designated place,41.775209,-74.659653,1
+NY,3643082,place:NY:3643082,Lockport city,Lockport,Lockport,36063,Niagara County,Incorporated place,43.16946,-78.695807,1
+NY,3643192,place:NY:3643192,Locust Valley CDP,Locust Valley,Locust Valley,36059,Nassau County,Census-designated place,40.878083,-73.589333,1
+NY,3643214,place:NY:3643214,Lodi village,Lodi,Lodi,36099,Seneca County,Incorporated place,42.6134,-76.821978,1
+NY,3643335,place:NY:3643335,Long Beach city,Long Beach,Long Beach,36059,Nassau County,Incorporated place,40.585835,-73.665403,1
+NY,3643401,place:NY:3643401,Long Lake CDP,Long Lake,Long Lake,36041,Hamilton County,Census-designated place,43.967194,-74.426913,1
+NY,3643511,place:NY:3643511,Lorenz Park CDP,Lorenz Park,Lorenz Park,36021,Columbia County,Census-designated place,42.269951,-73.776021,1
+NY,3643533,place:NY:3643533,Lorraine CDP,Lorraine,Lorraine,36045,Jefferson County,Census-designated place,43.765512,-75.952223,1
+NY,3643566,place:NY:3643566,Loudonville CDP,Loudonville,Loudonville,36001,Albany County,Census-designated place,42.70973,-73.763079,1
+NY,3643720,place:NY:3643720,Lowville village,Lowville,Lowville,36049,Lewis County,Incorporated place,43.786605,-75.487812,1
+NY,3643874,place:NY:3643874,Lynbrook village,Lynbrook,Lynbrook,36059,Nassau County,Incorporated place,40.657883,-73.674199,1
+NY,3643885,place:NY:3643885,Lyncourt CDP,Lyncourt,Lyncourt,36067,Onondaga County,Census-designated place,43.082059,-76.126388,1
+NY,3643918,place:NY:3643918,Lyndonville village,Lyndonville,Lyndonville,36073,Orleans County,Incorporated place,43.321345,-78.388869,1
+NY,3643951,place:NY:3643951,Lyon Mountain CDP,Lyon Mountain,Lyon Mountain,36019,Clinton County,Census-designated place,44.718317,-73.866297,1
+NY,3643962,place:NY:3643962,Lyons CDP,Lyons,Lyons,36117,Wayne County,Census-designated place,43.063719,-76.991281,1
+NY,3644006,place:NY:3644006,Lyons Falls village,Lyons Falls,Lyons Falls,36049,Lewis County,Incorporated place,43.617008,-75.361635,1
+NY,3644105,place:NY:3644105,MacDonnell Heights CDP,MacDonnell Heights,MacDonnell Heights,36027,Dutchess County,Census-designated place,41.716538,-73.860615,1
+NY,3644149,place:NY:3644149,Macedon CDP,Macedon,Macedon,36117,Wayne County,Census-designated place,43.064833,-77.300283,1
+NY,3644226,place:NY:3644226,Machias CDP,Machias,Machias,36009,Cattaraugus County,Census-designated place,42.413621,-78.487052,1
+NY,3644424,place:NY:3644424,Madison village,Madison,Madison,36053,Madison County,Incorporated place,42.897741,-75.512291,1
+NY,3644479,place:NY:3644479,Madrid CDP,Madrid,Madrid,36089,St. Lawrence County,Census-designated place,44.746472,-75.132364,1
+NY,3644534,place:NY:3644534,Mahopac CDP,Mahopac,Mahopac,36079,Putnam County,Census-designated place,41.369734,-73.74069,1
+NY,3644677,place:NY:3644677,Malden-on-Hudson CDP,Malden-on-Hudson,Malden-on-Hudson,36111,Ulster County,Census-designated place,42.093226,-73.936475,1
+NY,3644710,place:NY:3644710,Malone village,Malone,Malone,36033,Franklin County,Incorporated place,44.848221,-74.28958,1
+NY,3644787,place:NY:3644787,Malverne village,Malverne,Malverne,36059,Nassau County,Incorporated place,40.674541,-73.672101,1
+NY,3644792,place:NY:3644792,Malverne Park Oaks CDP,Malverne Park Oaks,Malverne Park Oaks,36059,Nassau County,Census-designated place,40.681655,-73.664414,1
+NY,3644831,place:NY:3644831,Mamaroneck village,Mamaroneck,Mamaroneck,36119,Westchester County,Incorporated place,40.935877,-73.727452,1
+NY,3644853,place:NY:3644853,Manchester village,Manchester,Manchester,36069,Ontario County,Incorporated place,42.968116,-77.231639,1
+NY,3644897,place:NY:3644897,Manhasset CDP,Manhasset,Manhasset,36059,Nassau County,Census-designated place,40.784979,-73.694878,1
+NY,3644908,place:NY:3644908,Manhasset Hills CDP,Manhasset Hills,Manhasset Hills,36059,Nassau County,Census-designated place,40.759137,-73.68087,1
+NY,3645018,place:NY:3645018,Manlius village,Manlius,Manlius,36067,Onondaga County,Incorporated place,43.001438,-75.982232,1
+NY,3645073,place:NY:3645073,Mannsville village,Mannsville,Mannsville,36045,Jefferson County,Incorporated place,43.717814,-76.066815,1
+NY,3645106,place:NY:3645106,Manorhaven village,Manorhaven,Manorhaven,36059,Nassau County,Incorporated place,40.835185,-73.710704,1
+NY,3645139,place:NY:3645139,Manorville CDP,Manorville,Manorville,36103,Suffolk County,Census-designated place,40.862328,-72.787521,1
+NY,3645392,place:NY:3645392,Marathon village,Marathon,Marathon,36023,Cortland County,Incorporated place,42.444808,-76.036238,1
+NY,3645480,place:NY:3645480,Marcellus village,Marcellus,Marcellus,36067,Onondaga County,Incorporated place,42.983707,-76.3405,1
+NY,3645524,place:NY:3645524,Marcy CDP,Marcy,Marcy,36065,Oneida County,Census-designated place,43.131447,-75.255714,1
+NY,3645557,place:NY:3645557,Margaretville village,Margaretville,Margaretville,36025,Delaware County,Incorporated place,42.145267,-74.650708,1
+NY,3645573,place:NY:3645573,Mariaville Lake CDP,Mariaville Lake,Mariaville Lake,36093,Schenectady County,Census-designated place,42.824826,-74.130315,1
+NY,3645634,place:NY:3645634,Marion CDP,Marion,Marion,36117,Wayne County,Census-designated place,43.142005,-77.193999,1
+NY,3645659,place:NY:3645659,Marist College CDP,Marist College,Marist College,36027,Dutchess County,Census-designated place,41.722227,-73.933341,1
+NY,3645700,place:NY:3645700,Marlboro CDP,Marlboro,Marlboro,36111,Ulster County,Census-designated place,41.603811,-73.977152,1
+NY,3645986,place:NY:3645986,Massapequa CDP,Massapequa,Massapequa,36059,Nassau County,Census-designated place,40.668302,-73.471515,1
+NY,3645997,place:NY:3645997,Massapequa Park village,Massapequa Park,Massapequa Park,36059,Nassau County,Incorporated place,40.680909,-73.449689,1
+NY,3646019,place:NY:3646019,Massena village,Massena,Massena,36089,St. Lawrence County,Incorporated place,44.929024,-74.892973,1
+NY,3646074,place:NY:3646074,Mastic CDP,Mastic,Mastic,36103,Suffolk County,Census-designated place,40.808969,-72.847829,1
+NY,3646085,place:NY:3646085,Mastic Beach CDP,Mastic Beach,Mastic Beach,36103,Suffolk County,Census-designated place,40.765722,-72.836722,1
+NY,3646107,place:NY:3646107,Matinecock village,Matinecock,Matinecock,36059,Nassau County,Incorporated place,40.859352,-73.580472,1
+NY,3646140,place:NY:3646140,Mattituck CDP,Mattituck,Mattituck,36103,Suffolk County,Census-designated place,41.004892,-72.543376,1
+NY,3646151,place:NY:3646151,Mattydale CDP,Mattydale,Mattydale,36067,Onondaga County,Census-designated place,43.099176,-76.13883,1
+NY,3646162,place:NY:3646162,Maybrook village,Maybrook,Maybrook,36071,Orange County,Incorporated place,41.488335,-74.213498,1
+NY,3646206,place:NY:3646206,Mayfield village,Mayfield,Mayfield,36035,Fulton County,Incorporated place,43.101933,-74.266014,1
+NY,3646239,place:NY:3646239,Mayville village,Mayville,Mayville,36013,Chautauqua County,Incorporated place,42.253099,-79.501913,1
+NY,3644193,place:NY:3644193,McGraw village,McGraw,McGraw,36023,Cortland County,Incorporated place,42.593765,-76.097502,1
+NY,3644358,place:NY:3644358,McLean CDP,McLean,McLean,36109,Tompkins County,Census-designated place,42.548809,-76.292316,1
+NY,3646349,place:NY:3646349,Mechanicstown CDP,Mechanicstown,Mechanicstown,36071,Orange County,Census-designated place,41.447598,-74.392431,1
+NY,3646360,place:NY:3646360,Mechanicville city,Mechanicville,Mechanicville,36091,Saratoga County,Incorporated place,42.904141,-73.688888,1
+NY,3646404,place:NY:3646404,Medford CDP,Medford,Medford,36103,Suffolk County,Census-designated place,40.821979,-72.985918,1
+NY,3646415,place:NY:3646415,Medina village,Medina,Medina,36073,Orleans County,Incorporated place,43.219742,-78.387874,1
+NY,3646503,place:NY:3646503,Melrose Park CDP,Melrose Park,Melrose Park,36011,Cayuga County,Census-designated place,42.905644,-76.514054,1
+NY,3646514,place:NY:3646514,Melville CDP,Melville,Melville,36103,Suffolk County,Census-designated place,40.782357,-73.408824,1
+NY,3646536,place:NY:3646536,Menands village,Menands,Menands,36001,Albany County,Incorporated place,42.690614,-73.726484,1
+NY,3646646,place:NY:3646646,Meridian village,Meridian,Meridian,36011,Cayuga County,Incorporated place,43.162963,-76.538182,1
+NY,3646668,place:NY:3646668,Merrick CDP,Merrick,Merrick,36059,Nassau County,Census-designated place,40.65207,-73.55175,1
+NY,3646750,place:NY:3646750,Merritt Park CDP,Merritt Park,Merritt Park,36027,Dutchess County,Census-designated place,41.538482,-73.87239,1
+NY,3646811,place:NY:3646811,Mexico village,Mexico,Mexico,36075,Oswego County,Incorporated place,43.465218,-76.232574,1
+NY,3646976,place:NY:3646976,Middle Island CDP,Middle Island,Middle Island,36103,Suffolk County,Census-designated place,40.892509,-72.951175,1
+NY,3646866,place:NY:3646866,Middleburgh village,Middleburgh,Middleburgh,36095,Schoharie County,Incorporated place,42.597979,-74.329828,1
+NY,3646998,place:NY:3646998,Middleport village,Middleport,Middleport,36063,Niagara County,Incorporated place,43.211722,-78.475727,1
+NY,3647042,place:NY:3647042,Middletown city,Middletown,Middletown,36071,Orange County,Incorporated place,41.444922,-74.423573,1
+NY,3647108,place:NY:3647108,Middleville village,Middleville,Middleville,36043,Herkimer County,Incorporated place,43.138937,-74.970235,1
+NY,3647229,place:NY:3647229,Milford village,Milford,Milford,36077,Otsego County,Incorporated place,42.59047,-74.946865,1
+NY,3647405,place:NY:3647405,Mill Neck village,Mill Neck,Mill Neck,36059,Nassau County,Incorporated place,40.882132,-73.558968,1
+NY,3647273,place:NY:3647273,Millbrook village,Millbrook,Millbrook,36027,Dutchess County,Incorporated place,41.784862,-73.692092,1
+NY,3647306,place:NY:3647306,Miller Place CDP,Miller Place,Miller Place,36103,Suffolk County,Census-designated place,40.943115,-72.993342,1
+NY,3647361,place:NY:3647361,Millerton village,Millerton,Millerton,36027,Dutchess County,Incorporated place,41.955485,-73.513076,1
+NY,3647427,place:NY:3647427,Millport village,Millport,Millport,36015,Chemung County,Incorporated place,42.268101,-76.836244,1
+NY,3647482,place:NY:3647482,Millwood CDP,Millwood,Millwood,36119,Westchester County,Census-designated place,41.202819,-73.79296,1
+NY,3647548,place:NY:3647548,Milton CDP,Milton,"Milton, Saratoga County",36091,Saratoga County,Census-designated place,43.037526,-73.853819,1
+NY,3647554,place:NY:3647554,Milton CDP,Milton,"Milton, Ulster County",36111,Ulster County,Census-designated place,41.655997,-73.969555,1
+NY,3647636,place:NY:3647636,Mineola village,Mineola,Mineola,36059,Nassau County,Incorporated place,40.747026,-73.639363,1
+NY,3647680,place:NY:3647680,Minetto CDP,Minetto,Minetto,36075,Oswego County,Census-designated place,43.401959,-76.480879,1
+NY,3647702,place:NY:3647702,Mineville CDP,Mineville,Mineville,36031,Essex County,Census-designated place,44.092361,-73.524308,1
+NY,3647757,place:NY:3647757,Minoa village,Minoa,Minoa,36067,Onondaga County,Incorporated place,43.074279,-76.008372,1
+NY,3647823,place:NY:3647823,Mohawk village,Mohawk,Mohawk,36043,Herkimer County,Incorporated place,43.009377,-75.007139,1
+NY,3647977,place:NY:3647977,Mongaup Valley CDP,Mongaup Valley,Mongaup Valley,36105,Sullivan County,Census-designated place,41.680325,-74.779887,1
+NY,3647988,place:NY:3647988,Monroe village,Monroe,Monroe,36071,Orange County,Incorporated place,41.318264,-74.185379,1
+NY,3648010,place:NY:3648010,Monsey CDP,Monsey,Monsey,36087,Rockland County,Census-designated place,41.109477,-74.076972,1
+NY,3648054,place:NY:3648054,Montauk CDP,Montauk,Montauk,36103,Suffolk County,Census-designated place,41.047538,-71.946369,1
+NY,3648090,place:NY:3648090,Montebello village,Montebello,Montebello,36087,Rockland County,Incorporated place,41.130795,-74.110078,1
+NY,3648142,place:NY:3648142,Montgomery village,Montgomery,Montgomery,36071,Orange County,Incorporated place,41.521266,-74.238661,1
+NY,3648175,place:NY:3648175,Monticello village,Monticello,Monticello,36105,Sullivan County,Incorporated place,41.652528,-74.68776,1
+NY,3648197,place:NY:3648197,Montour Falls village,Montour Falls,Montour Falls,36097,Schuyler County,Incorporated place,42.348207,-76.849374,1
+NY,3648208,place:NY:3648208,Montrose CDP,Montrose,Montrose,36119,Westchester County,Census-designated place,41.238901,-73.943837,1
+NY,3648241,place:NY:3648241,Mooers CDP,Mooers,Mooers,36019,Clinton County,Census-designated place,44.96363,-73.595463,1
+NY,3648296,place:NY:3648296,Moravia village,Moravia,Moravia,36011,Cayuga County,Incorporated place,42.712145,-76.423053,1
+NY,3648450,place:NY:3648450,Moriches CDP,Moriches,Moriches,36103,Suffolk County,Census-designated place,40.805414,-72.826992,1
+NY,3648483,place:NY:3648483,Morris village,Morris,Morris,36077,Otsego County,Incorporated place,42.548118,-75.245292,1
+NY,3648538,place:NY:3648538,Morrisonville CDP,Morrisonville,Morrisonville,36019,Clinton County,Census-designated place,44.695855,-73.555552,1
+NY,3648571,place:NY:3648571,Morristown CDP,Morristown,Morristown,36089,St. Lawrence County,Census-designated place,44.584013,-75.64546,1
+NY,3648593,place:NY:3648593,Morrisville village,Morrisville,Morrisville,36053,Madison County,Incorporated place,42.898699,-75.644755,1
+NY,3648879,place:NY:3648879,Mount Ivy CDP,Mount Ivy,Mount Ivy,36087,Rockland County,Census-designated place,41.192669,-74.029579,1
+NY,3648890,place:NY:3648890,Mount Kisco village,Mount Kisco,Mount Kisco,36119,Westchester County,Incorporated place,41.201696,-73.728258,1
+NY,3648945,place:NY:3648945,Mount Morris village,Mount Morris,Mount Morris,36051,Livingston County,Incorporated place,42.723695,-77.875207,1
+NY,3649066,place:NY:3649066,Mount Sinai CDP,Mount Sinai,Mount Sinai,36103,Suffolk County,Census-designated place,40.94178,-73.020242,1
+NY,3649121,place:NY:3649121,Mount Vernon city,Mount Vernon,Mount Vernon,36119,Westchester County,Incorporated place,40.913105,-73.829317,1
+NY,3649143,place:NY:3649143,Mount Vision CDP,Mount Vision,Mount Vision,36077,Otsego County,Census-designated place,42.583077,-75.051728,1
+NY,3648736,place:NY:3648736,Mountain Dale CDP,Mountain Dale,Mountain Dale,36105,Sullivan County,Census-designated place,41.691253,-74.520578,1
+NY,3648750,place:NY:3648750,Mountain Lodge Park CDP,Mountain Lodge Park,Mountain Lodge Park,36071,Orange County,Census-designated place,41.386534,-74.141761,1
+NY,3649220,place:NY:3649220,Munnsville village,Munnsville,Munnsville,36053,Madison County,Incorporated place,42.976549,-75.586521,1
+NY,3649231,place:NY:3649231,Munsey Park village,Munsey Park,Munsey Park,36059,Nassau County,Incorporated place,40.798993,-73.67985,1
+NY,3649242,place:NY:3649242,Munsons Corners CDP,Munsons Corners,Munsons Corners,36023,Cortland County,Census-designated place,42.573849,-76.202145,1
+NY,3649330,place:NY:3649330,Muttontown village,Muttontown,Muttontown,36059,Nassau County,Incorporated place,40.825394,-73.536338,1
+NY,3649363,place:NY:3649363,Myers Corner CDP,Myers Corner,Myers Corner,36027,Dutchess County,Census-designated place,41.584395,-73.883713,1
+NY,3649407,place:NY:3649407,Nanuet CDP,Nanuet,Nanuet,36087,Rockland County,Census-designated place,41.095478,-74.015879,1
+NY,3649418,place:NY:3649418,Napanoch CDP,Napanoch,Napanoch,36111,Ulster County,Census-designated place,41.752622,-74.371859,1
+NY,3649424,place:NY:3649424,Napeague CDP,Napeague,Napeague,36103,Suffolk County,Census-designated place,40.999824,-72.06422,1
+NY,3649429,place:NY:3649429,Naples village,Naples,Naples,36069,Ontario County,Incorporated place,42.617401,-77.402143,1
+NY,3649473,place:NY:3649473,Narrowsburg CDP,Narrowsburg,Narrowsburg,36105,Sullivan County,Census-designated place,41.601387,-75.051393,1
+NY,3649506,place:NY:3649506,Nassau village,Nassau,Nassau,36083,Rensselaer County,Incorporated place,42.513963,-73.61075,1
+NY,3649555,place:NY:3649555,Nassau Lake CDP,Nassau Lake,Nassau Lake,36083,Rensselaer County,Census-designated place,42.538613,-73.609136,1
+NY,3649605,place:NY:3649605,Natural Bridge CDP,Natural Bridge,Natural Bridge,36045,Jefferson County,Census-designated place,44.071521,-75.500193,1
+NY,3649715,place:NY:3649715,Nazareth College CDP,Nazareth College,Nazareth College,36055,Monroe County,Census-designated place,43.103104,-77.519348,1
+NY,3649726,place:NY:3649726,Nedrow CDP,Nedrow,Nedrow,36067,Onondaga County,Census-designated place,42.977998,-76.141648,1
+NY,3649748,place:NY:3649748,Nelliston village,Nelliston,Nelliston,36057,Montgomery County,Incorporated place,42.932679,-74.607642,1
+NY,3649781,place:NY:3649781,Nelsonville village,Nelsonville,Nelsonville,36079,Putnam County,Incorporated place,41.429474,-73.949914,1
+NY,3649825,place:NY:3649825,Nesconset CDP,Nesconset,Nesconset,36103,Suffolk County,Census-designated place,40.847502,-73.151428,1
+NY,3649924,place:NY:3649924,New Baltimore CDP,New Baltimore,New Baltimore,36039,Greene County,Census-designated place,42.450364,-73.794956,1
+NY,3649946,place:NY:3649946,New Berlin village,New Berlin,New Berlin,36017,Chenango County,Incorporated place,42.623983,-75.335317,1
+NY,3650067,place:NY:3650067,New Cassel CDP,New Cassel,New Cassel,36059,Nassau County,Census-designated place,40.760202,-73.564934,1
+NY,3650100,place:NY:3650100,New City CDP,New City,New City,36087,Rockland County,Census-designated place,41.152205,-73.990426,1
+NY,3650265,place:NY:3650265,New Hackensack CDP,New Hackensack,New Hackensack,36027,Dutchess County,Census-designated place,41.619623,-73.860006,1
+NY,3650276,place:NY:3650276,New Hamburg CDP,New Hamburg,New Hamburg,36027,Dutchess County,Census-designated place,41.590398,-73.93813,1
+NY,3650298,place:NY:3650298,New Hartford village,New Hartford,New Hartford,36065,Oneida County,Incorporated place,43.071038,-75.288618,1
+NY,3650353,place:NY:3650353,New Hempstead village,New Hempstead,New Hempstead,36087,Rockland County,Incorporated place,41.14668,-74.050497,1
+NY,3650397,place:NY:3650397,New Hyde Park village,New Hyde Park,New Hyde Park,36059,Nassau County,Incorporated place,40.732273,-73.685864,1
+NY,3650551,place:NY:3650551,New Paltz village,New Paltz,New Paltz,36111,Ulster County,Incorporated place,41.749942,-74.079738,1
+NY,3650617,place:NY:3650617,New Rochelle city,New Rochelle,New Rochelle,36119,Westchester County,Incorporated place,40.923243,-73.779344,1
+NY,3650705,place:NY:3650705,New Square village,New Square,New Square,36087,Rockland County,Incorporated place,41.141022,-74.029362,1
+NY,3650727,place:NY:3650727,New Suffolk CDP,New Suffolk,New Suffolk,36103,Suffolk County,Census-designated place,40.996754,-72.477472,1
+NY,3650837,place:NY:3650837,New Windsor CDP,New Windsor,New Windsor,36071,Orange County,Census-designated place,41.46983,-74.031832,1
+NY,3651000,place:NY:3651000,New York city,New York,New York,36047,Kings County,Incorporated place,40.662712,-73.938677,1
+NY,3651011,place:NY:3651011,New York Mills village,New York Mills,New York Mills,36065,Oneida County,Incorporated place,43.100709,-75.293111,1
+NY,3649891,place:NY:3649891,Newark village,Newark,Newark,36117,Wayne County,Incorporated place,43.042009,-77.094024,1
+NY,3649902,place:NY:3649902,Newark Valley village,Newark Valley,Newark Valley,36107,Tioga County,Incorporated place,42.222905,-76.186776,1
+NY,3650034,place:NY:3650034,Newburgh city,Newburgh,Newburgh,36071,Orange County,Incorporated place,41.503249,-74.01964,1
+NY,3650221,place:NY:3650221,Newfane CDP,Newfane,Newfane,36063,Niagara County,Census-designated place,43.285683,-78.693945,1
+NY,3650243,place:NY:3650243,Newfield CDP,Newfield,Newfield,36109,Tompkins County,Census-designated place,42.357511,-76.59381,1
+NY,3650573,place:NY:3650573,Newport village,Newport,Newport,36043,Herkimer County,Incorporated place,43.186845,-75.016023,1
+NY,3651055,place:NY:3651055,Niagara Falls city,Niagara Falls,Niagara Falls,36063,Niagara County,Incorporated place,43.092841,-79.014743,1
+NY,3651088,place:NY:3651088,Niagara University CDP,Niagara University,Niagara University,36063,Niagara County,Census-designated place,43.137212,-79.035127,1
+NY,3651110,place:NY:3651110,Nichols village,Nichols,Nichols,36107,Tioga County,Incorporated place,42.020017,-76.370402,1
+NY,3651262,place:NY:3651262,Niskayuna CDP,Niskayuna,Niskayuna,36093,Schenectady County,Census-designated place,42.804896,-73.887427,1
+NY,3651286,place:NY:3651286,Nissequogue village,Nissequogue,Nissequogue,36103,Suffolk County,Incorporated place,40.903501,-73.185677,1
+NY,3651297,place:NY:3651297,Niverville CDP,Niverville,Niverville,36021,Columbia County,Census-designated place,42.44912,-73.64844,1
+NY,3651319,place:NY:3651319,Norfolk CDP,Norfolk,Norfolk,36089,St. Lawrence County,Census-designated place,44.788637,-74.988027,1
+NY,3651396,place:NY:3651396,North Amityville CDP,North Amityville,North Amityville,36103,Suffolk County,Census-designated place,40.700525,-73.411884,1
+NY,3651440,place:NY:3651440,North Babylon CDP,North Babylon,North Babylon,36103,Suffolk County,Census-designated place,40.731454,-73.32493,1
+NY,3651467,place:NY:3651467,North Ballston Spa CDP,North Ballston Spa,North Ballston Spa,36091,Saratoga County,Census-designated place,43.019556,-73.852174,1
+NY,3651484,place:NY:3651484,North Bay CDP,North Bay,North Bay,36065,Oneida County,Census-designated place,43.228451,-75.74444,1
+NY,3651495,place:NY:3651495,North Bay Shore CDP,North Bay Shore,North Bay Shore,36103,Suffolk County,Census-designated place,40.760191,-73.261674,1
+NY,3651517,place:NY:3651517,North Bellmore CDP,North Bellmore,North Bellmore,36059,Nassau County,Census-designated place,40.690346,-73.539016,1
+NY,3651528,place:NY:3651528,North Bellport CDP,North Bellport,North Bellport,36103,Suffolk County,Census-designated place,40.786816,-72.94568,1
+NY,3651561,place:NY:3651561,North Blenheim CDP,North Blenheim,North Blenheim,36095,Schoharie County,Census-designated place,42.47181,-74.452558,1
+NY,3651583,place:NY:3651583,North Boston CDP,North Boston,North Boston,36029,Erie County,Census-designated place,42.677322,-78.779346,1
+NY,3651792,place:NY:3651792,North Collins village,North Collins,North Collins,36029,Erie County,Incorporated place,42.594821,-78.936941,1
+NY,3651847,place:NY:3651847,North Creek CDP,North Creek,North Creek,36113,Warren County,Census-designated place,43.690214,-73.985125,1
+NY,3652040,place:NY:3652040,North Gates CDP,North Gates,North Gates,36055,Monroe County,Census-designated place,43.171402,-77.706217,1
+NY,3652067,place:NY:3652067,North Granville CDP,North Granville,North Granville,36115,Washington County,Census-designated place,43.451516,-73.358092,1
+NY,3652078,place:NY:3652078,North Great River CDP,North Great River,North Great River,36103,Suffolk County,Census-designated place,40.756157,-73.163061,1
+NY,3652188,place:NY:3652188,North Haven village,North Haven,North Haven,36103,Suffolk County,Incorporated place,41.023263,-72.313997,1
+NY,3653022,place:NY:3653022,North Hills village,North Hills,North Hills,36059,Nassau County,Incorporated place,40.77645,-73.677847,1
+NY,3653055,place:NY:3653055,North Hornell village,North Hornell,North Hornell,36101,Steuben County,Incorporated place,42.345444,-77.660504,1
+NY,3653198,place:NY:3653198,North Lindenhurst CDP,North Lindenhurst,North Lindenhurst,36103,Suffolk County,Census-designated place,40.707221,-73.385968,1
+NY,3653231,place:NY:3653231,North Lynbrook CDP,North Lynbrook,North Lynbrook,36059,Nassau County,Census-designated place,40.668563,-73.673588,1
+NY,3653253,place:NY:3653253,North Massapequa CDP,North Massapequa,North Massapequa,36059,Nassau County,Census-designated place,40.703007,-73.469122,1
+NY,3653264,place:NY:3653264,North Merrick CDP,North Merrick,North Merrick,36059,Nassau County,Census-designated place,40.688521,-73.560449,1
+NY,3653275,place:NY:3653275,North New Hyde Park CDP,North New Hyde Park,North New Hyde Park,36059,Nassau County,Census-designated place,40.745753,-73.687775,1
+NY,3653319,place:NY:3653319,North Patchogue CDP,North Patchogue,North Patchogue,36103,Suffolk County,Census-designated place,40.784034,-73.023889,1
+NY,3653462,place:NY:3653462,North Rose CDP,North Rose,North Rose,36117,Wayne County,Census-designated place,43.18722,-76.886401,1
+NY,3653561,place:NY:3653561,North Sea CDP,North Sea,North Sea,36103,Suffolk County,Census-designated place,40.931543,-72.40604,1
+NY,3653660,place:NY:3653660,North Syracuse village,North Syracuse,North Syracuse,36067,Onondaga County,Incorporated place,43.133867,-76.130388,1
+NY,3653682,place:NY:3653682,North Tonawanda city,North Tonawanda,North Tonawanda,36063,Niagara County,Incorporated place,43.049157,-78.871224,1
+NY,3653748,place:NY:3653748,North Valley Stream CDP,North Valley Stream,North Valley Stream,36059,Nassau County,Census-designated place,40.684262,-73.708077,1
+NY,3653792,place:NY:3653792,North Wantagh CDP,North Wantagh,North Wantagh,36059,Nassau County,Census-designated place,40.693878,-73.51636,1
+NY,3651418,place:NY:3651418,Northampton CDP,Northampton,Northampton,36103,Suffolk County,Census-designated place,40.875159,-72.684077,1
+NY,3651915,place:NY:3651915,Northeast Ithaca CDP,Northeast Ithaca,Northeast Ithaca,36109,Tompkins County,Census-designated place,42.46857,-76.463401,1
+NY,3653396,place:NY:3653396,Northport village,Northport,Northport,36103,Suffolk County,Incorporated place,40.904045,-73.344968,1
+NY,3653770,place:NY:3653770,Northville village,Northville,"Northville, Fulton County",36035,Fulton County,Incorporated place,43.219687,-74.158323,1
+NY,3653775,place:NY:3653775,Northville CDP,Northville,"Northville, Suffolk County",36103,Suffolk County,Census-designated place,40.975572,-72.630246,1
+NY,3653852,place:NY:3653852,Northwest Harbor CDP,Northwest Harbor,Northwest Harbor,36103,Suffolk County,Census-designated place,41.013618,-72.220265,1
+NY,3653853,place:NY:3653853,Northwest Ithaca CDP,Northwest Ithaca,Northwest Ithaca,36109,Tompkins County,Census-designated place,42.458548,-76.535121,1
+NY,3653979,place:NY:3653979,Norwich city,Norwich,Norwich,36017,Chenango County,Incorporated place,42.533322,-75.522758,1
+NY,3654012,place:NY:3654012,Norwood village,Norwood,Norwood,36089,St. Lawrence County,Incorporated place,44.7483,-74.996674,1
+NY,3654056,place:NY:3654056,Noyack CDP,Noyack,Noyack,36103,Suffolk County,Census-designated place,40.98261,-72.33849,1
+NY,3654078,place:NY:3654078,Nunda village,Nunda,Nunda,36051,Livingston County,Incorporated place,42.57999,-77.937907,1
+NY,3654100,place:NY:3654100,Nyack village,Nyack,Nyack,36087,Rockland County,Incorporated place,41.09295,-73.915236,1
+NY,3654111,place:NY:3654111,Oak Beach CDP,Oak Beach,Oak Beach,36103,Suffolk County,Census-designated place,40.638982,-73.290375,1
+NY,3654144,place:NY:3654144,Oakdale CDP,Oakdale,Oakdale,36103,Suffolk County,Census-designated place,40.737548,-73.134181,1
+NY,3654155,place:NY:3654155,Oakfield village,Oakfield,Oakfield,36037,Genesee County,Incorporated place,43.064958,-78.271018,1
+NY,3654430,place:NY:3654430,Ocean Beach village,Ocean Beach,Ocean Beach,36103,Suffolk County,Incorporated place,40.646286,-73.156523,1
+NY,3654441,place:NY:3654441,Oceanside CDP,Oceanside,Oceanside,36059,Nassau County,Census-designated place,40.63302,-73.637701,1
+NY,3654452,place:NY:3654452,Odessa village,Odessa,Odessa,36097,Schuyler County,Incorporated place,42.334872,-76.788085,1
+NY,3654485,place:NY:3654485,Ogdensburg city,Ogdensburg,Ogdensburg,36089,St. Lawrence County,Incorporated place,44.717126,-75.457338,1
+NY,3654540,place:NY:3654540,Olcott CDP,Olcott,Olcott,36063,Niagara County,Census-designated place,43.327528,-78.719093,1
+NY,3654551,place:NY:3654551,Old Bethpage CDP,Old Bethpage,Old Bethpage,36059,Nassau County,Census-designated place,40.750823,-73.458396,1
+NY,3654562,place:NY:3654562,Old Brookville village,Old Brookville,Old Brookville,36059,Nassau County,Incorporated place,40.83647,-73.605108,1
+NY,3654617,place:NY:3654617,Old Field village,Old Field,Old Field,36103,Suffolk County,Incorporated place,40.966712,-73.130973,1
+NY,3654639,place:NY:3654639,Old Forge CDP,Old Forge,Old Forge,36043,Herkimer County,Census-designated place,43.706401,-74.969122,1
+NY,3654705,place:NY:3654705,Old Westbury village,Old Westbury,Old Westbury,36059,Nassau County,Incorporated place,40.786543,-73.597508,1
+NY,3654716,place:NY:3654716,Olean city,Olean,Olean,36009,Cattaraugus County,Incorporated place,42.08367,-78.434857,1
+NY,3654837,place:NY:3654837,Oneida city,Oneida,Oneida,36053,Madison County,Incorporated place,43.070448,-75.673561,1
+NY,3654848,place:NY:3654848,Oneida Castle village,Oneida Castle,Oneida Castle,36065,Oneida County,Incorporated place,43.081203,-75.633097,1
+NY,3654881,place:NY:3654881,Oneonta city,Oneonta,Oneonta,36077,Otsego County,Incorporated place,42.454818,-75.066884,1
+NY,3655002,place:NY:3655002,Ontario CDP,Ontario,Ontario,36117,Wayne County,Census-designated place,43.218036,-77.280639,1
+NY,3655189,place:NY:3655189,Orange Lake CDP,Orange Lake,Orange Lake,36071,Orange County,Census-designated place,41.536381,-74.098189,1
+NY,3655167,place:NY:3655167,Orangeburg CDP,Orangeburg,Orangeburg,36087,Rockland County,Census-designated place,41.048729,-73.940763,1
+NY,3655266,place:NY:3655266,Orchard Park village,Orchard Park,Orchard Park,36029,Erie County,Incorporated place,42.762198,-78.741367,1
+NY,3655321,place:NY:3655321,Orient CDP,Orient,Orient,36103,Suffolk County,Census-designated place,41.144062,-72.272849,1
+NY,3655365,place:NY:3655365,Oriskany village,Oriskany,Oriskany,36065,Oneida County,Incorporated place,43.156765,-75.333517,1
+NY,3655376,place:NY:3655376,Oriskany Falls village,Oriskany Falls,Oriskany Falls,36065,Oneida County,Incorporated place,42.93799,-75.46361,1
+NY,3655530,place:NY:3655530,Ossining village,Ossining,Ossining,36119,Westchester County,Incorporated place,41.15349,-73.870587,1
+NY,3655574,place:NY:3655574,Oswego city,Oswego,Oswego,36075,Oswego County,Incorporated place,43.458052,-76.503689,1
+NY,3655618,place:NY:3655618,Otego village,Otego,Otego,36077,Otsego County,Incorporated place,42.392799,-75.180071,1
+NY,3655673,place:NY:3655673,Otisville village,Otisville,Otisville,36071,Orange County,Incorporated place,41.471438,-74.539709,1
+NY,3655750,place:NY:3655750,Otter Lake CDP,Otter Lake,Otter Lake,36065,Oneida County,Census-designated place,43.592726,-75.117364,1
+NY,3655816,place:NY:3655816,Ovid village,Ovid,Ovid,36099,Seneca County,Incorporated place,42.675648,-76.822897,1
+NY,3655882,place:NY:3655882,Owego village,Owego,Owego,36107,Tioga County,Incorporated place,42.10456,-76.262227,1
+NY,3655937,place:NY:3655937,Oxbow CDP,Oxbow,Oxbow,36045,Jefferson County,Census-designated place,44.288352,-75.626406,1
+NY,3655948,place:NY:3655948,Oxford village,Oxford,Oxford,36017,Chenango County,Incorporated place,42.441161,-75.595878,1
+NY,3655992,place:NY:3655992,Oyster Bay CDP,Oyster Bay,Oyster Bay,36059,Nassau County,Census-designated place,40.868057,-73.531053,1
+NY,3656011,place:NY:3656011,Oyster Bay Cove village,Oyster Bay Cove,Oyster Bay Cove,36059,Nassau County,Incorporated place,40.860496,-73.505379,1
+NY,3656088,place:NY:3656088,Painted Post village,Painted Post,Painted Post,36101,Steuben County,Incorporated place,42.163762,-77.092384,1
+NY,3656110,place:NY:3656110,Palatine Bridge village,Palatine Bridge,Palatine Bridge,36057,Montgomery County,Incorporated place,42.915754,-74.577543,1
+NY,3656132,place:NY:3656132,Palenville CDP,Palenville,Palenville,36039,Greene County,Census-designated place,42.185727,-74.028969,1
+NY,3656187,place:NY:3656187,Palmyra village,Palmyra,Palmyra,36117,Wayne County,Incorporated place,43.060772,-77.229725,1
+NY,3656212,place:NY:3656212,Pamelia Center CDP,Pamelia Center,Pamelia Center,36045,Jefferson County,Census-designated place,44.035558,-75.903282,1
+NY,3656231,place:NY:3656231,Panama village,Panama,Panama,36013,Chautauqua County,Incorporated place,42.068571,-79.487189,1
+NY,3656291,place:NY:3656291,Parc CDP,Parc,Parc,36019,Clinton County,Census-designated place,44.663804,-73.452927,1
+NY,3656341,place:NY:3656341,Parish village,Parish,Parish,36075,Oswego County,Incorporated place,43.405802,-76.12637,1
+NY,3656363,place:NY:3656363,Parishville CDP,Parishville,Parishville,36089,St. Lawrence County,Census-designated place,44.629671,-74.793187,1
+NY,3656660,place:NY:3656660,Patchogue village,Patchogue,Patchogue,36103,Suffolk County,Incorporated place,40.76371,-73.019773,1
+NY,3656770,place:NY:3656770,Paul Smiths CDP,Paul Smiths,Paul Smiths,36033,Franklin County,Census-designated place,44.433402,-74.250836,1
+NY,3656781,place:NY:3656781,Pavilion CDP,Pavilion,Pavilion,36037,Genesee County,Census-designated place,42.882283,-78.02193,1
+NY,3656814,place:NY:3656814,Pawling village,Pawling,Pawling,36027,Dutchess County,Incorporated place,41.563609,-73.599339,1
+NY,3656869,place:NY:3656869,Peach Lake CDP,Peach Lake,Peach Lake,36079,Putnam County,Census-designated place,41.370537,-73.576945,1
+NY,3656902,place:NY:3656902,Pearl River CDP,Pearl River,Pearl River,36087,Rockland County,Census-designated place,41.061561,-74.007832,1
+NY,3656968,place:NY:3656968,Peconic CDP,Peconic,Peconic,36103,Suffolk County,Census-designated place,41.039067,-72.464419,1
+NY,3656979,place:NY:3656979,Peekskill city,Peekskill,Peekskill,36119,Westchester County,Incorporated place,41.287396,-73.923597,1
+NY,3657001,place:NY:3657001,Pelham village,Pelham,Pelham,36119,Westchester County,Incorporated place,40.91108,-73.807704,1
+NY,3657023,place:NY:3657023,Pelham Manor village,Pelham Manor,Pelham Manor,36119,Westchester County,Incorporated place,40.893068,-73.805928,1
+NY,3657177,place:NY:3657177,Penn Yan village,Penn Yan,Penn Yan,36123,Yates County,Incorporated place,42.660714,-77.053071,1
+NY,3657243,place:NY:3657243,Perry village,Perry,Perry,36121,Wyoming County,Incorporated place,42.717811,-78.005338,1
+NY,3657287,place:NY:3657287,Perrysburg CDP,Perrysburg,Perrysburg,36009,Cattaraugus County,Census-designated place,42.458491,-79.001077,1
+NY,3657364,place:NY:3657364,Peru CDP,Peru,Peru,36019,Clinton County,Census-designated place,44.579326,-73.533292,1
+NY,3657518,place:NY:3657518,Phelps village,Phelps,Phelps,36069,Ontario County,Incorporated place,42.958057,-77.062121,1
+NY,3657551,place:NY:3657551,Philadelphia village,Philadelphia,Philadelphia,36045,Jefferson County,Incorporated place,44.153988,-75.70979,1
+NY,3657639,place:NY:3657639,Philmont village,Philmont,Philmont,36021,Columbia County,Incorporated place,42.249004,-73.646902,1
+NY,3657650,place:NY:3657650,Phoenicia CDP,Phoenicia,Phoenicia,36111,Ulster County,Census-designated place,42.083154,-74.314328,1
+NY,3657661,place:NY:3657661,Phoenix village,Phoenix,Phoenix,36075,Oswego County,Incorporated place,43.230897,-76.295805,1
+NY,3657749,place:NY:3657749,Piermont village,Piermont,Piermont,36087,Rockland County,Incorporated place,41.041851,-73.910831,1
+NY,3657782,place:NY:3657782,Pierrepont Manor CDP,Pierrepont Manor,Pierrepont Manor,36045,Jefferson County,Census-designated place,43.738846,-76.062967,1
+NY,3657804,place:NY:3657804,Piffard CDP,Piffard,Piffard,36051,Livingston County,Census-designated place,42.831854,-77.858397,1
+NY,3657815,place:NY:3657815,Pike CDP,Pike,Pike,36121,Wyoming County,Census-designated place,42.553994,-78.14756,1
+NY,3657980,place:NY:3657980,Pine Bush CDP,Pine Bush,Pine Bush,36071,Orange County,Census-designated place,41.609545,-74.296524,1
+NY,3658057,place:NY:3658057,Pine Hill CDP,Pine Hill,Pine Hill,36111,Ulster County,Census-designated place,42.131405,-74.472132,1
+NY,3658145,place:NY:3658145,Pine Plains CDP,Pine Plains,Pine Plains,36027,Dutchess County,Census-designated place,41.977368,-73.657986,1
+NY,3658189,place:NY:3658189,Pine Valley CDP,Pine Valley,Pine Valley,36015,Chemung County,Census-designated place,42.230281,-76.848036,1
+NY,3658354,place:NY:3658354,Pittsford village,Pittsford,Pittsford,36055,Monroe County,Incorporated place,43.090492,-77.51657,1
+NY,3658409,place:NY:3658409,Plainedge CDP,Plainedge,Plainedge,36059,Nassau County,Census-designated place,40.724009,-73.476993,1
+NY,3658442,place:NY:3658442,Plainview CDP,Plainview,Plainview,36059,Nassau County,Census-designated place,40.781771,-73.473118,1
+NY,3658475,place:NY:3658475,Plandome village,Plandome,Plandome,36059,Nassau County,Incorporated place,40.806579,-73.70163,1
+NY,3658486,place:NY:3658486,Plandome Heights village,Plandome Heights,Plandome Heights,36059,Nassau County,Incorporated place,40.802072,-73.704901,1
+NY,3658497,place:NY:3658497,Plandome Manor village,Plandome Manor,Plandome Manor,36059,Nassau County,Incorporated place,40.814026,-73.699185,1
+NY,3658541,place:NY:3658541,Plattekill CDP,Plattekill,Plattekill,36111,Ulster County,Census-designated place,41.619788,-74.058596,1
+NY,3658574,place:NY:3658574,Plattsburgh city,Plattsburgh,Plattsburgh,36019,Clinton County,Incorporated place,44.692025,-73.458276,1
+NY,3658601,place:NY:3658601,Plattsburgh West CDP,Plattsburgh West,Plattsburgh West,36019,Clinton County,Census-designated place,44.682756,-73.50524,1
+NY,3658684,place:NY:3658684,Pleasant Valley CDP,Pleasant Valley,Pleasant Valley,36027,Dutchess County,Census-designated place,41.746258,-73.826294,1
+NY,3658728,place:NY:3658728,Pleasantville village,Pleasantville,Pleasantville,36119,Westchester County,Incorporated place,41.134006,-73.78415,1
+NY,3658739,place:NY:3658739,Plessis CDP,Plessis,Plessis,36045,Jefferson County,Census-designated place,44.273537,-75.857487,1
+NY,3658794,place:NY:3658794,Poestenkill CDP,Poestenkill,Poestenkill,36083,Rensselaer County,Census-designated place,42.694185,-73.553155,1
+NY,3658849,place:NY:3658849,Point Lookout CDP,Point Lookout,Point Lookout,36059,Nassau County,Census-designated place,40.590634,-73.57941,1
+NY,3658937,place:NY:3658937,Poland village,Poland,Poland,36043,Herkimer County,Incorporated place,43.225663,-75.062698,1
+NY,3658992,place:NY:3658992,Pomona village,Pomona,Pomona,36087,Rockland County,Incorporated place,41.189153,-74.054249,1
+NY,3659157,place:NY:3659157,Poquott village,Poquott,Poquott,36103,Suffolk County,Incorporated place,40.953044,-73.090877,1
+NY,3659212,place:NY:3659212,Port Byron village,Port Byron,Port Byron,36011,Cayuga County,Incorporated place,43.037094,-76.625304,1
+NY,3659223,place:NY:3659223,Port Chester village,Port Chester,Port Chester,36119,Westchester County,Incorporated place,41.004701,-73.667175,1
+NY,3659245,place:NY:3659245,Port Dickinson village,Port Dickinson,Port Dickinson,36007,Broome County,Incorporated place,42.133182,-75.894785,1
+NY,3659311,place:NY:3659311,Port Ewen CDP,Port Ewen,Port Ewen,36111,Ulster County,Census-designated place,41.904162,-73.977243,1
+NY,3659322,place:NY:3659322,Port Gibson CDP,Port Gibson,Port Gibson,36069,Ontario County,Census-designated place,43.033395,-77.155197,1
+NY,3659333,place:NY:3659333,Port Henry CDP,Port Henry,Port Henry,36031,Essex County,Census-designated place,44.045377,-73.461265,1
+NY,3659355,place:NY:3659355,Port Jefferson village,Port Jefferson,Port Jefferson,36103,Suffolk County,Incorporated place,40.942177,-73.052799,1
+NY,3659377,place:NY:3659377,Port Jefferson Station CDP,Port Jefferson Station,Port Jefferson Station,36103,Suffolk County,Census-designated place,40.925939,-73.065186,1
+NY,3659388,place:NY:3659388,Port Jervis city,Port Jervis,Port Jervis,36071,Orange County,Incorporated place,41.378021,-74.690802,1
+NY,3659454,place:NY:3659454,Port Leyden village,Port Leyden,Port Leyden,36049,Lewis County,Incorporated place,43.584673,-75.340001,1
+NY,3659520,place:NY:3659520,Port Washington CDP,Port Washington,Port Washington,36059,Nassau County,Census-designated place,40.827452,-73.680008,1
+NY,3659531,place:NY:3659531,Port Washington North village,Port Washington North,Port Washington North,36059,Nassau County,Incorporated place,40.843047,-73.700058,1
+NY,3659443,place:NY:3659443,Portlandville CDP,Portlandville,Portlandville,36077,Otsego County,Census-designated place,42.536415,-74.96271,1
+NY,3659498,place:NY:3659498,Portville village,Portville,Portville,36009,Cattaraugus County,Incorporated place,42.036706,-78.337256,1
+NY,3659564,place:NY:3659564,Potsdam village,Potsdam,Potsdam,36089,St. Lawrence County,Incorporated place,44.670831,-74.983463,1
+NY,3659619,place:NY:3659619,Pottersville CDP,Pottersville,Pottersville,36113,Warren County,Census-designated place,43.737987,-73.821517,1
+NY,3659641,place:NY:3659641,Poughkeepsie city,Poughkeepsie,Poughkeepsie,36027,Dutchess County,Incorporated place,41.694595,-73.919869,1
+NY,3659708,place:NY:3659708,Prattsburgh CDP,Prattsburgh,Prattsburgh,36101,Steuben County,Census-designated place,42.524795,-77.288316,1
+NY,3659740,place:NY:3659740,Prattsville CDP,Prattsville,Prattsville,36039,Greene County,Census-designated place,42.347243,-74.428721,1
+NY,3659831,place:NY:3659831,Preston-Potter Hollow CDP,Preston-Potter Hollow,Preston-Potter Hollow,36001,Albany County,Census-designated place,42.43304,-74.228759,1
+NY,3659883,place:NY:3659883,Prospect CDP,Prospect,Prospect,36065,Oneida County,Census-designated place,43.302081,-75.152768,1
+NY,3659960,place:NY:3659960,Pulaski village,Pulaski,Pulaski,36075,Oswego County,Incorporated place,43.565504,-76.126035,1
+NY,3659993,place:NY:3659993,Pultneyville CDP,Pultneyville,Pultneyville,36117,Wayne County,Census-designated place,43.273724,-77.172363,1
+NY,3660103,place:NY:3660103,Putnam Lake CDP,Putnam Lake,Putnam Lake,36079,Putnam County,Census-designated place,41.474265,-73.550487,1
+NY,3660408,place:NY:3660408,Quiogue CDP,Quiogue,Quiogue,36103,Suffolk County,Census-designated place,40.819012,-72.628278,1
+NY,3660422,place:NY:3660422,Quogue village,Quogue,Quogue,36103,Suffolk County,Incorporated place,40.820988,-72.599528,1
+NY,3660455,place:NY:3660455,Radisson CDP,Radisson,Radisson,36067,Onondaga County,Census-designated place,43.182456,-76.299175,1
+NY,3660576,place:NY:3660576,Randolph CDP,Randolph,Randolph,36009,Cattaraugus County,Census-designated place,42.16229,-78.97969,1
+NY,3660598,place:NY:3660598,Ransomville CDP,Ransomville,Ransomville,36063,Niagara County,Census-designated place,43.239624,-78.912863,1
+NY,3660609,place:NY:3660609,Rapids CDP,Rapids,Rapids,36063,Niagara County,Census-designated place,43.097626,-78.644065,1
+NY,3660675,place:NY:3660675,Ravena village,Ravena,Ravena,36001,Albany County,Incorporated place,42.478897,-73.813235,1
+NY,3660829,place:NY:3660829,Red Creek village,Red Creek,Red Creek,36117,Wayne County,Incorporated place,43.247903,-76.722852,1
+NY,3660895,place:NY:3660895,Red Hook village,Red Hook,Red Hook,36027,Dutchess County,Incorporated place,41.995785,-73.876511,1
+NY,3660983,place:NY:3660983,Red Oaks Mill CDP,Red Oaks Mill,Red Oaks Mill,36027,Dutchess County,Census-designated place,41.641465,-73.880202,1
+NY,3660884,place:NY:3660884,Redford CDP,Redford,Redford,36019,Clinton County,Census-designated place,44.606497,-73.808905,1
+NY,3661016,place:NY:3661016,Redwood CDP,Redwood,Redwood,36045,Jefferson County,Census-designated place,44.298188,-75.80788,1
+NY,3661115,place:NY:3661115,Remsen village,Remsen,Remsen,36065,Oneida County,Incorporated place,43.328217,-75.186993,1
+NY,3661142,place:NY:3661142,Remsenburg-Speonk CDP,Remsenburg-Speonk,Remsenburg-Speonk,36103,Suffolk County,Census-designated place,40.816233,-72.705765,1
+NY,3661148,place:NY:3661148,Rensselaer city,Rensselaer,Rensselaer,36083,Rensselaer County,Incorporated place,42.647901,-73.729447,1
+NY,3661159,place:NY:3661159,Rensselaer Falls village,Rensselaer Falls,Rensselaer Falls,36089,St. Lawrence County,Incorporated place,44.59077,-75.319795,1
+NY,3661236,place:NY:3661236,Retsof CDP,Retsof,Retsof,36051,Livingston County,Census-designated place,42.832436,-77.875748,1
+NY,3661346,place:NY:3661346,Rhinebeck village,Rhinebeck,Rhinebeck,36027,Dutchess County,Incorporated place,41.928804,-73.910284,1
+NY,3661368,place:NY:3661368,Rhinecliff CDP,Rhinecliff,Rhinecliff,36027,Dutchess County,Census-designated place,41.924369,-73.941058,1
+NY,3661434,place:NY:3661434,Richburg village,Richburg,Richburg,36003,Allegany County,Incorporated place,42.088765,-78.156512,1
+NY,3661489,place:NY:3661489,Richfield Springs village,Richfield Springs,Richfield Springs,36077,Otsego County,Incorporated place,42.853703,-74.986227,1
+NY,3661588,place:NY:3661588,Richmondville village,Richmondville,Richmondville,36095,Schoharie County,Incorporated place,42.633455,-74.562821,1
+NY,3661621,place:NY:3661621,Richville village,Richville,Richville,36089,St. Lawrence County,Incorporated place,44.41507,-75.392454,1
+NY,3661665,place:NY:3661665,Ridge CDP,Ridge,Ridge,36103,Suffolk County,Census-designated place,40.903814,-72.88588,1
+NY,3661797,place:NY:3661797,Rifton CDP,Rifton,Rifton,36111,Ulster County,Census-designated place,41.829667,-74.037954,1
+NY,3661874,place:NY:3661874,Ripley CDP,Ripley,Ripley,36013,Chautauqua County,Census-designated place,42.265686,-79.712302,1
+NY,3661973,place:NY:3661973,Riverhead CDP,Riverhead,Riverhead,36103,Suffolk County,Census-designated place,40.951315,-72.676056,1
+NY,3662061,place:NY:3662061,Riverside village,Riverside,"Riverside, Steuben County",36101,Steuben County,Incorporated place,42.156032,-77.079167,1
+NY,3662066,place:NY:3662066,Riverside CDP,Riverside,"Riverside, Suffolk County",36103,Suffolk County,Census-designated place,40.905087,-72.671719,1
+NY,3663000,place:NY:3663000,Rochester city,Rochester,Rochester,36055,Monroe County,Incorporated place,43.169927,-77.616891,1
+NY,3663014,place:NY:3663014,Rochester Institute of Technology CDP,Rochester Institute of Technology,Rochester Institute of Technology,36055,Monroe County,Census-designated place,43.084746,-77.672776,1
+NY,3663132,place:NY:3663132,Rock Hill CDP,Rock Hill,Rock Hill,36105,Sullivan County,Census-designated place,41.618882,-74.589818,1
+NY,3663264,place:NY:3663264,Rockville Centre village,Rockville Centre,Rockville Centre,36059,Nassau County,Incorporated place,40.664024,-73.638048,1
+NY,3663319,place:NY:3663319,Rocky Point CDP,Rocky Point,Rocky Point,36103,Suffolk County,Census-designated place,40.939825,-72.936301,1
+NY,3663330,place:NY:3663330,Rodman CDP,Rodman,Rodman,36045,Jefferson County,Census-designated place,43.851657,-75.942085,1
+NY,3663363,place:NY:3663363,Roessleville CDP,Roessleville,Roessleville,36001,Albany County,Census-designated place,42.696899,-73.79548,1
+NY,3663418,place:NY:3663418,Rome city,Rome,Rome,36065,Oneida County,Incorporated place,43.226002,-75.489523,1
+NY,3663429,place:NY:3663429,Romulus CDP,Romulus,Romulus,36099,Seneca County,Census-designated place,42.751799,-76.835069,1
+NY,3663473,place:NY:3663473,Ronkonkoma CDP,Ronkonkoma,Ronkonkoma,36103,Suffolk County,Census-designated place,40.803529,-73.124548,1
+NY,3663506,place:NY:3663506,Roosevelt CDP,Roosevelt,Roosevelt,36059,Nassau County,Census-designated place,40.679422,-73.583372,1
+NY,3663583,place:NY:3663583,Roscoe CDP,Roscoe,Roscoe,36105,Sullivan County,Census-designated place,41.940674,-74.913062,1
+NY,3663725,place:NY:3663725,Rosendale CDP,Rosendale,Rosendale,36111,Ulster County,Census-designated place,41.850817,-74.070702,1
+NY,3663770,place:NY:3663770,Roslyn village,Roslyn,Roslyn,36059,Nassau County,Incorporated place,40.799816,-73.650424,1
+NY,3663792,place:NY:3663792,Roslyn Estates village,Roslyn Estates,Roslyn Estates,36059,Nassau County,Incorporated place,40.793672,-73.661217,1
+NY,3663803,place:NY:3663803,Roslyn Harbor village,Roslyn Harbor,Roslyn Harbor,36059,Nassau County,Incorporated place,40.811211,-73.639796,1
+NY,3663814,place:NY:3663814,Roslyn Heights CDP,Roslyn Heights,Roslyn Heights,36059,Nassau County,Census-designated place,40.778746,-73.639593,1
+NY,3663924,place:NY:3663924,Rotterdam CDP,Rotterdam,Rotterdam,36093,Schenectady County,Census-designated place,42.779353,-73.960142,1
+NY,3663957,place:NY:3663957,Round Lake village,Round Lake,Round Lake,36091,Saratoga County,Incorporated place,42.937669,-73.795669,1
+NY,3663968,place:NY:3663968,Round Top CDP,Round Top,Round Top,36039,Greene County,Census-designated place,42.260675,-74.031311,1
+NY,3663979,place:NY:3663979,Rouses Point village,Rouses Point,Rouses Point,36019,Clinton County,Incorporated place,44.991248,-73.36368,1
+NY,3664056,place:NY:3664056,Ruby CDP,Ruby,Ruby,36111,Ulster County,Census-designated place,42.009682,-74.009822,1
+NY,3664155,place:NY:3664155,Rushford CDP,Rushford,Rushford,36003,Allegany County,Census-designated place,42.389253,-78.252645,1
+NY,3664199,place:NY:3664199,Rushville village,Rushville,Rushville,36123,Yates County,Incorporated place,42.761231,-77.228012,1
+NY,3664232,place:NY:3664232,Russell Gardens village,Russell Gardens,Russell Gardens,36059,Nassau County,Incorporated place,40.780892,-73.725451,1
+NY,3664309,place:NY:3664309,Rye city,Rye,Rye,36119,Westchester County,Incorporated place,40.947097,-73.686813,1
+NY,3664325,place:NY:3664325,Rye Brook village,Rye Brook,Rye Brook,36119,Westchester County,Incorporated place,41.030003,-73.686354,1
+NY,3664408,place:NY:3664408,Sackets Harbor village,Sackets Harbor,Sackets Harbor,36045,Jefferson County,Incorporated place,43.938252,-76.112906,1
+NY,3664430,place:NY:3664430,Saddle Rock village,Saddle Rock,Saddle Rock,36059,Nassau County,Incorporated place,40.79438,-73.749278,1
+NY,3664441,place:NY:3664441,Saddle Rock Estates CDP,Saddle Rock Estates,Saddle Rock Estates,36059,Nassau County,Census-designated place,40.793949,-73.741499,1
+NY,3664485,place:NY:3664485,Sag Harbor village,Sag Harbor,Sag Harbor,36103,Suffolk County,Incorporated place,40.994274,-72.288503,1
+NY,3664452,place:NY:3664452,Sagaponack village,Sagaponack,Sagaponack,36103,Suffolk County,Incorporated place,40.930895,-72.268719,1
+NY,3664749,place:NY:3664749,Salamanca city,Salamanca,Salamanca,36009,Cattaraugus County,Incorporated place,42.163328,-78.725158,1
+NY,3664771,place:NY:3664771,Salem CDP,Salem,Salem,36115,Washington County,Census-designated place,43.172667,-73.326617,1
+NY,3664842,place:NY:3664842,Salisbury CDP,Salisbury,Salisbury,36059,Nassau County,Census-designated place,40.745822,-73.56033,1
+NY,3664848,place:NY:3664848,Salisbury Center CDP,Salisbury Center,Salisbury Center,36043,Herkimer County,Census-designated place,43.141658,-74.775851,1
+NY,3664859,place:NY:3664859,Salisbury Mills CDP,Salisbury Mills,Salisbury Mills,36071,Orange County,Census-designated place,41.432318,-74.106359,1
+NY,3664892,place:NY:3664892,Salt Point CDP,Salt Point,Salt Point,36027,Dutchess County,Census-designated place,41.807801,-73.788022,1
+NY,3664881,place:NY:3664881,Saltaire village,Saltaire,Saltaire,36103,Suffolk County,Incorporated place,40.639897,-73.195074,1
+NY,3664958,place:NY:3664958,Sanborn CDP,Sanborn,Sanborn,36063,Niagara County,Census-designated place,43.145054,-78.877748,1
+NY,3665024,place:NY:3665024,Sand Ridge CDP,Sand Ridge,Sand Ridge,36075,Oswego County,Census-designated place,43.255658,-76.229995,1
+NY,3665035,place:NY:3665035,Sands Point village,Sands Point,Sands Point,36059,Nassau County,Incorporated place,40.85343,-73.703586,1
+NY,3665068,place:NY:3665068,Sandy Creek village,Sandy Creek,Sandy Creek,36075,Oswego County,Incorporated place,43.643373,-76.086334,1
+NY,3665233,place:NY:3665233,Saranac Lake village,Saranac Lake,Saranac Lake,36033,Franklin County,Incorporated place,44.325942,-74.130929,1
+NY,3665255,place:NY:3665255,Saratoga Springs city,Saratoga Springs,Saratoga Springs,36091,Saratoga County,Incorporated place,43.067704,-73.778142,1
+NY,3665288,place:NY:3665288,Saugerties village,Saugerties,Saugerties,36111,Ulster County,Incorporated place,42.074188,-73.941853,1
+NY,3665310,place:NY:3665310,Saugerties South CDP,Saugerties South,Saugerties South,36111,Ulster County,Census-designated place,42.061783,-73.952466,1
+NY,3665332,place:NY:3665332,Savannah CDP,Savannah,Savannah,36117,Wayne County,Census-designated place,43.06671,-76.759543,1
+NY,3665354,place:NY:3665354,Savona village,Savona,Savona,36101,Steuben County,Incorporated place,42.283074,-77.22365,1
+NY,3665409,place:NY:3665409,Sayville CDP,Sayville,Sayville,36103,Suffolk County,Census-designated place,40.747588,-73.085232,1
+NY,3665431,place:NY:3665431,Scarsdale village,Scarsdale,Scarsdale,36119,Westchester County,Incorporated place,40.993614,-73.777201,1
+NY,3665475,place:NY:3665475,Schaghticoke village,Schaghticoke,Schaghticoke,36083,Rensselaer County,Incorporated place,42.901427,-73.5896,1
+NY,3665508,place:NY:3665508,Schenectady city,Schenectady,Schenectady,36093,Schenectady County,Incorporated place,42.802691,-73.92696,1
+NY,3665519,place:NY:3665519,Schenevus CDP,Schenevus,Schenevus,36077,Otsego County,Census-designated place,42.549673,-74.826932,1
+NY,3665585,place:NY:3665585,Schoharie village,Schoharie,Schoharie,36095,Schoharie County,Incorporated place,42.66663,-74.313304,1
+NY,3665640,place:NY:3665640,Schroon Lake CDP,Schroon Lake,Schroon Lake,36031,Essex County,Census-designated place,43.835063,-73.766919,1
+NY,3665739,place:NY:3665739,Schuyler Lake CDP,Schuyler Lake,Schuyler Lake,36077,Otsego County,Census-designated place,42.778647,-75.033516,1
+NY,3665750,place:NY:3665750,Schuylerville village,Schuylerville,Schuylerville,36091,Saratoga County,Incorporated place,43.100977,-73.581243,1
+NY,3665761,place:NY:3665761,Scio CDP,Scio,Scio,36003,Allegany County,Census-designated place,42.173212,-77.979508,1
+NY,3665882,place:NY:3665882,Scotchtown CDP,Scotchtown,Scotchtown,36071,Orange County,Census-designated place,41.476185,-74.365358,1
+NY,3665893,place:NY:3665893,Scotia village,Scotia,Scotia,36093,Schenectady County,Incorporated place,42.832014,-73.960402,1
+NY,3665948,place:NY:3665948,Scotts Corners CDP,Scotts Corners,Scotts Corners,36119,Westchester County,Census-designated place,41.188877,-73.556069,1
+NY,3665926,place:NY:3665926,Scottsburg CDP,Scottsburg,Scottsburg,36051,Livingston County,Census-designated place,42.663823,-77.712307,1
+NY,3665959,place:NY:3665959,Scottsville village,Scottsville,Scottsville,36055,Monroe County,Incorporated place,43.022277,-77.753378,1
+NY,3666047,place:NY:3666047,Sea Cliff village,Sea Cliff,Sea Cliff,36059,Nassau County,Incorporated place,40.846158,-73.65043,1
+NY,3666058,place:NY:3666058,Seaford CDP,Seaford,Seaford,36059,Nassau County,Census-designated place,40.66624,-73.49264,1
+NY,3666102,place:NY:3666102,Searingtown CDP,Searingtown,Searingtown,36059,Nassau County,Census-designated place,40.77047,-73.660335,1
+NY,3666212,place:NY:3666212,Selden CDP,Selden,Selden,36103,Suffolk County,Census-designated place,40.871444,-73.046615,1
+NY,3666322,place:NY:3666322,Seneca Falls CDP,Seneca Falls,Seneca Falls,36099,Seneca County,Census-designated place,42.911607,-76.797058,1
+NY,3666366,place:NY:3666366,Seneca Knolls CDP,Seneca Knolls,Seneca Knolls,36067,Onondaga County,Census-designated place,43.12009,-76.28731,1
+NY,3666465,place:NY:3666465,Setauket CDP,Setauket,Setauket,36103,Suffolk County,Census-designated place,40.956061,-73.114642,1
+NY,3666663,place:NY:3666663,Sharon Springs village,Sharon Springs,Sharon Springs,36095,Schoharie County,Incorporated place,42.793006,-74.612835,1
+NY,3666828,place:NY:3666828,Shelter Island CDP,Shelter Island,Shelter Island,36103,Suffolk County,Census-designated place,41.05532,-72.297129,1
+NY,3666850,place:NY:3666850,Shelter Island Heights CDP,Shelter Island Heights,Shelter Island Heights,36103,Suffolk County,Census-designated place,41.055391,-72.360048,1
+NY,3666872,place:NY:3666872,Shenorock CDP,Shenorock,Shenorock,36119,Westchester County,Census-designated place,41.331439,-73.740617,1
+NY,3666883,place:NY:3666883,Sherburne village,Sherburne,Sherburne,36017,Chenango County,Incorporated place,42.680648,-75.496499,1
+NY,3666949,place:NY:3666949,Sherman village,Sherman,Sherman,36013,Chautauqua County,Incorporated place,42.159234,-79.594253,1
+NY,3666993,place:NY:3666993,Sherrill city,Sherrill,Sherrill,36065,Oneida County,Incorporated place,43.070439,-75.599216,1
+NY,3667048,place:NY:3667048,Shinnecock Hills CDP,Shinnecock Hills,Shinnecock Hills,36103,Suffolk County,Census-designated place,40.888622,-72.452819,1
+NY,3667070,place:NY:3667070,Shirley CDP,Shirley,Shirley,36103,Suffolk County,Census-designated place,40.793602,-72.875911,1
+NY,3667081,place:NY:3667081,Shokan CDP,Shokan,Shokan,36111,Ulster County,Census-designated place,41.980914,-74.212962,1
+NY,3667191,place:NY:3667191,Shoreham village,Shoreham,Shoreham,36103,Suffolk County,Incorporated place,40.957097,-72.907054,1
+NY,3667207,place:NY:3667207,Shorehaven CDP,Shorehaven,Shorehaven,36027,Dutchess County,Census-designated place,41.560697,-73.664134,1
+NY,3667257,place:NY:3667257,Shortsville village,Shortsville,Shortsville,36069,Ontario County,Incorporated place,42.95566,-77.222622,1
+NY,3667279,place:NY:3667279,Shrub Oak CDP,Shrub Oak,Shrub Oak,36119,Westchester County,Census-designated place,41.327335,-73.82989,1
+NY,3667334,place:NY:3667334,Sidney village,Sidney,Sidney,36025,Delaware County,Incorporated place,42.305649,-75.403031,1
+NY,3667367,place:NY:3667367,Siena College CDP,Siena College,Siena College,36001,Albany County,Census-designated place,42.719,-73.750045,1
+NY,3667411,place:NY:3667411,Silver Creek village,Silver Creek,Silver Creek,36013,Chautauqua County,Incorporated place,42.541155,-79.168995,1
+NY,3667466,place:NY:3667466,Silver Springs village,Silver Springs,Silver Springs,36121,Wyoming County,Incorporated place,42.660089,-78.084463,1
+NY,3667488,place:NY:3667488,Sinclairville village,Sinclairville,Sinclairville,36013,Chautauqua County,Incorporated place,42.265342,-79.259038,1
+NY,3667510,place:NY:3667510,Skaneateles village,Skaneateles,Skaneateles,36067,Onondaga County,Incorporated place,42.947282,-76.428488,1
+NY,3667631,place:NY:3667631,Slaterville Springs CDP,Slaterville Springs,Slaterville Springs,36109,Tompkins County,Census-designated place,42.398497,-76.344419,1
+NY,3667638,place:NY:3667638,Sleepy Hollow village,Sleepy Hollow,Sleepy Hollow,36119,Westchester County,Incorporated place,41.097605,-73.869627,1
+NY,3667640,place:NY:3667640,Sleepy Hollow Lake CDP,Sleepy Hollow Lake,Sleepy Hollow Lake,36039,Greene County,Census-designated place,42.303597,-73.810564,1
+NY,3667686,place:NY:3667686,Sloan village,Sloan,Sloan,36029,Erie County,Incorporated place,42.892231,-78.791537,1
+NY,3667708,place:NY:3667708,Sloatsburg village,Sloatsburg,Sloatsburg,36087,Rockland County,Incorporated place,41.162046,-74.190873,1
+NY,3667730,place:NY:3667730,Smallwood CDP,Smallwood,Smallwood,36105,Sullivan County,Census-designated place,41.660317,-74.814224,1
+NY,3667851,place:NY:3667851,Smithtown CDP,Smithtown,Smithtown,36103,Suffolk County,Census-designated place,40.857482,-73.21667,1
+NY,3668088,place:NY:3668088,Smithville Flats CDP,Smithville Flats,Smithville Flats,36017,Chenango County,Census-designated place,42.394324,-75.810584,1
+NY,3668099,place:NY:3668099,Smyrna village,Smyrna,Smyrna,36017,Chenango County,Incorporated place,42.686925,-75.568689,1
+NY,3668209,place:NY:3668209,Sodus village,Sodus,Sodus,36117,Wayne County,Incorporated place,43.237102,-77.062753,1
+NY,3668242,place:NY:3668242,Sodus Point village,Sodus Point,Sodus Point,36117,Wayne County,Incorporated place,43.264885,-76.996002,1
+NY,3668286,place:NY:3668286,Solvay village,Solvay,Solvay,36067,Onondaga County,Incorporated place,43.057059,-76.212283,1
+NY,3668374,place:NY:3668374,Sound Beach CDP,Sound Beach,Sound Beach,36103,Suffolk County,Census-designated place,40.96286,-72.970764,1
+NY,3668610,place:NY:3668610,South Blooming Grove village,South Blooming Grove,South Blooming Grove,36071,Orange County,Incorporated place,41.373695,-74.16703,1
+NY,3668737,place:NY:3668737,South Cairo CDP,South Cairo,South Cairo,36039,Greene County,Census-designated place,42.268436,-73.955829,1
+NY,3668847,place:NY:3668847,South Corning village,South Corning,South Corning,36101,Steuben County,Incorporated place,42.126182,-77.03556,1
+NY,3668891,place:NY:3668891,South Dayton village,South Dayton,South Dayton,36009,Cattaraugus County,Incorporated place,42.362827,-79.050993,1
+NY,3668946,place:NY:3668946,South Edmeston CDP,South Edmeston,South Edmeston,36077,Otsego County,Census-designated place,42.685431,-75.311369,1
+NY,3668968,place:NY:3668968,South Fallsburg CDP,South Fallsburg,South Fallsburg,36105,Sullivan County,Census-designated place,41.703874,-74.632563,1
+NY,3669001,place:NY:3669001,South Farmingdale CDP,South Farmingdale,South Farmingdale,36059,Nassau County,Census-designated place,40.716886,-73.448606,1
+NY,3669023,place:NY:3669023,South Floral Park village,South Floral Park,South Floral Park,36059,Nassau County,Incorporated place,40.713507,-73.700442,1
+NY,3669078,place:NY:3669078,South Glens Falls village,South Glens Falls,South Glens Falls,36091,Saratoga County,Incorporated place,43.29441,-73.633636,1
+NY,3669188,place:NY:3669188,South Hempstead CDP,South Hempstead,South Hempstead,36059,Nassau County,Census-designated place,40.68134,-73.623334,1
+NY,3669199,place:NY:3669199,South Hill CDP,South Hill,South Hill,36109,Tompkins County,Census-designated place,42.41012,-76.491332,1
+NY,3669254,place:NY:3669254,South Huntington CDP,South Huntington,South Huntington,36103,Suffolk County,Census-designated place,40.822505,-73.392162,1
+NY,3669265,place:NY:3669265,South Ilion CDP,South Ilion,South Ilion,36043,Herkimer County,Census-designated place,42.993735,-75.055676,1
+NY,3669342,place:NY:3669342,South Lansing CDP,South Lansing,South Lansing,36109,Tompkins County,Census-designated place,42.532462,-76.496336,1
+NY,3669364,place:NY:3669364,South Lima CDP,South Lima,South Lima,36051,Livingston County,Census-designated place,42.85744,-77.676039,1
+NY,3669386,place:NY:3669386,South Lockport CDP,South Lockport,South Lockport,36063,Niagara County,Census-designated place,43.137383,-78.682773,1
+NY,3669892,place:NY:3669892,South Valley Stream CDP,South Valley Stream,South Valley Stream,36059,Nassau County,Census-designated place,40.655792,-73.718538,1
+NY,3668462,place:NY:3668462,Southampton village,Southampton,Southampton,36103,Suffolk County,Incorporated place,40.876617,-72.403089,1
+NY,3669452,place:NY:3669452,Southold CDP,Southold,Southold,36103,Suffolk County,Census-designated place,41.065368,-72.429783,1
+NY,3669606,place:NY:3669606,Southport CDP,Southport,Southport,36015,Chemung County,Census-designated place,42.064682,-76.822465,1
+NY,3670035,place:NY:3670035,Spackenkill CDP,Spackenkill,Spackenkill,36027,Dutchess County,Census-designated place,41.654297,-73.911452,1
+NY,3670068,place:NY:3670068,Sparkill CDP,Sparkill,Sparkill,36087,Rockland County,Census-designated place,41.028907,-73.933284,1
+NY,3670090,place:NY:3670090,Sparrow Bush CDP,Sparrow Bush,Sparrow Bush,36071,Orange County,Census-designated place,41.400879,-74.707933,1
+NY,3670123,place:NY:3670123,Speculator village,Speculator,Speculator,36041,Hamilton County,Incorporated place,43.576048,-74.356248,1
+NY,3670167,place:NY:3670167,Spencer village,Spencer,Spencer,36107,Tioga County,Incorporated place,42.215085,-76.494685,1
+NY,3670189,place:NY:3670189,Spencerport village,Spencerport,Spencerport,36055,Monroe County,Incorporated place,43.188142,-77.809007,1
+NY,3670420,place:NY:3670420,Spring Valley village,Spring Valley,Spring Valley,36087,Rockland County,Incorporated place,41.114567,-74.048712,1
+NY,3670321,place:NY:3670321,Springfield Center CDP,Springfield Center,Springfield Center,36077,Otsego County,Census-designated place,42.835029,-74.872142,1
+NY,3670387,place:NY:3670387,Springs CDP,Springs,Springs,36103,Suffolk County,Census-designated place,41.031702,-72.160217,1
+NY,3670442,place:NY:3670442,Springville village,Springville,Springville,36029,Erie County,Incorporated place,42.508067,-78.669361,1
+NY,3670464,place:NY:3670464,Springwater CDP,Springwater,Springwater,36051,Livingston County,Census-designated place,42.63499,-77.596423,1
+NY,3664551,place:NY:3664551,St. Bonaventure CDP,St. Bonaventure,St. Bonaventure,36009,Cattaraugus County,Census-designated place,42.079353,-78.474134,1
+NY,3664584,place:NY:3664584,St. James CDP,St. James,St. James,36103,Suffolk County,Census-designated place,40.876403,-73.152102,1
+NY,3664606,place:NY:3664606,St. John Fisher College CDP,St. John Fisher College,St. John Fisher College,36055,Monroe County,Census-designated place,43.114276,-77.510747,1
+NY,3664639,place:NY:3664639,St. Johnsville village,St. Johnsville,St. Johnsville,36057,Montgomery County,Incorporated place,43.000638,-74.67596,1
+NY,3664716,place:NY:3664716,St. Regis Falls CDP,St. Regis Falls,St. Regis Falls,36033,Franklin County,Census-designated place,44.676385,-74.530951,1
+NY,3670552,place:NY:3670552,Staatsburg CDP,Staatsburg,Staatsburg,36027,Dutchess County,Census-designated place,41.853257,-73.922231,1
+NY,3670618,place:NY:3670618,Stamford village,Stamford,Stamford,36025,Delaware County,Incorporated place,42.409103,-74.617032,1
+NY,3670717,place:NY:3670717,Stannards CDP,Stannards,Stannards,36003,Allegany County,Census-designated place,42.074123,-77.912282,1
+NY,3670849,place:NY:3670849,Star Lake CDP,Star Lake,Star Lake,36089,St. Lawrence County,Census-designated place,44.170233,-75.039574,1
+NY,3671267,place:NY:3671267,Stewart Manor village,Stewart Manor,Stewart Manor,36059,Nassau County,Incorporated place,40.720118,-73.685412,1
+NY,3671322,place:NY:3671322,Stillwater village,Stillwater,Stillwater,36091,Saratoga County,Incorporated place,42.946797,-73.639306,1
+NY,3671377,place:NY:3671377,Stittville CDP,Stittville,Stittville,36065,Oneida County,Census-designated place,43.225129,-75.288486,1
+NY,3671597,place:NY:3671597,Stone Ridge CDP,Stone Ridge,Stone Ridge,36111,Ulster County,Census-designated place,41.846722,-74.154549,1
+NY,3671608,place:NY:3671608,Stony Brook CDP,Stony Brook,Stony Brook,36103,Suffolk County,Census-designated place,40.907804,-73.127479,1
+NY,3671620,place:NY:3671620,Stony Brook University CDP,Stony Brook University,Stony Brook University,36103,Suffolk County,Census-designated place,40.909812,-73.121696,1
+NY,3671663,place:NY:3671663,Stony Point CDP,Stony Point,Stony Point,36087,Rockland County,Census-designated place,41.229379,-73.997646,1
+NY,3671718,place:NY:3671718,Stottville CDP,Stottville,Stottville,36021,Columbia County,Census-designated place,42.293705,-73.760803,1
+NY,3671817,place:NY:3671817,Strykersville CDP,Strykersville,Strykersville,36121,Wyoming County,Census-designated place,42.706312,-78.444112,1
+NY,3671894,place:NY:3671894,Suffern village,Suffern,Suffern,36087,Rockland County,Incorporated place,41.111983,-74.141382,1
+NY,3672246,place:NY:3672246,Sunset Bay CDP,Sunset Bay,Sunset Bay,36013,Chautauqua County,Census-designated place,42.56144,-79.129749,1
+NY,3672327,place:NY:3672327,SUNY Oswego CDP,SUNY Oswego,SUNY Oswego,36075,Oswego County,Census-designated place,43.456254,-76.541875,1
+NY,3672400,place:NY:3672400,Swan Lake CDP,Swan Lake,Swan Lake,36105,Sullivan County,Census-designated place,41.762375,-74.782527,1
+NY,3672521,place:NY:3672521,Sylvan Beach village,Sylvan Beach,Sylvan Beach,36065,Oneida County,Incorporated place,43.206652,-75.721431,1
+NY,3672554,place:NY:3672554,Syosset CDP,Syosset,Syosset,36059,Nassau County,Census-designated place,40.815682,-73.502025,1
+NY,3673000,place:NY:3673000,Syracuse city,Syracuse,Syracuse,36067,Onondaga County,Incorporated place,43.04126,-76.143212,1
+NY,3673057,place:NY:3673057,Taconic Shores CDP,Taconic Shores,Taconic Shores,36021,Columbia County,Census-designated place,42.116119,-73.555178,1
+NY,3673143,place:NY:3673143,Tannersville village,Tannersville,Tannersville,36039,Greene County,Incorporated place,42.193855,-74.134433,1
+NY,3673154,place:NY:3673154,Tappan CDP,Tappan,Tappan,36087,Rockland County,Census-designated place,41.025541,-73.951396,1
+NY,3673176,place:NY:3673176,Tarrytown village,Tarrytown,Tarrytown,36119,Westchester County,Incorporated place,41.065205,-73.866257,1
+NY,3673352,place:NY:3673352,Terryville CDP,Terryville,Terryville,36103,Suffolk County,Census-designated place,40.909259,-73.048662,1
+NY,3673495,place:NY:3673495,Thendara CDP,Thendara,Thendara,36043,Herkimer County,Census-designated place,43.703733,-74.995848,1
+NY,3673517,place:NY:3673517,Theresa village,Theresa,Theresa,36045,Jefferson County,Incorporated place,44.215541,-75.79594,1
+NY,3673583,place:NY:3673583,Thiells CDP,Thiells,Thiells,36087,Rockland County,Census-designated place,41.205468,-74.013562,1
+NY,3673605,place:NY:3673605,Thomaston village,Thomaston,Thomaston,36059,Nassau County,Incorporated place,40.78752,-73.715158,1
+NY,3673715,place:NY:3673715,Thornwood CDP,Thornwood,Thornwood,36119,Westchester County,Census-designated place,41.118374,-73.779477,1
+NY,3673726,place:NY:3673726,Thousand Island Park CDP,Thousand Island Park,Thousand Island Park,36045,Jefferson County,Census-designated place,44.286276,-76.025548,1
+NY,3673737,place:NY:3673737,Three Mile Bay CDP,Three Mile Bay,Three Mile Bay,36045,Jefferson County,Census-designated place,44.086103,-76.196665,1
+NY,3673880,place:NY:3673880,Ticonderoga CDP,Ticonderoga,Ticonderoga,36031,Essex County,Census-designated place,43.842344,-73.423035,1
+NY,3673902,place:NY:3673902,Tillson CDP,Tillson,Tillson,36111,Ulster County,Census-designated place,41.830766,-74.072432,1
+NY,3673990,place:NY:3673990,Tioga Terrace CDP,Tioga Terrace,Tioga Terrace,36107,Tioga County,Census-designated place,42.050714,-76.119744,1
+NY,3674017,place:NY:3674017,Titusville CDP,Titusville,Titusville,36027,Dutchess County,Census-designated place,41.665846,-73.867477,1
+NY,3674023,place:NY:3674023,Tivoli village,Tivoli,Tivoli,36027,Dutchess County,Incorporated place,42.054459,-73.917204,1
+NY,3674166,place:NY:3674166,Tonawanda city,Tonawanda,Tonawanda,36029,Erie County,Incorporated place,43.011935,-78.883443,1
+NY,3675021,place:NY:3675021,Tonawanda Town CDP,Tonawanda Town,Tonawanda Town,36029,Erie County,Census-designated place,42.985114,-78.875755,1
+NY,3675121,place:NY:3675121,Town Line CDP,Town Line,Town Line,36029,Erie County,Census-designated place,42.887821,-78.564936,1
+NY,3675341,place:NY:3675341,Tribes Hill CDP,Tribes Hill,Tribes Hill,36057,Montgomery County,Census-designated place,42.949286,-74.299,1
+NY,3675484,place:NY:3675484,Troy city,Troy,Troy,36083,Rensselaer County,Incorporated place,42.735812,-73.675321,1
+NY,3675506,place:NY:3675506,Trumansburg village,Trumansburg,Trumansburg,36109,Tompkins County,Incorporated place,42.540306,-76.663584,1
+NY,3675572,place:NY:3675572,Tuckahoe CDP,Tuckahoe,"Tuckahoe, Suffolk County",36103,Suffolk County,Census-designated place,40.903533,-72.435547,1
+NY,3675583,place:NY:3675583,Tuckahoe village,Tuckahoe,"Tuckahoe, Westchester County",36119,Westchester County,Incorporated place,40.953147,-73.822944,1
+NY,3675627,place:NY:3675627,Tully village,Tully,Tully,36067,Onondaga County,Incorporated place,42.798186,-76.110237,1
+NY,3675671,place:NY:3675671,Tupper Lake village,Tupper Lake,Tupper Lake,36033,Franklin County,Incorporated place,44.229821,-74.461853,1
+NY,3675682,place:NY:3675682,Turin village,Turin,Turin,36049,Lewis County,Incorporated place,43.629311,-75.410634,1
+NY,3675726,place:NY:3675726,Tuscarora CDP,Tuscarora,Tuscarora,36051,Livingston County,Census-designated place,42.634502,-77.869416,1
+NY,3675779,place:NY:3675779,Tuxedo village,Tuxedo,Tuxedo,36071,Orange County,Incorporated place,41.242006,-74.171688,0
+NY,3675803,place:NY:3675803,Tuxedo Park village,Tuxedo Park,Tuxedo Park,36071,Orange County,Incorporated place,41.197024,-74.210391,1
+NY,3676001,place:NY:3676001,Unadilla village,Unadilla,Unadilla,36077,Otsego County,Incorporated place,42.327416,-75.314889,1
+NY,3676023,place:NY:3676023,Unadilla Forks CDP,Unadilla Forks,Unadilla Forks,36077,Otsego County,Census-designated place,42.849625,-75.23086,1
+NY,3676155,place:NY:3676155,Union Springs village,Union Springs,Union Springs,36011,Cayuga County,Incorporated place,42.846675,-76.686139,1
+NY,3676089,place:NY:3676089,Uniondale CDP,Uniondale,Uniondale,36059,Nassau County,Census-designated place,40.717593,-73.594656,1
+NY,3676210,place:NY:3676210,Unionville village,Unionville,Unionville,36071,Orange County,Incorporated place,41.301523,-74.562178,1
+NY,3676280,place:NY:3676280,University at Buffalo CDP,University at Buffalo,University at Buffalo,36029,Erie County,Census-designated place,42.999308,-78.787566,1
+NY,3676287,place:NY:3676287,University Gardens CDP,University Gardens,University Gardens,36059,Nassau County,Census-designated place,40.775089,-73.727922,1
+NY,3676331,place:NY:3676331,Upper Brookville village,Upper Brookville,Upper Brookville,36059,Nassau County,Incorporated place,40.847499,-73.562901,1
+NY,3676386,place:NY:3676386,Upper Nyack village,Upper Nyack,Upper Nyack,36087,Rockland County,Incorporated place,41.120954,-73.91078,1
+NY,3676397,place:NY:3676397,Upper Red Hook CDP,Upper Red Hook,Upper Red Hook,36027,Dutchess County,Census-designated place,42.026142,-73.845587,1
+NY,3676540,place:NY:3676540,Utica city,Utica,Utica,36065,Oneida County,Incorporated place,43.096382,-75.225983,1
+NY,3676584,place:NY:3676584,Vails Gate CDP,Vails Gate,Vails Gate,36071,Orange County,Census-designated place,41.458923,-74.053247,1
+NY,3676617,place:NY:3676617,Valatie village,Valatie,Valatie,36021,Columbia County,Incorporated place,42.41308,-73.677759,1
+NY,3676639,place:NY:3676639,Valhalla CDP,Valhalla,Valhalla,36119,Westchester County,Census-designated place,41.077528,-73.777916,1
+NY,3676661,place:NY:3676661,Valley Cottage CDP,Valley Cottage,Valley Cottage,36087,Rockland County,Census-designated place,41.115486,-73.943534,1
+NY,3676672,place:NY:3676672,Valley Falls village,Valley Falls,Valley Falls,36083,Rensselaer County,Incorporated place,42.900565,-73.562216,1
+NY,3676705,place:NY:3676705,Valley Stream village,Valley Stream,Valley Stream,36059,Nassau County,Incorporated place,40.664747,-73.704902,1
+NY,3676881,place:NY:3676881,Van Etten CDP,Van Etten,Van Etten,36015,Chemung County,Census-designated place,42.196944,-76.553541,1
+NY,3676969,place:NY:3676969,Varna CDP,Varna,Varna,36109,Tompkins County,Census-designated place,42.452575,-76.438209,1
+NY,3676985,place:NY:3676985,Vassar College CDP,Vassar College,Vassar College,36027,Dutchess County,Census-designated place,41.687075,-73.892305,1
+NY,3677112,place:NY:3677112,Vernon village,Vernon,Vernon,36065,Oneida County,Incorporated place,43.079195,-75.538561,1
+NY,3677167,place:NY:3677167,Verona CDP,Verona,Verona,36065,Oneida County,Census-designated place,43.13675,-75.571694,1
+NY,3677211,place:NY:3677211,Verplanck CDP,Verplanck,Verplanck,36119,Westchester County,Census-designated place,41.254253,-73.961153,1
+NY,3677376,place:NY:3677376,Victor village,Victor,Victor,36069,Ontario County,Incorporated place,42.982086,-77.409829,1
+NY,3677431,place:NY:3677431,Victory village,Victory,Victory,36091,Saratoga County,Incorporated place,43.091857,-73.591758,1
+NY,3677513,place:NY:3677513,Village Green CDP,Village Green,Village Green,36067,Onondaga County,Census-designated place,43.133128,-76.313518,1
+NY,3677519,place:NY:3677519,Village of the Branch village,Village of the Branch,Village of the Branch,36103,Suffolk County,Incorporated place,40.852647,-73.182887,1
+NY,3677574,place:NY:3677574,Viola CDP,Viola,Viola,36087,Rockland County,Census-designated place,41.126112,-74.082828,1
+NY,3677585,place:NY:3677585,Virgil CDP,Virgil,Virgil,36023,Cortland County,Census-designated place,42.514147,-76.20009,1
+NY,3677684,place:NY:3677684,Voorheesville village,Voorheesville,Voorheesville,36001,Albany County,Incorporated place,42.653662,-73.934268,1
+NY,3677728,place:NY:3677728,Waddington village,Waddington,Waddington,36089,St. Lawrence County,Incorporated place,44.861324,-75.197228,1
+NY,3677772,place:NY:3677772,Wading River CDP,Wading River,Wading River,36103,Suffolk County,Census-designated place,40.953865,-72.817014,1
+NY,3677783,place:NY:3677783,Wadsworth CDP,Wadsworth,Wadsworth,36051,Livingston County,Census-designated place,42.821447,-77.893875,1
+NY,3677805,place:NY:3677805,Wainscott CDP,Wainscott,Wainscott,36103,Suffolk County,Census-designated place,40.954784,-72.255312,1
+NY,3677849,place:NY:3677849,Walden village,Walden,Walden,36071,Orange County,Incorporated place,41.559952,-74.188242,1
+NY,3677948,place:NY:3677948,Walker Valley CDP,Walker Valley,Walker Valley,36111,Ulster County,Census-designated place,41.644978,-74.372263,1
+NY,3678003,place:NY:3678003,Wallkill CDP,Wallkill,Wallkill,36111,Ulster County,Census-designated place,41.608446,-74.164625,1
+NY,3678036,place:NY:3678036,Walton village,Walton,Walton,36025,Delaware County,Incorporated place,42.169811,-75.130478,1
+NY,3678063,place:NY:3678063,Walton Park CDP,Walton Park,Walton Park,36071,Orange County,Census-designated place,41.313967,-74.225079,1
+NY,3678091,place:NY:3678091,Walworth CDP,Walworth,Walworth,36117,Wayne County,Census-designated place,43.13963,-77.279239,1
+NY,3678113,place:NY:3678113,Wampsville village,Wampsville,Wampsville,36053,Madison County,Incorporated place,43.077395,-75.711475,1
+NY,3678124,place:NY:3678124,Wanakah CDP,Wanakah,Wanakah,36029,Erie County,Census-designated place,42.743635,-78.902497,1
+NY,3678146,place:NY:3678146,Wantagh CDP,Wantagh,Wantagh,36059,Nassau County,Census-designated place,40.667859,-73.510464,1
+NY,3678168,place:NY:3678168,Wappingers Falls village,Wappingers Falls,Wappingers Falls,36027,Dutchess County,Incorporated place,41.598156,-73.916945,1
+NY,3678289,place:NY:3678289,Warrensburg CDP,Warrensburg,Warrensburg,36113,Warren County,Census-designated place,43.510915,-73.769833,1
+NY,3678333,place:NY:3678333,Warsaw village,Warsaw,Warsaw,36121,Wyoming County,Incorporated place,42.742788,-78.14079,1
+NY,3678355,place:NY:3678355,Warwick village,Warwick,Warwick,36071,Orange County,Incorporated place,41.255244,-74.354722,1
+NY,3678421,place:NY:3678421,Washington Heights CDP,Washington Heights,Washington Heights,36071,Orange County,Census-designated place,41.474373,-74.411681,1
+NY,3678454,place:NY:3678454,Washington Mills CDP,Washington Mills,Washington Mills,36065,Oneida County,Census-designated place,43.047863,-75.280984,1
+NY,3678465,place:NY:3678465,Washingtonville village,Washingtonville,Washingtonville,36071,Orange County,Incorporated place,41.428481,-74.158574,1
+NY,3678476,place:NY:3678476,Wassaic CDP,Wassaic,Wassaic,36027,Dutchess County,Census-designated place,41.806453,-73.559306,1
+NY,3678487,place:NY:3678487,Watchtower CDP,Watchtower,Watchtower,36111,Ulster County,Census-designated place,41.637028,-74.262554,1
+NY,3678575,place:NY:3678575,Water Mill CDP,Water Mill,Water Mill,36103,Suffolk County,Census-designated place,40.922393,-72.350704,1
+NY,3678520,place:NY:3678520,Waterford village,Waterford,Waterford,36091,Saratoga County,Incorporated place,42.792068,-73.678827,1
+NY,3678553,place:NY:3678553,Waterloo village,Waterloo,Waterloo,36099,Seneca County,Incorporated place,42.904586,-76.859023,1
+NY,3678608,place:NY:3678608,Watertown city,Watertown,Watertown,36045,Jefferson County,Incorporated place,43.973292,-75.910039,1
+NY,3678663,place:NY:3678663,Waterville village,Waterville,Waterville,36065,Oneida County,Incorporated place,42.930589,-75.380202,1
+NY,3678674,place:NY:3678674,Watervliet city,Watervliet,Watervliet,36001,Albany County,Incorporated place,42.724883,-73.707011,1
+NY,3678696,place:NY:3678696,Watkins Glen village,Watkins Glen,Watkins Glen,36097,Schuyler County,Incorporated place,42.380549,-76.866987,1
+NY,3678806,place:NY:3678806,Waverly village,Waverly,Waverly,36107,Tioga County,Incorporated place,42.012724,-76.540007,1
+NY,3678850,place:NY:3678850,Wayland village,Wayland,Wayland,36101,Steuben County,Incorporated place,42.562848,-77.595876,1
+NY,3678960,place:NY:3678960,Webster village,Webster,Webster,36055,Monroe County,Incorporated place,43.216387,-77.4219,1
+NY,3678982,place:NY:3678982,Websters Crossing CDP,Websters Crossing,Websters Crossing,36051,Livingston County,Census-designated place,42.666093,-77.636792,1
+NY,3679015,place:NY:3679015,Weedsport village,Weedsport,Weedsport,36011,Cayuga County,Incorporated place,43.048124,-76.563607,1
+NY,3679048,place:NY:3679048,Wells CDP,Wells,Wells,36041,Hamilton County,Census-designated place,43.387356,-74.30089,1
+NY,3679070,place:NY:3679070,Wells Bridge CDP,Wells Bridge,Wells Bridge,36077,Otsego County,Census-designated place,42.371137,-75.243221,1
+NY,3679081,place:NY:3679081,Wellsburg village,Wellsburg,Wellsburg,36015,Chemung County,Incorporated place,42.014347,-76.730076,1
+NY,3679092,place:NY:3679092,Wellsville village,Wellsville,Wellsville,36003,Allegany County,Incorporated place,42.120705,-77.94573,1
+NY,3679174,place:NY:3679174,Wesley Hills village,Wesley Hills,Wesley Hills,36087,Rockland County,Incorporated place,41.158345,-74.075481,1
+NY,3679246,place:NY:3679246,West Babylon CDP,West Babylon,West Babylon,36103,Suffolk County,Census-designated place,40.712417,-73.359727,1
+NY,3679301,place:NY:3679301,West Bay Shore CDP,West Bay Shore,West Bay Shore,36103,Suffolk County,Census-designated place,40.70167,-73.260107,1
+NY,3679499,place:NY:3679499,West Carthage village,West Carthage,West Carthage,36045,Jefferson County,Incorporated place,43.973623,-75.621561,1
+NY,3679543,place:NY:3679543,West Chazy CDP,West Chazy,West Chazy,36019,Clinton County,Census-designated place,44.817845,-73.511729,1
+NY,3679697,place:NY:3679697,West Danby CDP,West Danby,West Danby,36109,Tompkins County,Census-designated place,42.324518,-76.533405,1
+NY,3679785,place:NY:3679785,West Elmira CDP,West Elmira,West Elmira,36015,Chemung County,Census-designated place,42.087725,-76.843282,1
+NY,3679796,place:NY:3679796,West End CDP,West End,West End,36077,Otsego County,Census-designated place,42.476264,-75.092241,1
+NY,3680082,place:NY:3680082,West Glens Falls CDP,West Glens Falls,West Glens Falls,36113,Warren County,Census-designated place,43.304673,-73.695869,1
+NY,3680186,place:NY:3680186,West Hampton Dunes village,West Hampton Dunes,West Hampton Dunes,36103,Suffolk County,Incorporated place,40.776853,-72.714992,1
+NY,3680203,place:NY:3680203,West Haverstraw village,West Haverstraw,West Haverstraw,36087,Rockland County,Incorporated place,41.20553,-73.986023,1
+NY,3680225,place:NY:3680225,West Hempstead CDP,West Hempstead,West Hempstead,36059,Nassau County,Census-designated place,40.696527,-73.652004,1
+NY,3680258,place:NY:3680258,West Hills CDP,West Hills,West Hills,36103,Suffolk County,Census-designated place,40.819938,-73.433923,1
+NY,3680291,place:NY:3680291,West Hurley CDP,West Hurley,West Hurley,36111,Ulster County,Census-designated place,42.0084,-74.109377,1
+NY,3680302,place:NY:3680302,West Islip CDP,West Islip,West Islip,36103,Suffolk County,Census-designated place,40.702861,-73.295526,1
+NY,3680324,place:NY:3680324,West Kill CDP,West Kill,West Kill,36039,Greene County,Census-designated place,42.215914,-74.389937,1
+NY,3680599,place:NY:3680599,West Nyack CDP,West Nyack,West Nyack,36087,Rockland County,Census-designated place,41.09114,-73.968833,1
+NY,3680747,place:NY:3680747,West Point CDP,West Point,West Point,36071,Orange County,Census-designated place,41.360729,-74.019749,1
+NY,3680863,place:NY:3680863,West Sand Lake CDP,West Sand Lake,West Sand Lake,36083,Rensselaer County,Census-designated place,42.637705,-73.594876,1
+NY,3680885,place:NY:3680885,West Sayville CDP,West Sayville,West Sayville,36103,Suffolk County,Census-designated place,40.729739,-73.1052,1
+NY,3680907,place:NY:3680907,West Seneca CDP,West Seneca,West Seneca,36029,Erie County,Census-designated place,42.837777,-78.751233,1
+NY,3681138,place:NY:3681138,West Valley CDP,West Valley,West Valley,36009,Cattaraugus County,Census-designated place,42.402452,-78.606127,1
+NY,3681292,place:NY:3681292,West Winfield village,West Winfield,West Winfield,36043,Herkimer County,Incorporated place,42.883783,-75.191375,1
+NY,3679444,place:NY:3679444,Westbury village,Westbury,Westbury,36059,Nassau County,Incorporated place,40.75988,-73.589185,1
+NY,3679895,place:NY:3679895,Westernville CDP,Westernville,Westernville,36065,Oneida County,Census-designated place,43.305438,-75.385492,1
+NY,3679939,place:NY:3679939,Westfield village,Westfield,Westfield,36013,Chautauqua County,Incorporated place,42.321826,-79.574765,1
+NY,3679961,place:NY:3679961,Westford CDP,Westford,Westford,36077,Otsego County,Census-designated place,42.651208,-74.800457,1
+NY,3680170,place:NY:3680170,Westhampton CDP,Westhampton,Westhampton,36103,Suffolk County,Census-designated place,40.846938,-72.659836,1
+NY,3680181,place:NY:3680181,Westhampton Beach village,Westhampton Beach,Westhampton Beach,36103,Suffolk County,Incorporated place,40.806972,-72.645072,1
+NY,3680423,place:NY:3680423,Westmere CDP,Westmere,Westmere,36001,Albany County,Census-designated place,42.688229,-73.873543,1
+NY,3680522,place:NY:3680522,Westmoreland CDP,Westmoreland,Westmoreland,36065,Oneida County,Census-designated place,43.114984,-75.402596,1
+NY,3680632,place:NY:3680632,Weston Mills CDP,Weston Mills,Weston Mills,36009,Cattaraugus County,Census-designated place,42.072999,-78.373711,1
+NY,3680764,place:NY:3680764,Westport CDP,Westport,Westport,36031,Essex County,Census-designated place,44.183105,-73.432645,1
+NY,3681127,place:NY:3681127,Westvale CDP,Westvale,Westvale,36067,Onondaga County,Census-designated place,43.039939,-76.217567,1
+NY,3681419,place:NY:3681419,Wheatley Heights CDP,Wheatley Heights,Wheatley Heights,36103,Suffolk County,Census-designated place,40.762408,-73.370558,1
+NY,3681644,place:NY:3681644,White Lake CDP,White Lake,"White Lake, Oneida County",36065,Oneida County,Census-designated place,43.542757,-75.148123,1
+NY,3681655,place:NY:3681655,White Lake CDP,White Lake,"White Lake, Sullivan County",36105,Sullivan County,Census-designated place,41.680767,-74.838377,1
+NY,3681677,place:NY:3681677,White Plains city,White Plains,White Plains,36119,Westchester County,Incorporated place,41.0238,-73.751048,1
+NY,3681622,place:NY:3681622,Whitehall village,Whitehall,Whitehall,36115,Washington County,Incorporated place,43.546013,-73.433778,1
+NY,3681710,place:NY:3681710,Whitesboro village,Whitesboro,Whitesboro,36065,Oneida County,Incorporated place,43.123985,-75.296688,1
+NY,3681831,place:NY:3681831,Whitney Point village,Whitney Point,Whitney Point,36007,Broome County,Incorporated place,42.330766,-75.97228,1
+NY,3682029,place:NY:3682029,Williamson CDP,Williamson,Williamson,36117,Wayne County,Census-designated place,43.223399,-77.18444,1
+NY,3682084,place:NY:3682084,Williamsville village,Williamsville,Williamsville,36029,Erie County,Incorporated place,42.95825,-78.73952,1
+NY,3682117,place:NY:3682117,Williston Park village,Williston Park,Williston Park,36059,Nassau County,Incorporated place,40.758756,-73.646588,1
+NY,3682260,place:NY:3682260,Willsboro CDP,Willsboro,Willsboro,36031,Essex County,Census-designated place,44.363503,-73.393164,1
+NY,3682282,place:NY:3682282,Willsboro Point CDP,Willsboro Point,Willsboro Point,36031,Essex County,Census-designated place,44.420608,-73.382663,1
+NY,3682304,place:NY:3682304,Wilmington CDP,Wilmington,Wilmington,36031,Essex County,Census-designated place,44.386878,-73.817171,1
+NY,3682359,place:NY:3682359,Wilson village,Wilson,Wilson,36063,Niagara County,Incorporated place,43.314672,-78.828447,1
+NY,3682469,place:NY:3682469,Windham CDP,Windham,Windham,36039,Greene County,Census-designated place,42.314107,-74.248737,1
+NY,3682524,place:NY:3682524,Windsor village,Windsor,Windsor,36007,Broome County,Incorporated place,42.077246,-75.640515,1
+NY,3682579,place:NY:3682579,Wingdale CDP,Wingdale,Wingdale,36027,Dutchess County,Census-designated place,41.635455,-73.56994,1
+NY,3682612,place:NY:3682612,Winthrop CDP,Winthrop,Winthrop,36089,St. Lawrence County,Census-designated place,44.803639,-74.809951,1
+NY,3682656,place:NY:3682656,Witherbee CDP,Witherbee,Witherbee,36031,Essex County,Census-designated place,44.08232,-73.533842,1
+NY,3682678,place:NY:3682678,Wolcott village,Wolcott,Wolcott,36117,Wayne County,Incorporated place,43.222785,-76.812133,1
+NY,3682733,place:NY:3682733,Woodbourne CDP,Woodbourne,Woodbourne,36105,Sullivan County,Census-designated place,41.761057,-74.597721,1
+NY,3682744,place:NY:3682744,Woodbury CDP,Woodbury,"Woodbury, Nassau County",36059,Nassau County,Census-designated place,40.820212,-73.472454,1
+NY,3682750,place:NY:3682750,Woodbury village,Woodbury,"Woodbury, Orange County",36071,Orange County,Incorporated place,41.327541,-74.102111,1
+NY,3682942,place:NY:3682942,Woodmere CDP,Woodmere,Woodmere,36059,Nassau County,Census-designated place,40.637358,-73.721186,1
+NY,3682953,place:NY:3682953,Woodridge village,Woodridge,Woodridge,36105,Sullivan County,Incorporated place,41.7184,-74.579997,1
+NY,3682986,place:NY:3682986,Woodsburgh village,Woodsburgh,Woodsburgh,36059,Nassau County,Incorporated place,40.621197,-73.706215,1
+NY,3683041,place:NY:3683041,Woodstock CDP,Woodstock,Woodstock,36111,Ulster County,Census-designated place,42.043168,-74.116682,1
+NY,3683063,place:NY:3683063,Woodsville CDP,Woodsville,Woodsville,36051,Livingston County,Census-designated place,42.579024,-77.733838,1
+NY,3683118,place:NY:3683118,Worcester CDP,Worcester,Worcester,36077,Otsego County,Census-designated place,42.614122,-74.739808,1
+NY,3683272,place:NY:3683272,Wurtsboro village,Wurtsboro,Wurtsboro,36105,Sullivan County,Incorporated place,41.576093,-74.485648,1
+NY,3683283,place:NY:3683283,Wurtsboro Hills CDP,Wurtsboro Hills,Wurtsboro Hills,36105,Sullivan County,Census-designated place,41.596164,-74.510401,1
+NY,3683294,place:NY:3683294,Wyandanch CDP,Wyandanch,Wyandanch,36103,Suffolk County,Census-designated place,40.749116,-73.363518,1
+NY,3683349,place:NY:3683349,Wynantskill CDP,Wynantskill,Wynantskill,36083,Rensselaer County,Census-designated place,42.688881,-73.644722,1
+NY,3683371,place:NY:3683371,Wyoming village,Wyoming,Wyoming,36121,Wyoming County,Incorporated place,42.824021,-78.084449,1
+NY,3683426,place:NY:3683426,Yaphank CDP,Yaphank,Yaphank,36103,Suffolk County,Census-designated place,40.83101,-72.93165,1
+NY,3684000,place:NY:3684000,Yonkers city,Yonkers,Yonkers,36119,Westchester County,Incorporated place,40.945862,-73.867446,1
+NY,3684011,place:NY:3684011,York CDP,York,York,36051,Livingston County,Census-designated place,42.869559,-77.887228,1
+NY,3684044,place:NY:3684044,Yorkshire CDP,Yorkshire,Yorkshire,36009,Cattaraugus County,Census-designated place,42.523364,-78.475525,1
+NY,3684088,place:NY:3684088,Yorktown Heights CDP,Yorktown Heights,Yorktown Heights,36119,Westchester County,Census-designated place,41.270454,-73.774048,1
+NY,3684099,place:NY:3684099,Yorkville village,Yorkville,Yorkville,36065,Oneida County,Incorporated place,43.112448,-75.273964,1
+NY,3684143,place:NY:3684143,Youngstown village,Youngstown,Youngstown,36063,Niagara County,Incorporated place,43.249552,-79.042228,1
+NY,3684187,place:NY:3684187,Zena CDP,Zena,Zena,36111,Ulster County,Census-designated place,42.023421,-74.085344,1

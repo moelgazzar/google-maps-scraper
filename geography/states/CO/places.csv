@@ -1,0 +1,486 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+CO,0800320,place:CO:0800320,Acres Green CDP,Acres Green,Acres Green,08035,Douglas County,Census-designated place,39.555994,-104.89641,1
+CO,0800620,place:CO:0800620,Aetna Estates CDP,Aetna Estates,Aetna Estates,08005,Arapahoe County,Census-designated place,39.738127,-104.673221,1
+CO,0800760,place:CO:0800760,Aguilar town,Aguilar,Aguilar,08071,Las Animas County,Incorporated place,37.403626,-104.655036,1
+CO,0800870,place:CO:0800870,Air Force Academy CDP,Air Force Academy,Air Force Academy,08041,El Paso County,Census-designated place,38.994185,-104.863922,1
+CO,0800925,place:CO:0800925,Akron town,Akron,Akron,08121,Washington County,Incorporated place,40.163466,-103.220274,1
+CO,0801090,place:CO:0801090,Alamosa city,Alamosa,Alamosa,08003,Alamosa County,Incorporated place,37.474528,-105.876956,1
+CO,0801145,place:CO:0801145,Alamosa East CDP,Alamosa East,Alamosa East,08003,Alamosa County,Census-designated place,37.476654,-105.839746,1
+CO,0801420,place:CO:0801420,Allenspark CDP,Allenspark,Allenspark,08013,Boulder County,Census-designated place,40.231281,-105.517986,1
+CO,0801530,place:CO:0801530,Alma town,Alma,Alma,08093,Park County,Incorporated place,39.286084,-106.068987,1
+CO,0801640,place:CO:0801640,Alpine CDP,Alpine,Alpine,08105,Rio Grande County,Census-designated place,37.687805,-106.586097,1
+CO,0801740,place:CO:0801740,Altona CDP,Altona,Altona,08013,Boulder County,Census-designated place,40.121929,-105.296167,1
+CO,0801915,place:CO:0801915,Amherst CDP,Amherst,Amherst,08095,Phillips County,Census-designated place,40.683161,-102.172596,1
+CO,0802355,place:CO:0802355,Antonito town,Antonito,Antonito,08021,Conejos County,Incorporated place,37.076246,-106.010332,1
+CO,0802575,place:CO:0802575,Applewood CDP,Applewood,Applewood,08059,Jefferson County,Census-designated place,39.747481,-105.172965,1
+CO,0802850,place:CO:0802850,Arapahoe CDP,Arapahoe,Arapahoe,08017,Cheyenne County,Census-designated place,38.852919,-102.178897,1
+CO,0802905,place:CO:0802905,Arboles CDP,Arboles,Arboles,08007,Archuleta County,Census-designated place,37.020861,-107.421744,1
+CO,0803015,place:CO:0803015,Aristocrat Ranchettes CDP,Aristocrat Ranchettes,Aristocrat Ranchettes,08123,Weld County,Census-designated place,40.108496,-104.760575,1
+CO,0803235,place:CO:0803235,Arriba town,Arriba,Arriba,08073,Lincoln County,Incorporated place,39.284326,-103.274032,1
+CO,0803455,place:CO:0803455,Arvada city,Arvada,Arvada,08059,Jefferson County,Incorporated place,39.833767,-105.15027,1
+CO,0803620,place:CO:0803620,Aspen city,Aspen,Aspen,08097,Pitkin County,Incorporated place,39.195154,-106.836807,1
+CO,0803730,place:CO:0803730,Aspen Park CDP,Aspen Park,Aspen Park,08059,Jefferson County,Census-designated place,39.542654,-105.296307,1
+CO,0803840,place:CO:0803840,Atwood CDP,Atwood,Atwood,08075,Logan County,Census-designated place,40.550485,-103.274631,1
+CO,0803950,place:CO:0803950,Ault town,Ault,Ault,08123,Weld County,Incorporated place,40.589208,-104.73943,1
+CO,0804000,place:CO:0804000,Aurora city,Aurora,Aurora,08005,Arapahoe County,Incorporated place,39.688296,-104.6894,1
+CO,0804110,place:CO:0804110,Avon town,Avon,Avon,08037,Eagle County,Incorporated place,39.641891,-106.51581,1
+CO,0804165,place:CO:0804165,Avondale CDP,Avondale,Avondale,08101,Pueblo County,Census-designated place,38.235183,-104.348232,1
+CO,0804620,place:CO:0804620,Bar-K Ranch CDP,Bar-K Ranch,Bar-K Ranch,08013,Boulder County,Census-designated place,40.117803,-105.440718,1
+CO,0804935,place:CO:0804935,Basalt town,Basalt,Basalt,08037,Eagle County,Incorporated place,39.368585,-107.04876,1
+CO,0805120,place:CO:0805120,Battlement Mesa CDP,Battlement Mesa,Battlement Mesa,08045,Garfield County,Census-designated place,39.452767,-108.00394,1
+CO,0805265,place:CO:0805265,Bayfield town,Bayfield,Bayfield,08067,La Plata County,Incorporated place,37.234615,-107.593744,1
+CO,0806090,place:CO:0806090,Bennett town,Bennett,Bennett,08001,Adams County,Incorporated place,39.742,-104.428707,1
+CO,0806172,place:CO:0806172,Berkley CDP,Berkley,Berkley,08001,Adams County,Census-designated place,39.806595,-105.028775,1
+CO,0806255,place:CO:0806255,Berthoud town,Berthoud,Berthoud,08123,Weld County,Incorporated place,40.289838,-104.966988,1
+CO,0806530,place:CO:0806530,Bethune town,Bethune,Bethune,08063,Kit Carson County,Incorporated place,39.303822,-102.423414,1
+CO,0806602,place:CO:0806602,Beulah Valley CDP,Beulah Valley,Beulah Valley,08101,Pueblo County,Census-designated place,38.07271,-104.9817,1
+CO,0806970,place:CO:0806970,Black Forest CDP,Black Forest,Black Forest,08041,El Paso County,Census-designated place,39.063648,-104.679613,1
+CO,0807025,place:CO:0807025,Black Hawk city,Black Hawk,Black Hawk,08047,Gilpin County,Incorporated place,39.801649,-105.493494,1
+CO,0807190,place:CO:0807190,Blanca town,Blanca,Blanca,08023,Costilla County,Incorporated place,37.439268,-105.513544,1
+CO,0807245,place:CO:0807245,Blende CDP,Blende,Blende,08101,Pueblo County,Census-designated place,38.249634,-104.569018,1
+CO,0807410,place:CO:0807410,Blue River town,Blue River,Blue River,08117,Summit County,Incorporated place,39.448913,-106.036642,1
+CO,0807420,place:CO:0807420,Blue Sky CDP,Blue Sky,Blue Sky,08087,Morgan County,Census-designated place,40.300094,-103.805528,1
+CO,0807455,place:CO:0807455,Blue Valley CDP,Blue Valley,Blue Valley,08019,Clear Creek County,Census-designated place,39.699687,-105.492107,1
+CO,0807571,place:CO:0807571,Bonanza town,Bonanza,Bonanza,08109,Saguache County,Incorporated place,38.296617,-106.141869,1
+CO,0807580,place:CO:0807580,Bonanza Mountain Estates CDP,Bonanza Mountain Estates,Bonanza Mountain Estates,08013,Boulder County,Census-designated place,39.97689,-105.479577,1
+CO,0807795,place:CO:0807795,Boone town,Boone,Boone,08101,Pueblo County,Incorporated place,38.250611,-104.260948,1
+CO,0807850,place:CO:0807850,Boulder city,Boulder,Boulder,08013,Boulder County,Incorporated place,40.024431,-105.251251,1
+CO,0808070,place:CO:0808070,Bow Mar town,Bow Mar,Bow Mar,08005,Arapahoe County,Incorporated place,39.626594,-105.050914,1
+CO,0808290,place:CO:0808290,Brandon CDP,Brandon,Brandon,08061,Kiowa County,Census-designated place,38.4464,-102.441155,1
+CO,0808345,place:CO:0808345,Branson town,Branson,Branson,08071,Las Animas County,Incorporated place,37.015493,-103.883777,1
+CO,0808400,place:CO:0808400,Breckenridge town,Breckenridge,Breckenridge,08117,Summit County,Incorporated place,39.49948,-106.043247,1
+CO,0808530,place:CO:0808530,Brick Center CDP,Brick Center,Brick Center,08005,Arapahoe County,Census-designated place,39.591241,-104.460806,1
+CO,0808620,place:CO:0808620,Briggsdale CDP,Briggsdale,Briggsdale,08123,Weld County,Census-designated place,40.636005,-104.324272,1
+CO,0808675,place:CO:0808675,Brighton city,Brighton,Brighton,08001,Adams County,Incorporated place,39.965676,-104.794056,1
+CO,0808950,place:CO:0808950,Brook Forest CDP,Brook Forest,Brook Forest,08059,Jefferson County,Census-designated place,39.573879,-105.394396,1
+CO,0809115,place:CO:0809115,Brookside town,Brookside,Brookside,08043,Fremont County,Incorporated place,38.413495,-105.190945,1
+CO,0809280,place:CO:0809280,Broomfield city,Broomfield,Broomfield,08014,Broomfield County,Incorporated place,39.953877,-105.050898,1
+CO,0809555,place:CO:0809555,Brush city,Brush,Brush,08087,Morgan County,Incorporated place,40.259209,-103.636283,1
+CO,0810105,place:CO:0810105,Buena Vista town,Buena Vista,Buena Vista,08015,Chaffee County,Incorporated place,38.829903,-106.140729,1
+CO,0810600,place:CO:0810600,Burlington city,Burlington,Burlington,08063,Kit Carson County,Incorporated place,39.304088,-102.271418,1
+CO,0810985,place:CO:0810985,Byers CDP,Byers,Byers,08005,Arapahoe County,Census-designated place,39.709435,-104.212848,1
+CO,0811260,place:CO:0811260,Calhan town,Calhan,Calhan,08041,El Paso County,Incorporated place,39.034031,-104.30021,1
+CO,0811645,place:CO:0811645,Campo town,Campo,Campo,08009,Baca County,Incorporated place,37.104711,-102.578798,1
+CO,0811975,place:CO:0811975,Capulin CDP,Capulin,Capulin,08021,Conejos County,Census-designated place,37.281886,-106.104946,1
+CO,0812030,place:CO:0812030,Carbonate town,Carbonate,Carbonate,08045,Garfield County,Incorporated place,39.746462,-107.340127,1
+CO,0812045,place:CO:0812045,Carbondale town,Carbondale,Carbondale,08045,Garfield County,Incorporated place,39.395559,-107.21502,1
+CO,0812325,place:CO:0812325,Cascade-Chipita Park CDP,Cascade-Chipita Park,Cascade-Chipita Park,08041,El Paso County,Census-designated place,38.943488,-104.99518,1
+CO,0812387,place:CO:0812387,Castle Pines city,Castle Pines,Castle Pines,08035,Douglas County,Incorporated place,39.462495,-104.870583,1
+CO,0812393,place:CO:0812393,Castle Pines Village CDP,Castle Pines Village,Castle Pines Village,08035,Douglas County,Census-designated place,39.441799,-104.897037,1
+CO,0812415,place:CO:0812415,Castle Rock town,Castle Rock,Castle Rock,08035,Douglas County,Incorporated place,39.376601,-104.850374,1
+CO,0812450,place:CO:0812450,Cathedral CDP,Cathedral,Cathedral,08053,Hinsdale County,Census-designated place,38.083629,-107.030681,1
+CO,0812460,place:CO:0812460,Catherine CDP,Catherine,Catherine,08045,Garfield County,Census-designated place,39.403756,-107.144959,1
+CO,0812470,place:CO:0812470,Cattle Creek CDP,Cattle Creek,Cattle Creek,08045,Garfield County,Census-designated place,39.466634,-107.259917,1
+CO,0811810,place:CO:0811810,Cañon City city,Cañon City,Cañon City,08043,Fremont County,Incorporated place,38.441886,-105.220899,1
+CO,0812635,place:CO:0812635,Cedaredge town,Cedaredge,Cedaredge,08029,Delta County,Incorporated place,38.894097,-107.925485,1
+CO,0812815,place:CO:0812815,Centennial city,Centennial,Centennial,08005,Arapahoe County,Incorporated place,39.590594,-104.863519,1
+CO,0812855,place:CO:0812855,Center town,Center,Center,08109,Saguache County,Incorporated place,37.752299,-106.110364,1
+CO,0812900,place:CO:0812900,Central city,Central,Central,08047,Gilpin County,Incorporated place,39.79538,-105.508982,0
+CO,0812945,place:CO:0812945,Chacra CDP,Chacra,Chacra,08045,Garfield County,Census-designated place,39.578397,-107.454907,1
+CO,0813460,place:CO:0813460,Cheraw town,Cheraw,Cheraw,08089,Otero County,Incorporated place,38.10766,-103.511022,1
+CO,0813590,place:CO:0813590,Cherry Creek CDP,Cherry Creek,Cherry Creek,08005,Arapahoe County,Census-designated place,39.609475,-104.864475,1
+CO,0813845,place:CO:0813845,Cherry Hills Village city,Cherry Hills Village,Cherry Hills Village,08005,Arapahoe County,Incorporated place,39.637418,-104.94747,1
+CO,0814175,place:CO:0814175,Cheyenne Wells town,Cheyenne Wells,Cheyenne Wells,08017,Cheyenne County,Incorporated place,38.819202,-102.35203,1
+CO,0814587,place:CO:0814587,Cimarron Hills CDP,Cimarron Hills,Cimarron Hills,08041,El Paso County,Census-designated place,38.858477,-104.70018,1
+CO,0814765,place:CO:0814765,City of Creede town,City of Creede,City of Creede,08079,Mineral County,Incorporated place,37.848597,-106.925146,1
+CO,0815165,place:CO:0815165,Clifton CDP,Clifton,Clifton,08077,Mesa County,Census-designated place,39.07599,-108.460775,1
+CO,0815302,place:CO:0815302,Coal Creek CDP,Coal Creek,"Coal Creek, Jefferson County",08059,Jefferson County,Census-designated place,39.904693,-105.372136,1
+CO,0815330,place:CO:0815330,Coal Creek town,Coal Creek,"Coal Creek, Fremont County",08043,Fremont County,Incorporated place,38.362171,-105.142199,1
+CO,0815440,place:CO:0815440,Coaldale CDP,Coaldale,Coaldale,08043,Fremont County,Census-designated place,38.355736,-105.813087,1
+CO,0815550,place:CO:0815550,Cokedale town,Cokedale,Cokedale,08071,Las Animas County,Incorporated place,37.144223,-104.62159,1
+CO,0815605,place:CO:0815605,Collbran town,Collbran,Collbran,08077,Mesa County,Incorporated place,39.240009,-107.963517,1
+CO,0815825,place:CO:0815825,Colona CDP,Colona,Colona,08091,Ouray County,Census-designated place,38.32751,-107.779306,1
+CO,0815935,place:CO:0815935,Colorado City CDP,Colorado City,Colorado City,08101,Pueblo County,Census-designated place,37.939379,-104.843082,1
+CO,0816000,place:CO:0816000,Colorado Springs city,Colorado Springs,Colorado Springs,08041,El Paso County,Incorporated place,38.867255,-104.760749,1
+CO,0816110,place:CO:0816110,Columbine CDP,Columbine,Columbine,08059,Jefferson County,Census-designated place,39.588586,-105.06918,1
+CO,0816385,place:CO:0816385,Columbine Valley town,Columbine Valley,Columbine Valley,08005,Arapahoe County,Incorporated place,39.593666,-105.036329,1
+CO,0816465,place:CO:0816465,Comanche Creek CDP,Comanche Creek,Comanche Creek,08005,Arapahoe County,Census-designated place,39.606144,-104.335836,1
+CO,0816495,place:CO:0816495,Commerce City city,Commerce City,Commerce City,08001,Adams County,Incorporated place,39.882792,-104.794908,1
+CO,0816715,place:CO:0816715,Conejos CDP,Conejos,Conejos,08021,Conejos County,Census-designated place,37.087257,-106.015993,1
+CO,0817100,place:CO:0817100,Cope CDP,Cope,Cope,08121,Washington County,Census-designated place,39.664217,-102.845127,1
+CO,0817150,place:CO:0817150,Copper Mountain CDP,Copper Mountain,Copper Mountain,08117,Summit County,Census-designated place,39.476895,-106.201113,1
+CO,0817375,place:CO:0817375,Cortez city,Cortez,Cortez,08083,Montezuma County,Incorporated place,37.349795,-108.5761,1
+CO,0817485,place:CO:0817485,Cotopaxi CDP,Cotopaxi,Cotopaxi,08043,Fremont County,Census-designated place,38.372806,-105.68552,1
+CO,0817760,place:CO:0817760,Craig city,Craig,Craig,08081,Moffat County,Incorporated place,40.51706,-107.555396,1
+CO,0817925,place:CO:0817925,Crawford town,Crawford,Crawford,08029,Delta County,Incorporated place,38.705044,-107.609596,1
+CO,0818310,place:CO:0818310,Crested Butte town,Crested Butte,Crested Butte,08051,Gunnison County,Incorporated place,38.86779,-106.977261,1
+CO,0818420,place:CO:0818420,Crestone town,Crestone,Crestone,08109,Saguache County,Incorporated place,37.994529,-105.696206,1
+CO,0818530,place:CO:0818530,Cripple Creek city,Cripple Creek,Cripple Creek,08119,Teller County,Incorporated place,38.746582,-105.184981,1
+CO,0818585,place:CO:0818585,Crisman CDP,Crisman,Crisman,08013,Boulder County,Census-designated place,40.043382,-105.372398,1
+CO,0818640,place:CO:0818640,Crook town,Crook,Crook,08075,Logan County,Incorporated place,40.858782,-102.80138,1
+CO,0818750,place:CO:0818750,Crowley town,Crowley,Crowley,08025,Crowley County,Incorporated place,38.193506,-103.859744,1
+CO,0818860,place:CO:0818860,Cuchara CDP,Cuchara,Cuchara,08055,Huerfano County,Census-designated place,37.362731,-105.104996,0
+CO,0819080,place:CO:0819080,Dacono city,Dacono,Dacono,08123,Weld County,Incorporated place,40.064475,-104.950002,1
+CO,0819150,place:CO:0819150,Dakota Ridge CDP,Dakota Ridge,Dakota Ridge,08059,Jefferson County,Census-designated place,39.619588,-105.13265,1
+CO,0819355,place:CO:0819355,De Beque town,De Beque,De Beque,08077,Mesa County,Incorporated place,39.309989,-108.204999,1
+CO,0819630,place:CO:0819630,Deer Trail town,Deer Trail,Deer Trail,08005,Arapahoe County,Incorporated place,39.617,-104.043851,1
+CO,0819795,place:CO:0819795,Del Norte town,Del Norte,Del Norte,08105,Rio Grande County,Incorporated place,37.677975,-106.353018,1
+CO,0819850,place:CO:0819850,Delta city,Delta,Delta,08029,Delta County,Incorporated place,38.757379,-108.087989,1
+CO,0820000,place:CO:0820000,Denver city,Denver,Denver,08031,Denver County,Incorporated place,39.76185,-104.881105,1
+CO,0820275,place:CO:0820275,Derby CDP,Derby,Derby,08001,Adams County,Census-designated place,39.840791,-104.916254,1
+CO,0820440,place:CO:0820440,Dillon town,Dillon,Dillon,08117,Summit County,Incorporated place,39.62777,-106.044212,1
+CO,0820495,place:CO:0820495,Dinosaur town,Dinosaur,Dinosaur,08081,Moffat County,Incorporated place,40.239861,-109.006795,1
+CO,0820605,place:CO:0820605,Divide CDP,Divide,Divide,08119,Teller County,Census-designated place,38.945006,-105.161949,1
+CO,0820770,place:CO:0820770,Dolores town,Dolores,Dolores,08083,Montezuma County,Incorporated place,37.474584,-108.499503,1
+CO,0821155,place:CO:0821155,Dotsero CDP,Dotsero,Dotsero,08037,Eagle County,Census-designated place,39.647594,-107.049856,1
+CO,0821265,place:CO:0821265,Dove Creek town,Dove Creek,Dove Creek,08033,Dolores County,Incorporated place,37.766842,-108.907173,1
+CO,0821330,place:CO:0821330,Dove Valley CDP,Dove Valley,Dove Valley,08005,Arapahoe County,Census-designated place,39.574942,-104.832407,1
+CO,0821390,place:CO:0821390,Downieville-Lawson-Dumont CDP,Downieville-Lawson-Dumont,Downieville-Lawson-Dumont,08019,Clear Creek County,Census-designated place,39.76839,-105.606398,1
+CO,0822035,place:CO:0822035,Durango city,Durango,Durango,08067,La Plata County,Incorporated place,37.264534,-107.874124,1
+CO,0822145,place:CO:0822145,Eads town,Eads,Eads,08061,Kiowa County,Incorporated place,38.481648,-102.779823,1
+CO,0822200,place:CO:0822200,Eagle town,Eagle,Eagle,08037,Eagle County,Incorporated place,39.64322,-106.821344,1
+CO,0822575,place:CO:0822575,East Pleasant View CDP,East Pleasant View,East Pleasant View,08059,Jefferson County,Census-designated place,39.727878,-105.156541,1
+CO,0822860,place:CO:0822860,Eaton town,Eaton,Eaton,08123,Weld County,Incorporated place,40.525685,-104.712987,1
+CO,0822882,place:CO:0822882,Echo Hills CDP,Echo Hills,Echo Hills,08019,Clear Creek County,Census-designated place,39.674738,-105.413419,1
+CO,0823025,place:CO:0823025,Eckley town,Eckley,Eckley,08125,Yuma County,Incorporated place,40.112405,-102.488291,1
+CO,0823135,place:CO:0823135,Edgewater city,Edgewater,Edgewater,08059,Jefferson County,Incorporated place,39.75085,-105.06262,1
+CO,0823300,place:CO:0823300,Edwards CDP,Edwards,Edwards,08037,Eagle County,Census-designated place,39.611824,-106.619702,1
+CO,0823795,place:CO:0823795,El Jebel CDP,El Jebel,El Jebel,08037,Eagle County,Census-designated place,39.406783,-107.093961,1
+CO,0824290,place:CO:0824290,El Moro CDP,El Moro,El Moro,08071,Las Animas County,Census-designated place,37.246633,-104.453111,1
+CO,0823520,place:CO:0823520,Elbert CDP,Elbert,Elbert,08039,Elbert County,Census-designated place,39.21938,-104.539699,1
+CO,0823575,place:CO:0823575,Eldora CDP,Eldora,Eldora,08013,Boulder County,Census-designated place,39.958253,-105.58498,1
+CO,0823630,place:CO:0823630,Eldorado Springs CDP,Eldorado Springs,Eldorado Springs,08013,Boulder County,Census-designated place,39.939266,-105.249081,1
+CO,0823740,place:CO:0823740,Elizabeth town,Elizabeth,Elizabeth,08039,Elbert County,Incorporated place,39.35966,-104.608525,1
+CO,0824235,place:CO:0824235,Ellicott CDP,Ellicott,Ellicott,08041,El Paso County,Census-designated place,38.825585,-104.382873,1
+CO,0824620,place:CO:0824620,Empire town,Empire,Empire,08019,Clear Creek County,Incorporated place,39.75944,-105.681677,1
+CO,0824785,place:CO:0824785,Englewood city,Englewood,Englewood,08005,Arapahoe County,Incorporated place,39.646979,-104.994465,1
+CO,0824950,place:CO:0824950,Erie town,Erie,Erie,08123,Weld County,Incorporated place,40.040287,-105.03831,1
+CO,0825115,place:CO:0825115,Estes Park town,Estes Park,Estes Park,08069,Larimer County,Incorporated place,40.368908,-105.531213,1
+CO,0825280,place:CO:0825280,Evans city,Evans,Evans,08123,Weld County,Incorporated place,40.350165,-104.748355,1
+CO,0825390,place:CO:0825390,Evergreen CDP,Evergreen,Evergreen,08059,Jefferson County,Census-designated place,39.635607,-105.338089,1
+CO,0825550,place:CO:0825550,Fairmount CDP,Fairmount,Fairmount,08059,Jefferson County,Census-designated place,39.792569,-105.171157,1
+CO,0825610,place:CO:0825610,Fairplay town,Fairplay,Fairplay,08093,Park County,Incorporated place,39.224332,-105.998396,1
+CO,0826270,place:CO:0826270,Federal Heights city,Federal Heights,Federal Heights,08001,Adams County,Incorporated place,39.864973,-105.01534,1
+CO,0826600,place:CO:0826600,Firestone town,Firestone,Firestone,08123,Weld County,Incorporated place,40.154737,-104.947583,1
+CO,0826765,place:CO:0826765,Flagler town,Flagler,Flagler,08063,Kit Carson County,Incorporated place,39.296609,-103.064642,1
+CO,0826875,place:CO:0826875,Fleming town,Fleming,Fleming,08075,Logan County,Incorporated place,40.682075,-102.839631,1
+CO,0827040,place:CO:0827040,Florence city,Florence,Florence,08043,Fremont County,Incorporated place,38.379615,-105.10023,1
+CO,0827095,place:CO:0827095,Florissant CDP,Florissant,Florissant,08119,Teller County,Census-designated place,38.944557,-105.28987,1
+CO,0827175,place:CO:0827175,Floyd Hill CDP,Floyd Hill,Floyd Hill,08019,Clear Creek County,Census-designated place,39.719713,-105.434904,1
+CO,0827370,place:CO:0827370,Fort Carson CDP,Fort Carson,Fort Carson,08041,El Paso County,Census-designated place,38.687419,-104.748932,1
+CO,0827425,place:CO:0827425,Fort Collins city,Fort Collins,Fort Collins,08069,Larimer County,Incorporated place,40.548405,-105.064988,1
+CO,0827535,place:CO:0827535,Fort Garland CDP,Fort Garland,Fort Garland,08023,Costilla County,Census-designated place,37.427916,-105.435008,1
+CO,0827700,place:CO:0827700,Fort Lupton city,Fort Lupton,Fort Lupton,08123,Weld County,Incorporated place,40.083545,-104.803367,1
+CO,0827810,place:CO:0827810,Fort Morgan city,Fort Morgan,Fort Morgan,08087,Morgan County,Incorporated place,40.251591,-103.783201,1
+CO,0827865,place:CO:0827865,Fountain city,Fountain,Fountain,08041,El Paso County,Incorporated place,38.689379,-104.680518,1
+CO,0827950,place:CO:0827950,Four Square Mile CDP,Four Square Mile,Four Square Mile,08005,Arapahoe County,Census-designated place,39.680723,-104.887924,1
+CO,0827975,place:CO:0827975,Fowler town,Fowler,Fowler,08089,Otero County,Incorporated place,38.130619,-104.026096,1
+CO,0828105,place:CO:0828105,Foxfield town,Foxfield,Foxfield,08005,Arapahoe County,Incorporated place,39.58814,-104.785741,1
+CO,0828250,place:CO:0828250,Franktown CDP,Franktown,Franktown,08035,Douglas County,Census-designated place,39.390338,-104.741913,1
+CO,0828305,place:CO:0828305,Fraser town,Fraser,Fraser,08049,Grand County,Incorporated place,39.921693,-105.809584,1
+CO,0828360,place:CO:0828360,Frederick town,Frederick,Frederick,08123,Weld County,Incorporated place,40.105907,-104.974497,1
+CO,0828690,place:CO:0828690,Frisco town,Frisco,Frisco,08117,Summit County,Incorporated place,39.578482,-106.090973,1
+CO,0828745,place:CO:0828745,Fruita city,Fruita,Fruita,08077,Mesa County,Incorporated place,39.155567,-108.729584,1
+CO,0828800,place:CO:0828800,Fruitvale CDP,Fruitvale,Fruitvale,08077,Mesa County,Census-designated place,39.093413,-108.478823,1
+CO,0828830,place:CO:0828830,Fulford CDP,Fulford,Fulford,08037,Eagle County,Census-designated place,39.518492,-106.65874,1
+CO,0829185,place:CO:0829185,Garden City town,Garden City,Garden City,08123,Weld County,Incorporated place,40.394591,-104.689494,1
+CO,0829240,place:CO:0829240,Gardner CDP,Gardner,Gardner,08055,Huerfano County,Census-designated place,37.788866,-105.164458,1
+CO,0829295,place:CO:0829295,Garfield CDP,Garfield,Garfield,08015,Chaffee County,Census-designated place,38.549268,-106.289276,1
+CO,0829625,place:CO:0829625,Genesee CDP,Genesee,Genesee,08059,Jefferson County,Census-designated place,39.687901,-105.271205,1
+CO,0829680,place:CO:0829680,Genoa town,Genoa,Genoa,08073,Lincoln County,Incorporated place,39.278218,-103.498717,1
+CO,0829735,place:CO:0829735,Georgetown town,Georgetown,Georgetown,08019,Clear Creek County,Incorporated place,39.717886,-105.694488,1
+CO,0829845,place:CO:0829845,Gerrard CDP,Gerrard,Gerrard,08105,Rio Grande County,Census-designated place,37.678349,-106.575247,1
+CO,0829955,place:CO:0829955,Gilcrest town,Gilcrest,Gilcrest,08123,Weld County,Incorporated place,40.284156,-104.782024,1
+CO,0830340,place:CO:0830340,Glendale city,Glendale,"Glendale, Arapahoe County",08005,Arapahoe County,Incorporated place,39.703052,-104.936157,1
+CO,0830350,place:CO:0830350,Glendale CDP,Glendale,"Glendale, Boulder County",08013,Boulder County,Census-designated place,40.086911,-105.371546,1
+CO,0830420,place:CO:0830420,Gleneagle CDP,Gleneagle,Gleneagle,08041,El Paso County,Census-designated place,39.03987,-104.825351,1
+CO,0830780,place:CO:0830780,Glenwood Springs city,Glenwood Springs,Glenwood Springs,08045,Garfield County,Incorporated place,39.546396,-107.343287,1
+CO,0830945,place:CO:0830945,Gold Hill CDP,Gold Hill,Gold Hill,08013,Boulder County,Census-designated place,40.059739,-105.418919,1
+CO,0830835,place:CO:0830835,Golden city,Golden,Golden,08059,Jefferson County,Incorporated place,39.742483,-105.210561,1
+CO,0830890,place:CO:0830890,Goldfield CDP,Goldfield,Goldfield,08119,Teller County,Census-designated place,38.717645,-105.125328,1
+CO,0831550,place:CO:0831550,Granada town,Granada,Granada,08099,Prowers County,Incorporated place,38.062973,-102.311591,1
+CO,0831605,place:CO:0831605,Granby town,Granby,Granby,08049,Grand County,Incorporated place,40.064803,-105.919386,1
+CO,0831660,place:CO:0831660,Grand Junction city,Grand Junction,Grand Junction,08077,Mesa County,Incorporated place,39.089062,-108.567452,1
+CO,0831715,place:CO:0831715,Grand Lake town,Grand Lake,Grand Lake,08049,Grand County,Incorporated place,40.246542,-105.826435,1
+CO,0831935,place:CO:0831935,Grand View Estates CDP,Grand View Estates,Grand View Estates,08035,Douglas County,Census-designated place,39.542958,-104.822634,1
+CO,0832155,place:CO:0832155,Greeley city,Greeley,Greeley,08123,Weld County,Incorporated place,40.417205,-104.772887,1
+CO,0832650,place:CO:0832650,Green Mountain Falls town,Green Mountain Falls,Green Mountain Falls,08041,El Paso County,Incorporated place,38.934954,-105.019664,1
+CO,0833035,place:CO:0833035,Greenwood Village city,Greenwood Village,Greenwood Village,08005,Arapahoe County,Incorporated place,39.615934,-104.911688,1
+CO,0833310,place:CO:0833310,Grover town,Grover,Grover,08123,Weld County,Incorporated place,40.869111,-104.225932,1
+CO,0833420,place:CO:0833420,Guffey CDP,Guffey,Guffey,08093,Park County,Census-designated place,38.760651,-105.509821,1
+CO,0833502,place:CO:0833502,Gunbarrel CDP,Gunbarrel,Gunbarrel,08013,Boulder County,Census-designated place,40.063749,-105.171486,1
+CO,0833640,place:CO:0833640,Gunnison city,Gunnison,Gunnison,08051,Gunnison County,Incorporated place,38.547978,-106.924604,1
+CO,0833695,place:CO:0833695,Gypsum town,Gypsum,Gypsum,08037,Eagle County,Incorporated place,39.620164,-106.956357,1
+CO,0834520,place:CO:0834520,Hartman town,Hartman,Hartman,08099,Prowers County,Incorporated place,38.121128,-102.221608,1
+CO,0834630,place:CO:0834630,Hartsel CDP,Hartsel,Hartsel,08093,Park County,Census-designated place,39.02263,-105.80057,1
+CO,0834685,place:CO:0834685,Hasty CDP,Hasty,Hasty,08011,Bent County,Census-designated place,38.102305,-102.969681,1
+CO,0834740,place:CO:0834740,Haswell town,Haswell,Haswell,08061,Kiowa County,Incorporated place,38.452492,-103.16498,1
+CO,0834960,place:CO:0834960,Haxtun town,Haxtun,Haxtun,08095,Phillips County,Incorporated place,40.641733,-102.629858,1
+CO,0835070,place:CO:0835070,Hayden town,Hayden,Hayden,08107,Routt County,Incorporated place,40.492217,-107.264325,1
+CO,0835400,place:CO:0835400,Heeney CDP,Heeney,Heeney,08117,Summit County,Census-designated place,39.873988,-106.304155,1
+CO,0835860,place:CO:0835860,Hidden Lake CDP,Hidden Lake,Hidden Lake,08013,Boulder County,Census-designated place,40.10516,-105.477571,1
+CO,0836410,place:CO:0836410,Highlands Ranch CDP,Highlands Ranch,Highlands Ranch,08035,Douglas County,Census-designated place,39.541311,-104.970718,1
+CO,0836610,place:CO:0836610,Hillrose town,Hillrose,Hillrose,08087,Morgan County,Incorporated place,40.324495,-103.522206,1
+CO,0836940,place:CO:0836940,Hoehne CDP,Hoehne,Hoehne,08071,Las Animas County,Census-designated place,37.281443,-104.389095,1
+CO,0837215,place:CO:0837215,Holly town,Holly,Holly,08099,Prowers County,Incorporated place,38.055639,-102.124589,1
+CO,0837220,place:CO:0837220,Holly Hills CDP,Holly Hills,Holly Hills,08031,Denver County,Census-designated place,39.667727,-104.921622,1
+CO,0837270,place:CO:0837270,Holyoke city,Holyoke,Holyoke,08095,Phillips County,Incorporated place,40.582066,-102.296761,1
+CO,0837380,place:CO:0837380,Hooper town,Hooper,Hooper,08003,Alamosa County,Incorporated place,37.745976,-105.877735,1
+CO,0837600,place:CO:0837600,Hot Sulphur Springs town,Hot Sulphur Springs,Hot Sulphur Springs,08049,Grand County,Incorporated place,40.074902,-106.10317,1
+CO,0837545,place:CO:0837545,Hotchkiss town,Hotchkiss,Hotchkiss,08029,Delta County,Incorporated place,38.798994,-107.713385,1
+CO,0837655,place:CO:0837655,Howard CDP,Howard,Howard,08043,Fremont County,Census-designated place,38.409762,-105.842389,1
+CO,0837820,place:CO:0837820,Hudson town,Hudson,Hudson,08123,Weld County,Incorporated place,40.083185,-104.620026,1
+CO,0837875,place:CO:0837875,Hugo town,Hugo,Hugo,08073,Lincoln County,Incorporated place,39.136179,-103.473138,1
+CO,0838370,place:CO:0838370,Idaho Springs city,Idaho Springs,Idaho Springs,08019,Clear Creek County,Incorporated place,39.748777,-105.504671,1
+CO,0838425,place:CO:0838425,Idalia CDP,Idalia,Idalia,08125,Yuma County,Census-designated place,39.703,-102.293978,1
+CO,0838480,place:CO:0838480,Idledale CDP,Idledale,Idledale,08059,Jefferson County,Census-designated place,39.668928,-105.243191,1
+CO,0838535,place:CO:0838535,Ignacio town,Ignacio,Ignacio,08067,La Plata County,Incorporated place,37.117784,-107.637535,1
+CO,0838590,place:CO:0838590,Iliff town,Iliff,Iliff,08075,Logan County,Incorporated place,40.759177,-103.066102,1
+CO,0838810,place:CO:0838810,Indian Hills CDP,Indian Hills,Indian Hills,08059,Jefferson County,Census-designated place,39.629881,-105.247461,1
+CO,0838910,place:CO:0838910,Inverness CDP,Inverness,Inverness,08005,Arapahoe County,Census-designated place,39.575772,-104.865395,1
+CO,0839160,place:CO:0839160,Jackson Lake CDP,Jackson Lake,Jackson Lake,08087,Morgan County,Census-designated place,40.370055,-104.059173,1
+CO,0839195,place:CO:0839195,Jamestown town,Jamestown,Jamestown,08013,Boulder County,Incorporated place,40.122369,-105.393553,1
+CO,0839250,place:CO:0839250,Jansen CDP,Jansen,Jansen,08071,Las Animas County,Census-designated place,37.158163,-104.55009,1
+CO,0839745,place:CO:0839745,Joes CDP,Joes,Joes,08125,Yuma County,Census-designated place,39.659569,-102.678471,1
+CO,0839800,place:CO:0839800,Johnson Village CDP,Johnson Village,Johnson Village,08015,Chaffee County,Census-designated place,38.811894,-106.107112,1
+CO,0839855,place:CO:0839855,Johnstown town,Johnstown,Johnstown,08123,Weld County,Incorporated place,40.307248,-104.911205,1
+CO,0839965,place:CO:0839965,Julesburg town,Julesburg,Julesburg,08115,Sedgwick County,Incorporated place,40.984864,-102.262708,1
+CO,0840185,place:CO:0840185,Keenesburg town,Keenesburg,Keenesburg,08123,Weld County,Incorporated place,40.14392,-104.54286,1
+CO,0840377,place:CO:0840377,Ken Caryl CDP,Ken Caryl,Ken Caryl,08059,Jefferson County,Census-designated place,39.576743,-105.113695,1
+CO,0840515,place:CO:0840515,Kersey town,Kersey,Kersey,08123,Weld County,Incorporated place,40.395471,-104.578344,1
+CO,0840550,place:CO:0840550,Keystone town,Keystone,Keystone,08117,Summit County,Incorporated place,39.60685,-105.932859,1
+CO,0840570,place:CO:0840570,Kim town,Kim,Kim,08071,Las Animas County,Incorporated place,37.247062,-103.353411,1
+CO,0840790,place:CO:0840790,Kiowa town,Kiowa,Kiowa,08039,Elbert County,Incorporated place,39.34364,-104.458142,1
+CO,0840900,place:CO:0840900,Kirk CDP,Kirk,Kirk,08125,Yuma County,Census-designated place,39.614493,-102.591419,1
+CO,0841010,place:CO:0841010,Kit Carson town,Kit Carson,Kit Carson,08017,Cheyenne County,Incorporated place,38.762828,-102.795476,1
+CO,0841065,place:CO:0841065,Kittredge CDP,Kittredge,Kittredge,08059,Jefferson County,Census-designated place,39.659375,-105.304886,1
+CO,0841560,place:CO:0841560,Kremmling town,Kremmling,Kremmling,08049,Grand County,Incorporated place,40.056542,-106.378216,1
+CO,0842055,place:CO:0842055,La Jara town,La Jara,La Jara,08021,Conejos County,Incorporated place,37.273524,-105.959721,1
+CO,0842110,place:CO:0842110,La Junta city,La Junta,La Junta,08089,Otero County,Incorporated place,37.979414,-103.547336,1
+CO,0842165,place:CO:0842165,La Junta Gardens CDP,La Junta Gardens,La Junta Gardens,08089,Otero County,Census-designated place,38.001349,-103.55485,1
+CO,0843605,place:CO:0843605,La Salle town,La Salle,La Salle,08123,Weld County,Incorporated place,40.348697,-104.706085,1
+CO,0844100,place:CO:0844100,La Veta town,La Veta,La Veta,08055,Huerfano County,Incorporated place,37.508562,-105.008487,1
+CO,0841835,place:CO:0841835,Lafayette city,Lafayette,Lafayette,08013,Boulder County,Incorporated place,39.994814,-105.099676,1
+CO,0842000,place:CO:0842000,Laird CDP,Laird,Laird,08125,Yuma County,Census-designated place,40.081801,-102.101898,1
+CO,0842330,place:CO:0842330,Lake City town,Lake City,Lake City,08053,Hinsdale County,Incorporated place,38.02313,-107.311297,1
+CO,0842495,place:CO:0842495,Lakeside town,Lakeside,Lakeside,08059,Jefferson County,Incorporated place,39.779075,-105.057825,1
+CO,0843000,place:CO:0843000,Lakewood city,Lakewood,Lakewood,08059,Jefferson County,Incorporated place,39.698939,-105.117573,1
+CO,0843110,place:CO:0843110,Lamar city,Lamar,Lamar,08099,Prowers County,Incorporated place,38.075971,-102.614723,1
+CO,0843220,place:CO:0843220,Laporte CDP,Laporte,Laporte,08069,Larimer County,Census-designated place,40.63886,-105.143455,1
+CO,0843550,place:CO:0843550,Larkspur town,Larkspur,Larkspur,08035,Douglas County,Incorporated place,39.229573,-104.885679,1
+CO,0843660,place:CO:0843660,Las Animas city,Las Animas,Las Animas,08011,Bent County,Incorporated place,38.069668,-103.223229,1
+CO,0844265,place:CO:0844265,Lazear CDP,Lazear,Lazear,08029,Delta County,Census-designated place,38.77879,-107.780402,1
+CO,0844270,place:CO:0844270,Lazy Acres CDP,Lazy Acres,Lazy Acres,08013,Boulder County,Census-designated place,40.085551,-105.334372,1
+CO,0844320,place:CO:0844320,Leadville city,Leadville,Leadville,08065,Lake County,Incorporated place,39.247277,-106.29346,1
+CO,0844375,place:CO:0844375,Leadville North CDP,Leadville North,Leadville North,08065,Lake County,Census-designated place,39.260018,-106.31129,1
+CO,0844595,place:CO:0844595,Lewis CDP,Lewis,Lewis,08083,Montezuma County,Census-designated place,37.501715,-108.660059,1
+CO,0844695,place:CO:0844695,Leyner CDP,Leyner,Leyner,08013,Boulder County,Census-designated place,40.052009,-105.107546,1
+CO,0844980,place:CO:0844980,Limon town,Limon,Limon,08073,Lincoln County,Incorporated place,39.265074,-103.685911,1
+CO,0845145,place:CO:0845145,Lincoln Park CDP,Lincoln Park,Lincoln Park,08043,Fremont County,Census-designated place,38.425182,-105.213083,1
+CO,0845255,place:CO:0845255,Littleton city,Littleton,Littleton,08005,Arapahoe County,Incorporated place,39.590375,-105.020084,1
+CO,0845530,place:CO:0845530,Lochbuie town,Lochbuie,Lochbuie,08123,Weld County,Incorporated place,40.026926,-104.682938,1
+CO,0845695,place:CO:0845695,Log Lane Village town,Log Lane Village,Log Lane Village,08087,Morgan County,Incorporated place,40.269734,-103.82896,1
+CO,0845680,place:CO:0845680,Loghill Village CDP,Loghill Village,Loghill Village,08091,Ouray County,Census-designated place,38.19941,-107.775343,1
+CO,0845750,place:CO:0845750,Loma CDP,Loma,Loma,08077,Mesa County,Census-designated place,39.20751,-108.805025,1
+CO,0845955,place:CO:0845955,Lone Tree city,Lone Tree,Lone Tree,08035,Douglas County,Incorporated place,39.530965,-104.871053,1
+CO,0845970,place:CO:0845970,Longmont city,Longmont,Longmont,08013,Boulder County,Incorporated place,40.168199,-105.100522,1
+CO,0846355,place:CO:0846355,Louisville city,Louisville,Louisville,08013,Boulder County,Incorporated place,39.969304,-105.142686,1
+CO,0846410,place:CO:0846410,Louviers CDP,Louviers,Louviers,08035,Douglas County,Census-designated place,39.479866,-105.00334,1
+CO,0846465,place:CO:0846465,Loveland city,Loveland,Loveland,08069,Larimer County,Incorporated place,40.416905,-105.063111,1
+CO,0847015,place:CO:0847015,Lynn CDP,Lynn,Lynn,08071,Las Animas County,Census-designated place,37.421909,-104.643061,1
+CO,0847070,place:CO:0847070,Lyons town,Lyons,Lyons,08013,Boulder County,Incorporated place,40.22305,-105.268665,1
+CO,0848060,place:CO:0848060,Manassa town,Manassa,Manassa,08021,Conejos County,Incorporated place,37.173841,-105.937275,1
+CO,0848115,place:CO:0848115,Mancos town,Mancos,Mancos,08083,Montezuma County,Incorporated place,37.346641,-108.293841,1
+CO,0848445,place:CO:0848445,Manitou Springs city,Manitou Springs,Manitou Springs,08041,El Paso County,Incorporated place,38.857539,-104.912861,1
+CO,0848500,place:CO:0848500,Manzanola town,Manzanola,Manzanola,08089,Otero County,Incorporated place,38.108758,-103.866804,1
+CO,0848555,place:CO:0848555,Marble town,Marble,Marble,08051,Gunnison County,Incorporated place,39.071665,-107.190749,1
+CO,0848940,place:CO:0848940,Marvel CDP,Marvel,Marvel,08067,La Plata County,Census-designated place,37.111185,-108.126327,1
+CO,0849215,place:CO:0849215,Matheson CDP,Matheson,Matheson,08039,Elbert County,Census-designated place,39.168316,-103.977018,1
+CO,0849325,place:CO:0849325,Maybell CDP,Maybell,Maybell,08081,Moffat County,Census-designated place,40.518827,-108.088495,1
+CO,0849490,place:CO:0849490,Maysville CDP,Maysville,Maysville,08015,Chaffee County,Census-designated place,38.525998,-106.219426,1
+CO,0847235,place:CO:0847235,McClave CDP,McClave,McClave,08011,Bent County,Census-designated place,38.131547,-102.850444,1
+CO,0847345,place:CO:0847345,McCoy CDP,McCoy,McCoy,08037,Eagle County,Census-designated place,39.914382,-106.725723,1
+CO,0849600,place:CO:0849600,Mead town,Mead,Mead,08123,Weld County,Incorporated place,40.226999,-104.988323,1
+CO,0849875,place:CO:0849875,Meeker town,Meeker,Meeker,08103,Rio Blanco County,Incorporated place,40.049953,-107.894584,1
+CO,0850012,place:CO:0850012,Meridian CDP,Meridian,Meridian,08035,Douglas County,Census-designated place,39.545684,-104.85332,1
+CO,0850026,place:CO:0850026,Meridian Village CDP,Meridian Village,Meridian Village,08035,Douglas County,Census-designated place,39.528052,-104.825783,1
+CO,0850040,place:CO:0850040,Merino town,Merino,Merino,08075,Logan County,Incorporated place,40.483705,-103.353675,1
+CO,0850380,place:CO:0850380,Midland CDP,Midland,Midland,08119,Teller County,Census-designated place,38.846344,-105.15212,1
+CO,0850453,place:CO:0850453,Mill Creek Park CDP,Mill Creek Park,Mill Creek Park,08019,Clear Creek County,Census-designated place,39.78946,-105.638785,0
+CO,0850480,place:CO:0850480,Milliken town,Milliken,Milliken,08123,Weld County,Incorporated place,40.310498,-104.85837,1
+CO,0850920,place:CO:0850920,Minturn town,Minturn,Minturn,08037,Eagle County,Incorporated place,39.535618,-106.381608,1
+CO,0851250,place:CO:0851250,Moffat town,Moffat,Moffat,08109,Saguache County,Incorporated place,38.005734,-105.910118,1
+CO,0851635,place:CO:0851635,Monte Vista city,Monte Vista,Monte Vista,08105,Rio Grande County,Incorporated place,37.57854,-106.150213,1
+CO,0851690,place:CO:0851690,Montezuma town,Montezuma,Montezuma,08117,Summit County,Incorporated place,39.581477,-105.86764,1
+CO,0851745,place:CO:0851745,Montrose city,Montrose,Montrose,08085,Montrose County,Incorporated place,38.468783,-107.858959,1
+CO,0851800,place:CO:0851800,Monument town,Monument,Monument,08041,El Paso County,Incorporated place,39.072911,-104.847043,1
+CO,0851975,place:CO:0851975,Morgan Heights CDP,Morgan Heights,Morgan Heights,08087,Morgan County,Census-designated place,40.287492,-103.827446,1
+CO,0852075,place:CO:0852075,Morrison town,Morrison,Morrison,08059,Jefferson County,Incorporated place,39.625276,-105.208631,1
+CO,0852570,place:CO:0852570,Mount Crested Butte town,Mount Crested Butte,Mount Crested Butte,08051,Gunnison County,Incorporated place,38.908302,-106.960587,1
+CO,0852210,place:CO:0852210,Mountain Meadows CDP,Mountain Meadows,Mountain Meadows,08013,Boulder County,Census-designated place,40.027039,-105.383136,1
+CO,0852350,place:CO:0852350,Mountain View town,Mountain View,Mountain View,08059,Jefferson County,Incorporated place,39.774776,-105.056711,1
+CO,0852550,place:CO:0852550,Mountain Village town,Mountain Village,Mountain Village,08113,San Miguel County,Incorporated place,37.932416,-107.857737,1
+CO,0852820,place:CO:0852820,Mulford CDP,Mulford,Mulford,08045,Garfield County,Census-designated place,39.406355,-107.165987,1
+CO,0853010,place:CO:0853010,Nathrop CDP,Nathrop,Nathrop,08015,Chaffee County,Census-designated place,38.74874,-106.07642,1
+CO,0853120,place:CO:0853120,Naturita town,Naturita,Naturita,08085,Montrose County,Incorporated place,38.2183,-108.56639,1
+CO,0853175,place:CO:0853175,Nederland town,Nederland,Nederland,08013,Boulder County,Incorporated place,39.963815,-105.505864,1
+CO,0853395,place:CO:0853395,New Castle town,New Castle,New Castle,08045,Garfield County,Incorporated place,39.581711,-107.528852,1
+CO,0853780,place:CO:0853780,Niwot CDP,Niwot,Niwot,08013,Boulder County,Census-designated place,40.094685,-105.159213,1
+CO,0853875,place:CO:0853875,No Name CDP,No Name,No Name,08045,Garfield County,Census-designated place,39.55973,-107.292787,1
+CO,0853945,place:CO:0853945,Norrie CDP,Norrie,Norrie,08097,Pitkin County,Census-designated place,39.328131,-106.656275,1
+CO,0854495,place:CO:0854495,North La Junta CDP,North La Junta,North La Junta,08089,Otero County,Census-designated place,37.999608,-103.523187,1
+CO,0854750,place:CO:0854750,North Washington CDP,North Washington,North Washington,08001,Adams County,Census-designated place,39.807749,-104.98004,1
+CO,0854330,place:CO:0854330,Northglenn city,Northglenn,Northglenn,08001,Adams County,Incorporated place,39.911627,-104.982148,1
+CO,0854880,place:CO:0854880,Norwood town,Norwood,Norwood,08113,San Miguel County,Incorporated place,38.128399,-108.29225,1
+CO,0854935,place:CO:0854935,Nucla town,Nucla,Nucla,08085,Montrose County,Incorporated place,38.266675,-108.548698,1
+CO,0855045,place:CO:0855045,Nunn town,Nunn,Nunn,08123,Weld County,Incorporated place,40.71371,-104.788848,1
+CO,0855155,place:CO:0855155,Oak Creek town,Oak Creek,Oak Creek,08107,Routt County,Incorporated place,40.274024,-106.957639,1
+CO,0855540,place:CO:0855540,Olathe town,Olathe,Olathe,08085,Montrose County,Incorporated place,38.608416,-107.983238,1
+CO,0855705,place:CO:0855705,Olney Springs town,Olney Springs,Olney Springs,08025,Crowley County,Incorporated place,38.166274,-103.944491,1
+CO,0855870,place:CO:0855870,Ophir town,Ophir,Ophir,08113,San Miguel County,Incorporated place,37.85681,-107.831242,1
+CO,0855925,place:CO:0855925,Orchard CDP,Orchard,Orchard,08087,Morgan County,Census-designated place,40.332001,-104.117799,1
+CO,0855980,place:CO:0855980,Orchard City town,Orchard City,Orchard City,08029,Delta County,Incorporated place,38.818147,-107.967248,1
+CO,0856035,place:CO:0856035,Orchard Mesa CDP,Orchard Mesa,Orchard Mesa,08077,Mesa County,Census-designated place,39.037385,-108.522836,1
+CO,0856145,place:CO:0856145,Ordway town,Ordway,Ordway,08025,Crowley County,Incorporated place,38.220834,-103.756585,1
+CO,0856365,place:CO:0856365,Otis town,Otis,Otis,08121,Washington County,Incorporated place,40.150126,-102.962138,1
+CO,0856420,place:CO:0856420,Ouray city,Ouray,Ouray,08091,Ouray County,Incorporated place,38.027543,-107.673348,1
+CO,0856475,place:CO:0856475,Ovid town,Ovid,Ovid,08115,Sedgwick County,Incorporated place,40.960755,-102.388336,1
+CO,0856695,place:CO:0856695,Padroni CDP,Padroni,Padroni,08075,Logan County,Census-designated place,40.781814,-103.173297,1
+CO,0856860,place:CO:0856860,Pagosa Springs town,Pagosa Springs,Pagosa Springs,08007,Archuleta County,Incorporated place,37.263441,-107.003462,1
+CO,0856970,place:CO:0856970,Palisade town,Palisade,Palisade,08077,Mesa County,Incorporated place,39.107931,-108.35733,1
+CO,0857025,place:CO:0857025,Palmer Lake town,Palmer Lake,Palmer Lake,08041,El Paso County,Incorporated place,39.113772,-104.906063,1
+CO,0857245,place:CO:0857245,Paoli town,Paoli,Paoli,08095,Phillips County,Incorporated place,40.612764,-102.471758,1
+CO,0857300,place:CO:0857300,Paonia town,Paonia,Paonia,08029,Delta County,Incorporated place,38.869797,-107.592084,1
+CO,0857400,place:CO:0857400,Parachute town,Parachute,Parachute,08045,Garfield County,Incorporated place,39.446633,-108.054922,1
+CO,0857445,place:CO:0857445,Paragon Estates CDP,Paragon Estates,Paragon Estates,08013,Boulder County,Census-designated place,39.980757,-105.185187,1
+CO,0857465,place:CO:0857465,Park Center CDP,Park Center,Park Center,08043,Fremont County,Census-designated place,38.485177,-105.226136,1
+CO,0857630,place:CO:0857630,Parker town,Parker,Parker,08035,Douglas County,Incorporated place,39.509209,-104.771897,1
+CO,0857850,place:CO:0857850,Parshall CDP,Parshall,Parshall,08049,Grand County,Census-designated place,40.055562,-106.175995,1
+CO,0858235,place:CO:0858235,Peetz town,Peetz,Peetz,08075,Logan County,Incorporated place,40.961823,-103.113809,1
+CO,0858400,place:CO:0858400,Penrose CDP,Penrose,Penrose,08043,Fremont County,Census-designated place,38.421298,-105.000395,1
+CO,0858510,place:CO:0858510,Peoria CDP,Peoria,Peoria,08005,Arapahoe County,Census-designated place,39.653334,-104.136977,1
+CO,0858592,place:CO:0858592,Perry Park CDP,Perry Park,Perry Park,08035,Douglas County,Census-designated place,39.260456,-104.967839,1
+CO,0858675,place:CO:0858675,Peyton CDP,Peyton,Peyton,08041,El Paso County,Census-designated place,39.032979,-104.490402,1
+CO,0858785,place:CO:0858785,Phippsburg CDP,Phippsburg,Phippsburg,08107,Routt County,Census-designated place,40.230256,-106.950596,1
+CO,0858960,place:CO:0858960,Piedra CDP,Piedra,Piedra,08053,Hinsdale County,Census-designated place,37.441795,-107.168427,1
+CO,0859005,place:CO:0859005,Pierce town,Pierce,Pierce,08123,Weld County,Incorporated place,40.647584,-104.780051,1
+CO,0859240,place:CO:0859240,Pine Brook Hill CDP,Pine Brook Hill,Pine Brook Hill,08013,Boulder County,Census-designated place,40.038413,-105.307526,1
+CO,0859520,place:CO:0859520,Pine Valley CDP,Pine Valley,Pine Valley,08019,Clear Creek County,Census-designated place,39.690938,-105.413228,1
+CO,0859830,place:CO:0859830,Pitkin town,Pitkin,Pitkin,08051,Gunnison County,Incorporated place,38.608722,-106.514918,1
+CO,0859885,place:CO:0859885,Placerville CDP,Placerville,Placerville,08113,San Miguel County,Census-designated place,38.005314,-108.039835,1
+CO,0860160,place:CO:0860160,Platteville town,Platteville,Platteville,08123,Weld County,Incorporated place,40.222905,-104.830005,1
+CO,0860600,place:CO:0860600,Poncha Springs town,Poncha Springs,Poncha Springs,08015,Chaffee County,Incorporated place,38.521231,-106.0721,1
+CO,0860655,place:CO:0860655,Ponderosa Park CDP,Ponderosa Park,Ponderosa Park,08039,Elbert County,Census-designated place,39.39865,-104.635494,1
+CO,0860765,place:CO:0860765,Portland CDP,Portland,Portland,08091,Ouray County,Census-designated place,38.089222,-107.695234,1
+CO,0861315,place:CO:0861315,Pritchett town,Pritchett,Pritchett,08009,Baca County,Incorporated place,37.370009,-102.858749,1
+CO,0862000,place:CO:0862000,Pueblo city,Pueblo,Pueblo,08101,Pueblo County,Incorporated place,38.267479,-104.613429,1
+CO,0862220,place:CO:0862220,Pueblo West CDP,Pueblo West,Pueblo West,08101,Pueblo County,Census-designated place,38.31583,-104.784972,1
+CO,0862660,place:CO:0862660,Ramah town,Ramah,Ramah,08041,El Paso County,Incorporated place,39.121427,-104.167313,1
+CO,0862880,place:CO:0862880,Rangely town,Rangely,Rangely,08103,Rio Blanco County,Incorporated place,40.087011,-108.78326,1
+CO,0863045,place:CO:0863045,Raymer (New Raymer) town,Raymer (New Raymer),Raymer (New Raymer),08123,Weld County,Incorporated place,40.607957,-103.843576,1
+CO,0863265,place:CO:0863265,Red Cliff town,Red Cliff,Red Cliff,08037,Eagle County,Incorporated place,39.5093,-106.369937,1
+CO,0863320,place:CO:0863320,Red Feather Lakes CDP,Red Feather Lakes,Red Feather Lakes,08069,Larimer County,Census-designated place,40.809474,-105.578991,1
+CO,0863375,place:CO:0863375,Redlands CDP,Redlands,Redlands,08077,Mesa County,Census-designated place,39.084956,-108.654961,1
+CO,0863650,place:CO:0863650,Redstone CDP,Redstone,Redstone,08097,Pitkin County,Census-designated place,39.180281,-107.238289,1
+CO,0863705,place:CO:0863705,Redvale CDP,Redvale,Redvale,08085,Montrose County,Census-designated place,38.176064,-108.412508,1
+CO,0864090,place:CO:0864090,Rico town,Rico,Rico,08033,Dolores County,Incorporated place,37.689086,-108.031677,1
+CO,0864200,place:CO:0864200,Ridgway town,Ridgway,Ridgway,08091,Ouray County,Incorporated place,38.157178,-107.754597,1
+CO,0864255,place:CO:0864255,Rifle city,Rifle,Rifle,08045,Garfield County,Incorporated place,39.537565,-107.770344,1
+CO,0864870,place:CO:0864870,Rock Creek Park CDP,Rock Creek Park,Rock Creek Park,08041,El Paso County,Census-designated place,38.701068,-104.834702,1
+CO,0864970,place:CO:0864970,Rockvale town,Rockvale,Rockvale,08043,Fremont County,Incorporated place,38.364425,-105.164523,1
+CO,0865190,place:CO:0865190,Rocky Ford city,Rocky Ford,Rocky Ford,08089,Otero County,Incorporated place,38.049884,-103.722102,1
+CO,0865685,place:CO:0865685,Rollinsville CDP,Rollinsville,Rollinsville,08047,Gilpin County,Census-designated place,39.923187,-105.51355,1
+CO,0865740,place:CO:0865740,Romeo town,Romeo,Romeo,08021,Conejos County,Incorporated place,37.171822,-105.985415,1
+CO,0866197,place:CO:0866197,Roxborough Park CDP,Roxborough Park,Roxborough Park,08035,Douglas County,Census-designated place,39.444763,-105.076881,1
+CO,0866895,place:CO:0866895,Rye town,Rye,Rye,08101,Pueblo County,Incorporated place,37.921283,-104.931935,1
+CO,0866995,place:CO:0866995,Saddle Ridge CDP,Saddle Ridge,Saddle Ridge,08087,Morgan County,Census-designated place,40.313071,-103.802297,1
+CO,0867005,place:CO:0867005,Saguache town,Saguache,Saguache,08109,Saguache County,Incorporated place,38.08627,-106.141053,1
+CO,0867280,place:CO:0867280,Salida city,Salida,Salida,08015,Chaffee County,Incorporated place,38.530117,-105.998401,1
+CO,0867445,place:CO:0867445,Salt Creek CDP,Salt Creek,Salt Creek,08101,Pueblo County,Census-designated place,38.240693,-104.586645,1
+CO,0867500,place:CO:0867500,San Acacio CDP,San Acacio,San Acacio,08023,Costilla County,Census-designated place,37.208634,-105.566638,1
+CO,0868105,place:CO:0868105,San Luis town,San Luis,San Luis,08023,Costilla County,Incorporated place,37.202375,-105.422506,1
+CO,0867830,place:CO:0867830,Sanford town,Sanford,Sanford,08021,Conejos County,Incorporated place,37.257407,-105.900766,1
+CO,0868655,place:CO:0868655,Sawpit town,Sawpit,Sawpit,08113,San Miguel County,Incorporated place,37.994717,-108.002136,1
+CO,0868847,place:CO:0868847,Security-Widefield CDP,Security-Widefield,Security-Widefield,08041,El Paso County,Census-designated place,38.75113,-104.716023,1
+CO,0868875,place:CO:0868875,Sedalia CDP,Sedalia,Sedalia,08035,Douglas County,Census-designated place,39.439705,-104.969909,1
+CO,0868930,place:CO:0868930,Sedgwick town,Sedgwick,Sedgwick,08115,Sedgwick County,Incorporated place,40.935512,-102.525637,1
+CO,0868985,place:CO:0868985,Segundo CDP,Segundo,Segundo,08071,Las Animas County,Census-designated place,37.12252,-104.739739,1
+CO,0869040,place:CO:0869040,Seibert town,Seibert,Seibert,08063,Kit Carson County,Incorporated place,39.297967,-102.869524,1
+CO,0869110,place:CO:0869110,Seven Hills CDP,Seven Hills,Seven Hills,08013,Boulder County,Census-designated place,40.033702,-105.330748,1
+CO,0869150,place:CO:0869150,Severance town,Severance,Severance,08123,Weld County,Incorporated place,40.505944,-104.863475,1
+CO,0869480,place:CO:0869480,Shaw Heights CDP,Shaw Heights,Shaw Heights,08001,Adams County,Census-designated place,39.85753,-105.039085,1
+CO,0869645,place:CO:0869645,Sheridan city,Sheridan,Sheridan,08005,Arapahoe County,Incorporated place,39.647118,-105.01935,1
+CO,0869700,place:CO:0869700,Sheridan Lake town,Sheridan Lake,Sheridan Lake,08061,Kiowa County,Incorporated place,38.46671,-102.294399,1
+CO,0869810,place:CO:0869810,Sherrelwood CDP,Sherrelwood,Sherrelwood,08001,Adams County,Census-designated place,39.838251,-105.002316,1
+CO,0870112,place:CO:0870112,Sierra Ridge CDP,Sierra Ridge,Sierra Ridge,08035,Douglas County,Census-designated place,39.528591,-104.817245,1
+CO,0870195,place:CO:0870195,Silt town,Silt,Silt,08045,Garfield County,Incorporated place,39.547978,-107.652736,1
+CO,0870250,place:CO:0870250,Silver Cliff town,Silver Cliff,Silver Cliff,08027,Custer County,Incorporated place,38.129203,-105.399175,1
+CO,0870360,place:CO:0870360,Silver Plume town,Silver Plume,Silver Plume,08019,Clear Creek County,Incorporated place,39.695372,-105.727021,1
+CO,0870525,place:CO:0870525,Silverthorne town,Silverthorne,Silverthorne,08117,Summit County,Incorporated place,39.664801,-106.093453,1
+CO,0870580,place:CO:0870580,Silverton town,Silverton,Silverton,08111,San Juan County,Incorporated place,37.810808,-107.665013,1
+CO,0870635,place:CO:0870635,Simla town,Simla,Simla,08039,Elbert County,Incorporated place,39.140847,-104.082504,1
+CO,0871625,place:CO:0871625,Smeltertown CDP,Smeltertown,Smeltertown,08015,Chaffee County,Census-designated place,38.552322,-106.008417,1
+CO,0871755,place:CO:0871755,Snowmass Village town,Snowmass Village,Snowmass Village,08097,Pitkin County,Incorporated place,39.216882,-106.943968,1
+CO,0871790,place:CO:0871790,Snyder CDP,Snyder,Snyder,08087,Morgan County,Census-designated place,40.330825,-103.591971,1
+CO,0871845,place:CO:0871845,Somerset CDP,Somerset,Somerset,08051,Gunnison County,Census-designated place,38.92881,-107.464984,1
+CO,0872395,place:CO:0872395,South Fork town,South Fork,South Fork,08105,Rio Grande County,Incorporated place,37.669186,-106.642851,1
+CO,0872320,place:CO:0872320,Southern Ute CDP,Southern Ute,Southern Ute,08067,La Plata County,Census-designated place,37.074888,-107.593308,1
+CO,0873330,place:CO:0873330,Springfield town,Springfield,Springfield,08009,Baca County,Incorporated place,37.404914,-102.618898,1
+CO,0867040,place:CO:0867040,St. Ann Highlands CDP,St. Ann Highlands,St. Ann Highlands,08013,Boulder County,Census-designated place,39.987297,-105.455806,1
+CO,0867142,place:CO:0867142,St. Mary's CDP,St. Mary's,St. Mary's,08019,Clear Creek County,Census-designated place,39.816531,-105.647138,1
+CO,0873715,place:CO:0873715,Starkville town,Starkville,Starkville,08071,Las Animas County,Incorporated place,37.116826,-104.523296,1
+CO,0873825,place:CO:0873825,Steamboat Springs city,Steamboat Springs,Steamboat Springs,08107,Routt County,Incorporated place,40.475578,-106.822919,1
+CO,0873925,place:CO:0873925,Stepping Stone CDP,Stepping Stone,Stepping Stone,08035,Douglas County,Census-designated place,39.514747,-104.822157,1
+CO,0873935,place:CO:0873935,Sterling city,Sterling,Sterling,08075,Logan County,Incorporated place,40.620487,-103.192582,1
+CO,0873943,place:CO:0873943,Sterling Ranch CDP,Sterling Ranch,Sterling Ranch,08035,Douglas County,Census-designated place,39.493227,-105.047508,1
+CO,0874080,place:CO:0874080,Stonegate CDP,Stonegate,Stonegate,08035,Douglas County,Census-designated place,39.533783,-104.799841,1
+CO,0874275,place:CO:0874275,Stonewall Gap CDP,Stonewall Gap,Stonewall Gap,08071,Las Animas County,Census-designated place,37.160473,-105.034201,1
+CO,0874375,place:CO:0874375,Strasburg CDP,Strasburg,Strasburg,08005,Arapahoe County,Census-designated place,39.720709,-104.318187,1
+CO,0874430,place:CO:0874430,Stratmoor CDP,Stratmoor,Stratmoor,08041,El Paso County,Census-designated place,38.771957,-104.777773,1
+CO,0874485,place:CO:0874485,Stratton town,Stratton,Stratton,08063,Kit Carson County,Incorporated place,39.302884,-102.60347,1
+CO,0874815,place:CO:0874815,Sugar City town,Sugar City,Sugar City,08025,Crowley County,Incorporated place,38.232773,-103.663312,1
+CO,0874980,place:CO:0874980,Sugarloaf CDP,Sugarloaf,Sugarloaf,08013,Boulder County,Census-designated place,40.018875,-105.407669,1
+CO,0875585,place:CO:0875585,Sunshine CDP,Sunshine,Sunshine,08013,Boulder County,Census-designated place,40.06365,-105.369584,1
+CO,0875640,place:CO:0875640,Superior town,Superior,Superior,08013,Boulder County,Incorporated place,39.93119,-105.159085,1
+CO,0875970,place:CO:0875970,Swink town,Swink,Swink,08089,Otero County,Incorporated place,38.014068,-103.628162,1
+CO,0876190,place:CO:0876190,Tabernash CDP,Tabernash,Tabernash,08049,Grand County,Census-designated place,39.978763,-105.84405,1
+CO,0876325,place:CO:0876325,Tall Timber CDP,Tall Timber,Tall Timber,08013,Boulder County,Census-designated place,40.01515,-105.349822,1
+CO,0876795,place:CO:0876795,Telluride town,Telluride,Telluride,08113,San Miguel County,Incorporated place,37.940233,-107.818152,1
+CO,0877235,place:CO:0877235,The Pinery CDP,The Pinery,The Pinery,08035,Douglas County,Census-designated place,39.448396,-104.749535,1
+CO,0877290,place:CO:0877290,Thornton city,Thornton,Thornton,08001,Adams County,Incorporated place,39.920433,-104.941413,1
+CO,0877510,place:CO:0877510,Timnath town,Timnath,Timnath,08069,Larimer County,Incorporated place,40.535915,-104.964361,1
+CO,0877757,place:CO:0877757,Todd Creek CDP,Todd Creek,Todd Creek,08001,Adams County,Census-designated place,39.978713,-104.868319,1
+CO,0878280,place:CO:0878280,Towaoc CDP,Towaoc,Towaoc,08083,Montezuma County,Census-designated place,37.212599,-108.726461,1
+CO,0878335,place:CO:0878335,Towner CDP,Towner,Towner,08061,Kiowa County,Census-designated place,38.4704,-102.080455,1
+CO,0878345,place:CO:0878345,Trail Side CDP,Trail Side,Trail Side,08087,Morgan County,Census-designated place,40.248952,-103.843319,1
+CO,0878610,place:CO:0878610,Trinidad city,Trinidad,Trinidad,08071,Las Animas County,Incorporated place,37.176244,-104.490291,1
+CO,0879100,place:CO:0879100,Twin Lakes CDP,Twin Lakes,"Twin Lakes, Adams County",08001,Adams County,Census-designated place,39.822719,-105.003969,1
+CO,0879105,place:CO:0879105,Twin Lakes CDP,Twin Lakes,"Twin Lakes, Lake County",08065,Lake County,Census-designated place,39.103707,-106.318985,1
+CO,0879270,place:CO:0879270,Two Buttes town,Two Buttes,Two Buttes,08009,Baca County,Incorporated place,37.560664,-102.396556,1
+CO,0879785,place:CO:0879785,Upper Bear Creek CDP,Upper Bear Creek,Upper Bear Creek,08019,Clear Creek County,Census-designated place,39.62688,-105.409691,1
+CO,0879800,place:CO:0879800,Upper Witter Gulch CDP,Upper Witter Gulch,Upper Witter Gulch,08019,Clear Creek County,Census-designated place,39.661066,-105.426833,1
+CO,0880040,place:CO:0880040,Vail town,Vail,Vail,08037,Eagle County,Incorporated place,39.63778,-106.362463,1
+CO,0880095,place:CO:0880095,Valdez CDP,Valdez,Valdez,08071,Las Animas County,Census-designated place,37.125794,-104.672861,1
+CO,0880370,place:CO:0880370,Valmont CDP,Valmont,Valmont,08013,Boulder County,Census-designated place,40.035518,-105.205645,1
+CO,0880755,place:CO:0880755,Vernon CDP,Vernon,Vernon,08125,Yuma County,Census-designated place,39.939552,-102.306922,1
+CO,0880865,place:CO:0880865,Victor city,Victor,Victor,08119,Teller County,Incorporated place,38.708738,-105.141887,1
+CO,0881030,place:CO:0881030,Vilas town,Vilas,Vilas,08009,Baca County,Incorporated place,37.373664,-102.447416,1
+CO,0881305,place:CO:0881305,Vineland CDP,Vineland,Vineland,08101,Pueblo County,Census-designated place,38.244738,-104.459866,1
+CO,0881690,place:CO:0881690,Vona town,Vona,Vona,08063,Kit Carson County,Incorporated place,39.302119,-102.743352,1
+CO,0882130,place:CO:0882130,Walden town,Walden,Walden,08057,Jackson County,Incorporated place,40.731584,-106.281336,1
+CO,0882350,place:CO:0882350,Walsenburg city,Walsenburg,Walsenburg,08055,Huerfano County,Incorporated place,37.630598,-104.781719,1
+CO,0882460,place:CO:0882460,Walsh town,Walsh,Walsh,08009,Baca County,Incorporated place,37.386107,-102.279933,1
+CO,0882735,place:CO:0882735,Ward town,Ward,Ward,08013,Boulder County,Incorporated place,40.073055,-105.514704,1
+CO,0882900,place:CO:0882900,Watkins CDP,Watkins,Watkins,08005,Arapahoe County,Census-designated place,39.698399,-104.577223,1
+CO,0883120,place:CO:0883120,Welby CDP,Welby,Welby,08001,Adams County,Census-designated place,39.840216,-104.965508,1
+CO,0883175,place:CO:0883175,Weldona CDP,Weldona,Weldona,08087,Morgan County,Census-designated place,40.348408,-103.969365,1
+CO,0883230,place:CO:0883230,Wellington town,Wellington,Wellington,08069,Larimer County,Incorporated place,40.697652,-105.006255,1
+CO,0884042,place:CO:0884042,West Pleasant View CDP,West Pleasant View,West Pleasant View,08059,Jefferson County,Census-designated place,39.731932,-105.17846,1
+CO,0883450,place:CO:0883450,Westcliffe town,Westcliffe,Westcliffe,08027,Custer County,Incorporated place,38.134203,-105.465306,1
+CO,0883500,place:CO:0883500,Westcreek CDP,Westcreek,Westcreek,08035,Douglas County,Census-designated place,39.148934,-105.162303,1
+CO,0883835,place:CO:0883835,Westminster city,Westminster,Westminster,08059,Jefferson County,Incorporated place,39.880122,-105.061513,1
+CO,0884000,place:CO:0884000,Weston CDP,Weston,Weston,08071,Las Animas County,Census-designated place,37.145923,-104.868283,1
+CO,0884440,place:CO:0884440,Wheat Ridge city,Wheat Ridge,Wheat Ridge,08059,Jefferson County,Incorporated place,39.772675,-105.104801,1
+CO,0884770,place:CO:0884770,Wiggins town,Wiggins,Wiggins,08087,Morgan County,Incorporated place,40.228421,-104.072799,1
+CO,0885045,place:CO:0885045,Wiley town,Wiley,Wiley,08099,Prowers County,Incorporated place,38.154585,-102.719249,1
+CO,0885155,place:CO:0885155,Williamsburg town,Williamsburg,Williamsburg,08043,Fremont County,Incorporated place,38.383984,-105.170993,1
+CO,0885485,place:CO:0885485,Windsor town,Windsor,Windsor,08123,Weld County,Incorporated place,40.478187,-104.91526,1
+CO,0885705,place:CO:0885705,Winter Park town,Winter Park,Winter Park,08049,Grand County,Incorporated place,39.87873,-105.78277,1
+CO,0885760,place:CO:0885760,Wolcott CDP,Wolcott,Wolcott,08037,Eagle County,Census-designated place,39.703571,-106.679301,1
+CO,0886090,place:CO:0886090,Woodland Park city,Woodland Park,Woodland Park,08119,Teller County,Incorporated place,38.998212,-105.059019,1
+CO,0886117,place:CO:0886117,Woodmoor CDP,Woodmoor,Woodmoor,08041,El Paso County,Census-designated place,39.104826,-104.843591,1
+CO,0886200,place:CO:0886200,Woody Creek CDP,Woody Creek,Woody Creek,08097,Pitkin County,Census-designated place,39.270873,-106.888331,1
+CO,0886310,place:CO:0886310,Wray city,Wray,Wray,08125,Yuma County,Incorporated place,40.07992,-102.228597,1
+CO,0886475,place:CO:0886475,Yampa town,Yampa,Yampa,08107,Routt County,Incorporated place,40.153005,-106.908527,1
+CO,0886668,place:CO:0886668,York Gulch CDP,York Gulch,York Gulch,08019,Clear Creek County,Census-designated place,39.800488,-105.572179,0
+CO,0886750,place:CO:0886750,Yuma city,Yuma,Yuma,08125,Yuma County,Incorporated place,40.122511,-102.715636,1

@@ -1,0 +1,537 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+MD,2400125,place:MD:2400125,Aberdeen city,Aberdeen,Aberdeen,24025,Harford County,Incorporated place,39.516403,-76.174518,1
+MD,2400175,place:MD:2400175,Aberdeen Proving Ground CDP,Aberdeen Proving Ground,Aberdeen Proving Ground,24025,Harford County,Census-designated place,39.454255,-76.133531,1
+MD,2400200,place:MD:2400200,Abingdon CDP,Abingdon,Abingdon,24025,Harford County,Census-designated place,39.463472,-76.27314,1
+MD,2400225,place:MD:2400225,Accident town,Accident,Accident,24023,Garrett County,Incorporated place,39.625688,-79.319958,1
+MD,2400250,place:MD:2400250,Accokeek CDP,Accokeek,Accokeek,24033,Prince George's County,Census-designated place,38.675241,-77.000383,1
+MD,2400350,place:MD:2400350,Adamstown CDP,Adamstown,Adamstown,24021,Frederick County,Census-designated place,39.307001,-77.469296,1
+MD,2400400,place:MD:2400400,Adelphi CDP,Adelphi,Adelphi,24033,Prince George's County,Census-designated place,38.997212,-76.966907,1
+MD,2400712,place:MD:2400712,Algonquin CDP,Algonquin,Algonquin,24019,Dorchester County,Census-designated place,38.589853,-76.091558,1
+MD,2400800,place:MD:2400800,Allen CDP,Allen,Allen,24045,Wicomico County,Census-designated place,38.288387,-75.693051,1
+MD,2401450,place:MD:2401450,Andrews AFB CDP,Andrews AFB,Andrews AFB,24033,Prince George's County,Census-designated place,38.809805,-76.869158,1
+MD,2401600,place:MD:2401600,Annapolis city,Annapolis,Annapolis,24003,Anne Arundel County,Incorporated place,38.97216,-76.505334,1
+MD,2401635,place:MD:2401635,Annapolis Neck CDP,Annapolis Neck,Annapolis Neck,24003,Anne Arundel County,Census-designated place,38.937589,-76.497374,1
+MD,2401750,place:MD:2401750,Antietam CDP,Antietam,Antietam,24043,Washington County,Census-designated place,39.415082,-77.736484,1
+MD,2401925,place:MD:2401925,Aquasco CDP,Aquasco,Aquasco,24033,Prince George's County,Census-designated place,38.591161,-76.696235,1
+MD,2401975,place:MD:2401975,Arbutus CDP,Arbutus,Arbutus,24005,Baltimore County,Census-designated place,39.242673,-76.692133,1
+MD,2402025,place:MD:2402025,Arden on the Severn CDP,Arden on the Severn,Arden on the Severn,24003,Anne Arundel County,Census-designated place,39.06771,-76.596488,1
+MD,2402275,place:MD:2402275,Arnold CDP,Arnold,Arnold,24003,Anne Arundel County,Census-designated place,39.043158,-76.505107,1
+MD,2402762,place:MD:2402762,Ashton-Sandy Spring CDP,Ashton-Sandy Spring,Ashton-Sandy Spring,24031,Montgomery County,Census-designated place,39.148685,-76.999085,1
+MD,2402825,place:MD:2402825,Aspen Hill CDP,Aspen Hill,Aspen Hill,24031,Montgomery County,Census-designated place,39.093511,-77.082076,1
+MD,2403500,place:MD:2403500,Baden CDP,Baden,Baden,24033,Prince George's County,Census-designated place,38.669485,-76.744221,1
+MD,2403514,place:MD:2403514,Bagtown CDP,Bagtown,Bagtown,24043,Washington County,Census-designated place,39.582982,-77.613885,1
+MD,2403575,place:MD:2403575,Bakersville CDP,Bakersville,Bakersville,24043,Washington County,Census-designated place,39.514829,-77.757048,1
+MD,2403800,place:MD:2403800,Ballenger Creek CDP,Ballenger Creek,Ballenger Creek,24021,Frederick County,Census-designated place,39.381131,-77.420179,1
+MD,2404000,place:MD:2404000,Baltimore city,Baltimore,Baltimore,24510,Baltimore city,Incorporated place,39.300061,-76.610518,1
+MD,2404050,place:MD:2404050,Baltimore Highlands CDP,Baltimore Highlands,Baltimore Highlands,24005,Baltimore County,Census-designated place,39.235932,-76.637402,1
+MD,2404250,place:MD:2404250,Barclay town,Barclay,Barclay,24035,Queen Anne's County,Incorporated place,39.146454,-75.864433,1
+MD,2404475,place:MD:2404475,Barnesville town,Barnesville,Barnesville,24031,Montgomery County,Incorporated place,39.223802,-77.376169,1
+MD,2404525,place:MD:2404525,Barrelville CDP,Barrelville,Barrelville,24001,Allegany County,Census-designated place,39.702653,-78.842454,1
+MD,2404625,place:MD:2404625,Barton town,Barton,Barton,24001,Allegany County,Incorporated place,39.532283,-79.016785,1
+MD,2404650,place:MD:2404650,Bartonsville CDP,Bartonsville,Bartonsville,24021,Frederick County,Census-designated place,39.388795,-77.352961,1
+MD,2405250,place:MD:2405250,Beaver Creek CDP,Beaver Creek,Beaver Creek,24043,Washington County,Census-designated place,39.581545,-77.651338,1
+MD,2405525,place:MD:2405525,Bel Air CDP,Bel Air,"Bel Air, Allegany County",24001,Allegany County,Census-designated place,39.581262,-78.855471,1
+MD,2405550,place:MD:2405550,Bel Air town,Bel Air,"Bel Air, Harford County",24025,Harford County,Incorporated place,39.534942,-76.346323,1
+MD,2405825,place:MD:2405825,Bel Air North CDP,Bel Air North,Bel Air North,24025,Harford County,Census-designated place,39.553404,-76.372942,1
+MD,2405950,place:MD:2405950,Bel Air South CDP,Bel Air South,Bel Air South,24025,Harford County,Census-designated place,39.508061,-76.309365,1
+MD,2406400,place:MD:2406400,Beltsville CDP,Beltsville,Beltsville,24033,Prince George's County,Census-designated place,39.039903,-76.920443,1
+MD,2406550,place:MD:2406550,Benedict CDP,Benedict,Benedict,24017,Charles County,Census-designated place,38.511529,-76.67967,1
+MD,2406662,place:MD:2406662,Bensville CDP,Bensville,Bensville,24017,Charles County,Census-designated place,38.61291,-77.004907,1
+MD,2406800,place:MD:2406800,Berlin town,Berlin,Berlin,24047,Worcester County,Incorporated place,38.331533,-75.215434,1
+MD,2406925,place:MD:2406925,Berwyn Heights town,Berwyn Heights,Berwyn Heights,24033,Prince George's County,Incorporated place,38.992854,-76.913451,1
+MD,2407125,place:MD:2407125,Bethesda CDP,Bethesda,Bethesda,24031,Montgomery County,Census-designated place,38.987292,-77.118612,1
+MD,2407200,place:MD:2407200,Betterton town,Betterton,Betterton,24029,Kent County,Incorporated place,39.367072,-76.072495,1
+MD,2407285,place:MD:2407285,Bier CDP,Bier,Bier,24001,Allegany County,Census-designated place,39.55513,-78.871122,1
+MD,2407375,place:MD:2407375,Big Pool CDP,Big Pool,Big Pool,24043,Washington County,Census-designated place,39.625094,-78.016168,1
+MD,2407400,place:MD:2407400,Big Spring CDP,Big Spring,Big Spring,24043,Washington County,Census-designated place,39.625902,-77.939632,1
+MD,2407625,place:MD:2407625,Bishopville CDP,Bishopville,Bishopville,24047,Worcester County,Census-designated place,38.438627,-75.209468,1
+MD,2407675,place:MD:2407675,Bivalve CDP,Bivalve,Bivalve,24045,Wicomico County,Census-designated place,38.306219,-75.880626,1
+MD,2407850,place:MD:2407850,Bladensburg town,Bladensburg,Bladensburg,24033,Prince George's County,Incorporated place,38.941622,-76.927838,1
+MD,2408050,place:MD:2408050,Bloomington CDP,Bloomington,Bloomington,24023,Garrett County,Census-designated place,39.481331,-79.07851,1
+MD,2408625,place:MD:2408625,Boonsboro town,Boonsboro,Boonsboro,24043,Washington County,Incorporated place,39.507897,-77.658614,1
+MD,2408775,place:MD:2408775,Bowie city,Bowie,Bowie,24033,Prince George's County,Incorporated place,38.954703,-76.738834,1
+MD,2408800,place:MD:2408800,Bowleys Quarters CDP,Bowleys Quarters,Bowleys Quarters,24005,Baltimore County,Census-designated place,39.312451,-76.38273,1
+MD,2408850,place:MD:2408850,Bowling Green CDP,Bowling Green,Bowling Green,24001,Allegany County,Census-designated place,39.62713,-78.805046,1
+MD,2408862,place:MD:2408862,Bowmans Addition CDP,Bowmans Addition,Bowmans Addition,24001,Allegany County,Census-designated place,39.686314,-78.755032,1
+MD,2409100,place:MD:2409100,Braddock Heights CDP,Braddock Heights,Braddock Heights,24021,Frederick County,Census-designated place,39.409522,-77.493564,1
+MD,2409325,place:MD:2409325,Brandywine CDP,Brandywine,Brandywine,24033,Prince George's County,Census-designated place,38.682795,-76.884463,1
+MD,2409400,place:MD:2409400,Breathedsville CDP,Breathedsville,Breathedsville,24043,Washington County,Census-designated place,39.54601,-77.724548,1
+MD,2409500,place:MD:2409500,Brentwood town,Brentwood,Brentwood,24033,Prince George's County,Incorporated place,38.943883,-76.957046,1
+MD,2410150,place:MD:2410150,Brock Hall CDP,Brock Hall,Brock Hall,24033,Prince George's County,Census-designated place,38.855852,-76.742435,1
+MD,2410225,place:MD:2410225,Brookeville town,Brookeville,Brookeville,24031,Montgomery County,Incorporated place,39.182514,-77.059725,1
+MD,2410475,place:MD:2410475,Brooklyn Park CDP,Brooklyn Park,Brooklyn Park,24003,Anne Arundel County,Census-designated place,39.2195,-76.620921,1
+MD,2410500,place:MD:2410500,Brookmont CDP,Brookmont,Brookmont,24031,Montgomery County,Census-designated place,38.953831,-77.12902,1
+MD,2410575,place:MD:2410575,Brookview town,Brookview,Brookview,24019,Dorchester County,Incorporated place,38.574011,-75.792963,1
+MD,2410650,place:MD:2410650,Broomes Island CDP,Broomes Island,Broomes Island,24009,Calvert County,Census-designated place,38.411433,-76.548214,1
+MD,2410737,place:MD:2410737,Brown Station CDP,Brown Station,Brown Station,24033,Prince George's County,Census-designated place,38.85046,-76.785471,1
+MD,2410800,place:MD:2410800,Brownsville CDP,Brownsville,Brownsville,24043,Washington County,Census-designated place,39.378174,-77.661555,1
+MD,2410900,place:MD:2410900,Brunswick city,Brunswick,Brunswick,24021,Frederick County,Incorporated place,39.318165,-77.625799,1
+MD,2410925,place:MD:2410925,Bryans Road CDP,Bryans Road,Bryans Road,24017,Charles County,Census-designated place,38.604428,-77.09224,1
+MD,2410950,place:MD:2410950,Bryantown CDP,Bryantown,Bryantown,24017,Charles County,Census-designated place,38.548839,-76.842182,1
+MD,2411050,place:MD:2411050,Buckeystown CDP,Buckeystown,Buckeystown,24021,Frederick County,Census-designated place,39.324138,-77.428135,1
+MD,2411400,place:MD:2411400,Burkittsville town,Burkittsville,Burkittsville,24021,Frederick County,Incorporated place,39.393405,-77.62772,1
+MD,2411550,place:MD:2411550,Burnt Mills CDP,Burnt Mills,Burnt Mills,24031,Montgomery County,Census-designated place,39.033984,-76.998272,1
+MD,2411750,place:MD:2411750,Burtonsville CDP,Burtonsville,Burtonsville,24031,Montgomery County,Census-designated place,39.123765,-76.933865,1
+MD,2411900,place:MD:2411900,Butlertown CDP,Butlertown,Butlertown,24029,Kent County,Census-designated place,39.282194,-76.099165,1
+MD,2412075,place:MD:2412075,Cabin John CDP,Cabin John,Cabin John,24031,Montgomery County,Census-designated place,38.974014,-77.163841,1
+MD,2412150,place:MD:2412150,California CDP,California,California,24037,St. Mary's County,Census-designated place,38.297599,-76.492143,1
+MD,2412175,place:MD:2412175,Callaway CDP,Callaway,Callaway,24037,St. Mary's County,Census-designated place,38.235042,-76.535737,1
+MD,2412300,place:MD:2412300,Calvert Beach CDP,Calvert Beach,Calvert Beach,24009,Calvert County,Census-designated place,38.472799,-76.489676,1
+MD,2412350,place:MD:2412350,Calverton CDP,Calverton,Calverton,24031,Montgomery County,Census-designated place,39.058085,-76.950848,1
+MD,2412400,place:MD:2412400,Cambridge city,Cambridge,Cambridge,24019,Dorchester County,Incorporated place,38.554084,-76.077157,1
+MD,2412600,place:MD:2412600,Camp Springs CDP,Camp Springs,Camp Springs,24033,Prince George's County,Census-designated place,38.80491,-76.918321,1
+MD,2412912,place:MD:2412912,Cape St. Claire CDP,Cape St. Claire,Cape St. Claire,24003,Anne Arundel County,Census-designated place,39.043634,-76.445339,1
+MD,2413000,place:MD:2413000,Capitol Heights town,Capitol Heights,Capitol Heights,24033,Prince George's County,Incorporated place,38.87492,-76.879575,1
+MD,2413225,place:MD:2413225,Carlos CDP,Carlos,Carlos,24001,Allegany County,Census-designated place,39.623743,-78.95668,1
+MD,2413325,place:MD:2413325,Carney CDP,Carney,Carney,24005,Baltimore County,Census-designated place,39.404896,-76.522725,1
+MD,2414125,place:MD:2414125,Catonsville CDP,Catonsville,Catonsville,24005,Baltimore County,Census-designated place,39.264164,-76.742442,1
+MD,2414225,place:MD:2414225,Cavetown CDP,Cavetown,Cavetown,24043,Washington County,Census-designated place,39.642658,-77.5932,1
+MD,2414300,place:MD:2414300,Cearfoss CDP,Cearfoss,Cearfoss,24043,Washington County,Census-designated place,39.699133,-77.77634,1
+MD,2414325,place:MD:2414325,Cecilton town,Cecilton,Cecilton,24015,Cecil County,Incorporated place,39.404824,-75.867412,1
+MD,2414550,place:MD:2414550,Cedar Heights CDP,Cedar Heights,Cedar Heights,24033,Prince George's County,Census-designated place,38.903738,-76.905879,1
+MD,2414800,place:MD:2414800,Cedarville CDP,Cedarville,Cedarville,24033,Prince George's County,Census-designated place,38.656912,-76.82201,1
+MD,2414950,place:MD:2414950,Centreville town,Centreville,Centreville,24035,Queen Anne's County,Incorporated place,39.042265,-76.062538,1
+MD,2415075,place:MD:2415075,Chance CDP,Chance,Chance,24039,Somerset County,Census-designated place,38.178039,-75.938787,1
+MD,2415400,place:MD:2415400,Charlestown town,Charlestown,Charlestown,24015,Cecil County,Incorporated place,39.582121,-75.986712,1
+MD,2415475,place:MD:2415475,Charlotte Hall CDP,Charlotte Hall,Charlotte Hall,24037,St. Mary's County,Census-designated place,38.468236,-76.782645,1
+MD,2415500,place:MD:2415500,Charlton CDP,Charlton,Charlton,24043,Washington County,Census-designated place,39.634401,-77.894364,1
+MD,2415925,place:MD:2415925,Chesapeake Beach town,Chesapeake Beach,Chesapeake Beach,24009,Calvert County,Incorporated place,38.690303,-76.554771,1
+MD,2415950,place:MD:2415950,Chesapeake City town,Chesapeake City,Chesapeake City,24015,Cecil County,Incorporated place,39.53032,-75.806332,1
+MD,2416025,place:MD:2416025,Chesapeake Landing CDP,Chesapeake Landing,Chesapeake Landing,24029,Kent County,Census-designated place,39.269347,-76.157236,1
+MD,2416050,place:MD:2416050,Chesapeake Ranch Estates CDP,Chesapeake Ranch Estates,Chesapeake Ranch Estates,24009,Calvert County,Census-designated place,38.36177,-76.415364,1
+MD,2416125,place:MD:2416125,Chester CDP,Chester,Chester,24035,Queen Anne's County,Census-designated place,38.960198,-76.287533,1
+MD,2416225,place:MD:2416225,Chestertown town,Chestertown,Chestertown,24029,Kent County,Incorporated place,39.218383,-76.074022,1
+MD,2416550,place:MD:2416550,Cheverly town,Cheverly,Cheverly,24033,Prince George's County,Incorporated place,38.925931,-76.913468,1
+MD,2416620,place:MD:2416620,Chevy Chase town,Chevy Chase,Chevy Chase town,24031,Montgomery County,Incorporated place,38.981893,-77.083197,1
+MD,2416625,place:MD:2416625,Chevy Chase CDP,Chevy Chase,Chevy Chase CDP,24031,Montgomery County,Census-designated place,38.993256,-77.072392,1
+MD,2416720,place:MD:2416720,Chevy Chase Section Five village,Chevy Chase Section Five,Chevy Chase Section Five,24031,Montgomery County,Incorporated place,38.9839,-77.073953,1
+MD,2416730,place:MD:2416730,Chevy Chase Section Three village,Chevy Chase Section Three,Chevy Chase Section Three,24031,Montgomery County,Incorporated place,38.979248,-77.074209,1
+MD,2416775,place:MD:2416775,Chevy Chase View town,Chevy Chase View,Chevy Chase View,24031,Montgomery County,Incorporated place,39.019246,-77.081175,1
+MD,2416787,place:MD:2416787,Chevy Chase Village town,Chevy Chase Village,Chevy Chase Village,24031,Montgomery County,Incorporated place,38.969764,-77.079283,1
+MD,2416800,place:MD:2416800,Chewsville CDP,Chewsville,Chewsville,24043,Washington County,Census-designated place,39.648415,-77.631239,1
+MD,2416875,place:MD:2416875,Chillum CDP,Chillum,Chillum,24033,Prince George's County,Census-designated place,38.966667,-76.978885,1
+MD,2417000,place:MD:2417000,Choptank CDP,Choptank,Choptank,24011,Caroline County,Census-designated place,38.682282,-75.949398,1
+MD,2417050,place:MD:2417050,Church Creek town,Church Creek,Church Creek,24019,Dorchester County,Incorporated place,38.504898,-76.154007,1
+MD,2417100,place:MD:2417100,Church Hill town,Church Hill,Church Hill,24035,Queen Anne's County,Incorporated place,39.145,-75.98077,1
+MD,2417350,place:MD:2417350,Clarksburg CDP,Clarksburg,Clarksburg,24031,Montgomery County,Census-designated place,39.222893,-77.266079,1
+MD,2417475,place:MD:2417475,Clarysville CDP,Clarysville,Clarysville,24001,Allegany County,Census-designated place,39.642026,-78.888947,1
+MD,2417600,place:MD:2417600,Clear Spring town,Clear Spring,Clear Spring,24043,Washington County,Incorporated place,39.65605,-77.930373,1
+MD,2417900,place:MD:2417900,Clinton CDP,Clinton,Clinton,24033,Prince George's County,Census-designated place,38.742826,-76.908675,1
+MD,2418150,place:MD:2418150,Cloverly CDP,Cloverly,Cloverly,24031,Montgomery County,Census-designated place,39.103947,-76.994829,1
+MD,2418200,place:MD:2418200,Cobb Island CDP,Cobb Island,Cobb Island,24017,Charles County,Census-designated place,38.263698,-76.848986,1
+MD,2418250,place:MD:2418250,Cockeysville CDP,Cockeysville,Cockeysville,24005,Baltimore County,Census-designated place,39.477718,-76.629295,1
+MD,2418475,place:MD:2418475,Colesville CDP,Colesville,Colesville,24031,Montgomery County,Census-designated place,39.07284,-77.00058,1
+MD,2418750,place:MD:2418750,College Park city,College Park,College Park,24033,Prince George's County,Incorporated place,38.996692,-76.936407,1
+MD,2418850,place:MD:2418850,Colmar Manor town,Colmar Manor,Colmar Manor,24033,Prince George's County,Incorporated place,38.926801,-76.943876,1
+MD,2419125,place:MD:2419125,Columbia CDP,Columbia,Columbia,24027,Howard County,Census-designated place,39.201146,-76.85905,1
+MD,2419825,place:MD:2419825,Coral Hills CDP,Coral Hills,Coral Hills,24033,Prince George's County,Census-designated place,38.872313,-76.920979,1
+MD,2419900,place:MD:2419900,Cordova CDP,Cordova,Cordova,24041,Talbot County,Census-designated place,38.86801,-75.998885,1
+MD,2419975,place:MD:2419975,Corriganville CDP,Corriganville,Corriganville,24001,Allegany County,Census-designated place,39.694646,-78.79726,1
+MD,2420050,place:MD:2420050,Cottage City town,Cottage City,Cottage City,24033,Prince George's County,Incorporated place,38.938399,-76.949445,1
+MD,2420500,place:MD:2420500,Crellin CDP,Crellin,Crellin,24023,Garrett County,Census-designated place,39.388631,-79.468471,1
+MD,2420525,place:MD:2420525,Cresaptown CDP,Cresaptown,Cresaptown,24001,Allegany County,Census-designated place,39.593506,-78.83505,1
+MD,2420775,place:MD:2420775,Crisfield city,Crisfield,Crisfield,24039,Somerset County,Incorporated place,37.981598,-75.858024,1
+MD,2420875,place:MD:2420875,Crofton CDP,Crofton,Crofton,24003,Anne Arundel County,Census-designated place,39.014439,-76.680007,1
+MD,2420925,place:MD:2420925,Croom CDP,Croom,Croom,24033,Prince George's County,Census-designated place,38.739726,-76.755204,1
+MD,2421075,place:MD:2421075,Crownsville CDP,Crownsville,Crownsville,24003,Anne Arundel County,Census-designated place,39.022462,-76.590377,1
+MD,2421150,place:MD:2421150,Crumpton CDP,Crumpton,Crumpton,24035,Queen Anne's County,Census-designated place,39.233174,-75.922049,1
+MD,2421325,place:MD:2421325,Cumberland city,Cumberland,Cumberland,24001,Allegany County,Incorporated place,39.651739,-78.757948,1
+MD,2421475,place:MD:2421475,Damascus CDP,Damascus,Damascus,24031,Montgomery County,Census-designated place,39.270995,-77.196834,1
+MD,2421550,place:MD:2421550,Dames Quarter CDP,Dames Quarter,Dames Quarter,24039,Somerset County,Census-designated place,38.17292,-75.890024,1
+MD,2421675,place:MD:2421675,Danville CDP,Danville,Danville,24001,Allegany County,Census-designated place,39.510165,-78.917545,1
+MD,2421750,place:MD:2421750,Dargan CDP,Dargan,Dargan,24043,Washington County,Census-designated place,39.376676,-77.734045,1
+MD,2421800,place:MD:2421800,Darlington CDP,Darlington,Darlington,24025,Harford County,Census-designated place,39.642448,-76.203521,1
+MD,2421825,place:MD:2421825,Darnestown CDP,Darnestown,Darnestown,24031,Montgomery County,Census-designated place,39.089716,-77.311388,1
+MD,2421925,place:MD:2421925,Dawson CDP,Dawson,Dawson,24001,Allegany County,Census-designated place,39.47743,-78.947669,1
+MD,2422100,place:MD:2422100,Deal Island CDP,Deal Island,Deal Island,24039,Somerset County,Census-designated place,38.1537,-75.940573,1
+MD,2422050,place:MD:2422050,Deale CDP,Deale,Deale,24003,Anne Arundel County,Census-designated place,38.786073,-76.540716,1
+MD,2422275,place:MD:2422275,Deer Park town,Deer Park,Deer Park,24023,Garrett County,Incorporated place,39.423961,-79.325986,1
+MD,2422600,place:MD:2422600,Delmar town,Delmar,Delmar,24045,Wicomico County,Incorporated place,38.441509,-75.559703,1
+MD,2422725,place:MD:2422725,Denton town,Denton,Denton,24011,Caroline County,Incorporated place,38.879421,-75.824452,1
+MD,2422775,place:MD:2422775,Derwood CDP,Derwood,Derwood,24031,Montgomery County,Census-designated place,39.114116,-77.150228,1
+MD,2422825,place:MD:2422825,Detmold CDP,Detmold,Detmold,24001,Allegany County,Census-designated place,39.557365,-78.991143,1
+MD,2423025,place:MD:2423025,District Heights city,District Heights,District Heights,24033,Prince George's County,Incorporated place,38.858871,-76.888436,1
+MD,2423500,place:MD:2423500,Downsville CDP,Downsville,Downsville,24043,Washington County,Census-designated place,39.55482,-77.80163,1
+MD,2423700,place:MD:2423700,Drum Point CDP,Drum Point,Drum Point,24009,Calvert County,Census-designated place,38.326645,-76.434555,1
+MD,2423975,place:MD:2423975,Dundalk CDP,Dundalk,Dundalk,24005,Baltimore County,Census-designated place,39.267267,-76.497601,1
+MD,2424050,place:MD:2424050,Dunkirk CDP,Dunkirk,Dunkirk,24009,Calvert County,Census-designated place,38.725045,-76.676667,1
+MD,2424200,place:MD:2424200,Eagle Harbor town,Eagle Harbor,Eagle Harbor,24033,Prince George's County,Incorporated place,38.566679,-76.686946,1
+MD,2424250,place:MD:2424250,Eakles Mill CDP,Eakles Mill,Eakles Mill,24043,Washington County,Census-designated place,39.467067,-77.68596,1
+MD,2424450,place:MD:2424450,East New Market town,East New Market,East New Market,24019,Dorchester County,Incorporated place,38.597025,-75.923126,1
+MD,2424650,place:MD:2424650,East Riverdale CDP,East Riverdale,East Riverdale,24033,Prince George's County,Census-designated place,38.959762,-76.91102,1
+MD,2424475,place:MD:2424475,Easton town,Easton,Easton,24041,Talbot County,Incorporated place,38.776262,-76.070478,1
+MD,2424825,place:MD:2424825,Eckhart Mines CDP,Eckhart Mines,Eckhart Mines,24001,Allegany County,Census-designated place,39.655233,-78.89411,1
+MD,2424850,place:MD:2424850,Eden CDP,Eden,Eden,24039,Somerset County,Census-designated place,38.278307,-75.65564,1
+MD,2424925,place:MD:2424925,Edesville CDP,Edesville,Edesville,24029,Kent County,Census-designated place,39.153861,-76.207235,1
+MD,2424950,place:MD:2424950,Edgemere CDP,Edgemere,Edgemere,24005,Baltimore County,Census-designated place,39.22486,-76.459124,1
+MD,2425000,place:MD:2425000,Edgemont CDP,Edgemont,Edgemont,24043,Washington County,Census-designated place,39.676611,-77.546948,1
+MD,2425050,place:MD:2425050,Edgewater CDP,Edgewater,Edgewater,24003,Anne Arundel County,Census-designated place,38.939653,-76.551401,1
+MD,2425150,place:MD:2425150,Edgewood CDP,Edgewood,Edgewood,24025,Harford County,Census-designated place,39.42029,-76.296846,1
+MD,2425425,place:MD:2425425,Edmonston town,Edmonston,Edmonston,24033,Prince George's County,Incorporated place,38.950778,-76.931177,1
+MD,2425575,place:MD:2425575,Eldersburg CDP,Eldersburg,Eldersburg,24013,Carroll County,Census-designated place,39.404082,-76.9523,1
+MD,2425600,place:MD:2425600,Eldorado town,Eldorado,Eldorado,24019,Dorchester County,Incorporated place,38.583051,-75.79027,1
+MD,2425750,place:MD:2425750,Elkridge CDP,Elkridge,Elkridge,24027,Howard County,Census-designated place,39.194624,-76.741569,1
+MD,2425800,place:MD:2425800,Elkton town,Elkton,Elkton,24015,Cecil County,Incorporated place,39.605776,-75.821686,1
+MD,2425925,place:MD:2425925,Ellerslie CDP,Ellerslie,Ellerslie,24001,Allegany County,Census-designated place,39.714027,-78.775707,1
+MD,2426000,place:MD:2426000,Ellicott City CDP,Ellicott City,Ellicott City,24027,Howard County,Census-designated place,39.275809,-76.834427,1
+MD,2426025,place:MD:2426025,Elliott CDP,Elliott,Elliott,24019,Dorchester County,Census-designated place,38.309611,-76.007036,1
+MD,2426200,place:MD:2426200,Emmitsburg town,Emmitsburg,Emmitsburg,24021,Frederick County,Incorporated place,39.705193,-77.321301,1
+MD,2426550,place:MD:2426550,Ernstville CDP,Ernstville,Ernstville,24043,Washington County,Census-designated place,39.630387,-78.023955,1
+MD,2426600,place:MD:2426600,Essex CDP,Essex,Essex,24005,Baltimore County,Census-designated place,39.300341,-76.442721,1
+MD,2427250,place:MD:2427250,Fairland CDP,Fairland,Fairland,24031,Montgomery County,Census-designated place,39.081374,-76.952012,1
+MD,2427325,place:MD:2427325,Fairlee CDP,Fairlee,Fairlee,24029,Kent County,Census-designated place,39.226031,-76.166373,1
+MD,2427375,place:MD:2427375,Fairmount CDP,Fairmount,Fairmount,24039,Somerset County,Census-designated place,38.109765,-75.820564,1
+MD,2427400,place:MD:2427400,Fairmount Heights town,Fairmount Heights,Fairmount Heights,24033,Prince George's County,Incorporated place,38.901591,-76.915339,1
+MD,2427425,place:MD:2427425,Fairplay CDP,Fairplay,Fairplay,24043,Washington County,Census-designated place,39.53567,-77.74631,1
+MD,2427500,place:MD:2427500,Fairview CDP,Fairview,Fairview,24043,Washington County,Census-designated place,39.711079,-77.840616,1
+MD,2427580,place:MD:2427580,Fairwood CDP,Fairwood,Fairwood,24033,Prince George's County,Census-designated place,38.954713,-76.776544,1
+MD,2427700,place:MD:2427700,Fallston CDP,Fallston,Fallston,24025,Harford County,Census-designated place,39.53378,-76.438546,1
+MD,2427900,place:MD:2427900,Federalsburg town,Federalsburg,Federalsburg,24011,Caroline County,Incorporated place,38.692265,-75.772465,1
+MD,2428075,place:MD:2428075,Ferndale CDP,Ferndale,Ferndale,24003,Anne Arundel County,Census-designated place,39.18696,-76.633107,1
+MD,2428275,place:MD:2428275,Finzel CDP,Finzel,Finzel,24023,Garrett County,Census-designated place,39.701721,-78.951997,1
+MD,2428300,place:MD:2428300,Fishing Creek CDP,Fishing Creek,Fishing Creek,24019,Dorchester County,Census-designated place,38.33834,-76.221079,1
+MD,2428425,place:MD:2428425,Flintstone CDP,Flintstone,Flintstone,24001,Allegany County,Census-designated place,39.703531,-78.575786,1
+MD,2428512,place:MD:2428512,Flower Hill CDP,Flower Hill,Flower Hill,24031,Montgomery County,Census-designated place,39.168443,-77.184443,1
+MD,2428640,place:MD:2428640,Forest Glen CDP,Forest Glen,Forest Glen,24031,Montgomery County,Census-designated place,39.018914,-77.045085,1
+MD,2428725,place:MD:2428725,Forest Heights town,Forest Heights,Forest Heights,24033,Prince George's County,Incorporated place,38.806535,-77.012478,1
+MD,2429000,place:MD:2429000,Forestville CDP,Forestville,Forestville,24033,Prince George's County,Census-designated place,38.850432,-76.871552,1
+MD,2429400,place:MD:2429400,Fort Meade CDP,Fort Meade,Fort Meade,24003,Anne Arundel County,Census-designated place,39.1057,-76.743278,1
+MD,2429450,place:MD:2429450,Fort Ritchie CDP,Fort Ritchie,Fort Ritchie,24043,Washington County,Census-designated place,39.703659,-77.506389,1
+MD,2429525,place:MD:2429525,Fort Washington CDP,Fort Washington,Fort Washington,24033,Prince George's County,Census-designated place,38.731868,-77.008662,1
+MD,2429712,place:MD:2429712,Fountainhead-Orchard Hills CDP,Fountainhead-Orchard Hills,Fountainhead-Orchard Hills,24043,Washington County,Census-designated place,39.687839,-77.717298,1
+MD,2429790,place:MD:2429790,Four Corners CDP,Four Corners,Four Corners,24031,Montgomery County,Census-designated place,39.023312,-77.010204,1
+MD,2430100,place:MD:2430100,Franklin CDP,Franklin,Franklin,24001,Allegany County,Census-designated place,39.498927,-79.051562,1
+MD,2430325,place:MD:2430325,Frederick city,Frederick,Frederick,24021,Frederick County,Incorporated place,39.438528,-77.411687,1
+MD,2430567,place:MD:2430567,Frenchtown-Rumbly CDP,Frenchtown-Rumbly,Frenchtown-Rumbly,24039,Somerset County,Census-designated place,38.07445,-75.853323,1
+MD,2430575,place:MD:2430575,Friendly CDP,Friendly,Friendly,24033,Prince George's County,Census-designated place,38.760284,-76.966952,1
+MD,2430650,place:MD:2430650,Friendship CDP,Friendship,Friendship,24003,Anne Arundel County,Census-designated place,38.735845,-76.58782,1
+MD,2430800,place:MD:2430800,Friendship Heights Village CDP,Friendship Heights Village,Friendship Heights Village,24031,Montgomery County,Census-designated place,38.963311,-77.089792,1
+MD,2430850,place:MD:2430850,Friendsville town,Friendsville,Friendsville,24023,Garrett County,Incorporated place,39.662448,-79.404414,1
+MD,2430900,place:MD:2430900,Frostburg city,Frostburg,Frostburg,24001,Allegany County,Incorporated place,39.650523,-78.926793,1
+MD,2430950,place:MD:2430950,Fruitland city,Fruitland,Fruitland,24045,Wicomico County,Incorporated place,38.319148,-75.627922,1
+MD,2431025,place:MD:2431025,Fulton CDP,Fulton,Fulton,24027,Howard County,Census-designated place,39.153098,-76.911548,1
+MD,2431100,place:MD:2431100,Funkstown town,Funkstown,Funkstown,24043,Washington County,Incorporated place,39.606748,-77.70509,1
+MD,2431175,place:MD:2431175,Gaithersburg city,Gaithersburg,Gaithersburg,24031,Montgomery County,Incorporated place,39.148601,-77.195131,1
+MD,2431225,place:MD:2431225,Galena town,Galena,Galena,24029,Kent County,Incorporated place,39.34284,-75.876808,1
+MD,2431250,place:MD:2431250,Galestown town,Galestown,Galestown,24019,Dorchester County,Incorporated place,38.562605,-75.715815,1
+MD,2431275,place:MD:2431275,Galesville CDP,Galesville,Galesville,24003,Anne Arundel County,Census-designated place,38.839311,-76.553959,1
+MD,2431350,place:MD:2431350,Gambrills CDP,Gambrills,Gambrills,24003,Anne Arundel County,Census-designated place,39.092835,-76.651133,1
+MD,2431400,place:MD:2431400,Gapland CDP,Gapland,Gapland,24043,Washington County,Census-designated place,39.40196,-77.658288,1
+MD,2431525,place:MD:2431525,Garrett Park town,Garrett Park,Garrett Park,24031,Montgomery County,Incorporated place,39.036067,-77.093466,1
+MD,2431575,place:MD:2431575,Garretts Mill CDP,Garretts Mill,Garretts Mill,24043,Washington County,Census-designated place,39.353335,-77.688911,1
+MD,2431625,place:MD:2431625,Garrison CDP,Garrison,Garrison,24005,Baltimore County,Census-designated place,39.402274,-76.751847,1
+MD,2431875,place:MD:2431875,Georgetown CDP,Georgetown,Georgetown,24029,Kent County,Census-designated place,39.221578,-76.19177,1
+MD,2432025,place:MD:2432025,Germantown CDP,Germantown,Germantown,24031,Montgomery County,Census-designated place,39.174252,-77.263754,1
+MD,2432175,place:MD:2432175,Gilmore CDP,Gilmore,Gilmore,24001,Allegany County,Census-designated place,39.58326,-78.951127,1
+MD,2432250,place:MD:2432250,Girdletree CDP,Girdletree,Girdletree,24047,Worcester County,Census-designated place,38.098879,-75.400257,1
+MD,2432350,place:MD:2432350,Glassmanor CDP,Glassmanor,Glassmanor,24033,Prince George's County,Census-designated place,38.818138,-76.983152,1
+MD,2432650,place:MD:2432650,Glen Burnie CDP,Glen Burnie,Glen Burnie,24003,Anne Arundel County,Census-designated place,39.156271,-76.606996,1
+MD,2432900,place:MD:2432900,Glen Echo town,Glen Echo,Glen Echo,24031,Montgomery County,Incorporated place,38.968819,-77.142094,1
+MD,2432500,place:MD:2432500,Glenarden city,Glenarden,Glenarden,24033,Prince George's County,Incorporated place,38.929288,-76.857688,1
+MD,2433250,place:MD:2433250,Glenmont CDP,Glenmont,Glenmont,24031,Montgomery County,Census-designated place,39.072378,-77.046999,1
+MD,2433400,place:MD:2433400,Glenn Dale CDP,Glenn Dale,Glenn Dale,24033,Prince George's County,Census-designated place,38.984822,-76.800517,1
+MD,2433850,place:MD:2433850,Golden Beach CDP,Golden Beach,Golden Beach,24037,St. Mary's County,Census-designated place,38.490978,-76.701467,1
+MD,2433950,place:MD:2433950,Goldsboro town,Goldsboro,Goldsboro,24011,Caroline County,Incorporated place,39.030083,-75.780478,1
+MD,2434150,place:MD:2434150,Gorman CDP,Gorman,Gorman,24023,Garrett County,Census-designated place,39.292702,-79.35275,1
+MD,2434350,place:MD:2434350,Graceham CDP,Graceham,Graceham,24021,Frederick County,Census-designated place,39.617407,-77.387069,1
+MD,2434425,place:MD:2434425,Grahamtown CDP,Grahamtown,Grahamtown,24001,Allegany County,Census-designated place,39.644861,-78.922288,1
+MD,2434525,place:MD:2434525,Grantsville town,Grantsville,Grantsville,24023,Garrett County,Incorporated place,39.696916,-79.152849,1
+MD,2434550,place:MD:2434550,Grasonville CDP,Grasonville,Grasonville,24035,Queen Anne's County,Census-designated place,38.957625,-76.197737,1
+MD,2435412,place:MD:2435412,Green Valley CDP,Green Valley,Green Valley,24021,Frederick County,Census-designated place,39.341832,-77.240329,1
+MD,2434775,place:MD:2434775,Greenbelt city,Greenbelt,Greenbelt,24033,Prince George's County,Incorporated place,38.99467,-76.885399,1
+MD,2435200,place:MD:2435200,Greensboro town,Greensboro,Greensboro,24011,Caroline County,Incorporated place,38.976354,-75.808076,1
+MD,2435225,place:MD:2435225,Greensburg CDP,Greensburg,Greensburg,24043,Washington County,Census-designated place,39.68075,-77.561545,1
+MD,2436075,place:MD:2436075,Hagerstown city,Hagerstown,Hagerstown,24043,Washington County,Incorporated place,39.637986,-77.723252,1
+MD,2436125,place:MD:2436125,Halfway CDP,Halfway,Halfway,24043,Washington County,Census-designated place,39.615667,-77.771068,1
+MD,2436500,place:MD:2436500,Hampstead town,Hampstead,Hampstead,24013,Carroll County,Incorporated place,39.614597,-76.854801,1
+MD,2436512,place:MD:2436512,Hampton CDP,Hampton,Hampton,24005,Baltimore County,Census-designated place,39.431017,-76.56593,1
+MD,2436600,place:MD:2436600,Hancock town,Hancock,Hancock,24043,Washington County,Incorporated place,39.704574,-78.163265,1
+MD,2437600,place:MD:2437600,Havre de Grace city,Havre de Grace,Havre de Grace,24025,Harford County,Incorporated place,39.546572,-76.113576,1
+MD,2437875,place:MD:2437875,Hebron town,Hebron,Hebron,24045,Wicomico County,Incorporated place,38.424252,-75.687165,1
+MD,2437925,place:MD:2437925,Henderson town,Henderson,Henderson,24011,Caroline County,Incorporated place,39.074942,-75.766077,1
+MD,2438025,place:MD:2438025,Herald Harbor CDP,Herald Harbor,Herald Harbor,24003,Anne Arundel County,Census-designated place,39.051265,-76.57492,1
+MD,2438437,place:MD:2438437,Highfield-Cascade CDP,Highfield-Cascade,Highfield-Cascade,24043,Washington County,Census-designated place,39.713592,-77.494566,1
+MD,2438475,place:MD:2438475,Highland CDP,Highland,Highland,24027,Howard County,Census-designated place,39.187233,-76.956917,1
+MD,2438500,place:MD:2438500,Highland Beach town,Highland Beach,Highland Beach,24003,Anne Arundel County,Incorporated place,38.931139,-76.467018,1
+MD,2438850,place:MD:2438850,Hillandale CDP,Hillandale,Hillandale,24031,Montgomery County,Census-designated place,39.026428,-76.975179,1
+MD,2438975,place:MD:2438975,Hillcrest Heights CDP,Hillcrest Heights,Hillcrest Heights,24033,Prince George's County,Census-designated place,38.836577,-76.970905,1
+MD,2439175,place:MD:2439175,Hillsboro town,Hillsboro,Hillsboro,24011,Caroline County,Incorporated place,38.917043,-75.941779,1
+MD,2440200,place:MD:2440200,Honeygo CDP,Honeygo,Honeygo,24005,Baltimore County,Census-designated place,39.40497,-76.430009,1
+MD,2440700,place:MD:2440700,Hughesville CDP,Hughesville,Hughesville,24017,Charles County,Census-designated place,38.543935,-76.78174,1
+MD,2441025,place:MD:2441025,Huntingtown CDP,Huntingtown,Huntingtown,24009,Calvert County,Census-designated place,38.606645,-76.623836,1
+MD,2441125,place:MD:2441125,Hurlock town,Hurlock,Hurlock,24019,Dorchester County,Incorporated place,38.625739,-75.867517,1
+MD,2441175,place:MD:2441175,Hutton CDP,Hutton,Hutton,24023,Garrett County,Census-designated place,39.414494,-79.480044,1
+MD,2441250,place:MD:2441250,Hyattsville city,Hyattsville,Hyattsville,24033,Prince George's County,Incorporated place,38.961205,-76.954935,1
+MD,2441475,place:MD:2441475,Ilchester CDP,Ilchester,Ilchester,24027,Howard County,Census-designated place,39.21611,-76.762058,1
+MD,2441500,place:MD:2441500,Indian Head town,Indian Head,Indian Head,24017,Charles County,Incorporated place,38.598622,-77.155654,1
+MD,2441700,place:MD:2441700,Indian Springs CDP,Indian Springs,Indian Springs,24043,Washington County,Census-designated place,39.645634,-78.007402,1
+MD,2442325,place:MD:2442325,Jarrettsville CDP,Jarrettsville,Jarrettsville,24025,Harford County,Census-designated place,39.600744,-76.47241,1
+MD,2442350,place:MD:2442350,Jefferson CDP,Jefferson,Jefferson,24021,Frederick County,Census-designated place,39.365345,-77.540671,1
+MD,2442450,place:MD:2442450,Jennings CDP,Jennings,Jennings,24023,Garrett County,Census-designated place,39.648657,-79.183497,1
+MD,2442550,place:MD:2442550,Jessup CDP,Jessup,Jessup,24003,Anne Arundel County,Census-designated place,39.14832,-76.776904,1
+MD,2442575,place:MD:2442575,Jesterville CDP,Jesterville,Jesterville,24045,Wicomico County,Census-designated place,38.290479,-75.889931,1
+MD,2442875,place:MD:2442875,Joppatowne CDP,Joppatowne,Joppatowne,24025,Harford County,Census-designated place,39.416452,-76.351992,1
+MD,2442950,place:MD:2442950,Jugtown CDP,Jugtown,Jugtown,24043,Washington County,Census-designated place,39.614277,-77.5943,1
+MD,2443100,place:MD:2443100,Keedysville town,Keedysville,Keedysville,24043,Washington County,Incorporated place,39.486316,-77.697728,1
+MD,2443200,place:MD:2443200,Kemp Mill CDP,Kemp Mill,Kemp Mill,24031,Montgomery County,Census-designated place,39.041101,-77.021995,1
+MD,2443280,place:MD:2443280,Kemps Mill CDP,Kemps Mill,Kemps Mill,24043,Washington County,Census-designated place,39.62687,-77.813902,1
+MD,2443475,place:MD:2443475,Kennedyville CDP,Kennedyville,Kennedyville,24029,Kent County,Census-designated place,39.302669,-75.994105,1
+MD,2443500,place:MD:2443500,Kensington town,Kensington,Kensington,24031,Montgomery County,Incorporated place,39.026825,-77.073745,1
+MD,2443725,place:MD:2443725,Kent Narrows CDP,Kent Narrows,Kent Narrows,24035,Queen Anne's County,Census-designated place,38.970888,-76.232675,1
+MD,2443900,place:MD:2443900,Kettering CDP,Kettering,Kettering,24033,Prince George's County,Census-designated place,38.889656,-76.790302,1
+MD,2444325,place:MD:2444325,Kingstown CDP,Kingstown,Kingstown,24035,Queen Anne's County,Census-designated place,39.207626,-76.04391,1
+MD,2444350,place:MD:2444350,Kingsville CDP,Kingsville,Kingsville,24005,Baltimore County,Census-designated place,39.451318,-76.430316,1
+MD,2444450,place:MD:2444450,Kitzmiller town,Kitzmiller,Kitzmiller,24023,Garrett County,Incorporated place,39.389159,-79.183284,1
+MD,2444525,place:MD:2444525,Klondike CDP,Klondike,Klondike,24001,Allegany County,Census-designated place,39.610247,-78.96314,1
+MD,2444715,place:MD:2444715,Konterra CDP,Konterra,Konterra,24033,Prince George's County,Census-designated place,39.080797,-76.899575,1
+MD,2445750,place:MD:2445750,La Plata town,La Plata,La Plata,24017,Charles County,Incorporated place,38.543392,-76.969811,1
+MD,2446075,place:MD:2446075,La Vale CDP,La Vale,La Vale,24001,Allegany County,Census-designated place,39.671636,-78.826592,1
+MD,2444817,place:MD:2444817,Lake Arbor CDP,Lake Arbor,Lake Arbor,24033,Prince George's County,Census-designated place,38.908826,-76.832307,1
+MD,2444975,place:MD:2444975,Lake Shore CDP,Lake Shore,Lake Shore,24003,Anne Arundel County,Census-designated place,39.091975,-76.489649,1
+MD,2445325,place:MD:2445325,Landover CDP,Landover,Landover,24033,Prince George's County,Census-designated place,38.924395,-76.887604,1
+MD,2445400,place:MD:2445400,Landover Hills town,Landover Hills,Landover Hills,24033,Prince George's County,Incorporated place,38.942779,-76.894109,1
+MD,2445525,place:MD:2445525,Langley Park CDP,Langley Park,Langley Park,24033,Prince George's County,Census-designated place,38.989499,-76.980742,1
+MD,2445550,place:MD:2445550,Lanham CDP,Lanham,Lanham,24033,Prince George's County,Census-designated place,38.962189,-76.839237,1
+MD,2445650,place:MD:2445650,Lansdowne CDP,Lansdowne,Lansdowne,24005,Baltimore County,Census-designated place,39.23553,-76.664696,1
+MD,2445825,place:MD:2445825,Largo CDP,Largo,Largo,24033,Prince George's County,Census-designated place,38.883861,-76.824944,1
+MD,2445900,place:MD:2445900,Laurel city,Laurel,Laurel,24033,Prince George's County,Incorporated place,39.095026,-76.861096,1
+MD,2446150,place:MD:2446150,Layhill CDP,Layhill,Layhill,24031,Montgomery County,Census-designated place,39.089652,-77.039971,1
+MD,2446250,place:MD:2446250,Laytonsville town,Laytonsville,Laytonsville,24031,Montgomery County,Incorporated place,39.208854,-77.135266,1
+MD,2446375,place:MD:2446375,Leisure World CDP,Leisure World,Leisure World,24031,Montgomery County,Census-designated place,39.104198,-77.068933,1
+MD,2446400,place:MD:2446400,Leitersburg CDP,Leitersburg,Leitersburg,24043,Washington County,Census-designated place,39.692806,-77.620642,1
+MD,2446475,place:MD:2446475,Leonardtown town,Leonardtown,Leonardtown,24037,St. Mary's County,Incorporated place,38.303891,-76.639653,1
+MD,2446650,place:MD:2446650,Lewistown CDP,Lewistown,Lewistown,24021,Frederick County,Census-designated place,39.54021,-77.420555,1
+MD,2446725,place:MD:2446725,Lexington Park CDP,Lexington Park,Lexington Park,24037,St. Mary's County,Census-designated place,38.249432,-76.443451,1
+MD,2446800,place:MD:2446800,Libertytown CDP,Libertytown,Libertytown,24021,Frederick County,Census-designated place,39.48911,-77.256919,1
+MD,2447040,place:MD:2447040,Linganore CDP,Linganore,Linganore,24021,Frederick County,Census-designated place,39.413897,-77.300683,1
+MD,2447125,place:MD:2447125,Linthicum CDP,Linthicum,Linthicum,24003,Anne Arundel County,Census-designated place,39.209381,-76.664439,1
+MD,2447250,place:MD:2447250,Lisbon CDP,Lisbon,Lisbon,24027,Howard County,Census-designated place,39.336634,-77.070491,1
+MD,2447275,place:MD:2447275,Little Orleans CDP,Little Orleans,Little Orleans,24001,Allegany County,Census-designated place,39.63123,-78.399394,1
+MD,2447525,place:MD:2447525,Loch Lynn Heights town,Loch Lynn Heights,Loch Lynn Heights,24023,Garrett County,Incorporated place,39.391832,-79.372671,1
+MD,2447450,place:MD:2447450,Lochearn CDP,Lochearn,Lochearn,24005,Baltimore County,Census-designated place,39.34793,-76.727214,1
+MD,2447875,place:MD:2447875,Lonaconing town,Lonaconing,Lonaconing,24001,Allegany County,Incorporated place,39.565581,-78.978791,1
+MD,2448025,place:MD:2448025,Long Beach CDP,Long Beach,Long Beach,24009,Calvert County,Census-designated place,38.458273,-76.473905,1
+MD,2448775,place:MD:2448775,Luke town,Luke,Luke,24001,Allegany County,Incorporated place,39.47859,-79.05887,1
+MD,2448800,place:MD:2448800,Lusby CDP,Lusby,Lusby,24009,Calvert County,Census-designated place,38.362678,-76.438025,1
+MD,2448875,place:MD:2448875,Lutherville CDP,Lutherville,Lutherville,24005,Baltimore County,Census-designated place,39.423965,-76.61767,1
+MD,2449700,place:MD:2449700,Madison CDP,Madison,Madison,24019,Dorchester County,Census-designated place,38.508928,-76.204222,1
+MD,2449950,place:MD:2449950,Manchester town,Manchester,Manchester,24013,Carroll County,Incorporated place,39.653159,-76.88666,1
+MD,2450375,place:MD:2450375,Mapleville CDP,Mapleville,Mapleville,24043,Washington County,Census-designated place,39.535702,-77.646244,1
+MD,2450525,place:MD:2450525,Mardela Springs town,Mardela Springs,Mardela Springs,24045,Wicomico County,Incorporated place,38.457811,-75.755377,1
+MD,2450680,place:MD:2450680,Marlboro Meadows CDP,Marlboro Meadows,Marlboro Meadows,24033,Prince George's County,Census-designated place,38.841343,-76.711483,1
+MD,2450685,place:MD:2450685,Marlboro Village CDP,Marlboro Village,Marlboro Village,24033,Prince George's County,Census-designated place,38.834902,-76.768824,1
+MD,2450750,place:MD:2450750,Marlow Heights CDP,Marlow Heights,Marlow Heights,24033,Prince George's County,Census-designated place,38.821055,-76.940864,1
+MD,2450775,place:MD:2450775,Marlton CDP,Marlton,Marlton,24033,Prince George's County,Census-designated place,38.761088,-76.786536,1
+MD,2450965,place:MD:2450965,Martin's Additions village,Martin's Additions,Martin's Additions,24031,Montgomery County,Incorporated place,38.979368,-77.069278,1
+MD,2451025,place:MD:2451025,Marydel town,Marydel,Marydel,24011,Caroline County,Incorporated place,39.113071,-75.74951,1
+MD,2451075,place:MD:2451075,Maryland City CDP,Maryland City,Maryland City,24003,Anne Arundel County,Census-designated place,39.101609,-76.805188,1
+MD,2451125,place:MD:2451125,Maryland Park CDP,Maryland Park,Maryland Park,24033,Prince George's County,Census-designated place,38.889023,-76.907465,1
+MD,2451425,place:MD:2451425,Maugansville CDP,Maugansville,Maugansville,24043,Washington County,Census-designated place,39.693681,-77.747151,1
+MD,2451575,place:MD:2451575,Mayo CDP,Mayo,Mayo,24003,Anne Arundel County,Census-designated place,38.904169,-76.513403,1
+MD,2451587,place:MD:2451587,Mays Chapel CDP,Mays Chapel,Mays Chapel,24005,Baltimore County,Census-designated place,39.442523,-76.658627,1
+MD,2449325,place:MD:2449325,McCoole CDP,McCoole,McCoole,24001,Allegany County,Census-designated place,39.453357,-78.973088,1
+MD,2451800,place:MD:2451800,Mechanicsville CDP,Mechanicsville,Mechanicsville,24037,St. Mary's County,Census-designated place,38.429135,-76.74602,1
+MD,2451940,place:MD:2451940,Melwood CDP,Melwood,Melwood,24033,Prince George's County,Census-designated place,38.801893,-76.841624,1
+MD,2451945,place:MD:2451945,Mercersville CDP,Mercersville,Mercersville,24043,Washington County,Census-designated place,39.49921,-77.765825,1
+MD,2452300,place:MD:2452300,Middle River CDP,Middle River,Middle River,24005,Baltimore County,Census-designated place,39.33914,-76.428764,1
+MD,2452225,place:MD:2452225,Middleburg CDP,Middleburg,Middleburg,24043,Washington County,Census-designated place,39.71768,-77.723878,1
+MD,2452425,place:MD:2452425,Middletown town,Middletown,Middletown,24021,Frederick County,Incorporated place,39.441325,-77.535254,1
+MD,2452475,place:MD:2452475,Midland town,Midland,Midland,24001,Allegany County,Incorporated place,39.589623,-78.9487,1
+MD,2452525,place:MD:2452525,Midlothian CDP,Midlothian,Midlothian,24001,Allegany County,Census-designated place,39.631868,-78.951501,1
+MD,2452562,place:MD:2452562,Milford Mill CDP,Milford Mill,Milford Mill,24005,Baltimore County,Census-designated place,39.348011,-76.769346,1
+MD,2452825,place:MD:2452825,Millington town,Millington,Millington,24029,Kent County,Incorporated place,39.261444,-75.84259,1
+MD,2452975,place:MD:2452975,Mitchellville CDP,Mitchellville,Mitchellville,24033,Prince George's County,Census-designated place,38.936922,-76.808327,1
+MD,2453100,place:MD:2453100,Monrovia CDP,Monrovia,Monrovia,24021,Frederick County,Census-designated place,39.359462,-77.274891,1
+MD,2453325,place:MD:2453325,Montgomery Village CDP,Montgomery Village,Montgomery Village,24031,Montgomery County,Census-designated place,39.188512,-77.205143,1
+MD,2453625,place:MD:2453625,Morningside town,Morningside,Morningside,24033,Prince George's County,Incorporated place,38.826585,-76.889628,1
+MD,2453700,place:MD:2453700,Moscow CDP,Moscow,Moscow,24001,Allegany County,Census-designated place,39.538292,-79.009674,1
+MD,2453750,place:MD:2453750,Mount Aetna CDP,Mount Aetna,Mount Aetna,24043,Washington County,Census-designated place,39.59888,-77.612768,1
+MD,2453875,place:MD:2453875,Mount Airy town,Mount Airy,Mount Airy,24013,Carroll County,Incorporated place,39.374693,-77.153807,1
+MD,2453925,place:MD:2453925,Mount Briar CDP,Mount Briar,Mount Briar,24043,Washington County,Census-designated place,39.442571,-77.687346,1
+MD,2454125,place:MD:2454125,Mount Lena CDP,Mount Lena,Mount Lena,24043,Washington County,Census-designated place,39.554029,-77.621891,1
+MD,2454275,place:MD:2454275,Mount Rainier city,Mount Rainier,Mount Rainier,24033,Prince George's County,Incorporated place,38.942361,-76.964578,1
+MD,2454325,place:MD:2454325,Mount Savage CDP,Mount Savage,Mount Savage,24001,Allegany County,Census-designated place,39.696684,-78.876833,1
+MD,2454375,place:MD:2454375,Mount Vernon CDP,Mount Vernon,Mount Vernon,24039,Somerset County,Census-designated place,38.239562,-75.785308,1
+MD,2453800,place:MD:2453800,Mountain Lake Park town,Mountain Lake Park,Mountain Lake Park,24023,Garrett County,Incorporated place,39.40003,-79.381051,1
+MD,2454875,place:MD:2454875,Myersville town,Myersville,Myersville,24021,Frederick County,Incorporated place,39.502029,-77.569626,1
+MD,2454925,place:MD:2454925,Nanticoke CDP,Nanticoke,Nanticoke,24045,Wicomico County,Census-designated place,38.265488,-75.886973,1
+MD,2454930,place:MD:2454930,Nanticoke Acres CDP,Nanticoke Acres,Nanticoke Acres,24045,Wicomico County,Census-designated place,38.257873,-75.905841,1
+MD,2455000,place:MD:2455000,National CDP,National,National,24001,Allegany County,Census-designated place,39.611957,-78.940425,1
+MD,2455018,place:MD:2455018,National Harbor CDP,National Harbor,National Harbor,24033,Prince George's County,Census-designated place,38.783463,-77.010046,1
+MD,2455050,place:MD:2455050,Naval Academy CDP,Naval Academy,Naval Academy,24003,Anne Arundel County,Census-designated place,38.984784,-76.482628,1
+MD,2455400,place:MD:2455400,New Carrollton city,New Carrollton,New Carrollton,24033,Prince George's County,Incorporated place,38.965596,-76.877513,1
+MD,2455650,place:MD:2455650,New Market town,New Market,New Market,24021,Frederick County,Incorporated place,39.392926,-77.272188,1
+MD,2455925,place:MD:2455925,New Windsor town,New Windsor,New Windsor,24013,Carroll County,Incorporated place,39.542925,-77.099087,1
+MD,2455325,place:MD:2455325,Newark CDP,Newark,Newark,24047,Worcester County,Census-designated place,38.268109,-75.288638,1
+MD,2455950,place:MD:2455950,Nikep CDP,Nikep,Nikep,24001,Allegany County,Census-designated place,39.551568,-78.99773,1
+MD,2456300,place:MD:2456300,North Beach town,North Beach,North Beach,24009,Calvert County,Incorporated place,38.707736,-76.5345,1
+MD,2456337,place:MD:2456337,North Bethesda CDP,North Bethesda,North Bethesda,24031,Montgomery County,Census-designated place,39.036732,-77.120207,1
+MD,2456375,place:MD:2456375,North Brentwood town,North Brentwood,North Brentwood,24033,Prince George's County,Incorporated place,38.944806,-76.950742,1
+MD,2456400,place:MD:2456400,North Chevy Chase village,North Chevy Chase,North Chevy Chase,24031,Montgomery County,Incorporated place,39.002048,-77.074048,1
+MD,2456450,place:MD:2456450,North East town,North East,North East,24015,Cecil County,Incorporated place,39.607998,-75.941623,1
+MD,2456712,place:MD:2456712,North Kensington CDP,North Kensington,North Kensington,24031,Montgomery County,Census-designated place,39.039196,-77.071562,1
+MD,2456725,place:MD:2456725,North Laurel CDP,North Laurel,North Laurel,24027,Howard County,Census-designated place,39.128761,-76.853344,1
+MD,2456875,place:MD:2456875,North Potomac CDP,North Potomac,North Potomac,24031,Montgomery County,Census-designated place,39.09677,-77.238503,1
+MD,2457650,place:MD:2457650,Oakland town,Oakland,Oakland,24023,Garrett County,Incorporated place,39.417143,-79.402352,1
+MD,2458215,place:MD:2458215,Ocean CDP,Ocean,Ocean,24001,Allegany County,Census-designated place,39.601533,-78.945033,1
+MD,2458225,place:MD:2458225,Ocean City town,Ocean City,Ocean City,24047,Worcester County,Incorporated place,38.410706,-75.071388,1
+MD,2458275,place:MD:2458275,Ocean Pines CDP,Ocean Pines,Ocean Pines,24047,Worcester County,Census-designated place,38.384784,-75.148009,1
+MD,2458300,place:MD:2458300,Odenton CDP,Odenton,Odenton,24003,Anne Arundel County,Census-designated place,39.066257,-76.693793,1
+MD,2458775,place:MD:2458775,Oldtown CDP,Oldtown,Oldtown,24001,Allegany County,Census-designated place,39.544966,-78.614743,1
+MD,2458900,place:MD:2458900,Olney CDP,Olney,Olney,24031,Montgomery County,Census-designated place,39.14434,-77.071429,1
+MD,2459325,place:MD:2459325,Overlea CDP,Overlea,Overlea,24005,Baltimore County,Census-designated place,39.364143,-76.517548,1
+MD,2459375,place:MD:2459375,Owings CDP,Owings,Owings,24009,Calvert County,Census-designated place,38.711906,-76.603723,1
+MD,2459425,place:MD:2459425,Owings Mills CDP,Owings Mills,Owings Mills,24005,Baltimore County,Census-designated place,39.410494,-76.789371,1
+MD,2459450,place:MD:2459450,Oxford town,Oxford,Oxford,24041,Talbot County,Incorporated place,38.685837,-76.1647,1
+MD,2459500,place:MD:2459500,Oxon Hill CDP,Oxon Hill,Oxon Hill,24033,Prince George's County,Census-designated place,38.780456,-76.969835,1
+MD,2459787,place:MD:2459787,Paramount-Long Meadow CDP,Paramount-Long Meadow,Paramount-Long Meadow,24043,Washington County,Census-designated place,39.679776,-77.692106,1
+MD,2460275,place:MD:2460275,Parkville CDP,Parkville,Parkville,24005,Baltimore County,Census-designated place,39.383198,-76.551876,1
+MD,2460325,place:MD:2460325,Parole CDP,Parole,Parole,24003,Anne Arundel County,Census-designated place,38.987941,-76.552716,1
+MD,2460425,place:MD:2460425,Parsonsburg CDP,Parsonsburg,Parsonsburg,24045,Wicomico County,Census-designated place,38.39157,-75.479499,1
+MD,2460475,place:MD:2460475,Pasadena CDP,Pasadena,Pasadena,24003,Anne Arundel County,Census-designated place,39.152423,-76.560889,1
+MD,2460770,place:MD:2460770,Pecktonville CDP,Pecktonville,Pecktonville,24043,Washington County,Census-designated place,39.665971,-78.048184,1
+MD,2460950,place:MD:2460950,Peppermill Village CDP,Peppermill Village,Peppermill Village,24033,Prince George's County,Census-designated place,38.893998,-76.887694,1
+MD,2460975,place:MD:2460975,Perry Hall CDP,Perry Hall,Perry Hall,24005,Baltimore County,Census-designated place,39.406741,-76.477793,1
+MD,2461075,place:MD:2461075,Perryman CDP,Perryman,Perryman,24025,Harford County,Census-designated place,39.464679,-76.215865,1
+MD,2461150,place:MD:2461150,Perryville town,Perryville,Perryville,24015,Cecil County,Incorporated place,39.572995,-76.06478,1
+MD,2461400,place:MD:2461400,Pikesville CDP,Pikesville,Pikesville,24005,Baltimore County,Census-designated place,39.39166,-76.699639,1
+MD,2461700,place:MD:2461700,Pinesburg CDP,Pinesburg,Pinesburg,24043,Washington County,Census-designated place,39.626891,-77.856121,1
+MD,2461875,place:MD:2461875,Piney Point CDP,Piney Point,Piney Point,24037,St. Mary's County,Census-designated place,38.148103,-76.522319,1
+MD,2462025,place:MD:2462025,Pittsville town,Pittsville,Pittsville,24045,Wicomico County,Incorporated place,38.394002,-75.407178,1
+MD,2462100,place:MD:2462100,Pleasant Grove CDP,Pleasant Grove,Pleasant Grove,24001,Allegany County,Census-designated place,39.680201,-78.690514,1
+MD,2462175,place:MD:2462175,Pleasant Hills CDP,Pleasant Hills,Pleasant Hills,24025,Harford County,Census-designated place,39.486211,-76.393857,1
+MD,2462475,place:MD:2462475,Pocomoke City city,Pocomoke City,Pocomoke City,24047,Worcester County,Incorporated place,38.061918,-75.558625,1
+MD,2462575,place:MD:2462575,Point of Rocks CDP,Point of Rocks,Point of Rocks,24021,Frederick County,Census-designated place,39.278194,-77.529101,1
+MD,2462675,place:MD:2462675,Pomfret CDP,Pomfret,Pomfret,24017,Charles County,Census-designated place,38.569904,-77.030372,1
+MD,2462775,place:MD:2462775,Pondsville CDP,Pondsville,Pondsville,24043,Washington County,Census-designated place,39.62341,-77.591619,1
+MD,2462850,place:MD:2462850,Poolesville town,Poolesville,Poolesville,24031,Montgomery County,Incorporated place,39.143671,-77.411647,1
+MD,2463075,place:MD:2463075,Port Deposit town,Port Deposit,Port Deposit,24015,Cecil County,Incorporated place,39.610945,-76.100313,1
+MD,2463225,place:MD:2463225,Port Tobacco Village town,Port Tobacco Village,Port Tobacco Village,24017,Charles County,Incorporated place,38.511959,-77.020715,1
+MD,2463300,place:MD:2463300,Potomac CDP,Potomac,Potomac,24031,Montgomery County,Census-designated place,39.013332,-77.193579,1
+MD,2463375,place:MD:2463375,Potomac Heights CDP,Potomac Heights,Potomac Heights,24017,Charles County,Census-designated place,38.598207,-77.132328,1
+MD,2463425,place:MD:2463425,Potomac Park CDP,Potomac Park,Potomac Park,24001,Allegany County,Census-designated place,39.612588,-78.808251,1
+MD,2463725,place:MD:2463725,Powellville CDP,Powellville,Powellville,24045,Wicomico County,Census-designated place,38.326256,-75.370911,1
+MD,2463825,place:MD:2463825,Preston town,Preston,Preston,24011,Caroline County,Incorporated place,38.710212,-75.907528,1
+MD,2463950,place:MD:2463950,Prince Frederick CDP,Prince Frederick,Prince Frederick,24009,Calvert County,Census-designated place,38.543656,-76.588161,1
+MD,2464000,place:MD:2464000,Princess Anne town,Princess Anne,Princess Anne,24039,Somerset County,Incorporated place,38.205137,-75.696384,1
+MD,2464375,place:MD:2464375,Pylesville CDP,Pylesville,Pylesville,24025,Harford County,Census-designated place,39.688968,-76.388352,1
+MD,2464475,place:MD:2464475,Quantico CDP,Quantico,Quantico,24045,Wicomico County,Census-designated place,38.379983,-75.755014,1
+MD,2464495,place:MD:2464495,Queen Anne CDP,Queen Anne,"Queen Anne, Prince George's County",24033,Prince George's County,Census-designated place,38.906356,-76.70534,1
+MD,2464500,place:MD:2464500,Queen Anne town,Queen Anne,"Queen Anne, Queen Anne's County",24035,Queen Anne's County,Incorporated place,38.91907,-75.953567,1
+MD,2464568,place:MD:2464568,Queensland CDP,Queensland,Queensland,24033,Prince George's County,Census-designated place,38.795175,-76.795549,1
+MD,2464600,place:MD:2464600,Queenstown town,Queenstown,Queenstown,24035,Queen Anne's County,Incorporated place,38.986731,-76.163342,1
+MD,2464950,place:MD:2464950,Randallstown CDP,Randallstown,Randallstown,24005,Baltimore County,Census-designated place,39.371868,-76.801926,1
+MD,2465150,place:MD:2465150,Rawlings CDP,Rawlings,Rawlings,24001,Allegany County,Census-designated place,39.539229,-78.886762,1
+MD,2465312,place:MD:2465312,Redland CDP,Redland,Redland,24031,Montgomery County,Census-designated place,39.132868,-77.145448,1
+MD,2465550,place:MD:2465550,Reid CDP,Reid,Reid,24043,Washington County,Census-designated place,39.712508,-77.679313,1
+MD,2465600,place:MD:2465600,Reisterstown CDP,Reisterstown,Reisterstown,24005,Baltimore County,Census-designated place,39.452923,-76.815874,1
+MD,2466000,place:MD:2466000,Ridgely town,Ridgely,Ridgely,24011,Caroline County,Incorporated place,38.952933,-75.882704,1
+MD,2466150,place:MD:2466150,Ringgold CDP,Ringgold,Ringgold,24043,Washington County,Census-designated place,39.709169,-77.568892,1
+MD,2466275,place:MD:2466275,Rising Sun town,Rising Sun,Rising Sun,24015,Cecil County,Incorporated place,39.701974,-76.060455,1
+MD,2466400,place:MD:2466400,Riva CDP,Riva,Riva,24003,Anne Arundel County,Census-designated place,38.945219,-76.589928,1
+MD,2466635,place:MD:2466635,Riverdale Park town,Riverdale Park,Riverdale Park,24033,Prince George's County,Incorporated place,38.96646,-76.926617,1
+MD,2466762,place:MD:2466762,Riverside CDP,Riverside,Riverside,24025,Harford County,Census-designated place,39.480652,-76.241866,1
+MD,2466850,place:MD:2466850,Riviera Beach CDP,Riviera Beach,Riviera Beach,24003,Anne Arundel County,Census-designated place,39.164543,-76.527418,1
+MD,2467000,place:MD:2467000,Robinwood CDP,Robinwood,Robinwood,24043,Washington County,Census-designated place,39.62647,-77.662668,1
+MD,2467400,place:MD:2467400,Rock Hall town,Rock Hall,Rock Hall,24029,Kent County,Incorporated place,39.140541,-76.240491,1
+MD,2467500,place:MD:2467500,Rock Point CDP,Rock Point,Rock Point,24017,Charles County,Census-designated place,38.275467,-76.84275,1
+MD,2467675,place:MD:2467675,Rockville city,Rockville,Rockville,24031,Montgomery County,Incorporated place,39.083666,-77.155585,1
+MD,2467950,place:MD:2467950,Rohrersville CDP,Rohrersville,Rohrersville,24043,Washington County,Census-designated place,39.434897,-77.665474,1
+MD,2468265,place:MD:2468265,Romancoke CDP,Romancoke,Romancoke,24035,Queen Anne's County,Census-designated place,38.891825,-76.36078,1
+MD,2468300,place:MD:2468300,Rosaryville CDP,Rosaryville,Rosaryville,24033,Prince George's County,Census-designated place,38.767396,-76.828223,1
+MD,2468400,place:MD:2468400,Rosedale CDP,Rosedale,Rosedale,24005,Baltimore County,Census-designated place,39.329834,-76.507558,1
+MD,2468600,place:MD:2468600,Rosemont village,Rosemont,Rosemont,24021,Frederick County,Incorporated place,39.333712,-77.622756,1
+MD,2468700,place:MD:2468700,Rossville CDP,Rossville,Rossville,24005,Baltimore County,Census-designated place,39.356566,-76.477894,1
+MD,2469200,place:MD:2469200,Sabillasville CDP,Sabillasville,Sabillasville,24021,Frederick County,Census-designated place,39.699364,-77.457277,1
+MD,2469925,place:MD:2469925,Salisbury city,Salisbury,Salisbury,24045,Wicomico County,Incorporated place,38.375198,-75.586555,1
+MD,2470300,place:MD:2470300,San Mar CDP,San Mar,San Mar,24043,Washington County,Census-designated place,39.552216,-77.640901,1
+MD,2470175,place:MD:2470175,Sandy Hook CDP,Sandy Hook,Sandy Hook,24043,Washington County,Census-designated place,39.328505,-77.705149,1
+MD,2470475,place:MD:2470475,Savage CDP,Savage,Savage,24027,Howard County,Census-designated place,39.146463,-76.821637,1
+MD,2470525,place:MD:2470525,Scaggsville CDP,Scaggsville,Scaggsville,24027,Howard County,Census-designated place,39.140722,-76.882831,1
+MD,2470775,place:MD:2470775,Seabrook CDP,Seabrook,Seabrook,24033,Prince George's County,Census-designated place,38.981983,-76.850884,1
+MD,2470850,place:MD:2470850,Seat Pleasant city,Seat Pleasant,Seat Pleasant,24033,Prince George's County,Incorporated place,38.894689,-76.899451,1
+MD,2470900,place:MD:2470900,Secretary town,Secretary,Secretary,24019,Dorchester County,Incorporated place,38.608193,-75.946955,1
+MD,2471150,place:MD:2471150,Severn CDP,Severn,Severn,24003,Anne Arundel County,Census-designated place,39.135579,-76.6956,1
+MD,2471200,place:MD:2471200,Severna Park CDP,Severna Park,Severna Park,24003,Anne Arundel County,Census-designated place,39.086633,-76.564883,1
+MD,2471450,place:MD:2471450,Shady Side CDP,Shady Side,Shady Side,24003,Anne Arundel County,Census-designated place,38.827481,-76.519684,1
+MD,2471460,place:MD:2471460,Shaft CDP,Shaft,Shaft,24001,Allegany County,Census-designated place,39.622515,-78.94276,1
+MD,2471600,place:MD:2471600,Sharpsburg town,Sharpsburg,Sharpsburg,24043,Washington County,Incorporated place,39.457657,-77.749267,1
+MD,2471650,place:MD:2471650,Sharptown town,Sharptown,Sharptown,24045,Wicomico County,Incorporated place,38.538188,-75.718957,1
+MD,2472350,place:MD:2472350,Silver Hill CDP,Silver Hill,Silver Hill,24033,Prince George's County,Census-designated place,38.839954,-76.938838,1
+MD,2472450,place:MD:2472450,Silver Spring CDP,Silver Spring,Silver Spring,24031,Montgomery County,Census-designated place,39.002441,-77.020791,1
+MD,2472887,place:MD:2472887,Smith Island CDP,Smith Island,Smith Island,24039,Somerset County,Census-designated place,37.97722,-76.028791,1
+MD,2472900,place:MD:2472900,Smithsburg town,Smithsburg,Smithsburg,24043,Washington County,Incorporated place,39.654706,-77.579961,1
+MD,2473075,place:MD:2473075,Snow Hill town,Snow Hill,Snow Hill,24047,Worcester County,Incorporated place,38.172519,-75.390403,1
+MD,2473325,place:MD:2473325,Solomons CDP,Solomons,Solomons,24009,Calvert County,Census-designated place,38.333477,-76.457982,1
+MD,2473350,place:MD:2473350,Somerset town,Somerset,Somerset,24031,Montgomery County,Incorporated place,38.966622,-77.096239,1
+MD,2473600,place:MD:2473600,South Kensington CDP,South Kensington,South Kensington,24031,Montgomery County,Census-designated place,39.016149,-77.066293,1
+MD,2473650,place:MD:2473650,South Laurel CDP,South Laurel,South Laurel,24033,Prince George's County,Census-designated place,39.061466,-76.846194,1
+MD,2474050,place:MD:2474050,Spencerville CDP,Spencerville,Spencerville,24031,Montgomery County,Census-designated place,39.120024,-76.983527,1
+MD,2474350,place:MD:2474350,Spring Gap CDP,Spring Gap,Spring Gap,24001,Allegany County,Census-designated place,39.565335,-78.705332,1
+MD,2474560,place:MD:2474560,Spring Ridge CDP,Spring Ridge,Spring Ridge,24021,Frederick County,Census-designated place,39.405041,-77.33988,1
+MD,2474282,place:MD:2474282,Springdale CDP,Springdale,Springdale,24033,Prince George's County,Census-designated place,38.935802,-76.844233,1
+MD,2469425,place:MD:2469425,St. George Island CDP,St. George Island,St. George Island,24037,St. Mary's County,Census-designated place,38.110599,-76.47495,1
+MD,2469550,place:MD:2469550,St. James CDP,St. James,St. James,24043,Washington County,Census-designated place,39.573816,-77.748248,1
+MD,2469675,place:MD:2469675,St. Leonard CDP,St. Leonard,St. Leonard,24009,Calvert County,Census-designated place,38.468036,-76.499184,1
+MD,2469825,place:MD:2469825,St. Michaels town,St. Michaels,St. Michaels,24041,Talbot County,Incorporated place,38.791751,-76.220581,1
+MD,2475025,place:MD:2475025,Stevensville CDP,Stevensville,Stevensville,24035,Queen Anne's County,Census-designated place,38.974441,-76.318511,1
+MD,2475150,place:MD:2475150,Still Pond CDP,Still Pond,Still Pond,24029,Kent County,Census-designated place,39.325957,-76.042355,1
+MD,2475200,place:MD:2475200,Stockton CDP,Stockton,Stockton,24047,Worcester County,Census-designated place,38.065909,-75.408473,1
+MD,2475650,place:MD:2475650,Sudlersville town,Sudlersville,Sudlersville,24035,Queen Anne's County,Incorporated place,39.183261,-75.85354,1
+MD,2475725,place:MD:2475725,Suitland CDP,Suitland,Suitland,24033,Prince George's County,Census-designated place,38.848615,-76.922547,1
+MD,2475810,place:MD:2475810,Summerfield CDP,Summerfield,Summerfield,24033,Prince George's County,Census-designated place,38.904538,-76.868297,1
+MD,2476450,place:MD:2476450,Swanton CDP,Swanton,Swanton,24023,Garrett County,Census-designated place,39.459864,-79.232695,1
+MD,2476550,place:MD:2476550,Sykesville town,Sykesville,Sykesville,24013,Carroll County,Incorporated place,39.372069,-76.97172,1
+MD,2476650,place:MD:2476650,Takoma Park city,Takoma Park,Takoma Park,24031,Montgomery County,Incorporated place,38.980306,-77.002326,1
+MD,2476675,place:MD:2476675,Tall Timbers CDP,Tall Timbers,Tall Timbers,24037,St. Mary's County,Census-designated place,38.162741,-76.536784,1
+MD,2476725,place:MD:2476725,Taneytown city,Taneytown,Taneytown,24013,Carroll County,Incorporated place,39.657516,-77.168973,1
+MD,2476925,place:MD:2476925,Taylors Island CDP,Taylors Island,Taylors Island,24019,Dorchester County,Census-designated place,38.471136,-76.316009,1
+MD,2477100,place:MD:2477100,Temple Hills CDP,Temple Hills,Temple Hills,24033,Prince George's County,Census-designated place,38.810549,-76.949477,1
+MD,2477200,place:MD:2477200,Templeville town,Templeville,Templeville,24011,Caroline County,Incorporated place,39.136364,-75.766849,1
+MD,2477262,place:MD:2477262,Ten Mile Creek CDP,Ten Mile Creek,Ten Mile Creek,24031,Montgomery County,Census-designated place,39.223997,-77.302282,1
+MD,2477825,place:MD:2477825,Thurmont town,Thurmont,Thurmont,24021,Frederick County,Incorporated place,39.619976,-77.407695,1
+MD,2477912,place:MD:2477912,Tilghman Island CDP,Tilghman Island,Tilghman Island,24041,Talbot County,Census-designated place,38.692089,-76.335228,1
+MD,2477925,place:MD:2477925,Tilghmanton CDP,Tilghmanton,Tilghmanton,24043,Washington County,Census-designated place,39.528604,-77.743683,1
+MD,2478050,place:MD:2478050,Timonium CDP,Timonium,Timonium,24005,Baltimore County,Census-designated place,39.444239,-76.601739,1
+MD,2478120,place:MD:2478120,Tolchester CDP,Tolchester,Tolchester,24029,Kent County,Census-designated place,39.218004,-76.232083,1
+MD,2478425,place:MD:2478425,Towson CDP,Towson,Towson,24005,Baltimore County,Census-designated place,39.39421,-76.617751,1
+MD,2478575,place:MD:2478575,Trappe town,Trappe,Trappe,24041,Talbot County,Incorporated place,38.663461,-76.05192,1
+MD,2478650,place:MD:2478650,Travilah CDP,Travilah,Travilah,24031,Montgomery County,Census-designated place,39.059263,-77.250633,1
+MD,2478705,place:MD:2478705,Trego-Rohrersville Station CDP,Trego-Rohrersville Station,Trego-Rohrersville Station,24043,Washington County,Census-designated place,39.429107,-77.674853,1
+MD,2479225,place:MD:2479225,Tyaskin CDP,Tyaskin,Tyaskin,24045,Wicomico County,Census-designated place,38.320408,-75.872635,1
+MD,2479350,place:MD:2479350,Union Bridge town,Union Bridge,Union Bridge,24013,Carroll County,Incorporated place,39.570913,-77.172749,1
+MD,2479675,place:MD:2479675,University Park town,University Park,University Park,24033,Prince George's County,Incorporated place,38.971867,-76.944432,1
+MD,2479875,place:MD:2479875,Upper Marlboro town,Upper Marlboro,Upper Marlboro,24033,Prince George's County,Incorporated place,38.815721,-76.756752,1
+MD,2479900,place:MD:2479900,Urbana CDP,Urbana,Urbana,24021,Frederick County,Census-designated place,39.32577,-77.341519,1
+MD,2480075,place:MD:2480075,Vale Summit CDP,Vale Summit,Vale Summit,24001,Allegany County,Census-designated place,39.615229,-78.908354,1
+MD,2480600,place:MD:2480600,Vienna town,Vienna,Vienna,24019,Dorchester County,Incorporated place,38.481132,-75.831813,1
+MD,2481175,place:MD:2481175,Waldorf CDP,Waldorf,Waldorf,24017,Charles County,Census-designated place,38.61711,-76.908579,1
+MD,2481250,place:MD:2481250,Walker Mill CDP,Walker Mill,Walker Mill,24033,Prince George's County,Census-designated place,38.872293,-76.893027,1
+MD,2481275,place:MD:2481275,Walkersville town,Walkersville,Walkersville,24021,Frederick County,Incorporated place,39.474226,-77.363002,1
+MD,2481675,place:MD:2481675,Washington Grove town,Washington Grove,Washington Grove,24031,Montgomery County,Incorporated place,39.140938,-77.174056,1
+MD,2481925,place:MD:2481925,Waterview CDP,Waterview,Waterview,24045,Wicomico County,Census-designated place,38.248736,-75.900009,1
+MD,2482625,place:MD:2482625,West Denton CDP,West Denton,West Denton,24011,Caroline County,Census-designated place,38.889605,-75.83884,1
+MD,2483025,place:MD:2483025,West Laurel CDP,West Laurel,West Laurel,24033,Prince George's County,Census-designated place,39.115711,-76.892291,1
+MD,2483225,place:MD:2483225,West Ocean City CDP,West Ocean City,West Ocean City,24047,Worcester County,Census-designated place,38.347321,-75.111243,1
+MD,2483337,place:MD:2483337,West Pocomoke CDP,West Pocomoke,West Pocomoke,24039,Somerset County,Census-designated place,38.096522,-75.579198,1
+MD,2482750,place:MD:2482750,Westernport town,Westernport,Westernport,24001,Allegany County,Incorporated place,39.487468,-79.042087,1
+MD,2483100,place:MD:2483100,Westminster city,Westminster,Westminster,24013,Carroll County,Incorporated place,39.579154,-77.006691,1
+MD,2483290,place:MD:2483290,Westphalia CDP,Westphalia,Westphalia,24033,Prince George's County,Census-designated place,38.840075,-76.827152,1
+MD,2483746,place:MD:2483746,Whaleyville CDP,Whaleyville,Whaleyville,24047,Worcester County,Census-designated place,38.38705,-75.297529,1
+MD,2483775,place:MD:2483775,Wheaton CDP,Wheaton,Wheaton,24031,Montgomery County,Census-designated place,39.04949,-77.058209,1
+MD,2484350,place:MD:2484350,White Marsh CDP,White Marsh,White Marsh,24005,Baltimore County,Census-designated place,39.380642,-76.456681,1
+MD,2484375,place:MD:2484375,White Oak CDP,White Oak,White Oak,24031,Montgomery County,Census-designated place,39.044017,-76.9868,1
+MD,2484225,place:MD:2484225,Whitehaven CDP,Whitehaven,Whitehaven,24045,Wicomico County,Census-designated place,38.269452,-75.794095,1
+MD,2484784,place:MD:2484784,Wildewood CDP,Wildewood,Wildewood,24037,St. Mary's County,Census-designated place,38.307132,-76.546587,1
+MD,2484950,place:MD:2484950,Willards town,Willards,Willards,24045,Wicomico County,Incorporated place,38.391881,-75.349007,1
+MD,2485100,place:MD:2485100,Williamsport town,Williamsport,Williamsport,24043,Washington County,Incorporated place,39.59735,-77.817972,1
+MD,2485175,place:MD:2485175,Williston CDP,Williston,Williston,24011,Caroline County,Census-designated place,38.830321,-75.851454,1
+MD,2485395,place:MD:2485395,Wilson-Conococheague CDP,Wilson-Conococheague,Wilson-Conococheague,24043,Washington County,Census-designated place,39.651247,-77.827072,1
+MD,2486275,place:MD:2486275,Woodland CDP,Woodland,Woodland,24001,Allegany County,Census-designated place,39.608341,-78.950111,1
+MD,2486475,place:MD:2486475,Woodlawn CDP,Woodlawn,"Woodlawn, Baltimore County",24005,Baltimore County,Census-designated place,39.30551,-76.747803,1
+MD,2486525,place:MD:2486525,Woodlawn CDP,Woodlawn,"Woodlawn, Prince George's County",24033,Prince George's County,Census-designated place,38.950327,-76.900261,1
+MD,2486710,place:MD:2486710,Woodmore CDP,Woodmore,Woodmore,24033,Prince George's County,Census-designated place,38.920545,-76.775056,1
+MD,2486750,place:MD:2486750,Woodsboro town,Woodsboro,Woodsboro,24021,Frederick County,Incorporated place,39.534592,-77.309865,1
+MD,2487000,place:MD:2487000,Worton CDP,Worton,Worton,24029,Kent County,Census-designated place,39.268358,-76.090819,1
+MD,2487150,place:MD:2487150,Yarrowsburg CDP,Yarrowsburg,Yarrowsburg,24043,Washington County,Census-designated place,39.376172,-77.684346,1
+MD,2487275,place:MD:2487275,Zihlman CDP,Zihlman,Zihlman,24001,Allegany County,Census-designated place,39.674021,-78.913129,1

@@ -1,0 +1,485 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+LA,2200100,place:LA:2200100,Abbeville city,Abbeville,Abbeville,22113,Vermilion Parish,Incorporated place,29.975395,-92.127157,1
+LA,2200240,place:LA:2200240,Abita Springs town,Abita Springs,Abita Springs,22103,St. Tammany Parish,Incorporated place,30.473551,-90.020408,1
+LA,2200415,place:LA:2200415,Addis town,Addis,Addis,22121,West Baton Rouge Parish,Incorporated place,30.369535,-91.263648,1
+LA,2200835,place:LA:2200835,Albany town,Albany,Albany,22063,Livingston Parish,Incorporated place,30.499193,-90.583817,1
+LA,2200975,place:LA:2200975,Alexandria city,Alexandria,Alexandria,22079,Rapides Parish,Incorporated place,31.293449,-92.470189,1
+LA,2201780,place:LA:2201780,Ama CDP,Ama,Ama,22089,St. Charles Parish,Census-designated place,29.943493,-90.295566,1
+LA,2201815,place:LA:2201815,Amelia CDP,Amelia,Amelia,22101,St. Mary Parish,Census-designated place,29.663226,-91.110906,1
+LA,2201885,place:LA:2201885,Amite City town,Amite City,Amite City,22105,Tangipahoa Parish,Incorporated place,30.732164,-90.515286,1
+LA,2201920,place:LA:2201920,Anacoco village,Anacoco,Anacoco,22115,Vernon Parish,Incorporated place,31.256899,-93.346543,1
+LA,2202165,place:LA:2202165,Angie village,Angie,Angie,22117,Washington Parish,Incorporated place,30.961335,-89.821139,1
+LA,2202550,place:LA:2202550,Arabi CDP,Arabi,Arabi,22087,St. Bernard Parish,Census-designated place,29.953037,-89.996264,1
+LA,2202655,place:LA:2202655,Arcadia town,Arcadia,Arcadia,22013,Bienville Parish,Incorporated place,32.550848,-92.921373,1
+LA,2203110,place:LA:2203110,Arnaudville town,Arnaudville,Arnaudville,22097,St. Landry Parish,Incorporated place,30.401718,-91.932391,1
+LA,2203145,place:LA:2203145,Ashland village,Ashland,Ashland,22069,Natchitoches Parish,Incorporated place,32.120379,-93.11254,1
+LA,2203320,place:LA:2203320,Athens village,Athens,Athens,22027,Claiborne Parish,Incorporated place,32.657978,-93.027702,1
+LA,2203390,place:LA:2203390,Atlanta village,Atlanta,Atlanta,22127,Winn Parish,Incorporated place,31.806402,-92.738334,1
+LA,2203810,place:LA:2203810,Avondale CDP,Avondale,Avondale,22051,Jefferson Parish,Census-designated place,29.901029,-90.19702,1
+LA,2203985,place:LA:2203985,Baker city,Baker,Baker,22033,East Baton Rouge Parish,Incorporated place,30.583197,-91.158179,1
+LA,2204020,place:LA:2204020,Baldwin town,Baldwin,Baldwin,22101,St. Mary Parish,Incorporated place,29.841277,-91.554886,1
+LA,2204055,place:LA:2204055,Ball town,Ball,Ball,22079,Rapides Parish,Incorporated place,31.418749,-92.408398,1
+LA,2204230,place:LA:2204230,Banks Springs CDP,Banks Springs,Banks Springs,22021,Caldwell Parish,Census-designated place,32.076423,-92.085063,1
+LA,2204300,place:LA:2204300,Barataria CDP,Barataria,Barataria,22051,Jefferson Parish,Census-designated place,29.714032,-90.121496,1
+LA,2204580,place:LA:2204580,Basile town,Basile,Basile,22039,Evangeline Parish,Incorporated place,30.485511,-92.60102,1
+LA,2204615,place:LA:2204615,Baskin village,Baskin,Baskin,22041,Franklin Parish,Incorporated place,32.259068,-91.74733,1
+LA,2204685,place:LA:2204685,Bastrop city,Bastrop,Bastrop,22067,Morehouse Parish,Incorporated place,32.774858,-91.907756,1
+LA,2205000,place:LA:2205000,Baton Rouge city,Baton Rouge,Baton Rouge,22033,East Baton Rouge Parish,Incorporated place,30.440443,-91.133166,1
+LA,2205105,place:LA:2205105,Bawcomville CDP,Bawcomville,Bawcomville,22073,Ouachita Parish,Census-designated place,32.468722,-92.173702,1
+LA,2205175,place:LA:2205175,Bayou Blue CDP,Bayou Blue,Bayou Blue,22057,Lafourche Parish,Census-designated place,29.632482,-90.668963,1
+LA,2205210,place:LA:2205210,Bayou Cane CDP,Bayou Cane,Bayou Cane,22109,Terrebonne Parish,Census-designated place,29.624353,-90.751036,1
+LA,2205255,place:LA:2205255,Bayou Corne CDP,Bayou Corne,Bayou Corne,22007,Assumption Parish,Census-designated place,30.017412,-91.153802,1
+LA,2205260,place:LA:2205260,Bayou Country Club CDP,Bayou Country Club,Bayou Country Club,22057,Lafourche Parish,Census-designated place,29.779551,-90.789251,1
+LA,2205315,place:LA:2205315,Bayou Gauche CDP,Bayou Gauche,Bayou Gauche,22089,St. Charles Parish,Census-designated place,29.80686,-90.422153,1
+LA,2205350,place:LA:2205350,Bayou Goula CDP,Bayou Goula,Bayou Goula,22047,Iberville Parish,Census-designated place,30.216979,-91.180871,1
+LA,2205378,place:LA:2205378,Bayou L'Ourse CDP,Bayou L'Ourse,Bayou L'Ourse,22007,Assumption Parish,Census-designated place,29.717411,-91.06061,1
+LA,2205525,place:LA:2205525,Bayou Vista CDP,Bayou Vista,Bayou Vista,22101,St. Mary Parish,Census-designated place,29.690354,-91.267012,1
+LA,2205945,place:LA:2205945,Belcher village,Belcher,Belcher,22017,Caddo Parish,Incorporated place,32.75217,-93.837213,1
+LA,2206120,place:LA:2206120,Belle Chasse CDP,Belle Chasse,Belle Chasse,22075,Plaquemines Parish,Census-designated place,29.858668,-90.003268,1
+LA,2206260,place:LA:2206260,Belle Rose CDP,Belle Rose,Belle Rose,22007,Assumption Parish,Census-designated place,30.042205,-91.049721,1
+LA,2206750,place:LA:2206750,Belmont CDP,Belmont,Belmont,22085,Sabine Parish,Census-designated place,31.718182,-93.508178,1
+LA,2206925,place:LA:2206925,Benton town,Benton,Benton,22015,Bossier Parish,Incorporated place,32.68958,-93.740132,1
+LA,2207030,place:LA:2207030,Bernice town,Bernice,Bernice,22111,Union Parish,Incorporated place,32.827661,-92.658465,1
+LA,2207100,place:LA:2207100,Berwick town,Berwick,Berwick,22101,St. Mary Parish,Incorporated place,29.700548,-91.235184,1
+LA,2207205,place:LA:2207205,Bienville village,Bienville,Bienville,22013,Bienville Parish,Incorporated place,32.363209,-92.974847,1
+LA,2207730,place:LA:2207730,Blanchard town,Blanchard,Blanchard,22017,Caddo Parish,Incorporated place,32.602696,-93.883118,1
+LA,2208150,place:LA:2208150,Bogalusa city,Bogalusa,Bogalusa,22117,Washington Parish,Incorporated place,30.774934,-89.861898,1
+LA,2208535,place:LA:2208535,Bonita village,Bonita,Bonita,22067,Morehouse Parish,Incorporated place,32.92051,-91.675066,1
+LA,2208710,place:LA:2208710,Boothville CDP,Boothville,Boothville,22075,Plaquemines Parish,Census-designated place,29.331968,-89.405101,1
+LA,2208745,place:LA:2208745,Bordelonville CDP,Bordelonville,Bordelonville,22009,Avoyelles Parish,Census-designated place,31.101164,-91.90047,1
+LA,2208920,place:LA:2208920,Bossier City city,Bossier City,Bossier City,22015,Bossier Parish,Incorporated place,32.523674,-93.655426,1
+LA,2209095,place:LA:2209095,Bourg CDP,Bourg,Bourg,22109,Terrebonne Parish,Census-designated place,29.563648,-90.614968,1
+LA,2209130,place:LA:2209130,Boutte CDP,Boutte,Boutte,22089,St. Charles Parish,Census-designated place,29.887384,-90.38876,1
+LA,2209165,place:LA:2209165,Boyce town,Boyce,Boyce,22079,Rapides Parish,Incorporated place,31.389751,-92.670413,1
+LA,2209235,place:LA:2209235,Branch CDP,Branch,Branch,22001,Acadia Parish,Census-designated place,30.338617,-92.285691,1
+LA,2209340,place:LA:2209340,Breaux Bridge city,Breaux Bridge,Breaux Bridge,22099,St. Martin Parish,Incorporated place,30.280374,-91.903725,1
+LA,2209480,place:LA:2209480,Bridge City CDP,Bridge City,Bridge City,22051,Jefferson Parish,Census-designated place,29.940771,-90.156566,1
+LA,2210075,place:LA:2210075,Broussard city,Broussard,Broussard,22055,Lafayette Parish,Incorporated place,30.137444,-91.95583,1
+LA,2210145,place:LA:2210145,Brownfields CDP,Brownfields,Brownfields,22033,East Baton Rouge Parish,Census-designated place,30.542925,-91.123606,1
+LA,2210225,place:LA:2210225,Brownsville CDP,Brownsville,Brownsville,22073,Ouachita Parish,Census-designated place,32.488265,-92.161844,1
+LA,2210600,place:LA:2210600,Brusly town,Brusly,Brusly,22121,West Baton Rouge Parish,Incorporated place,30.39425,-91.251608,1
+LA,2210705,place:LA:2210705,Bryceland village,Bryceland,Bryceland,22013,Bienville Parish,Incorporated place,32.445027,-92.990067,1
+LA,2210950,place:LA:2210950,Bunkie city,Bunkie,Bunkie,22009,Avoyelles Parish,Incorporated place,30.953661,-92.188111,1
+LA,2210985,place:LA:2210985,Buras CDP,Buras,Buras,22075,Plaquemines Parish,Census-designated place,29.353663,-89.523973,1
+LA,2211580,place:LA:2211580,Cade CDP,Cade,Cade,22099,St. Martin Parish,Census-designated place,30.092568,-91.899633,1
+LA,2211825,place:LA:2211825,Calhoun CDP,Calhoun,Calhoun,22073,Ouachita Parish,Census-designated place,32.515309,-92.353926,1
+LA,2211930,place:LA:2211930,Calvin village,Calvin,Calvin,22127,Winn Parish,Incorporated place,31.961692,-92.775806,1
+LA,2212000,place:LA:2212000,Cameron CDP,Cameron,Cameron,22023,Cameron Parish,Census-designated place,29.795182,-93.291564,1
+LA,2212280,place:LA:2212280,Campti town,Campti,Campti,22069,Natchitoches Parish,Incorporated place,31.897965,-93.116367,1
+LA,2212420,place:LA:2212420,Cankton village,Cankton,Cankton,22097,St. Landry Parish,Incorporated place,30.345533,-92.113084,1
+LA,2212665,place:LA:2212665,Carencro city,Carencro,Carencro,22055,Lafayette Parish,Incorporated place,30.312561,-92.038706,1
+LA,2212840,place:LA:2212840,Carlyss CDP,Carlyss,Carlyss,22019,Calcasieu Parish,Census-designated place,30.176743,-93.369589,1
+LA,2213260,place:LA:2213260,Castor village,Castor,Castor,22013,Bienville Parish,Incorporated place,32.254878,-93.165963,1
+LA,2213330,place:LA:2213330,Catahoula CDP,Catahoula,Catahoula,22099,St. Martin Parish,Census-designated place,30.211953,-91.719669,1
+LA,2213575,place:LA:2213575,Cecilia CDP,Cecilia,Cecilia,22099,St. Martin Parish,Census-designated place,30.3364,-91.847921,1
+LA,2213855,place:LA:2213855,Center Point CDP,Center Point,Center Point,22009,Avoyelles Parish,Census-designated place,31.252379,-92.209957,1
+LA,2213925,place:LA:2213925,Centerville CDP,Centerville,Centerville,22101,St. Mary Parish,Census-designated place,29.754677,-91.425679,1
+LA,2213960,place:LA:2213960,Central city,Central,Central,22033,East Baton Rouge Parish,Incorporated place,30.559305,-91.035507,1
+LA,2214100,place:LA:2214100,Chackbay CDP,Chackbay,Chackbay,22057,Lafourche Parish,Census-designated place,29.858534,-90.807044,1
+LA,2214135,place:LA:2214135,Chalmette CDP,Chalmette,Chalmette,22087,St. Bernard Parish,Census-designated place,29.944015,-89.966005,1
+LA,2214310,place:LA:2214310,Charenton CDP,Charenton,Charenton,22101,St. Mary Parish,Census-designated place,29.86707,-91.53998,1
+LA,2214450,place:LA:2214450,Chataignier village,Chataignier,Chataignier,22039,Evangeline Parish,Incorporated place,30.56957,-92.316831,1
+LA,2214485,place:LA:2214485,Chatham town,Chatham,Chatham,22049,Jackson Parish,Incorporated place,32.309171,-92.451437,1
+LA,2214520,place:LA:2214520,Chauvin CDP,Chauvin,Chauvin,22109,Terrebonne Parish,Census-designated place,29.445662,-90.593801,1
+LA,2214660,place:LA:2214660,Cheneyville town,Cheneyville,Cheneyville,22079,Rapides Parish,Incorporated place,31.010995,-92.290112,1
+LA,2215150,place:LA:2215150,Choctaw CDP,Choctaw,Choctaw,22057,Lafourche Parish,Census-designated place,29.845682,-90.72384,1
+LA,2215290,place:LA:2215290,Choudrant village,Choudrant,Choudrant,22061,Lincoln Parish,Incorporated place,32.535183,-92.529874,1
+LA,2215465,place:LA:2215465,Church Point town,Church Point,Church Point,22001,Acadia Parish,Incorporated place,30.407528,-92.213638,1
+LA,2215605,place:LA:2215605,Claiborne CDP,Claiborne,Claiborne,22073,Ouachita Parish,Census-designated place,32.541128,-92.196238,1
+LA,2215745,place:LA:2215745,Clarence village,Clarence,Clarence,22069,Natchitoches Parish,Incorporated place,31.820258,-93.029088,1
+LA,2215780,place:LA:2215780,Clarks village,Clarks,Clarks,22021,Caldwell Parish,Incorporated place,32.028817,-92.140839,1
+LA,2215850,place:LA:2215850,Clayton town,Clayton,Clayton,22029,Concordia Parish,Incorporated place,31.722159,-91.534567,1
+LA,2215990,place:LA:2215990,Clinton town,Clinton,Clinton,22037,East Feliciana Parish,Incorporated place,30.861679,-91.015454,1
+LA,2216375,place:LA:2216375,Colfax town,Colfax,Colfax,22043,Grant Parish,Incorporated place,31.519572,-92.69974,1
+LA,2216655,place:LA:2216655,Collinston village,Collinston,Collinston,22067,Morehouse Parish,Incorporated place,32.689283,-91.871813,1
+LA,2216830,place:LA:2216830,Columbia town,Columbia,Columbia,22021,Caldwell Parish,Incorporated place,32.102102,-92.076434,1
+LA,2217180,place:LA:2217180,Convent CDP,Convent,Convent,22093,St. James Parish,Census-designated place,30.011836,-90.820642,1
+LA,2217215,place:LA:2217215,Converse village,Converse,Converse,22085,Sabine Parish,Incorporated place,31.779538,-93.70013,1
+LA,2217915,place:LA:2217915,Cotton Valley town,Cotton Valley,Cotton Valley,22119,Webster Parish,Incorporated place,32.812874,-93.423017,1
+LA,2217880,place:LA:2217880,Cottonport town,Cottonport,Cottonport,22009,Avoyelles Parish,Incorporated place,30.989174,-92.050952,1
+LA,2218055,place:LA:2218055,Coushatta town,Coushatta,Coushatta,22081,Red River Parish,Incorporated place,32.025834,-93.340597,1
+LA,2218125,place:LA:2218125,Covington city,Covington,Covington,22103,St. Tammany Parish,Incorporated place,30.480163,-90.111801,1
+LA,2218295,place:LA:2218295,Creola village,Creola,Creola,22043,Grant Parish,Incorporated place,31.427068,-92.481046,1
+LA,2218335,place:LA:2218335,Crescent CDP,Crescent,Crescent,22047,Iberville Parish,Census-designated place,30.243178,-91.288157,1
+LA,2218650,place:LA:2218650,Crowley city,Crowley,Crowley,22001,Acadia Parish,Incorporated place,30.217897,-92.37484,1
+LA,2218790,place:LA:2218790,Cullen town,Cullen,Cullen,22119,Webster Parish,Incorporated place,32.967708,-93.446542,1
+LA,2218930,place:LA:2218930,Cut Off CDP,Cut Off,Cut Off,22057,Lafourche Parish,Census-designated place,29.516283,-90.329714,1
+LA,2219490,place:LA:2219490,Darrow CDP,Darrow,Darrow,22005,Ascension Parish,Census-designated place,30.121219,-90.984343,1
+LA,2220050,place:LA:2220050,Delacroix CDP,Delacroix,Delacroix,22087,St. Bernard Parish,Census-designated place,29.761703,-89.789464,1
+LA,2220155,place:LA:2220155,Delcambre town,Delcambre,Delcambre,22113,Vermilion Parish,Incorporated place,29.951114,-91.99171,1
+LA,2220190,place:LA:2220190,Delhi town,Delhi,Delhi,22083,Richland Parish,Incorporated place,32.452843,-91.489976,1
+LA,2220330,place:LA:2220330,Delta village,Delta,Delta,22065,Madison Parish,Incorporated place,32.321614,-90.955406,1
+LA,2220435,place:LA:2220435,Denham Springs city,Denham Springs,Denham Springs,22063,Livingston Parish,Incorporated place,30.474329,-90.959027,1
+LA,2220575,place:LA:2220575,DeQuincy city,DeQuincy,DeQuincy,22019,Calcasieu Parish,Incorporated place,30.44896,-93.44566,1
+LA,2220610,place:LA:2220610,DeRidder city,DeRidder,DeRidder,22011,Beauregard Parish,Incorporated place,30.845003,-93.2952,1
+LA,2220680,place:LA:2220680,Des Allemands CDP,Des Allemands,Des Allemands,22089,St. Charles Parish,Census-designated place,29.813979,-90.469821,1
+LA,2220820,place:LA:2220820,Destrehan CDP,Destrehan,Destrehan,22089,St. Charles Parish,Census-designated place,29.972353,-90.354362,1
+LA,2220890,place:LA:2220890,Deville CDP,Deville,Deville,22079,Rapides Parish,Census-designated place,31.344944,-92.141801,1
+LA,2221135,place:LA:2221135,Dixie Inn village,Dixie Inn,Dixie Inn,22119,Webster Parish,Incorporated place,32.596841,-93.332232,1
+LA,2221170,place:LA:2221170,Dodson village,Dodson,Dodson,22127,Winn Parish,Incorporated place,32.079118,-92.658624,1
+LA,2221240,place:LA:2221240,Donaldsonville city,Donaldsonville,Donaldsonville,22005,Ascension Parish,Incorporated place,30.095069,-90.992544,1
+LA,2221388,place:LA:2221388,Dorseyville CDP,Dorseyville,Dorseyville,22047,Iberville Parish,Census-designated place,30.177361,-91.161391,1
+LA,2221450,place:LA:2221450,Downsville village,Downsville,Downsville,22111,Union Parish,Incorporated place,32.626437,-92.41292,1
+LA,2221590,place:LA:2221590,Doyline village,Doyline,Doyline,22119,Webster Parish,Incorporated place,32.520731,-93.415702,1
+LA,2221765,place:LA:2221765,Dry Prong village,Dry Prong,Dry Prong,22043,Grant Parish,Incorporated place,31.581305,-92.531418,1
+LA,2221800,place:LA:2221800,Dubach town,Dubach,Dubach,22061,Lincoln Parish,Incorporated place,32.703291,-92.66153,1
+LA,2221835,place:LA:2221835,Dubberly village,Dubberly,Dubberly,22119,Webster Parish,Incorporated place,32.547618,-93.232335,1
+LA,2221940,place:LA:2221940,Dulac CDP,Dulac,Dulac,22109,Terrebonne Parish,Census-designated place,29.400812,-90.693235,1
+LA,2222255,place:LA:2222255,Duson town,Duson,Duson,22055,Lafayette Parish,Incorporated place,30.238403,-92.188896,1
+LA,2222465,place:LA:2222465,East Hodge village,East Hodge,East Hodge,22049,Jackson Parish,Incorporated place,32.277599,-92.713689,1
+LA,2222610,place:LA:2222610,Eastwood CDP,Eastwood,Eastwood,22015,Bossier Parish,Census-designated place,32.560703,-93.56249,1
+LA,2222640,place:LA:2222640,Echo CDP,Echo,Echo,22079,Rapides Parish,Census-designated place,31.108499,-92.240593,1
+LA,2222722,place:LA:2222722,Eden Isle CDP,Eden Isle,Eden Isle,22103,St. Tammany Parish,Census-designated place,30.225247,-89.809246,1
+LA,2222815,place:LA:2222815,Edgard CDP,Edgard,Edgard,22095,St. John the Baptist Parish,Census-designated place,30.03083,-90.544105,1
+LA,2222850,place:LA:2222850,Edgefield village,Edgefield,Edgefield,22081,Red River Parish,Incorporated place,32.050081,-93.335962,1
+LA,2223025,place:LA:2223025,Egan CDP,Egan,Egan,22001,Acadia Parish,Census-designated place,30.249978,-92.508153,1
+LA,2223235,place:LA:2223235,Elizabeth village,Elizabeth,Elizabeth,22003,Allen Parish,Incorporated place,30.865729,-92.801824,1
+LA,2223567,place:LA:2223567,Elmwood CDP,Elmwood,Elmwood,22051,Jefferson Parish,Census-designated place,29.95397,-90.18741,1
+LA,2223620,place:LA:2223620,Elton town,Elton,Elton,22053,Jefferson Davis Parish,Incorporated place,30.481253,-92.697609,1
+LA,2223725,place:LA:2223725,Empire CDP,Empire,Empire,22075,Plaquemines Parish,Census-designated place,29.445183,-89.614383,1
+LA,2224145,place:LA:2224145,Epps village,Epps,Epps,22123,West Carroll Parish,Incorporated place,32.603824,-91.481412,1
+LA,2224180,place:LA:2224180,Erath town,Erath,Erath,22113,Vermilion Parish,Incorporated place,29.958787,-92.037424,1
+LA,2224215,place:LA:2224215,Eros town,Eros,Eros,22049,Jackson Parish,Incorporated place,32.392558,-92.423933,1
+LA,2224250,place:LA:2224250,Erwinville CDP,Erwinville,Erwinville,22121,West Baton Rouge Parish,Census-designated place,30.541007,-91.38848,1
+LA,2224390,place:LA:2224390,Estelle CDP,Estelle,Estelle,22051,Jefferson Parish,Census-designated place,29.84146,-90.094151,1
+LA,2224460,place:LA:2224460,Estherwood village,Estherwood,Estherwood,22001,Acadia Parish,Incorporated place,30.181614,-92.463315,1
+LA,2224565,place:LA:2224565,Eunice city,Eunice,Eunice,22097,St. Landry Parish,Incorporated place,30.490429,-92.419064,1
+LA,2224775,place:LA:2224775,Evergreen town,Evergreen,Evergreen,22009,Avoyelles Parish,Incorporated place,30.952759,-92.105168,1
+LA,2225160,place:LA:2225160,Farmerville town,Farmerville,Farmerville,22111,Union Parish,Incorporated place,32.775105,-92.400519,1
+LA,2225335,place:LA:2225335,Fenton village,Fenton,Fenton,22053,Jefferson Davis Parish,Incorporated place,30.364334,-92.916965,1
+LA,2225440,place:LA:2225440,Ferriday town,Ferriday,Ferriday,22029,Concordia Parish,Incorporated place,31.63418,-91.556169,1
+LA,2225545,place:LA:2225545,Fifth Ward CDP,Fifth Ward,Fifth Ward,22009,Avoyelles Parish,Census-designated place,31.120697,-92.158388,1
+LA,2225615,place:LA:2225615,Fisher village,Fisher,Fisher,22085,Sabine Parish,Incorporated place,31.493273,-93.459738,1
+LA,2225860,place:LA:2225860,Florien village,Florien,Florien,22085,Sabine Parish,Incorporated place,31.45745,-93.4592,1
+LA,2226140,place:LA:2226140,Folsom village,Folsom,Folsom,22103,St. Tammany Parish,Incorporated place,30.632433,-90.196123,1
+LA,2226280,place:LA:2226280,Fordoche town,Fordoche,Fordoche,22077,Pointe Coupee Parish,Incorporated place,30.594028,-91.617924,1
+LA,2226350,place:LA:2226350,Forest village,Forest,Forest,22123,West Carroll Parish,Incorporated place,32.792366,-91.412555,1
+LA,2226420,place:LA:2226420,Forest Hill village,Forest Hill,Forest Hill,22079,Rapides Parish,Incorporated place,31.049909,-92.525253,1
+LA,2226665,place:LA:2226665,Fort Jesup CDP,Fort Jesup,Fort Jesup,22085,Sabine Parish,Census-designated place,31.611391,-93.406195,1
+LA,2226674,place:LA:2226674,Fort Johnson North CDP,Fort Johnson North,Fort Johnson North,22115,Vernon Parish,Census-designated place,31.100417,-93.174531,0
+LA,2226676,place:LA:2226676,Fort Johnson South CDP,Fort Johnson South,Fort Johnson South,22115,Vernon Parish,Census-designated place,31.054209,-93.216714,0
+LA,2227155,place:LA:2227155,Franklin city,Franklin,Franklin,22101,St. Mary Parish,Incorporated place,29.784946,-91.509567,1
+LA,2227190,place:LA:2227190,Franklinton town,Franklinton,Franklinton,22117,Washington Parish,Incorporated place,30.848234,-90.145869,1
+LA,2227435,place:LA:2227435,French Settlement village,French Settlement,French Settlement,22063,Livingston Parish,Incorporated place,30.337014,-90.812942,1
+LA,2227540,place:LA:2227540,Frierson CDP,Frierson,Frierson,22031,De Soto Parish,Census-designated place,32.246949,-93.686859,1
+LA,2228065,place:LA:2228065,Galliano CDP,Galliano,Galliano,22057,Lafourche Parish,Census-designated place,29.445868,-90.307654,1
+LA,2228275,place:LA:2228275,Gardere CDP,Gardere,Gardere,22033,East Baton Rouge Parish,Census-designated place,30.358217,-91.134441,1
+LA,2228345,place:LA:2228345,Garyville CDP,Garyville,Garyville,22095,St. John the Baptist Parish,Census-designated place,30.065647,-90.633793,1
+LA,2228660,place:LA:2228660,Georgetown village,Georgetown,Georgetown,22043,Grant Parish,Incorporated place,31.758547,-92.380277,1
+LA,2228835,place:LA:2228835,Gibsland town,Gibsland,Gibsland,22013,Bienville Parish,Incorporated place,32.540609,-93.055308,1
+LA,2228940,place:LA:2228940,Gilbert village,Gilbert,Gilbert,22041,Franklin Parish,Incorporated place,32.051157,-91.657704,1
+LA,2229010,place:LA:2229010,Gilliam village,Gilliam,Gilliam,22017,Caddo Parish,Incorporated place,32.828238,-93.841788,1
+LA,2229045,place:LA:2229045,Gillis CDP,Gillis,Gillis,22019,Calcasieu Parish,Census-designated place,30.376885,-93.199845,1
+LA,2229150,place:LA:2229150,Glencoe CDP,Glencoe,Glencoe,22101,St. Mary Parish,Census-designated place,29.811226,-91.670377,1
+LA,2229220,place:LA:2229220,Glenmora town,Glenmora,Glenmora,22079,Rapides Parish,Incorporated place,30.973315,-92.582382,1
+LA,2229395,place:LA:2229395,Gloster CDP,Gloster,Gloster,22031,De Soto Parish,Census-designated place,32.190384,-93.804695,1
+LA,2229640,place:LA:2229640,Golden Meadow town,Golden Meadow,Golden Meadow,22057,Lafourche Parish,Incorporated place,29.386599,-90.272906,1
+LA,2229745,place:LA:2229745,Goldonna village,Goldonna,Goldonna,22069,Natchitoches Parish,Incorporated place,32.006158,-92.938478,1
+LA,2229850,place:LA:2229850,Gonzales city,Gonzales,Gonzales,22005,Ascension Parish,Incorporated place,30.212739,-90.922402,1
+LA,2229990,place:LA:2229990,Good Pine CDP,Good Pine,Good Pine,22059,LaSalle Parish,Census-designated place,31.69349,-92.162946,1
+LA,2230515,place:LA:2230515,Grambling city,Grambling,Grambling,22061,Lincoln Parish,Incorporated place,32.526332,-92.708019,1
+LA,2230550,place:LA:2230550,Gramercy town,Gramercy,Gramercy,22093,St. James Parish,Incorporated place,30.061951,-90.693938,1
+LA,2230690,place:LA:2230690,Grand Cane village,Grand Cane,Grand Cane,22031,De Soto Parish,Incorporated place,32.083408,-93.808124,1
+LA,2230760,place:LA:2230760,Grand Coteau town,Grand Coteau,Grand Coteau,22097,St. Landry Parish,Incorporated place,30.420237,-92.04379,1
+LA,2230830,place:LA:2230830,Grand Isle town,Grand Isle,Grand Isle,22051,Jefferson Parish,Incorporated place,29.212857,-90.029115,1
+LA,2230900,place:LA:2230900,Grand Point CDP,Grand Point,Grand Point,22093,St. James Parish,Census-designated place,30.044357,-90.749857,1
+LA,2231180,place:LA:2231180,Gray CDP,Gray,Gray,22109,Terrebonne Parish,Census-designated place,29.678003,-90.783138,1
+LA,2231250,place:LA:2231250,Grayson village,Grayson,Grayson,22021,Caldwell Parish,Incorporated place,32.049173,-92.111571,1
+LA,2231565,place:LA:2231565,Greensburg town,Greensburg,Greensburg,22091,St. Helena Parish,Incorporated place,30.82964,-90.669859,1
+LA,2231705,place:LA:2231705,Greenwood town,Greenwood,Greenwood,22017,Caddo Parish,Incorporated place,32.430949,-93.959909,1
+LA,2231915,place:LA:2231915,Gretna city,Gretna,Gretna,22051,Jefferson Parish,Incorporated place,29.910514,-90.051754,1
+LA,2232020,place:LA:2232020,Grosse Tete village,Grosse Tete,Grosse Tete,22047,Iberville Parish,Incorporated place,30.415418,-91.4394,1
+LA,2232055,place:LA:2232055,Gueydan town,Gueydan,Gueydan,22113,Vermilion Parish,Incorporated place,30.029017,-92.506985,1
+LA,2232405,place:LA:2232405,Hackberry CDP,Hackberry,Hackberry,22023,Cameron Parish,Census-designated place,29.964958,-93.410178,1
+LA,2232510,place:LA:2232510,Hahnville CDP,Hahnville,Hahnville,22089,St. Charles Parish,Census-designated place,29.961965,-90.423964,1
+LA,2232650,place:LA:2232650,Hall Summit village,Hall Summit,Hall Summit,22081,Red River Parish,Incorporated place,32.177027,-93.304508,1
+LA,2232755,place:LA:2232755,Hammond city,Hammond,Hammond,22105,Tangipahoa Parish,Incorporated place,30.506006,-90.454857,1
+LA,2232930,place:LA:2232930,Harahan city,Harahan,Harahan,22051,Jefferson Parish,Incorporated place,29.936689,-90.202659,1
+LA,2233210,place:LA:2233210,Harrisonburg village,Harrisonburg,Harrisonburg,22025,Catahoula Parish,Incorporated place,31.768456,-91.823014,1
+LA,2233245,place:LA:2233245,Harvey CDP,Harvey,Harvey,22051,Jefferson Parish,Census-designated place,29.888796,-90.06641,1
+LA,2233420,place:LA:2233420,Haughton town,Haughton,Haughton,22015,Bossier Parish,Incorporated place,32.527609,-93.504172,1
+LA,2233490,place:LA:2233490,Hayes CDP,Hayes,Hayes,22019,Calcasieu Parish,Census-designated place,30.111069,-92.923911,1
+LA,2233525,place:LA:2233525,Haynesville town,Haynesville,Haynesville,22027,Claiborne Parish,Incorporated place,32.966337,-93.138141,1
+LA,2233735,place:LA:2233735,Heflin village,Heflin,Heflin,22119,Webster Parish,Incorporated place,32.459066,-93.273075,1
+LA,2233875,place:LA:2233875,Henderson town,Henderson,Henderson,22099,St. Martin Parish,Incorporated place,30.31781,-91.803708,1
+LA,2234015,place:LA:2234015,Hessmer village,Hessmer,Hessmer,22009,Avoyelles Parish,Incorporated place,31.053373,-92.121487,1
+LA,2234085,place:LA:2234085,Hester CDP,Hester,Hester,22093,St. James Parish,Census-designated place,30.031094,-90.769439,1
+LA,2235100,place:LA:2235100,Hodge village,Hodge,Hodge,22049,Jackson Parish,Incorporated place,32.270019,-92.72968,1
+LA,2235870,place:LA:2235870,Homer town,Homer,Homer,22027,Claiborne Parish,Incorporated place,32.793797,-93.059087,1
+LA,2236045,place:LA:2236045,Hornbeck town,Hornbeck,Hornbeck,22115,Vernon Parish,Incorporated place,31.326045,-93.395808,1
+LA,2236150,place:LA:2236150,Hosston village,Hosston,Hosston,22017,Caddo Parish,Incorporated place,32.88608,-93.882689,1
+LA,2236255,place:LA:2236255,Houma city,Houma,Houma,22109,Terrebonne Parish,Incorporated place,29.578637,-90.707901,1
+LA,2236885,place:LA:2236885,Ida village,Ida,Ida,22017,Caddo Parish,Incorporated place,32.998902,-93.896379,1
+LA,2237025,place:LA:2237025,Independence town,Independence,Independence,22105,Tangipahoa Parish,Incorporated place,30.636052,-90.505172,1
+LA,2237410,place:LA:2237410,Iota town,Iota,Iota,22001,Acadia Parish,Incorporated place,30.326054,-92.495612,1
+LA,2237445,place:LA:2237445,Iowa town,Iowa,Iowa,22019,Calcasieu Parish,Incorporated place,30.241367,-93.013028,1
+LA,2237830,place:LA:2237830,Jackson town,Jackson,Jackson,22037,East Feliciana Parish,Incorporated place,30.83463,-91.208479,1
+LA,2237935,place:LA:2237935,Jamestown village,Jamestown,Jamestown,22013,Bienville Parish,Incorporated place,32.341862,-93.206609,1
+LA,2238092,place:LA:2238092,Jean Lafitte town,Jean Lafitte,Jean Lafitte,22051,Jefferson Parish,Incorporated place,29.753403,-90.101568,1
+LA,2238075,place:LA:2238075,Jeanerette city,Jeanerette,Jeanerette,22045,Iberia Parish,Incorporated place,29.915237,-91.676308,1
+LA,2238145,place:LA:2238145,Jefferson CDP,Jefferson,Jefferson,22051,Jefferson Parish,Census-designated place,29.960355,-90.155912,1
+LA,2238285,place:LA:2238285,Jena town,Jena,Jena,22059,LaSalle Parish,Incorporated place,31.690215,-92.128582,1
+LA,2238355,place:LA:2238355,Jennings city,Jennings,Jennings,22053,Jefferson Davis Parish,Incorporated place,30.223978,-92.658295,1
+LA,2238670,place:LA:2238670,Jonesboro town,Jonesboro,Jonesboro,22049,Jackson Parish,Incorporated place,32.233544,-92.710619,1
+LA,2238775,place:LA:2238775,Jonesville town,Jonesville,Jonesville,22025,Catahoula Parish,Incorporated place,31.622318,-91.83443,1
+LA,2238845,place:LA:2238845,Jordan Hill CDP,Jordan Hill,Jordan Hill,22127,Winn Parish,Census-designated place,31.859105,-92.515624,1
+LA,2238880,place:LA:2238880,Joyce CDP,Joyce,Joyce,22127,Winn Parish,Census-designated place,31.9347,-92.585073,1
+LA,2238985,place:LA:2238985,Junction City village,Junction City,Junction City,22111,Union Parish,Incorporated place,33.007273,-92.722416,1
+LA,2239055,place:LA:2239055,Kaplan city,Kaplan,Kaplan,22113,Vermilion Parish,Incorporated place,30.005959,-92.283876,1
+LA,2239085,place:LA:2239085,Keachi town,Keachi,Keachi,22031,De Soto Parish,Incorporated place,32.168,-93.914523,1
+LA,2239475,place:LA:2239475,Kenner city,Kenner,Kenner,22051,Jefferson Parish,Incorporated place,30.010227,-90.25482,1
+LA,2239545,place:LA:2239545,Kentwood town,Kentwood,Kentwood,22105,Tangipahoa Parish,Incorporated place,30.933755,-90.515162,1
+LA,2239650,place:LA:2239650,Kilbourne village,Kilbourne,Kilbourne,22123,West Carroll Parish,Incorporated place,32.997184,-91.313905,1
+LA,2239685,place:LA:2239685,Killian town,Killian,Killian,22063,Livingston Parish,Incorporated place,30.352612,-90.580925,1
+LA,2239720,place:LA:2239720,Killona CDP,Killona,Killona,22089,St. Charles Parish,Census-designated place,29.996836,-90.484239,1
+LA,2239755,place:LA:2239755,Kinder town,Kinder,Kinder,22003,Allen Parish,Incorporated place,30.483093,-92.851983,1
+LA,2240210,place:LA:2240210,Kraemer CDP,Kraemer,Kraemer,22057,Lafourche Parish,Census-designated place,29.859217,-90.625597,1
+LA,2240280,place:LA:2240280,Krotz Springs town,Krotz Springs,Krotz Springs,22097,St. Landry Parish,Incorporated place,30.5294,-91.754876,1
+LA,2240420,place:LA:2240420,Labadieville CDP,Labadieville,Labadieville,22007,Assumption Parish,Census-designated place,29.824616,-90.952554,1
+LA,2240595,place:LA:2240595,Lacassine CDP,Lacassine,Lacassine,22053,Jefferson Davis Parish,Census-designated place,30.233129,-92.920831,1
+LA,2240665,place:LA:2240665,Lacombe CDP,Lacombe,Lacombe,22103,St. Tammany Parish,Census-designated place,30.314145,-89.930581,1
+LA,2240735,place:LA:2240735,Lafayette city,Lafayette,Lafayette,22055,Lafayette Parish,Incorporated place,30.206989,-92.028873,1
+LA,2240840,place:LA:2240840,Lafitte CDP,Lafitte,Lafitte,22051,Jefferson Parish,Census-designated place,29.710879,-90.096784,1
+LA,2240878,place:LA:2240878,Lafourche Crossing CDP,Lafourche Crossing,Lafourche Crossing,22057,Lafourche Parish,Census-designated place,29.767458,-90.769686,1
+LA,2241050,place:LA:2241050,Lake Arthur town,Lake Arthur,Lake Arthur,22053,Jefferson Davis Parish,Incorporated place,30.079967,-92.67741,1
+LA,2241155,place:LA:2241155,Lake Charles city,Lake Charles,Lake Charles,22019,Calcasieu Parish,Incorporated place,30.19902,-93.210835,1
+LA,2241400,place:LA:2241400,Lake Providence town,Lake Providence,Lake Providence,22035,East Carroll Parish,Incorporated place,32.801973,-91.175232,1
+LA,2241470,place:LA:2241470,Lakeshore CDP,Lakeshore,Lakeshore,22073,Ouachita Parish,Census-designated place,32.53487,-92.033806,1
+LA,2241645,place:LA:2241645,Lakeview CDP,Lakeview,Lakeview,22017,Caddo Parish,Census-designated place,32.523847,-93.829755,1
+LA,2242030,place:LA:2242030,Laplace CDP,Laplace,Laplace,22095,St. John the Baptist Parish,Census-designated place,30.072157,-90.477008,1
+LA,2242135,place:LA:2242135,Larose CDP,Larose,Larose,22057,Lafourche Parish,Census-designated place,29.565196,-90.376167,1
+LA,2242520,place:LA:2242520,Lawtell CDP,Lawtell,Lawtell,22097,St. Landry Parish,Census-designated place,30.512644,-92.183207,1
+LA,2242695,place:LA:2242695,Lebeau CDP,Lebeau,Lebeau,22097,St. Landry Parish,Census-designated place,30.732778,-91.96945,0
+LA,2242800,place:LA:2242800,Lecompte town,Lecompte,Lecompte,22079,Rapides Parish,Incorporated place,31.088156,-92.39987,1
+LA,2243010,place:LA:2243010,Leesville city,Leesville,Leesville,22115,Vernon Parish,Incorporated place,31.14112,-93.28423,1
+LA,2243255,place:LA:2243255,Lemannville CDP,Lemannville,Lemannville,22005,Ascension Parish,Census-designated place,30.10104,-90.92836,1
+LA,2243395,place:LA:2243395,Leonville town,Leonville,Leonville,22097,St. Landry Parish,Incorporated place,30.462776,-91.983527,1
+LA,2243640,place:LA:2243640,Lewisburg CDP,Lewisburg,Lewisburg,22103,St. Tammany Parish,Census-designated place,30.369545,-90.104244,1
+LA,2243920,place:LA:2243920,Lillie village,Lillie,Lillie,22111,Union Parish,Incorporated place,32.920012,-92.661297,1
+LA,2244235,place:LA:2244235,Lisbon village,Lisbon,Lisbon,22027,Claiborne Parish,Incorporated place,32.789367,-92.867206,1
+LA,2244655,place:LA:2244655,Livingston town,Livingston,Livingston,22063,Livingston Parish,Incorporated place,30.495289,-90.746698,1
+LA,2244690,place:LA:2244690,Livonia town,Livonia,Livonia,22077,Pointe Coupee Parish,Incorporated place,30.562248,-91.550112,1
+LA,2244900,place:LA:2244900,Lockport town,Lockport,Lockport,22057,Lafourche Parish,Incorporated place,29.644075,-90.531558,1
+LA,2244970,place:LA:2244970,Lockport Heights CDP,Lockport Heights,Lockport Heights,22057,Lafourche Parish,Census-designated place,29.659542,-90.549605,1
+LA,2245040,place:LA:2245040,Logansport town,Logansport,Logansport,22031,De Soto Parish,Incorporated place,31.975805,-93.993363,1
+LA,2245460,place:LA:2245460,Longstreet village,Longstreet,Longstreet,22031,De Soto Parish,Incorporated place,32.097976,-93.949851,1
+LA,2245530,place:LA:2245530,Longville CDP,Longville,Longville,22011,Beauregard Parish,Census-designated place,30.610611,-93.225046,1
+LA,2245670,place:LA:2245670,Loreauville village,Loreauville,Loreauville,22045,Iberia Parish,Incorporated place,30.063308,-91.73897,1
+LA,2246370,place:LA:2246370,Lucky village,Lucky,Lucky,22013,Bienville Parish,Incorporated place,32.244082,-93.013336,1
+LA,2246615,place:LA:2246615,Luling CDP,Luling,Luling,22089,St. Charles Parish,Census-designated place,29.898452,-90.353161,1
+LA,2246720,place:LA:2246720,Lutcher town,Lutcher,Lutcher,22093,St. James Parish,Incorporated place,30.06305,-90.711681,1
+LA,2246755,place:LA:2246755,Lydia CDP,Lydia,Lydia,22045,Iberia Parish,Census-designated place,29.926286,-91.781258,1
+LA,2247560,place:LA:2247560,Madisonville town,Madisonville,Madisonville,22103,St. Tammany Parish,Incorporated place,30.398493,-90.166044,1
+LA,2248085,place:LA:2248085,Mamou town,Mamou,Mamou,22039,Evangeline Parish,Incorporated place,30.634871,-92.417918,1
+LA,2248225,place:LA:2248225,Mandeville city,Mandeville,Mandeville,22103,St. Tammany Parish,Incorporated place,30.377311,-90.105641,1
+LA,2248260,place:LA:2248260,Mangham town,Mangham,Mangham,22083,Richland Parish,Incorporated place,32.309276,-91.779435,1
+LA,2248365,place:LA:2248365,Mansfield city,Mansfield,Mansfield,22031,De Soto Parish,Incorporated place,32.035854,-93.699429,1
+LA,2248400,place:LA:2248400,Mansura town,Mansura,Mansura,22009,Avoyelles Parish,Incorporated place,31.067324,-92.052825,1
+LA,2248470,place:LA:2248470,Many town,Many,Many,22085,Sabine Parish,Incorporated place,31.566074,-93.477234,1
+LA,2248610,place:LA:2248610,Maringouin town,Maringouin,Maringouin,22047,Iberville Parish,Incorporated place,30.490776,-91.518562,1
+LA,2248645,place:LA:2248645,Marion town,Marion,Marion,22111,Union Parish,Incorporated place,32.898163,-92.240272,1
+LA,2248750,place:LA:2248750,Marksville city,Marksville,Marksville,22009,Avoyelles Parish,Incorporated place,31.125431,-92.065119,1
+LA,2248785,place:LA:2248785,Marrero CDP,Marrero,Marrero,22051,Jefferson Parish,Census-designated place,29.885715,-90.1132,1
+LA,2248890,place:LA:2248890,Marthaville CDP,Marthaville,Marthaville,22069,Natchitoches Parish,Census-designated place,31.737983,-93.389964,1
+LA,2248925,place:LA:2248925,Martin village,Martin,Martin,22081,Red River Parish,Incorporated place,32.099862,-93.219128,1
+LA,2249170,place:LA:2249170,Mathews CDP,Mathews,Mathews,22057,Lafourche Parish,Census-designated place,29.682154,-90.5559,1
+LA,2249240,place:LA:2249240,Maurice town,Maurice,Maurice,22113,Vermilion Parish,Incorporated place,30.104194,-92.120236,1
+LA,2247315,place:LA:2247315,McNary village,McNary,McNary,22079,Rapides Parish,Incorporated place,30.990436,-92.581458,1
+LA,2249730,place:LA:2249730,Melville town,Melville,Melville,22097,St. Landry Parish,Incorporated place,30.691974,-91.750508,1
+LA,2249905,place:LA:2249905,Mer Rouge village,Mer Rouge,Mer Rouge,22067,Morehouse Parish,Incorporated place,32.776921,-91.794367,1
+LA,2249800,place:LA:2249800,Meraux CDP,Meraux,Meraux,22087,St. Bernard Parish,Census-designated place,29.927461,-89.919217,1
+LA,2249870,place:LA:2249870,Mermentau village,Mermentau,Mermentau,22001,Acadia Parish,Incorporated place,30.188007,-92.58381,1
+LA,2249940,place:LA:2249940,Merrydale CDP,Merrydale,Merrydale,22033,East Baton Rouge Parish,Census-designated place,30.499807,-91.108129,1
+LA,2250010,place:LA:2250010,Merryville town,Merryville,Merryville,22011,Beauregard Parish,Incorporated place,30.755321,-93.526887,1
+LA,2250115,place:LA:2250115,Metairie CDP,Metairie,Metairie,22051,Jefferson Parish,Census-designated place,29.996277,-90.177502,1
+LA,2250325,place:LA:2250325,Midland CDP,Midland,Midland,22001,Acadia Parish,Census-designated place,30.180455,-92.501474,1
+LA,2250395,place:LA:2250395,Midway CDP,Midway,Midway,22059,LaSalle Parish,Census-designated place,31.675565,-92.146581,1
+LA,2250815,place:LA:2250815,Milton CDP,Milton,Milton,22055,Lafayette Parish,Census-designated place,30.11395,-92.069079,1
+LA,2250885,place:LA:2250885,Minden city,Minden,Minden,22119,Webster Parish,Incorporated place,32.619146,-93.272754,1
+LA,2250990,place:LA:2250990,Minorca CDP,Minorca,Minorca,22029,Concordia Parish,Census-designated place,31.572989,-91.490688,1
+LA,2251410,place:LA:2251410,Monroe city,Monroe,Monroe,22073,Ouachita Parish,Incorporated place,32.518986,-92.07718,1
+LA,2251550,place:LA:2251550,Montegut CDP,Montegut,Montegut,22109,Terrebonne Parish,Census-designated place,29.448962,-90.559971,1
+LA,2251585,place:LA:2251585,Monterey CDP,Monterey,Monterey,22029,Concordia Parish,Census-designated place,31.444332,-91.718679,1
+LA,2251620,place:LA:2251620,Montgomery town,Montgomery,Montgomery,22043,Grant Parish,Incorporated place,31.667442,-92.887108,1
+LA,2251645,place:LA:2251645,Monticello CDP,Monticello,Monticello,22033,East Baton Rouge Parish,Census-designated place,30.488097,-91.044734,1
+LA,2251690,place:LA:2251690,Montpelier village,Montpelier,Montpelier,22091,St. Helena Parish,Incorporated place,30.685207,-90.656568,1
+LA,2251795,place:LA:2251795,Montz CDP,Montz,Montz,22089,St. Charles Parish,Census-designated place,30.025113,-90.460395,1
+LA,2251800,place:LA:2251800,Moonshine CDP,Moonshine,Moonshine,22093,St. James Parish,Census-designated place,29.96495,-90.813015,1
+LA,2251830,place:LA:2251830,Mooringsport village,Mooringsport,Mooringsport,22017,Caddo Parish,Incorporated place,32.679359,-93.960152,1
+LA,2251970,place:LA:2251970,Moreauville village,Moreauville,Moreauville,22009,Avoyelles Parish,Incorporated place,31.034175,-91.981714,1
+LA,2252040,place:LA:2252040,Morgan City city,Morgan City,Morgan City,22101,St. Mary Parish,Incorporated place,29.710332,-91.191542,1
+LA,2252075,place:LA:2252075,Morganza village,Morganza,Morganza,22077,Pointe Coupee Parish,Incorporated place,30.737719,-91.591829,1
+LA,2252250,place:LA:2252250,Morrow CDP,Morrow,Morrow,22097,St. Landry Parish,Census-designated place,30.829385,-92.082036,1
+LA,2252320,place:LA:2252320,Morse village,Morse,Morse,22001,Acadia Parish,Incorporated place,30.122097,-92.498435,1
+LA,2252425,place:LA:2252425,Moss Bluff CDP,Moss Bluff,Moss Bluff,22019,Calcasieu Parish,Census-designated place,30.308838,-93.207913,1
+LA,2252565,place:LA:2252565,Mound village,Mound,Mound,22065,Madison Parish,Incorporated place,32.331847,-91.024535,1
+LA,2252740,place:LA:2252740,Mount Lebanon town,Mount Lebanon,Mount Lebanon,22013,Bienville Parish,Incorporated place,32.505248,-93.049923,1
+LA,2253370,place:LA:2253370,Napoleonville village,Napoleonville,Napoleonville,22007,Assumption Parish,Incorporated place,29.938267,-91.026361,1
+LA,2253475,place:LA:2253475,Natalbany CDP,Natalbany,Natalbany,22105,Tangipahoa Parish,Census-designated place,30.548924,-90.487542,1
+LA,2253510,place:LA:2253510,Natchez village,Natchez,Natchez,22069,Natchitoches Parish,Incorporated place,31.674069,-93.045496,1
+LA,2253545,place:LA:2253545,Natchitoches city,Natchitoches,Natchitoches,22069,Natchitoches Parish,Incorporated place,31.7348,-93.100736,1
+LA,2254035,place:LA:2254035,New Iberia city,New Iberia,New Iberia,22045,Iberia Parish,Incorporated place,30.005493,-91.820307,1
+LA,2254175,place:LA:2254175,New Llano town,New Llano,New Llano,22115,Vernon Parish,Incorporated place,31.105933,-93.26965,1
+LA,2255000,place:LA:2255000,New Orleans city,New Orleans,New Orleans,22071,Orleans Parish,Incorporated place,30.052877,-89.934502,1
+LA,2255074,place:LA:2255074,New Orleans Station CDP,New Orleans Station,New Orleans Station,22075,Plaquemines Parish,Census-designated place,29.827004,-90.025642,1
+LA,2255105,place:LA:2255105,New Roads city,New Roads,New Roads,22077,Pointe Coupee Parish,Incorporated place,30.695921,-91.453794,1
+LA,2255140,place:LA:2255140,New Sarpy CDP,New Sarpy,New Sarpy,22089,St. Charles Parish,Census-designated place,29.979168,-90.383494,1
+LA,2253930,place:LA:2253930,Newellton town,Newellton,Newellton,22107,Tensas Parish,Incorporated place,32.072601,-91.239269,1
+LA,2255420,place:LA:2255420,Noble village,Noble,Noble,22085,Sabine Parish,Incorporated place,31.689902,-93.683209,1
+LA,2255525,place:LA:2255525,Norco CDP,Norco,Norco,22089,St. Charles Parish,Census-designated place,29.997747,-90.404614,1
+LA,2255910,place:LA:2255910,North Hodge village,North Hodge,North Hodge,22049,Jackson Parish,Incorporated place,32.282505,-92.718413,1
+LA,2256170,place:LA:2256170,North Vacherie CDP,North Vacherie,North Vacherie,22093,St. James Parish,Census-designated place,30.007281,-90.711805,1
+LA,2256295,place:LA:2256295,Norwood village,Norwood,Norwood,22037,East Feliciana Parish,Incorporated place,30.973378,-91.110346,1
+LA,2256820,place:LA:2256820,Oak Grove town,Oak Grove,Oak Grove,22123,West Carroll Parish,Incorporated place,32.862421,-91.391173,1
+LA,2257205,place:LA:2257205,Oak Ridge village,Oak Ridge,Oak Ridge,22067,Morehouse Parish,Incorporated place,32.624353,-91.773125,1
+LA,2256540,place:LA:2256540,Oakdale city,Oakdale,Oakdale,22003,Allen Parish,Incorporated place,30.816418,-92.655855,1
+LA,2257450,place:LA:2257450,Oberlin town,Oberlin,Oberlin,22003,Allen Parish,Incorporated place,30.608097,-92.774982,1
+LA,2257590,place:LA:2257590,Oil City town,Oil City,Oil City,22017,Caddo Parish,Incorporated place,32.745752,-93.975098,1
+LA,2257905,place:LA:2257905,Olla town,Olla,Olla,22059,LaSalle Parish,Incorporated place,31.898075,-92.240406,1
+LA,2258045,place:LA:2258045,Opelousas city,Opelousas,Opelousas,22097,St. Landry Parish,Incorporated place,30.524897,-92.081654,1
+LA,2258150,place:LA:2258150,Oretta CDP,Oretta,Oretta,22011,Beauregard Parish,Census-designated place,30.528934,-93.439092,1
+LA,2258360,place:LA:2258360,Ossun CDP,Ossun,Ossun,22055,Lafayette Parish,Census-designated place,30.283394,-92.107027,1
+LA,2258745,place:LA:2258745,Paincourtville CDP,Paincourtville,Paincourtville,22007,Assumption Parish,Census-designated place,29.988584,-91.055436,1
+LA,2258780,place:LA:2258780,Palmetto village,Palmetto,Palmetto,22097,St. Landry Parish,Incorporated place,30.717738,-91.909118,1
+LA,2258920,place:LA:2258920,Paradis CDP,Paradis,Paradis,22089,St. Charles Parish,Census-designated place,29.866462,-90.439998,1
+LA,2259165,place:LA:2259165,Parks village,Parks,Parks,22099,St. Martin Parish,Incorporated place,30.217809,-91.827593,1
+LA,2259340,place:LA:2259340,Patterson city,Patterson,Patterson,22101,St. Mary Parish,Incorporated place,29.690891,-91.309533,1
+LA,2259375,place:LA:2259375,Paulina CDP,Paulina,Paulina,22093,St. James Parish,Census-designated place,30.036972,-90.722028,1
+LA,2259445,place:LA:2259445,Pearl River town,Pearl River,Pearl River,22103,St. Tammany Parish,Incorporated place,30.366312,-89.744876,1
+LA,2259795,place:LA:2259795,Perry CDP,Perry,Perry,22113,Vermilion Parish,Census-designated place,29.952578,-92.150295,1
+LA,2260075,place:LA:2260075,Pierre Part CDP,Pierre Part,Pierre Part,22007,Assumption Parish,Census-designated place,29.955571,-91.202843,1
+LA,2260495,place:LA:2260495,Pine Prairie village,Pine Prairie,Pine Prairie,22039,Evangeline Parish,Incorporated place,30.782025,-92.421989,1
+LA,2260530,place:LA:2260530,Pineville city,Pineville,Pineville,22079,Rapides Parish,Incorporated place,31.342931,-92.408937,1
+LA,2260565,place:LA:2260565,Pioneer village,Pioneer,Pioneer,22123,West Carroll Parish,Incorporated place,32.738099,-91.438129,1
+LA,2260600,place:LA:2260600,Pitkin CDP,Pitkin,Pitkin,22115,Vernon Parish,Census-designated place,30.93636,-92.930018,1
+LA,2260670,place:LA:2260670,Plain Dealing town,Plain Dealing,Plain Dealing,22015,Bossier Parish,Incorporated place,32.907025,-93.699237,1
+LA,2260880,place:LA:2260880,Plaquemine city,Plaquemine,Plaquemine,22047,Iberville Parish,Incorporated place,30.283156,-91.243812,1
+LA,2260985,place:LA:2260985,Plaucheville village,Plaucheville,Plaucheville,22009,Avoyelles Parish,Incorporated place,30.964692,-91.983655,1
+LA,2261055,place:LA:2261055,Pleasant Hill village,Pleasant Hill,Pleasant Hill,22085,Sabine Parish,Incorporated place,31.815363,-93.5164,1
+LA,2261160,place:LA:2261160,Pleasure Bend CDP,Pleasure Bend,Pleasure Bend,22095,St. John the Baptist Parish,Census-designated place,29.922091,-90.641206,1
+LA,2261473,place:LA:2261473,Point Place CDP,Point Place,Point Place,22069,Natchitoches Parish,Census-designated place,31.68758,-93.024981,1
+LA,2261440,place:LA:2261440,Pointe a la Hache CDP,Pointe a la Hache,Pointe a la Hache,22075,Plaquemines Parish,Census-designated place,29.573756,-89.780848,1
+LA,2261580,place:LA:2261580,Pollock town,Pollock,Pollock,22043,Grant Parish,Incorporated place,31.494069,-92.441289,1
+LA,2261615,place:LA:2261615,Ponchatoula city,Ponchatoula,Ponchatoula,22105,Tangipahoa Parish,Incorporated place,30.440598,-90.442791,1
+LA,2261790,place:LA:2261790,Port Allen city,Port Allen,Port Allen,22121,West Baton Rouge Parish,Incorporated place,30.443835,-91.20741,1
+LA,2261825,place:LA:2261825,Port Barre town,Port Barre,Port Barre,22097,St. Landry Parish,Incorporated place,30.555523,-91.955962,1
+LA,2262070,place:LA:2262070,Port Sulphur CDP,Port Sulphur,Port Sulphur,22075,Plaquemines Parish,Census-designated place,29.512691,-89.728163,1
+LA,2262105,place:LA:2262105,Port Vincent village,Port Vincent,Port Vincent,22063,Livingston Parish,Incorporated place,30.336352,-90.843602,1
+LA,2262245,place:LA:2262245,Powhatan village,Powhatan,Powhatan,22069,Natchitoches Parish,Incorporated place,31.873775,-93.203239,1
+LA,2262280,place:LA:2262280,Poydras CDP,Poydras,Poydras,22087,St. Bernard Parish,Census-designated place,29.859723,-89.887371,1
+LA,2262385,place:LA:2262385,Prairieville CDP,Prairieville,Prairieville,22005,Ascension Parish,Census-designated place,30.313534,-90.958136,1
+LA,2262510,place:LA:2262510,Presquille CDP,Presquille,Presquille,22109,Terrebonne Parish,Census-designated place,29.558622,-90.638568,1
+LA,2262647,place:LA:2262647,Prien CDP,Prien,Prien,22019,Calcasieu Parish,Census-designated place,30.151046,-93.274152,1
+LA,2262733,place:LA:2262733,Prospect CDP,Prospect,Prospect,22043,Grant Parish,Census-designated place,31.446402,-92.496403,1
+LA,2262770,place:LA:2262770,Provencal village,Provencal,Provencal,22069,Natchitoches Parish,Incorporated place,31.654738,-93.200118,1
+LA,2263120,place:LA:2263120,Quitman village,Quitman,Quitman,22049,Jackson Parish,Incorporated place,32.353037,-92.723567,1
+LA,2263155,place:LA:2263155,Raceland CDP,Raceland,Raceland,22057,Lafourche Parish,Census-designated place,29.723511,-90.629673,1
+LA,2263645,place:LA:2263645,Rayne city,Rayne,Rayne,22001,Acadia Parish,Incorporated place,30.240513,-92.267335,1
+LA,2263680,place:LA:2263680,Rayville town,Rayville,Rayville,22083,Richland Parish,Incorporated place,32.470982,-91.757449,1
+LA,2263855,place:LA:2263855,Red Chute CDP,Red Chute,Red Chute,22015,Bossier Parish,Census-designated place,32.570318,-93.613073,1
+LA,2263890,place:LA:2263890,Reddell CDP,Reddell,Reddell,22039,Evangeline Parish,Census-designated place,30.668747,-92.426825,1
+LA,2264100,place:LA:2264100,Reeves village,Reeves,Reeves,22003,Allen Parish,Incorporated place,30.521695,-93.036234,1
+LA,2264310,place:LA:2264310,Reserve CDP,Reserve,Reserve,22095,St. John the Baptist Parish,Census-designated place,30.072962,-90.555022,1
+LA,2264590,place:LA:2264590,Richmond village,Richmond,Richmond,22065,Madison Parish,Incorporated place,32.388372,-91.180409,1
+LA,2264660,place:LA:2264660,Richwood town,Richwood,Richwood,22073,Ouachita Parish,Incorporated place,32.448773,-92.077347,1
+LA,2264765,place:LA:2264765,Ridgecrest town,Ridgecrest,Ridgecrest,22029,Concordia Parish,Incorporated place,31.601805,-91.530421,1
+LA,2264905,place:LA:2264905,Ringgold town,Ringgold,Ringgold,22013,Bienville Parish,Incorporated place,32.326545,-93.283599,1
+LA,2264975,place:LA:2264975,Rio CDP,Rio,Rio,22117,Washington Parish,Census-designated place,30.691387,-89.889641,1
+LA,2265150,place:LA:2265150,River Ridge CDP,River Ridge,River Ridge,22051,Jefferson Parish,Census-designated place,29.95861,-90.222046,1
+LA,2265290,place:LA:2265290,Roanoke CDP,Roanoke,Roanoke,22053,Jefferson Davis Parish,Census-designated place,30.235526,-92.748141,1
+LA,2265325,place:LA:2265325,Robeline village,Robeline,Robeline,22069,Natchitoches Parish,Incorporated place,31.689825,-93.303937,1
+LA,2265535,place:LA:2265535,Rock Hill CDP,Rock Hill,Rock Hill,22043,Grant Parish,Census-designated place,31.43903,-92.575935,1
+LA,2265710,place:LA:2265710,Rodessa village,Rodessa,Rodessa,22017,Caddo Parish,Incorporated place,32.973605,-93.997163,1
+LA,2265850,place:LA:2265850,Romeville CDP,Romeville,Romeville,22093,St. James Parish,Census-designated place,30.068681,-90.827406,1
+LA,2266060,place:LA:2266060,Rosedale village,Rosedale,Rosedale,22047,Iberville Parish,Incorporated place,30.4429,-91.460114,1
+LA,2266165,place:LA:2266165,Roseland town,Roseland,Roseland,22105,Tangipahoa Parish,Incorporated place,30.763543,-90.510457,1
+LA,2266200,place:LA:2266200,Rosepine town,Rosepine,Rosepine,22115,Vernon Parish,Incorporated place,30.924455,-93.288467,1
+LA,2266655,place:LA:2266655,Ruston city,Ruston,Ruston,22061,Lincoln Parish,Incorporated place,32.533817,-92.635243,1
+LA,2267880,place:LA:2267880,Saline village,Saline,Saline,22013,Bienville Parish,Incorporated place,32.163124,-92.976778,1
+LA,2268125,place:LA:2268125,Sarepta town,Sarepta,Sarepta,22119,Webster Parish,Incorporated place,32.895017,-93.451462,1
+LA,2268300,place:LA:2268300,Schriever CDP,Schriever,Schriever,22109,Terrebonne Parish,Census-designated place,29.728672,-90.835398,1
+LA,2268475,place:LA:2268475,Scott city,Scott,Scott,22055,Lafayette Parish,Incorporated place,30.23982,-92.094826,1
+LA,2269455,place:LA:2269455,Shongaloo village,Shongaloo,Shongaloo,22119,Webster Parish,Incorporated place,32.9403,-93.293215,1
+LA,2270000,place:LA:2270000,Shreveport city,Shreveport,Shreveport,22017,Caddo Parish,Incorporated place,32.466879,-93.792193,1
+LA,2270175,place:LA:2270175,Sibley town,Sibley,Sibley,22119,Webster Parish,Incorporated place,32.542462,-93.293939,1
+LA,2270245,place:LA:2270245,Sicily Island village,Sicily Island,Sicily Island,22025,Catahoula Parish,Incorporated place,31.848832,-91.659358,1
+LA,2270385,place:LA:2270385,Sikes village,Sikes,Sikes,22127,Winn Parish,Incorporated place,32.078981,-92.48627,1
+LA,2270525,place:LA:2270525,Simmesport town,Simmesport,Simmesport,22009,Avoyelles Parish,Incorporated place,30.98112,-91.814293,1
+LA,2270595,place:LA:2270595,Simpson village,Simpson,Simpson,22115,Vernon Parish,Incorporated place,31.264633,-93.016124,1
+LA,2270630,place:LA:2270630,Simsboro village,Simsboro,Simsboro,22061,Lincoln Parish,Incorporated place,32.532325,-92.783913,1
+LA,2270665,place:LA:2270665,Singer CDP,Singer,Singer,22011,Beauregard Parish,Census-designated place,30.651199,-93.41172,1
+LA,2270675,place:LA:2270675,Siracusaville CDP,Siracusaville,Siracusaville,22101,St. Mary Parish,Census-designated place,29.688201,-91.151839,1
+LA,2270770,place:LA:2270770,Slaughter town,Slaughter,Slaughter,22037,East Feliciana Parish,Incorporated place,30.727639,-91.136122,1
+LA,2270805,place:LA:2270805,Slidell city,Slidell,Slidell,22103,St. Tammany Parish,Incorporated place,30.288913,-89.782926,1
+LA,2271190,place:LA:2271190,Sorrel CDP,Sorrel,Sorrel,22101,St. Mary Parish,Census-designated place,29.887218,-91.627542,1
+LA,2271225,place:LA:2271225,Sorrento town,Sorrento,Sorrento,22005,Ascension Parish,Incorporated place,30.183623,-90.866567,1
+LA,2271820,place:LA:2271820,South Mansfield village,South Mansfield,South Mansfield,22031,De Soto Parish,Incorporated place,32.017057,-93.718039,1
+LA,2272092,place:LA:2272092,South Vacherie CDP,South Vacherie,South Vacherie,22093,St. James Parish,Census-designated place,29.940238,-90.687698,1
+LA,2272170,place:LA:2272170,Spearsville village,Spearsville,Spearsville,22111,Union Parish,Incorporated place,32.93201,-92.600113,1
+LA,2272310,place:LA:2272310,Spokane CDP,Spokane,Spokane,22029,Concordia Parish,Census-designated place,31.704064,-91.460529,1
+LA,2272415,place:LA:2272415,Springfield town,Springfield,Springfield,22063,Livingston Parish,Incorporated place,30.425552,-90.544414,1
+LA,2272485,place:LA:2272485,Springhill city,Springhill,Springhill,22119,Webster Parish,Incorporated place,33.001934,-93.461511,1
+LA,2267215,place:LA:2267215,St. Francisville town,St. Francisville,St. Francisville,22125,West Feliciana Parish,Incorporated place,30.784234,-91.376417,1
+LA,2267250,place:LA:2267250,St. Gabriel city,St. Gabriel,St. Gabriel,22047,Iberville Parish,Incorporated place,30.255202,-91.100363,1
+LA,2267303,place:LA:2267303,St. George city,St. George,St. George,22033,East Baton Rouge Parish,Incorporated place,30.368658,-91.034344,0
+LA,2267355,place:LA:2267355,St. James CDP,St. James,St. James,22093,St. James Parish,Census-designated place,30.018643,-90.850881,1
+LA,2267495,place:LA:2267495,St. Joseph town,St. Joseph,St. Joseph,22107,Tensas Parish,Incorporated place,31.920284,-91.24004,1
+LA,2267600,place:LA:2267600,St. Martinville city,St. Martinville,St. Martinville,22099,St. Martin Parish,Incorporated place,30.127773,-91.830845,1
+LA,2267635,place:LA:2267635,St. Maurice CDP,St. Maurice,St. Maurice,22127,Winn Parish,Census-designated place,31.761274,-92.938907,1
+LA,2267740,place:LA:2267740,St. Rose CDP,St. Rose,St. Rose,22089,St. Charles Parish,Census-designated place,29.963182,-90.307218,1
+LA,2272800,place:LA:2272800,Stanley village,Stanley,Stanley,22031,De Soto Parish,Incorporated place,31.956654,-93.904775,1
+LA,2272975,place:LA:2272975,Starks CDP,Starks,Starks,22019,Calcasieu Parish,Census-designated place,30.310462,-93.666698,1
+LA,2273010,place:LA:2273010,Start CDP,Start,Start,22083,Richland Parish,Census-designated place,32.491661,-91.867816,1
+LA,2273255,place:LA:2273255,Sterlington town,Sterlington,Sterlington,22073,Ouachita Parish,Incorporated place,32.688888,-92.060339,1
+LA,2273395,place:LA:2273395,Stonewall town,Stonewall,Stonewall,22031,De Soto Parish,Incorporated place,32.271272,-93.807388,1
+LA,2273570,place:LA:2273570,Sugartown CDP,Sugartown,Sugartown,22011,Beauregard Parish,Census-designated place,30.842302,-93.009972,1
+LA,2273640,place:LA:2273640,Sulphur city,Sulphur,Sulphur,22019,Calcasieu Parish,Incorporated place,30.229792,-93.356343,1
+LA,2273955,place:LA:2273955,Sun village,Sun,Sun,22103,St. Tammany Parish,Incorporated place,30.652478,-89.910499,1
+LA,2274060,place:LA:2274060,Sunset town,Sunset,Sunset,22097,St. Landry Parish,Incorporated place,30.404573,-92.064328,1
+LA,2274235,place:LA:2274235,Supreme CDP,Supreme,Supreme,22007,Assumption Parish,Census-designated place,29.861876,-90.992667,1
+LA,2274340,place:LA:2274340,Swartz CDP,Swartz,Swartz,22073,Ouachita Parish,Census-designated place,32.580871,-91.986889,1
+LA,2274550,place:LA:2274550,Taft CDP,Taft,Taft,22089,St. Charles Parish,Census-designated place,29.985075,-90.452389,1
+LA,2274690,place:LA:2274690,Tallulah city,Tallulah,Tallulah,22065,Madison Parish,Incorporated place,32.406696,-91.1917,1
+LA,2274760,place:LA:2274760,Tangipahoa village,Tangipahoa,Tangipahoa,22105,Tangipahoa Parish,Incorporated place,30.875781,-90.51384,1
+LA,2275180,place:LA:2275180,Terrytown CDP,Terrytown,Terrytown,22051,Jefferson Parish,Census-designated place,29.902462,-90.028139,1
+LA,2275425,place:LA:2275425,Thibodaux city,Thibodaux,Thibodaux,22057,Lafourche Parish,Incorporated place,29.794874,-90.814578,1
+LA,2275670,place:LA:2275670,Tickfaw village,Tickfaw,Tickfaw,22105,Tangipahoa Parish,Incorporated place,30.576901,-90.487114,1
+LA,2275740,place:LA:2275740,Timberlane CDP,Timberlane,Timberlane,22051,Jefferson Parish,Census-designated place,29.8774,-90.029081,1
+LA,2276440,place:LA:2276440,Triumph CDP,Triumph,Triumph,22075,Plaquemines Parish,Census-designated place,29.349164,-89.462419,1
+LA,2276475,place:LA:2276475,Trout CDP,Trout,Trout,22059,LaSalle Parish,Census-designated place,31.696724,-92.179709,1
+LA,2276615,place:LA:2276615,Tullos town,Tullos,Tullos,22059,LaSalle Parish,Incorporated place,31.81735,-92.326714,1
+LA,2276685,place:LA:2276685,Turkey Creek village,Turkey Creek,Turkey Creek,22039,Evangeline Parish,Incorporated place,30.873238,-92.416982,1
+LA,2277035,place:LA:2277035,Union CDP,Union,Union,22093,St. James Parish,Census-designated place,30.086131,-90.888951,1
+LA,2277490,place:LA:2277490,Urania town,Urania,Urania,22059,LaSalle Parish,Incorporated place,31.863373,-92.291275,1
+LA,2277910,place:LA:2277910,Varnado village,Varnado,Varnado,22117,Washington Parish,Incorporated place,30.895301,-89.831865,1
+LA,2278015,place:LA:2278015,Venice CDP,Venice,Venice,22075,Plaquemines Parish,Census-designated place,29.293146,-89.368937,1
+LA,2278050,place:LA:2278050,Ventress CDP,Ventress,Ventress,22077,Pointe Coupee Parish,Census-designated place,30.678922,-91.430525,1
+LA,2278470,place:LA:2278470,Vidalia town,Vidalia,Vidalia,22029,Concordia Parish,Incorporated place,31.566751,-91.440444,1
+LA,2278540,place:LA:2278540,Vienna town,Vienna,Vienna,22061,Lincoln Parish,Incorporated place,32.609177,-92.64806,1
+LA,2278545,place:LA:2278545,Vienna Bend CDP,Vienna Bend,Vienna Bend,22069,Natchitoches Parish,Census-designated place,31.739651,-93.034627,1
+LA,2278715,place:LA:2278715,Ville Platte city,Ville Platte,Ville Platte,22039,Evangeline Parish,Incorporated place,30.689858,-92.274165,1
+LA,2278820,place:LA:2278820,Vinton town,Vinton,Vinton,22019,Calcasieu Parish,Incorporated place,30.195435,-93.582246,1
+LA,2278855,place:LA:2278855,Violet CDP,Violet,Violet,22087,St. Bernard Parish,Census-designated place,29.896744,-89.892881,1
+LA,2278890,place:LA:2278890,Vivian town,Vivian,Vivian,22017,Caddo Parish,Incorporated place,32.871072,-93.986249,1
+LA,2279100,place:LA:2279100,Waggaman CDP,Waggaman,Waggaman,22051,Jefferson Parish,Census-designated place,29.937754,-90.231218,1
+LA,2279240,place:LA:2279240,Walker city,Walker,Walker,22063,Livingston Parish,Incorporated place,30.483182,-90.867084,1
+LA,2279275,place:LA:2279275,Wallace CDP,Wallace,Wallace,22095,St. John the Baptist Parish,Census-designated place,30.026918,-90.657413,1
+LA,2279310,place:LA:2279310,Wallace Ridge CDP,Wallace Ridge,Wallace Ridge,22025,Catahoula Parish,Census-designated place,31.683547,-91.829283,1
+LA,2279870,place:LA:2279870,Washington town,Washington,Washington,22097,St. Landry Parish,Incorporated place,30.615559,-92.059866,1
+LA,2279940,place:LA:2279940,Waterproof town,Waterproof,Waterproof,22107,Tensas Parish,Incorporated place,31.807159,-91.386146,1
+LA,2280010,place:LA:2280010,Watson CDP,Watson,Watson,22063,Livingston Parish,Census-designated place,30.5749,-90.950797,1
+LA,2280360,place:LA:2280360,Welcome CDP,Welcome,Welcome,22093,St. James Parish,Census-designated place,30.044277,-90.883526,1
+LA,2280430,place:LA:2280430,Welsh town,Welsh,Welsh,22053,Jefferson Davis Parish,Incorporated place,30.235589,-92.812387,1
+LA,2280955,place:LA:2280955,West Monroe city,West Monroe,West Monroe,22073,Ouachita Parish,Incorporated place,32.511528,-92.151411,1
+LA,2280815,place:LA:2280815,Westlake city,Westlake,Westlake,22019,Calcasieu Parish,Incorporated place,30.260994,-93.263496,1
+LA,2281165,place:LA:2281165,Westwego city,Westwego,Westwego,22051,Jefferson Parish,Incorporated place,29.905363,-90.143545,1
+LA,2281375,place:LA:2281375,White Castle town,White Castle,White Castle,22047,Iberville Parish,Incorporated place,30.161694,-91.148535,1
+LA,2282215,place:LA:2282215,Wilson village,Wilson,Wilson,22037,East Feliciana Parish,Incorporated place,30.925561,-91.105287,1
+LA,2282460,place:LA:2282460,Winnfield city,Winnfield,Winnfield,22127,Winn Parish,Incorporated place,31.923969,-92.642475,1
+LA,2282495,place:LA:2282495,Winnsboro city,Winnsboro,Winnsboro,22041,Franklin Parish,Incorporated place,32.16469,-91.720647,1
+LA,2282565,place:LA:2282565,Wisner town,Wisner,Wisner,22041,Franklin Parish,Incorporated place,31.980428,-91.65509,1
+LA,2283002,place:LA:2283002,Woodmere CDP,Woodmere,Woodmere,22051,Jefferson Parish,Census-designated place,29.838725,-90.077427,1
+LA,2283125,place:LA:2283125,Woodworth town,Woodworth,Woodworth,22079,Rapides Parish,Incorporated place,31.173893,-92.520418,1
+LA,2283335,place:LA:2283335,Youngsville city,Youngsville,Youngsville,22055,Lafayette Parish,Incorporated place,30.095731,-91.996498,1
+LA,2283405,place:LA:2283405,Zachary city,Zachary,Zachary,22033,East Baton Rouge Parish,Incorporated place,30.664377,-91.165778,1
+LA,2283685,place:LA:2283685,Zwolle town,Zwolle,Zwolle,22085,Sabine Parish,Incorporated place,31.639524,-93.641113,1

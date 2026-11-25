@@ -1,0 +1,249 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+MA,2500135,place:MA:2500135,Abington CDP,Abington,Abington,25023,Plymouth County,Census-designated place,42.116019,-70.956802,1
+MA,2500530,place:MA:2500530,Acushnet Center CDP,Acushnet Center,Acushnet Center,25005,Bristol County,Census-designated place,41.685172,-70.906393,1
+MA,2500590,place:MA:2500590,Adams CDP,Adams,Adams,25003,Berkshire County,Census-designated place,42.629085,-73.118747,1
+MA,2500840,place:MA:2500840,Agawam Town city,Agawam Town,Agawam Town,25013,Hampden County,Incorporated place,42.063581,-72.653586,1
+MA,2501185,place:MA:2501185,Amesbury city,Amesbury,Amesbury,25009,Essex County,Incorporated place,42.851276,-70.95579,0
+MA,2501370,place:MA:2501370,Amherst Town city,Amherst Town,Amherst Town,25015,Hampshire County,Incorporated place,42.363534,-72.507291,1
+MA,2501430,place:MA:2501430,Andover CDP,Andover,Andover,25009,Essex County,Census-designated place,42.655672,-71.142244,1
+MA,2501640,place:MA:2501640,Arlington CDP,Arlington,Arlington,25017,Middlesex County,Census-designated place,42.418722,-71.163912,1
+MA,2502515,place:MA:2502515,Athol CDP,Athol,Athol,25027,Worcester County,Census-designated place,42.593384,-72.230228,1
+MA,2502690,place:MA:2502690,Attleboro city,Attleboro,Attleboro,25005,Bristol County,Incorporated place,41.931653,-71.294503,1
+MA,2503040,place:MA:2503040,Ayer CDP,Ayer,Ayer,25017,Middlesex County,Census-designated place,42.562221,-71.584844,1
+MA,2503355,place:MA:2503355,Baldwinville CDP,Baldwinville,Baldwinville,25027,Worcester County,Census-designated place,42.605083,-72.078436,1
+MA,2503690,place:MA:2503690,Barnstable Town city,Barnstable Town,Barnstable Town,25001,Barnstable County,Incorporated place,41.661096,-70.356455,1
+MA,2503705,place:MA:2503705,Barre CDP,Barre,Barre,25027,Worcester County,Census-designated place,42.423007,-72.10638,1
+MA,2504790,place:MA:2504790,Belchertown CDP,Belchertown,Belchertown,25015,Hampshire County,Census-designated place,42.271889,-72.402806,1
+MA,2504965,place:MA:2504965,Bellingham CDP,Bellingham,Bellingham,25021,Norfolk County,Census-designated place,42.094041,-71.478631,1
+MA,2505105,place:MA:2505105,Belmont CDP,Belmont,Belmont,25017,Middlesex County,Census-designated place,42.395394,-71.182168,1
+MA,2505595,place:MA:2505595,Beverly city,Beverly,Beverly,25009,Essex County,Incorporated place,42.556659,-70.84496,1
+MA,2506050,place:MA:2506050,Blandford CDP,Blandford,Blandford,25013,Hampden County,Census-designated place,42.175006,-72.923862,1
+MA,2506170,place:MA:2506170,Bliss Corner CDP,Bliss Corner,Bliss Corner,25005,Bristol County,Census-designated place,41.605131,-70.942369,1
+MA,2507000,place:MA:2507000,Boston city,Boston,Boston,,,Incorporated place,42.332735,-71.013513,1
+MA,2507140,place:MA:2507140,Bourne CDP,Bourne,Bourne,25001,Barnstable County,Census-designated place,41.732015,-70.615767,1
+MA,2507385,place:MA:2507385,Boxford CDP,Boxford,Boxford,25009,Essex County,Census-designated place,42.663712,-70.984216,1
+MA,2507740,place:MA:2507740,Braintree Town city,Braintree Town,Braintree Town,25021,Norfolk County,Incorporated place,42.206188,-71.00232,1
+MA,2507945,place:MA:2507945,Brewster CDP,Brewster,Brewster,25001,Barnstable County,Census-designated place,41.760926,-70.07037,1
+MA,2508130,place:MA:2508130,Bridgewater Town city,Bridgewater Town,Bridgewater Town,25023,Plymouth County,Incorporated place,41.972376,-70.978773,1
+MA,2509000,place:MA:2509000,Brockton city,Brockton,Brockton,25023,Plymouth County,Incorporated place,42.082925,-71.025349,1
+MA,2509070,place:MA:2509070,Brookfield CDP,Brookfield,Brookfield,25027,Worcester County,Census-designated place,42.215,-72.102736,1
+MA,2509210,place:MA:2509210,Brookline CDP,Brookline,Brookline,25021,Norfolk County,Census-designated place,42.323853,-71.142003,1
+MA,2509875,place:MA:2509875,Burlington CDP,Burlington,Burlington,25017,Middlesex County,Census-designated place,42.503227,-71.201713,1
+MA,2510015,place:MA:2510015,Buzzards Bay CDP,Buzzards Bay,Buzzards Bay,25001,Barnstable County,Census-designated place,41.75369,-70.616681,1
+MA,2511000,place:MA:2511000,Cambridge city,Cambridge,Cambridge,25017,Middlesex County,Incorporated place,42.376043,-71.11868,1
+MA,2511945,place:MA:2511945,Cedar Crest CDP,Cedar Crest,Cedar Crest,25023,Plymouth County,Census-designated place,42.076453,-70.661414,1
+MA,2512960,place:MA:2512960,Chatham CDP,Chatham,Chatham,25001,Barnstable County,Census-designated place,41.67392,-69.962908,1
+MA,2513205,place:MA:2513205,Chelsea city,Chelsea,Chelsea,25025,Suffolk County,Incorporated place,42.396824,-71.031348,1
+MA,2513310,place:MA:2513310,Cheshire CDP,Cheshire,Cheshire,25003,Berkshire County,Census-designated place,42.561139,-73.162344,1
+MA,2513450,place:MA:2513450,Chester CDP,Chester,Chester,25013,Hampden County,Census-designated place,42.280713,-72.980145,1
+MA,2513660,place:MA:2513660,Chicopee city,Chicopee,Chicopee,25013,Hampden County,Incorporated place,42.175678,-72.571777,1
+MA,2514430,place:MA:2514430,Clinton CDP,Clinton,Clinton,25027,Worcester County,Census-designated place,42.419325,-71.685931,1
+MA,2514570,place:MA:2514570,Cochituate CDP,Cochituate,Cochituate,25017,Middlesex County,Census-designated place,42.327726,-71.352313,1
+MA,2515340,place:MA:2515340,Cordaville CDP,Cordaville,Cordaville,25027,Worcester County,Census-designated place,42.273739,-71.522258,1
+MA,2516285,place:MA:2516285,Danvers CDP,Danvers,Danvers,25009,Essex County,Census-designated place,42.574174,-70.950516,1
+MA,2516530,place:MA:2516530,Dedham CDP,Dedham,Dedham,25021,Norfolk County,Census-designated place,42.246872,-71.179462,1
+MA,2516635,place:MA:2516635,Deerfield CDP,Deerfield,Deerfield,25011,Franklin County,Census-designated place,42.547902,-72.602404,1
+MA,2516740,place:MA:2516740,Dennis CDP,Dennis,Dennis,25001,Barnstable County,Census-designated place,41.730255,-70.197388,1
+MA,2516810,place:MA:2516810,Dennis Port CDP,Dennis Port,Dennis Port,25001,Barnstable County,Census-designated place,41.668068,-70.136982,1
+MA,2516840,place:MA:2516840,Devens CDP,Devens,Devens,25027,Worcester County,Census-designated place,42.543366,-71.614028,1
+MA,2517370,place:MA:2517370,Dover CDP,Dover,Dover,25021,Norfolk County,Census-designated place,42.246863,-71.26812,1
+MA,2517860,place:MA:2517860,Duxbury CDP,Duxbury,Duxbury,25023,Plymouth County,Census-designated place,42.04437,-70.679216,1
+MA,2518595,place:MA:2518595,East Brookfield CDP,East Brookfield,East Brookfield,25027,Worcester County,Census-designated place,42.229122,-72.053218,1
+MA,2518840,place:MA:2518840,East Dennis CDP,East Dennis,East Dennis,25001,Barnstable County,Census-designated place,41.73543,-70.157409,1
+MA,2518875,place:MA:2518875,East Douglas CDP,East Douglas,East Douglas,25027,Worcester County,Census-designated place,42.081104,-71.719485,1
+MA,2518980,place:MA:2518980,East Falmouth CDP,East Falmouth,East Falmouth,25001,Barnstable County,Census-designated place,41.568588,-70.557079,1
+MA,2519400,place:MA:2519400,East Harwich CDP,East Harwich,East Harwich,25001,Barnstable County,Census-designated place,41.708598,-70.031776,1
+MA,2520310,place:MA:2520310,East Pepperell CDP,East Pepperell,East Pepperell,25017,Middlesex County,Census-designated place,42.662527,-71.562088,1
+MA,2520380,place:MA:2520380,East Sandwich CDP,East Sandwich,East Sandwich,25001,Barnstable County,Census-designated place,41.734257,-70.430678,1
+MA,2519365,place:MA:2519365,Easthampton city,Easthampton,Easthampton,25015,Hampshire County,Incorporated place,42.265435,-72.670813,0
+MA,2521115,place:MA:2521115,Edgartown CDP,Edgartown,Edgartown,25007,Dukes County,Census-designated place,41.389913,-70.519672,1
+MA,2521815,place:MA:2521815,Essex CDP,Essex,Essex,25009,Essex County,Census-designated place,42.640453,-70.771163,1
+MA,2521990,place:MA:2521990,Everett city,Everett,Everett,25017,Middlesex County,Incorporated place,42.405938,-71.054649,1
+MA,2523000,place:MA:2523000,Fall River city,Fall River,Fall River,25005,Bristol County,Incorporated place,41.718593,-71.092943,1
+MA,2523070,place:MA:2523070,Falmouth CDP,Falmouth,Falmouth,25001,Barnstable County,Census-designated place,41.551215,-70.608709,1
+MA,2523840,place:MA:2523840,Fiskdale CDP,Fiskdale,Fiskdale,25027,Worcester County,Census-designated place,42.124703,-72.110911,1
+MA,2523875,place:MA:2523875,Fitchburg city,Fitchburg,Fitchburg,25027,Worcester County,Incorporated place,42.601898,-71.815705,1
+MA,2524190,place:MA:2524190,Forestdale CDP,Forestdale,Forestdale,25001,Barnstable County,Census-designated place,41.683488,-70.510786,1
+MA,2524855,place:MA:2524855,Foxborough CDP,Foxborough,Foxborough,25021,Norfolk County,Census-designated place,42.064024,-71.248401,1
+MA,2524960,place:MA:2524960,Framingham city,Framingham,Framingham,25017,Middlesex County,Incorporated place,42.307905,-71.436196,1
+MA,2525172,place:MA:2525172,Franklin Town city,Franklin Town,Franklin Town,25021,Norfolk County,Incorporated place,42.08458,-71.410503,1
+MA,2525485,place:MA:2525485,Gardner city,Gardner,Gardner,25027,Worcester County,Incorporated place,42.584206,-71.988737,1
+MA,2526150,place:MA:2526150,Gloucester city,Gloucester,Gloucester,25009,Essex County,Incorporated place,42.627984,-70.685026,1
+MA,2526500,place:MA:2526500,Granby CDP,Granby,Granby,25015,Hampshire County,Census-designated place,42.265953,-72.528852,1
+MA,2526780,place:MA:2526780,Great Barrington CDP,Great Barrington,Great Barrington,25003,Berkshire County,Census-designated place,42.19397,-73.361473,1
+MA,2527130,place:MA:2527130,Green Harbor CDP,Green Harbor,Green Harbor,25023,Plymouth County,Census-designated place,42.065992,-70.648727,1
+MA,2527060,place:MA:2527060,Greenfield city,Greenfield,Greenfield,25011,Franklin County,Incorporated place,42.614671,-72.597063,1
+MA,2527445,place:MA:2527445,Groton CDP,Groton,Groton,25017,Middlesex County,Census-designated place,42.611634,-71.564745,1
+MA,2528425,place:MA:2528425,Hanscom AFB CDP,Hanscom AFB,Hanscom AFB,25017,Middlesex County,Census-designated place,42.458233,-71.279322,1
+MA,2528460,place:MA:2528460,Hanson CDP,Hanson,Hanson,25023,Plymouth County,Census-designated place,42.065029,-70.849766,1
+MA,2529055,place:MA:2529055,Harwich Center CDP,Harwich Center,Harwich Center,25001,Barnstable County,Census-designated place,41.692045,-70.066434,1
+MA,2529090,place:MA:2529090,Harwich Port CDP,Harwich Port,Harwich Port,25001,Barnstable County,Census-designated place,41.67344,-70.065417,1
+MA,2529230,place:MA:2529230,Hatfield CDP,Hatfield,Hatfield,25015,Hampshire County,Census-designated place,42.372883,-72.603741,1
+MA,2529405,place:MA:2529405,Haverhill city,Haverhill,Haverhill,25009,Essex County,Incorporated place,42.782945,-71.087436,1
+MA,2530175,place:MA:2530175,Hingham CDP,Hingham,Hingham,25023,Plymouth County,Census-designated place,42.233136,-70.889526,1
+MA,2530420,place:MA:2530420,Holbrook CDP,Holbrook,Holbrook,25021,Norfolk County,Census-designated place,42.140346,-70.997862,1
+MA,2530630,place:MA:2530630,Holland CDP,Holland,Holland,25013,Hampden County,Census-designated place,42.052982,-72.151253,1
+MA,2530840,place:MA:2530840,Holyoke city,Holyoke,Holyoke,25013,Hampden County,Incorporated place,42.211658,-72.642448,1
+MA,2530980,place:MA:2530980,Hopedale CDP,Hopedale,Hopedale,25027,Worcester County,Census-designated place,42.126886,-71.540295,1
+MA,2531050,place:MA:2531050,Hopkinton CDP,Hopkinton,Hopkinton,25017,Middlesex County,Census-designated place,42.225563,-71.524096,1
+MA,2531295,place:MA:2531295,Housatonic CDP,Housatonic,Housatonic,25003,Berkshire County,Census-designated place,42.24627,-73.361935,1
+MA,2531575,place:MA:2531575,Hudson CDP,Hudson,Hudson,25017,Middlesex County,Census-designated place,42.392092,-71.564949,1
+MA,2531680,place:MA:2531680,Hull CDP,Hull,Hull,25023,Plymouth County,Census-designated place,42.342122,-70.877479,1
+MA,2531750,place:MA:2531750,Huntington CDP,Huntington,Huntington,25015,Hampshire County,Census-designated place,42.243835,-72.89182,1
+MA,2532275,place:MA:2532275,Ipswich CDP,Ipswich,Ipswich,25009,Essex County,Census-designated place,42.67573,-70.822007,1
+MA,2533185,place:MA:2533185,Kingston CDP,Kingston,Kingston,25023,Plymouth County,Census-designated place,41.996182,-70.721545,1
+MA,2534550,place:MA:2534550,Lawrence city,Lawrence,Lawrence,25009,Essex County,Incorporated place,42.700273,-71.161357,1
+MA,2534620,place:MA:2534620,Lee CDP,Lee,Lee,25003,Berkshire County,Census-designated place,42.306836,-73.250736,1
+MA,2534935,place:MA:2534935,Lenox CDP,Lenox,Lenox,25003,Berkshire County,Census-designated place,42.361228,-73.286788,1
+MA,2535040,place:MA:2535040,Lenox Dale CDP,Lenox Dale,Lenox Dale,25003,Berkshire County,Census-designated place,42.333734,-73.249199,1
+MA,2535075,place:MA:2535075,Leominster city,Leominster,Leominster,25027,Worcester County,Incorporated place,42.520876,-71.770611,1
+MA,2535250,place:MA:2535250,Lexington CDP,Lexington,Lexington,25017,Middlesex County,Census-designated place,42.445222,-71.230015,1
+MA,2536020,place:MA:2536020,Littleton Common CDP,Littleton Common,Littleton Common,25017,Middlesex County,Census-designated place,42.534482,-71.472129,1
+MA,2536335,place:MA:2536335,Longmeadow CDP,Longmeadow,Longmeadow,25013,Hampden County,Census-designated place,42.047763,-72.568476,1
+MA,2537000,place:MA:2537000,Lowell city,Lowell,Lowell,25017,Middlesex County,Incorporated place,42.638998,-71.320962,1
+MA,2537385,place:MA:2537385,Lunenburg CDP,Lunenburg,Lunenburg,25027,Worcester County,Census-designated place,42.593421,-71.726968,1
+MA,2537490,place:MA:2537490,Lynn city,Lynn,Lynn,25009,Essex County,Incorporated place,42.473988,-70.960943,1
+MA,2537595,place:MA:2537595,Lynnfield CDP,Lynnfield,Lynnfield,25009,Essex County,Census-designated place,42.534476,-71.038569,1
+MA,2537735,place:MA:2537735,Madaket CDP,Madaket,Madaket,25019,Nantucket County,Census-designated place,41.281592,-70.183233,1
+MA,2537875,place:MA:2537875,Malden city,Malden,Malden,25017,Middlesex County,Incorporated place,42.429395,-71.059033,1
+MA,2538230,place:MA:2538230,Mansfield Center CDP,Mansfield Center,Mansfield Center,25005,Bristol County,Census-designated place,42.02196,-71.217844,1
+MA,2538435,place:MA:2538435,Marblehead CDP,Marblehead,Marblehead,25009,Essex County,Census-designated place,42.489918,-70.859387,1
+MA,2538575,place:MA:2538575,Marion Center CDP,Marion Center,Marion Center,25023,Plymouth County,Census-designated place,41.695803,-70.757651,1
+MA,2538715,place:MA:2538715,Marlborough city,Marlborough,Marlborough,25017,Middlesex County,Incorporated place,42.349617,-71.547214,1
+MA,2538820,place:MA:2538820,Marshfield CDP,Marshfield,Marshfield,25023,Plymouth County,Census-designated place,42.099803,-70.689272,1
+MA,2538960,place:MA:2538960,Marshfield Hills CDP,Marshfield Hills,Marshfield Hills,25023,Plymouth County,Census-designated place,42.143313,-70.729075,1
+MA,2539152,place:MA:2539152,Mashpee Neck CDP,Mashpee Neck,Mashpee Neck,25001,Barnstable County,Census-designated place,41.612716,-70.467933,1
+MA,2539485,place:MA:2539485,Mattapoisett Center CDP,Mattapoisett Center,Mattapoisett Center,25023,Plymouth County,Census-designated place,41.673345,-70.797993,1
+MA,2539660,place:MA:2539660,Maynard CDP,Maynard,Maynard,25017,Middlesex County,Census-designated place,42.425955,-71.456256,1
+MA,2539730,place:MA:2539730,Medfield CDP,Medfield,Medfield,25021,Norfolk County,Census-designated place,42.187013,-71.300409,1
+MA,2539835,place:MA:2539835,Medford city,Medford,Medford,25017,Middlesex County,Incorporated place,42.424191,-71.109332,1
+MA,2540115,place:MA:2540115,Melrose city,Melrose,Melrose,25017,Middlesex County,Incorporated place,42.455723,-71.059019,1
+MA,2540675,place:MA:2540675,Methuen city,Methuen,Methuen,25009,Essex County,Incorporated place,42.742648,-71.178643,0
+MA,2540885,place:MA:2540885,Middleborough Center CDP,Middleborough Center,Middleborough Center,25023,Plymouth County,Census-designated place,41.894223,-70.925689,1
+MA,2541200,place:MA:2541200,Milford CDP,Milford,Milford,25027,Worcester County,Census-designated place,42.149763,-71.516392,1
+MA,2541410,place:MA:2541410,Millers Falls CDP,Millers Falls,Millers Falls,25011,Franklin County,Census-designated place,42.579182,-72.492235,1
+MA,2541532,place:MA:2541532,Millis-Clicquot CDP,Millis-Clicquot,Millis-Clicquot,25021,Norfolk County,Census-designated place,42.166821,-71.34923,1
+MA,2541725,place:MA:2541725,Milton CDP,Milton,Milton,25021,Norfolk County,Census-designated place,42.241517,-71.082325,1
+MA,2541960,place:MA:2541960,Monomoscoy Island CDP,Monomoscoy Island,Monomoscoy Island,25001,Barnstable County,Census-designated place,41.575946,-70.499206,1
+MA,2542180,place:MA:2542180,Monson Center CDP,Monson Center,Monson Center,25013,Hampden County,Census-designated place,42.097854,-72.296139,1
+MA,2542670,place:MA:2542670,Monument Beach CDP,Monument Beach,Monument Beach,25001,Barnstable County,Census-designated place,41.718846,-70.600106,1
+MA,2543615,place:MA:2543615,Nahant CDP,Nahant,Nahant,25009,Essex County,Census-designated place,42.417179,-70.909108,1
+MA,2543755,place:MA:2543755,Nantucket CDP,Nantucket,Nantucket,25019,Nantucket County,Census-designated place,41.271448,-70.095881,1
+MA,2544140,place:MA:2544140,Needham CDP,Needham,Needham,25021,Norfolk County,Census-designated place,42.281721,-71.242587,1
+MA,2545000,place:MA:2545000,New Bedford city,New Bedford,New Bedford,25005,Bristol County,Incorporated place,41.661303,-70.937913,1
+MA,2545500,place:MA:2545500,New Seabury CDP,New Seabury,New Seabury,25001,Barnstable County,Census-designated place,41.575424,-70.47888,1
+MA,2545245,place:MA:2545245,Newburyport city,Newburyport,Newburyport,25009,Essex County,Incorporated place,42.812289,-70.886608,1
+MA,2545560,place:MA:2545560,Newton city,Newton,Newton,25017,Middlesex County,Incorporated place,42.331768,-71.2084,1
+MA,2546225,place:MA:2546225,North Adams city,North Adams,North Adams,25003,Berkshire County,Incorporated place,42.675565,-73.118114,1
+MA,2546598,place:MA:2546598,North Attleborough Town city,North Attleborough Town,North Attleborough Town,25005,Bristol County,Incorporated place,41.970454,-71.33493,1
+MA,2547100,place:MA:2547100,North Brookfield CDP,North Brookfield,North Brookfield,25027,Worcester County,Census-designated place,42.271168,-72.084211,1
+MA,2547590,place:MA:2547590,North Eastham CDP,North Eastham,North Eastham,25001,Barnstable County,Census-designated place,41.847484,-70.005396,1
+MA,2547730,place:MA:2547730,North Falmouth CDP,North Falmouth,North Falmouth,25001,Barnstable County,Census-designated place,41.641993,-70.63072,1
+MA,2548220,place:MA:2548220,North Lakeville CDP,North Lakeville,North Lakeville,25023,Plymouth County,Census-designated place,41.867545,-70.936671,1
+MA,2548710,place:MA:2548710,North Pembroke CDP,North Pembroke,North Pembroke,25023,Plymouth County,Census-designated place,42.097734,-70.783279,1
+MA,2548780,place:MA:2548780,North Plymouth CDP,North Plymouth,North Plymouth,25023,Plymouth County,Census-designated place,41.9753,-70.68064,1
+MA,2549165,place:MA:2549165,North Scituate CDP,North Scituate,North Scituate,25023,Plymouth County,Census-designated place,42.212807,-70.766295,1
+MA,2549200,place:MA:2549200,North Seekonk CDP,North Seekonk,North Seekonk,25005,Bristol County,Census-designated place,41.884648,-71.330363,1
+MA,2549710,place:MA:2549710,North Westport CDP,North Westport,North Westport,25005,Bristol County,Census-designated place,41.671322,-71.110366,1
+MA,2546330,place:MA:2546330,Northampton city,Northampton,Northampton,25015,Hampshire County,Incorporated place,42.327044,-72.67463,1
+MA,2546785,place:MA:2546785,Northborough CDP,Northborough,Northborough,25027,Worcester County,Census-designated place,42.31195,-71.647734,1
+MA,2547800,place:MA:2547800,Northfield CDP,Northfield,Northfield,25011,Franklin County,Census-designated place,42.713247,-72.422674,1
+MA,2549700,place:MA:2549700,Northwest Harwich CDP,Northwest Harwich,Northwest Harwich,25001,Barnstable County,Census-designated place,41.693625,-70.105289,1
+MA,2550005,place:MA:2550005,Norton Center CDP,Norton Center,Norton Center,25005,Bristol County,Census-designated place,41.974456,-71.188548,1
+MA,2550285,place:MA:2550285,Norwood CDP,Norwood,Norwood,25021,Norfolk County,Census-designated place,42.187364,-71.195971,1
+MA,2550425,place:MA:2550425,Oak Bluffs CDP,Oak Bluffs,Oak Bluffs,25007,Dukes County,Census-designated place,41.453812,-70.56486,1
+MA,2550862,place:MA:2550862,Ocean Bluff-Brant Rock CDP,Ocean Bluff-Brant Rock,Ocean Bluff-Brant Rock,25023,Plymouth County,Census-designated place,42.096713,-70.650377,1
+MA,2550880,place:MA:2550880,Ocean Grove CDP,Ocean Grove,Ocean Grove,25005,Bristol County,Census-designated place,41.728811,-71.209192,1
+MA,2551160,place:MA:2551160,Onset CDP,Onset,Onset,25023,Plymouth County,Census-designated place,41.744961,-70.667035,1
+MA,2551230,place:MA:2551230,Orange CDP,Orange,Orange,25011,Franklin County,Census-designated place,42.60525,-72.292176,1
+MA,2551405,place:MA:2551405,Orleans CDP,Orleans,Orleans,25001,Barnstable County,Census-designated place,41.787762,-70.00151,1
+MA,2551790,place:MA:2551790,Oxford CDP,Oxford,Oxford,25027,Worcester County,Census-designated place,42.115881,-71.870094,1
+MA,2552144,place:MA:2552144,Palmer Town city,Palmer Town,Palmer Town,25013,Hampden County,Incorporated place,42.188862,-72.30648,1
+MA,2552490,place:MA:2552490,Peabody city,Peabody,Peabody,25009,Essex County,Incorporated place,42.534499,-70.96896,1
+MA,2552770,place:MA:2552770,Pepperell CDP,Pepperell,Pepperell,25017,Middlesex County,Census-designated place,42.674822,-71.59224,1
+MA,2553085,place:MA:2553085,Petersham CDP,Petersham,Petersham,25027,Worcester County,Census-designated place,42.491042,-72.187249,1
+MA,2553680,place:MA:2553680,Pinehurst CDP,Pinehurst,Pinehurst,25017,Middlesex County,Census-designated place,42.533516,-71.233491,1
+MA,2553960,place:MA:2553960,Pittsfield city,Pittsfield,Pittsfield,25003,Berkshire County,Incorporated place,42.45184,-73.260685,1
+MA,2554275,place:MA:2554275,Plymouth CDP,Plymouth,Plymouth,25023,Plymouth County,Census-designated place,41.958343,-70.6638,1
+MA,2554450,place:MA:2554450,Pocasset CDP,Pocasset,Pocasset,25001,Barnstable County,Census-designated place,41.683558,-70.654591,1
+MA,2555070,place:MA:2555070,Popponesset CDP,Popponesset,Popponesset,25001,Barnstable County,Census-designated place,41.573602,-70.463407,1
+MA,2555090,place:MA:2555090,Popponesset Island CDP,Popponesset Island,Popponesset Island,25001,Barnstable County,Census-designated place,41.583643,-70.459568,1
+MA,2555535,place:MA:2555535,Provincetown CDP,Provincetown,Provincetown,25001,Barnstable County,Census-designated place,42.05968,-70.170498,1
+MA,2555745,place:MA:2555745,Quincy city,Quincy,Quincy,25021,Norfolk County,Incorporated place,42.261006,-71.008988,1
+MA,2556000,place:MA:2556000,Randolph Town city,Randolph Town,Randolph Town,25021,Norfolk County,Incorporated place,42.178993,-71.052654,1
+MA,2556095,place:MA:2556095,Raynham Center CDP,Raynham Center,Raynham Center,25005,Bristol County,Census-designated place,41.93048,-71.046214,1
+MA,2556165,place:MA:2556165,Reading CDP,Reading,Reading,25017,Middlesex County,Census-designated place,42.535183,-71.105423,1
+MA,2556585,place:MA:2556585,Revere city,Revere,Revere,25025,Suffolk County,Incorporated place,42.420585,-70.990884,1
+MA,2557845,place:MA:2557845,Rockport CDP,Rockport,Rockport,25009,Essex County,Census-designated place,42.641649,-70.619384,1
+MA,2558370,place:MA:2558370,Rowley CDP,Rowley,Rowley,25009,Essex County,Census-designated place,42.717971,-70.866915,1
+MA,2558615,place:MA:2558615,Russell CDP,Russell,Russell,25013,Hampden County,Census-designated place,42.203935,-72.861862,1
+MA,2558790,place:MA:2558790,Rutland CDP,Rutland,Rutland,25027,Worcester County,Census-designated place,42.371533,-71.957737,1
+MA,2558965,place:MA:2558965,Sagamore CDP,Sagamore,Sagamore,25001,Barnstable County,Census-designated place,41.78282,-70.532103,1
+MA,2559105,place:MA:2559105,Salem city,Salem,Salem,25009,Essex County,Incorporated place,42.499248,-70.898204,1
+MA,2559210,place:MA:2559210,Salisbury CDP,Salisbury,Salisbury,25009,Essex County,Census-designated place,42.831125,-70.847078,1
+MA,2559700,place:MA:2559700,Sandwich CDP,Sandwich,Sandwich,25001,Barnstable County,Census-designated place,41.757066,-70.498025,1
+MA,2560050,place:MA:2560050,Saugus CDP,Saugus,Saugus,25009,Essex County,Census-designated place,42.468432,-71.013946,1
+MA,2560295,place:MA:2560295,Scituate CDP,Scituate,Scituate,25023,Plymouth County,Census-designated place,42.180292,-70.734385,1
+MA,2560505,place:MA:2560505,Seabrook CDP,Seabrook,Seabrook,25001,Barnstable County,Census-designated place,41.585383,-70.497952,1
+MA,2560627,place:MA:2560627,Seconsett Island CDP,Seconsett Island,Seconsett Island,25001,Barnstable County,Census-designated place,41.566793,-70.512224,1
+MA,2560820,place:MA:2560820,Sharon CDP,Sharon,Sharon,25021,Norfolk County,Census-designated place,42.118942,-71.185835,1
+MA,2561205,place:MA:2561205,Shelburne Falls CDP,Shelburne Falls,Shelburne Falls,25011,Franklin County,Census-designated place,42.609512,-72.746979,1
+MA,2561555,place:MA:2561555,Shirley CDP,Shirley,Shirley,25017,Middlesex County,Census-designated place,42.536467,-71.667352,1
+MA,2561940,place:MA:2561940,Siasconset CDP,Siasconset,Siasconset,25019,Nantucket County,Census-designated place,41.265582,-69.973188,1
+MA,2562300,place:MA:2562300,Smith Mills CDP,Smith Mills,Smith Mills,25005,Bristol County,Census-designated place,41.646744,-70.998368,1
+MA,2562465,place:MA:2562465,Somerset CDP,Somerset,Somerset,25005,Bristol County,Census-designated place,41.738483,-71.165053,1
+MA,2562535,place:MA:2562535,Somerville city,Somerville,Somerville,25017,Middlesex County,Incorporated place,42.390445,-71.101033,1
+MA,2562780,place:MA:2562780,South Ashburnham CDP,South Ashburnham,South Ashburnham,25027,Worcester County,Census-designated place,42.621064,-71.943433,1
+MA,2563620,place:MA:2563620,South Deerfield CDP,South Deerfield,South Deerfield,25011,Franklin County,Census-designated place,42.481396,-72.589793,1
+MA,2563655,place:MA:2563655,South Dennis CDP,South Dennis,South Dennis,25001,Barnstable County,Census-designated place,41.704066,-70.150651,1
+MA,2563690,place:MA:2563690,South Duxbury CDP,South Duxbury,South Duxbury,25023,Plymouth County,Census-designated place,42.017559,-70.688929,1
+MA,2564460,place:MA:2564460,South Lancaster CDP,South Lancaster,South Lancaster,25027,Worcester County,Census-designated place,42.436318,-71.698626,1
+MA,2566035,place:MA:2566035,South Yarmouth CDP,South Yarmouth,South Yarmouth,25001,Barnstable County,Census-designated place,41.66844,-70.197056,1
+MA,2563345,place:MA:2563345,Southbridge Town city,Southbridge Town,Southbridge Town,25027,Worcester County,Incorporated place,42.059737,-72.033908,1
+MA,2566070,place:MA:2566070,Spencer CDP,Spencer,Spencer,25027,Worcester County,Census-designated place,42.248575,-71.99313,1
+MA,2567000,place:MA:2567000,Springfield city,Springfield,Springfield,25013,Hampden County,Incorporated place,42.115454,-72.539978,1
+MA,2567700,place:MA:2567700,Stoneham CDP,Stoneham,Stoneham,25017,Middlesex County,Census-designated place,42.474208,-71.097665,1
+MA,2568120,place:MA:2568120,Sturbridge CDP,Sturbridge,Sturbridge,25027,Worcester County,Census-designated place,42.097129,-72.054968,1
+MA,2568680,place:MA:2568680,Swampscott CDP,Swampscott,Swampscott,25009,Essex County,Census-designated place,42.468059,-70.89126,1
+MA,2569170,place:MA:2569170,Taunton city,Taunton,Taunton,25005,Bristol County,Incorporated place,41.903324,-71.094987,1
+MA,2569205,place:MA:2569205,Teaticket CDP,Teaticket,Teaticket,25001,Barnstable County,Census-designated place,41.557864,-70.585436,1
+MA,2569585,place:MA:2569585,The Pinehills CDP,The Pinehills,The Pinehills,25023,Plymouth County,Census-designated place,41.895743,-70.59475,1
+MA,2570115,place:MA:2570115,Topsfield CDP,Topsfield,Topsfield,25009,Essex County,Census-designated place,42.639401,-70.955279,1
+MA,2570325,place:MA:2570325,Townsend CDP,Townsend,Townsend,25017,Middlesex County,Census-designated place,42.676668,-71.709768,1
+MA,2570815,place:MA:2570815,Turners Falls CDP,Turners Falls,Turners Falls,25011,Franklin County,Census-designated place,42.596675,-72.556496,1
+MA,2571445,place:MA:2571445,Upton CDP,Upton,Upton,25027,Worcester County,Census-designated place,42.182147,-71.610847,1
+MA,2571970,place:MA:2571970,Vineyard Haven CDP,Vineyard Haven,Vineyard Haven,25007,Dukes County,Census-designated place,41.457176,-70.607459,1
+MA,2572250,place:MA:2572250,Wakefield CDP,Wakefield,Wakefield,25017,Middlesex County,Census-designated place,42.504361,-71.064061,1
+MA,2572460,place:MA:2572460,Walpole CDP,Walpole,Walpole,25021,Norfolk County,Census-designated place,42.13386,-71.240298,1
+MA,2572600,place:MA:2572600,Waltham city,Waltham,Waltham,25017,Middlesex County,Incorporated place,42.388827,-71.241864,1
+MA,2572845,place:MA:2572845,Ware CDP,Ware,Ware,25015,Hampshire County,Census-designated place,42.253458,-72.245361,1
+MA,2573020,place:MA:2573020,Wareham Center CDP,Wareham Center,Wareham Center,25023,Plymouth County,Census-designated place,41.751127,-70.723773,1
+MA,2573055,place:MA:2573055,Warren CDP,Warren,Warren,25027,Worcester County,Census-designated place,42.218239,-72.185659,1
+MA,2573405,place:MA:2573405,Watertown city,Watertown,Watertown,25017,Middlesex County,Incorporated place,42.369451,-71.177925,0
+MA,2573930,place:MA:2573930,Webster CDP,Webster,Webster,25027,Worcester County,Census-designated place,42.046314,-71.874522,1
+MA,2574210,place:MA:2574210,Wellesley CDP,Wellesley,Wellesley,25021,Norfolk County,Census-designated place,42.305932,-71.282917,1
+MA,2575365,place:MA:2575365,West Brookfield CDP,West Brookfield,West Brookfield,25027,Worcester County,Census-designated place,42.240543,-72.147128,1
+MA,2575505,place:MA:2575505,West Chatham CDP,West Chatham,West Chatham,25001,Barnstable County,Census-designated place,41.680978,-69.992569,1
+MA,2575680,place:MA:2575680,West Concord CDP,West Concord,West Concord,25017,Middlesex County,Census-designated place,42.451857,-71.403179,1
+MA,2575820,place:MA:2575820,West Dennis CDP,West Dennis,West Dennis,25001,Barnstable County,Census-designated place,41.666705,-70.165862,1
+MA,2575960,place:MA:2575960,West Falmouth CDP,West Falmouth,West Falmouth,25001,Barnstable County,Census-designated place,41.601499,-70.639319,1
+MA,2577890,place:MA:2577890,West Springfield Town city,West Springfield Town,West Springfield Town,25013,Hampden County,Incorporated place,42.125451,-72.649734,1
+MA,2578410,place:MA:2578410,West Wareham CDP,West Wareham,West Wareham,25023,Plymouth County,Census-designated place,41.791736,-70.757872,1
+MA,2578445,place:MA:2578445,West Warren CDP,West Warren,West Warren,25027,Worcester County,Census-designated place,42.219308,-72.231229,1
+MA,2578795,place:MA:2578795,West Yarmouth CDP,West Yarmouth,West Yarmouth,25001,Barnstable County,Census-designated place,41.647817,-70.251541,1
+MA,2575050,place:MA:2575050,Westborough CDP,Westborough,Westborough,25027,Worcester County,Census-designated place,42.267441,-71.617492,1
+MA,2576030,place:MA:2576030,Westfield city,Westfield,Westfield,25013,Hampden County,Incorporated place,42.138838,-72.755911,1
+MA,2578850,place:MA:2578850,Weweantic CDP,Weweantic,Weweantic,25023,Plymouth County,Census-designated place,41.747597,-70.740024,1
+MA,2578972,place:MA:2578972,Weymouth Town city,Weymouth Town,Weymouth Town,25021,Norfolk County,Incorporated place,42.206676,-70.945845,1
+MA,2579390,place:MA:2579390,White Island Shores CDP,White Island Shores,White Island Shores,25023,Plymouth County,Census-designated place,41.797819,-70.637167,1
+MA,2579495,place:MA:2579495,Whitinsville CDP,Whitinsville,Whitinsville,25027,Worcester County,Census-designated place,42.1188,-71.672496,1
+MA,2579705,place:MA:2579705,Wilbraham CDP,Wilbraham,Wilbraham,25013,Hampden County,Census-designated place,42.132113,-72.43815,1
+MA,2579950,place:MA:2579950,Williamstown CDP,Williamstown,Williamstown,25003,Berkshire County,Census-designated place,42.708874,-73.201306,1
+MA,2580195,place:MA:2580195,Wilmington CDP,Wilmington,Wilmington,25017,Middlesex County,Census-designated place,42.564675,-71.164509,1
+MA,2580370,place:MA:2580370,Winchendon CDP,Winchendon,Winchendon,25027,Worcester County,Census-designated place,42.680186,-72.040932,1
+MA,2580545,place:MA:2580545,Winchester CDP,Winchester,Winchester,25017,Middlesex County,Census-designated place,42.452752,-71.144319,1
+MA,2581005,place:MA:2581005,Winthrop Town city,Winthrop Town,Winthrop Town,25025,Suffolk County,Incorporated place,42.388277,-70.968889,1
+MA,2581035,place:MA:2581035,Woburn city,Woburn,Woburn,25017,Middlesex County,Incorporated place,42.488703,-71.154383,1
+MA,2581245,place:MA:2581245,Woods Hole CDP,Woods Hole,Woods Hole,25001,Barnstable County,Census-designated place,41.528692,-70.666481,1
+MA,2582000,place:MA:2582000,Worcester city,Worcester,Worcester,25027,Worcester County,Incorporated place,42.269478,-71.807783,1
+MA,2582595,place:MA:2582595,Yarmouth Port CDP,Yarmouth Port,Yarmouth Port,25001,Barnstable County,Census-designated place,41.714676,-70.219422,1

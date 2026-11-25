@@ -1,0 +1,37 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+RI,4403520,place:RI:4403520,Ashaway CDP,Ashaway,Ashaway,44009,Washington County,Census-designated place,41.428019,-71.786214,1
+RI,4408020,place:RI:4408020,Bradford CDP,Bradford,Bradford,44009,Washington County,Census-designated place,41.388997,-71.764416,1
+RI,4412340,place:RI:4412340,Carolina CDP,Carolina,Carolina,44009,Washington County,Census-designated place,41.459421,-71.654223,1
+RI,4414140,place:RI:4414140,Central Falls city,Central Falls,Central Falls,44007,Providence County,Incorporated place,41.890064,-71.393481,1
+RI,4414320,place:RI:4414320,Charlestown CDP,Charlestown,Charlestown,44009,Washington County,Census-designated place,41.378069,-71.626563,1
+RI,4414860,place:RI:4414860,Chepachet CDP,Chepachet,Chepachet,44007,Providence County,Census-designated place,41.910845,-71.662087,1
+RI,4415940,place:RI:4415940,Clayville CDP,Clayville,Clayville,44007,Providence County,Census-designated place,41.769165,-71.692106,1
+RI,4419180,place:RI:4419180,Cranston city,Cranston,Cranston,44007,Providence County,Incorporated place,41.769734,-71.485049,1
+RI,4420260,place:RI:4420260,Cumberland Hill CDP,Cumberland Hill,Cumberland Hill,44007,Providence County,Census-designated place,41.97498,-71.459997,1
+RI,4422960,place:RI:4422960,East Providence city,East Providence,East Providence,44007,Providence County,Incorporated place,41.800433,-71.359258,1
+RI,4427640,place:RI:4427640,Foster Center CDP,Foster Center,Foster Center,44007,Providence County,Census-designated place,41.789961,-71.731589,1
+RI,4431240,place:RI:4431240,Greene CDP,Greene,Greene,44003,Kent County,Census-designated place,41.704727,-71.728067,1
+RI,4431600,place:RI:4431600,Greenville CDP,Greenville,Greenville,44007,Providence County,Census-designated place,41.879933,-71.552415,1
+RI,4433040,place:RI:4433040,Harmony CDP,Harmony,Harmony,44007,Providence County,Census-designated place,41.899366,-71.609131,1
+RI,4433400,place:RI:4433400,Harrisville CDP,Harrisville,Harrisville,44007,Providence County,Census-designated place,41.967496,-71.677124,1
+RI,4434660,place:RI:4434660,Hope Valley CDP,Hope Valley,Hope Valley,44009,Washington County,Census-designated place,41.512626,-71.719643,1
+RI,4435200,place:RI:4435200,Hopkinton CDP,Hopkinton,Hopkinton,44009,Washington County,Census-designated place,41.466945,-71.781088,1
+RI,4438980,place:RI:4438980,Kingston CDP,Kingston,Kingston,44009,Washington County,Census-designated place,41.473179,-71.524124,1
+RI,4445010,place:RI:4445010,Melville CDP,Melville,Melville,44005,Newport County,Census-designated place,41.559549,-71.301933,1
+RI,4446000,place:RI:4446000,Misquamicut CDP,Misquamicut,Misquamicut,44009,Washington County,Census-designated place,41.320087,-71.827067,1
+RI,4448700,place:RI:4448700,Narragansett Pier CDP,Narragansett Pier,Narragansett Pier,44009,Washington County,Census-designated place,41.426931,-71.464172,1
+RI,4449960,place:RI:4449960,Newport city,Newport,Newport,44005,Newport County,Incorporated place,41.484795,-71.327586,1
+RI,4450140,place:RI:4450140,Newport East CDP,Newport East,Newport East,44005,Newport County,Census-designated place,41.515308,-71.287592,1
+RI,4454460,place:RI:4454460,Pascoag CDP,Pascoag,Pascoag,44007,Providence County,Census-designated place,41.953752,-71.704381,1
+RI,4454640,place:RI:4454640,Pawtucket city,Pawtucket,Pawtucket,44007,Providence County,Incorporated place,41.874824,-71.373323,1
+RI,4459000,place:RI:4459000,Providence city,Providence,Providence,44007,Providence County,Incorporated place,41.823056,-71.418784,1
+RI,4460260,place:RI:4460260,Quonochontaug CDP,Quonochontaug,Quonochontaug,44009,Washington County,Census-designated place,41.345122,-71.704522,1
+RI,4470700,place:RI:4470700,Tiverton CDP,Tiverton,Tiverton,44005,Newport County,Census-designated place,41.654399,-71.201904,1
+RI,4472500,place:RI:4472500,Valley Falls CDP,Valley Falls,Valley Falls,44007,Providence County,Census-designated place,41.923491,-71.390812,1
+RI,4473132,place:RI:4473132,Wakefield-Peace Dale CDP,Wakefield-Peace Dale,Wakefield-Peace Dale,44009,Washington County,Census-designated place,41.446096,-71.500318,1
+RI,4474300,place:RI:4474300,Warwick city,Warwick,Warwick,44003,Kent County,Incorporated place,41.703092,-71.420155,1
+RI,4475200,place:RI:4475200,Watch Hill CDP,Watch Hill,Watch Hill,44009,Washington County,Census-designated place,41.315258,-71.847062,1
+RI,4475920,place:RI:4475920,Weekapaug CDP,Weekapaug,Weekapaug,44009,Washington County,Census-designated place,41.337424,-71.761921,1
+RI,4476820,place:RI:4476820,Westerly CDP,Westerly,Westerly,44009,Washington County,Census-designated place,41.373301,-71.806783,1
+RI,4480780,place:RI:4480780,Woonsocket city,Woonsocket,Woonsocket,44007,Providence County,Incorporated place,42.001708,-71.499947,1
+RI,4480960,place:RI:4480960,Wyoming CDP,Wyoming,Wyoming,44009,Washington County,Census-designated place,41.513472,-71.689088,1

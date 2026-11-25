@@ -1,0 +1,702 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+NJ,3400100,place:NJ:3400100,Absecon city,Absecon,Absecon,34001,Atlantic County,Incorporated place,39.423563,-74.493025,1
+NJ,3400160,place:NJ:3400160,Absecon Highlands CDP,Absecon Highlands,Absecon Highlands,34001,Atlantic County,Census-designated place,39.442693,-74.47023,1
+NJ,3400640,place:NJ:3400640,Allamuchy CDP,Allamuchy,Allamuchy,34041,Warren County,Census-designated place,40.931082,-74.811724,1
+NJ,3400700,place:NJ:3400700,Allendale borough,Allendale,Allendale,34003,Bergen County,Incorporated place,41.032669,-74.133826,1
+NJ,3400730,place:NJ:3400730,Allenhurst borough,Allenhurst,Allenhurst,34025,Monmouth County,Incorporated place,40.235945,-74.002417,1
+NJ,3400760,place:NJ:3400760,Allentown borough,Allentown,Allentown,34025,Monmouth County,Incorporated place,40.178578,-74.590056,1
+NJ,3400790,place:NJ:3400790,Allenwood CDP,Allenwood,Allenwood,34025,Monmouth County,Census-designated place,40.135366,-74.09805,1
+NJ,3400850,place:NJ:3400850,Alloway CDP,Alloway,Alloway,34033,Salem County,Census-designated place,39.561596,-75.345303,1
+NJ,3401030,place:NJ:3401030,Alpha borough,Alpha,Alpha,34041,Warren County,Incorporated place,40.659447,-75.157052,1
+NJ,3401090,place:NJ:3401090,Alpine borough,Alpine,Alpine,34003,Bergen County,Incorporated place,40.968782,-73.916896,1
+NJ,3401184,place:NJ:3401184,Ampere North CDP,Ampere North,Ampere North,34013,Essex County,Census-designated place,40.77574,-74.191831,1
+NJ,3401300,place:NJ:3401300,Anderson CDP,Anderson,Anderson,34041,Warren County,Census-designated place,40.76126,-74.925569,1
+NJ,3401330,place:NJ:3401330,Andover borough,Andover,Andover,34037,Sussex County,Incorporated place,40.985743,-74.743701,1
+NJ,3401480,place:NJ:3401480,Annandale CDP,Annandale,Annandale,34019,Hunterdon County,Census-designated place,40.646818,-74.888144,1
+NJ,3401825,place:NJ:3401825,Arrowhead Lake CDP,Arrowhead Lake,Arrowhead Lake,34011,Cumberland County,Census-designated place,39.47512,-75.317828,1
+NJ,3401900,place:NJ:3401900,Asbury CDP,Asbury,Asbury,34041,Warren County,Census-designated place,40.698936,-75.007826,1
+NJ,3401960,place:NJ:3401960,Asbury Park city,Asbury Park,Asbury Park,34025,Monmouth County,Incorporated place,40.222884,-74.010232,1
+NJ,3401990,place:NJ:3401990,Ashland CDP,Ashland,Ashland,34007,Camden County,Census-designated place,39.875131,-75.009941,1
+NJ,3402020,place:NJ:3402020,Atco CDP,Atco,Atco,34007,Camden County,Census-designated place,39.769996,-74.861738,1
+NJ,3402080,place:NJ:3402080,Atlantic City city,Atlantic City,Atlantic City,34001,Atlantic County,Incorporated place,39.377337,-74.45107,1
+NJ,3402110,place:NJ:3402110,Atlantic Highlands borough,Atlantic Highlands,Atlantic Highlands,34025,Monmouth County,Incorporated place,40.413586,-74.023774,1
+NJ,3402170,place:NJ:3402170,Auburn CDP,Auburn,Auburn,34033,Salem County,Census-designated place,39.688041,-75.356261,1
+NJ,3402200,place:NJ:3402200,Audubon borough,Audubon,Audubon,34007,Camden County,Incorporated place,39.890128,-75.072382,1
+NJ,3402230,place:NJ:3402230,Audubon Park borough,Audubon Park,Audubon Park,34007,Camden County,Incorporated place,39.896837,-75.088819,1
+NJ,3402320,place:NJ:3402320,Avalon borough,Avalon,Avalon,34009,Cape May County,Incorporated place,39.087068,-74.736658,1
+NJ,3402350,place:NJ:3402350,Avenel CDP,Avenel,Avenel,34023,Middlesex County,Census-designated place,40.584334,-74.271626,1
+NJ,3402440,place:NJ:3402440,Avon-by-the-Sea borough,Avon-by-the-Sea,Avon-by-the-Sea,34025,Monmouth County,Incorporated place,40.191418,-74.015105,1
+NJ,3402880,place:NJ:3402880,Barclay CDP,Barclay,Barclay,34007,Camden County,Census-designated place,39.901243,-75.000829,1
+NJ,3402920,place:NJ:3402920,Bargaintown CDP,Bargaintown,Bargaintown,34001,Atlantic County,Census-designated place,39.368123,-74.590822,1
+NJ,3403040,place:NJ:3403040,Barnegat CDP,Barnegat,Barnegat,34029,Ocean County,Census-designated place,39.754037,-74.221662,1
+NJ,3403130,place:NJ:3403130,Barnegat Light borough,Barnegat Light,Barnegat Light,34029,Ocean County,Incorporated place,39.750394,-74.107446,1
+NJ,3403250,place:NJ:3403250,Barrington borough,Barrington,Barrington,34007,Camden County,Incorporated place,39.868935,-75.051362,1
+NJ,3403340,place:NJ:3403340,Basking Ridge CDP,Basking Ridge,Basking Ridge,34035,Somerset County,Census-designated place,40.706547,-74.557631,1
+NJ,3403520,place:NJ:3403520,Bay Head borough,Bay Head,Bay Head,34029,Ocean County,Incorporated place,40.070315,-74.048162,1
+NJ,3403580,place:NJ:3403580,Bayonne city,Bayonne,Bayonne,34017,Hudson County,Incorporated place,40.662218,-74.110544,1
+NJ,3403940,place:NJ:3403940,Beach Haven borough,Beach Haven,Beach Haven,34029,Ocean County,Incorporated place,39.569794,-74.24954,1
+NJ,3404120,place:NJ:3404120,Beach Haven West CDP,Beach Haven West,Beach Haven West,34029,Ocean County,Census-designated place,39.672511,-74.235464,1
+NJ,3404180,place:NJ:3404180,Beachwood borough,Beachwood,Beachwood,34029,Ocean County,Incorporated place,39.928405,-74.202189,1
+NJ,3404252,place:NJ:3404252,Beattystown CDP,Beattystown,Beattystown,34041,Warren County,Census-designated place,40.820613,-74.856004,1
+NJ,3404400,place:NJ:3404400,Beckett CDP,Beckett,Beckett,34015,Gloucester County,Census-designated place,39.753142,-75.359455,1
+NJ,3404420,place:NJ:3404420,Bedminster CDP,Bedminster,Bedminster,34035,Somerset County,Census-designated place,40.674281,-74.660502,1
+NJ,3404540,place:NJ:3404540,Beesleys Point CDP,Beesleys Point,Beesleys Point,34009,Cape May County,Census-designated place,39.27718,-74.634869,1
+NJ,3404600,place:NJ:3404600,Belford CDP,Belford,Belford,34025,Monmouth County,Census-designated place,40.427906,-74.078743,1
+NJ,3404630,place:NJ:3404630,Belle Mead CDP,Belle Mead,Belle Mead,34035,Somerset County,Census-designated place,40.468584,-74.657017,1
+NJ,3404660,place:NJ:3404660,Belleplain CDP,Belleplain,Belleplain,34009,Cape May County,Census-designated place,39.25784,-74.874857,1
+NJ,3404750,place:NJ:3404750,Bellmawr borough,Bellmawr,Bellmawr,34007,Camden County,Incorporated place,39.866356,-75.09467,1
+NJ,3404930,place:NJ:3404930,Belmar borough,Belmar,Belmar,34025,Monmouth County,Incorporated place,40.179663,-74.02444,1
+NJ,3404990,place:NJ:3404990,Belvidere town,Belvidere,Belvidere,34041,Warren County,Incorporated place,40.831857,-75.067136,1
+NJ,3405170,place:NJ:3405170,Bergenfield borough,Bergenfield,Bergenfield,34003,Bergen County,Incorporated place,40.922334,-73.998001,1
+NJ,3405440,place:NJ:3405440,Berlin borough,Berlin,Berlin,34007,Camden County,Incorporated place,39.792059,-74.936985,1
+NJ,3405590,place:NJ:3405590,Bernardsville borough,Bernardsville,Bernardsville,34035,Somerset County,Incorporated place,40.730546,-74.592667,1
+NJ,3405740,place:NJ:3405740,Beverly city,Beverly,Beverly,34005,Burlington County,Incorporated place,40.064811,-74.921904,1
+NJ,3406025,place:NJ:3406025,Blackwells Mills CDP,Blackwells Mills,Blackwells Mills,34035,Somerset County,Census-designated place,40.480709,-74.59829,1
+NJ,3406040,place:NJ:3406040,Blackwood CDP,Blackwood,Blackwood,34007,Camden County,Census-designated place,39.798483,-75.062395,1
+NJ,3406130,place:NJ:3406130,Blairstown CDP,Blairstown,Blairstown,34041,Warren County,Census-designated place,40.987333,-74.954738,1
+NJ,3406190,place:NJ:3406190,Blawenburg CDP,Blawenburg,Blawenburg,34035,Somerset County,Census-designated place,40.402646,-74.698565,1
+NJ,3406340,place:NJ:3406340,Bloomingdale borough,Bloomingdale,Bloomingdale,34031,Passaic County,Incorporated place,41.035471,-74.335613,1
+NJ,3406370,place:NJ:3406370,Bloomsbury borough,Bloomsbury,Bloomsbury,34019,Hunterdon County,Incorporated place,40.657174,-75.075474,1
+NJ,3406490,place:NJ:3406490,Bogota borough,Bogota,Bogota,34003,Bergen County,Incorporated place,40.874293,-74.029737,1
+NJ,3406610,place:NJ:3406610,Boonton town,Boonton,Boonton,34027,Morris County,Incorporated place,40.906567,-74.400848,1
+NJ,3406670,place:NJ:3406670,Bordentown city,Bordentown,Bordentown,34005,Burlington County,Incorporated place,40.149693,-74.707679,1
+NJ,3406790,place:NJ:3406790,Bound Brook borough,Bound Brook,Bound Brook,34035,Somerset County,Incorporated place,40.567749,-74.53725,1
+NJ,3406970,place:NJ:3406970,Bradley Beach borough,Bradley Beach,Bradley Beach,34025,Monmouth County,Incorporated place,40.201604,-74.012056,1
+NJ,3407000,place:NJ:3407000,Bradley Gardens CDP,Bradley Gardens,Bradley Gardens,34035,Somerset County,Census-designated place,40.572097,-74.663442,1
+NJ,3407120,place:NJ:3407120,Brainards CDP,Brainards,Brainards,34041,Warren County,Census-designated place,40.771764,-75.169933,1
+NJ,3407300,place:NJ:3407300,Branchville borough,Branchville,Branchville,34037,Sussex County,Incorporated place,41.147238,-74.749042,1
+NJ,3407360,place:NJ:3407360,Brass Castle CDP,Brass Castle,Brass Castle,34041,Warren County,Census-designated place,40.763118,-75.026346,1
+NJ,3407570,place:NJ:3407570,Bridgeport CDP,Bridgeport,Bridgeport,34015,Gloucester County,Census-designated place,39.800908,-75.346946,1
+NJ,3407600,place:NJ:3407600,Bridgeton city,Bridgeton,Bridgeton,34011,Cumberland County,Incorporated place,39.429192,-75.228595,1
+NJ,3407660,place:NJ:3407660,Bridgeville CDP,Bridgeville,Bridgeville,34041,Warren County,Census-designated place,40.844114,-75.031728,1
+NJ,3407728,place:NJ:3407728,Bridgewater Center CDP,Bridgewater Center,Bridgewater Center,34035,Somerset County,Census-designated place,40.601776,-74.653079,1
+NJ,3407750,place:NJ:3407750,Brielle borough,Brielle,Brielle,34025,Monmouth County,Incorporated place,40.105062,-74.062755,1
+NJ,3407810,place:NJ:3407810,Brigantine city,Brigantine,Brigantine,34001,Atlantic County,Incorporated place,39.413857,-74.377902,1
+NJ,3408020,place:NJ:3408020,Broadway CDP,Broadway,Broadway,34041,Warren County,Census-designated place,40.735575,-75.04953,1
+NJ,3408110,place:NJ:3408110,Brookdale CDP,Brookdale,Brookdale,34013,Essex County,Census-designated place,40.834296,-74.179793,1
+NJ,3408140,place:NJ:3408140,Brookfield CDP,Brookfield,Brookfield,34041,Warren County,Census-designated place,40.815717,-75.070492,1
+NJ,3408170,place:NJ:3408170,Brooklawn borough,Brooklawn,Brooklawn,34007,Camden County,Incorporated place,39.87935,-75.120396,1
+NJ,3408260,place:NJ:3408260,Brookside CDP,Brookside,Brookside,34027,Morris County,Census-designated place,40.794431,-74.564381,1
+NJ,3408455,place:NJ:3408455,Browns Mills CDP,Browns Mills,Browns Mills,34005,Burlington County,Census-designated place,39.973149,-74.569211,1
+NJ,3408492,place:NJ:3408492,Brownville CDP,Brownville,Brownville,34023,Middlesex County,Census-designated place,40.399586,-74.293339,1
+NJ,3408620,place:NJ:3408620,Budd Lake CDP,Budd Lake,Budd Lake,34027,Morris County,Census-designated place,40.873494,-74.736828,1
+NJ,3408680,place:NJ:3408680,Buena borough,Buena,Buena,34001,Atlantic County,Incorporated place,39.52917,-74.945204,1
+NJ,3408890,place:NJ:3408890,Burleigh CDP,Burleigh,Burleigh,34009,Cape May County,Census-designated place,39.047233,-74.846651,1
+NJ,3408920,place:NJ:3408920,Burlington city,Burlington,Burlington,34005,Burlington County,Incorporated place,40.078824,-74.852483,1
+NJ,3409040,place:NJ:3409040,Butler borough,Butler,Butler,34027,Morris County,Incorporated place,40.997768,-74.347003,1
+NJ,3409100,place:NJ:3409100,Buttzville CDP,Buttzville,Buttzville,34041,Warren County,Census-designated place,40.828388,-75.00617,1
+NJ,3409170,place:NJ:3409170,Byram Center CDP,Byram Center,Byram Center,34037,Sussex County,Census-designated place,40.932281,-74.712379,1
+NJ,3409250,place:NJ:3409250,Caldwell borough,Caldwell,Caldwell,34013,Essex County,Incorporated place,40.839235,-74.277026,1
+NJ,3409280,place:NJ:3409280,Califon borough,Califon,Califon,34019,Hunterdon County,Incorporated place,40.719471,-74.836915,1
+NJ,3410000,place:NJ:3410000,Camden city,Camden,Camden,34007,Camden County,Incorporated place,39.936818,-75.106986,1
+NJ,3410270,place:NJ:3410270,Cape May city,Cape May,Cape May,34009,Cape May County,Incorporated place,38.941147,-74.898372,1
+NJ,3410300,place:NJ:3410300,Cape May Court House CDP,Cape May Court House,Cape May Court House,34009,Cape May County,Census-designated place,39.079177,-74.822549,1
+NJ,3410330,place:NJ:3410330,Cape May Point borough,Cape May Point,Cape May Point,34009,Cape May County,Incorporated place,38.936909,-74.965374,1
+NJ,3410450,place:NJ:3410450,Carlls Corner CDP,Carlls Corner,Carlls Corner,34011,Cumberland County,Census-designated place,39.465903,-75.203634,1
+NJ,3410480,place:NJ:3410480,Carlstadt borough,Carlstadt,Carlstadt,34003,Bergen County,Incorporated place,40.827492,-74.061626,1
+NJ,3410600,place:NJ:3410600,Carneys Point CDP,Carneys Point,Carneys Point,34033,Salem County,Census-designated place,39.705328,-75.467996,1
+NJ,3410750,place:NJ:3410750,Carteret borough,Carteret,Carteret,34023,Middlesex County,Incorporated place,40.58379,-74.227457,1
+NJ,3411140,place:NJ:3411140,Cedar Glen Lakes CDP,Cedar Glen Lakes,Cedar Glen Lakes,34029,Ocean County,Census-designated place,39.953737,-74.400284,1
+NJ,3411155,place:NJ:3411155,Cedar Glen West CDP,Cedar Glen West,Cedar Glen West,34029,Ocean County,Census-designated place,40.037934,-74.286286,1
+NJ,3411290,place:NJ:3411290,Cedar Knolls CDP,Cedar Knolls,Cedar Knolls,34027,Morris County,Census-designated place,40.818911,-74.455194,1
+NJ,3411410,place:NJ:3411410,Cedarville CDP,Cedarville,Cedarville,34011,Cumberland County,Census-designated place,39.338609,-75.214175,1
+NJ,3411770,place:NJ:3411770,Centre Grove CDP,Centre Grove,Centre Grove,34011,Cumberland County,Census-designated place,39.360907,-75.136598,1
+NJ,3412100,place:NJ:3412100,Chatham borough,Chatham,Chatham,34027,Morris County,Incorporated place,40.740686,-74.38448,1
+NJ,3412385,place:NJ:3412385,Cherry Hill Mall CDP,Cherry Hill Mall,Cherry Hill Mall,34007,Camden County,Census-designated place,39.938209,-75.012356,1
+NJ,3412550,place:NJ:3412550,Chesilhurst borough,Chesilhurst,Chesilhurst,34007,Camden County,Incorporated place,39.729795,-74.880531,1
+NJ,3412580,place:NJ:3412580,Chester borough,Chester,Chester,34027,Morris County,Incorporated place,40.790628,-74.690085,1
+NJ,3413360,place:NJ:3413360,Clayton borough,Clayton,Clayton,34015,Gloucester County,Incorporated place,39.664063,-75.074397,1
+NJ,3413395,place:NJ:3413395,Clearbrook CDP,Clearbrook,Clearbrook,34023,Middlesex County,Census-designated place,40.309839,-74.465188,1
+NJ,3413420,place:NJ:3413420,Clementon borough,Clementon,Clementon,34007,Camden County,Incorporated place,39.800521,-74.978008,1
+NJ,3413570,place:NJ:3413570,Cliffside Park borough,Cliffside Park,Cliffside Park,34003,Bergen County,Incorporated place,40.82205,-73.987932,1
+NJ,3413630,place:NJ:3413630,Cliffwood Beach CDP,Cliffwood Beach,Cliffwood Beach,34025,Monmouth County,Census-designated place,40.44321,-74.217841,1
+NJ,3413690,place:NJ:3413690,Clifton city,Clifton,Clifton,34031,Passaic County,Incorporated place,40.862137,-74.160393,1
+NJ,3413720,place:NJ:3413720,Clinton town,Clinton,Clinton,34019,Hunterdon County,Incorporated place,40.636794,-74.915205,1
+NJ,3413810,place:NJ:3413810,Closter borough,Closter,Closter,34003,Bergen County,Incorporated place,40.97289,-73.960315,1
+NJ,3413990,place:NJ:3413990,Clyde CDP,Clyde,Clyde,34035,Somerset County,Census-designated place,40.487341,-74.513189,1
+NJ,3414230,place:NJ:3414230,Collings Lakes CDP,Collings Lakes,Collings Lakes,34001,Atlantic County,Census-designated place,39.594905,-74.889127,1
+NJ,3414260,place:NJ:3414260,Collingswood borough,Collingswood,Collingswood,34007,Camden County,Incorporated place,39.915275,-75.078391,1
+NJ,3414350,place:NJ:3414350,Cologne CDP,Cologne,Cologne,34001,Atlantic County,Census-designated place,39.493247,-74.608404,1
+NJ,3414380,place:NJ:3414380,Colonia CDP,Colonia,Colonia,34023,Middlesex County,Census-designated place,40.589328,-74.311417,1
+NJ,3414590,place:NJ:3414590,Columbia CDP,Columbia,Columbia,34041,Warren County,Census-designated place,40.925868,-75.094062,1
+NJ,3414758,place:NJ:3414758,Concordia CDP,Concordia,Concordia,34023,Middlesex County,Census-designated place,40.314908,-74.446492,1
+NJ,3414815,place:NJ:3414815,Connecticut Farms CDP,Connecticut Farms,Connecticut Farms,34039,Union County,Census-designated place,40.693015,-74.271549,1
+NJ,3414980,place:NJ:3414980,Cookstown CDP,Cookstown,Cookstown,34005,Burlington County,Census-designated place,40.043738,-74.547654,1
+NJ,3415160,place:NJ:3415160,Corbin City city,Corbin City,Corbin City,34001,Atlantic County,Incorporated place,39.301674,-74.705578,1
+NJ,3415250,place:NJ:3415250,Country Lake Estates CDP,Country Lake Estates,Country Lake Estates,34005,Burlington County,Census-designated place,39.948988,-74.537929,1
+NJ,3415520,place:NJ:3415520,Cranbury CDP,Cranbury,Cranbury,34023,Middlesex County,Census-designated place,40.31345,-74.520233,1
+NJ,3415610,place:NJ:3415610,Crandon Lakes CDP,Crandon Lakes,Crandon Lakes,34037,Sussex County,Census-designated place,41.122723,-74.840528,1
+NJ,3415638,place:NJ:3415638,Cranford CDP,Cranford,Cranford,34039,Union County,Census-designated place,40.654374,-74.308632,1
+NJ,3415730,place:NJ:3415730,Cream Ridge CDP,Cream Ridge,Cream Ridge,34025,Monmouth County,Census-designated place,40.132217,-74.537254,1
+NJ,3415820,place:NJ:3415820,Cresskill borough,Cresskill,Cresskill,34003,Bergen County,Incorporated place,40.940018,-73.958313,1
+NJ,3415910,place:NJ:3415910,Crestwood Village CDP,Crestwood Village,Crestwood Village,34029,Ocean County,Census-designated place,39.954846,-74.350935,1
+NJ,3416060,place:NJ:3416060,Crosswicks CDP,Crosswicks,Crosswicks,34005,Burlington County,Census-designated place,40.139855,-74.636524,1
+NJ,3416278,place:NJ:3416278,Cumberland-Hesstown CDP,Cumberland-Hesstown,Cumberland-Hesstown,34011,Cumberland County,Census-designated place,39.362237,-74.914481,1
+NJ,3416630,place:NJ:3416630,Dayton CDP,Dayton,Dayton,34023,Middlesex County,Census-designated place,40.377399,-74.506674,1
+NJ,3416660,place:NJ:3416660,Deal borough,Deal,Deal,34025,Monmouth County,Incorporated place,40.249701,-73.997458,1
+NJ,3416720,place:NJ:3416720,Deans CDP,Deans,Deans,34023,Middlesex County,Census-designated place,40.403154,-74.515311,1
+NJ,3416960,place:NJ:3416960,Deerfield Street CDP,Deerfield Street,Deerfield Street,34011,Cumberland County,Census-designated place,39.516398,-75.243953,1
+NJ,3417200,place:NJ:3417200,Delaware CDP,Delaware,Delaware,34041,Warren County,Census-designated place,40.892819,-75.069436,1
+NJ,3417260,place:NJ:3417260,Delaware Park CDP,Delaware Park,Delaware Park,34041,Warren County,Census-designated place,40.705117,-75.188273,1
+NJ,3417410,place:NJ:3417410,Delmont CDP,Delmont,Delmont,34011,Cumberland County,Census-designated place,39.215244,-74.94944,1
+NJ,3417530,place:NJ:3417530,Demarest borough,Demarest,Demarest,34003,Bergen County,Incorporated place,40.954103,-73.954921,1
+NJ,3417590,place:NJ:3417590,Dennisville CDP,Dennisville,Dennisville,34009,Cape May County,Census-designated place,39.206555,-74.818386,1
+NJ,3417815,place:NJ:3417815,Diamond Beach CDP,Diamond Beach,Diamond Beach,34009,Cape May County,Census-designated place,38.959251,-74.852865,1
+NJ,3417890,place:NJ:3417890,Dividing Creek CDP,Dividing Creek,Dividing Creek,34011,Cumberland County,Census-designated place,39.270495,-75.100213,1
+NJ,3418010,place:NJ:3418010,Dorchester CDP,Dorchester,Dorchester,34011,Cumberland County,Census-designated place,39.269887,-74.971267,1
+NJ,3418040,place:NJ:3418040,Dorothy CDP,Dorothy,Dorothy,34001,Atlantic County,Census-designated place,39.404337,-74.831974,1
+NJ,3418070,place:NJ:3418070,Dover town,Dover,Dover,34027,Morris County,Incorporated place,40.8856,-74.559163,1
+NJ,3418148,place:NJ:3418148,Dover Beaches North CDP,Dover Beaches North,Dover Beaches North,34029,Ocean County,Census-designated place,39.991885,-74.069098,1
+NJ,3418151,place:NJ:3418151,Dover Beaches South CDP,Dover Beaches South,Dover Beaches South,34029,Ocean County,Census-designated place,39.95485,-74.080056,1
+NJ,3418400,place:NJ:3418400,Dumont borough,Dumont,Dumont,34003,Bergen County,Incorporated place,40.945239,-73.992428,1
+NJ,3418490,place:NJ:3418490,Dunellen borough,Dunellen,Dunellen,34023,Middlesex County,Incorporated place,40.590294,-74.465652,1
+NJ,3418632,place:NJ:3418632,Dutch Neck CDP,Dutch Neck,Dutch Neck,34011,Cumberland County,Census-designated place,39.40166,-75.278671,1
+NJ,3419130,place:NJ:3419130,East Franklin CDP,East Franklin,East Franklin,34035,Somerset County,Census-designated place,40.493307,-74.471073,1
+NJ,3419150,place:NJ:3419150,East Freehold CDP,East Freehold,East Freehold,34025,Monmouth County,Census-designated place,40.275752,-74.241309,1
+NJ,3419330,place:NJ:3419330,East Millstone CDP,East Millstone,East Millstone,34035,Somerset County,Census-designated place,40.497223,-74.569735,1
+NJ,3419360,place:NJ:3419360,East Newark borough,East Newark,East Newark,34017,Hudson County,Incorporated place,40.752011,-74.162189,1
+NJ,3419390,place:NJ:3419390,East Orange city,East Orange,East Orange,34013,Essex County,Incorporated place,40.765055,-74.211655,1
+NJ,3419490,place:NJ:3419490,East Rocky Hill CDP,East Rocky Hill,East Rocky Hill,34035,Somerset County,Census-designated place,40.415957,-74.617811,1
+NJ,3419510,place:NJ:3419510,East Rutherford borough,East Rutherford,East Rutherford,34003,Bergen County,Incorporated place,40.817097,-74.085024,1
+NJ,3419690,place:NJ:3419690,East Vineland CDP,East Vineland,East Vineland,34001,Atlantic County,Census-designated place,39.476623,-74.905702,1
+NJ,3419840,place:NJ:3419840,Eatontown borough,Eatontown,Eatontown,34025,Monmouth County,Incorporated place,40.291624,-74.054123,1
+NJ,3419900,place:NJ:3419900,Echelon CDP,Echelon,Echelon,34007,Camden County,Census-designated place,39.847234,-74.99368,1
+NJ,3420020,place:NJ:3420020,Edgewater borough,Edgewater,Edgewater,34003,Bergen County,Incorporated place,40.82465,-73.973793,1
+NJ,3420350,place:NJ:3420350,Egg Harbor City city,Egg Harbor City,Egg Harbor City,34001,Atlantic County,Incorporated place,39.564817,-74.595654,1
+NJ,3421000,place:NJ:3421000,Elizabeth city,Elizabeth,Elizabeth,34039,Union County,Incorporated place,40.666367,-74.193503,1
+NJ,3421120,place:NJ:3421120,Ellisburg CDP,Ellisburg,Ellisburg,34007,Camden County,Census-designated place,39.919889,-75.009336,1
+NJ,3421240,place:NJ:3421240,Elmer borough,Elmer,Elmer,34033,Salem County,Incorporated place,39.592258,-75.174569,1
+NJ,3421300,place:NJ:3421300,Elmwood Park borough,Elmwood Park,Elmwood Park,34003,Bergen County,Incorporated place,40.904526,-74.119514,1
+NJ,3421420,place:NJ:3421420,Elwood CDP,Elwood,Elwood,34001,Atlantic County,Census-designated place,39.569375,-74.707921,1
+NJ,3421450,place:NJ:3421450,Emerson borough,Emerson,Emerson,34003,Bergen County,Incorporated place,40.97499,-74.023248,1
+NJ,3421473,place:NJ:3421473,Encore at Monroe CDP,Encore at Monroe,Encore at Monroe,34023,Middlesex County,Census-designated place,40.319571,-74.467097,1
+NJ,3421480,place:NJ:3421480,Englewood city,Englewood,Englewood,34003,Bergen County,Incorporated place,40.891197,-73.972515,1
+NJ,3421510,place:NJ:3421510,Englewood Cliffs borough,Englewood Cliffs,Englewood Cliffs,34003,Bergen County,Incorporated place,40.884634,-73.944654,1
+NJ,3421540,place:NJ:3421540,English Creek CDP,English Creek,English Creek,34001,Atlantic County,Census-designated place,39.378682,-74.650108,1
+NJ,3421570,place:NJ:3421570,Englishtown borough,Englishtown,Englishtown,34025,Monmouth County,Incorporated place,40.296141,-74.359584,1
+NJ,3421660,place:NJ:3421660,Erma CDP,Erma,Erma,34009,Cape May County,Census-designated place,38.994824,-74.891954,1
+NJ,3421840,place:NJ:3421840,Essex Fells borough,Essex Fells,Essex Fells,34013,Essex County,Incorporated place,40.828102,-74.276226,1
+NJ,3421870,place:NJ:3421870,Estell Manor city,Estell Manor,Estell Manor,34001,Atlantic County,Incorporated place,39.352304,-74.774449,1
+NJ,3422440,place:NJ:3422440,Fair Haven borough,Fair Haven,Fair Haven,34025,Monmouth County,Incorporated place,40.36194,-74.038775,1
+NJ,3422470,place:NJ:3422470,Fair Lawn borough,Fair Lawn,Fair Lawn,34003,Bergen County,Incorporated place,40.93583,-74.117505,1
+NJ,3422530,place:NJ:3422530,Fairton CDP,Fairton,Fairton,34011,Cumberland County,Census-designated place,39.373352,-75.208845,1
+NJ,3422560,place:NJ:3422560,Fairview borough,Fairview,"Fairview, Bergen County",34003,Bergen County,Incorporated place,40.82111,-74.003032,1
+NJ,3422740,place:NJ:3422740,Fairview CDP,Fairview,"Fairview, Monmouth County",34025,Monmouth County,Census-designated place,40.365312,-74.080588,1
+NJ,3422860,place:NJ:3422860,Fanwood borough,Fanwood,Fanwood,34039,Union County,Incorporated place,40.641701,-74.385692,1
+NJ,3422890,place:NJ:3422890,Far Hills borough,Far Hills,Far Hills,34035,Somerset County,Incorporated place,40.690895,-74.621534,1
+NJ,3422950,place:NJ:3422950,Farmingdale borough,Farmingdale,Farmingdale,34025,Monmouth County,Incorporated place,40.198357,-74.170082,1
+NJ,3423250,place:NJ:3423250,Fieldsboro borough,Fieldsboro,Fieldsboro,34005,Burlington County,Incorporated place,40.135471,-74.733355,1
+NJ,3423310,place:NJ:3423310,Finderne CDP,Finderne,Finderne,34035,Somerset County,Census-designated place,40.561278,-74.574237,1
+NJ,3423340,place:NJ:3423340,Finesville CDP,Finesville,Finesville,34041,Warren County,Census-designated place,40.618725,-75.165678,1
+NJ,3423610,place:NJ:3423610,Flagtown CDP,Flagtown,Flagtown,34035,Somerset County,Census-designated place,40.522226,-74.691214,1
+NJ,3423640,place:NJ:3423640,Flanders CDP,Flanders,Flanders,34027,Morris County,Census-designated place,40.843163,-74.710684,1
+NJ,3423700,place:NJ:3423700,Flemington borough,Flemington,Flemington,34019,Hunterdon County,Incorporated place,40.508641,-74.859869,1
+NJ,3423820,place:NJ:3423820,Florence CDP,Florence,Florence,34005,Burlington County,Census-designated place,40.11916,-74.808773,1
+NJ,3423910,place:NJ:3423910,Florham Park borough,Florham Park,Florham Park,34027,Morris County,Incorporated place,40.775992,-74.394315,1
+NJ,3423940,place:NJ:3423940,Folsom borough,Folsom,Folsom,34001,Atlantic County,Incorporated place,39.596745,-74.843163,1
+NJ,3424030,place:NJ:3424030,Fords CDP,Fords,Fords,34023,Middlesex County,Census-designated place,40.536036,-74.313545,1
+NJ,3424180,place:NJ:3424180,Forked River CDP,Forked River,Forked River,34029,Ocean County,Census-designated place,39.825459,-74.184063,1
+NJ,3424285,place:NJ:3424285,Forsgate CDP,Forsgate,Forsgate,34023,Middlesex County,Census-designated place,40.349377,-74.467518,1
+NJ,3424300,place:NJ:3424300,Fort Dix CDP,Fort Dix,Fort Dix,34005,Burlington County,Census-designated place,40.005328,-74.611743,1
+NJ,3424420,place:NJ:3424420,Fort Lee borough,Fort Lee,Fort Lee,34003,Bergen County,Incorporated place,40.85064,-73.971007,1
+NJ,3424360,place:NJ:3424360,Fortescue CDP,Fortescue,Fortescue,34011,Cumberland County,Census-designated place,39.237004,-75.170521,1
+NJ,3424930,place:NJ:3424930,Franklin borough,Franklin,Franklin,34037,Sussex County,Incorporated place,41.108997,-74.588641,1
+NJ,3424965,place:NJ:3424965,Franklin Center CDP,Franklin Center,Franklin Center,34035,Somerset County,Census-designated place,40.531536,-74.54141,1
+NJ,3424990,place:NJ:3424990,Franklin Lakes borough,Franklin Lakes,Franklin Lakes,34003,Bergen County,Incorporated place,41.007526,-74.205653,1
+NJ,3425020,place:NJ:3425020,Franklin Park CDP,Franklin Park,Franklin Park,34035,Somerset County,Census-designated place,40.444632,-74.542041,1
+NJ,3425050,place:NJ:3425050,Franklinville CDP,Franklinville,Franklinville,34015,Gloucester County,Census-designated place,39.618004,-75.072981,1
+NJ,3425200,place:NJ:3425200,Freehold borough,Freehold,Freehold,34025,Monmouth County,Incorporated place,40.260219,-74.275884,1
+NJ,3425350,place:NJ:3425350,Frenchtown borough,Frenchtown,Frenchtown,34019,Hunterdon County,Incorporated place,40.530537,-75.052846,1
+NJ,3425590,place:NJ:3425590,Gandys Beach CDP,Gandys Beach,Gandys Beach,34011,Cumberland County,Census-designated place,39.272118,-75.232829,1
+NJ,3425770,place:NJ:3425770,Garfield city,Garfield,Garfield,34003,Bergen County,Incorporated place,40.879797,-74.10825,1
+NJ,3425800,place:NJ:3425800,Garwood borough,Garwood,Garwood,34039,Union County,Incorporated place,40.651331,-74.323152,1
+NJ,3426010,place:NJ:3426010,Germania CDP,Germania,Germania,34001,Atlantic County,Census-designated place,39.514424,-74.590766,1
+NJ,3426070,place:NJ:3426070,Gibbsboro borough,Gibbsboro,Gibbsboro,34007,Camden County,Incorporated place,39.832567,-74.966907,1
+NJ,3426100,place:NJ:3426100,Gibbstown CDP,Gibbstown,Gibbstown,34015,Gloucester County,Census-designated place,39.82454,-75.278082,1
+NJ,3426220,place:NJ:3426220,Gillette CDP,Gillette,Gillette,34027,Morris County,Census-designated place,40.695198,-74.456833,1
+NJ,3426340,place:NJ:3426340,Glassboro borough,Glassboro,Glassboro,34015,Gloucester County,Incorporated place,39.699539,-75.111571,1
+NJ,3426550,place:NJ:3426550,Glen Gardner borough,Glen Gardner,Glen Gardner,34019,Hunterdon County,Incorporated place,40.700385,-74.939521,1
+NJ,3426610,place:NJ:3426610,Glen Ridge borough,Glen Ridge,Glen Ridge,34013,Essex County,Incorporated place,40.804798,-74.204569,1
+NJ,3426640,place:NJ:3426640,Glen Rock borough,Glen Rock,Glen Rock,34003,Bergen County,Incorporated place,40.959471,-74.125202,1
+NJ,3426520,place:NJ:3426520,Glendora CDP,Glendora,Glendora,34007,Camden County,Census-designated place,39.840937,-75.067211,1
+NJ,3426820,place:NJ:3426820,Gloucester City city,Gloucester City,Gloucester City,34007,Camden County,Incorporated place,39.891694,-75.116692,1
+NJ,3426902,place:NJ:3426902,Golden Triangle CDP,Golden Triangle,Golden Triangle,34007,Camden County,Census-designated place,39.934947,-75.039213,1
+NJ,3427030,place:NJ:3427030,Goshen CDP,Goshen,Goshen,34009,Cape May County,Census-designated place,39.148107,-74.846148,1
+NJ,3427060,place:NJ:3427060,Gouldtown CDP,Gouldtown,Gouldtown,34011,Cumberland County,Census-designated place,39.415169,-75.19119,1
+NJ,3427360,place:NJ:3427360,Great Meadows CDP,Great Meadows,Great Meadows,34041,Warren County,Census-designated place,40.875812,-74.896582,1
+NJ,3427390,place:NJ:3427390,Great Notch CDP,Great Notch,Great Notch,34031,Passaic County,Census-designated place,40.871476,-74.208634,1
+NJ,3427840,place:NJ:3427840,Green Knoll CDP,Green Knoll,Green Knoll,34035,Somerset County,Census-designated place,40.604725,-74.614511,1
+NJ,3428020,place:NJ:3428020,Green Village CDP,Green Village,Green Village,34027,Morris County,Census-designated place,40.737233,-74.448347,1
+NJ,3427995,place:NJ:3427995,Greentree CDP,Greentree,Greentree,34007,Camden County,Census-designated place,39.898668,-74.96168,1
+NJ,3428140,place:NJ:3428140,Greenwich CDP,Greenwich,"Greenwich, Cumberland County",34011,Cumberland County,Census-designated place,39.389168,-75.344386,1
+NJ,3428250,place:NJ:3428250,Greenwich CDP,Greenwich,"Greenwich, Warren County",34041,Warren County,Census-designated place,40.684907,-75.133821,1
+NJ,3428380,place:NJ:3428380,Grenloch CDP,Grenloch,Grenloch,34007,Camden County,Census-designated place,39.782747,-75.055456,1
+NJ,3428470,place:NJ:3428470,Griggstown CDP,Griggstown,Griggstown,34035,Somerset County,Census-designated place,40.439868,-74.598319,1
+NJ,3428620,place:NJ:3428620,Groveville CDP,Groveville,Groveville,34021,Mercer County,Census-designated place,40.170087,-74.651309,1
+NJ,3428650,place:NJ:3428650,Guttenberg town,Guttenberg,Guttenberg,34017,Hudson County,Incorporated place,40.792784,-74.004572,1
+NJ,3428680,place:NJ:3428680,Hackensack city,Hackensack,Hackensack,34003,Bergen County,Incorporated place,40.889398,-74.045698,1
+NJ,3428710,place:NJ:3428710,Hackettstown town,Hackettstown,Hackettstown,34041,Warren County,Incorporated place,40.853704,-74.824877,1
+NJ,3428800,place:NJ:3428800,Haddon Heights borough,Haddon Heights,Haddon Heights,34007,Camden County,Incorporated place,39.879127,-75.065918,1
+NJ,3428770,place:NJ:3428770,Haddonfield borough,Haddonfield,Haddonfield,34007,Camden County,Incorporated place,39.895416,-75.034413,1
+NJ,3428920,place:NJ:3428920,Hainesburg CDP,Hainesburg,Hainesburg,34041,Warren County,Census-designated place,40.957255,-75.052195,1
+NJ,3429070,place:NJ:3429070,Haledon borough,Haledon,Haledon,34031,Passaic County,Incorporated place,40.936989,-74.188867,1
+NJ,3429220,place:NJ:3429220,Hamburg borough,Hamburg,Hamburg,34037,Sussex County,Incorporated place,41.149894,-74.571208,1
+NJ,3429370,place:NJ:3429370,Hamilton Square CDP,Hamilton Square,Hamilton Square,34021,Mercer County,Census-designated place,40.225029,-74.65048,1
+NJ,3429430,place:NJ:3429430,Hammonton town,Hammonton,Hammonton,34001,Atlantic County,Incorporated place,39.66078,-74.767021,1
+NJ,3429460,place:NJ:3429460,Hampton borough,Hampton,Hampton,34019,Hunterdon County,Incorporated place,40.70457,-74.971525,1
+NJ,3429520,place:NJ:3429520,Hancocks Bridge CDP,Hancocks Bridge,Hancocks Bridge,34033,Salem County,Census-designated place,39.505308,-75.459316,1
+NJ,3429940,place:NJ:3429940,Harlingen CDP,Harlingen,Harlingen,34035,Somerset County,Census-designated place,40.451506,-74.654587,1
+NJ,3430060,place:NJ:3430060,Harmony CDP,Harmony,Harmony,34041,Warren County,Census-designated place,40.751232,-75.137817,1
+NJ,3430150,place:NJ:3430150,Harrington Park borough,Harrington Park,Harrington Park,34003,Bergen County,Incorporated place,40.991054,-73.980631,1
+NJ,3430210,place:NJ:3430210,Harrison town,Harrison,Harrison,34017,Hudson County,Incorporated place,40.742978,-74.152911,1
+NJ,3430270,place:NJ:3430270,Harrisonville CDP,Harrisonville,Harrisonville,34015,Gloucester County,Census-designated place,39.685659,-75.277309,1
+NJ,3430390,place:NJ:3430390,Harvey Cedars borough,Harvey Cedars,Harvey Cedars,34029,Ocean County,Incorporated place,39.699578,-74.141511,1
+NJ,3430420,place:NJ:3430420,Hasbrouck Heights borough,Hasbrouck Heights,Hasbrouck Heights,34003,Bergen County,Incorporated place,40.862751,-74.075182,1
+NJ,3430540,place:NJ:3430540,Haworth borough,Haworth,Haworth,34003,Bergen County,Incorporated place,40.964068,-73.996495,1
+NJ,3430570,place:NJ:3430570,Hawthorne borough,Hawthorne,Hawthorne,34031,Passaic County,Incorporated place,40.956957,-74.158561,1
+NJ,3430738,place:NJ:3430738,Heathcote CDP,Heathcote,Heathcote,34023,Middlesex County,Census-designated place,40.391003,-74.577665,1
+NJ,3430810,place:NJ:3430810,Heislerville CDP,Heislerville,Heislerville,34011,Cumberland County,Census-designated place,39.223659,-74.991478,1
+NJ,3430840,place:NJ:3430840,Helmetta borough,Helmetta,Helmetta,34023,Middlesex County,Incorporated place,40.378417,-74.423384,1
+NJ,3431110,place:NJ:3431110,Hewitt CDP,Hewitt,Hewitt,34031,Passaic County,Census-designated place,41.176196,-74.324789,1
+NJ,3432220,place:NJ:3432220,Hi-Nella borough,Hi-Nella,Hi-Nella,34007,Camden County,Incorporated place,39.836516,-75.021965,1
+NJ,3431170,place:NJ:3431170,Hibernia CDP,Hibernia,Hibernia,34027,Morris County,Census-designated place,40.944622,-74.500876,1
+NJ,3431320,place:NJ:3431320,High Bridge borough,High Bridge,High Bridge,34019,Hunterdon County,Incorporated place,40.670111,-74.890212,1
+NJ,3431410,place:NJ:3431410,Highland Lakes CDP,Highland Lakes,Highland Lakes,34037,Sussex County,Census-designated place,41.170559,-74.463226,1
+NJ,3431470,place:NJ:3431470,Highland Park borough,Highland Park,Highland Park,34023,Middlesex County,Incorporated place,40.500795,-74.427911,1
+NJ,3431500,place:NJ:3431500,Highlands borough,Highlands,Highlands,34025,Monmouth County,Incorporated place,40.404186,-73.98871,1
+NJ,3431620,place:NJ:3431620,Hightstown borough,Hightstown,Hightstown,34021,Mercer County,Incorporated place,40.268519,-74.52584,1
+NJ,3431880,place:NJ:3431880,Hillsborough CDP,Hillsborough,Hillsborough,34035,Somerset County,Census-designated place,40.508074,-74.65288,1
+NJ,3431920,place:NJ:3431920,Hillsdale borough,Hillsdale,Hillsdale,34003,Bergen County,Incorporated place,41.007127,-74.045119,1
+NJ,3432310,place:NJ:3432310,Ho-Ho-Kus borough,Ho-Ho-Kus,Ho-Ho-Kus,34003,Bergen County,Incorporated place,40.9995,-74.096583,1
+NJ,3432250,place:NJ:3432250,Hoboken city,Hoboken,Hoboken,34017,Hudson County,Incorporated place,40.745251,-74.027926,1
+NJ,3432418,place:NJ:3432418,Holiday City South CDP,Holiday City South,Holiday City South,34029,Ocean County,Census-designated place,39.954094,-74.237294,1
+NJ,3432415,place:NJ:3432415,Holiday City-Berkeley CDP,Holiday City-Berkeley,Holiday City-Berkeley,34029,Ocean County,Census-designated place,39.962813,-74.279647,1
+NJ,3432424,place:NJ:3432424,Holiday Heights CDP,Holiday Heights,Holiday Heights,34029,Ocean County,Census-designated place,39.939577,-74.257202,1
+NJ,3432910,place:NJ:3432910,Hopatcong borough,Hopatcong,Hopatcong,34037,Sussex County,Incorporated place,40.951648,-74.662377,1
+NJ,3433030,place:NJ:3433030,Hope CDP,Hope,Hope,34041,Warren County,Census-designated place,40.912086,-74.958895,1
+NJ,3433090,place:NJ:3433090,Hopelawn CDP,Hopelawn,Hopelawn,34023,Middlesex County,Census-designated place,40.528629,-74.293633,1
+NJ,3433150,place:NJ:3433150,Hopewell borough,Hopewell,Hopewell,34021,Mercer County,Incorporated place,40.389309,-74.763799,1
+NJ,3433690,place:NJ:3433690,Hutchinson CDP,Hutchinson,Hutchinson,34041,Warren County,Census-designated place,40.779249,-75.119963,1
+NJ,3434200,place:NJ:3434200,Interlaken borough,Interlaken,Interlaken,34025,Monmouth County,Incorporated place,40.234313,-74.015939,1
+NJ,3434470,place:NJ:3434470,Iselin CDP,Iselin,Iselin,34023,Middlesex County,Census-designated place,40.570167,-74.316357,1
+NJ,3434530,place:NJ:3434530,Island Heights borough,Island Heights,Island Heights,34029,Ocean County,Incorporated place,39.941804,-74.143842,1
+NJ,3434890,place:NJ:3434890,Jamesburg borough,Jamesburg,Jamesburg,34023,Middlesex County,Incorporated place,40.349038,-74.440202,1
+NJ,3436000,place:NJ:3436000,Jersey City city,Jersey City,Jersey City,34017,Hudson County,Incorporated place,40.711417,-74.06476,1
+NJ,3436120,place:NJ:3436120,Jobstown CDP,Jobstown,Jobstown,34005,Burlington County,Census-designated place,40.030929,-74.700468,1
+NJ,3436150,place:NJ:3436150,Johnsonburg CDP,Johnsonburg,Johnsonburg,34041,Warren County,Census-designated place,40.964334,-74.876052,1
+NJ,3436300,place:NJ:3436300,Juliustown CDP,Juliustown,Juliustown,34005,Burlington County,Census-designated place,40.012088,-74.67153,1
+NJ,3436484,place:NJ:3436484,Kean University CDP,Kean University,Kean University,34039,Union County,Census-designated place,40.678032,-74.233294,1
+NJ,3436480,place:NJ:3436480,Keansburg borough,Keansburg,Keansburg,,,Incorporated place,40.451869,-74.155634,1
+NJ,3436510,place:NJ:3436510,Kearny town,Kearny,Kearny,34017,Hudson County,Incorporated place,40.752332,-74.123093,1
+NJ,3436570,place:NJ:3436570,Keasbey CDP,Keasbey,Keasbey,34023,Middlesex County,Census-designated place,40.514728,-74.31157,1
+NJ,3436660,place:NJ:3436660,Kendall Park CDP,Kendall Park,Kendall Park,34023,Middlesex County,Census-designated place,40.413402,-74.562454,1
+NJ,3436690,place:NJ:3436690,Kenilworth borough,Kenilworth,Kenilworth,34039,Union County,Incorporated place,40.678089,-74.288114,1
+NJ,3436720,place:NJ:3436720,Kenvil CDP,Kenvil,Kenvil,34027,Morris County,Census-designated place,40.881931,-74.619171,1
+NJ,3436810,place:NJ:3436810,Keyport borough,Keyport,Keyport,34025,Monmouth County,Incorporated place,40.432626,-74.200342,1
+NJ,3436930,place:NJ:3436930,Kingston CDP,Kingston,Kingston,34035,Somerset County,Census-designated place,40.38145,-74.61398,1
+NJ,3436960,place:NJ:3436960,Kingston Estates CDP,Kingston Estates,Kingston Estates,34007,Camden County,Census-designated place,39.918085,-74.990185,1
+NJ,3437110,place:NJ:3437110,Kinnelon borough,Kinnelon,Kinnelon,34027,Morris County,Incorporated place,40.982036,-74.385896,1
+NJ,3437560,place:NJ:3437560,Lake Como borough,Lake Como,Lake Como,34025,Monmouth County,Incorporated place,40.170011,-74.024861,1
+NJ,3437680,place:NJ:3437680,Lake Hiawatha CDP,Lake Hiawatha,Lake Hiawatha,34027,Morris County,Census-designated place,40.881471,-74.382612,1
+NJ,3437710,place:NJ:3437710,Lake Hopatcong CDP,Lake Hopatcong,Lake Hopatcong,34027,Morris County,Census-designated place,40.959562,-74.609507,1
+NJ,3438040,place:NJ:3438040,Lake Mohawk CDP,Lake Mohawk,Lake Mohawk,34037,Sussex County,Census-designated place,41.023633,-74.661324,1
+NJ,3438430,place:NJ:3438430,Lake Telemark CDP,Lake Telemark,Lake Telemark,34027,Morris County,Census-designated place,40.959829,-74.497729,1
+NJ,3437770,place:NJ:3437770,Lakehurst borough,Lakehurst,Lakehurst,34029,Ocean County,Incorporated place,40.013119,-74.320356,1
+NJ,3438296,place:NJ:3438296,Lakeside-Beebe Run CDP,Lakeside-Beebe Run,Lakeside-Beebe Run,34011,Cumberland County,Census-designated place,39.452176,-75.249779,1
+NJ,3438580,place:NJ:3438580,Lakewood CDP,Lakewood,Lakewood,34029,Ocean County,Census-designated place,40.093975,-74.211478,1
+NJ,3438610,place:NJ:3438610,Lambertville city,Lambertville,Lambertville,34019,Hunterdon County,Incorporated place,40.368302,-74.94296,1
+NJ,3438670,place:NJ:3438670,Lamington CDP,Lamington,Lamington,34035,Somerset County,Census-designated place,40.67173,-74.706334,1
+NJ,3438700,place:NJ:3438700,Landing CDP,Landing,Landing,34027,Morris County,Census-designated place,40.911614,-74.663611,1
+NJ,3439045,place:NJ:3439045,Laurel Heights CDP,Laurel Heights,Laurel Heights,34011,Cumberland County,Census-designated place,39.45695,-75.22347,1
+NJ,3439120,place:NJ:3439120,Laurel Lake CDP,Laurel Lake,Laurel Lake,34011,Cumberland County,Census-designated place,39.326293,-75.03062,1
+NJ,3439210,place:NJ:3439210,Laurel Springs borough,Laurel Springs,Laurel Springs,34007,Camden County,Incorporated place,39.820543,-75.005445,1
+NJ,3439360,place:NJ:3439360,Laurence Harbor CDP,Laurence Harbor,Laurence Harbor,34023,Middlesex County,Census-designated place,40.44685,-74.260017,1
+NJ,3439390,place:NJ:3439390,Lavallette borough,Lavallette,Lavallette,34029,Ocean County,Incorporated place,39.969474,-74.07188,1
+NJ,3439420,place:NJ:3439420,Lawnside borough,Lawnside,Lawnside,34007,Camden County,Incorporated place,39.867308,-75.028903,1
+NJ,3439570,place:NJ:3439570,Lawrenceville CDP,Lawrenceville,Lawrenceville,34021,Mercer County,Census-designated place,40.302621,-74.73852,1
+NJ,3439600,place:NJ:3439600,Layton CDP,Layton,Layton,34037,Sussex County,Census-designated place,41.218518,-74.823479,1
+NJ,3439630,place:NJ:3439630,Lebanon borough,Lebanon,Lebanon,34019,Hunterdon County,Incorporated place,40.641862,-74.833312,1
+NJ,3439750,place:NJ:3439750,Ledgewood CDP,Ledgewood,Ledgewood,34027,Morris County,Census-designated place,40.883268,-74.668029,1
+NJ,3439810,place:NJ:3439810,Leeds Point CDP,Leeds Point,Leeds Point,34001,Atlantic County,Census-designated place,39.490613,-74.443344,1
+NJ,3439870,place:NJ:3439870,Leesburg CDP,Leesburg,Leesburg,34011,Cumberland County,Census-designated place,39.26366,-74.981212,1
+NJ,3439883,place:NJ:3439883,Leisure Knoll CDP,Leisure Knoll,Leisure Knoll,34029,Ocean County,Census-designated place,40.018055,-74.28963,1
+NJ,3439900,place:NJ:3439900,Leisure Village CDP,Leisure Village,Leisure Village,34029,Ocean County,Census-designated place,40.043805,-74.186412,1
+NJ,3439910,place:NJ:3439910,Leisure Village East CDP,Leisure Village East,Leisure Village East,34029,Ocean County,Census-designated place,40.043481,-74.169837,1
+NJ,3439916,place:NJ:3439916,Leisure Village West CDP,Leisure Village West,Leisure Village West,34029,Ocean County,Census-designated place,40.010284,-74.280896,1
+NJ,3439885,place:NJ:3439885,Leisuretowne CDP,Leisuretowne,Leisuretowne,34005,Burlington County,Census-designated place,39.894535,-74.709479,1
+NJ,3439990,place:NJ:3439990,Leonardo CDP,Leonardo,Leonardo,34025,Monmouth County,Census-designated place,40.419717,-74.060211,1
+NJ,3440020,place:NJ:3440020,Leonia borough,Leonia,Leonia,34003,Bergen County,Incorporated place,40.863391,-73.988466,1
+NJ,3440140,place:NJ:3440140,Liberty Corner CDP,Liberty Corner,Liberty Corner,34035,Somerset County,Census-designated place,40.662488,-74.584628,1
+NJ,3440290,place:NJ:3440290,Lincoln Park borough,Lincoln Park,Lincoln Park,34027,Morris County,Incorporated place,40.923751,-74.304235,1
+NJ,3440320,place:NJ:3440320,Lincroft CDP,Lincroft,Lincroft,34025,Monmouth County,Census-designated place,40.335361,-74.132723,1
+NJ,3440350,place:NJ:3440350,Linden city,Linden,Linden,34039,Union County,Incorporated place,40.627337,-74.23631,1
+NJ,3440440,place:NJ:3440440,Lindenwold borough,Lindenwold,Lindenwold,34007,Camden County,Incorporated place,39.818807,-74.989965,1
+NJ,3440530,place:NJ:3440530,Linwood city,Linwood,Linwood,34001,Atlantic County,Incorporated place,39.343718,-74.571049,1
+NJ,3440680,place:NJ:3440680,Little Ferry borough,Little Ferry,Little Ferry,34003,Bergen County,Incorporated place,40.842656,-74.033847,1
+NJ,3440770,place:NJ:3440770,Little Silver borough,Little Silver,Little Silver,34025,Monmouth County,Incorporated place,40.336952,-74.034535,1
+NJ,3440990,place:NJ:3440990,Llewellyn Park CDP,Llewellyn Park,Llewellyn Park,34013,Essex County,Census-designated place,40.789328,-74.239687,1
+NJ,3441010,place:NJ:3441010,Loch Arbour village,Loch Arbour,Loch Arbour,34025,Monmouth County,Incorporated place,40.232296,-74.000008,1
+NJ,3441100,place:NJ:3441100,Lodi borough,Lodi,Lodi,34003,Bergen County,Incorporated place,40.877915,-74.0825,1
+NJ,3441310,place:NJ:3441310,Long Branch city,Long Branch,Long Branch,34025,Monmouth County,Incorporated place,40.295372,-73.989899,1
+NJ,3441400,place:NJ:3441400,Long Valley CDP,Long Valley,Long Valley,34027,Morris County,Census-designated place,40.781633,-74.776838,1
+NJ,3441370,place:NJ:3441370,Longport borough,Longport,Longport,34001,Atlantic County,Incorporated place,39.311337,-74.526957,1
+NJ,3441495,place:NJ:3441495,Lopatcong Overlook CDP,Lopatcong Overlook,Lopatcong Overlook,34041,Warren County,Census-designated place,40.697115,-75.145197,1
+NJ,3441700,place:NJ:3441700,Lower Berkshire Valley CDP,Lower Berkshire Valley,Lower Berkshire Valley,34027,Morris County,Census-designated place,40.912183,-74.614014,1
+NJ,3442180,place:NJ:3442180,Lyons CDP,Lyons,Lyons,34035,Somerset County,Census-designated place,40.680768,-74.548442,1
+NJ,3442450,place:NJ:3442450,Macopin CDP,Macopin,Macopin,34031,Passaic County,Census-designated place,41.026869,-74.38004,1
+NJ,3442510,place:NJ:3442510,Madison borough,Madison,Madison,34027,Morris County,Incorporated place,40.758044,-74.417807,1
+NJ,3442540,place:NJ:3442540,Madison Park CDP,Madison Park,Madison Park,34023,Middlesex County,Census-designated place,40.445982,-74.296471,1
+NJ,3442630,place:NJ:3442630,Magnolia borough,Magnolia,Magnolia,34007,Camden County,Incorporated place,39.856195,-75.036397,1
+NJ,3442840,place:NJ:3442840,Malaga CDP,Malaga,Malaga,34015,Gloucester County,Census-designated place,39.579668,-75.056375,1
+NJ,3442930,place:NJ:3442930,Manahawkin CDP,Manahawkin,Manahawkin,34029,Ocean County,Census-designated place,39.689943,-74.242653,1
+NJ,3443050,place:NJ:3443050,Manasquan borough,Manasquan,Manasquan,34025,Monmouth County,Incorporated place,40.112421,-74.038159,1
+NJ,3443380,place:NJ:3443380,Mantoloking borough,Mantoloking,Mantoloking,34029,Ocean County,Incorporated place,40.057109,-74.047326,1
+NJ,3443620,place:NJ:3443620,Manville borough,Manville,Manville,34035,Somerset County,Incorporated place,40.541269,-74.589273,1
+NJ,3443890,place:NJ:3443890,Margate City city,Margate City,Margate City,34001,Atlantic County,Incorporated place,39.330913,-74.506849,1
+NJ,3443980,place:NJ:3443980,Marksboro CDP,Marksboro,Marksboro,34041,Warren County,Census-designated place,40.980254,-74.902774,1
+NJ,3444010,place:NJ:3444010,Marlboro CDP,Marlboro,Marlboro,34011,Cumberland County,Census-designated place,39.487078,-75.324578,1
+NJ,3444100,place:NJ:3444100,Marlton CDP,Marlton,Marlton,34005,Burlington County,Census-designated place,39.901885,-74.929277,1
+NJ,3444280,place:NJ:3444280,Marmora CDP,Marmora,Marmora,34009,Cape May County,Census-designated place,39.2586,-74.657497,1
+NJ,3444345,place:NJ:3444345,Marshallville CDP,Marshallville,Marshallville,34009,Cape May County,Census-designated place,39.292681,-74.770462,1
+NJ,3444430,place:NJ:3444430,Martinsville CDP,Martinsville,Martinsville,34035,Somerset County,Census-designated place,40.602969,-74.575789,1
+NJ,3444520,place:NJ:3444520,Matawan borough,Matawan,Matawan,34025,Monmouth County,Incorporated place,40.411042,-74.236534,1
+NJ,3444670,place:NJ:3444670,Mauricetown CDP,Mauricetown,Mauricetown,34011,Cumberland County,Census-designated place,39.292451,-75.007481,1
+NJ,3444820,place:NJ:3444820,Mays Landing CDP,Mays Landing,Mays Landing,34001,Atlantic County,Census-designated place,39.452218,-74.708332,1
+NJ,3444880,place:NJ:3444880,Maywood borough,Maywood,Maywood,34003,Bergen County,Incorporated place,40.902885,-74.063457,1
+NJ,3442390,place:NJ:3442390,McGuire AFB CDP,McGuire AFB,McGuire AFB,34005,Burlington County,Census-designated place,40.027985,-74.587819,1
+NJ,3442420,place:NJ:3442420,McKee City CDP,McKee City,McKee City,34001,Atlantic County,Census-designated place,39.443824,-74.651871,1
+NJ,3445210,place:NJ:3445210,Medford Lakes borough,Medford Lakes,Medford Lakes,34005,Burlington County,Incorporated place,39.853649,-74.811665,1
+NJ,3445330,place:NJ:3445330,Mendham borough,Mendham,Mendham,34027,Morris County,Incorporated place,40.76729,-74.597766,1
+NJ,3445450,place:NJ:3445450,Menlo Park Terrace CDP,Menlo Park Terrace,Menlo Park Terrace,34023,Middlesex County,Census-designated place,40.553407,-74.324265,1
+NJ,3445480,place:NJ:3445480,Mercerville CDP,Mercerville,Mercerville,34021,Mercer County,Census-designated place,40.235832,-74.692254,1
+NJ,3445510,place:NJ:3445510,Merchantville borough,Merchantville,Merchantville,34007,Camden County,Incorporated place,39.950222,-75.050337,1
+NJ,3445690,place:NJ:3445690,Metuchen borough,Metuchen,Metuchen,34023,Middlesex County,Incorporated place,40.542445,-74.362767,1
+NJ,3445780,place:NJ:3445780,Mickleton CDP,Mickleton,Mickleton,34015,Gloucester County,Census-designated place,39.79105,-75.246173,1
+NJ,3445870,place:NJ:3445870,Middlebush CDP,Middlebush,Middlebush,34035,Somerset County,Census-designated place,40.502043,-74.535378,1
+NJ,3445900,place:NJ:3445900,Middlesex borough,Middlesex,Middlesex,34023,Middlesex County,Incorporated place,40.574317,-74.498683,1
+NJ,3446110,place:NJ:3446110,Midland Park borough,Midland Park,Midland Park,34003,Bergen County,Incorporated place,40.995809,-74.141262,1
+NJ,3446260,place:NJ:3446260,Milford borough,Milford,Milford,34019,Hunterdon County,Incorporated place,40.573483,-75.089702,1
+NJ,3446470,place:NJ:3446470,Millington CDP,Millington,Millington,34027,Morris County,Census-designated place,40.675044,-74.514786,1
+NJ,3446590,place:NJ:3446590,Millstone borough,Millstone,Millstone,34035,Somerset County,Incorporated place,40.499868,-74.595529,1
+NJ,3446620,place:NJ:3446620,Milltown borough,Milltown,Milltown,34023,Middlesex County,Incorporated place,40.450223,-74.434786,1
+NJ,3446680,place:NJ:3446680,Millville city,Millville,Millville,34011,Cumberland County,Incorporated place,39.390093,-75.054797,1
+NJ,3446710,place:NJ:3446710,Milmay CDP,Milmay,Milmay,34001,Atlantic County,Census-designated place,39.438741,-74.867646,1
+NJ,3446980,place:NJ:3446980,Mizpah CDP,Mizpah,Mizpah,34001,Atlantic County,Census-designated place,39.481879,-74.838324,1
+NJ,3447006,place:NJ:3447006,Money Island CDP,Money Island,Money Island,34011,Cumberland County,Census-designated place,39.287626,-75.235145,1
+NJ,3447130,place:NJ:3447130,Monmouth Beach borough,Monmouth Beach,Monmouth Beach,34025,Monmouth County,Incorporated place,40.335895,-73.985608,1
+NJ,3447190,place:NJ:3447190,Monmouth Junction CDP,Monmouth Junction,Monmouth Junction,34023,Middlesex County,Census-designated place,40.376068,-74.557923,1
+NJ,3447380,place:NJ:3447380,Monroe Manor CDP,Monroe Manor,Monroe Manor,34023,Middlesex County,Census-designated place,40.25902,-74.474279,1
+NJ,3447524,place:NJ:3447524,Montclair State University CDP,Montclair State University,Montclair State University,34031,Passaic County,Census-designated place,40.865917,-74.198359,1
+NJ,3447610,place:NJ:3447610,Montvale borough,Montvale,Montvale,34003,Bergen County,Incorporated place,41.054594,-74.047298,1
+NJ,3447700,place:NJ:3447700,Moonachie borough,Moonachie,Moonachie,34003,Bergen County,Incorporated place,40.841334,-74.057671,1
+NJ,3447895,place:NJ:3447895,Moorestown-Lenola CDP,Moorestown-Lenola,Moorestown-Lenola,34005,Burlington County,Census-designated place,39.966115,-74.961557,1
+NJ,3448030,place:NJ:3448030,Morganville CDP,Morganville,Morganville,34025,Monmouth County,Census-designated place,40.376053,-74.232607,1
+NJ,3448210,place:NJ:3448210,Morris Plains borough,Morris Plains,Morris Plains,34027,Morris County,Incorporated place,40.838513,-74.474064,1
+NJ,3448300,place:NJ:3448300,Morristown town,Morristown,Morristown,34027,Morris County,Incorporated place,40.796562,-74.477318,1
+NJ,3448690,place:NJ:3448690,Mount Arlington borough,Mount Arlington,Mount Arlington,34027,Morris County,Incorporated place,40.920751,-74.640791,1
+NJ,3448750,place:NJ:3448750,Mount Ephraim borough,Mount Ephraim,Mount Ephraim,34007,Camden County,Incorporated place,39.879524,-75.091814,1
+NJ,3448840,place:NJ:3448840,Mount Hermon CDP,Mount Hermon,Mount Hermon,34041,Warren County,Census-designated place,40.9184,-74.994296,1
+NJ,3448930,place:NJ:3448930,Mount Hope CDP,Mount Hope,Mount Hope,34027,Morris County,Census-designated place,40.919778,-74.550907,1
+NJ,3449200,place:NJ:3449200,Mount Royal CDP,Mount Royal,Mount Royal,34015,Gloucester County,Census-designated place,39.809972,-75.214703,1
+NJ,3449290,place:NJ:3449290,Mount Tabor CDP,Mount Tabor,Mount Tabor,34027,Morris County,Census-designated place,40.872145,-74.473252,1
+NJ,3448450,place:NJ:3448450,Mountain Lake CDP,Mountain Lake,Mountain Lake,34041,Warren County,Census-designated place,40.859796,-74.987571,1
+NJ,3448480,place:NJ:3448480,Mountain Lakes borough,Mountain Lakes,Mountain Lakes,34027,Morris County,Incorporated place,40.886791,-74.441682,1
+NJ,3448510,place:NJ:3448510,Mountainside borough,Mountainside,Mountainside,34039,Union County,Incorporated place,40.680722,-74.360292,1
+NJ,3449440,place:NJ:3449440,Mullica Hill CDP,Mullica Hill,Mullica Hill,34015,Gloucester County,Census-designated place,39.720694,-75.210108,1
+NJ,3449560,place:NJ:3449560,Mystic Island CDP,Mystic Island,Mystic Island,34029,Ocean County,Census-designated place,39.565639,-74.382363,1
+NJ,3449680,place:NJ:3449680,National Park borough,National Park,National Park,34015,Gloucester County,Incorporated place,39.867297,-75.185621,1
+NJ,3449740,place:NJ:3449740,Navesink CDP,Navesink,Navesink,34025,Monmouth County,Census-designated place,40.400292,-74.044811,1
+NJ,3449920,place:NJ:3449920,Neptune City borough,Neptune City,Neptune City,34025,Monmouth County,Incorporated place,40.20047,-74.033331,1
+NJ,3450010,place:NJ:3450010,Nesco CDP,Nesco,Nesco,34001,Atlantic County,Census-designated place,39.642642,-74.689601,1
+NJ,3450040,place:NJ:3450040,Neshanic CDP,Neshanic,Neshanic,34035,Somerset County,Census-designated place,40.5054,-74.712026,1
+NJ,3450100,place:NJ:3450100,Neshanic Station CDP,Neshanic Station,Neshanic Station,34035,Somerset County,Census-designated place,40.52827,-74.735443,1
+NJ,3450130,place:NJ:3450130,Netcong borough,Netcong,Netcong,34027,Morris County,Incorporated place,40.899232,-74.700823,1
+NJ,3451210,place:NJ:3451210,New Brunswick city,New Brunswick,New Brunswick,34023,Middlesex County,Incorporated place,40.486677,-74.444414,1
+NJ,3451360,place:NJ:3451360,New Egypt CDP,New Egypt,New Egypt,34029,Ocean County,Census-designated place,40.065145,-74.527063,1
+NJ,3451450,place:NJ:3451450,New Gretna CDP,New Gretna,New Gretna,34005,Burlington County,Census-designated place,39.587944,-74.454174,1
+NJ,3451660,place:NJ:3451660,New Milford borough,New Milford,New Milford,34003,Bergen County,Incorporated place,40.934161,-74.019453,1
+NJ,3451810,place:NJ:3451810,New Providence borough,New Providence,New Providence,34039,Union County,Incorporated place,40.69889,-74.406623,1
+NJ,3452020,place:NJ:3452020,New Vernon CDP,New Vernon,New Vernon,34027,Morris County,Census-designated place,40.738899,-74.480434,1
+NJ,3452050,place:NJ:3452050,New Village CDP,New Village,New Village,34041,Warren County,Census-designated place,40.718409,-75.077244,1
+NJ,3451000,place:NJ:3451000,Newark city,Newark,Newark,34013,Essex County,Incorporated place,40.72422,-74.172574,1
+NJ,3451390,place:NJ:3451390,Newfield borough,Newfield,Newfield,34015,Gloucester County,Incorporated place,39.551041,-75.010217,1
+NJ,3451420,place:NJ:3451420,Newfoundland CDP,Newfoundland,Newfoundland,34031,Passaic County,Census-designated place,41.054617,-74.430142,1
+NJ,3451750,place:NJ:3451750,Newport CDP,Newport,Newport,34011,Cumberland County,Census-designated place,39.291502,-75.169809,1
+NJ,3451930,place:NJ:3451930,Newton town,Newton,Newton,34037,Sussex County,Incorporated place,41.051492,-74.753285,1
+NJ,3451990,place:NJ:3451990,Newtonville CDP,Newtonville,Newtonville,34001,Atlantic County,Census-designated place,39.563288,-74.855927,1
+NJ,3452320,place:NJ:3452320,North Arlington borough,North Arlington,North Arlington,34003,Bergen County,Incorporated place,40.786256,-74.12622,1
+NJ,3452410,place:NJ:3452410,North Beach Haven CDP,North Beach Haven,North Beach Haven,34029,Ocean County,Census-designated place,39.600436,-74.211621,1
+NJ,3452620,place:NJ:3452620,North Caldwell borough,North Caldwell,North Caldwell,34013,Essex County,Incorporated place,40.8645,-74.259996,1
+NJ,3452650,place:NJ:3452650,North Cape May CDP,North Cape May,North Cape May,34009,Cape May County,Census-designated place,38.980849,-74.951024,1
+NJ,3453040,place:NJ:3453040,North Haledon borough,North Haledon,North Haledon,34031,Passaic County,Incorporated place,40.963618,-74.185281,1
+NJ,3453205,place:NJ:3453205,North Middletown CDP,North Middletown,North Middletown,34025,Monmouth County,Census-designated place,40.438988,-74.118521,1
+NJ,3453280,place:NJ:3453280,North Plainfield borough,North Plainfield,North Plainfield,34035,Somerset County,Incorporated place,40.621255,-74.439466,1
+NJ,3453490,place:NJ:3453490,North Wildwood city,North Wildwood,North Wildwood,34009,Cape May County,Incorporated place,39.005944,-74.797505,1
+NJ,3452950,place:NJ:3452950,Northfield city,Northfield,Northfield,34001,Atlantic County,Incorporated place,39.373073,-74.554128,1
+NJ,3453430,place:NJ:3453430,Northvale borough,Northvale,Northvale,34003,Bergen County,Incorporated place,41.014523,-73.948769,1
+NJ,3453610,place:NJ:3453610,Norwood borough,Norwood,Norwood,34003,Bergen County,Incorporated place,40.987716,-73.948694,1
+NJ,3453910,place:NJ:3453910,Oak Ridge CDP,Oak Ridge,Oak Ridge,34027,Morris County,Census-designated place,41.026227,-74.505677,1
+NJ,3454060,place:NJ:3454060,Oak Valley CDP,Oak Valley,Oak Valley,34015,Gloucester County,Census-designated place,39.806271,-75.158815,1
+NJ,3453790,place:NJ:3453790,Oakhurst CDP,Oakhurst,Oakhurst,34025,Monmouth County,Census-designated place,40.261486,-74.02655,1
+NJ,3453850,place:NJ:3453850,Oakland borough,Oakland,Oakland,34003,Bergen County,Incorporated place,41.031022,-74.240502,1
+NJ,3453880,place:NJ:3453880,Oaklyn borough,Oaklyn,Oaklyn,34007,Camden County,Incorporated place,39.9023,-75.080573,1
+NJ,3454315,place:NJ:3454315,Ocean Acres CDP,Ocean Acres,Ocean Acres,34029,Ocean County,Census-designated place,39.742013,-74.281061,1
+NJ,3454360,place:NJ:3454360,Ocean City city,Ocean City,Ocean City,34009,Cape May County,Incorporated place,39.269294,-74.601359,1
+NJ,3454450,place:NJ:3454450,Ocean Gate borough,Ocean Gate,Ocean Gate,34029,Ocean County,Incorporated place,39.926453,-74.134759,1
+NJ,3454480,place:NJ:3454480,Ocean Grove CDP,Ocean Grove,Ocean Grove,34025,Monmouth County,Census-designated place,40.21182,-74.006944,1
+NJ,3454600,place:NJ:3454600,Ocean View CDP,Ocean View,Ocean View,34009,Cape May County,Census-designated place,39.201258,-74.743672,1
+NJ,3454570,place:NJ:3454570,Oceanport borough,Oceanport,Oceanport,34025,Monmouth County,Incorporated place,40.315158,-74.017595,1
+NJ,3454630,place:NJ:3454630,Oceanville CDP,Oceanville,Oceanville,34001,Atlantic County,Census-designated place,39.481999,-74.452637,1
+NJ,3454660,place:NJ:3454660,Ogdensburg borough,Ogdensburg,Ogdensburg,34037,Sussex County,Incorporated place,41.08009,-74.597626,1
+NJ,3454690,place:NJ:3454690,Old Bridge CDP,Old Bridge,Old Bridge,34023,Middlesex County,Census-designated place,40.395367,-74.331185,1
+NJ,3454870,place:NJ:3454870,Old Tappan borough,Old Tappan,Old Tappan,34003,Bergen County,Incorporated place,41.023305,-73.984223,1
+NJ,3454900,place:NJ:3454900,Oldwick CDP,Oldwick,Oldwick,34019,Hunterdon County,Census-designated place,40.66746,-74.739447,1
+NJ,3454960,place:NJ:3454960,Olivet CDP,Olivet,Olivet,34033,Salem County,Census-designated place,39.538101,-75.176334,1
+NJ,3454990,place:NJ:3454990,Oradell borough,Oradell,Oradell,34003,Bergen County,Incorporated place,40.956653,-74.032862,1
+NJ,3455320,place:NJ:3455320,Othello CDP,Othello,Othello,34011,Cumberland County,Census-designated place,39.409983,-75.342047,1
+NJ,3455500,place:NJ:3455500,Oxford CDP,Oxford,Oxford,34041,Warren County,Census-designated place,40.804851,-74.997317,1
+NJ,3455620,place:NJ:3455620,Packanack Lake CDP,Packanack Lake,Packanack Lake,34031,Passaic County,Census-designated place,40.938537,-74.255839,1
+NJ,3455710,place:NJ:3455710,Palermo CDP,Palermo,Palermo,34009,Cape May County,Census-designated place,39.233626,-74.685809,1
+NJ,3455770,place:NJ:3455770,Palisades Park borough,Palisades Park,Palisades Park,34003,Bergen County,Incorporated place,40.847017,-73.997061,1
+NJ,3455800,place:NJ:3455800,Palmyra borough,Palmyra,Palmyra,34005,Burlington County,Incorporated place,40.003099,-75.035889,1
+NJ,3455895,place:NJ:3455895,Panther Valley CDP,Panther Valley,Panther Valley,34041,Warren County,Census-designated place,40.908574,-74.842726,1
+NJ,3455950,place:NJ:3455950,Paramus borough,Paramus,Paramus,34003,Bergen County,Incorporated place,40.947299,-74.070169,1
+NJ,3456130,place:NJ:3456130,Park Ridge borough,Park Ridge,Park Ridge,34003,Bergen County,Incorporated place,41.036183,-74.044293,1
+NJ,3456430,place:NJ:3456430,Parsippany CDP,Parsippany,Parsippany,34027,Morris County,Census-designated place,40.864056,-74.41237,1
+NJ,3456550,place:NJ:3456550,Passaic city,Passaic,Passaic,34031,Passaic County,Incorporated place,40.857552,-74.129089,1
+NJ,3457000,place:NJ:3457000,Paterson city,Paterson,Paterson,34031,Passaic County,Incorporated place,40.914766,-74.162829,1
+NJ,3457150,place:NJ:3457150,Paulsboro borough,Paulsboro,Paulsboro,34015,Gloucester County,Incorporated place,39.839975,-75.23996,1
+NJ,3457300,place:NJ:3457300,Peapack and Gladstone borough,Peapack and Gladstone,Peapack and Gladstone,34035,Somerset County,Incorporated place,40.703564,-74.652178,1
+NJ,3457360,place:NJ:3457360,Pedricktown CDP,Pedricktown,Pedricktown,34033,Salem County,Census-designated place,39.766365,-75.407605,1
+NJ,3457480,place:NJ:3457480,Pemberton borough,Pemberton,Pemberton,34005,Burlington County,Incorporated place,39.973612,-74.686859,1
+NJ,3457540,place:NJ:3457540,Pemberton Heights CDP,Pemberton Heights,Pemberton Heights,34005,Burlington County,Census-designated place,39.957897,-74.674977,1
+NJ,3457600,place:NJ:3457600,Pennington borough,Pennington,Pennington,34021,Mercer County,Incorporated place,40.324923,-74.78878,1
+NJ,3457750,place:NJ:3457750,Penns Grove borough,Penns Grove,Penns Grove,34033,Salem County,Incorporated place,39.727704,-75.469035,1
+NJ,3457840,place:NJ:3457840,Pennsville CDP,Pennsville,Pennsville,34033,Salem County,Census-designated place,39.654865,-75.498685,1
+NJ,3458200,place:NJ:3458200,Perth Amboy city,Perth Amboy,Perth Amboy,34023,Middlesex County,Incorporated place,40.52016,-74.271331,1
+NJ,3458350,place:NJ:3458350,Phillipsburg town,Phillipsburg,Phillipsburg,34041,Warren County,Incorporated place,40.691974,-75.179006,1
+NJ,3458590,place:NJ:3458590,Pine Beach borough,Pine Beach,Pine Beach,34029,Ocean County,Incorporated place,39.936058,-74.169789,1
+NJ,3458650,place:NJ:3458650,Pine Brook CDP,Pine Brook,Pine Brook,34027,Morris County,Census-designated place,40.866969,-74.341339,1
+NJ,3458770,place:NJ:3458770,Pine Hill borough,Pine Hill,Pine Hill,34007,Camden County,Incorporated place,39.785133,-74.97245,1
+NJ,3458830,place:NJ:3458830,Pine Lake Park CDP,Pine Lake Park,Pine Lake Park,34029,Ocean County,Census-designated place,40.001605,-74.258977,1
+NJ,3458852,place:NJ:3458852,Pine Ridge at Crestwood CDP,Pine Ridge at Crestwood,Pine Ridge at Crestwood,34029,Ocean County,Census-designated place,39.961515,-74.31208,1
+NJ,3458860,place:NJ:3458860,Pines Lake CDP,Pines Lake,Pines Lake,34031,Passaic County,Census-designated place,40.998672,-74.263775,1
+NJ,3459070,place:NJ:3459070,Pitman borough,Pitman,Pitman,34015,Gloucester County,Incorporated place,39.733094,-75.129673,1
+NJ,3459190,place:NJ:3459190,Plainfield city,Plainfield,Plainfield,34039,Union County,Incorporated place,40.615444,-74.415775,1
+NJ,3459285,place:NJ:3459285,Plainsboro Center CDP,Plainsboro Center,Plainsboro Center,34023,Middlesex County,Census-designated place,40.331172,-74.591732,1
+NJ,3459500,place:NJ:3459500,Pleasant Plains CDP,Pleasant Plains,Pleasant Plains,34035,Somerset County,Census-designated place,40.451016,-74.573103,1
+NJ,3459385,place:NJ:3459385,Pleasantdale CDP,Pleasantdale,Pleasantdale,34013,Essex County,Census-designated place,40.804002,-74.274636,1
+NJ,3459640,place:NJ:3459640,Pleasantville city,Pleasantville,Pleasantville,34001,Atlantic County,Incorporated place,39.388524,-74.509419,1
+NJ,3459730,place:NJ:3459730,Pluckemin CDP,Pluckemin,Pluckemin,34035,Somerset County,Census-designated place,40.645258,-74.634631,1
+NJ,3459880,place:NJ:3459880,Point Pleasant borough,Point Pleasant,Point Pleasant,34029,Ocean County,Incorporated place,40.077748,-74.069921,1
+NJ,3459910,place:NJ:3459910,Point Pleasant Beach borough,Point Pleasant Beach,Point Pleasant Beach,34029,Ocean County,Incorporated place,40.092566,-74.045173,1
+NJ,3460030,place:NJ:3460030,Pomona CDP,Pomona,Pomona,34001,Atlantic County,Census-designated place,39.468784,-74.550191,1
+NJ,3460090,place:NJ:3460090,Pompton Lakes borough,Pompton Lakes,Pompton Lakes,34031,Passaic County,Incorporated place,41.002734,-74.286742,1
+NJ,3460120,place:NJ:3460120,Pompton Plains CDP,Pompton Plains,Pompton Plains,34027,Morris County,Census-designated place,40.966633,-74.304545,1
+NJ,3460210,place:NJ:3460210,Port Colden CDP,Port Colden,Port Colden,34041,Warren County,Census-designated place,40.768955,-74.952999,1
+NJ,3460240,place:NJ:3460240,Port Elizabeth CDP,Port Elizabeth,Port Elizabeth,34011,Cumberland County,Census-designated place,39.309933,-74.971365,1
+NJ,3460360,place:NJ:3460360,Port Monmouth CDP,Port Monmouth,Port Monmouth,34025,Monmouth County,Census-designated place,40.434236,-74.100665,1
+NJ,3460390,place:NJ:3460390,Port Morris CDP,Port Morris,Port Morris,34027,Morris County,Census-designated place,40.906261,-74.684096,1
+NJ,3460450,place:NJ:3460450,Port Murray CDP,Port Murray,Port Murray,34041,Warren County,Census-designated place,40.792772,-74.926694,1
+NJ,3460510,place:NJ:3460510,Port Norris CDP,Port Norris,Port Norris,34011,Cumberland County,Census-designated place,39.264562,-75.041924,1
+NJ,3460540,place:NJ:3460540,Port Reading CDP,Port Reading,Port Reading,34023,Middlesex County,Census-designated place,40.567398,-74.244896,1
+NJ,3460600,place:NJ:3460600,Port Republic city,Port Republic,Port Republic,34001,Atlantic County,Incorporated place,39.534798,-74.476099,1
+NJ,3460750,place:NJ:3460750,Pottersville CDP,Pottersville,Pottersville,34019,Hunterdon County,Census-designated place,40.713641,-74.725684,1
+NJ,3460810,place:NJ:3460810,Preakness CDP,Preakness,Preakness,34031,Passaic County,Census-designated place,40.93821,-74.224894,1
+NJ,3460840,place:NJ:3460840,Presidential Lakes Estates CDP,Presidential Lakes Estates,Presidential Lakes Estates,34005,Burlington County,Census-designated place,39.914955,-74.563509,1
+NJ,3460900,place:NJ:3460900,Princeton,Princeton,Princeton,34021,Mercer County,Incorporated place,40.358244,-74.666728,1
+NJ,3460960,place:NJ:3460960,Princeton Junction CDP,Princeton Junction,Princeton Junction,34021,Mercer County,Census-designated place,40.323117,-74.621791,1
+NJ,3460975,place:NJ:3460975,Princeton Meadows CDP,Princeton Meadows,Princeton Meadows,34023,Middlesex County,Census-designated place,40.335587,-74.564762,1
+NJ,3461170,place:NJ:3461170,Prospect Park borough,Prospect Park,Prospect Park,34031,Passaic County,Incorporated place,40.941332,-74.174067,1
+NJ,3461440,place:NJ:3461440,Quinton CDP,Quinton,Quinton,34033,Salem County,Census-designated place,39.547478,-75.410915,1
+NJ,3461530,place:NJ:3461530,Rahway city,Rahway,Rahway,34039,Union County,Incorporated place,40.607152,-74.280531,1
+NJ,3461560,place:NJ:3461560,Rainbow Lakes CDP,Rainbow Lakes,Rainbow Lakes,34027,Morris County,Census-designated place,40.874205,-74.455724,1
+NJ,3461632,place:NJ:3461632,Ramapo College of New Jersey CDP,Ramapo College of New Jersey,Ramapo College of New Jersey,34003,Bergen County,Census-designated place,41.08082,-74.17412,1
+NJ,3461650,place:NJ:3461650,Ramblewood CDP,Ramblewood,Ramblewood,34005,Burlington County,Census-designated place,39.932045,-74.95278,1
+NJ,3461680,place:NJ:3461680,Ramsey borough,Ramsey,Ramsey,34003,Bergen County,Incorporated place,41.061325,-74.146996,1
+NJ,3461725,place:NJ:3461725,Ramtown CDP,Ramtown,Ramtown,34025,Monmouth County,Census-designated place,40.114712,-74.150158,1
+NJ,3461980,place:NJ:3461980,Raritan borough,Raritan,Raritan,34035,Somerset County,Incorporated place,40.571344,-74.653346,1
+NJ,3462430,place:NJ:3462430,Red Bank borough,Red Bank,Red Bank,34025,Monmouth County,Incorporated place,40.348722,-74.066528,1
+NJ,3462585,place:NJ:3462585,Regency at Monroe CDP,Regency at Monroe,Regency at Monroe,34023,Middlesex County,Census-designated place,40.320866,-74.38626,1
+NJ,3462605,place:NJ:3462605,Renaissance at Monroe CDP,Renaissance at Monroe,Renaissance at Monroe,34023,Middlesex County,Census-designated place,40.263447,-74.480702,1
+NJ,3462790,place:NJ:3462790,Richland CDP,Richland,Richland,34001,Atlantic County,Census-designated place,39.490666,-74.889014,1
+NJ,3462820,place:NJ:3462820,Richwood CDP,Richwood,Richwood,34015,Gloucester County,Census-designated place,39.716021,-75.172451,1
+NJ,3462910,place:NJ:3462910,Ridgefield borough,Ridgefield,Ridgefield,34003,Bergen County,Incorporated place,40.829055,-74.015478,1
+NJ,3462940,place:NJ:3462940,Ridgefield Park village,Ridgefield Park,Ridgefield Park,34003,Bergen County,Incorporated place,40.854705,-74.019926,1
+NJ,3463000,place:NJ:3463000,Ridgewood village,Ridgewood,Ridgewood,34003,Bergen County,Incorporated place,40.98186,-74.113456,1
+NJ,3463120,place:NJ:3463120,Ringoes CDP,Ringoes,Ringoes,34019,Hunterdon County,Census-designated place,40.430883,-74.871795,1
+NJ,3463150,place:NJ:3463150,Ringwood borough,Ringwood,Ringwood,34031,Passaic County,Incorporated place,41.103963,-74.271138,1
+NJ,3463180,place:NJ:3463180,Rio Grande CDP,Rio Grande,Rio Grande,34009,Cape May County,Census-designated place,39.020027,-74.877097,1
+NJ,3463360,place:NJ:3463360,River Edge borough,River Edge,River Edge,34003,Bergen County,Incorporated place,40.927029,-74.038426,1
+NJ,3463300,place:NJ:3463300,Riverdale borough,Riverdale,Riverdale,34027,Morris County,Incorporated place,40.996078,-74.314809,1
+NJ,3463660,place:NJ:3463660,Riverton borough,Riverton,Riverton,34005,Burlington County,Incorporated place,40.011135,-75.014128,1
+NJ,3463810,place:NJ:3463810,Roadstown CDP,Roadstown,Roadstown,34011,Cumberland County,Census-designated place,39.443184,-75.316784,1
+NJ,3463858,place:NJ:3463858,Robbinsville Center CDP,Robbinsville Center,Robbinsville Center,34021,Mercer County,Census-designated place,40.219971,-74.630225,1
+NJ,3463900,place:NJ:3463900,Robertsville CDP,Robertsville,Robertsville,34025,Monmouth County,Census-designated place,40.338193,-74.296733,1
+NJ,3464050,place:NJ:3464050,Rockaway borough,Rockaway,Rockaway,34027,Morris County,Incorporated place,40.895853,-74.517323,1
+NJ,3464170,place:NJ:3464170,Rockleigh borough,Rockleigh,Rockleigh,34003,Bergen County,Incorporated place,41.000241,-73.934068,1
+NJ,3464320,place:NJ:3464320,Rocky Hill borough,Rocky Hill,Rocky Hill,34035,Somerset County,Incorporated place,40.400347,-74.638922,1
+NJ,3464350,place:NJ:3464350,Roebling CDP,Roebling,Roebling,34005,Burlington County,Census-designated place,40.117217,-74.777844,1
+NJ,3464410,place:NJ:3464410,Roosevelt borough,Roosevelt,Roosevelt,34025,Monmouth County,Incorporated place,40.220742,-74.470155,1
+NJ,3464590,place:NJ:3464590,Roseland borough,Roseland,Roseland,34013,Essex County,Incorporated place,40.82121,-74.310473,1
+NJ,3464620,place:NJ:3464620,Roselle borough,Roselle,Roselle,34039,Union County,Incorporated place,40.652211,-74.260158,1
+NJ,3464650,place:NJ:3464650,Roselle Park borough,Roselle Park,Roselle Park,34039,Union County,Incorporated place,40.665309,-74.266558,1
+NJ,3464740,place:NJ:3464740,Rosenhayn CDP,Rosenhayn,Rosenhayn,34011,Cumberland County,Census-designated place,39.478674,-75.137962,1
+NJ,3464860,place:NJ:3464860,Ross Corner CDP,Ross Corner,Ross Corner,34037,Sussex County,Census-designated place,41.1286,-74.714872,1
+NJ,3464865,place:NJ:3464865,Rossmoor CDP,Rossmoor,Rossmoor,34023,Middlesex County,Census-designated place,40.33475,-74.470092,1
+NJ,3465130,place:NJ:3465130,Rumson borough,Rumson,Rumson,34025,Monmouth County,Incorporated place,40.362067,-74.00451,1
+NJ,3465160,place:NJ:3465160,Runnemede borough,Runnemede,Runnemede,34007,Camden County,Incorporated place,39.853411,-75.075502,1
+NJ,3465249,place:NJ:3465249,Rutgers University-Busch Campus CDP,Rutgers University-Busch Campus,Rutgers University-Busch Campus,34023,Middlesex County,Census-designated place,40.519602,-74.467483,1
+NJ,3465260,place:NJ:3465260,Rutgers University-Livingston Campus CDP,Rutgers University-Livingston Campus,Rutgers University-Livingston Campus,34023,Middlesex County,Census-designated place,40.518012,-74.444891,1
+NJ,3465280,place:NJ:3465280,Rutherford borough,Rutherford,Rutherford,34003,Bergen County,Incorporated place,40.820314,-74.106041,1
+NJ,3465400,place:NJ:3465400,Saddle River borough,Saddle River,Saddle River,34003,Bergen County,Incorporated place,41.023696,-74.092553,1
+NJ,3465490,place:NJ:3465490,Salem city,Salem,Salem,34033,Salem County,Incorporated place,39.568236,-75.472553,1
+NJ,3465790,place:NJ:3465790,Sayreville borough,Sayreville,Sayreville,34023,Middlesex County,Incorporated place,40.466549,-74.324897,1
+NJ,3466240,place:NJ:3466240,Sea Bright borough,Sea Bright,Sea Bright,34025,Monmouth County,Incorporated place,40.351914,-73.980801,1
+NJ,3466330,place:NJ:3466330,Sea Girt borough,Sea Girt,Sea Girt,34025,Monmouth County,Incorporated place,40.130499,-74.033843,1
+NJ,3466390,place:NJ:3466390,Sea Isle City city,Sea Isle City,Sea Isle City,34009,Cape May County,Incorporated place,39.150781,-74.702732,1
+NJ,3466300,place:NJ:3466300,Seabrook Farms CDP,Seabrook Farms,Seabrook Farms,34011,Cumberland County,Census-designated place,39.501155,-75.220355,1
+NJ,3466450,place:NJ:3466450,Seaside Heights borough,Seaside Heights,Seaside Heights,34029,Ocean County,Incorporated place,39.944912,-74.07829,1
+NJ,3466480,place:NJ:3466480,Seaside Park borough,Seaside Park,Seaside Park,34029,Ocean County,Incorporated place,39.926369,-74.078711,1
+NJ,3466540,place:NJ:3466540,Seaville CDP,Seaville,Seaville,34009,Cape May County,Census-designated place,39.207204,-74.715993,1
+NJ,3466570,place:NJ:3466570,Secaucus town,Secaucus,Secaucus,34017,Hudson County,Incorporated place,40.781779,-74.067189,1
+NJ,3466615,place:NJ:3466615,Seeley CDP,Seeley,Seeley,34011,Cumberland County,Census-designated place,39.483349,-75.241159,1
+NJ,3466720,place:NJ:3466720,Sewaren CDP,Sewaren,Sewaren,34023,Middlesex County,Census-designated place,40.542851,-74.256736,1
+NJ,3466750,place:NJ:3466750,Sewell CDP,Sewell,Sewell,34015,Gloucester County,Census-designated place,39.769203,-75.144697,1
+NJ,3466840,place:NJ:3466840,Shark River Hills CDP,Shark River Hills,Shark River Hills,34025,Monmouth County,Census-designated place,40.192293,-74.047409,1
+NJ,3466970,place:NJ:3466970,Sheppards Mill CDP,Sheppards Mill,Sheppards Mill,34011,Cumberland County,Census-designated place,39.412445,-75.313673,1
+NJ,3467020,place:NJ:3467020,Shiloh borough,Shiloh,Shiloh,34011,Cumberland County,Incorporated place,39.462418,-75.29244,1
+NJ,3467110,place:NJ:3467110,Ship Bottom borough,Ship Bottom,Ship Bottom,34029,Ocean County,Incorporated place,39.645354,-74.183003,1
+NJ,3467320,place:NJ:3467320,Short Hills CDP,Short Hills,Short Hills,34013,Essex County,Census-designated place,40.739157,-74.327442,1
+NJ,3467350,place:NJ:3467350,Shrewsbury borough,Shrewsbury,Shrewsbury,34025,Monmouth County,Incorporated place,40.32645,-74.057373,1
+NJ,3467470,place:NJ:3467470,Sicklerville CDP,Sicklerville,Sicklerville,34007,Camden County,Census-designated place,39.742512,-74.990234,1
+NJ,3467583,place:NJ:3467583,Silver Lake CDP,Silver Lake,"Silver Lake, Cumberland County",34011,Cumberland County,Census-designated place,39.468475,-75.239822,1
+NJ,3467590,place:NJ:3467590,Silver Lake CDP,Silver Lake,"Silver Lake, Essex County",34013,Essex County,Census-designated place,40.780435,-74.182815,1
+NJ,3467650,place:NJ:3467650,Silver Lake CDP,Silver Lake,"Silver Lake, Warren County",34041,Warren County,Census-designated place,40.932116,-74.950432,1
+NJ,3467665,place:NJ:3467665,Silver Ridge CDP,Silver Ridge,Silver Ridge,34029,Ocean County,Census-designated place,39.96288,-74.237229,1
+NJ,3467770,place:NJ:3467770,Singac CDP,Singac,Singac,34031,Passaic County,Census-designated place,40.884938,-74.242912,1
+NJ,3467820,place:NJ:3467820,Six Mile Run CDP,Six Mile Run,Six Mile Run,34035,Somerset County,Census-designated place,40.470151,-74.534049,1
+NJ,3467860,place:NJ:3467860,Skillman CDP,Skillman,Skillman,34035,Somerset County,Census-designated place,40.428957,-74.709842,1
+NJ,3468190,place:NJ:3468190,Smithville CDP,Smithville,Smithville,34001,Atlantic County,Census-designated place,39.494939,-74.478633,1
+NJ,3468340,place:NJ:3468340,Somerdale borough,Somerdale,Somerdale,34007,Camden County,Incorporated place,39.845416,-75.021701,1
+NJ,3468430,place:NJ:3468430,Somers Point city,Somers Point,Somers Point,34001,Atlantic County,Incorporated place,39.317237,-74.606383,1
+NJ,3468370,place:NJ:3468370,Somerset CDP,Somerset,Somerset,34035,Somerset County,Census-designated place,40.508507,-74.500207,1
+NJ,3468460,place:NJ:3468460,Somerville borough,Somerville,Somerville,34035,Somerset County,Incorporated place,40.569749,-74.607682,1
+NJ,3468550,place:NJ:3468550,South Amboy city,South Amboy,South Amboy,34023,Middlesex County,Incorporated place,40.488533,-74.279133,1
+NJ,3468730,place:NJ:3468730,South Bound Brook borough,South Bound Brook,South Bound Brook,34035,Somerset County,Incorporated place,40.553947,-74.527455,1
+NJ,3468850,place:NJ:3468850,South Dennis CDP,South Dennis,South Dennis,34009,Cape May County,Census-designated place,39.170241,-74.804356,1
+NJ,3469270,place:NJ:3469270,South Orange village,South Orange,South Orange,34013,Essex County,Incorporated place,40.748811,-74.261512,0
+NJ,3469390,place:NJ:3469390,South Plainfield borough,South Plainfield,South Plainfield,34023,Middlesex County,Incorporated place,40.574413,-74.4148,1
+NJ,3469420,place:NJ:3469420,South River borough,South River,South River,34023,Middlesex County,Incorporated place,40.445652,-74.378459,1
+NJ,3469480,place:NJ:3469480,South Seaville CDP,South Seaville,South Seaville,34009,Cape May County,Census-designated place,39.186565,-74.753564,1
+NJ,3469510,place:NJ:3469510,South Toms River borough,South Toms River,South Toms River,34029,Ocean County,Incorporated place,39.939487,-74.205608,1
+NJ,3469810,place:NJ:3469810,Spotswood borough,Spotswood,Spotswood,34023,Middlesex County,Incorporated place,40.393613,-74.392737,1
+NJ,3470110,place:NJ:3470110,Spring Lake borough,Spring Lake,Spring Lake,34025,Monmouth County,Incorporated place,40.153764,-74.026853,1
+NJ,3470140,place:NJ:3470140,Spring Lake Heights borough,Spring Lake Heights,Spring Lake Heights,34025,Monmouth County,Incorporated place,40.149483,-74.046169,1
+NJ,3469900,place:NJ:3469900,Springdale CDP,Springdale,Springdale,34007,Camden County,Census-designated place,39.876188,-74.972145,1
+NJ,3470018,place:NJ:3470018,Springfield CDP,Springfield,Springfield,34039,Union County,Census-designated place,40.706073,-74.312988,1
+NJ,3470380,place:NJ:3470380,Stanhope borough,Stanhope,Stanhope,34037,Sussex County,Incorporated place,40.913366,-74.70363,1
+NJ,3470800,place:NJ:3470800,Stewartsville CDP,Stewartsville,Stewartsville,34041,Warren County,Census-designated place,40.688919,-75.102241,1
+NJ,3470920,place:NJ:3470920,Stirling CDP,Stirling,Stirling,34027,Morris County,Census-designated place,40.680423,-74.488915,1
+NJ,3470980,place:NJ:3470980,Stockton borough,Stockton,Stockton,34019,Hunterdon County,Incorporated place,40.405851,-74.970627,1
+NJ,3470984,place:NJ:3470984,Stockton University CDP,Stockton University,Stockton University,34001,Atlantic County,Census-designated place,39.484737,-74.549,1
+NJ,3471010,place:NJ:3471010,Stone Harbor borough,Stone Harbor,Stone Harbor,34009,Cape May County,Incorporated place,39.041691,-74.768837,1
+NJ,3470987,place:NJ:3470987,Stonebridge CDP,Stonebridge,Stonebridge,34023,Middlesex County,Census-designated place,40.295465,-74.46862,1
+NJ,3471220,place:NJ:3471220,Stratford borough,Stratford,Stratford,34007,Camden County,Incorporated place,39.82899,-75.015536,1
+NJ,3471250,place:NJ:3471250,Strathmere CDP,Strathmere,Strathmere,34009,Cape May County,Census-designated place,39.194835,-74.660373,1
+NJ,3471280,place:NJ:3471280,Strathmore CDP,Strathmore,Strathmore,34025,Monmouth County,Census-designated place,40.402018,-74.221545,1
+NJ,3471370,place:NJ:3471370,Succasunna CDP,Succasunna,Succasunna,34027,Morris County,Census-designated place,40.85447,-74.657357,1
+NJ,3471430,place:NJ:3471430,Summit city,Summit,Summit,34039,Union County,Incorporated place,40.715622,-74.364684,1
+NJ,3471628,place:NJ:3471628,Sunset Lake CDP,Sunset Lake,Sunset Lake,34011,Cumberland County,Census-designated place,39.45248,-75.235024,1
+NJ,3471640,place:NJ:3471640,Surf City borough,Surf City,Surf City,34029,Ocean County,Incorporated place,39.664316,-74.17162,1
+NJ,3471670,place:NJ:3471670,Sussex borough,Sussex,Sussex,34037,Sussex County,Incorporated place,41.208771,-74.608241,1
+NJ,3471850,place:NJ:3471850,Swedesboro borough,Swedesboro,Swedesboro,34015,Gloucester County,Incorporated place,39.745884,-75.310947,1
+NJ,3471880,place:NJ:3471880,Sweetwater CDP,Sweetwater,Sweetwater,34001,Atlantic County,Census-designated place,39.614165,-74.646229,1
+NJ,3472240,place:NJ:3472240,Tavistock borough,Tavistock,Tavistock,34007,Camden County,Incorporated place,39.876282,-75.029715,1
+NJ,3472435,place:NJ:3472435,Ten Mile Run CDP,Ten Mile Run,Ten Mile Run,34035,Somerset County,Census-designated place,40.422923,-74.587101,1
+NJ,3472420,place:NJ:3472420,Tenafly borough,Tenafly,Tenafly,34003,Bergen County,Incorporated place,40.918309,-73.950523,1
+NJ,3472480,place:NJ:3472480,Teterboro borough,Teterboro,Teterboro,34003,Bergen County,Incorporated place,40.854573,-74.059619,1
+NJ,3472580,place:NJ:3472580,The College of New Jersey CDP,The College of New Jersey,The College of New Jersey,34021,Mercer County,Census-designated place,40.26838,-74.777896,1
+NJ,3472635,place:NJ:3472635,The Hills CDP,The Hills,The Hills,34035,Somerset County,Census-designated place,40.65379,-74.620979,1
+NJ,3472726,place:NJ:3472726,The Ponds CDP,The Ponds,The Ponds,34023,Middlesex County,Census-designated place,40.306826,-74.453212,1
+NJ,3472810,place:NJ:3472810,Thorofare CDP,Thorofare,Thorofare,34015,Gloucester County,Census-designated place,39.854728,-75.198685,1
+NJ,3472870,place:NJ:3472870,Three Bridges CDP,Three Bridges,Three Bridges,34019,Hunterdon County,Census-designated place,40.520594,-74.80017,1
+NJ,3473020,place:NJ:3473020,Tinton Falls borough,Tinton Falls,Tinton Falls,34025,Monmouth County,Incorporated place,40.266295,-74.096112,1
+NJ,3473050,place:NJ:3473050,Titusville CDP,Titusville,Titusville,34021,Mercer County,Census-designated place,40.308917,-74.874934,1
+NJ,3473110,place:NJ:3473110,Toms River CDP,Toms River,Toms River,34029,Ocean County,Census-designated place,39.994856,-74.187754,1
+NJ,3473140,place:NJ:3473140,Totowa borough,Totowa,Totowa,34031,Passaic County,Incorporated place,40.903415,-74.219779,1
+NJ,3473170,place:NJ:3473170,Towaco CDP,Towaco,Towaco,34027,Morris County,Census-designated place,40.928535,-74.342782,1
+NJ,3474000,place:NJ:3474000,Trenton city,Trenton,Trenton,34021,Mercer County,Incorporated place,40.223841,-74.763624,1
+NJ,3474150,place:NJ:3474150,Troy Hills CDP,Troy Hills,Troy Hills,34027,Morris County,Census-designated place,40.852707,-74.400689,1
+NJ,3474180,place:NJ:3474180,Tuckahoe CDP,Tuckahoe,Tuckahoe,34009,Cape May County,Census-designated place,39.289182,-74.749684,1
+NJ,3474210,place:NJ:3474210,Tuckerton borough,Tuckerton,Tuckerton,34029,Ocean County,Incorporated place,39.592197,-74.333079,1
+NJ,3474270,place:NJ:3474270,Turnersville CDP,Turnersville,Turnersville,34015,Gloucester County,Census-designated place,39.766445,-75.062002,1
+NJ,3474330,place:NJ:3474330,Twin Rivers CDP,Twin Rivers,Twin Rivers,34021,Mercer County,Census-designated place,40.263538,-74.491923,1
+NJ,3474478,place:NJ:3474478,Union CDP,Union,Union,34039,Union County,Census-designated place,40.696539,-74.269291,1
+NJ,3474540,place:NJ:3474540,Union Beach borough,Union Beach,Union Beach,34025,Monmouth County,Incorporated place,40.44749,-74.170046,1
+NJ,3474630,place:NJ:3474630,Union City city,Union City,Union City,34017,Hudson County,Incorporated place,40.767425,-74.032279,1
+NJ,3474930,place:NJ:3474930,Upper Greenwood Lake CDP,Upper Greenwood Lake,Upper Greenwood Lake,34031,Passaic County,Census-designated place,41.18585,-74.37815,1
+NJ,3475020,place:NJ:3475020,Upper Montclair CDP,Upper Montclair,Upper Montclair,34013,Essex County,Census-designated place,40.842576,-74.201302,1
+NJ,3475120,place:NJ:3475120,Upper Pohatcong CDP,Upper Pohatcong,Upper Pohatcong,34041,Warren County,Census-designated place,40.67738,-75.155683,1
+NJ,3475140,place:NJ:3475140,Upper Saddle River borough,Upper Saddle River,Upper Saddle River,34003,Bergen County,Incorporated place,41.063162,-74.099973,1
+NJ,3475145,place:NJ:3475145,Upper Stewartsville CDP,Upper Stewartsville,Upper Stewartsville,34041,Warren County,Census-designated place,40.704794,-75.120558,1
+NJ,3475590,place:NJ:3475590,Vauxhall CDP,Vauxhall,Vauxhall,34039,Union County,Census-designated place,40.717383,-74.283782,1
+NJ,3475620,place:NJ:3475620,Ventnor City city,Ventnor City,Ventnor City,34001,Atlantic County,Incorporated place,39.34209,-74.48294,1
+NJ,3475745,place:NJ:3475745,Vernon Center CDP,Vernon Center,Vernon Center,34037,Sussex County,Census-designated place,41.188789,-74.504046,1
+NJ,3475750,place:NJ:3475750,Vernon Valley CDP,Vernon Valley,Vernon Valley,34037,Sussex County,Census-designated place,41.242098,-74.486141,1
+NJ,3475890,place:NJ:3475890,Victory Gardens borough,Victory Gardens,Victory Gardens,34027,Morris County,Incorporated place,40.87613,-74.54353,1
+NJ,3475920,place:NJ:3475920,Victory Lakes CDP,Victory Lakes,Victory Lakes,34015,Gloucester County,Census-designated place,39.630558,-74.969218,1
+NJ,3475950,place:NJ:3475950,Vienna CDP,Vienna,Vienna,34041,Warren County,Census-designated place,40.872176,-74.874249,1
+NJ,3476010,place:NJ:3476010,Villas CDP,Villas,Villas,34009,Cape May County,Census-designated place,39.016268,-74.935972,1
+NJ,3476040,place:NJ:3476040,Vincentown CDP,Vincentown,Vincentown,34005,Burlington County,Census-designated place,39.936298,-74.751191,1
+NJ,3476070,place:NJ:3476070,Vineland city,Vineland,Vineland,34011,Cumberland County,Incorporated place,39.465007,-74.997115,1
+NJ,3476107,place:NJ:3476107,Vista Center CDP,Vista Center,Vista Center,34029,Ocean County,Census-designated place,40.159098,-74.322365,1
+NJ,3476250,place:NJ:3476250,Voorhees CDP,Voorhees,Voorhees,34035,Somerset County,Census-designated place,40.482176,-74.492506,1
+NJ,3476400,place:NJ:3476400,Waldwick borough,Waldwick,Waldwick,34003,Bergen County,Incorporated place,41.013367,-74.125217,1
+NJ,3476490,place:NJ:3476490,Wallington borough,Wallington,Wallington,34003,Bergen County,Incorporated place,40.853084,-74.106323,1
+NJ,3476700,place:NJ:3476700,Wanamassa CDP,Wanamassa,Wanamassa,34025,Monmouth County,Census-designated place,40.236816,-74.028865,1
+NJ,3476730,place:NJ:3476730,Wanaque borough,Wanaque,Wanaque,34031,Passaic County,Incorporated place,41.042424,-74.288643,1
+NJ,3476820,place:NJ:3476820,Waretown CDP,Waretown,Waretown,34029,Ocean County,Census-designated place,39.79003,-74.193576,1
+NJ,3477270,place:NJ:3477270,Washington borough,Washington,Washington,34041,Warren County,Incorporated place,40.758525,-74.98319,1
+NJ,3477330,place:NJ:3477330,Washington Crossing CDP,Washington Crossing,Washington Crossing,34021,Mercer County,Census-designated place,40.296239,-74.860283,1
+NJ,3477600,place:NJ:3477600,Watchung borough,Watchung,Watchung,34035,Somerset County,Incorporated place,40.642845,-74.436233,1
+NJ,3477750,place:NJ:3477750,Watsessing CDP,Watsessing,Watsessing,34013,Essex County,Census-designated place,40.786567,-74.201159,1
+NJ,3478110,place:NJ:3478110,Wenonah borough,Wenonah,Wenonah,34015,Gloucester County,Incorporated place,39.792001,-75.148216,1
+NJ,3478350,place:NJ:3478350,West Belmar CDP,West Belmar,West Belmar,34025,Monmouth County,Census-designated place,40.170666,-74.037582,1
+NJ,3478410,place:NJ:3478410,West Berlin CDP,West Berlin,West Berlin,34007,Camden County,Census-designated place,39.809682,-74.941304,1
+NJ,3478530,place:NJ:3478530,West Cape May borough,West Cape May,West Cape May,34009,Cape May County,Incorporated place,38.942226,-74.939033,1
+NJ,3479100,place:NJ:3479100,West Freehold CDP,West Freehold,West Freehold,34025,Monmouth County,Census-designated place,40.230905,-74.294073,1
+NJ,3479310,place:NJ:3479310,West Long Branch borough,West Long Branch,West Long Branch,34025,Monmouth County,Incorporated place,40.287904,-74.020019,1
+NJ,3479610,place:NJ:3479610,West New York town,West New York,West New York,34017,Hudson County,Incorporated place,40.786032,-74.009507,1
+NJ,3479810,place:NJ:3479810,West Park CDP,West Park,West Park,34011,Cumberland County,Census-designated place,39.440277,-75.263676,1
+NJ,3480210,place:NJ:3480210,West Wildwood borough,West Wildwood,West Wildwood,34009,Cape May County,Incorporated place,39.000598,-74.823573,1
+NJ,3479040,place:NJ:3479040,Westfield town,Westfield,Westfield,34039,Union County,Incorporated place,40.651644,-74.343447,1
+NJ,3479520,place:NJ:3479520,Westmont CDP,Westmont,Westmont,34007,Camden County,Census-designated place,39.907832,-75.054093,1
+NJ,3479715,place:NJ:3479715,Weston CDP,Weston,Weston,34035,Somerset County,Census-designated place,40.522409,-74.574121,1
+NJ,3480120,place:NJ:3480120,Westville borough,Westville,Westville,34015,Gloucester County,Incorporated place,39.86923,-75.131335,1
+NJ,3480270,place:NJ:3480270,Westwood borough,Westwood,Westwood,34003,Bergen County,Incorporated place,40.989032,-74.031872,1
+NJ,3480390,place:NJ:3480390,Wharton borough,Wharton,Wharton,34027,Morris County,Incorporated place,40.897055,-74.574512,1
+NJ,3480540,place:NJ:3480540,Whippany CDP,Whippany,Whippany,34027,Morris County,Census-designated place,40.823281,-74.418686,1
+NJ,3480630,place:NJ:3480630,White Horse CDP,White Horse,White Horse,34021,Mercer County,Census-designated place,40.191823,-74.701372,1
+NJ,3480720,place:NJ:3480720,White House Station CDP,White House Station,White House Station,34019,Hunterdon County,Census-designated place,40.622792,-74.774019,1
+NJ,3480750,place:NJ:3480750,White Meadow Lake CDP,White Meadow Lake,White Meadow Lake,34027,Morris County,Census-designated place,40.923773,-74.510481,1
+NJ,3480840,place:NJ:3480840,Whitesboro CDP,Whitesboro,Whitesboro,34009,Cape May County,Census-designated place,39.049013,-74.871845,1
+NJ,3481042,place:NJ:3481042,Whittingham CDP,Whittingham,Whittingham,34023,Middlesex County,Census-designated place,40.326654,-74.445474,1
+NJ,3481170,place:NJ:3481170,Wildwood city,Wildwood,Wildwood,34009,Cape May County,Incorporated place,38.98755,-74.818188,1
+NJ,3481200,place:NJ:3481200,Wildwood Crest borough,Wildwood Crest,Wildwood Crest,34009,Cape May County,Incorporated place,38.971526,-74.83733,1
+NJ,3481365,place:NJ:3481365,William Paterson University of New Jersey CDP,William Paterson University of New Jersey,William Paterson University of New Jersey,34031,Passaic County,Census-designated place,40.945741,-74.198158,1
+NJ,3481380,place:NJ:3481380,Williamstown CDP,Williamstown,Williamstown,34015,Gloucester County,Census-designated place,39.684237,-74.96968,1
+NJ,3481620,place:NJ:3481620,Windsor CDP,Windsor,Windsor,34021,Mercer County,Census-designated place,40.247348,-74.581237,1
+NJ,3482570,place:NJ:3482570,Wood-Ridge borough,Wood-Ridge,Wood-Ridge,34003,Bergen County,Incorporated place,40.850183,-74.087068,1
+NJ,3481890,place:NJ:3481890,Woodbine borough,Woodbine,Woodbine,34009,Cape May County,Incorporated place,39.22835,-74.809621,1
+NJ,3481950,place:NJ:3481950,Woodbridge CDP,Woodbridge,Woodbridge,34023,Middlesex County,Census-designated place,40.553141,-74.286969,1
+NJ,3482120,place:NJ:3482120,Woodbury city,Woodbury,Woodbury,34015,Gloucester County,Incorporated place,39.837906,-75.15153,1
+NJ,3482180,place:NJ:3482180,Woodbury Heights borough,Woodbury Heights,Woodbury Heights,34015,Gloucester County,Incorporated place,39.81329,-75.15065,1
+NJ,3482300,place:NJ:3482300,Woodcliff Lake borough,Woodcliff Lake,Woodcliff Lake,34003,Bergen County,Incorporated place,41.025977,-74.061061,1
+NJ,3482423,place:NJ:3482423,Woodland Park borough,Woodland Park,Woodland Park,34031,Passaic County,Incorporated place,40.889855,-74.194356,1
+NJ,3482450,place:NJ:3482450,Woodlynne borough,Woodlynne,Woodlynne,34007,Camden County,Incorporated place,39.916478,-75.095549,1
+NJ,3482720,place:NJ:3482720,Woodstown borough,Woodstown,Woodstown,34033,Salem County,Incorporated place,39.650178,-75.326232,1
+NJ,3482960,place:NJ:3482960,Wrightstown borough,Wrightstown,Wrightstown,34005,Burlington County,Incorporated place,40.025589,-74.631908,1
+NJ,3483170,place:NJ:3483170,Yardville CDP,Yardville,Yardville,34021,Mercer County,Census-designated place,40.186607,-74.663143,1
+NJ,3483245,place:NJ:3483245,Yorketown CDP,Yorketown,Yorketown,34025,Monmouth County,Census-designated place,40.305905,-74.3389,1
+NJ,3483290,place:NJ:3483290,Zarephath CDP,Zarephath,Zarephath,34035,Somerset County,Census-designated place,40.534569,-74.572371,1

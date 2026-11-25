@@ -1,0 +1,554 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+KY,2100298,place:KY:2100298,Adairville city,Adairville,Adairville,21141,Logan County,Incorporated place,36.675041,-86.858181,1
+KY,2100514,place:KY:2100514,Ages CDP,Ages,Ages,21095,Harlan County,Census-designated place,36.859281,-83.241868,1
+KY,2100694,place:KY:2100694,Albany city,Albany,Albany,21053,Clinton County,Incorporated place,36.690546,-85.135489,1
+KY,2100802,place:KY:2100802,Alexandria city,Alexandria,Alexandria,21037,Campbell County,Incorporated place,38.967818,-84.384601,1
+KY,2100946,place:KY:2100946,Allen city,Allen,Allen,21071,Floyd County,Incorporated place,37.61157,-82.729063,1
+KY,2101000,place:KY:2101000,Allensville CDP,Allensville,Allensville,21219,Todd County,Census-designated place,36.717032,-87.068586,1
+KY,2101504,place:KY:2101504,Anchorage city,Anchorage,Anchorage,21111,Jefferson County,Incorporated place,38.269994,-85.537818,1
+KY,2101648,place:KY:2101648,Annville CDP,Annville,Annville,21109,Jackson County,Census-designated place,37.331655,-83.962758,1
+KY,2101720,place:KY:2101720,Anthoston CDP,Anthoston,Anthoston,21101,Henderson County,Census-designated place,37.755117,-87.528404,1
+KY,2101972,place:KY:2101972,Arjay CDP,Arjay,Arjay,21013,Bell County,Census-designated place,36.806136,-83.642083,1
+KY,2102044,place:KY:2102044,Arlington city,Arlington,Arlington,21039,Carlisle County,Incorporated place,36.789805,-89.013153,1
+KY,2102188,place:KY:2102188,Artemus CDP,Artemus,Artemus,21121,Knox County,Census-designated place,36.838596,-83.845687,1
+KY,2102368,place:KY:2102368,Ashland city,Ashland,Ashland,21019,Boyd County,Incorporated place,38.459492,-82.645081,1
+KY,2102638,place:KY:2102638,Auburn city,Auburn,Auburn,21141,Logan County,Incorporated place,36.864162,-86.710887,1
+KY,2102656,place:KY:2102656,Audubon Park city,Audubon Park,Audubon Park,21111,Jefferson County,Incorporated place,38.205045,-85.727002,1
+KY,2102674,place:KY:2102674,Augusta city,Augusta,Augusta,21023,Bracken County,Incorporated place,38.77262,-84.000201,1
+KY,2102764,place:KY:2102764,Auxier CDP,Auxier,Auxier,21071,Floyd County,Census-designated place,37.734988,-82.767631,1
+KY,2103376,place:KY:2103376,Bancroft city,Bancroft,Bancroft,21111,Jefferson County,Incorporated place,38.286423,-85.610617,1
+KY,2103412,place:KY:2103412,Bandana CDP,Bandana,Bandana,21007,Ballard County,Census-designated place,37.144901,-88.942121,1
+KY,2103556,place:KY:2103556,Barbourmeade city,Barbourmeade,Barbourmeade,21111,Jefferson County,Incorporated place,38.298579,-85.600914,1
+KY,2103574,place:KY:2103574,Barbourville city,Barbourville,Barbourville,21121,Knox County,Incorporated place,36.865741,-83.883225,1
+KY,2103628,place:KY:2103628,Bardstown city,Bardstown,Bardstown,21179,Nelson County,Incorporated place,37.817665,-85.455345,1
+KY,2103664,place:KY:2103664,Bardwell city,Bardwell,Bardwell,21039,Carlisle County,Incorporated place,36.875352,-89.008943,1
+KY,2103718,place:KY:2103718,Barlow city,Barlow,Barlow,21007,Ballard County,Incorporated place,37.05079,-89.044991,1
+KY,2104546,place:KY:2104546,Beattyville city,Beattyville,Beattyville,21129,Lee County,Incorporated place,37.586809,-83.70688,1
+KY,2104654,place:KY:2104654,Beaver Dam city,Beaver Dam,Beaver Dam,21183,Ohio County,Incorporated place,37.403758,-86.873606,1
+KY,2104816,place:KY:2104816,Bedford city,Bedford,Bedford,21223,Trimble County,Incorporated place,38.59423,-85.317437,1
+KY,2104978,place:KY:2104978,Beech Grove CDP,Beech Grove,Beech Grove,21149,McLean County,Census-designated place,37.62126,-87.387256,1
+KY,2105014,place:KY:2105014,Beechmont CDP,Beechmont,Beechmont,21177,Muhlenberg County,Census-designated place,37.169309,-87.039144,1
+KY,2105068,place:KY:2105068,Beechwood Village city,Beechwood Village,Beechwood Village,21111,Jefferson County,Incorporated place,38.25668,-85.629554,1
+KY,2105266,place:KY:2105266,Belfry CDP,Belfry,Belfry,21195,Pike County,Census-designated place,37.619408,-82.268434,1
+KY,2105374,place:KY:2105374,Bellefonte city,Bellefonte,Bellefonte,21089,Greenup County,Incorporated place,38.499088,-82.691469,1
+KY,2105392,place:KY:2105392,Bellemeade city,Bellemeade,Bellemeade,21111,Jefferson County,Incorporated place,38.25098,-85.591026,1
+KY,2105428,place:KY:2105428,Belleview CDP,Belleview,Belleview,21015,Boone County,Census-designated place,38.985092,-84.828367,1
+KY,2105446,place:KY:2105446,Bellevue city,Bellevue,Bellevue,21037,Campbell County,Incorporated place,39.101248,-84.477492,1
+KY,2105464,place:KY:2105464,Bellewood city,Bellewood,Bellewood,21111,Jefferson County,Incorporated place,38.260825,-85.659376,1
+KY,2105662,place:KY:2105662,Benham city,Benham,Benham,21095,Harlan County,Incorporated place,36.964387,-82.951522,1
+KY,2105824,place:KY:2105824,Benton city,Benton,Benton,21157,Marshall County,Incorporated place,36.848,-88.361649,1
+KY,2105842,place:KY:2105842,Berea city,Berea,Berea,21151,Madison County,Incorporated place,37.589296,-84.294502,1
+KY,2105968,place:KY:2105968,Berry city,Berry,Berry,21097,Harrison County,Incorporated place,38.518409,-84.381661,1
+KY,2106220,place:KY:2106220,Betsy Layne CDP,Betsy Layne,Betsy Layne,21071,Floyd County,Census-designated place,37.552007,-82.62473,1
+KY,2106508,place:KY:2106508,Big Clifty CDP,Big Clifty,Big Clifty,21085,Grayson County,Census-designated place,37.544999,-86.15097,1
+KY,2107012,place:KY:2107012,Blackey CDP,Blackey,Blackey,21133,Letcher County,Census-designated place,37.137159,-82.985603,1
+KY,2107264,place:KY:2107264,Blaine city,Blaine,Blaine,21127,Lawrence County,Incorporated place,38.025213,-82.843245,1
+KY,2107390,place:KY:2107390,Blandville CDP,Blandville,Blandville,21007,Ballard County,Census-designated place,36.943508,-88.964835,1
+KY,2107516,place:KY:2107516,Bloomfield city,Bloomfield,Bloomfield,21179,Nelson County,Incorporated place,37.913637,-85.315553,1
+KY,2107858,place:KY:2107858,Blue Ridge Manor city,Blue Ridge Manor,Blue Ridge Manor,21111,Jefferson County,Incorporated place,38.243407,-85.564699,1
+KY,2108488,place:KY:2108488,Bonnieville city,Bonnieville,Bonnieville,21099,Hart County,Incorporated place,37.377687,-85.901509,1
+KY,2108614,place:KY:2108614,Booneville city,Booneville,Booneville,21189,Owsley County,Incorporated place,37.473465,-83.682773,1
+KY,2108722,place:KY:2108722,Boston CDP,Boston,Boston,21179,Nelson County,Census-designated place,37.781189,-85.687244,1
+KY,2108902,place:KY:2108902,Bowling Green city,Bowling Green,Bowling Green,21227,Warren County,Incorporated place,36.976832,-86.433661,1
+KY,2109100,place:KY:2109100,Bradfordsville city,Bradfordsville,Bradfordsville,21155,Marion County,Incorporated place,37.494725,-85.145042,1
+KY,2109226,place:KY:2109226,Brandenburg city,Brandenburg,Brandenburg,21163,Meade County,Incorporated place,37.997054,-86.180132,1
+KY,2109379,place:KY:2109379,Breckinridge Center CDP,Breckinridge Center,Breckinridge Center,21225,Union County,Census-designated place,37.6833,-87.865417,1
+KY,2109406,place:KY:2109406,Bremen city,Bremen,Bremen,21177,Muhlenberg County,Incorporated place,37.363729,-87.222204,1
+KY,2109532,place:KY:2109532,Briarwood city,Briarwood,Briarwood,21111,Jefferson County,Incorporated place,38.278087,-85.592483,1
+KY,2109838,place:KY:2109838,Brodhead city,Brodhead,Brodhead,21203,Rockcastle County,Incorporated place,37.401813,-84.414548,1
+KY,2109847,place:KY:2109847,Broeck Pointe city,Broeck Pointe,Broeck Pointe,21111,Jefferson County,Incorporated place,38.295908,-85.585145,1
+KY,2109856,place:KY:2109856,Bromley city,Bromley,Bromley,21117,Kenton County,Incorporated place,39.077713,-84.561327,1
+KY,2109964,place:KY:2109964,Brooks CDP,Brooks,Brooks,21029,Bullitt County,Census-designated place,38.06653,-85.716504,1
+KY,2110000,place:KY:2110000,Brooksville city,Brooksville,Brooksville,21023,Bracken County,Incorporated place,38.679432,-84.06532,1
+KY,2110162,place:KY:2110162,Brownsboro Farm city,Brownsboro Farm,Brownsboro Farm,21111,Jefferson County,Incorporated place,38.303624,-85.593025,1
+KY,2110198,place:KY:2110198,Brownsboro Village city,Brownsboro Village,Brownsboro Village,21111,Jefferson County,Incorporated place,38.262917,-85.665854,1
+KY,2110324,place:KY:2110324,Brownsville city,Brownsville,Brownsville,21061,Edmonson County,Incorporated place,37.194829,-86.265125,1
+KY,2110612,place:KY:2110612,Buckhorn city,Buckhorn,Buckhorn,21193,Perry County,Incorporated place,37.347067,-83.470282,1
+KY,2110648,place:KY:2110648,Buckner CDP,Buckner,Buckner,21185,Oldham County,Census-designated place,38.389919,-85.452558,1
+KY,2110774,place:KY:2110774,Buffalo CDP,Buffalo,Buffalo,21123,Larue County,Census-designated place,37.506995,-85.698986,1
+KY,2111044,place:KY:2111044,Burgin city,Burgin,Burgin,21167,Mercer County,Incorporated place,37.757493,-84.760655,1
+KY,2111098,place:KY:2111098,Burkesville city,Burkesville,Burkesville,21057,Cumberland County,Incorporated place,36.787796,-85.366346,1
+KY,2111170,place:KY:2111170,Burlington CDP,Burlington,Burlington,21015,Boone County,Census-designated place,39.02229,-84.721647,1
+KY,2111188,place:KY:2111188,Burna CDP,Burna,Burna,21139,Livingston County,Census-designated place,37.244806,-88.35788,1
+KY,2111278,place:KY:2111278,Burnside city,Burnside,Burnside,21199,Pulaski County,Incorporated place,37.00686,-84.642085,1
+KY,2111530,place:KY:2111530,Butler city,Butler,Butler,21191,Pendleton County,Incorporated place,38.787476,-84.371242,1
+KY,2111692,place:KY:2111692,Cadiz city,Cadiz,Cadiz,21221,Trigg County,Incorporated place,36.862642,-87.81655,1
+KY,2111854,place:KY:2111854,Calhoun city,Calhoun,Calhoun,21149,McLean County,Incorporated place,37.540312,-87.259037,1
+KY,2111872,place:KY:2111872,California city,California,California,21037,Campbell County,Incorporated place,38.918418,-84.263563,1
+KY,2112016,place:KY:2112016,Calvert City city,Calvert City,Calvert City,21157,Marshall County,Incorporated place,37.046422,-88.395537,1
+KY,2112052,place:KY:2112052,Camargo city,Camargo,Camargo,21173,Montgomery County,Incorporated place,37.999694,-83.888489,1
+KY,2112066,place:KY:2112066,Cambridge city,Cambridge,Cambridge,21111,Jefferson County,Incorporated place,38.221736,-85.616975,1
+KY,2112142,place:KY:2112142,Campbellsburg city,Campbellsburg,Campbellsburg,21103,Henry County,Incorporated place,38.513584,-85.231761,1
+KY,2112160,place:KY:2112160,Campbellsville city,Campbellsville,Campbellsville,21217,Taylor County,Incorporated place,37.34392,-85.352238,1
+KY,2112358,place:KY:2112358,Campton city,Campton,Campton,21237,Wolfe County,Incorporated place,37.735161,-83.547241,1
+KY,2112538,place:KY:2112538,Caneyville city,Caneyville,Caneyville,21085,Grayson County,Incorporated place,37.42298,-86.499732,1
+KY,2112610,place:KY:2112610,Cannonsburg CDP,Cannonsburg,Cannonsburg,21019,Boyd County,Census-designated place,38.381855,-82.696644,1
+KY,2112898,place:KY:2112898,Carlisle city,Carlisle,Carlisle,21181,Nicholas County,Incorporated place,38.317109,-84.036613,1
+KY,2113024,place:KY:2113024,Carrollton city,Carrollton,Carrollton,21041,Carroll County,Incorporated place,38.679621,-85.165764,1
+KY,2113060,place:KY:2113060,Carrsville city,Carrsville,Carrsville,21139,Livingston County,Incorporated place,37.398039,-88.375361,1
+KY,2113420,place:KY:2113420,Catlettsburg city,Catlettsburg,Catlettsburg,21019,Boyd County,Incorporated place,38.417041,-82.603017,1
+KY,2113492,place:KY:2113492,Cave City city,Cave City,Cave City,21009,Barren County,Incorporated place,37.136771,-85.967968,1
+KY,2113582,place:KY:2113582,Cawood CDP,Cawood,Cawood,21095,Harlan County,Census-designated place,36.79156,-83.232515,1
+KY,2113600,place:KY:2113600,Cayce CDP,Cayce,Cayce,21075,Fulton County,Census-designated place,36.559202,-89.034252,1
+KY,2113636,place:KY:2113636,Cecilia CDP,Cecilia,Cecilia,21093,Hardin County,Census-designated place,37.661742,-85.948848,1
+KY,2113870,place:KY:2113870,Centertown city,Centertown,Centertown,21183,Ohio County,Incorporated place,37.417761,-86.995962,1
+KY,2113978,place:KY:2113978,Central City city,Central City,Central City,21177,Muhlenberg County,Incorporated place,37.296777,-87.128988,1
+KY,2114068,place:KY:2114068,Cerulean CDP,Cerulean,Cerulean,21221,Trigg County,Census-designated place,36.951342,-87.714042,1
+KY,2114266,place:KY:2114266,Chaplin CDP,Chaplin,Chaplin,21179,Nelson County,Census-designated place,37.899121,-85.220977,1
+KY,2115148,place:KY:2115148,Clarkson city,Clarkson,Clarkson,21085,Grayson County,Incorporated place,37.49432,-86.230074,1
+KY,2115166,place:KY:2115166,Claryville CDP,Claryville,Claryville,21037,Campbell County,Census-designated place,38.914,-84.409519,1
+KY,2115202,place:KY:2115202,Clay city,Clay,Clay,21233,Webster County,Incorporated place,37.47586,-87.820311,1
+KY,2115238,place:KY:2115238,Clay City city,Clay City,Clay City,21197,Powell County,Incorporated place,37.86156,-83.929092,1
+KY,2115490,place:KY:2115490,Cleaton CDP,Cleaton,Cleaton,21177,Muhlenberg County,Census-designated place,37.251421,-87.09063,1
+KY,2115742,place:KY:2115742,Clinton city,Clinton,Clinton,21105,Hickman County,Incorporated place,36.665793,-88.994089,1
+KY,2115904,place:KY:2115904,Cloverport city,Cloverport,Cloverport,21027,Breckinridge County,Incorporated place,37.832087,-86.631437,1
+KY,2116110,place:KY:2116110,Coal Run Village city,Coal Run Village,Coal Run Village,21195,Pike County,Incorporated place,37.532968,-82.554397,1
+KY,2116372,place:KY:2116372,Cold Spring city,Cold Spring,Cold Spring,21037,Campbell County,Incorporated place,39.015632,-84.434455,1
+KY,2116354,place:KY:2116354,Coldiron CDP,Coldiron,Coldiron,21095,Harlan County,Census-designated place,36.828645,-83.452325,1
+KY,2116395,place:KY:2116395,Coldstream city,Coldstream,Coldstream,21111,Jefferson County,Incorporated place,38.314275,-85.526321,1
+KY,2116750,place:KY:2116750,Columbia city,Columbia,Columbia,21001,Adair County,Incorporated place,37.103437,-85.307537,1
+KY,2116768,place:KY:2116768,Columbus city,Columbus,Columbus,21105,Hickman County,Incorporated place,36.759751,-89.101907,1
+KY,2116822,place:KY:2116822,Combs CDP,Combs,Combs,21193,Perry County,Census-designated place,37.26903,-83.21563,1
+KY,2116894,place:KY:2116894,Concord city,Concord,Concord,21135,Lewis County,Incorporated place,38.688146,-83.492079,1
+KY,2117362,place:KY:2117362,Corbin city,Corbin,Corbin,21235,Whitley County,Incorporated place,36.931584,-84.10079,1
+KY,2117434,place:KY:2117434,Corinth city,Corinth,Corinth,21081,Grant County,Incorporated place,38.499633,-84.608194,1
+KY,2117686,place:KY:2117686,Corydon city,Corydon,Corydon,21101,Henderson County,Incorporated place,37.739611,-87.706652,1
+KY,2117848,place:KY:2117848,Covington city,Covington,Covington,21117,Kenton County,Incorporated place,39.035109,-84.519648,1
+KY,2117938,place:KY:2117938,Coxton CDP,Coxton,Coxton,21095,Harlan County,Census-designated place,36.858836,-83.270059,1
+KY,2117956,place:KY:2117956,Crab Orchard city,Crab Orchard,Crab Orchard,21137,Lincoln County,Incorporated place,37.456475,-84.508987,1
+KY,2118190,place:KY:2118190,Crayne CDP,Crayne,Crayne,21055,Crittenden County,Census-designated place,37.282645,-88.086148,1
+KY,2118270,place:KY:2118270,Creekside city,Creekside,Creekside,21111,Jefferson County,Incorporated place,38.291516,-85.570017,1
+KY,2118352,place:KY:2118352,Crescent Springs city,Crescent Springs,Crescent Springs,21117,Kenton County,Incorporated place,39.056162,-84.57982,1
+KY,2118424,place:KY:2118424,Crestview city,Crestview,Crestview,21037,Campbell County,Incorporated place,39.024615,-84.415616,1
+KY,2118442,place:KY:2118442,Crestview Hills city,Crestview Hills,Crestview Hills,21117,Kenton County,Incorporated place,39.024344,-84.569906,1
+KY,2118496,place:KY:2118496,Crestwood city,Crestwood,Crestwood,21185,Oldham County,Incorporated place,38.343537,-85.477322,1
+KY,2118568,place:KY:2118568,Crittenden city,Crittenden,Crittenden,21081,Grant County,Incorporated place,38.788501,-84.601918,1
+KY,2118658,place:KY:2118658,Crofton city,Crofton,Crofton,21047,Christian County,Incorporated place,37.047926,-87.483496,1
+KY,2118766,place:KY:2118766,Crossgate city,Crossgate,Crossgate,21111,Jefferson County,Incorporated place,38.279274,-85.629606,1
+KY,2119108,place:KY:2119108,Cumberland city,Cumberland,Cumberland,21095,Harlan County,Incorporated place,36.986374,-82.995664,1
+KY,2119234,place:KY:2119234,Cunningham CDP,Cunningham,Cunningham,21039,Carlisle County,Census-designated place,36.912289,-88.887199,1
+KY,2119288,place:KY:2119288,Curdsville CDP,Curdsville,Curdsville,21059,Daviess County,Census-designated place,37.736065,-87.332439,1
+KY,2119432,place:KY:2119432,Cynthiana city,Cynthiana,Cynthiana,21097,Harrison County,Incorporated place,38.382946,-84.301753,1
+KY,2119882,place:KY:2119882,Danville city,Danville,Danville,21021,Boyle County,Incorporated place,37.639256,-84.776013,1
+KY,2120224,place:KY:2120224,Dawson Springs city,Dawson Springs,Dawson Springs,21107,Hopkins County,Incorporated place,37.17424,-87.688598,1
+KY,2120350,place:KY:2120350,Dayton city,Dayton,Dayton,21037,Campbell County,Incorporated place,39.112308,-84.46284,1
+KY,2121322,place:KY:2121322,Dexter CDP,Dexter,Dexter,21035,Calloway County,Census-designated place,36.7394,-88.295999,1
+KY,2121358,place:KY:2121358,Diablock CDP,Diablock,Diablock,21193,Perry County,Census-designated place,37.228549,-83.170957,1
+KY,2121682,place:KY:2121682,Dixon city,Dixon,Dixon,21233,Webster County,Incorporated place,37.513677,-87.688432,1
+KY,2121844,place:KY:2121844,Doe Valley CDP,Doe Valley,Doe Valley,21163,Meade County,Census-designated place,37.977924,-86.105563,1
+KY,2122204,place:KY:2122204,Douglass Hills city,Douglass Hills,Douglass Hills,21111,Jefferson County,Incorporated place,38.23609,-85.553202,1
+KY,2122222,place:KY:2122222,Dover city,Dover,Dover,21161,Mason County,Incorporated place,38.75669,-83.888348,1
+KY,2122348,place:KY:2122348,Drakesboro city,Drakesboro,Drakesboro,21177,Muhlenberg County,Incorporated place,37.217302,-87.049945,1
+KY,2122474,place:KY:2122474,Druid Hills city,Druid Hills,Druid Hills,21111,Jefferson County,Incorporated place,38.264936,-85.661769,1
+KY,2122582,place:KY:2122582,Dry Ridge city,Dry Ridge,Dry Ridge,21081,Grant County,Incorporated place,38.685414,-84.600215,1
+KY,2123014,place:KY:2123014,Dunmor CDP,Dunmor,Dunmor,21177,Muhlenberg County,Census-designated place,37.076238,-86.986272,1
+KY,2123104,place:KY:2123104,Dwale CDP,Dwale,Dwale,21071,Floyd County,Census-designated place,37.626668,-82.731295,1
+KY,2123230,place:KY:2123230,Earlington city,Earlington,Earlington,21107,Hopkins County,Incorporated place,37.275163,-87.506135,1
+KY,2123284,place:KY:2123284,East Bernstadt CDP,East Bernstadt,East Bernstadt,21125,Laurel County,Census-designated place,37.192832,-84.130808,1
+KY,2123824,place:KY:2123824,Eddyville city,Eddyville,Eddyville,21143,Lyon County,Incorporated place,37.077409,-88.074945,1
+KY,2123932,place:KY:2123932,Edgewood city,Edgewood,Edgewood,21117,Kenton County,Incorporated place,39.008725,-84.55988,1
+KY,2123968,place:KY:2123968,Edmonton city,Edmonton,Edmonton,21169,Metcalfe County,Incorporated place,36.984946,-85.621648,1
+KY,2124094,place:KY:2124094,Ekron city,Ekron,Ekron,21163,Meade County,Incorporated place,37.930252,-86.176395,1
+KY,2124274,place:KY:2124274,Elizabethtown city,Elizabethtown,Elizabethtown,21093,Hardin County,Incorporated place,37.698686,-85.876689,1
+KY,2124292,place:KY:2124292,Elizaville CDP,Elizaville,Elizaville,21069,Fleming County,Census-designated place,38.41498,-83.820152,1
+KY,2124328,place:KY:2124328,Elk Creek CDP,Elk Creek,Elk Creek,21215,Spencer County,Census-designated place,38.115191,-85.37163,1
+KY,2124382,place:KY:2124382,Elkhorn City city,Elkhorn City,Elkhorn City,21195,Pike County,Incorporated place,37.3203,-82.352334,1
+KY,2124400,place:KY:2124400,Elkton city,Elkton,Elkton,21219,Todd County,Incorporated place,36.816081,-87.161139,1
+KY,2124778,place:KY:2124778,Elsmere city,Elsmere,Elsmere,21117,Kenton County,Incorporated place,38.993584,-84.601892,1
+KY,2124904,place:KY:2124904,Eminence city,Eminence,Eminence,21103,Henry County,Incorporated place,38.363738,-85.176881,1
+KY,2124922,place:KY:2124922,Emlyn CDP,Emlyn,Emlyn,21235,Whitley County,Census-designated place,36.699271,-84.141922,1
+KY,2125300,place:KY:2125300,Erlanger city,Erlanger,Erlanger,21117,Kenton County,Incorporated place,39.039453,-84.600022,1
+KY,2125552,place:KY:2125552,Eubank city,Eubank,Eubank,21199,Pulaski County,Incorporated place,37.278412,-84.652572,1
+KY,2125606,place:KY:2125606,Evarts city,Evarts,Evarts,21095,Harlan County,Incorporated place,36.865066,-83.192506,1
+KY,2125786,place:KY:2125786,Ewing city,Ewing,Ewing,21069,Fleming County,Incorporated place,38.427754,-83.862066,1
+KY,2125876,place:KY:2125876,Ezel CDP,Ezel,Ezel,21175,Morgan County,Census-designated place,37.891396,-83.443528,1
+KY,2126020,place:KY:2126020,Fairfield city,Fairfield,Fairfield,21179,Nelson County,Incorporated place,37.931209,-85.386124,1
+KY,2126182,place:KY:2126182,Fairview CDP,Fairview,"Fairview, Christian County",21047,Christian County,Census-designated place,36.842226,-87.310768,1
+KY,2126236,place:KY:2126236,Fairview city,Fairview,"Fairview, Kenton County",21117,Kenton County,Incorporated place,38.999132,-84.483353,1
+KY,2126434,place:KY:2126434,Falmouth city,Falmouth,Falmouth,21191,Pendleton County,Incorporated place,38.671796,-84.330855,1
+KY,2126452,place:KY:2126452,Fancy Farm CDP,Fancy Farm,Fancy Farm,21083,Graves County,Census-designated place,36.800734,-88.793673,1
+KY,2126528,place:KY:2126528,Farley CDP,Farley,Farley,21145,McCracken County,Census-designated place,37.03933,-88.574303,1
+KY,2126560,place:KY:2126560,Farmers CDP,Farmers,Farmers,21205,Rowan County,Census-designated place,38.137206,-83.542951,1
+KY,2126614,place:KY:2126614,Farmington CDP,Farmington,Farmington,21083,Graves County,Census-designated place,36.669248,-88.528572,1
+KY,2127010,place:KY:2127010,Ferguson city,Ferguson,Ferguson,21199,Pulaski County,Incorporated place,37.062901,-84.599042,1
+KY,2127262,place:KY:2127262,Fincastle city,Fincastle,Fincastle,21111,Jefferson County,Incorporated place,38.308194,-85.541468,1
+KY,2127730,place:KY:2127730,Flat Lick CDP,Flat Lick,Flat Lick,21121,Knox County,Census-designated place,36.834463,-83.761607,1
+KY,2127802,place:KY:2127802,Flatwoods city,Flatwoods,Flatwoods,21089,Greenup County,Incorporated place,38.525136,-82.727817,1
+KY,2127846,place:KY:2127846,Fleming-Neon city,Fleming-Neon,Fleming-Neon,21133,Letcher County,Incorporated place,37.198867,-82.703581,1
+KY,2127856,place:KY:2127856,Flemingsburg city,Flemingsburg,Flemingsburg,21069,Fleming County,Incorporated place,38.424568,-83.740487,1
+KY,2127982,place:KY:2127982,Florence city,Florence,Florence,21015,Boone County,Incorporated place,38.993405,-84.648186,1
+KY,2128270,place:KY:2128270,Fordsville city,Fordsville,Fordsville,21183,Ohio County,Incorporated place,37.634843,-86.718345,1
+KY,2128342,place:KY:2128342,Forest Hills city,Forest Hills,Forest Hills,21111,Jefferson County,Incorporated place,38.216769,-85.585637,1
+KY,2128486,place:KY:2128486,Fort Campbell North CDP,Fort Campbell North,Fort Campbell North,21047,Christian County,Census-designated place,36.663198,-87.47648,1
+KY,2128540,place:KY:2128540,Fort Knox CDP,Fort Knox,Fort Knox,21093,Hardin County,Census-designated place,37.891641,-85.967151,1
+KY,2128558,place:KY:2128558,Fort Mitchell city,Fort Mitchell,Fort Mitchell,21117,Kenton County,Incorporated place,39.045546,-84.556154,1
+KY,2128594,place:KY:2128594,Fort Thomas city,Fort Thomas,Fort Thomas,21037,Campbell County,Incorporated place,39.082436,-84.457113,1
+KY,2128612,place:KY:2128612,Fort Wright city,Fort Wright,Fort Wright,21117,Kenton County,Incorporated place,39.045754,-84.536071,1
+KY,2128666,place:KY:2128666,Fountain Run city,Fountain Run,Fountain Run,21171,Monroe County,Incorporated place,36.726047,-85.956233,1
+KY,2128785,place:KY:2128785,Fox Chase city,Fox Chase,Fox Chase,21029,Bullitt County,Incorporated place,38.045029,-85.69063,1
+KY,2128882,place:KY:2128882,Francisville CDP,Francisville,Francisville,21015,Boone County,Census-designated place,39.10675,-84.727714,1
+KY,2128900,place:KY:2128900,Frankfort city,Frankfort,Frankfort,21073,Franklin County,Incorporated place,38.194966,-84.865877,1
+KY,2128918,place:KY:2128918,Franklin city,Franklin,Franklin,21213,Simpson County,Incorporated place,36.712847,-86.55363,1
+KY,2129080,place:KY:2129080,Fredonia city,Fredonia,Fredonia,21033,Caldwell County,Incorporated place,37.20783,-88.061725,1
+KY,2129134,place:KY:2129134,Freeburn CDP,Freeburn,Freeburn,21195,Pike County,Census-designated place,37.561957,-82.151368,1
+KY,2129260,place:KY:2129260,Frenchburg city,Frenchburg,Frenchburg,21165,Menifee County,Incorporated place,37.953412,-83.622852,1
+KY,2129566,place:KY:2129566,Fulton city,Fulton,Fulton,21075,Fulton County,Incorporated place,36.514467,-88.8824,1
+KY,2129872,place:KY:2129872,Gamaliel city,Gamaliel,Gamaliel,21171,Monroe County,Incorporated place,36.640297,-85.793521,1
+KY,2130232,place:KY:2130232,Garrison CDP,Garrison,Garrison,21135,Lewis County,Census-designated place,38.6062,-83.182003,1
+KY,2130700,place:KY:2130700,Georgetown city,Georgetown,Georgetown,21209,Scott County,Incorporated place,38.259831,-84.535089,1
+KY,2130718,place:KY:2130718,Germantown city,Germantown,Germantown,21023,Bracken County,Incorporated place,38.655922,-83.964156,1
+KY,2130808,place:KY:2130808,Ghent city,Ghent,Ghent,21041,Carroll County,Incorporated place,38.732519,-85.063829,1
+KY,2130880,place:KY:2130880,Gilbertsville CDP,Gilbertsville,Gilbertsville,21157,Marshall County,Census-designated place,37.027745,-88.313084,1
+KY,2131114,place:KY:2131114,Glasgow city,Glasgow,Glasgow,21009,Barren County,Incorporated place,37.004842,-85.925876,1
+KY,2131204,place:KY:2131204,Glencoe city,Glencoe,Glencoe,21077,Gallatin County,Incorporated place,38.72499,-84.823276,1
+KY,2131348,place:KY:2131348,Glenview city,Glenview,Glenview,21111,Jefferson County,Incorporated place,38.298505,-85.656159,1
+KY,2131402,place:KY:2131402,Glenview Hills city,Glenview Hills,Glenview Hills,21111,Jefferson County,Incorporated place,38.295174,-85.638332,1
+KY,2131420,place:KY:2131420,Glenview Manor city,Glenview Manor,Glenview Manor,21111,Jefferson County,Incorporated place,38.290719,-85.633199,1
+KY,2131870,place:KY:2131870,Goose Creek city,Goose Creek,Goose Creek,21111,Jefferson County,Incorporated place,38.293409,-85.589562,1
+KY,2131960,place:KY:2131960,Goshen city,Goshen,Goshen,21185,Oldham County,Incorporated place,38.403427,-85.58372,1
+KY,2132032,place:KY:2132032,Gracey CDP,Gracey,Gracey,21047,Christian County,Census-designated place,36.879411,-87.663697,1
+KY,2132212,place:KY:2132212,Grand Rivers city,Grand Rivers,Grand Rivers,21139,Livingston County,Incorporated place,37.006324,-88.23455,1
+KY,2132428,place:KY:2132428,Gratz city,Gratz,Gratz,21187,Owen County,Incorporated place,38.47342,-84.946449,1
+KY,2132523,place:KY:2132523,Graymoor-Devondale city,Graymoor-Devondale,Graymoor-Devondale,21111,Jefferson County,Incorporated place,38.273241,-85.616647,1
+KY,2132572,place:KY:2132572,Grayson city,Grayson,Grayson,21043,Carter County,Incorporated place,38.335777,-82.936013,1
+KY,2132986,place:KY:2132986,Green Spring city,Green Spring,Green Spring,21111,Jefferson County,Incorporated place,38.316528,-85.614912,1
+KY,2132968,place:KY:2132968,Greensburg city,Greensburg,Greensburg,21087,Green County,Incorporated place,37.259499,-85.49335,1
+KY,2133004,place:KY:2133004,Greenup city,Greenup,Greenup,21089,Greenup County,Incorporated place,38.566245,-82.822945,1
+KY,2133022,place:KY:2133022,Greenville city,Greenville,Greenville,21177,Muhlenberg County,Incorporated place,37.210487,-87.177572,1
+KY,2133562,place:KY:2133562,Guthrie city,Guthrie,Guthrie,21219,Todd County,Incorporated place,36.64855,-87.164776,1
+KY,2134390,place:KY:2134390,Hanson city,Hanson,Hanson,21107,Hopkins County,Incorporated place,37.418006,-87.478957,1
+KY,2134534,place:KY:2134534,Hardin city,Hardin,Hardin,21157,Marshall County,Incorporated place,36.76506,-88.302175,1
+KY,2134552,place:KY:2134552,Hardinsburg city,Hardinsburg,Hardinsburg,21027,Breckinridge County,Incorporated place,37.771444,-86.450842,1
+KY,2134660,place:KY:2134660,Hardyville CDP,Hardyville,Hardyville,21099,Hart County,Census-designated place,37.254159,-85.793336,1
+KY,2134732,place:KY:2134732,Harlan city,Harlan,Harlan,21095,Harlan County,Incorporated place,36.845677,-83.311506,1
+KY,2134966,place:KY:2134966,Harrodsburg city,Harrodsburg,Harrodsburg,21167,Mercer County,Incorporated place,37.776944,-84.850008,1
+KY,2135020,place:KY:2135020,Hartford city,Hartford,Hartford,21183,Ohio County,Incorporated place,37.45338,-86.889849,1
+KY,2135200,place:KY:2135200,Hawesville city,Hawesville,Hawesville,21091,Hancock County,Incorporated place,37.891151,-86.757019,1
+KY,2135362,place:KY:2135362,Hazard city,Hazard,Hazard,21193,Perry County,Incorporated place,37.260506,-83.198235,1
+KY,2135380,place:KY:2135380,Hazel city,Hazel,Hazel,21035,Calloway County,Incorporated place,36.505471,-88.325254,1
+KY,2135398,place:KY:2135398,Hazel Green CDP,Hazel Green,Hazel Green,21237,Wolfe County,Census-designated place,37.802792,-83.419791,1
+KY,2135542,place:KY:2135542,Hebron CDP,Hebron,Hebron,21015,Boone County,Census-designated place,39.063817,-84.708281,1
+KY,2135545,place:KY:2135545,Hebron Estates city,Hebron Estates,Hebron Estates,21029,Bullitt County,Incorporated place,38.050051,-85.668132,1
+KY,2135866,place:KY:2135866,Henderson city,Henderson,Henderson,21101,Henderson County,Incorporated place,37.837649,-87.579666,1
+KY,2135902,place:KY:2135902,Hendron CDP,Hendron,Hendron,21145,McCracken County,Census-designated place,37.033084,-88.64572,1
+KY,2136102,place:KY:2136102,Heritage Creek city,Heritage Creek,Heritage Creek,21111,Jefferson County,Incorporated place,38.090735,-85.609209,1
+KY,2136298,place:KY:2136298,Hickman city,Hickman,Hickman,21075,Fulton County,Incorporated place,36.567371,-89.184567,1
+KY,2136316,place:KY:2136316,Hickory CDP,Hickory,Hickory,21083,Graves County,Census-designated place,36.81737,-88.647909,1
+KY,2136374,place:KY:2136374,Hickory Hill city,Hickory Hill,Hickory Hill,21111,Jefferson County,Incorporated place,38.287707,-85.567875,1
+KY,2136460,place:KY:2136460,High Bridge CDP,High Bridge,High Bridge,21113,Jessamine County,Census-designated place,37.831885,-84.704372,1
+KY,2136604,place:KY:2136604,Highland Heights city,Highland Heights,Highland Heights,21037,Campbell County,Incorporated place,39.035525,-84.45658,1
+KY,2136865,place:KY:2136865,Hills and Dales city,Hills and Dales,Hills and Dales,21111,Jefferson County,Incorporated place,38.300236,-85.623978,1
+KY,2136982,place:KY:2136982,Hillview city,Hillview,Hillview,21029,Bullitt County,Incorporated place,38.06198,-85.696525,1
+KY,2137108,place:KY:2137108,Hindman city,Hindman,Hindman,21119,Knott County,Incorporated place,37.334999,-82.981897,1
+KY,2137234,place:KY:2137234,Hiseville CDP,Hiseville,Hiseville,21009,Barren County,Census-designated place,37.10007,-85.815432,1
+KY,2137396,place:KY:2137396,Hodgenville city,Hodgenville,Hodgenville,21123,Larue County,Incorporated place,37.560045,-85.730829,1
+KY,2137576,place:KY:2137576,Hollow Creek city,Hollow Creek,Hollow Creek,21111,Jefferson County,Incorporated place,38.152645,-85.624468,1
+KY,2137630,place:KY:2137630,Hollyvilla city,Hollyvilla,Hollyvilla,21111,Jefferson County,Incorporated place,38.092771,-85.748111,1
+KY,2137918,place:KY:2137918,Hopkinsville city,Hopkinsville,Hopkinsville,21047,Christian County,Incorporated place,36.839284,-87.473544,1
+KY,2138008,place:KY:2138008,Horse Cave city,Horse Cave,Horse Cave,21099,Hart County,Incorporated place,37.169892,-85.917188,1
+KY,2138170,place:KY:2138170,Houston Acres city,Houston Acres,Houston Acres,21111,Jefferson County,Incorporated place,38.214826,-85.614484,1
+KY,2138670,place:KY:2138670,Hunters Hollow city,Hunters Hollow,Hunters Hollow,21029,Bullitt County,Incorporated place,38.078357,-85.6933,1
+KY,2138814,place:KY:2138814,Hurstbourne city,Hurstbourne,Hurstbourne,21111,Jefferson County,Incorporated place,38.239385,-85.591435,1
+KY,2138818,place:KY:2138818,Hurstbourne Acres city,Hurstbourne Acres,Hurstbourne Acres,21111,Jefferson County,Incorporated place,38.220205,-85.590655,1
+KY,2138836,place:KY:2138836,Hustonville city,Hustonville,Hustonville,21137,Lincoln County,Incorporated place,37.480549,-84.813522,1
+KY,2138908,place:KY:2138908,Hyden city,Hyden,Hyden,21131,Leslie County,Incorporated place,37.156789,-83.375755,1
+KY,2139142,place:KY:2139142,Independence city,Independence,Independence,21117,Kenton County,Incorporated place,38.957442,-84.547372,1
+KY,2139304,place:KY:2139304,Indian Hills city,Indian Hills,Indian Hills,21111,Jefferson County,Incorporated place,38.288218,-85.670877,1
+KY,2139430,place:KY:2139430,Inez city,Inez,Inez,21159,Martin County,Incorporated place,37.869342,-82.539801,1
+KY,2139592,place:KY:2139592,Ironville CDP,Ironville,Ironville,21019,Boyd County,Census-designated place,38.457474,-82.6986,1
+KY,2139646,place:KY:2139646,Irvine city,Irvine,Irvine,21065,Estill County,Incorporated place,37.696432,-83.968343,1
+KY,2139664,place:KY:2139664,Irvington city,Irvington,Irvington,21027,Breckinridge County,Incorporated place,37.878074,-86.285528,1
+KY,2139700,place:KY:2139700,Island city,Island,Island,21149,McLean County,Incorporated place,37.44258,-87.147199,1
+KY,2139952,place:KY:2139952,Jackson city,Jackson,Jackson,21025,Breathitt County,Incorporated place,37.565251,-83.376147,1
+KY,2140114,place:KY:2140114,Jamestown city,Jamestown,Jamestown,21207,Russell County,Incorporated place,36.990587,-85.06443,1
+KY,2140204,place:KY:2140204,Jeff CDP,Jeff,Jeff,21193,Perry County,Census-designated place,37.210779,-83.138459,1
+KY,2140222,place:KY:2140222,Jeffersontown city,Jeffersontown,Jeffersontown,21111,Jefferson County,Incorporated place,38.205547,-85.569661,1
+KY,2140240,place:KY:2140240,Jeffersonville city,Jeffersonville,Jeffersonville,21173,Montgomery County,Incorporated place,37.956333,-83.829245,1
+KY,2140312,place:KY:2140312,Jenkins city,Jenkins,Jenkins,21133,Letcher County,Incorporated place,37.176644,-82.651291,1
+KY,2141338,place:KY:2141338,Junction City city,Junction City,Junction City,21021,Boyle County,Incorporated place,37.585684,-84.789446,1
+KY,2141716,place:KY:2141716,Keene city,Keene,Keene,21113,Jessamine County,Incorporated place,37.942173,-84.642798,1
+KY,2142094,place:KY:2142094,Kenton Vale city,Kenton Vale,Kenton Vale,21117,Kenton County,Incorporated place,39.051436,-84.519894,1
+KY,2142112,place:KY:2142112,Kenvir CDP,Kenvir,Kenvir,21095,Harlan County,Census-designated place,36.853131,-83.153816,1
+KY,2142292,place:KY:2142292,Kevil city,Kevil,Kevil,21007,Ballard County,Incorporated place,37.084213,-88.882921,1
+KY,2142598,place:KY:2142598,Kingsley city,Kingsley,Kingsley,21111,Jefferson County,Incorporated place,38.221933,-85.672657,1
+KY,2143030,place:KY:2143030,Knottsville CDP,Knottsville,Knottsville,21059,Daviess County,Census-designated place,37.772971,-86.911503,1
+KY,2143264,place:KY:2143264,Kuttawa city,Kuttawa,Kuttawa,21143,Lyon County,Incorporated place,37.060467,-88.114389,1
+KY,2143336,place:KY:2143336,La Center city,La Center,La Center,21007,Ballard County,Incorporated place,37.074889,-88.975325,1
+KY,2143480,place:KY:2143480,La Grange city,La Grange,La Grange,21185,Oldham County,Incorporated place,38.397251,-85.376804,1
+KY,2143444,place:KY:2143444,LaFayette city,LaFayette,LaFayette,21047,Christian County,Incorporated place,36.660214,-87.658132,1
+KY,2143606,place:KY:2143606,Lakeside Park city,Lakeside Park,Lakeside Park,21117,Kenton County,Incorporated place,39.034204,-84.566756,1
+KY,2143668,place:KY:2143668,Lakeview Heights city,Lakeview Heights,Lakeview Heights,21205,Rowan County,Incorporated place,38.152026,-83.504312,1
+KY,2143840,place:KY:2143840,Lancaster city,Lancaster,Lancaster,21079,Garrard County,Incorporated place,37.610419,-84.584122,1
+KY,2143900,place:KY:2143900,Langdon Place city,Langdon Place,Langdon Place,21111,Jefferson County,Incorporated place,38.286552,-85.58492,1
+KY,2144146,place:KY:2144146,Lawrenceburg city,Lawrenceburg,Lawrenceburg,21005,Anderson County,Incorporated place,38.033534,-84.904548,1
+KY,2144344,place:KY:2144344,Lebanon city,Lebanon,Lebanon,21155,Marion County,Incorporated place,37.570164,-85.260129,1
+KY,2144362,place:KY:2144362,Lebanon Junction city,Lebanon Junction,Lebanon Junction,21029,Bullitt County,Incorporated place,37.835239,-85.722355,1
+KY,2144434,place:KY:2144434,Ledbetter CDP,Ledbetter,Ledbetter,21139,Livingston County,Census-designated place,37.052414,-88.496814,1
+KY,2144686,place:KY:2144686,Leitchfield city,Leitchfield,Leitchfield,21085,Grayson County,Incorporated place,37.48624,-86.284687,1
+KY,2145064,place:KY:2145064,Lewisburg city,Lewisburg,Lewisburg,21141,Logan County,Incorporated place,36.98723,-86.950188,1
+KY,2145136,place:KY:2145136,Lewisport city,Lewisport,Lewisport,21091,Hancock County,Incorporated place,37.930668,-86.902816,1
+KY,2146027,place:KY:2146027,Lexington-Fayette urban county,Lexington-Fayette urban county,Lexington-Fayette urban county,21067,Fayette County,Incorporated place,38.040638,-84.458238,1
+KY,2146072,place:KY:2146072,Liberty city,Liberty,Liberty,21045,Casey County,Incorporated place,37.317988,-84.930487,1
+KY,2146540,place:KY:2146540,Lincolnshire city,Lincolnshire,Lincolnshire,21111,Jefferson County,Incorporated place,38.223784,-85.62156,1
+KY,2147062,place:KY:2147062,Livermore city,Livermore,Livermore,21149,McLean County,Incorporated place,37.492045,-87.134135,1
+KY,2147098,place:KY:2147098,Livingston city,Livingston,Livingston,21203,Rockcastle County,Incorporated place,37.29718,-84.215093,1
+KY,2147476,place:KY:2147476,London city,London,London,21125,Laurel County,Incorporated place,37.118437,-84.077948,1
+KY,2147710,place:KY:2147710,Loretto city,Loretto,Loretto,21155,Marion County,Incorporated place,37.642012,-85.393166,1
+KY,2147854,place:KY:2147854,Louisa city,Louisa,Louisa,21127,Lawrence County,Incorporated place,38.111611,-82.61517,1
+KY,2148000,place:KY:2148000,Louisville city,Louisville,Louisville,21111,Jefferson County,Incorporated place,38.224692,-85.741067,1
+KY,2148006,place:KY:2148006,Louisville/Jefferson County metro government (balance),Louisville/Jefferson County metro government (balance),Louisville/Jefferson County metro government (balance),21111,Jefferson County,Incorporated place,38.165376,-85.647377,1
+KY,2148072,place:KY:2148072,Lovelaceville CDP,Lovelaceville,Lovelaceville,21007,Ballard County,Census-designated place,36.967427,-88.832446,1
+KY,2148234,place:KY:2148234,Lowes CDP,Lowes,Lowes,21083,Graves County,Census-designated place,36.882838,-88.766366,1
+KY,2148288,place:KY:2148288,Loyall city,Loyall,Loyall,21095,Harlan County,Incorporated place,36.851937,-83.349013,1
+KY,2148378,place:KY:2148378,Ludlow city,Ludlow,Ludlow,21117,Kenton County,Incorporated place,39.088863,-84.548185,1
+KY,2148540,place:KY:2148540,Lynch city,Lynch,Lynch,21095,Harlan County,Incorporated place,36.964178,-82.914259,1
+KY,2148558,place:KY:2148558,Lyndon city,Lyndon,Lyndon,21111,Jefferson County,Incorporated place,38.262736,-85.587635,1
+KY,2148648,place:KY:2148648,Lynnview city,Lynnview,Lynnview,21111,Jefferson County,Incorporated place,38.179135,-85.711215,1
+KY,2149026,place:KY:2149026,Maceo CDP,Maceo,Maceo,21059,Daviess County,Census-designated place,37.85631,-86.993641,1
+KY,2149206,place:KY:2149206,Mackville city,Mackville,Mackville,21229,Washington County,Incorporated place,37.734077,-85.069651,1
+KY,2149368,place:KY:2149368,Madisonville city,Madisonville,Madisonville,21107,Hopkins County,Incorporated place,37.339333,-87.503733,1
+KY,2149476,place:KY:2149476,Magnolia CDP,Magnolia,Magnolia,21123,Larue County,Census-designated place,37.45654,-85.734686,1
+KY,2149656,place:KY:2149656,Manchester city,Manchester,Manchester,21051,Clay County,Incorporated place,37.146544,-83.769237,1
+KY,2149746,place:KY:2149746,Manitou CDP,Manitou,Manitou,21107,Hopkins County,Census-designated place,37.37395,-87.575537,1
+KY,2149800,place:KY:2149800,Manor Creek city,Manor Creek,Manor Creek,21111,Jefferson County,Incorporated place,38.298227,-85.587421,1
+KY,2150034,place:KY:2150034,Marion city,Marion,Marion,21055,Crittenden County,Incorporated place,37.331666,-88.081244,1
+KY,2150124,place:KY:2150124,Marrowbone CDP,Marrowbone,Marrowbone,21057,Cumberland County,Census-designated place,36.834803,-85.503116,1
+KY,2150286,place:KY:2150286,Martin city,Martin,Martin,21071,Floyd County,Incorporated place,37.566755,-82.760342,1
+KY,2150412,place:KY:2150412,Maryhill Estates city,Maryhill Estates,Maryhill Estates,21111,Jefferson County,Incorporated place,38.266379,-85.653229,1
+KY,2150520,place:KY:2150520,Masonville CDP,Masonville,Masonville,21059,Daviess County,Census-designated place,37.672112,-87.056086,1
+KY,2150556,place:KY:2150556,Massac CDP,Massac,Massac,21145,McCracken County,Census-designated place,37.032071,-88.686155,1
+KY,2150898,place:KY:2150898,Mayfield city,Mayfield,Mayfield,21083,Graves County,Incorporated place,36.737459,-88.644491,1
+KY,2150952,place:KY:2150952,Mayking CDP,Mayking,Mayking,21133,Letcher County,Census-designated place,37.136254,-82.774607,1
+KY,2151006,place:KY:2151006,Mays Lick CDP,Mays Lick,Mays Lick,21161,Mason County,Census-designated place,38.51977,-83.846142,1
+KY,2151024,place:KY:2151024,Maysville city,Maysville,Maysville,21161,Mason County,Incorporated place,38.650015,-83.792961,1
+KY,2151042,place:KY:2151042,Maytown CDP,Maytown,Maytown,21071,Floyd County,Census-designated place,37.533495,-82.801483,1
+KY,2148810,place:KY:2148810,McCarr CDP,McCarr,McCarr,21195,Pike County,Census-designated place,37.61778,-82.170574,1
+KY,2148954,place:KY:2148954,McDowell CDP,McDowell,McDowell,21071,Floyd County,Census-designated place,37.460048,-82.728264,1
+KY,2149098,place:KY:2149098,McHenry city,McHenry,McHenry,21183,Ohio County,Incorporated place,37.377907,-86.922689,1
+KY,2149116,place:KY:2149116,McKee city,McKee,McKee,21109,Jackson County,Incorporated place,37.430203,-83.985628,1
+KY,2149134,place:KY:2149134,McKinney CDP,McKinney,McKinney,21137,Lincoln County,Census-designated place,37.454898,-84.759347,1
+KY,2149278,place:KY:2149278,McRoberts CDP,McRoberts,McRoberts,21133,Letcher County,Census-designated place,37.220774,-82.668122,1
+KY,2151258,place:KY:2151258,Meadow Vale city,Meadow Vale,Meadow Vale,21111,Jefferson County,Incorporated place,38.283323,-85.572513,1
+KY,2151193,place:KY:2151193,Meadowbrook Farm city,Meadowbrook Farm,Meadowbrook Farm,21111,Jefferson County,Incorporated place,38.278368,-85.574741,1
+KY,2151294,place:KY:2151294,Meadowview Estates city,Meadowview Estates,Meadowview Estates,21111,Jefferson County,Incorporated place,38.223054,-85.635686,1
+KY,2151438,place:KY:2151438,Melbourne city,Melbourne,Melbourne,21037,Campbell County,Incorporated place,39.031927,-84.370706,1
+KY,2151564,place:KY:2151564,Mentor city,Mentor,Mentor,21037,Campbell County,Incorporated place,38.891694,-84.248785,1
+KY,2151924,place:KY:2151924,Middlesborough city,Middlesborough,Middlesborough,21013,Bell County,Incorporated place,36.613468,-83.722453,1
+KY,2151978,place:KY:2151978,Middletown city,Middletown,Middletown,21111,Jefferson County,Incorporated place,38.242082,-85.520741,1
+KY,2152140,place:KY:2152140,Midway city,Midway,Midway,21239,Woodford County,Incorporated place,38.146461,-84.686144,1
+KY,2152302,place:KY:2152302,Millersburg city,Millersburg,Millersburg,21017,Bourbon County,Incorporated place,38.304488,-84.143423,1
+KY,2152464,place:KY:2152464,Millstone CDP,Millstone,Millstone,21133,Letcher County,Census-designated place,37.163373,-82.749749,1
+KY,2152590,place:KY:2152590,Milton city,Milton,Milton,21223,Trimble County,Incorporated place,38.72226,-85.380318,1
+KY,2152842,place:KY:2152842,Mockingbird Valley city,Mockingbird Valley,Mockingbird Valley,21111,Jefferson County,Incorporated place,38.27037,-85.67928,1
+KY,2153076,place:KY:2153076,Monterey city,Monterey,Monterey,21187,Owen County,Incorporated place,38.4248,-84.871441,1
+KY,2153130,place:KY:2153130,Monticello city,Monticello,Monticello,21231,Wayne County,Incorporated place,36.840509,-84.849928,1
+KY,2153328,place:KY:2153328,Moorland city,Moorland,Moorland,21111,Jefferson County,Incorporated place,38.272402,-85.580252,1
+KY,2153418,place:KY:2153418,Morehead city,Morehead,Morehead,21205,Rowan County,Incorporated place,38.190071,-83.449134,1
+KY,2153472,place:KY:2153472,Morganfield city,Morganfield,Morganfield,21225,Union County,Incorporated place,37.688895,-87.881394,1
+KY,2153490,place:KY:2153490,Morgantown city,Morgantown,Morgantown,21031,Butler County,Incorporated place,37.21741,-86.700155,1
+KY,2153616,place:KY:2153616,Mortons Gap city,Mortons Gap,Mortons Gap,21107,Hopkins County,Incorporated place,37.240706,-87.464606,1
+KY,2153670,place:KY:2153670,Moseleyville CDP,Moseleyville,Moseleyville,21059,Daviess County,Census-designated place,37.679503,-87.195623,1
+KY,2153976,place:KY:2153976,Mount Olivet city,Mount Olivet,Mount Olivet,21201,Robertson County,Incorporated place,38.530874,-84.033867,1
+KY,2154084,place:KY:2154084,Mount Sterling city,Mount Sterling,Mount Sterling,21173,Montgomery County,Incorporated place,38.065465,-83.948822,1
+KY,2154174,place:KY:2154174,Mount Vernon city,Mount Vernon,Mount Vernon,21203,Rockcastle County,Incorporated place,37.357071,-84.332869,1
+KY,2154228,place:KY:2154228,Mount Washington city,Mount Washington,Mount Washington,21029,Bullitt County,Incorporated place,38.042622,-85.556024,1
+KY,2154480,place:KY:2154480,Muldraugh city,Muldraugh,Muldraugh,21163,Meade County,Incorporated place,37.936572,-85.991515,1
+KY,2154570,place:KY:2154570,Munfordville city,Munfordville,Munfordville,21099,Hart County,Incorporated place,37.278486,-85.899361,1
+KY,2154642,place:KY:2154642,Murray city,Murray,Murray,21035,Calloway County,Incorporated place,36.614202,-88.322075,1
+KY,2154660,place:KY:2154660,Murray Hill city,Murray Hill,Murray Hill,21111,Jefferson County,Incorporated place,38.290888,-85.587644,1
+KY,2155092,place:KY:2155092,Nebo city,Nebo,Nebo,21107,Hopkins County,Incorporated place,37.383211,-87.641568,1
+KY,2155596,place:KY:2155596,New Castle city,New Castle,New Castle,21103,Henry County,Incorporated place,38.433564,-85.169238,1
+KY,2155758,place:KY:2155758,New Haven city,New Haven,New Haven,21179,Nelson County,Incorporated place,37.659187,-85.589135,1
+KY,2155794,place:KY:2155794,New Hope CDP,New Hope,New Hope,21179,Nelson County,Census-designated place,37.626239,-85.504014,1
+KY,2155884,place:KY:2155884,Newport city,Newport,Newport,21037,Campbell County,Incorporated place,39.0861,-84.486933,1
+KY,2156136,place:KY:2156136,Nicholasville city,Nicholasville,Nicholasville,21113,Jessamine County,Incorporated place,37.89226,-84.565647,1
+KY,2156550,place:KY:2156550,Norbourne Estates city,Norbourne Estates,Norbourne Estates,21111,Jefferson County,Incorporated place,38.246551,-85.646517,1
+KY,2156694,place:KY:2156694,North Corbin CDP,North Corbin,North Corbin,21125,Laurel County,Census-designated place,36.965634,-84.095575,1
+KY,2156820,place:KY:2156820,North Middletown city,North Middletown,North Middletown,21017,Bourbon County,Incorporated place,38.142537,-84.110202,1
+KY,2156730,place:KY:2156730,Northfield city,Northfield,Northfield,21111,Jefferson County,Incorporated place,38.285765,-85.636266,1
+KY,2156910,place:KY:2156910,Nortonville city,Nortonville,Nortonville,21107,Hopkins County,Incorporated place,37.185089,-87.45545,1
+KY,2156928,place:KY:2156928,Norwood city,Norwood,Norwood,21111,Jefferson County,Incorporated place,38.252175,-85.610868,1
+KY,2157090,place:KY:2157090,Oak Grove city,Oak Grove,Oak Grove,21047,Christian County,Incorporated place,36.673774,-87.422506,1
+KY,2157030,place:KY:2157030,Oakbrook CDP,Oakbrook,Oakbrook,21015,Boone County,Census-designated place,38.996731,-84.680417,1
+KY,2157144,place:KY:2157144,Oakland city,Oakland,Oakland,21227,Warren County,Incorporated place,37.046199,-86.246902,1
+KY,2157658,place:KY:2157658,Old Brownsboro Place city,Old Brownsboro Place,Old Brownsboro Place,21111,Jefferson County,Incorporated place,38.28928,-85.613135,1
+KY,2157918,place:KY:2157918,Olive Hill city,Olive Hill,Olive Hill,21043,Carter County,Incorporated place,38.305839,-83.168204,1
+KY,2158062,place:KY:2158062,Oneida CDP,Oneida,Oneida,21051,Clay County,Census-designated place,37.272878,-83.647116,1
+KY,2158116,place:KY:2158116,Onton CDP,Onton,Onton,21233,Webster County,Census-designated place,37.561354,-87.439187,1
+KY,2158200,place:KY:2158200,Orchard Grass Hills city,Orchard Grass Hills,Orchard Grass Hills,21185,Oldham County,Incorporated place,38.321708,-85.523181,1
+KY,2158620,place:KY:2158620,Owensboro city,Owensboro,Owensboro,21059,Daviess County,Incorporated place,37.757172,-87.117398,1
+KY,2158692,place:KY:2158692,Owenton city,Owenton,Owenton,21187,Owen County,Incorporated place,38.539027,-84.839225,1
+KY,2158710,place:KY:2158710,Owingsville city,Owingsville,Owingsville,21011,Bath County,Incorporated place,38.136631,-83.755267,1
+KY,2158836,place:KY:2158836,Paducah city,Paducah,Paducah,21145,McCracken County,Incorporated place,37.070892,-88.644477,1
+KY,2158962,place:KY:2158962,Paintsville city,Paintsville,Paintsville,21115,Johnson County,Incorporated place,37.820304,-82.805967,1
+KY,2159124,place:KY:2159124,Panther CDP,Panther,Panther,21059,Daviess County,Census-designated place,37.639467,-87.228259,1
+KY,2159196,place:KY:2159196,Paris city,Paris,Paris,21017,Bourbon County,Incorporated place,38.200157,-84.272689,1
+KY,2159232,place:KY:2159232,Park City city,Park City,Park City,21009,Barren County,Incorporated place,37.093499,-86.048077,1
+KY,2159255,place:KY:2159255,Park Hills city,Park Hills,Park Hills,21117,Kenton County,Incorporated place,39.06713,-84.532674,1
+KY,2159322,place:KY:2159322,Parkway Village city,Parkway Village,Parkway Village,21111,Jefferson County,Incorporated place,38.211308,-85.738108,1
+KY,2159466,place:KY:2159466,Pathfork CDP,Pathfork,Pathfork,21095,Harlan County,Census-designated place,36.762189,-83.474138,1
+KY,2159592,place:KY:2159592,Payne Gap CDP,Payne Gap,Payne Gap,21133,Letcher County,Census-designated place,37.147722,-82.671108,1
+KY,2159934,place:KY:2159934,Pembroke city,Pembroke,Pembroke,21047,Christian County,Incorporated place,36.774545,-87.359488,1
+KY,2160258,place:KY:2160258,Perryville city,Perryville,Perryville,21021,Boyle County,Incorporated place,37.650182,-84.950771,1
+KY,2160312,place:KY:2160312,Petersburg CDP,Petersburg,Petersburg,21015,Boone County,Census-designated place,39.047838,-84.853645,1
+KY,2160492,place:KY:2160492,Pewee Valley city,Pewee Valley,Pewee Valley,21185,Oldham County,Incorporated place,38.312178,-85.489569,1
+KY,2160600,place:KY:2160600,Phelps CDP,Phelps,Phelps,21195,Pike County,Census-designated place,37.509058,-82.160558,1
+KY,2160654,place:KY:2160654,Philpot CDP,Philpot,Philpot,21059,Daviess County,Census-designated place,37.735181,-87.000357,1
+KY,2160852,place:KY:2160852,Pikeville city,Pikeville,Pikeville,21195,Pike County,Incorporated place,37.476891,-82.528796,1
+KY,2161122,place:KY:2161122,Pine Knot CDP,Pine Knot,Pine Knot,21147,McCreary County,Census-designated place,36.665597,-84.439748,1
+KY,2161248,place:KY:2161248,Pineville city,Pineville,Pineville,21013,Bell County,Incorporated place,36.747515,-83.706854,1
+KY,2161356,place:KY:2161356,Pioneer Village city,Pioneer Village,Pioneer Village,21029,Bullitt County,Incorporated place,38.065692,-85.671097,1
+KY,2161374,place:KY:2161374,Pippa Passes city,Pippa Passes,Pippa Passes,21119,Knott County,Incorporated place,37.334244,-82.873346,1
+KY,2161536,place:KY:2161536,Plano CDP,Plano,Plano,21227,Warren County,Census-designated place,36.877183,-86.416528,1
+KY,2161554,place:KY:2161554,Plantation city,Plantation,Plantation,21111,Jefferson County,Incorporated place,38.283384,-85.593578,1
+KY,2161680,place:KY:2161680,Pleasant Ridge CDP,Pleasant Ridge,Pleasant Ridge,21059,Daviess County,Census-designated place,37.595399,-86.992492,1
+KY,2161734,place:KY:2161734,Pleasant View CDP,Pleasant View,Pleasant View,21235,Whitley County,Census-designated place,36.679194,-84.127988,1
+KY,2161788,place:KY:2161788,Pleasureville city,Pleasureville,Pleasureville,21103,Henry County,Incorporated place,38.35151,-85.111163,1
+KY,2161860,place:KY:2161860,Plum Springs city,Plum Springs,Plum Springs,21227,Warren County,Incorporated place,37.022806,-86.380119,1
+KY,2162202,place:KY:2162202,Poole CDP,Poole,Poole,21233,Webster County,Census-designated place,37.639557,-87.648004,1
+KY,2162652,place:KY:2162652,Powderly city,Powderly,Powderly,21177,Muhlenberg County,Incorporated place,37.239759,-87.153638,1
+KY,2162940,place:KY:2162940,Prestonsburg city,Prestonsburg,Prestonsburg,21071,Floyd County,Incorporated place,37.679596,-82.767416,1
+KY,2162958,place:KY:2162958,Prestonville city,Prestonville,Prestonville,21041,Carroll County,Incorporated place,38.681999,-85.1934,1
+KY,2163138,place:KY:2163138,Princeton city,Princeton,Princeton,21033,Caldwell County,Incorporated place,37.106477,-87.884902,1
+KY,2163264,place:KY:2163264,Prospect city,Prospect,Prospect,21111,Jefferson County,Incorporated place,38.346892,-85.608871,1
+KY,2163372,place:KY:2163372,Providence city,Providence,Providence,21233,Webster County,Incorporated place,37.39908,-87.751666,1
+KY,2163426,place:KY:2163426,Pryorsburg CDP,Pryorsburg,Pryorsburg,21083,Graves County,Census-designated place,36.689842,-88.706433,1
+KY,2163804,place:KY:2163804,Rabbit Hash CDP,Rabbit Hash,Rabbit Hash,21015,Boone County,Census-designated place,38.929206,-84.852074,1
+KY,2163858,place:KY:2163858,Raceland city,Raceland,Raceland,21089,Greenup County,Incorporated place,38.537369,-82.73875,1
+KY,2163912,place:KY:2163912,Radcliff city,Radcliff,Radcliff,21093,Hardin County,Incorporated place,37.820058,-85.936371,1
+KY,2164092,place:KY:2164092,Ravenna city,Ravenna,Ravenna,21065,Estill County,Incorporated place,37.686986,-83.950234,1
+KY,2164146,place:KY:2164146,Raywick city,Raywick,Raywick,21155,Marion County,Incorporated place,37.562313,-85.436291,1
+KY,2164632,place:KY:2164632,Reidland CDP,Reidland,Reidland,21145,McCracken County,Census-designated place,37.008198,-88.526997,1
+KY,2165208,place:KY:2165208,Richlawn city,Richlawn,Richlawn,21111,Jefferson County,Incorporated place,38.254671,-85.641203,1
+KY,2165226,place:KY:2165226,Richmond city,Richmond,Richmond,21151,Madison County,Incorporated place,37.729145,-84.299364,1
+KY,2165388,place:KY:2165388,Rineyville CDP,Rineyville,Rineyville,21093,Hardin County,Census-designated place,37.742249,-85.966409,1
+KY,2165559,place:KY:2165559,River Bluff city,River Bluff,River Bluff,21185,Oldham County,Incorporated place,38.37192,-85.604041,1
+KY,2165766,place:KY:2165766,Riverwood city,Riverwood,Riverwood,21111,Jefferson County,Incorporated place,38.283565,-85.661871,1
+KY,2165874,place:KY:2165874,Robards city,Robards,Robards,21101,Henderson County,Incorporated place,37.67858,-87.534629,1
+KY,2165982,place:KY:2165982,Rochester city,Rochester,Rochester,21031,Butler County,Incorporated place,37.20863,-86.89237,1
+KY,2166162,place:KY:2166162,Rockholds CDP,Rockholds,Rockholds,21235,Whitley County,Census-designated place,36.831563,-84.107664,1
+KY,2166216,place:KY:2166216,Rockport city,Rockport,Rockport,21183,Ohio County,Incorporated place,37.337839,-86.988984,1
+KY,2166486,place:KY:2166486,Rolling Fields city,Rolling Fields,Rolling Fields,21111,Jefferson County,Incorporated place,38.268926,-85.670841,1
+KY,2166504,place:KY:2166504,Rolling Hills city,Rolling Hills,Rolling Hills,21111,Jefferson County,Incorporated place,38.28251,-85.578404,1
+KY,2166846,place:KY:2166846,Rosine CDP,Rosine,Rosine,21183,Ohio County,Census-designated place,37.454984,-86.736351,1
+KY,2167458,place:KY:2167458,Russell city,Russell,Russell,21089,Greenup County,Incorporated place,38.513035,-82.696048,1
+KY,2167494,place:KY:2167494,Russell Springs city,Russell Springs,Russell Springs,21207,Russell County,Incorporated place,37.050696,-85.080481,1
+KY,2167512,place:KY:2167512,Russellville city,Russellville,Russellville,21141,Logan County,Incorporated place,36.839518,-86.895579,1
+KY,2167602,place:KY:2167602,Ryland Heights city,Ryland Heights,Ryland Heights,21117,Kenton County,Incorporated place,38.980272,-84.432207,1
+KY,2167638,place:KY:2167638,Sacramento city,Sacramento,Sacramento,21149,McLean County,Incorporated place,37.416599,-87.267897,1
+KY,2167656,place:KY:2167656,Sadieville city,Sadieville,Sadieville,21209,Scott County,Incorporated place,38.387958,-84.546656,1
+KY,2168052,place:KY:2168052,Salem city,Salem,Salem,21139,Livingston County,Incorporated place,37.264664,-88.241185,1
+KY,2168160,place:KY:2168160,Salt Lick city,Salt Lick,Salt Lick,21011,Bath County,Incorporated place,38.119484,-83.615675,1
+KY,2168214,place:KY:2168214,Salvisa CDP,Salvisa,Salvisa,21167,Mercer County,Census-designated place,37.925519,-84.863194,1
+KY,2168232,place:KY:2168232,Salyersville city,Salyersville,Salyersville,21153,Magoffin County,Incorporated place,37.741893,-83.063584,1
+KY,2168358,place:KY:2168358,Sanders city,Sanders,Sanders,21041,Carroll County,Incorporated place,38.654728,-84.946727,1
+KY,2168556,place:KY:2168556,Sandy Hook city,Sandy Hook,Sandy Hook,21063,Elliott County,Incorporated place,38.09353,-83.122351,1
+KY,2168646,place:KY:2168646,Sardis city,Sardis,Sardis,21161,Mason County,Incorporated place,38.533567,-83.951689,1
+KY,2168952,place:KY:2168952,Science Hill city,Science Hill,Science Hill,21199,Pulaski County,Incorporated place,37.173216,-84.633655,1
+KY,2169114,place:KY:2169114,Scottsville city,Scottsville,Scottsville,21003,Allen County,Incorporated place,36.749245,-86.207631,1
+KY,2169222,place:KY:2169222,Sebree city,Sebree,Sebree,21233,Webster County,Incorporated place,37.601221,-87.511459,1
+KY,2169258,place:KY:2169258,Sedalia CDP,Sedalia,Sedalia,21083,Graves County,Census-designated place,36.648588,-88.601387,1
+KY,2169384,place:KY:2169384,Seneca Gardens city,Seneca Gardens,Seneca Gardens,21111,Jefferson County,Incorporated place,38.228037,-85.676395,1
+KY,2169852,place:KY:2169852,Sharpsburg city,Sharpsburg,Sharpsburg,21011,Bath County,Incorporated place,38.201662,-83.925106,1
+KY,2170050,place:KY:2170050,Shelbyville city,Shelbyville,Shelbyville,21211,Shelby County,Incorporated place,38.206257,-85.233599,1
+KY,2170086,place:KY:2170086,Shepherdsville city,Shepherdsville,Shepherdsville,21029,Bullitt County,Incorporated place,37.981425,-85.702007,1
+KY,2170284,place:KY:2170284,Shively city,Shively,Shively,21111,Jefferson County,Incorporated place,38.198839,-85.813916,1
+KY,2170644,place:KY:2170644,Silver Grove city,Silver Grove,Silver Grove,21037,Campbell County,Incorporated place,39.040106,-84.400325,1
+KY,2170752,place:KY:2170752,Simpsonville city,Simpsonville,Simpsonville,21211,Shelby County,Incorporated place,38.216376,-85.348781,1
+KY,2171130,place:KY:2171130,Slaughters city,Slaughters,Slaughters,21233,Webster County,Incorporated place,37.489607,-87.505281,1
+KY,2171364,place:KY:2171364,Smithfield city,Smithfield,Smithfield,21103,Henry County,Incorporated place,38.386589,-85.254816,1
+KY,2171382,place:KY:2171382,Smithland city,Smithland,Smithland,21139,Livingston County,Incorporated place,37.138794,-88.404811,1
+KY,2171454,place:KY:2171454,Smiths Grove city,Smiths Grove,Smiths Grove,21227,Warren County,Incorporated place,37.050205,-86.208076,1
+KY,2171688,place:KY:2171688,Somerset city,Somerset,Somerset,21199,Pulaski County,Incorporated place,37.086473,-84.60535,1
+KY,2171724,place:KY:2171724,Sonora city,Sonora,Sonora,21093,Hardin County,Incorporated place,37.525398,-85.898315,1
+KY,2171760,place:KY:2171760,Sorgho CDP,Sorgho,Sorgho,21059,Daviess County,Census-designated place,37.74587,-87.212854,1
+KY,2171814,place:KY:2171814,South Carrollton city,South Carrollton,South Carrollton,21177,Muhlenberg County,Incorporated place,37.335337,-87.140168,1
+KY,2172210,place:KY:2172210,South Shore city,South Shore,South Shore,21089,Greenup County,Incorporated place,38.721936,-82.964164,1
+KY,2172255,place:KY:2172255,South Wallins CDP,South Wallins,South Wallins,21095,Harlan County,Census-designated place,36.810909,-83.400029,1
+KY,2172264,place:KY:2172264,South Williamson CDP,South Williamson,South Williamson,21195,Pike County,Census-designated place,37.663198,-82.287764,1
+KY,2171976,place:KY:2171976,Southgate city,Southgate,Southgate,21037,Campbell County,Incorporated place,39.064135,-84.470578,1
+KY,2172372,place:KY:2172372,Sparta city,Sparta,Sparta,21077,Gallatin County,Incorporated place,38.695435,-84.906136,1
+KY,2172570,place:KY:2172570,Spottsville CDP,Spottsville,Spottsville,21101,Henderson County,Census-designated place,37.85517,-87.419338,1
+KY,2172770,place:KY:2172770,Spring Mill city,Spring Mill,Spring Mill,21111,Jefferson County,Incorporated place,38.14361,-85.631572,1
+KY,2172790,place:KY:2172790,Spring Valley city,Spring Valley,Spring Valley,21111,Jefferson County,Incorporated place,38.29689,-85.610149,1
+KY,2172660,place:KY:2172660,Springfield city,Springfield,Springfield,21229,Washington County,Incorporated place,37.694661,-85.217848,1
+KY,2167710,place:KY:2167710,St. Charles city,St. Charles,St. Charles,21107,Hopkins County,Incorporated place,37.190546,-87.549655,1
+KY,2167854,place:KY:2167854,St. Joseph CDP,St. Joseph,St. Joseph,21059,Daviess County,Census-designated place,37.69229,-87.328458,1
+KY,2167890,place:KY:2167890,St. Mary city,St. Mary,St. Mary,21155,Marion County,Incorporated place,37.57668,-85.344313,1
+KY,2167944,place:KY:2167944,St. Matthews city,St. Matthews,St. Matthews,21111,Jefferson County,Incorporated place,38.249334,-85.637758,1
+KY,2167998,place:KY:2167998,St. Regis Park city,St. Regis Park,St. Regis Park,21111,Jefferson County,Incorporated place,38.228699,-85.616826,1
+KY,2173038,place:KY:2173038,Stamping Ground city,Stamping Ground,Stamping Ground,21209,Scott County,Incorporated place,38.269144,-84.681991,1
+KY,2173110,place:KY:2173110,Stanford city,Stanford,Stanford,21137,Lincoln County,Incorporated place,37.531773,-84.65728,1
+KY,2173146,place:KY:2173146,Stanley CDP,Stanley,Stanley,21059,Daviess County,Census-designated place,37.818811,-87.240587,1
+KY,2173164,place:KY:2173164,Stanton city,Stanton,Stanton,21197,Powell County,Incorporated place,37.846094,-83.856617,1
+KY,2173362,place:KY:2173362,Stearns CDP,Stearns,Stearns,21147,McCreary County,Census-designated place,36.695915,-84.475992,1
+KY,2174064,place:KY:2174064,Strathmoor Manor city,Strathmoor Manor,Strathmoor Manor,21111,Jefferson County,Incorporated place,38.219019,-85.683576,1
+KY,2174082,place:KY:2174082,Strathmoor Village city,Strathmoor Village,Strathmoor Village,21111,Jefferson County,Incorporated place,38.22079,-85.677871,1
+KY,2174316,place:KY:2174316,Sturgis city,Sturgis,Sturgis,21225,Union County,Incorporated place,37.545049,-87.98694,1
+KY,2174586,place:KY:2174586,Summer Shade CDP,Summer Shade,Summer Shade,21169,Metcalfe County,Census-designated place,36.883933,-85.711934,1
+KY,2174604,place:KY:2174604,Summersville CDP,Summersville,Summersville,21087,Green County,Census-designated place,37.326049,-85.536823,1
+KY,2175190,place:KY:2175190,Sycamore city,Sycamore,Sycamore,21111,Jefferson County,Incorporated place,38.246832,-85.561224,1
+KY,2175270,place:KY:2175270,Symsonia CDP,Symsonia,Symsonia,21083,Graves County,Census-designated place,36.918482,-88.525534,1
+KY,2175738,place:KY:2175738,Taylor Mill city,Taylor Mill,Taylor Mill,21117,Kenton County,Incorporated place,39.008482,-84.49977,1
+KY,2175810,place:KY:2175810,Taylorsville city,Taylorsville,Taylorsville,21215,Spencer County,Incorporated place,38.032255,-85.349502,1
+KY,2175963,place:KY:2175963,Ten Broeck city,Ten Broeck,Ten Broeck,21111,Jefferson County,Incorporated place,38.296257,-85.578623,1
+KY,2176380,place:KY:2176380,Thornhill city,Thornhill,Thornhill,21111,Jefferson County,Incorporated place,38.287737,-85.624995,1
+KY,2176620,place:KY:2176620,Thruston CDP,Thruston,Thruston,21059,Daviess County,Census-designated place,37.792982,-87.020603,1
+KY,2177124,place:KY:2177124,Tolu CDP,Tolu,Tolu,21055,Crittenden County,Census-designated place,37.433669,-88.244822,1
+KY,2177160,place:KY:2177160,Tompkinsville city,Tompkinsville,Tompkinsville,21171,Monroe County,Incorporated place,36.701296,-85.693035,1
+KY,2177592,place:KY:2177592,Trenton city,Trenton,Trenton,21219,Todd County,Incorporated place,36.720944,-87.262156,1
+KY,2178384,place:KY:2178384,Union city,Union,Union,21015,Boone County,Incorporated place,38.947516,-84.675364,1
+KY,2178492,place:KY:2178492,Uniontown city,Uniontown,Uniontown,21225,Union County,Incorporated place,37.773409,-87.932225,1
+KY,2178672,place:KY:2178672,Upton city,Upton,Upton,21093,Hardin County,Incorporated place,37.458675,-85.900204,1
+KY,2178708,place:KY:2178708,Utica CDP,Utica,Utica,21059,Daviess County,Census-designated place,37.601455,-87.109278,1
+KY,2179194,place:KY:2179194,Van Lear CDP,Van Lear,Van Lear,21115,Johnson County,Census-designated place,37.777165,-82.747379,1
+KY,2179068,place:KY:2179068,Vanceburg city,Vanceburg,Vanceburg,21135,Lewis County,Incorporated place,38.594531,-83.323614,1
+KY,2179464,place:KY:2179464,Verona CDP,Verona,Verona,21015,Boone County,Census-designated place,38.805207,-84.663659,1
+KY,2179482,place:KY:2179482,Versailles city,Versailles,Versailles,21239,Woodford County,Incorporated place,38.049073,-84.724968,1
+KY,2179590,place:KY:2179590,Vicco CDP,Vicco,Vicco,21193,Perry County,Census-designated place,37.216087,-83.060823,1
+KY,2179698,place:KY:2179698,Villa Hills city,Villa Hills,Villa Hills,21117,Kenton County,Incorporated place,39.065123,-84.597984,1
+KY,2179734,place:KY:2179734,Vine Grove city,Vine Grove,Vine Grove,21093,Hardin County,Incorporated place,37.811861,-85.984416,1
+KY,2179860,place:KY:2179860,Virgie CDP,Virgie,Virgie,21195,Pike County,Census-designated place,37.332268,-82.582418,1
+KY,2180310,place:KY:2180310,Wallins Creek CDP,Wallins Creek,Wallins Creek,21095,Harlan County,Census-designated place,36.834561,-83.418775,1
+KY,2180490,place:KY:2180490,Walton city,Walton,Walton,21015,Boone County,Incorporated place,38.862427,-84.615043,1
+KY,2180616,place:KY:2180616,Warfield city,Warfield,Warfield,21159,Martin County,Incorporated place,37.839104,-82.422307,1
+KY,2180706,place:KY:2180706,Warsaw city,Warsaw,Warsaw,21077,Gallatin County,Incorporated place,38.783557,-84.892533,1
+KY,2180832,place:KY:2180832,Water Valley CDP,Water Valley,Water Valley,21083,Graves County,Census-designated place,36.568737,-88.809996,1
+KY,2180913,place:KY:2180913,Watterson Park city,Watterson Park,Watterson Park,21111,Jefferson County,Incorporated place,38.19499,-85.682825,1
+KY,2180958,place:KY:2180958,Waverly city,Waverly,Waverly,21225,Union County,Incorporated place,37.709733,-87.815111,1
+KY,2181012,place:KY:2181012,Wayland city,Wayland,Wayland,21071,Floyd County,Incorporated place,37.4559,-82.802598,1
+KY,2181372,place:KY:2181372,Wellington city,Wellington,Wellington,21111,Jefferson County,Incorporated place,38.21657,-85.670344,1
+KY,2181624,place:KY:2181624,West Buechel city,West Buechel,West Buechel,21111,Jefferson County,Incorporated place,38.194549,-85.668053,1
+KY,2181858,place:KY:2181858,West Liberty city,West Liberty,West Liberty,21175,Morgan County,Incorporated place,37.918042,-83.26741,1
+KY,2181876,place:KY:2181876,West Louisville CDP,West Louisville,West Louisville,21059,Daviess County,Census-designated place,37.698565,-87.286346,1
+KY,2181930,place:KY:2181930,West Point city,West Point,West Point,21093,Hardin County,Incorporated place,37.984801,-85.95495,1
+KY,2182056,place:KY:2182056,West Van Lear CDP,West Van Lear,West Van Lear,21115,Johnson County,Census-designated place,37.782065,-82.787239,1
+KY,2181948,place:KY:2181948,Westport CDP,Westport,Westport,21185,Oldham County,Census-designated place,38.475409,-85.479925,1
+KY,2182146,place:KY:2182146,Westwood CDP,Westwood,"Westwood, Boyd County",21019,Boyd County,Census-designated place,38.478816,-82.6809,1
+KY,2182164,place:KY:2182164,Westwood city,Westwood,"Westwood, Jefferson County",21111,Jefferson County,Incorporated place,38.279581,-85.584171,1
+KY,2182200,place:KY:2182200,Wheatcroft city,Wheatcroft,Wheatcroft,21233,Webster County,Incorporated place,37.489269,-87.861185,1
+KY,2182272,place:KY:2182272,Wheelwright city,Wheelwright,Wheelwright,21071,Floyd County,Incorporated place,37.339217,-82.718618,1
+KY,2182722,place:KY:2182722,White Plains city,White Plains,White Plains,21107,Hopkins County,Incorporated place,37.169433,-87.378922,1
+KY,2182776,place:KY:2182776,Whitesburg city,Whitesburg,Whitesburg,21133,Letcher County,Incorporated place,37.117754,-82.823017,1
+KY,2182830,place:KY:2182830,Whitesville city,Whitesville,Whitesville,21059,Daviess County,Incorporated place,37.683144,-86.869833,1
+KY,2182938,place:KY:2182938,Whitley City CDP,Whitley City,Whitley City,21147,McCreary County,Census-designated place,36.722795,-84.475469,1
+KY,2183064,place:KY:2183064,Wickliffe city,Wickliffe,Wickliffe,21007,Ballard County,Incorporated place,36.966236,-89.0819,1
+KY,2183172,place:KY:2183172,Wilder city,Wilder,Wilder,21037,Campbell County,Incorporated place,39.045252,-84.484527,1
+KY,2183208,place:KY:2183208,Wildwood city,Wildwood,Wildwood,21111,Jefferson County,Incorporated place,38.249038,-85.574695,1
+KY,2183334,place:KY:2183334,Williamsburg city,Williamsburg,Williamsburg,21235,Whitley County,Incorporated place,36.738714,-84.165651,1
+KY,2183406,place:KY:2183406,Williamstown city,Williamstown,Williamstown,21081,Grant County,Incorporated place,38.639807,-84.572514,1
+KY,2183424,place:KY:2183424,Willisburg city,Willisburg,Willisburg,21229,Washington County,Incorporated place,37.811604,-85.119551,1
+KY,2183550,place:KY:2183550,Wilmore city,Wilmore,Wilmore,21113,Jessamine County,Incorporated place,37.877835,-84.663902,1
+KY,2183676,place:KY:2183676,Winchester city,Winchester,Winchester,21049,Clark County,Incorporated place,38.002364,-84.190586,1
+KY,2183784,place:KY:2183784,Windy Hills city,Windy Hills,Windy Hills,21111,Jefferson County,Incorporated place,38.271699,-85.639605,1
+KY,2183856,place:KY:2183856,Wingo city,Wingo,Wingo,21083,Graves County,Incorporated place,36.641446,-88.741052,1
+KY,2184414,place:KY:2184414,Woodburn city,Woodburn,Woodburn,21227,Warren County,Incorporated place,36.84151,-86.531062,1
+KY,2184432,place:KY:2184432,Woodbury city,Woodbury,Woodbury,21031,Butler County,Incorporated place,37.183225,-86.634943,1
+KY,2184486,place:KY:2184486,Woodland Hills city,Woodland Hills,Woodland Hills,21111,Jefferson County,Incorporated place,38.23926,-85.529764,1
+KY,2184522,place:KY:2184522,Woodlawn city,Woodlawn,Woodlawn,21037,Campbell County,Incorporated place,39.090901,-84.47277,1
+KY,2184576,place:KY:2184576,Woodlawn Park city,Woodlawn Park,Woodlawn Park,21111,Jefferson County,Incorporated place,38.261427,-85.630727,1
+KY,2184864,place:KY:2184864,Worthington city,Worthington,Worthington,21089,Greenup County,Incorporated place,38.551106,-82.734954,1
+KY,2184891,place:KY:2184891,Worthington Hills city,Worthington Hills,Worthington Hills,21111,Jefferson County,Incorporated place,38.309321,-85.526958,1
+KY,2184900,place:KY:2184900,Worthville city,Worthville,Worthville,21041,Carroll County,Incorporated place,38.610132,-85.066917,1
+KY,2185008,place:KY:2185008,Wurtland city,Wurtland,Wurtland,21089,Greenup County,Incorporated place,38.549598,-82.779018,1
+KY,2185224,place:KY:2185224,Yelvington CDP,Yelvington,Yelvington,21059,Daviess County,Census-designated place,37.849144,-86.977855,1

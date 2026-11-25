@@ -1,0 +1,627 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+AR,0500190,place:AR:0500190,Acorn CDP,Acorn,Acorn,05113,Polk County,Census-designated place,34.638786,-94.200112,1
+AR,0500250,place:AR:0500250,Adona city,Adona,Adona,05105,Perry County,Incorporated place,35.03993,-92.899132,1
+AR,0500580,place:AR:0500580,Alexander city,Alexander,Alexander,05125,Saline County,Incorporated place,34.618604,-92.451218,1
+AR,0500700,place:AR:0500700,Alicia town,Alicia,Alicia,05075,Lawrence County,Incorporated place,35.892907,-91.08345,1
+AR,0500730,place:AR:0500730,Alix CDP,Alix,Alix,05047,Franklin County,Census-designated place,35.422002,-93.728784,1
+AR,0500820,place:AR:0500820,Alleene CDP,Alleene,Alleene,05081,Little River County,Census-designated place,33.764823,-94.262198,1
+AR,0500940,place:AR:0500940,Allport town,Allport,Allport,05085,Lonoke County,Incorporated place,34.539866,-91.783886,1
+AR,0500970,place:AR:0500970,Alma city,Alma,Alma,05033,Crawford County,Incorporated place,35.492702,-94.212097,1
+AR,0501030,place:AR:0501030,Almyra town,Almyra,Almyra,05001,Arkansas County,Incorporated place,34.405689,-91.410847,1
+AR,0501060,place:AR:0501060,Alpena town,Alpena,Alpena,05015,Carroll County,Incorporated place,36.293252,-93.303244,1
+AR,0501090,place:AR:0501090,Alpine CDP,Alpine,Alpine,05019,Clark County,Census-designated place,34.226886,-93.378321,1
+AR,0501150,place:AR:0501150,Altheimer city,Altheimer,Altheimer,05069,Jefferson County,Incorporated place,34.327843,-91.846877,1
+AR,0501210,place:AR:0501210,Altus city,Altus,Altus,05047,Franklin County,Incorporated place,35.44956,-93.765258,1
+AR,0501270,place:AR:0501270,Amagon town,Amagon,Amagon,05067,Jackson County,Incorporated place,35.563173,-91.109415,1
+AR,0501360,place:AR:0501360,Amity city,Amity,Amity,05019,Clark County,Incorporated place,34.26619,-93.463423,1
+AR,0501457,place:AR:0501457,Anthonyville town,Anthonyville,Anthonyville,05035,Crittenden County,Incorporated place,35.039831,-90.340328,1
+AR,0501540,place:AR:0501540,Antoine town,Antoine,Antoine,05109,Pike County,Incorporated place,34.034536,-93.421361,1
+AR,0501630,place:AR:0501630,Aplin CDP,Aplin,Aplin,05105,Perry County,Census-designated place,34.967483,-92.981271,1
+AR,0501660,place:AR:0501660,Appleton CDP,Appleton,Appleton,05115,Pope County,Census-designated place,35.410823,-92.875276,1
+AR,0501870,place:AR:0501870,Arkadelphia city,Arkadelphia,Arkadelphia,05019,Clark County,Incorporated place,34.12738,-93.070851,1
+AR,0501990,place:AR:0501990,Arkansas City city,Arkansas City,Arkansas City,05041,Desha County,Incorporated place,33.608876,-91.204896,1
+AR,0502230,place:AR:0502230,Armorel CDP,Armorel,Armorel,05093,Mississippi County,Census-designated place,35.925531,-89.797989,1
+AR,0502470,place:AR:0502470,Ash Flat city,Ash Flat,Ash Flat,05135,Sharp County,Incorporated place,36.236559,-91.606512,1
+AR,0502380,place:AR:0502380,Ashdown city,Ashdown,Ashdown,05081,Little River County,Incorporated place,33.674529,-94.126627,1
+AR,0502590,place:AR:0502590,Atkins city,Atkins,Atkins,05115,Pope County,Incorporated place,35.240787,-92.946618,1
+AR,0502680,place:AR:0502680,Aubrey town,Aubrey,Aubrey,05077,Lee County,Incorporated place,34.719817,-90.897981,1
+AR,0502740,place:AR:0502740,Augusta city,Augusta,Augusta,05147,Woodruff County,Incorporated place,35.28655,-91.36086,1
+AR,0502860,place:AR:0502860,Austin city,Austin,Austin,05085,Lonoke County,Incorporated place,35.005912,-91.989609,1
+AR,0503010,place:AR:0503010,Avilla CDP,Avilla,Avilla,05125,Saline County,Census-designated place,34.694843,-92.586141,1
+AR,0503040,place:AR:0503040,Avoca town,Avoca,Avoca,05007,Benton County,Incorporated place,36.39471,-94.065752,1
+AR,0503280,place:AR:0503280,Bald Knob city,Bald Knob,Bald Knob,05145,White County,Incorporated place,35.312539,-91.571253,1
+AR,0503430,place:AR:0503430,Banks town,Banks,Banks,05011,Bradley County,Incorporated place,33.575796,-92.267101,1
+AR,0503640,place:AR:0503640,Barling city,Barling,Barling,05131,Sebastian County,Incorporated place,35.33132,-94.279844,1
+AR,0503940,place:AR:0503940,Bassett town,Bassett,Bassett,05093,Mississippi County,Incorporated place,35.535577,-90.129434,1
+AR,0503970,place:AR:0503970,Batavia CDP,Batavia,Batavia,05009,Boone County,Census-designated place,36.247755,-93.220498,1
+AR,0504030,place:AR:0504030,Batesville city,Batesville,Batesville,05063,Independence County,Incorporated place,35.768572,-91.622652,1
+AR,0504090,place:AR:0504090,Bauxite town,Bauxite,Bauxite,05125,Saline County,Incorporated place,34.561557,-92.528948,1
+AR,0504180,place:AR:0504180,Bay city,Bay,Bay,05031,Craighead County,Incorporated place,35.746057,-90.552143,1
+AR,0504420,place:AR:0504420,Bearden city,Bearden,Bearden,05103,Ouachita County,Incorporated place,33.727651,-92.618678,1
+AR,0504540,place:AR:0504540,Beaver town,Beaver,Beaver,05015,Carroll County,Incorporated place,36.473856,-93.773322,1
+AR,0504630,place:AR:0504630,Bee Branch CDP,Bee Branch,Bee Branch,05141,Van Buren County,Census-designated place,35.462622,-92.401023,1
+AR,0504600,place:AR:0504600,Beebe city,Beebe,Beebe,05145,White County,Incorporated place,35.072433,-91.901059,1
+AR,0504720,place:AR:0504720,Beedeville town,Beedeville,Beedeville,05067,Jackson County,Incorporated place,35.429169,-91.110738,1
+AR,0504750,place:AR:0504750,Beirne CDP,Beirne,Beirne,05019,Clark County,Census-designated place,33.888208,-93.206223,1
+AR,0504840,place:AR:0504840,Bella Vista city,Bella Vista,Bella Vista,05007,Benton County,Incorporated place,36.467297,-94.26557,1
+AR,0504900,place:AR:0504900,Bellefonte town,Bellefonte,Bellefonte,05009,Boone County,Incorporated place,36.199864,-93.047039,1
+AR,0504960,place:AR:0504960,Belleville city,Belleville,Belleville,05149,Yell County,Incorporated place,35.09153,-93.445774,1
+AR,0505260,place:AR:0505260,Ben Lomond town,Ben Lomond,Ben Lomond,05133,Sevier County,Incorporated place,33.829113,-94.123319,1
+AR,0505290,place:AR:0505290,Benton city,Benton,Benton,05125,Saline County,Incorporated place,34.577424,-92.572583,1
+AR,0505320,place:AR:0505320,Bentonville city,Bentonville,Bentonville,05007,Benton County,Incorporated place,36.351851,-94.231767,1
+AR,0505440,place:AR:0505440,Bergman town,Bergman,Bergman,05009,Boone County,Incorporated place,36.312786,-93.011221,1
+AR,0505560,place:AR:0505560,Berryville city,Berryville,Berryville,05015,Carroll County,Incorporated place,36.37028,-93.568335,1
+AR,0505770,place:AR:0505770,Bethesda CDP,Bethesda,Bethesda,05063,Independence County,Census-designated place,35.787096,-91.792711,1
+AR,0505980,place:AR:0505980,Big Flat town,Big Flat,Big Flat,05005,Baxter County,Incorporated place,36.003394,-92.41022,1
+AR,0505920,place:AR:0505920,Bigelow town,Bigelow,Bigelow,05105,Perry County,Incorporated place,34.997795,-92.631175,1
+AR,0506040,place:AR:0506040,Biggers town,Biggers,Biggers,05121,Randolph County,Incorporated place,36.331361,-90.800701,1
+AR,0506340,place:AR:0506340,Birdsong town,Birdsong,Birdsong,05093,Mississippi County,Incorporated place,35.461161,-90.259761,1
+AR,0506460,place:AR:0506460,Bismarck CDP,Bismarck,Bismarck,05059,Hot Spring County,Census-designated place,34.321762,-93.178376,1
+AR,0506610,place:AR:0506610,Black Oak town,Black Oak,Black Oak,05031,Craighead County,Incorporated place,35.836394,-90.36755,1
+AR,0506700,place:AR:0506700,Black Rock city,Black Rock,Black Rock,05075,Lawrence County,Incorporated place,36.106237,-91.10748,1
+AR,0506730,place:AR:0506730,Black Springs town,Black Springs,Black Springs,05097,Montgomery County,Incorporated place,34.455977,-93.713115,1
+AR,0507030,place:AR:0507030,Blevins city,Blevins,Blevins,05057,Hempstead County,Incorporated place,33.871251,-93.578187,1
+AR,0507150,place:AR:0507150,Blue Eye town,Blue Eye,Blue Eye,05015,Carroll County,Incorporated place,36.496667,-93.39771,1
+AR,0507210,place:AR:0507210,Blue Mountain town,Blue Mountain,Blue Mountain,05083,Logan County,Incorporated place,35.131796,-93.716666,1
+AR,0507270,place:AR:0507270,Bluff City town,Bluff City,Bluff City,05099,Nevada County,Incorporated place,33.735125,-93.124564,1
+AR,0507330,place:AR:0507330,Blytheville city,Blytheville,Blytheville,05093,Mississippi County,Incorporated place,35.934144,-89.905018,1
+AR,0507420,place:AR:0507420,Board Camp CDP,Board Camp,Board Camp,05113,Polk County,Census-designated place,34.532519,-94.079674,1
+AR,0507450,place:AR:0507450,Bodcaw town,Bodcaw,Bodcaw,05099,Nevada County,Incorporated place,33.56364,-93.393036,1
+AR,0507510,place:AR:0507510,Boles CDP,Boles,Boles,05127,Scott County,Census-designated place,34.788119,-94.049397,1
+AR,0507540,place:AR:0507540,Bonanza city,Bonanza,Bonanza,05131,Sebastian County,Incorporated place,35.233292,-94.416132,1
+AR,0507630,place:AR:0507630,Bono city,Bono,Bono,05031,Craighead County,Incorporated place,35.911102,-90.800821,1
+AR,0507720,place:AR:0507720,Booneville city,Booneville,Booneville,05083,Logan County,Incorporated place,35.139329,-93.9175,1
+AR,0508020,place:AR:0508020,Bowman CDP,Bowman,Bowman,05031,Craighead County,Census-designated place,35.816835,-90.496228,1
+AR,0508260,place:AR:0508260,Bradford city,Bradford,Bradford,05145,White County,Incorporated place,35.422004,-91.455232,1
+AR,0508290,place:AR:0508290,Bradley city,Bradley,Bradley,05073,Lafayette County,Incorporated place,33.100106,-93.656895,1
+AR,0508440,place:AR:0508440,Branch city,Branch,Branch,05047,Franklin County,Incorporated place,35.308303,-93.95537,1
+AR,0508665,place:AR:0508665,Briarcliff city,Briarcliff,Briarcliff,05005,Baxter County,Incorporated place,36.271968,-92.28209,1
+AR,0508950,place:AR:0508950,Brinkley city,Brinkley,Brinkley,05095,Monroe County,Incorporated place,34.889697,-91.189881,1
+AR,0509100,place:AR:0509100,Brookland city,Brookland,Brookland,05031,Craighead County,Incorporated place,35.900552,-90.578174,1
+AR,0509460,place:AR:0509460,Bryant city,Bryant,Bryant,05125,Saline County,Incorporated place,34.617234,-92.489733,1
+AR,0509550,place:AR:0509550,Buckner city,Buckner,Buckner,05073,Lafayette County,Incorporated place,33.35727,-93.435556,1
+AR,0509700,place:AR:0509700,Buffalo City CDP,Buffalo City,Buffalo City,05005,Baxter County,Census-designated place,36.169075,-92.437942,1
+AR,0509790,place:AR:0509790,Bull Shoals city,Bull Shoals,Bull Shoals,05089,Marion County,Incorporated place,36.373905,-92.59126,1
+AR,0509880,place:AR:0509880,Burdette town,Burdette,Burdette,05093,Mississippi County,Incorporated place,35.815273,-89.946421,1
+AR,0510300,place:AR:0510300,Cabot city,Cabot,Cabot,05085,Lonoke County,Incorporated place,34.975106,-92.028288,1
+AR,0510330,place:AR:0510330,Caddo Gap CDP,Caddo Gap,Caddo Gap,05097,Montgomery County,Census-designated place,34.402494,-93.617881,1
+AR,0510360,place:AR:0510360,Caddo Valley town,Caddo Valley,Caddo Valley,05019,Clark County,Incorporated place,34.180746,-93.084597,1
+AR,0510450,place:AR:0510450,Caldwell town,Caldwell,Caldwell,05123,St. Francis County,Incorporated place,35.074755,-90.809246,1
+AR,0510480,place:AR:0510480,Cale town,Cale,Cale,05099,Nevada County,Incorporated place,33.629845,-93.235667,1
+AR,0510570,place:AR:0510570,Calico Rock city,Calico Rock,Calico Rock,05065,Izard County,Incorporated place,36.121952,-92.125978,1
+AR,0510600,place:AR:0510600,Calion city,Calion,Calion,05139,Union County,Incorporated place,33.328406,-92.540187,1
+AR,0510720,place:AR:0510720,Camden city,Camden,Camden,05103,Ouachita County,Incorporated place,33.568275,-92.849279,1
+AR,0510780,place:AR:0510780,Cammack Village city,Cammack Village,Cammack Village,05119,Pulaski County,Incorporated place,34.7808,-92.344976,1
+AR,0510900,place:AR:0510900,Campbell Station city,Campbell Station,Campbell Station,05067,Jackson County,Incorporated place,35.667799,-91.253754,1
+AR,0511080,place:AR:0511080,Canehill CDP,Canehill,Canehill,05143,Washington County,Census-designated place,35.913765,-94.397321,1
+AR,0511410,place:AR:0511410,Caraway city,Caraway,Caraway,05031,Craighead County,Incorporated place,35.760222,-90.322081,1
+AR,0511500,place:AR:0511500,Carlisle city,Carlisle,Carlisle,05085,Lonoke County,Incorporated place,34.795425,-91.740494,1
+AR,0511830,place:AR:0511830,Carthage city,Carthage,Carthage,05039,Dallas County,Incorporated place,34.072605,-92.555312,1
+AR,0511890,place:AR:0511890,Casa town,Casa,Casa,05105,Perry County,Incorporated place,35.024942,-93.046153,1
+AR,0511920,place:AR:0511920,Cash town,Cash,Cash,05031,Craighead County,Incorporated place,35.801157,-90.931648,1
+AR,0512190,place:AR:0512190,Caulksville town,Caulksville,Caulksville,05083,Logan County,Incorporated place,35.301849,-93.867806,1
+AR,0512280,place:AR:0512280,Cave City city,Cave City,Cave City,05135,Sharp County,Incorporated place,35.947801,-91.546977,1
+AR,0512340,place:AR:0512340,Cave Springs city,Cave Springs,Cave Springs,05007,Benton County,Incorporated place,36.274121,-94.223599,1
+AR,0512520,place:AR:0512520,Cedarville city,Cedarville,Cedarville,05033,Crawford County,Incorporated place,35.58397,-94.361897,1
+AR,0512700,place:AR:0512700,Center Point CDP,Center Point,Center Point,05061,Howard County,Census-designated place,34.031828,-93.951166,1
+AR,0512790,place:AR:0512790,Center Ridge CDP,Center Ridge,Center Ridge,05029,Conway County,Census-designated place,35.380707,-92.575626,1
+AR,0512820,place:AR:0512820,Centerton city,Centerton,Centerton,05007,Benton County,Incorporated place,36.355148,-94.297692,1
+AR,0512940,place:AR:0512940,Centerville CDP,Centerville,Centerville,05149,Yell County,Census-designated place,35.115702,-93.171461,1
+AR,0513120,place:AR:0513120,Central City town,Central City,Central City,05131,Sebastian County,Incorporated place,35.336161,-94.238121,1
+AR,0513300,place:AR:0513300,Charleston city,Charleston,Charleston,05047,Franklin County,Incorporated place,35.294515,-94.04835,1
+AR,0513420,place:AR:0513420,Cherokee City CDP,Cherokee City,Cherokee City,05007,Benton County,Census-designated place,36.294698,-94.576804,1
+AR,0513450,place:AR:0513450,Cherokee Village city,Cherokee Village,Cherokee Village,05049,Fulton County,Incorporated place,36.291676,-91.570037,1
+AR,0513540,place:AR:0513540,Cherry Valley city,Cherry Valley,Cherry Valley,05037,Cross County,Incorporated place,35.388222,-90.771111,1
+AR,0513570,place:AR:0513570,Chester town,Chester,Chester,05033,Crawford County,Incorporated place,35.677772,-94.177828,1
+AR,0513750,place:AR:0513750,Chidester city,Chidester,Chidester,05103,Ouachita County,Incorporated place,33.701947,-93.023799,1
+AR,0513960,place:AR:0513960,Cincinnati CDP,Cincinnati,Cincinnati,05143,Washington County,Census-designated place,36.045324,-94.527314,1
+AR,0513990,place:AR:0513990,Clarendon city,Clarendon,Clarendon,05095,Monroe County,Incorporated place,34.692974,-91.306292,1
+AR,0514050,place:AR:0514050,Clarkedale city,Clarkedale,Clarkedale,05035,Crittenden County,Incorporated place,35.297028,-90.21025,1
+AR,0514140,place:AR:0514140,Clarksville city,Clarksville,Clarksville,05071,Johnson County,Incorporated place,35.453918,-93.481558,1
+AR,0514260,place:AR:0514260,Clinton city,Clinton,Clinton,05141,Van Buren County,Incorporated place,35.578981,-92.455735,1
+AR,0514500,place:AR:0514500,Coal Hill city,Coal Hill,Coal Hill,05071,Johnson County,Incorporated place,35.436892,-93.665193,1
+AR,0514860,place:AR:0514860,College Station CDP,College Station,College Station,05119,Pulaski County,Census-designated place,34.700542,-92.228441,1
+AR,0514920,place:AR:0514920,Collins CDP,Collins,Collins,05043,Drew County,Census-designated place,33.532266,-91.57244,1
+AR,0514950,place:AR:0514950,Colt city,Colt,Colt,05123,St. Francis County,Incorporated place,35.132897,-90.812933,1
+AR,0515100,place:AR:0515100,Concord town,Concord,Concord,05023,Cleburne County,Incorporated place,35.66633,-91.860623,1
+AR,0515190,place:AR:0515190,Conway city,Conway,Conway,05045,Faulkner County,Incorporated place,35.074774,-92.467402,1
+AR,0515310,place:AR:0515310,Corinth town,Corinth,Corinth,05149,Yell County,Incorporated place,35.069508,-93.420089,1
+AR,0515460,place:AR:0515460,Corning city,Corning,Corning,05021,Clay County,Incorporated place,36.413682,-90.583609,1
+AR,0515490,place:AR:0515490,Cotter city,Cotter,Cotter,05005,Baxter County,Incorporated place,36.281898,-92.520821,1
+AR,0515550,place:AR:0515550,Cotton Plant city,Cotton Plant,Cotton Plant,05147,Woodruff County,Incorporated place,35.005918,-91.25205,1
+AR,0515700,place:AR:0515700,Cove town,Cove,Cove,05113,Polk County,Incorporated place,34.438982,-94.422292,1
+AR,0515790,place:AR:0515790,Coy town,Coy,Coy,05085,Lonoke County,Incorporated place,34.540484,-91.871295,1
+AR,0515940,place:AR:0515940,Crawfordsville town,Crawfordsville,Crawfordsville,05035,Crittenden County,Incorporated place,35.226672,-90.324168,1
+AR,0516240,place:AR:0516240,Crossett city,Crossett,Crossett,05003,Ashley County,Incorporated place,33.12279,-91.957725,1
+AR,0516690,place:AR:0516690,Crystal Springs CDP,Crystal Springs,Crystal Springs,05051,Garland County,Census-designated place,34.524828,-93.333623,1
+AR,0516930,place:AR:0516930,Cushman city,Cushman,Cushman,05063,Independence County,Incorporated place,35.865844,-91.778081,1
+AR,0517140,place:AR:0517140,Daisy town,Daisy,Daisy,05109,Pike County,Incorporated place,34.235924,-93.739193,1
+AR,0517290,place:AR:0517290,Damascus town,Damascus,Damascus,05045,Faulkner County,Incorporated place,35.367092,-92.410712,1
+AR,0517320,place:AR:0517320,Danville city,Danville,Danville,05149,Yell County,Incorporated place,35.052457,-93.391199,1
+AR,0517380,place:AR:0517380,Dardanelle city,Dardanelle,Dardanelle,05149,Yell County,Incorporated place,35.226305,-93.165909,1
+AR,0517410,place:AR:0517410,Datto town,Datto,Datto,05021,Clay County,Incorporated place,36.392471,-90.728499,1
+AR,0518490,place:AR:0518490,De Queen city,De Queen,De Queen,05133,Sevier County,Incorporated place,34.042245,-94.342133,1
+AR,0518640,place:AR:0518640,De Valls Bluff city,De Valls Bluff,De Valls Bluff,05117,Prairie County,Incorporated place,34.786327,-91.461329,1
+AR,0517740,place:AR:0517740,Decatur city,Decatur,Decatur,05007,Benton County,Incorporated place,36.348527,-94.458044,1
+AR,0517860,place:AR:0517860,Deer CDP,Deer,Deer,05101,Newton County,Census-designated place,35.827372,-93.219763,1
+AR,0518010,place:AR:0518010,Delaplaine town,Delaplaine,Delaplaine,05055,Greene County,Incorporated place,36.230409,-90.725667,1
+AR,0518100,place:AR:0518100,Delight city,Delight,Delight,05109,Pike County,Incorporated place,34.029667,-93.509226,1
+AR,0518160,place:AR:0518160,Dell town,Dell,Dell,05093,Mississippi County,Incorporated place,35.857166,-90.034076,1
+AR,0518340,place:AR:0518340,Dennard CDP,Dennard,Dennard,05141,Van Buren County,Census-designated place,35.747919,-92.549999,1
+AR,0518370,place:AR:0518370,Denning town,Denning,Denning,05047,Franklin County,Incorporated place,35.425153,-93.756758,1
+AR,0518520,place:AR:0518520,Dermott city,Dermott,Dermott,05017,Chicot County,Incorporated place,33.526206,-91.432296,1
+AR,0518550,place:AR:0518550,Des Arc city,Des Arc,Des Arc,05117,Prairie County,Incorporated place,34.978432,-91.506315,1
+AR,0518580,place:AR:0518580,Desha CDP,Desha,Desha,05063,Independence County,Census-designated place,35.730455,-91.685579,1
+AR,0518790,place:AR:0518790,DeWitt city,DeWitt,DeWitt,05001,Arkansas County,Incorporated place,34.287369,-91.338326,1
+AR,0518850,place:AR:0518850,Diamond City city,Diamond City,Diamond City,05009,Boone County,Incorporated place,36.457609,-92.910989,1
+AR,0518880,place:AR:0518880,Diamondhead city,Diamondhead,Diamondhead,05051,Garland County,Incorporated place,34.439572,-92.957986,0
+AR,0518940,place:AR:0518940,Diaz city,Diaz,Diaz,05067,Jackson County,Incorporated place,35.648773,-91.258933,1
+AR,0518970,place:AR:0518970,Dierks city,Dierks,Dierks,05061,Howard County,Incorporated place,34.119961,-94.017283,1
+AR,0519450,place:AR:0519450,Donaldson town,Donaldson,Donaldson,05059,Hot Spring County,Incorporated place,34.234976,-92.919517,1
+AR,0519540,place:AR:0519540,Dora CDP,Dora,Dora,05033,Crawford County,Census-designated place,35.462964,-94.429869,1
+AR,0519600,place:AR:0519600,Dover city,Dover,Dover,05115,Pope County,Incorporated place,35.390981,-93.114241,1
+AR,0519720,place:AR:0519720,Drasco CDP,Drasco,Drasco,05023,Cleburne County,Census-designated place,35.633775,-91.941776,1
+AR,0519990,place:AR:0519990,Dumas city,Dumas,Dumas,05041,Desha County,Incorporated place,33.883372,-91.485632,1
+AR,0520200,place:AR:0520200,Dyer city,Dyer,Dyer,05033,Crawford County,Incorporated place,35.494367,-94.138805,1
+AR,0520230,place:AR:0520230,Dyess town,Dyess,Dyess,05093,Mississippi County,Incorporated place,35.589338,-90.213293,1
+AR,0520320,place:AR:0520320,Earle city,Earle,Earle,05035,Crittenden County,Incorporated place,35.273379,-90.464304,1
+AR,0520440,place:AR:0520440,East Camden town,East Camden,East Camden,05103,Ouachita County,Incorporated place,33.608421,-92.744966,1
+AR,0520470,place:AR:0520470,East End CDP,East End,East End,05125,Saline County,Census-designated place,34.55487,-92.324807,1
+AR,0520800,place:AR:0520800,Edgemont CDP,Edgemont,Edgemont,05023,Cleburne County,Census-designated place,35.600838,-92.19527,1
+AR,0520830,place:AR:0520830,Edmondson town,Edmondson,Edmondson,05035,Crittenden County,Incorporated place,35.105035,-90.305452,1
+AR,0520920,place:AR:0520920,Egypt town,Egypt,Egypt,05031,Craighead County,Incorporated place,35.867775,-90.945834,1
+AR,0521070,place:AR:0521070,El Dorado city,El Dorado,El Dorado,05139,Union County,Incorporated place,33.218982,-92.664071,1
+AR,0521520,place:AR:0521520,El Paso CDP,El Paso,El Paso,05145,White County,Census-designated place,35.115298,-92.081189,1
+AR,0520950,place:AR:0520950,Elaine city,Elaine,Elaine,05107,Phillips County,Incorporated place,34.308603,-90.853349,1
+AR,0521190,place:AR:0521190,Elkins city,Elkins,Elkins,05143,Washington County,Incorporated place,36.017217,-94.023497,1
+AR,0521430,place:AR:0521430,Elm Springs city,Elm Springs,Elm Springs,05143,Washington County,Incorporated place,36.206224,-94.237904,1
+AR,0521580,place:AR:0521580,Emerson town,Emerson,Emerson,05027,Columbia County,Incorporated place,33.097328,-93.195976,1
+AR,0521610,place:AR:0521610,Emmet city,Emmet,Emmet,05099,Nevada County,Incorporated place,33.722539,-93.466156,1
+AR,0521730,place:AR:0521730,England city,England,England,05085,Lonoke County,Incorporated place,34.545431,-91.967442,1
+AR,0521820,place:AR:0521820,Enola town,Enola,Enola,05045,Faulkner County,Incorporated place,35.195907,-92.206581,1
+AR,0522120,place:AR:0522120,Etowah town,Etowah,Etowah,05093,Mississippi County,Incorporated place,35.714317,-90.231299,1
+AR,0522180,place:AR:0522180,Eudora city,Eudora,Eudora,05017,Chicot County,Incorporated place,33.118866,-91.264033,1
+AR,0522240,place:AR:0522240,Eureka Springs city,Eureka Springs,Eureka Springs,05015,Carroll County,Incorporated place,36.411142,-93.743209,1
+AR,0522300,place:AR:0522300,Evansville CDP,Evansville,Evansville,05143,Washington County,Census-designated place,35.790635,-94.488844,1
+AR,0522360,place:AR:0522360,Evening Shade city,Evening Shade,Evening Shade,05135,Sharp County,Incorporated place,36.069933,-91.621881,1
+AR,0522450,place:AR:0522450,Everton town,Everton,Everton,05009,Boone County,Incorporated place,36.15414,-92.909538,1
+AR,0522720,place:AR:0522720,Fair Oaks CDP,Fair Oaks,Fair Oaks,05037,Cross County,Census-designated place,35.247988,-91.036016,1
+AR,0522660,place:AR:0522660,Fairfield Bay city,Fairfield Bay,Fairfield Bay,05141,Van Buren County,Incorporated place,35.601101,-92.266208,1
+AR,0523140,place:AR:0523140,Fargo town,Fargo,Fargo,05095,Monroe County,Incorporated place,34.953995,-91.179744,1
+AR,0523170,place:AR:0523170,Farmington city,Farmington,Farmington,05143,Washington County,Incorporated place,36.036581,-94.252466,1
+AR,0523290,place:AR:0523290,Fayetteville city,Fayetteville,Fayetteville,05143,Washington County,Incorporated place,36.071451,-94.166679,1
+AR,0523320,place:AR:0523320,Felsenthal town,Felsenthal,Felsenthal,05139,Union County,Incorporated place,33.060826,-92.148961,1
+AR,0523680,place:AR:0523680,Fifty-Six city,Fifty-Six,Fifty-Six,05137,Stone County,Incorporated place,35.96347,-92.233376,1
+AR,0523800,place:AR:0523800,Fisher city,Fisher,Fisher,05111,Poinsett County,Incorporated place,35.491424,-90.972494,1
+AR,0524010,place:AR:0524010,Flippin city,Flippin,Flippin,05089,Marion County,Incorporated place,36.27732,-92.59353,1
+AR,0524070,place:AR:0524070,Floral CDP,Floral,Floral,05063,Independence County,Census-designated place,35.588939,-91.758932,1
+AR,0524130,place:AR:0524130,Floyd CDP,Floyd,Floyd,05145,White County,Census-designated place,35.198879,-91.96453,1
+AR,0524220,place:AR:0524220,Fordyce city,Fordyce,Fordyce,05039,Dallas County,Incorporated place,33.818236,-92.416972,1
+AR,0524250,place:AR:0524250,Foreman city,Foreman,Foreman,05081,Little River County,Incorporated place,33.719494,-94.397668,1
+AR,0524430,place:AR:0524430,Forrest City city,Forrest City,Forrest City,05123,St. Francis County,Incorporated place,35.013599,-90.793207,1
+AR,0524550,place:AR:0524550,Fort Smith city,Fort Smith,Fort Smith,05131,Sebastian County,Incorporated place,35.349276,-94.370883,1
+AR,0524640,place:AR:0524640,Fouke city,Fouke,Fouke,05091,Miller County,Incorporated place,33.262235,-93.88523,1
+AR,0524670,place:AR:0524670,Fountain Hill town,Fountain Hill,Fountain Hill,05003,Ashley County,Incorporated place,33.357545,-91.851141,1
+AR,0524700,place:AR:0524700,Fountain Lake town,Fountain Lake,Fountain Lake,05051,Garland County,Incorporated place,34.609682,-92.920447,1
+AR,0524760,place:AR:0524760,Fourche town,Fourche,Fourche,05105,Perry County,Incorporated place,34.993128,-92.618944,1
+AR,0524910,place:AR:0524910,Fox CDP,Fox,Fox,05137,Stone County,Census-designated place,35.784398,-92.299626,1
+AR,0525030,place:AR:0525030,Franklin town,Franklin,Franklin,05065,Izard County,Incorporated place,36.172742,-91.769697,1
+AR,0525060,place:AR:0525060,Fredonia (Biscoe) town,Fredonia (Biscoe),Fredonia (Biscoe),05117,Prairie County,Incorporated place,34.81937,-91.41016,1
+AR,0525180,place:AR:0525180,Friendship town,Friendship,Friendship,05059,Hot Spring County,Incorporated place,34.224344,-93.00366,1
+AR,0525360,place:AR:0525360,Fulton town,Fulton,Fulton,05057,Hempstead County,Incorporated place,33.612565,-93.813795,1
+AR,0525630,place:AR:0525630,Gamaliel CDP,Gamaliel,Gamaliel,05005,Baxter County,Census-designated place,36.45189,-92.236928,1
+AR,0525750,place:AR:0525750,Garfield city,Garfield,Garfield,05007,Benton County,Incorporated place,36.451922,-93.97864,1
+AR,0525780,place:AR:0525780,Garland town,Garland,Garland,05091,Miller County,Incorporated place,33.360958,-93.71417,1
+AR,0525900,place:AR:0525900,Garner town,Garner,Garner,05145,White County,Incorporated place,35.142071,-91.778935,1
+AR,0526050,place:AR:0526050,Gassville city,Gassville,Gassville,05005,Baxter County,Incorporated place,36.284949,-92.48683,1
+AR,0526110,place:AR:0526110,Gateway town,Gateway,Gateway,05007,Benton County,Incorporated place,36.488902,-93.933087,1
+AR,0526260,place:AR:0526260,Genoa CDP,Genoa,Genoa,05091,Miller County,Census-designated place,33.377487,-93.882415,1
+AR,0526290,place:AR:0526290,Gentry city,Gentry,Gentry,05007,Benton County,Incorporated place,36.250062,-94.490491,1
+AR,0526440,place:AR:0526440,Georgetown town,Georgetown,Georgetown,05145,White County,Incorporated place,35.126678,-91.453923,1
+AR,0526710,place:AR:0526710,Gibson CDP,Gibson,Gibson,05119,Pulaski County,Census-designated place,34.902228,-92.240817,1
+AR,0526800,place:AR:0526800,Gilbert town,Gilbert,Gilbert,05129,Searcy County,Incorporated place,35.990981,-92.716181,1
+AR,0526980,place:AR:0526980,Gillett city,Gillett,Gillett,05001,Arkansas County,Incorporated place,34.119172,-91.379133,1
+AR,0527010,place:AR:0527010,Gillham town,Gillham,Gillham,05133,Sevier County,Incorporated place,34.168628,-94.312977,1
+AR,0527040,place:AR:0527040,Gilmore city,Gilmore,Gilmore,05035,Crittenden County,Incorporated place,35.413994,-90.29558,1
+AR,0527310,place:AR:0527310,Glenwood city,Glenwood,Glenwood,05109,Pike County,Incorporated place,34.328314,-93.527255,1
+AR,0527610,place:AR:0527610,Goodwin CDP,Goodwin,Goodwin,05123,St. Francis County,Census-designated place,34.940726,-91.003576,1
+AR,0527670,place:AR:0527670,Goshen town,Goshen,Goshen,05143,Washington County,Incorporated place,36.102458,-94.001579,1
+AR,0527700,place:AR:0527700,Gosnell city,Gosnell,Gosnell,05093,Mississippi County,Incorporated place,35.964937,-89.968577,1
+AR,0527730,place:AR:0527730,Gould city,Gould,Gould,05079,Lincoln County,Incorporated place,33.987194,-91.564038,1
+AR,0527790,place:AR:0527790,Grady city,Grady,Grady,05079,Lincoln County,Incorporated place,34.072492,-91.697637,1
+AR,0527970,place:AR:0527970,Grannis city,Grannis,Grannis,05113,Polk County,Incorporated place,34.240249,-94.318144,1
+AR,0528360,place:AR:0528360,Gravette city,Gravette,Gravette,05007,Benton County,Incorporated place,36.428296,-94.368529,1
+AR,0528600,place:AR:0528600,Green Forest city,Green Forest,Green Forest,05015,Carroll County,Incorporated place,36.33471,-93.430962,1
+AR,0528510,place:AR:0528510,Greenbrier city,Greenbrier,Greenbrier,05045,Faulkner County,Incorporated place,35.229027,-92.383576,1
+AR,0528660,place:AR:0528660,Greenland city,Greenland,Greenland,05143,Washington County,Incorporated place,35.996194,-94.19089,1
+AR,0528720,place:AR:0528720,Greenway city,Greenway,Greenway,05021,Clay County,Incorporated place,36.340577,-90.222124,1
+AR,0528780,place:AR:0528780,Greenwood city,Greenwood,Greenwood,05131,Sebastian County,Incorporated place,35.21114,-94.239941,1
+AR,0528810,place:AR:0528810,Greers Ferry city,Greers Ferry,Greers Ferry,05023,Cleburne County,Incorporated place,35.574966,-92.165959,1
+AR,0528840,place:AR:0528840,Gregory CDP,Gregory,Gregory,05147,Woodruff County,Census-designated place,35.153332,-91.334241,1
+AR,0528990,place:AR:0528990,Griffithville town,Griffithville,Griffithville,05145,White County,Incorporated place,35.123053,-91.64497,1
+AR,0529020,place:AR:0529020,Grubbs city,Grubbs,Grubbs,05067,Jackson County,Incorporated place,35.653999,-91.075464,1
+AR,0529080,place:AR:0529080,Guion town,Guion,Guion,05065,Izard County,Incorporated place,35.926834,-91.938927,1
+AR,0529140,place:AR:0529140,Gum Springs town,Gum Springs,Gum Springs,05019,Clark County,Incorporated place,34.063937,-93.095709,1
+AR,0529200,place:AR:0529200,Gurdon city,Gurdon,Gurdon,05019,Clark County,Incorporated place,33.916032,-93.15391,1
+AR,0529230,place:AR:0529230,Guy city,Guy,Guy,05045,Faulkner County,Incorporated place,35.326067,-92.33756,1
+AR,0529290,place:AR:0529290,Hackett city,Hackett,Hackett,05131,Sebastian County,Incorporated place,35.188027,-94.410341,1
+AR,0529320,place:AR:0529320,Hagarville CDP,Hagarville,Hagarville,05071,Johnson County,Census-designated place,35.515017,-93.332135,1
+AR,0529380,place:AR:0529380,Halley CDP,Halley,Halley,05041,Desha County,Census-designated place,33.536255,-91.323651,1
+AR,0529500,place:AR:0529500,Hamburg city,Hamburg,Hamburg,05003,Ashley County,Incorporated place,33.224755,-91.797247,1
+AR,0529650,place:AR:0529650,Hampton city,Hampton,Hampton,05013,Calhoun County,Incorporated place,33.534763,-92.466607,1
+AR,0529920,place:AR:0529920,Hardy city,Hardy,Hardy,05135,Sharp County,Incorporated place,36.319645,-91.481503,1
+AR,0530310,place:AR:0530310,Harrell town,Harrell,Harrell,05013,Calhoun County,Incorporated place,33.509869,-92.400061,1
+AR,0530400,place:AR:0530400,Harrisburg city,Harrisburg,Harrisburg,05111,Poinsett County,Incorporated place,35.563991,-90.721647,1
+AR,0530460,place:AR:0530460,Harrison city,Harrison,Harrison,05009,Boone County,Incorporated place,36.242592,-93.11765,1
+AR,0530490,place:AR:0530490,Hartford city,Hartford,Hartford,05131,Sebastian County,Incorporated place,35.023433,-94.379406,1
+AR,0530520,place:AR:0530520,Hartman city,Hartman,Hartman,05071,Johnson County,Incorporated place,35.43549,-93.630502,1
+AR,0530640,place:AR:0530640,Haskell city,Haskell,Haskell,05125,Saline County,Incorporated place,34.512117,-92.638773,1
+AR,0530700,place:AR:0530700,Hatfield town,Hatfield,Hatfield,05113,Polk County,Incorporated place,34.484507,-94.37991,1
+AR,0530730,place:AR:0530730,Hattieville CDP,Hattieville,Hattieville,05029,Conway County,Census-designated place,35.295226,-92.775351,1
+AR,0530790,place:AR:0530790,Havana city,Havana,Havana,05149,Yell County,Incorporated place,35.109809,-93.526022,1
+AR,0530880,place:AR:0530880,Haynes town,Haynes,Haynes,05077,Lee County,Incorporated place,34.890933,-90.792662,1
+AR,0530940,place:AR:0530940,Hazen city,Hazen,Hazen,05117,Prairie County,Incorporated place,34.781368,-91.558058,1
+AR,0531090,place:AR:0531090,Heber Springs city,Heber Springs,Heber Springs,05023,Cleburne County,Incorporated place,35.499554,-92.029339,1
+AR,0531150,place:AR:0531150,Hector town,Hector,Hector,05115,Pope County,Incorporated place,35.462913,-92.97913,1
+AR,0531190,place:AR:0531190,Helena-West Helena city,Helena-West Helena,Helena-West Helena,05107,Phillips County,Incorporated place,34.531363,-90.620098,1
+AR,0531270,place:AR:0531270,Henderson CDP,Henderson,Henderson,05005,Baxter County,Census-designated place,36.375693,-92.218987,1
+AR,0531390,place:AR:0531390,Hensley CDP,Hensley,Hensley,05119,Pulaski County,Census-designated place,34.51041,-92.209517,1
+AR,0531540,place:AR:0531540,Hermitage city,Hermitage,Hermitage,05011,Bradley County,Incorporated place,33.447372,-92.171455,1
+AR,0531900,place:AR:0531900,Hickory Ridge city,Hickory Ridge,Hickory Ridge,05037,Cross County,Incorporated place,35.402812,-90.994458,1
+AR,0532080,place:AR:0532080,Higden town,Higden,Higden,05023,Cleburne County,Incorporated place,35.566406,-92.20518,1
+AR,0532140,place:AR:0532140,Higginson town,Higginson,Higginson,05145,White County,Incorporated place,35.199618,-91.714711,1
+AR,0532200,place:AR:0532200,Highfill town,Highfill,Highfill,05007,Benton County,Incorporated place,36.275985,-94.329535,1
+AR,0532257,place:AR:0532257,Highland city,Highland,Highland,05135,Sharp County,Incorporated place,36.269418,-91.519776,1
+AR,0532470,place:AR:0532470,Hindsville town,Hindsville,Hindsville,05087,Madison County,Incorporated place,36.147719,-93.86488,1
+AR,0532650,place:AR:0532650,Holiday Island city,Holiday Island,Holiday Island,05015,Carroll County,Incorporated place,36.484211,-93.736832,1
+AR,0532710,place:AR:0532710,Holland city,Holland,Holland,05045,Faulkner County,Incorporated place,35.166012,-92.277049,1
+AR,0532800,place:AR:0532800,Holly Grove city,Holly Grove,Holly Grove,05095,Monroe County,Incorporated place,34.601497,-91.200255,1
+AR,0533190,place:AR:0533190,Hope city,Hope,Hope,05057,Hempstead County,Incorporated place,33.668164,-93.588885,1
+AR,0533310,place:AR:0533310,Horatio city,Horatio,Horatio,05133,Sevier County,Incorporated place,33.942739,-94.356201,1
+AR,0533370,place:AR:0533370,Horseshoe Bend city,Horseshoe Bend,Horseshoe Bend,05065,Izard County,Incorporated place,36.218726,-91.738324,1
+AR,0533375,place:AR:0533375,Horseshoe Lake town,Horseshoe Lake,Horseshoe Lake,05035,Crittenden County,Incorporated place,34.913753,-90.307722,1
+AR,0533400,place:AR:0533400,Hot Springs city,Hot Springs,Hot Springs,05051,Garland County,Incorporated place,34.489442,-93.050254,1
+AR,0533482,place:AR:0533482,Hot Springs Village CDP,Hot Springs Village,Hot Springs Village,05125,Saline County,Census-designated place,34.658771,-92.965824,1
+AR,0533490,place:AR:0533490,Houston town,Houston,Houston,05105,Perry County,Incorporated place,35.034879,-92.694525,1
+AR,0533580,place:AR:0533580,Hoxie city,Hoxie,Hoxie,05075,Lawrence County,Incorporated place,36.036041,-90.973588,1
+AR,0533760,place:AR:0533760,Hughes city,Hughes,Hughes,05123,St. Francis County,Incorporated place,34.948109,-90.471372,1
+AR,0533820,place:AR:0533820,Humnoke city,Humnoke,Humnoke,05085,Lonoke County,Incorporated place,34.542242,-91.759656,1
+AR,0533850,place:AR:0533850,Humphrey city,Humphrey,Humphrey,05001,Arkansas County,Incorporated place,34.42237,-91.702454,1
+AR,0533910,place:AR:0533910,Hunter town,Hunter,Hunter,05147,Woodruff County,Incorporated place,35.054558,-91.122856,1
+AR,0533940,place:AR:0533940,Huntington city,Huntington,Huntington,05131,Sebastian County,Incorporated place,35.083748,-94.266322,1
+AR,0533970,place:AR:0533970,Huntsville city,Huntsville,Huntsville,05087,Madison County,Incorporated place,36.099194,-93.733469,1
+AR,0534090,place:AR:0534090,Huttig city,Huttig,Huttig,05139,Union County,Incorporated place,33.040369,-92.180034,1
+AR,0534150,place:AR:0534150,Imboden town,Imboden,Imboden,05075,Lawrence County,Incorporated place,36.199696,-91.177386,1
+AR,0534220,place:AR:0534220,Indian Bay CDP,Indian Bay,Indian Bay,05095,Monroe County,Census-designated place,34.38712,-91.069561,1
+AR,0534540,place:AR:0534540,Ivan CDP,Ivan,Ivan,05039,Dallas County,Census-designated place,33.901968,-92.433196,1
+AR,0534720,place:AR:0534720,Jacksonport town,Jacksonport,Jacksonport,05067,Jackson County,Incorporated place,35.642177,-91.307914,1
+AR,0534750,place:AR:0534750,Jacksonville city,Jacksonville,Jacksonville,05119,Pulaski County,Incorporated place,34.877908,-92.131475,1
+AR,0534900,place:AR:0534900,Jasper city,Jasper,Jasper,05101,Newton County,Incorporated place,36.014475,-93.189929,1
+AR,0535040,place:AR:0535040,Jennette town,Jennette,Jennette,05035,Crittenden County,Incorporated place,35.156988,-90.420803,1
+AR,0535140,place:AR:0535140,Jericho town,Jericho,Jericho,05035,Crittenden County,Incorporated place,35.287677,-90.230466,1
+AR,0535170,place:AR:0535170,Jerome CDP,Jerome,Jerome,05043,Drew County,Census-designated place,33.397236,-91.470514,1
+AR,0535260,place:AR:0535260,Jerusalem CDP,Jerusalem,Jerusalem,05029,Conway County,Census-designated place,35.40757,-92.823013,1
+AR,0535500,place:AR:0535500,Johnson city,Johnson,Johnson,05143,Washington County,Incorporated place,36.133854,-94.174269,1
+AR,0535650,place:AR:0535650,Joiner city,Joiner,Joiner,05093,Mississippi County,Incorporated place,35.50739,-90.150706,1
+AR,0535770,place:AR:0535770,Jones Mills CDP,Jones Mills,Jones Mills,05059,Hot Spring County,Census-designated place,34.444947,-92.901539,1
+AR,0535710,place:AR:0535710,Jonesboro city,Jonesboro,Jonesboro,05031,Craighead County,Incorporated place,35.819755,-90.679033,1
+AR,0536040,place:AR:0536040,Judsonia city,Judsonia,Judsonia,05145,White County,Incorporated place,35.276431,-91.641614,1
+AR,0536130,place:AR:0536130,Junction City city,Junction City,Junction City,05139,Union County,Incorporated place,33.022091,-92.723616,1
+AR,0536310,place:AR:0536310,Keiser city,Keiser,Keiser,05093,Mississippi County,Incorporated place,35.674224,-90.096848,1
+AR,0536430,place:AR:0536430,Kensett city,Kensett,Kensett,05145,White County,Incorporated place,35.2352,-91.671256,1
+AR,0536550,place:AR:0536550,Keo town,Keo,Keo,05085,Lonoke County,Incorporated place,34.610642,-92.013641,1
+AR,0536670,place:AR:0536670,Kibler city,Kibler,Kibler,05033,Crawford County,Incorporated place,35.425237,-94.236145,1
+AR,0536880,place:AR:0536880,Kingsland city,Kingsland,Kingsland,05025,Cleveland County,Incorporated place,33.857975,-92.297789,1
+AR,0536910,place:AR:0536910,Kingston CDP,Kingston,Kingston,05087,Madison County,Census-designated place,36.057428,-93.512985,1
+AR,0537060,place:AR:0537060,Kirby CDP,Kirby,Kirby,05109,Pike County,Census-designated place,34.254429,-93.657333,1
+AR,0537240,place:AR:0537240,Knobel city,Knobel,Knobel,05021,Clay County,Incorporated place,36.319986,-90.602266,1
+AR,0537300,place:AR:0537300,Knoxville town,Knoxville,Knoxville,05071,Johnson County,Incorporated place,35.377537,-93.361839,1
+AR,0537450,place:AR:0537450,Lacey CDP,Lacey,Lacey,05043,Drew County,Census-designated place,33.450347,-91.849554,1
+AR,0537660,place:AR:0537660,Lafe town,Lafe,Lafe,05055,Greene County,Incorporated place,36.209178,-90.504292,1
+AR,0537720,place:AR:0537720,LaGrange town,LaGrange,LaGrange,05077,Lee County,Incorporated place,34.655757,-90.734742,1
+AR,0537780,place:AR:0537780,Lake City city,Lake City,Lake City,05031,Craighead County,Incorporated place,35.81937,-90.453905,1
+AR,0537930,place:AR:0537930,Lake Hamilton CDP,Lake Hamilton,Lake Hamilton,05051,Garland County,Census-designated place,34.42956,-93.075029,1
+AR,0538110,place:AR:0538110,Lake View city,Lake View,Lake View,05107,Phillips County,Incorporated place,34.42116,-90.813314,1
+AR,0538170,place:AR:0538170,Lake Village city,Lake Village,Lake Village,05017,Chicot County,Incorporated place,33.32918,-91.284794,1
+AR,0538050,place:AR:0538050,Lakeview city,Lakeview,Lakeview,05005,Baxter County,Incorporated place,36.373907,-92.538735,1
+AR,0538290,place:AR:0538290,Lamar city,Lamar,Lamar,05071,Johnson County,Incorporated place,35.444425,-93.394675,1
+AR,0538540,place:AR:0538540,Landmark CDP,Landmark,Landmark,05119,Pulaski County,Census-designated place,34.610352,-92.316045,1
+AR,0538890,place:AR:0538890,Lavaca city,Lavaca,Lavaca,05131,Sebastian County,Incorporated place,35.330196,-94.182881,1
+AR,0538950,place:AR:0538950,Lawson CDP,Lawson,Lawson,05139,Union County,Census-designated place,33.19996,-92.487896,1
+AR,0539010,place:AR:0539010,Leachville city,Leachville,Leachville,05093,Mississippi County,Incorporated place,35.911468,-90.254955,1
+AR,0539040,place:AR:0539040,Lead Hill town,Lead Hill,Lead Hill,05009,Boone County,Incorporated place,36.413611,-92.907167,1
+AR,0539310,place:AR:0539310,Leola town,Leola,Leola,05053,Grant County,Incorporated place,34.170087,-92.591412,1
+AR,0539370,place:AR:0539370,Lepanto city,Lepanto,Lepanto,05111,Poinsett County,Incorporated place,35.608528,-90.332985,1
+AR,0539460,place:AR:0539460,Leslie city,Leslie,Leslie,05129,Searcy County,Incorporated place,35.829508,-92.555961,1
+AR,0539520,place:AR:0539520,Letona town,Letona,Letona,05145,White County,Incorporated place,35.363502,-91.829547,1
+AR,0539640,place:AR:0539640,Lewisville city,Lewisville,Lewisville,05073,Lafayette County,Incorporated place,33.360132,-93.583971,1
+AR,0539670,place:AR:0539670,Lexa town,Lexa,Lexa,05107,Phillips County,Incorporated place,34.598248,-90.751887,1
+AR,0539970,place:AR:0539970,Lincoln city,Lincoln,Lincoln,05143,Washington County,Incorporated place,35.948834,-94.417468,1
+AR,0540120,place:AR:0540120,Little Flock city,Little Flock,Little Flock,05007,Benton County,Incorporated place,36.383335,-94.137265,1
+AR,0541000,place:AR:0541000,Little Rock city,Little Rock,Little Rock,05119,Pulaski County,Incorporated place,34.723218,-92.356264,1
+AR,0541090,place:AR:0541090,Lockesburg city,Lockesburg,Lockesburg,05133,Sevier County,Incorporated place,33.972841,-94.179542,1
+AR,0541270,place:AR:0541270,London city,London,London,05115,Pope County,Incorporated place,35.327616,-93.243466,1
+AR,0541420,place:AR:0541420,Lonoke city,Lonoke,Lonoke,05085,Lonoke County,Incorporated place,34.790501,-91.907362,1
+AR,0541450,place:AR:0541450,Lonsdale town,Lonsdale,Lonsdale,05051,Garland County,Incorporated place,34.544967,-92.810563,1
+AR,0541555,place:AR:0541555,Lost Bridge Village CDP,Lost Bridge Village,Lost Bridge Village,05007,Benton County,Census-designated place,36.389728,-93.915536,1
+AR,0541630,place:AR:0541630,Louann town,Louann,Louann,05103,Ouachita County,Incorporated place,33.391481,-92.792214,1
+AR,0541720,place:AR:0541720,Lowell city,Lowell,Lowell,05007,Benton County,Incorporated place,36.255855,-94.153356,1
+AR,0542170,place:AR:0542170,Luxora city,Luxora,Luxora,05093,Mississippi County,Incorporated place,35.757672,-89.92948,1
+AR,0542260,place:AR:0542260,Lynn town,Lynn,Lynn,05075,Lawrence County,Incorporated place,36.004263,-91.252,1
+AR,0543280,place:AR:0543280,Madison city,Madison,Madison,05123,St. Francis County,Incorporated place,35.017988,-90.73115,1
+AR,0543310,place:AR:0543310,Magazine city,Magazine,Magazine,05083,Logan County,Incorporated place,35.153901,-93.807851,1
+AR,0543370,place:AR:0543370,Magness town,Magness,Magness,05063,Independence County,Incorporated place,35.703055,-91.482237,1
+AR,0543430,place:AR:0543430,Magnet Cove CDP,Magnet Cove,Magnet Cove,05059,Hot Spring County,Census-designated place,34.449161,-92.837719,1
+AR,0543460,place:AR:0543460,Magnolia city,Magnolia,Magnolia,05027,Columbia County,Incorporated place,33.276698,-93.226247,1
+AR,0543610,place:AR:0543610,Malvern city,Malvern,Malvern,05059,Hot Spring County,Incorporated place,34.373276,-92.821262,1
+AR,0543670,place:AR:0543670,Mammoth Spring city,Mammoth Spring,Mammoth Spring,05049,Fulton County,Incorporated place,36.49241,-91.541067,1
+AR,0543820,place:AR:0543820,Manila city,Manila,Manila,05093,Mississippi County,Incorporated place,35.884391,-90.165646,1
+AR,0543880,place:AR:0543880,Mansfield city,Mansfield,Mansfield,05127,Scott County,Incorporated place,35.063711,-94.234842,1
+AR,0544120,place:AR:0544120,Marianna city,Marianna,Marianna,05077,Lee County,Incorporated place,34.77363,-90.767501,1
+AR,0544150,place:AR:0544150,Marie town,Marie,Marie,05093,Mississippi County,Incorporated place,35.612931,-90.082963,1
+AR,0544180,place:AR:0544180,Marion city,Marion,Marion,05035,Crittenden County,Incorporated place,35.204246,-90.206715,1
+AR,0544210,place:AR:0544210,Marked Tree city,Marked Tree,Marked Tree,05111,Poinsett County,Incorporated place,35.528073,-90.426602,1
+AR,0544240,place:AR:0544240,Marmaduke city,Marmaduke,Marmaduke,05055,Greene County,Incorporated place,36.190028,-90.385061,1
+AR,0544300,place:AR:0544300,Marshall city,Marshall,Marshall,05129,Searcy County,Incorporated place,35.908461,-92.646498,1
+AR,0544420,place:AR:0544420,Marvell city,Marvell,Marvell,05107,Phillips County,Incorporated place,34.556304,-90.915338,1
+AR,0544600,place:AR:0544600,Maumelle city,Maumelle,Maumelle,05119,Pulaski County,Incorporated place,34.852344,-92.399995,1
+AR,0544750,place:AR:0544750,Mayflower city,Mayflower,Mayflower,05045,Faulkner County,Incorporated place,34.967585,-92.425977,1
+AR,0544780,place:AR:0544780,Maynard town,Maynard,Maynard,05121,Randolph County,Incorporated place,36.42272,-90.901845,1
+AR,0544810,place:AR:0544810,Maysville CDP,Maysville,Maysville,05007,Benton County,Census-designated place,36.401975,-94.588951,1
+AR,0542350,place:AR:0542350,McAlmont CDP,McAlmont,McAlmont,05119,Pulaski County,Census-designated place,34.792696,-92.1959,1
+AR,0542410,place:AR:0542410,McCaskill town,McCaskill,McCaskill,05057,Hempstead County,Incorporated place,33.919539,-93.636831,1
+AR,0542500,place:AR:0542500,McCrory city,McCrory,McCrory,05147,Woodruff County,Incorporated place,35.257326,-91.197276,1
+AR,0542560,place:AR:0542560,McDougal town,McDougal,McDougal,05021,Clay County,Incorporated place,36.436465,-90.390727,1
+AR,0542770,place:AR:0542770,McGehee city,McGehee,McGehee,05041,Desha County,Incorporated place,33.627794,-91.39501,1
+AR,0543070,place:AR:0543070,McNab town,McNab,McNab,05057,Hempstead County,Incorporated place,33.660895,-93.832282,1
+AR,0543100,place:AR:0543100,McNeil city,McNeil,McNeil,05027,Columbia County,Incorporated place,33.347917,-93.208404,1
+AR,0543220,place:AR:0543220,McRae city,McRae,McRae,05145,White County,Incorporated place,35.113225,-91.826382,1
+AR,0545080,place:AR:0545080,Melbourne city,Melbourne,Melbourne,05065,Izard County,Incorporated place,36.06402,-91.88097,1
+AR,0545110,place:AR:0545110,Mellwood CDP,Mellwood,Mellwood,05107,Phillips County,Census-designated place,34.215475,-90.944687,1
+AR,0545170,place:AR:0545170,Mena city,Mena,Mena,05113,Polk County,Incorporated place,34.582576,-94.236485,1
+AR,0545200,place:AR:0545200,Menifee town,Menifee,Menifee,05029,Conway County,Incorporated place,35.148203,-92.552876,1
+AR,0545500,place:AR:0545500,Midland town,Midland,Midland,05131,Sebastian County,Incorporated place,35.092403,-94.352955,1
+AR,0545530,place:AR:0545530,Midway CDP,Midway,"Midway, Baxter County",05005,Baxter County,Census-designated place,36.39224,-92.475532,1
+AR,0545560,place:AR:0545560,Midway town,Midway,"Midway, Hot Spring County",05059,Hot Spring County,Incorporated place,34.249893,-92.973433,1
+AR,0546040,place:AR:0546040,Mineral Springs city,Mineral Springs,Mineral Springs,05061,Howard County,Incorporated place,33.877723,-93.921386,1
+AR,0546100,place:AR:0546100,Minturn town,Minturn,Minturn,05075,Lawrence County,Incorporated place,35.976417,-91.027188,1
+AR,0546190,place:AR:0546190,Mitchellville city,Mitchellville,Mitchellville,05041,Desha County,Incorporated place,33.905333,-91.498398,1
+AR,0546400,place:AR:0546400,Monette city,Monette,Monette,05031,Craighead County,Incorporated place,35.893208,-90.344106,1
+AR,0546460,place:AR:0546460,Monroe CDP,Monroe,Monroe,05095,Monroe County,Census-designated place,34.73404,-91.106766,1
+AR,0546580,place:AR:0546580,Monticello city,Monticello,Monticello,05043,Drew County,Incorporated place,33.624778,-91.793722,1
+AR,0546670,place:AR:0546670,Montrose city,Montrose,Montrose,05003,Ashley County,Incorporated place,33.298925,-91.49644,1
+AR,0546730,place:AR:0546730,Moorefield town,Moorefield,Moorefield,05063,Independence County,Incorporated place,35.767228,-91.570807,1
+AR,0546910,place:AR:0546910,Moro town,Moro,Moro,05077,Lee County,Incorporated place,34.791976,-90.987984,1
+AR,0546970,place:AR:0546970,Morrilton city,Morrilton,Morrilton,05029,Conway County,Incorporated place,35.155456,-92.738932,1
+AR,0547030,place:AR:0547030,Morrison Bluff town,Morrison Bluff,Morrison Bluff,05083,Logan County,Incorporated place,35.381895,-93.518786,1
+AR,0547090,place:AR:0547090,Morrow CDP,Morrow,Morrow,05143,Washington County,Census-designated place,35.856329,-94.430562,1
+AR,0547660,place:AR:0547660,Mount Holly CDP,Mount Holly,Mount Holly,05139,Union County,Census-designated place,33.307134,-92.949349,1
+AR,0547690,place:AR:0547690,Mount Ida city,Mount Ida,Mount Ida,05097,Montgomery County,Incorporated place,34.549154,-93.629939,1
+AR,0547720,place:AR:0547720,Mount Judea CDP,Mount Judea,Mount Judea,05101,Newton County,Census-designated place,35.926173,-93.056804,1
+AR,0547810,place:AR:0547810,Mount Olive CDP,Mount Olive,Mount Olive,05065,Izard County,Census-designated place,36.003119,-92.090465,1
+AR,0547900,place:AR:0547900,Mount Pleasant town,Mount Pleasant,Mount Pleasant,05065,Izard County,Incorporated place,35.988156,-91.782792,1
+AR,0548020,place:AR:0548020,Mount Vernon town,Mount Vernon,Mount Vernon,05045,Faulkner County,Incorporated place,35.223605,-92.12398,1
+AR,0547390,place:AR:0547390,Mountain Home city,Mountain Home,Mountain Home,05005,Baxter County,Incorporated place,36.335093,-92.384249,1
+AR,0547450,place:AR:0547450,Mountain Pine city,Mountain Pine,Mountain Pine,05051,Garland County,Incorporated place,34.564997,-93.171572,1
+AR,0547540,place:AR:0547540,Mountain View city,Mountain View,Mountain View,05137,Stone County,Incorporated place,35.861559,-92.109657,1
+AR,0547300,place:AR:0547300,Mountainburg city,Mountainburg,Mountainburg,05033,Crawford County,Incorporated place,35.649625,-94.162407,1
+AR,0548200,place:AR:0548200,Mulberry city,Mulberry,Mulberry,05033,Crawford County,Incorporated place,35.5085,-94.074753,1
+AR,0548290,place:AR:0548290,Murfreesboro city,Murfreesboro,Murfreesboro,05109,Pike County,Incorporated place,34.070312,-93.694073,1
+AR,0548560,place:AR:0548560,Nashville city,Nashville,Nashville,05061,Howard County,Incorporated place,33.941924,-93.851658,1
+AR,0548680,place:AR:0548680,Natural Steps CDP,Natural Steps,Natural Steps,05119,Pulaski County,Census-designated place,34.874266,-92.497772,1
+AR,0549070,place:AR:0549070,New Blaine CDP,New Blaine,New Blaine,05083,Logan County,Census-designated place,35.29252,-93.419083,1
+AR,0549220,place:AR:0549220,New Edinburg CDP,New Edinburg,New Edinburg,05025,Cleveland County,Census-designated place,33.756223,-92.240365,1
+AR,0549010,place:AR:0549010,Newark city,Newark,Newark,05063,Independence County,Incorporated place,35.70763,-91.4434,1
+AR,0549370,place:AR:0549370,Newhope CDP,Newhope,Newhope,05109,Pike County,Census-designated place,34.222258,-93.877396,1
+AR,0549580,place:AR:0549580,Newport city,Newport,Newport,05067,Jackson County,Incorporated place,35.623772,-91.231682,1
+AR,0549820,place:AR:0549820,Nimmons town,Nimmons,Nimmons,05021,Clay County,Incorporated place,36.30625,-90.095055,1
+AR,0550000,place:AR:0550000,Norfork city,Norfork,Norfork,05005,Baxter County,Incorporated place,36.209528,-92.277862,1
+AR,0550030,place:AR:0550030,Norman town,Norman,Norman,05097,Montgomery County,Incorporated place,34.458977,-93.676824,1
+AR,0550060,place:AR:0550060,Norphlet city,Norphlet,Norphlet,05139,Union County,Incorporated place,33.319893,-92.662086,1
+AR,0550240,place:AR:0550240,North Crossett CDP,North Crossett,North Crossett,05003,Ashley County,Census-designated place,33.174499,-91.933083,1
+AR,0550450,place:AR:0550450,North Little Rock city,North Little Rock,North Little Rock,05119,Pulaski County,Incorporated place,34.781752,-92.235057,1
+AR,0551500,place:AR:0551500,O'Kean town,O'Kean,O'Kean,05121,Randolph County,Incorporated place,36.171462,-90.818348,1
+AR,0550810,place:AR:0550810,Oak Grove town,Oak Grove,"Oak Grove, Carroll County",05015,Carroll County,Incorporated place,36.470205,-93.42809,1
+AR,0550990,place:AR:0550990,Oak Grove CDP,Oak Grove,"Oak Grove, Pope County",05115,Pope County,Census-designated place,35.364779,-92.964179,1
+AR,0551060,place:AR:0551060,Oak Grove Heights town,Oak Grove Heights,Oak Grove Heights,05055,Greene County,Incorporated place,36.130078,-90.50399,1
+AR,0551080,place:AR:0551080,Oakhaven town,Oakhaven,Oakhaven,05057,Hempstead County,Incorporated place,33.729396,-93.620783,1
+AR,0551110,place:AR:0551110,Oakland CDP,Oakland,Oakland,05089,Marion County,Census-designated place,36.460423,-92.571771,1
+AR,0551230,place:AR:0551230,Oark CDP,Oark,Oark,05071,Johnson County,Census-designated place,35.694977,-93.575027,1
+AR,0551290,place:AR:0551290,Oden town,Oden,Oden,05097,Montgomery County,Incorporated place,34.623149,-93.783646,1
+AR,0551350,place:AR:0551350,Ogden city,Ogden,Ogden,05081,Little River County,Incorporated place,33.585869,-94.046917,1
+AR,0551410,place:AR:0551410,Oil Trough town,Oil Trough,Oil Trough,05063,Independence County,Incorporated place,35.629162,-91.461229,1
+AR,0551530,place:AR:0551530,Okolona town,Okolona,Okolona,05019,Clark County,Incorporated place,34.000478,-93.337624,1
+AR,0551560,place:AR:0551560,Ola city,Ola,Ola,05149,Yell County,Incorporated place,35.031448,-93.224035,1
+AR,0552160,place:AR:0552160,Omaha town,Omaha,Omaha,05009,Boone County,Incorporated place,36.461647,-93.189964,1
+AR,0552280,place:AR:0552280,Oneida CDP,Oneida,Oneida,05107,Phillips County,Census-designated place,34.460486,-90.786721,1
+AR,0552430,place:AR:0552430,Oppelo city,Oppelo,Oppelo,05029,Conway County,Incorporated place,35.098179,-92.770643,1
+AR,0552580,place:AR:0552580,Osceola city,Osceola,Osceola,05093,Mississippi County,Incorporated place,35.690217,-89.988295,1
+AR,0552880,place:AR:0552880,Oxford city,Oxford,Oxford,05065,Izard County,Incorporated place,36.20903,-91.918268,1
+AR,0552940,place:AR:0552940,Ozan town,Ozan,Ozan,05057,Hempstead County,Incorporated place,33.846611,-93.720822,1
+AR,0552970,place:AR:0552970,Ozark city,Ozark,Ozark,05047,Franklin County,Incorporated place,35.501957,-93.848396,1
+AR,0553000,place:AR:0553000,Ozark Acres CDP,Ozark Acres,Ozark Acres,05135,Sharp County,Census-designated place,36.299916,-91.387076,1
+AR,0553060,place:AR:0553060,Ozone CDP,Ozone,Ozone,05071,Johnson County,Census-designated place,35.638491,-93.447317,1
+AR,0553150,place:AR:0553150,Palestine city,Palestine,Palestine,05123,St. Francis County,Incorporated place,34.970307,-90.908225,1
+AR,0553240,place:AR:0553240,Pangburn city,Pangburn,Pangburn,05145,White County,Incorporated place,35.426108,-91.839411,1
+AR,0553390,place:AR:0553390,Paragould city,Paragould,Paragould,05055,Greene County,Incorporated place,36.052188,-90.510541,1
+AR,0553480,place:AR:0553480,Paris city,Paris,Paris,05083,Logan County,Incorporated place,35.290756,-93.734228,1
+AR,0553510,place:AR:0553510,Parkdale city,Parkdale,Parkdale,05003,Ashley County,Incorporated place,33.121215,-91.546399,1
+AR,0553600,place:AR:0553600,Parkin city,Parkin,Parkin,05037,Cross County,Incorporated place,35.261175,-90.553508,1
+AR,0553900,place:AR:0553900,Patmos town,Patmos,Patmos,05057,Hempstead County,Incorporated place,33.511369,-93.566956,1
+AR,0553990,place:AR:0553990,Patterson city,Patterson,Patterson,05147,Woodruff County,Incorporated place,35.258973,-91.234957,1
+AR,0554110,place:AR:0554110,Payneway CDP,Payneway,Payneway,05111,Poinsett County,Census-designated place,35.545728,-90.512297,1
+AR,0554200,place:AR:0554200,Pea Ridge city,Pea Ridge,Pea Ridge,05007,Benton County,Incorporated place,36.446651,-94.120807,1
+AR,0554140,place:AR:0554140,Peach Orchard city,Peach Orchard,Peach Orchard,05021,Clay County,Incorporated place,36.281229,-90.660774,1
+AR,0554170,place:AR:0554170,Pearcy CDP,Pearcy,Pearcy,05051,Garland County,Census-designated place,34.435455,-93.288217,1
+AR,0554410,place:AR:0554410,Pencil Bluff CDP,Pencil Bluff,Pencil Bluff,05097,Montgomery County,Census-designated place,34.631442,-93.737326,1
+AR,0554620,place:AR:0554620,Perla town,Perla,Perla,05059,Hot Spring County,Incorporated place,34.364755,-92.776228,1
+AR,0554650,place:AR:0554650,Perry town,Perry,Perry,05105,Perry County,Incorporated place,35.046221,-92.79441,1
+AR,0554680,place:AR:0554680,Perrytown town,Perrytown,Perrytown,05057,Hempstead County,Incorporated place,33.697141,-93.532407,1
+AR,0554710,place:AR:0554710,Perryville city,Perryville,Perryville,05105,Perry County,Incorporated place,35.012,-92.802938,1
+AR,0555130,place:AR:0555130,Piggott city,Piggott,Piggott,05021,Clay County,Incorporated place,36.387191,-90.198944,1
+AR,0555280,place:AR:0555280,Pindall town,Pindall,Pindall,05129,Searcy County,Incorporated place,36.063663,-92.862158,1
+AR,0555310,place:AR:0555310,Pine Bluff city,Pine Bluff,Pine Bluff,05069,Jefferson County,Incorporated place,34.211591,-92.017555,1
+AR,0555580,place:AR:0555580,Pineville town,Pineville,Pineville,05065,Izard County,Incorporated place,36.161145,-92.106471,1
+AR,0555610,place:AR:0555610,Piney CDP,Piney,Piney,05051,Garland County,Census-designated place,34.502936,-93.144291,1
+AR,0555970,place:AR:0555970,Plainview city,Plainview,Plainview,05149,Yell County,Incorporated place,34.989874,-93.297948,1
+AR,0556060,place:AR:0556060,Pleasant Grove CDP,Pleasant Grove,Pleasant Grove,05137,Stone County,Census-designated place,35.820465,-91.906976,1
+AR,0556270,place:AR:0556270,Pleasant Plains town,Pleasant Plains,Pleasant Plains,05063,Independence County,Incorporated place,35.554559,-91.627225,1
+AR,0556480,place:AR:0556480,Plumerville city,Plumerville,Plumerville,05029,Conway County,Incorporated place,35.159377,-92.643059,1
+AR,0556540,place:AR:0556540,Pocahontas city,Pocahontas,Pocahontas,05121,Randolph County,Incorporated place,36.263366,-90.971224,1
+AR,0556600,place:AR:0556600,Pollard city,Pollard,Pollard,05021,Clay County,Incorporated place,36.429551,-90.267212,1
+AR,0556630,place:AR:0556630,Ponca CDP,Ponca,Ponca,05101,Newton County,Census-designated place,36.029292,-93.362376,1
+AR,0556690,place:AR:0556690,Poplar Grove CDP,Poplar Grove,Poplar Grove,05107,Phillips County,Census-designated place,34.552169,-90.854223,1
+AR,0556720,place:AR:0556720,Portia town,Portia,Portia,05075,Lawrence County,Incorporated place,36.084865,-91.071044,1
+AR,0556750,place:AR:0556750,Portland city,Portland,Portland,05003,Ashley County,Incorporated place,33.237935,-91.510945,1
+AR,0556990,place:AR:0556990,Pottsville city,Pottsville,Pottsville,05115,Pope County,Incorporated place,35.230606,-93.060839,1
+AR,0557050,place:AR:0557050,Powhatan town,Powhatan,Powhatan,05075,Lawrence County,Incorporated place,36.087312,-91.123884,1
+AR,0557080,place:AR:0557080,Poyen town,Poyen,Poyen,05053,Grant County,Incorporated place,34.324169,-92.641976,1
+AR,0557125,place:AR:0557125,Prairie Creek CDP,Prairie Creek,Prairie Creek,05007,Benton County,Census-designated place,36.329766,-94.058917,1
+AR,0557170,place:AR:0557170,Prairie Grove city,Prairie Grove,Prairie Grove,05143,Washington County,Incorporated place,35.986113,-94.303383,1
+AR,0557230,place:AR:0557230,Prattsville town,Prattsville,Prattsville,05053,Grant County,Incorporated place,34.318495,-92.543146,1
+AR,0557260,place:AR:0557260,Prescott city,Prescott,Prescott,05099,Nevada County,Incorporated place,33.80432,-93.391207,1
+AR,0557530,place:AR:0557530,Princeton CDP,Princeton,Princeton,05039,Dallas County,Census-designated place,33.97754,-92.624178,1
+AR,0557890,place:AR:0557890,Pyatt town,Pyatt,Pyatt,05089,Marion County,Incorporated place,36.250744,-92.846637,1
+AR,0557950,place:AR:0557950,Quitman city,Quitman,Quitman,05023,Cleburne County,Incorporated place,35.381653,-92.21512,1
+AR,0558160,place:AR:0558160,Ratcliff city,Ratcliff,Ratcliff,05083,Logan County,Incorporated place,35.306946,-93.888636,1
+AR,0558250,place:AR:0558250,Ravenden town,Ravenden,Ravenden,05075,Lawrence County,Incorporated place,36.243201,-91.251307,1
+AR,0558280,place:AR:0558280,Ravenden Springs town,Ravenden Springs,Ravenden Springs,05121,Randolph County,Incorporated place,36.312705,-91.223265,1
+AR,0558400,place:AR:0558400,Reader CDP,Reader,Reader,05103,Ouachita County,Census-designated place,33.755976,-93.09806,1
+AR,0558490,place:AR:0558490,Rector city,Rector,Rector,05021,Clay County,Incorporated place,36.2632,-90.293352,1
+AR,0558580,place:AR:0558580,Redfield city,Redfield,Redfield,05069,Jefferson County,Incorporated place,34.438916,-92.189323,1
+AR,0558880,place:AR:0558880,Reed town,Reed,Reed,05041,Desha County,Incorporated place,33.701672,-91.445758,1
+AR,0559180,place:AR:0559180,Reyno city,Reyno,Reyno,05121,Randolph County,Incorporated place,36.360899,-90.758993,1
+AR,0559480,place:AR:0559480,Rison city,Rison,Rison,05025,Cleveland County,Incorporated place,33.959951,-92.193648,1
+AR,0559630,place:AR:0559630,Rivervale CDP,Rivervale,Rivervale,05111,Poinsett County,Census-designated place,35.675877,-90.3445,1
+AR,0560020,place:AR:0560020,Rockport city,Rockport,Rockport,05059,Hot Spring County,Incorporated place,34.406521,-92.802912,1
+AR,0560110,place:AR:0560110,Rockwell CDP,Rockwell,Rockwell,05051,Garland County,Census-designated place,34.464341,-93.133829,1
+AR,0560380,place:AR:0560380,Roe town,Roe,Roe,05095,Monroe County,Incorporated place,34.631101,-91.385963,1
+AR,0560410,place:AR:0560410,Rogers city,Rogers,Rogers,05007,Benton County,Incorporated place,36.318085,-94.152287,1
+AR,0560470,place:AR:0560470,Roland CDP,Roland,Roland,05119,Pulaski County,Census-designated place,34.90224,-92.517469,1
+AR,0560590,place:AR:0560590,Rondo town,Rondo,Rondo,05077,Lee County,Incorporated place,34.657447,-90.820842,1
+AR,0560770,place:AR:0560770,Rose Bud town,Rose Bud,Rose Bud,05145,White County,Incorporated place,35.321184,-92.076513,1
+AR,0561040,place:AR:0561040,Rosston town,Rosston,Rosston,05099,Nevada County,Incorporated place,33.588019,-93.286934,1
+AR,0561190,place:AR:0561190,Rover CDP,Rover,Rover,05149,Yell County,Census-designated place,34.951824,-93.408964,1
+AR,0561460,place:AR:0561460,Rudy town,Rudy,Rudy,05033,Crawford County,Incorporated place,35.527455,-94.240384,1
+AR,0561640,place:AR:0561640,Russell town,Russell,Russell,05145,White County,Incorporated place,35.362126,-91.509947,1
+AR,0561670,place:AR:0561670,Russellville city,Russellville,Russellville,05115,Pope County,Incorporated place,35.276876,-93.137515,1
+AR,0561730,place:AR:0561730,Rye CDP,Rye,Rye,05025,Cleveland County,Census-designated place,33.750475,-91.998485,1
+AR,0562120,place:AR:0562120,Salado CDP,Salado,Salado,05063,Independence County,Census-designated place,35.695405,-91.592317,1
+AR,0562150,place:AR:0562150,Salem city,Salem,"Salem, Fulton County",05049,Fulton County,Incorporated place,36.370416,-91.821706,1
+AR,0562210,place:AR:0562210,Salem CDP,Salem,"Salem, Saline County",05125,Saline County,Census-designated place,34.630899,-92.561492,1
+AR,0562240,place:AR:0562240,Salesville city,Salesville,Salesville,05005,Baxter County,Incorporated place,36.23906,-92.277495,1
+AR,0562630,place:AR:0562630,Saratoga CDP,Saratoga,Saratoga,05057,Hempstead County,Census-designated place,33.735175,-93.903881,1
+AR,0562660,place:AR:0562660,Sardis CDP,Sardis,Sardis,05125,Saline County,Census-designated place,34.533041,-92.406722,1
+AR,0562900,place:AR:0562900,Scott CDP,Scott,Scott,05085,Lonoke County,Census-designated place,34.696036,-92.093604,1
+AR,0562960,place:AR:0562960,Scranton city,Scranton,Scranton,05083,Logan County,Incorporated place,35.36043,-93.539724,1
+AR,0563020,place:AR:0563020,Searcy city,Searcy,Searcy,05145,White County,Incorporated place,35.241134,-91.735223,1
+AR,0563110,place:AR:0563110,Sedgwick town,Sedgwick,Sedgwick,05075,Lawrence County,Incorporated place,35.974161,-90.862149,1
+AR,0563470,place:AR:0563470,Shannon Hills city,Shannon Hills,Shannon Hills,05125,Saline County,Incorporated place,34.617586,-92.402176,1
+AR,0563710,place:AR:0563710,Sheridan city,Sheridan,Sheridan,05053,Grant County,Incorporated place,34.321575,-92.443067,1
+AR,0563740,place:AR:0563740,Sherrill town,Sherrill,Sherrill,05069,Jefferson County,Incorporated place,34.379345,-91.954377,1
+AR,0563800,place:AR:0563800,Sherwood city,Sherwood,Sherwood,05119,Pulaski County,Incorporated place,34.852029,-92.204483,1
+AR,0563980,place:AR:0563980,Shirley town,Shirley,Shirley,05141,Van Buren County,Incorporated place,35.643751,-92.313519,1
+AR,0564280,place:AR:0564280,Sidney town,Sidney,Sidney,05135,Sharp County,Incorporated place,36.004421,-91.658289,1
+AR,0564370,place:AR:0564370,Siloam Springs city,Siloam Springs,Siloam Springs,05007,Benton County,Incorporated place,36.185382,-94.530029,1
+AR,0564730,place:AR:0564730,Smackover city,Smackover,Smackover,05139,Union County,Incorporated place,33.363589,-92.731425,1
+AR,0564910,place:AR:0564910,Smithville town,Smithville,Smithville,05075,Lawrence County,Incorporated place,36.079921,-91.302675,1
+AR,0565480,place:AR:0565480,South Lead Hill town,South Lead Hill,South Lead Hill,05009,Boone County,Incorporated place,36.395614,-92.906209,1
+AR,0565630,place:AR:0565630,Southside city,Southside,Southside,05063,Independence County,Incorporated place,35.720183,-91.630162,1
+AR,0565900,place:AR:0565900,Sparkman city,Sparkman,Sparkman,05039,Dallas County,Incorporated place,33.917168,-92.849997,1
+AR,0566080,place:AR:0566080,Springdale city,Springdale,Springdale,05143,Washington County,Incorporated place,36.191438,-94.155062,1
+AR,0566110,place:AR:0566110,Springfield CDP,Springfield,Springfield,05029,Conway County,Census-designated place,35.272887,-92.554988,1
+AR,0566200,place:AR:0566200,Springtown town,Springtown,Springtown,05007,Benton County,Incorporated place,36.260285,-94.423812,1
+AR,0561940,place:AR:0561940,St. Charles town,St. Charles,St. Charles,05001,Arkansas County,Incorporated place,34.372999,-91.137446,1
+AR,0561970,place:AR:0561970,St. Francis city,St. Francis,St. Francis,05021,Clay County,Incorporated place,36.454872,-90.142179,1
+AR,0562030,place:AR:0562030,St. Joe town,St. Joe,St. Joe,05129,Searcy County,Incorporated place,36.02597,-92.8014,1
+AR,0562060,place:AR:0562060,St. Paul town,St. Paul,St. Paul,05087,Madison County,Incorporated place,35.826791,-93.767285,1
+AR,0566320,place:AR:0566320,Stamps city,Stamps,Stamps,05073,Lafayette County,Incorporated place,33.354959,-93.497879,1
+AR,0566440,place:AR:0566440,Star City city,Star City,Star City,05079,Lincoln County,Incorporated place,33.94038,-91.839416,1
+AR,0566800,place:AR:0566800,Staves CDP,Staves,Staves,05025,Cleveland County,Census-designated place,34.033579,-92.280583,1
+AR,0566860,place:AR:0566860,Stephens city,Stephens,Stephens,05103,Ouachita County,Incorporated place,33.420916,-93.06959,1
+AR,0567250,place:AR:0567250,Strawberry town,Strawberry,Strawberry,05075,Lawrence County,Incorporated place,35.966523,-91.321102,1
+AR,0567370,place:AR:0567370,Strong city,Strong,Strong,05139,Union County,Incorporated place,33.107883,-92.355573,1
+AR,0567490,place:AR:0567490,Stuttgart city,Stuttgart,Stuttgart,05001,Arkansas County,Incorporated place,34.495233,-91.548638,1
+AR,0567520,place:AR:0567520,Subiaco town,Subiaco,Subiaco,05083,Logan County,Incorporated place,35.297367,-93.639439,1
+AR,0567550,place:AR:0567550,Success town,Success,Success,05021,Clay County,Incorporated place,36.454501,-90.722625,1
+AR,0567730,place:AR:0567730,Sulphur Rock town,Sulphur Rock,Sulphur Rock,05063,Independence County,Incorporated place,35.751613,-91.500264,1
+AR,0567760,place:AR:0567760,Sulphur Springs city,Sulphur Springs,"Sulphur Springs, Benton County",05007,Benton County,Incorporated place,36.484076,-94.460095,1
+AR,0567790,place:AR:0567790,Sulphur Springs CDP,Sulphur Springs,"Sulphur Springs, Jefferson County",05069,Jefferson County,Census-designated place,34.17145,-92.132055,1
+AR,0567880,place:AR:0567880,Summers CDP,Summers,Summers,05143,Washington County,Census-designated place,35.987194,-94.482872,1
+AR,0567940,place:AR:0567940,Summit city,Summit,Summit,05089,Marion County,Incorporated place,36.252203,-92.688287,1
+AR,0568060,place:AR:0568060,Sunset town,Sunset,Sunset,05035,Crittenden County,Incorporated place,35.223979,-90.205642,1
+AR,0568330,place:AR:0568330,Sweet Home CDP,Sweet Home,Sweet Home,05119,Pulaski County,Census-designated place,34.666969,-92.246317,1
+AR,0568360,place:AR:0568360,Swifton city,Swifton,Swifton,05067,Jackson County,Incorporated place,35.824376,-91.129429,1
+AR,0568660,place:AR:0568660,Taylor city,Taylor,Taylor,05027,Columbia County,Incorporated place,33.099802,-93.461843,1
+AR,0568810,place:AR:0568810,Texarkana city,Texarkana,Texarkana,05091,Miller County,Incorporated place,33.436339,-93.987118,1
+AR,0569050,place:AR:0569050,Thornton city,Thornton,Thornton,05013,Calhoun County,Incorporated place,33.774876,-92.487651,1
+AR,0569230,place:AR:0569230,Tillar city,Tillar,Tillar,05043,Drew County,Incorporated place,33.711,-91.451812,1
+AR,0569350,place:AR:0569350,Tinsman town,Tinsman,Tinsman,05013,Calhoun County,Incorporated place,33.629183,-92.353295,1
+AR,0569500,place:AR:0569500,Tollette town,Tollette,Tollette,05061,Howard County,Incorporated place,33.818095,-93.896899,1
+AR,0569740,place:AR:0569740,Tontitown city,Tontitown,Tontitown,05143,Washington County,Incorporated place,36.167388,-94.242128,1
+AR,0569830,place:AR:0569830,Traskwood city,Traskwood,Traskwood,05125,Saline County,Incorporated place,34.452451,-92.666438,1
+AR,0570010,place:AR:0570010,Trumann city,Trumann,Trumann,05111,Poinsett County,Incorporated place,35.67698,-90.526094,1
+AR,0570070,place:AR:0570070,Tucker CDP,Tucker,Tucker,05069,Jefferson County,Census-designated place,34.439523,-91.951907,1
+AR,0570100,place:AR:0570100,Tuckerman city,Tuckerman,Tuckerman,05067,Jackson County,Incorporated place,35.725684,-91.202073,1
+AR,0570220,place:AR:0570220,Tull town,Tull,Tull,05053,Grant County,Incorporated place,34.441214,-92.585881,1
+AR,0570310,place:AR:0570310,Tumbling Shoals CDP,Tumbling Shoals,Tumbling Shoals,05023,Cleburne County,Census-designated place,35.547053,-91.96746,1
+AR,0570340,place:AR:0570340,Tupelo town,Tupelo,Tupelo,05067,Jackson County,Incorporated place,35.390332,-91.229904,1
+AR,0570430,place:AR:0570430,Turrell city,Turrell,Turrell,05035,Crittenden County,Incorporated place,35.374609,-90.270384,1
+AR,0570540,place:AR:0570540,Twin Groves town,Twin Groves,Twin Groves,05045,Faulkner County,Incorporated place,35.329207,-92.405668,1
+AR,0570700,place:AR:0570700,Tyronza city,Tyronza,Tyronza,05111,Poinsett County,Incorporated place,35.486771,-90.356008,1
+AR,0570760,place:AR:0570760,Ulm town,Ulm,Ulm,05117,Prairie County,Incorporated place,34.576229,-91.461691,1
+AR,0571060,place:AR:0571060,Uniontown CDP,Uniontown,Uniontown,05033,Crawford County,Census-designated place,35.585222,-94.446997,1
+AR,0571180,place:AR:0571180,Urbana CDP,Urbana,Urbana,05139,Union County,Census-designated place,33.158452,-92.445361,1
+AR,0571390,place:AR:0571390,Valley Springs town,Valley Springs,Valley Springs,05009,Boone County,Incorporated place,36.153768,-92.989698,1
+AR,0571480,place:AR:0571480,Van Buren city,Van Buren,Van Buren,05033,Crawford County,Incorporated place,35.451176,-94.354003,1
+AR,0571510,place:AR:0571510,Vandervoort town,Vandervoort,Vandervoort,05113,Polk County,Incorporated place,34.379781,-94.364919,1
+AR,0571570,place:AR:0571570,Vanndale CDP,Vanndale,Vanndale,05037,Cross County,Census-designated place,35.315292,-90.771114,1
+AR,0571900,place:AR:0571900,Victoria town,Victoria,Victoria,05093,Mississippi County,Incorporated place,35.757424,-90.060145,1
+AR,0571960,place:AR:0571960,Vilonia city,Vilonia,Vilonia,05045,Faulkner County,Incorporated place,35.078702,-92.215387,1
+AR,0572140,place:AR:0572140,Viola town,Viola,Viola,05049,Fulton County,Incorporated place,36.399237,-91.986977,1
+AR,0572170,place:AR:0572170,Violet Hill CDP,Violet Hill,Violet Hill,05065,Izard County,Census-designated place,36.152899,-91.839723,1
+AR,0572230,place:AR:0572230,Wabbaseka town,Wabbaseka,Wabbaseka,05069,Jefferson County,Incorporated place,34.359805,-91.793777,1
+AR,0572290,place:AR:0572290,Walcott CDP,Walcott,Walcott,05055,Greene County,Census-designated place,36.046118,-90.670497,1
+AR,0572320,place:AR:0572320,Waldenburg town,Waldenburg,Waldenburg,05111,Poinsett County,Incorporated place,35.565255,-90.934561,1
+AR,0572350,place:AR:0572350,Waldo city,Waldo,Waldo,05027,Columbia County,Incorporated place,33.351923,-93.295393,1
+AR,0572380,place:AR:0572380,Waldron city,Waldron,Waldron,05127,Scott County,Incorporated place,34.903252,-94.094839,1
+AR,0572890,place:AR:0572890,Walnut Ridge city,Walnut Ridge,Walnut Ridge,05075,Lawrence County,Incorporated place,36.084796,-90.94684,1
+AR,0573130,place:AR:0573130,Ward city,Ward,Ward,05085,Lonoke County,Incorporated place,35.013782,-91.957727,1
+AR,0573250,place:AR:0573250,Warm Springs CDP,Warm Springs,Warm Springs,05121,Randolph County,Census-designated place,36.483148,-91.049008,1
+AR,0573310,place:AR:0573310,Warren city,Warren,Warren,05011,Bradley County,Incorporated place,33.611829,-92.067718,1
+AR,0573370,place:AR:0573370,Washington city,Washington,Washington,05057,Hempstead County,Incorporated place,33.772882,-93.683293,1
+AR,0573550,place:AR:0573550,Watson city,Watson,Watson,05041,Desha County,Incorporated place,33.89375,-91.257061,1
+AR,0573730,place:AR:0573730,Wayton CDP,Wayton,Wayton,05101,Newton County,Census-designated place,35.919363,-93.259588,1
+AR,0573940,place:AR:0573940,Weiner city,Weiner,Weiner,05111,Poinsett County,Incorporated place,35.619714,-90.905303,1
+AR,0574000,place:AR:0574000,Weldon town,Weldon,Weldon,05067,Jackson County,Incorporated place,35.447994,-91.231606,1
+AR,0574090,place:AR:0574090,Wesley CDP,Wesley,Wesley,05087,Madison County,Census-designated place,36.032535,-93.918624,1
+AR,0574270,place:AR:0574270,West Crossett CDP,West Crossett,West Crossett,05003,Ashley County,Census-designated place,33.148026,-92.016948,1
+AR,0574360,place:AR:0574360,West Fork city,West Fork,West Fork,05143,Washington County,Incorporated place,35.934924,-94.18111,1
+AR,0574540,place:AR:0574540,West Memphis city,West Memphis,West Memphis,05035,Crittenden County,Incorporated place,35.149554,-90.199266,1
+AR,0574660,place:AR:0574660,West Point town,West Point,West Point,05145,White County,Incorporated place,35.203307,-91.609897,1
+AR,0574330,place:AR:0574330,Western Grove town,Western Grove,Western Grove,05101,Newton County,Incorporated place,36.101118,-92.954554,1
+AR,0574840,place:AR:0574840,Wheatley city,Wheatley,Wheatley,05123,St. Francis County,Incorporated place,34.921186,-91.106255,1
+AR,0574930,place:AR:0574930,Whelen Springs town,Whelen Springs,Whelen Springs,05019,Clark County,Incorporated place,33.833144,-93.126029,1
+AR,0575170,place:AR:0575170,White Hall city,White Hall,White Hall,05069,Jefferson County,Incorporated place,34.275179,-92.100649,1
+AR,0575500,place:AR:0575500,Wickes town,Wickes,Wickes,05113,Polk County,Incorporated place,34.299736,-94.327252,1
+AR,0575560,place:AR:0575560,Widener town,Widener,Widener,05123,St. Francis County,Incorporated place,35.023498,-90.681934,1
+AR,0575570,place:AR:0575570,Wiederkehr Village city,Wiederkehr Village,Wiederkehr Village,05047,Franklin County,Incorporated place,35.477705,-93.764725,1
+AR,0575590,place:AR:0575590,Wilburn CDP,Wilburn,Wilburn,05023,Cleburne County,Census-designated place,35.508788,-91.888375,1
+AR,0575740,place:AR:0575740,Williford town,Williford,Williford,05135,Sharp County,Incorporated place,36.251832,-91.360457,1
+AR,0575770,place:AR:0575770,Willisville town,Willisville,Willisville,05099,Nevada County,Incorporated place,33.516119,-93.293665,1
+AR,0575860,place:AR:0575860,Wilmar city,Wilmar,Wilmar,05043,Drew County,Incorporated place,33.626384,-91.929342,1
+AR,0575890,place:AR:0575890,Wilmot city,Wilmot,Wilmot,05003,Ashley County,Incorporated place,33.056701,-91.582955,1
+AR,0575920,place:AR:0575920,Wilson city,Wilson,Wilson,05093,Mississippi County,Incorporated place,35.565961,-90.0418,1
+AR,0575980,place:AR:0575980,Wilton city,Wilton,Wilton,05081,Little River County,Incorporated place,33.738728,-94.147987,1
+AR,0576010,place:AR:0576010,Winchester town,Winchester,Winchester,05043,Drew County,Incorporated place,33.774074,-91.4737,1
+AR,0576190,place:AR:0576190,Winslow city,Winslow,Winslow,05143,Washington County,Incorporated place,35.801542,-94.131779,1
+AR,0576250,place:AR:0576250,Winthrop city,Winthrop,Winthrop,05081,Little River County,Incorporated place,33.830837,-94.354222,1
+AR,0576460,place:AR:0576460,Witts Springs CDP,Witts Springs,Witts Springs,05129,Searcy County,Census-designated place,35.770268,-92.882285,1
+AR,0576690,place:AR:0576690,Woodlawn CDP,Woodlawn,Woodlawn,05025,Cleveland County,Census-designated place,33.966736,-92.045239,1
+AR,0576730,place:AR:0576730,Woodson CDP,Woodson,Woodson,05119,Pulaski County,Census-designated place,34.539726,-92.222549,1
+AR,0576820,place:AR:0576820,Wooster town,Wooster,Wooster,05045,Faulkner County,Incorporated place,35.199919,-92.450204,1
+AR,0576970,place:AR:0576970,Wrightsville city,Wrightsville,Wrightsville,05119,Pulaski County,Incorporated place,34.620714,-92.219607,1
+AR,0577090,place:AR:0577090,Wynne city,Wynne,Wynne,05037,Cross County,Incorporated place,35.235224,-90.788513,1
+AR,0577203,place:AR:0577203,Yarborough Landing CDP,Yarborough Landing,Yarborough Landing,05081,Little River County,Census-designated place,33.718829,-94.009261,1
+AR,0577330,place:AR:0577330,Yellville city,Yellville,Yellville,05089,Marion County,Incorporated place,36.228846,-92.686123,1
+AR,0577600,place:AR:0577600,Zinc town,Zinc,Zinc,05009,Boone County,Incorporated place,36.283959,-92.914422,1

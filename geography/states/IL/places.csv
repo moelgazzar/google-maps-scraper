@@ -1,0 +1,1462 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+IL,1700113,place:IL:1700113,Abingdon city,Abingdon,Abingdon,17095,Knox County,Incorporated place,40.803781,-90.400935,1
+IL,1700178,place:IL:1700178,Adair CDP,Adair,Adair,17109,McDonough County,Census-designated place,40.418307,-90.497373,1
+IL,1700191,place:IL:1700191,Adams CDP,Adams,Adams,17001,Adams County,Census-designated place,39.87086,-91.19985,1
+IL,1700230,place:IL:1700230,Addieville village,Addieville,Addieville,17189,Washington County,Incorporated place,38.391299,-89.486455,1
+IL,1700243,place:IL:1700243,Addison village,Addison,Addison,17043,DuPage County,Incorporated place,41.930782,-88.008987,1
+IL,1700295,place:IL:1700295,Adeline village,Adeline,Adeline,17141,Ogle County,Incorporated place,42.140551,-89.491859,1
+IL,1700516,place:IL:1700516,Albany village,Albany,Albany,17195,Whiteside County,Incorporated place,41.786132,-90.21635,1
+IL,1700555,place:IL:1700555,Albers village,Albers,Albers,17027,Clinton County,Incorporated place,38.543434,-89.617159,1
+IL,1700568,place:IL:1700568,Albion city,Albion,Albion,17047,Edwards County,Incorporated place,38.376598,-88.057625,1
+IL,1700594,place:IL:1700594,Alden CDP,Alden,Alden,17111,McHenry County,Census-designated place,42.458607,-88.518517,1
+IL,1700646,place:IL:1700646,Aledo city,Aledo,Aledo,17131,Mercer County,Incorporated place,41.198561,-90.746351,1
+IL,1700659,place:IL:1700659,Alexander CDP,Alexander,Alexander,17137,Morgan County,Census-designated place,39.721772,-90.036846,1
+IL,1700672,place:IL:1700672,Alexis village,Alexis,Alexis,17187,Warren County,Incorporated place,41.062906,-90.555402,1
+IL,1700685,place:IL:1700685,Algonquin village,Algonquin,Algonquin,17111,McHenry County,Incorporated place,42.159466,-88.321873,1
+IL,1700737,place:IL:1700737,Alhambra village,Alhambra,Alhambra,17119,Madison County,Incorporated place,38.887446,-89.736876,1
+IL,1700815,place:IL:1700815,Allendale village,Allendale,Allendale,17185,Wabash County,Incorporated place,38.527627,-87.710344,1
+IL,1700867,place:IL:1700867,Allenville village,Allenville,Allenville,17139,Moultrie County,Incorporated place,39.558307,-88.538709,1
+IL,1700880,place:IL:1700880,Allerton village,Allerton,Allerton,17183,Vermilion County,Incorporated place,39.916139,-87.935258,1
+IL,1700919,place:IL:1700919,Alma village,Alma,Alma,17121,Marion County,Incorporated place,38.722888,-88.911695,1
+IL,1700971,place:IL:1700971,Alpha village,Alpha,Alpha,17073,Henry County,Incorporated place,41.191695,-90.380463,1
+IL,1700997,place:IL:1700997,Alsey village,Alsey,Alsey,17171,Scott County,Incorporated place,39.559411,-90.433585,1
+IL,1701010,place:IL:1701010,Alsip village,Alsip,Alsip,17031,Cook County,Incorporated place,41.67027,-87.737085,1
+IL,1701049,place:IL:1701049,Altamont city,Altamont,Altamont,17049,Effingham County,Incorporated place,39.056115,-88.746922,1
+IL,1701205,place:IL:1701205,Alto Pass village,Alto Pass,Alto Pass,17181,Union County,Incorporated place,37.573654,-89.319546,1
+IL,1701114,place:IL:1701114,Alton city,Alton,Alton,17119,Madison County,Incorporated place,38.903898,-90.151204,1
+IL,1701140,place:IL:1701140,Altona village,Altona,Altona,17095,Knox County,Incorporated place,41.115052,-90.164819,1
+IL,1701242,place:IL:1701242,Alvan (Alvin) village,Alvan (Alvin),Alvan (Alvin),17183,Vermilion County,Incorporated place,40.307028,-87.606903,1
+IL,1701270,place:IL:1701270,Amboy city,Amboy,Amboy,17103,Lee County,Incorporated place,41.715885,-89.34089,1
+IL,1701361,place:IL:1701361,Anchor village,Anchor,Anchor,17113,McLean County,Incorporated place,40.56814,-88.53846,1
+IL,1701426,place:IL:1701426,Andalusia village,Andalusia,Andalusia,17161,Rock Island County,Incorporated place,41.435891,-90.713922,1
+IL,1701491,place:IL:1701491,Andover village,Andover,Andover,17073,Henry County,Incorporated place,41.294916,-90.290743,1
+IL,1701517,place:IL:1701517,Andres CDP,Andres,Andres,17197,Will County,Census-designated place,41.371007,-87.881453,1
+IL,1701543,place:IL:1701543,Anna city,Anna,Anna,17181,Union County,Incorporated place,37.46106,-89.237478,1
+IL,1701556,place:IL:1701556,Annapolis CDP,Annapolis,Annapolis,17033,Crawford County,Census-designated place,39.143046,-87.817129,1
+IL,1701569,place:IL:1701569,Annawan town,Annawan,Annawan,17073,Henry County,Incorporated place,41.396318,-89.89067,1
+IL,1701595,place:IL:1701595,Antioch village,Antioch,Antioch,17097,Lake County,Incorporated place,42.477149,-88.067131,1
+IL,1701647,place:IL:1701647,Apple Canyon Lake CDP,Apple Canyon Lake,Apple Canyon Lake,17085,Jo Daviess County,Census-designated place,42.433843,-90.159677,1
+IL,1701673,place:IL:1701673,Apple River village,Apple River,Apple River,17085,Jo Daviess County,Incorporated place,42.502235,-90.094049,1
+IL,1701803,place:IL:1701803,Arbury Hills CDP,Arbury Hills,Arbury Hills,17197,Will County,Census-designated place,41.535311,-87.846065,1
+IL,1701881,place:IL:1701881,Arcola city,Arcola,Arcola,17041,Douglas County,Incorporated place,39.683576,-88.300851,1
+IL,1701946,place:IL:1701946,Arenzville village,Arenzville,Arenzville,17017,Cass County,Incorporated place,39.880462,-90.37055,1
+IL,1701972,place:IL:1701972,Argenta village,Argenta,Argenta,17115,Macon County,Incorporated place,39.985506,-88.819725,1
+IL,1702050,place:IL:1702050,Argyle CDP,Argyle,Argyle,17007,Boone County,Census-designated place,42.35479,-88.939167,1
+IL,1702102,place:IL:1702102,Arlington village,Arlington,Arlington,17011,Bureau County,Incorporated place,41.471751,-89.247756,1
+IL,1702154,place:IL:1702154,Arlington Heights village,Arlington Heights,Arlington Heights,17031,Cook County,Incorporated place,42.097362,-87.981671,1
+IL,1702206,place:IL:1702206,Armington village,Armington,Armington,17179,Tazewell County,Incorporated place,40.33968,-89.314418,1
+IL,1702258,place:IL:1702258,Aroma Park village,Aroma Park,Aroma Park,17091,Kankakee County,Incorporated place,41.081805,-87.804373,1
+IL,1702342,place:IL:1702342,Arrowsmith village,Arrowsmith,Arrowsmith,17113,McLean County,Incorporated place,40.449273,-88.632098,1
+IL,1702414,place:IL:1702414,Arthur village,Arthur,Arthur,17041,Douglas County,Incorporated place,39.714453,-88.469594,1
+IL,1702479,place:IL:1702479,Ashkum village,Ashkum,Ashkum,17075,Iroquois County,Incorporated place,40.878331,-87.953214,1
+IL,1702505,place:IL:1702505,Ashland village,Ashland,Ashland,17017,Cass County,Incorporated place,39.888539,-90.007874,1
+IL,1702531,place:IL:1702531,Ashley city,Ashley,Ashley,17189,Washington County,Incorporated place,38.328335,-89.188951,1
+IL,1702557,place:IL:1702557,Ashmore village,Ashmore,Ashmore,17029,Coles County,Incorporated place,39.530563,-88.020109,1
+IL,1702583,place:IL:1702583,Ashton village,Ashton,Ashton,17103,Lee County,Incorporated place,41.867871,-89.223634,1
+IL,1702609,place:IL:1702609,Assumption city,Assumption,Assumption,17021,Christian County,Incorporated place,39.518002,-89.047729,1
+IL,1702635,place:IL:1702635,Astoria town,Astoria,Astoria,17057,Fulton County,Incorporated place,40.227858,-90.356524,1
+IL,1702674,place:IL:1702674,Athens city,Athens,Athens,17129,Menard County,Incorporated place,39.961863,-89.721631,1
+IL,1702726,place:IL:1702726,Atkinson town,Atkinson,Atkinson,17073,Henry County,Incorporated place,41.413293,-90.005345,1
+IL,1702752,place:IL:1702752,Atlanta city,Atlanta,Atlanta,17107,Logan County,Incorporated place,40.263574,-89.230845,1
+IL,1702882,place:IL:1702882,Atwood village,Atwood,Atwood,17147,Piatt County,Incorporated place,39.799271,-88.462695,1
+IL,1702921,place:IL:1702921,Auburn city,Auburn,Auburn,17167,Sangamon County,Incorporated place,39.5763,-89.743982,1
+IL,1702986,place:IL:1702986,Augusta village,Augusta,Augusta,17067,Hancock County,Incorporated place,40.23073,-90.950063,1
+IL,1703012,place:IL:1703012,Aurora city,Aurora,Aurora,17089,Kane County,Incorporated place,41.763455,-88.290099,1
+IL,1703103,place:IL:1703103,Ava city,Ava,Ava,17077,Jackson County,Incorporated place,37.888524,-89.496305,1
+IL,1703181,place:IL:1703181,Aviston village,Aviston,Aviston,17027,Clinton County,Incorporated place,38.625967,-89.613424,1
+IL,1703207,place:IL:1703207,Avon village,Avon,Avon,17057,Fulton County,Incorporated place,40.662002,-90.435261,1
+IL,1703337,place:IL:1703337,Baileyville CDP,Baileyville,Baileyville,17141,Ogle County,Census-designated place,42.198332,-89.594528,1
+IL,1703454,place:IL:1703454,Baldwin village,Baldwin,Baldwin,17157,Randolph County,Incorporated place,38.183829,-89.845152,1
+IL,1703571,place:IL:1703571,Banner village,Banner,Banner,17057,Fulton County,Incorporated place,40.512612,-89.915609,1
+IL,1703610,place:IL:1703610,Bannockburn village,Bannockburn,Bannockburn,17097,Lake County,Incorporated place,42.192226,-87.869811,1
+IL,1703675,place:IL:1703675,Bardolph village,Bardolph,Bardolph,17109,McDonough County,Incorporated place,40.495917,-90.563071,1
+IL,1703844,place:IL:1703844,Barrington village,Barrington,Barrington,17031,Cook County,Incorporated place,42.151516,-88.128503,1
+IL,1703883,place:IL:1703883,Barrington Hills village,Barrington Hills,Barrington Hills,17031,Cook County,Incorporated place,42.138642,-88.202959,1
+IL,1703948,place:IL:1703948,Barry city,Barry,Barry,17149,Pike County,Incorporated place,39.69831,-91.039918,1
+IL,1703987,place:IL:1703987,Barstow CDP,Barstow,Barstow,17161,Rock Island County,Census-designated place,41.515922,-90.356708,1
+IL,1704000,place:IL:1704000,Bartelso village,Bartelso,Bartelso,17027,Clinton County,Incorporated place,38.538307,-89.461641,1
+IL,1704013,place:IL:1704013,Bartlett village,Bartlett,Bartlett,17043,DuPage County,Incorporated place,41.960637,-88.177747,1
+IL,1704039,place:IL:1704039,Bartonville village,Bartonville,Bartonville,17143,Peoria County,Incorporated place,40.641956,-89.659688,1
+IL,1704052,place:IL:1704052,Basco village,Basco,Basco,17067,Hancock County,Incorporated place,40.327801,-91.199495,1
+IL,1704078,place:IL:1704078,Batavia city,Batavia,Batavia,17089,Kane County,Incorporated place,41.847692,-88.311047,1
+IL,1704117,place:IL:1704117,Batchtown village,Batchtown,Batchtown,17013,Calhoun County,Incorporated place,39.033197,-90.653366,1
+IL,1704156,place:IL:1704156,Bath village,Bath,Bath,17125,Mason County,Incorporated place,40.189972,-90.142448,1
+IL,1704273,place:IL:1704273,Bay View Gardens village,Bay View Gardens,Bay View Gardens,17203,Woodford County,Incorporated place,40.80894,-89.529588,1
+IL,1704247,place:IL:1704247,Baylis village,Baylis,Baylis,17149,Pike County,Incorporated place,39.729454,-90.909422,1
+IL,1704303,place:IL:1704303,Beach Park village,Beach Park,Beach Park,17097,Lake County,Incorporated place,42.442271,-87.875368,1
+IL,1704351,place:IL:1704351,Beardstown city,Beardstown,Beardstown,17017,Cass County,Incorporated place,40.010207,-90.43089,1
+IL,1704403,place:IL:1704403,Beason CDP,Beason,Beason,17107,Logan County,Census-designated place,40.142831,-89.192763,1
+IL,1704507,place:IL:1704507,Beaverville village,Beaverville,Beaverville,17075,Iroquois County,Incorporated place,40.95366,-87.654031,1
+IL,1704533,place:IL:1704533,Beckemeyer village,Beckemeyer,Beckemeyer,17027,Clinton County,Incorporated place,38.605775,-89.433147,1
+IL,1704572,place:IL:1704572,Bedford Park village,Bedford Park,Bedford Park,17031,Cook County,Incorporated place,41.767773,-87.772556,1
+IL,1704585,place:IL:1704585,Beecher village,Beecher,Beecher,17197,Will County,Incorporated place,41.350011,-87.617293,1
+IL,1704598,place:IL:1704598,Beecher City village,Beecher City,Beecher City,17049,Effingham County,Incorporated place,39.186629,-88.787675,1
+IL,1704689,place:IL:1704689,Belgium village,Belgium,Belgium,17183,Vermilion County,Incorporated place,40.06076,-87.632829,1
+IL,1704715,place:IL:1704715,Belknap village,Belknap,Belknap,17087,Johnson County,Incorporated place,37.322592,-88.939685,1
+IL,1704793,place:IL:1704793,Belle Prairie City town,Belle Prairie City,Belle Prairie City,17065,Hamilton County,Incorporated place,38.22349,-88.555741,1
+IL,1704806,place:IL:1704806,Belle Rive village,Belle Rive,Belle Rive,17081,Jefferson County,Incorporated place,38.231725,-88.74049,1
+IL,1704845,place:IL:1704845,Belleville city,Belleville,Belleville,17163,St. Clair County,Incorporated place,38.515689,-89.99103,1
+IL,1704871,place:IL:1704871,Bellevue village,Bellevue,Bellevue,17143,Peoria County,Incorporated place,40.687644,-89.673193,1
+IL,1704897,place:IL:1704897,Bellflower village,Bellflower,Bellflower,17113,McLean County,Incorporated place,40.340552,-88.525638,1
+IL,1704936,place:IL:1704936,Bellmont village,Bellmont,Bellmont,17185,Wabash County,Incorporated place,38.383026,-87.910604,1
+IL,1704975,place:IL:1704975,Bellwood village,Bellwood,Bellwood,17031,Cook County,Incorporated place,41.882901,-87.87617,1
+IL,1705092,place:IL:1705092,Belvidere city,Belvidere,Belvidere,17007,Boone County,Incorporated place,42.265448,-88.887758,1
+IL,1705144,place:IL:1705144,Bement village,Bement,Bement,17147,Piatt County,Incorporated place,39.923001,-88.572437,1
+IL,1705209,place:IL:1705209,Benld city,Benld,Benld,17117,Macoupin County,Incorporated place,39.092998,-89.802332,1
+IL,1705248,place:IL:1705248,Bensenville village,Bensenville,Bensenville,17043,DuPage County,Incorporated place,41.958011,-87.943825,1
+IL,1705261,place:IL:1705261,Benson village,Benson,Benson,17203,Woodford County,Incorporated place,40.850709,-89.121097,1
+IL,1705274,place:IL:1705274,Bentley town,Bentley,Bentley,17067,Hancock County,Incorporated place,40.34367,-91.112288,1
+IL,1705300,place:IL:1705300,Benton city,Benton,Benton,17055,Franklin County,Incorporated place,38.013187,-88.917281,1
+IL,1705404,place:IL:1705404,Berkeley village,Berkeley,Berkeley,17031,Cook County,Incorporated place,41.889116,-87.911471,1
+IL,1705443,place:IL:1705443,Berlin village,Berlin,Berlin,17167,Sangamon County,Incorporated place,39.756879,-89.902439,1
+IL,1705573,place:IL:1705573,Berwyn city,Berwyn,Berwyn,17031,Cook County,Incorporated place,41.843333,-87.790926,1
+IL,1705599,place:IL:1705599,Bethalto village,Bethalto,Bethalto,17119,Madison County,Incorporated place,38.90166,-90.044841,1
+IL,1705612,place:IL:1705612,Bethany village,Bethany,Bethany,17139,Moultrie County,Incorporated place,39.644185,-88.740882,1
+IL,1705729,place:IL:1705729,Beverly CDP,Beverly,Beverly,17001,Adams County,Census-designated place,39.794554,-90.990019,1
+IL,1705859,place:IL:1705859,Big Foot Prairie CDP,Big Foot Prairie,Big Foot Prairie,17111,McHenry County,Census-designated place,42.491518,-88.600739,1
+IL,1705976,place:IL:1705976,Big Rock village,Big Rock,Big Rock,17089,Kane County,Incorporated place,41.766801,-88.526444,1
+IL,1705898,place:IL:1705898,Biggsville village,Biggsville,Biggsville,17071,Henderson County,Incorporated place,40.853628,-90.862211,1
+IL,1706028,place:IL:1706028,Bingham village,Bingham,Bingham,17051,Fayette County,Incorporated place,39.112236,-89.213728,1
+IL,1706171,place:IL:1706171,Bishop Hill village,Bishop Hill,Bishop Hill,17073,Henry County,Incorporated place,41.199808,-90.117519,1
+IL,1706184,place:IL:1706184,Bismarck village,Bismarck,Bismarck,17183,Vermilion County,Incorporated place,40.259434,-87.61126,1
+IL,1706444,place:IL:1706444,Blairsville CDP,Blairsville,Blairsville,17199,Williamson County,Census-designated place,37.810539,-89.123826,1
+IL,1706470,place:IL:1706470,Blandinsville village,Blandinsville,Blandinsville,17109,McDonough County,Incorporated place,40.553969,-90.868332,1
+IL,1706565,place:IL:1706565,Bloomfield CDP,Bloomfield,Bloomfield,17001,Adams County,Census-designated place,40.017198,-91.304947,1
+IL,1706587,place:IL:1706587,Bloomingdale village,Bloomingdale,Bloomingdale,17043,DuPage County,Incorporated place,41.951525,-88.089118,1
+IL,1706613,place:IL:1706613,Bloomington city,Bloomington,Bloomington,17113,McLean County,Incorporated place,40.475777,-88.969912,1
+IL,1706704,place:IL:1706704,Blue Island city,Blue Island,Blue Island,17031,Cook County,Incorporated place,41.65757,-87.681126,1
+IL,1706756,place:IL:1706756,Blue Mound village,Blue Mound,Blue Mound,17115,Macon County,Incorporated place,39.700562,-89.118547,1
+IL,1706899,place:IL:1706899,Bluffs village,Bluffs,Bluffs,17171,Scott County,Incorporated place,39.749254,-90.535253,1
+IL,1706964,place:IL:1706964,Bluford village,Bluford,Bluford,17081,Jefferson County,Incorporated place,38.326069,-88.734797,1
+IL,1707133,place:IL:1707133,Bolingbrook village,Bolingbrook,Bolingbrook,17197,Will County,Incorporated place,41.686147,-88.107006,1
+IL,1707211,place:IL:1707211,Bondville village,Bondville,Bondville,17019,Champaign County,Incorporated place,40.111514,-88.36828,1
+IL,1707224,place:IL:1707224,Bone Gap village,Bone Gap,Bone Gap,17047,Edwards County,Incorporated place,38.444882,-87.997571,1
+IL,1707237,place:IL:1707237,Bonfield village,Bonfield,Bonfield,17091,Kankakee County,Incorporated place,41.145018,-88.054037,1
+IL,1707263,place:IL:1707263,Bonnie village,Bonnie,Bonnie,17081,Jefferson County,Incorporated place,38.203001,-88.906772,1
+IL,1707276,place:IL:1707276,Bonnie Brae CDP,Bonnie Brae,Bonnie Brae,17197,Will County,Census-designated place,41.599932,-88.034475,1
+IL,1707315,place:IL:1707315,Boody CDP,Boody,Boody,17115,Macon County,Census-designated place,39.764377,-89.046671,1
+IL,1707419,place:IL:1707419,Boulder Hill CDP,Boulder Hill,Boulder Hill,17093,Kendall County,Census-designated place,41.710352,-88.333783,1
+IL,1707471,place:IL:1707471,Bourbonnais village,Bourbonnais,Bourbonnais,17091,Kankakee County,Incorporated place,41.182491,-87.878677,1
+IL,1707510,place:IL:1707510,Bowen village,Bowen,Bowen,17067,Hancock County,Incorporated place,40.232054,-91.063282,1
+IL,1707640,place:IL:1707640,Braceville village,Braceville,Braceville,17063,Grundy County,Incorporated place,41.225288,-88.267629,1
+IL,1707692,place:IL:1707692,Bradford village,Bradford,Bradford,17175,Stark County,Incorporated place,41.177181,-89.658213,1
+IL,1707744,place:IL:1707744,Bradley village,Bradley,Bradley,17091,Kankakee County,Incorporated place,41.163827,-87.846542,1
+IL,1707770,place:IL:1707770,Braidwood city,Braidwood,Braidwood,17197,Will County,Incorporated place,41.27018,-88.223421,1
+IL,1707913,place:IL:1707913,Breese city,Breese,Breese,17027,Clinton County,Incorporated place,38.613802,-89.523713,1
+IL,1708186,place:IL:1708186,Bridgeport city,Bridgeport,Bridgeport,17101,Lawrence County,Incorporated place,38.709948,-87.758646,1
+IL,1708225,place:IL:1708225,Bridgeview village,Bridgeview,Bridgeview,17031,Cook County,Incorporated place,41.74028,-87.806682,1
+IL,1708264,place:IL:1708264,Brighton village,Brighton,Brighton,17117,Macoupin County,Incorporated place,39.040863,-90.140041,1
+IL,1708303,place:IL:1708303,Brimfield village,Brimfield,Brimfield,17143,Peoria County,Incorporated place,40.836955,-89.880574,1
+IL,1708420,place:IL:1708420,Broadlands village,Broadlands,Broadlands,17019,Champaign County,Incorporated place,39.908748,-87.997098,1
+IL,1708446,place:IL:1708446,Broadview village,Broadview,Broadview,17031,Cook County,Incorporated place,41.858367,-87.856192,1
+IL,1708472,place:IL:1708472,Broadwell village,Broadwell,Broadwell,17107,Logan County,Incorporated place,40.066881,-89.44283,1
+IL,1708524,place:IL:1708524,Brocton village,Brocton,Brocton,17045,Edgar County,Incorporated place,39.715407,-87.933607,1
+IL,1708576,place:IL:1708576,Brookfield village,Brookfield,Brookfield,17031,Cook County,Incorporated place,41.825059,-87.847546,1
+IL,1708667,place:IL:1708667,Brooklyn village,Brooklyn,Brooklyn,17163,St. Clair County,Incorporated place,38.654247,-90.167873,1
+IL,1708706,place:IL:1708706,Brookport city,Brookport,Brookport,17127,Massac County,Incorporated place,37.125817,-88.625983,1
+IL,1708875,place:IL:1708875,Broughton village,Broughton,Broughton,17065,Hamilton County,Incorporated place,37.933927,-88.462925,1
+IL,1708953,place:IL:1708953,Browning village,Browning,Browning,17169,Schuyler County,Incorporated place,40.12705,-90.373003,1
+IL,1708979,place:IL:1708979,Browns village,Browns,Browns,17047,Edwards County,Incorporated place,38.377532,-87.983159,1
+IL,1708992,place:IL:1708992,Brownstown village,Brownstown,Brownstown,17051,Fayette County,Incorporated place,38.994218,-88.955331,1
+IL,1709148,place:IL:1709148,Brussels village,Brussels,Brussels,17013,Calhoun County,Incorporated place,38.948465,-90.589034,1
+IL,1709161,place:IL:1709161,Bryant village,Bryant,Bryant,17057,Fulton County,Incorporated place,40.465437,-90.094885,1
+IL,1709304,place:IL:1709304,Buckingham village,Buckingham,Buckingham,17091,Kankakee County,Incorporated place,41.047099,-88.174847,1
+IL,1709317,place:IL:1709317,Buckley village,Buckley,Buckley,17075,Iroquois County,Incorporated place,40.597274,-88.037681,1
+IL,1709330,place:IL:1709330,Buckner village,Buckner,Buckner,17055,Franklin County,Incorporated place,37.981015,-89.015659,1
+IL,1709356,place:IL:1709356,Buda village,Buda,Buda,17011,Bureau County,Incorporated place,41.329004,-89.679255,1
+IL,1709434,place:IL:1709434,Buffalo village,Buffalo,Buffalo,17167,Sangamon County,Incorporated place,39.849911,-89.409125,1
+IL,1709447,place:IL:1709447,Buffalo Grove village,Buffalo Grove,Buffalo Grove,17097,Lake County,Incorporated place,42.165981,-87.961826,1
+IL,1709499,place:IL:1709499,Buffalo Prairie CDP,Buffalo Prairie,Buffalo Prairie,17161,Rock Island County,Census-designated place,41.340855,-90.848206,1
+IL,1709531,place:IL:1709531,Bull Valley village,Bull Valley,Bull Valley,17111,McHenry County,Incorporated place,42.323472,-88.360947,1
+IL,1709538,place:IL:1709538,Bulpitt village,Bulpitt,Bulpitt,17021,Christian County,Incorporated place,39.591879,-89.425762,1
+IL,1709551,place:IL:1709551,Buncombe village,Buncombe,Buncombe,17087,Johnson County,Incorporated place,37.471116,-88.97466,1
+IL,1709577,place:IL:1709577,Bunker Hill city,Bunker Hill,Bunker Hill,17117,Macoupin County,Incorporated place,39.041478,-89.95114,1
+IL,1709642,place:IL:1709642,Burbank city,Burbank,Burbank,17031,Cook County,Incorporated place,41.74441,-87.768568,1
+IL,1709681,place:IL:1709681,Bureau Junction village,Bureau Junction,Bureau Junction,17011,Bureau County,Incorporated place,41.292703,-89.364437,1
+IL,1709759,place:IL:1709759,Burlington village,Burlington,Burlington,17089,Kane County,Incorporated place,42.052859,-88.568931,1
+IL,1709798,place:IL:1709798,Burnham village,Burnham,Burnham,17031,Cook County,Incorporated place,41.63948,-87.54496,1
+IL,1709889,place:IL:1709889,Burnt Prairie village,Burnt Prairie,Burnt Prairie,17193,White County,Incorporated place,38.250865,-88.25826,1
+IL,1709980,place:IL:1709980,Burr Ridge village,Burr Ridge,Burr Ridge,17043,DuPage County,Incorporated place,41.747898,-87.920105,1
+IL,1710006,place:IL:1710006,Burton CDP,Burton,Burton,17001,Adams County,Census-designated place,39.907938,-91.249269,1
+IL,1710045,place:IL:1710045,Burtons Bridge CDP,Burtons Bridge,Burtons Bridge,17111,McHenry County,Census-designated place,42.27789,-88.23035,1
+IL,1710084,place:IL:1710084,Bush village,Bush,Bush,17199,Williamson County,Incorporated place,37.841929,-89.129906,1
+IL,1710110,place:IL:1710110,Bushnell city,Bushnell,Bushnell,17109,McDonough County,Incorporated place,40.551619,-90.504684,1
+IL,1710149,place:IL:1710149,Butler village,Butler,Butler,17135,Montgomery County,Incorporated place,39.197536,-89.532233,1
+IL,1710240,place:IL:1710240,Byron city,Byron,Byron,17141,Ogle County,Incorporated place,42.123053,-89.262859,1
+IL,1710292,place:IL:1710292,Cabery village,Cabery,Cabery,17091,Kankakee County,Incorporated place,40.995751,-88.203692,1
+IL,1710305,place:IL:1710305,Cable CDP,Cable,Cable,17131,Mercer County,Census-designated place,41.279696,-90.505781,1
+IL,1710373,place:IL:1710373,Cahokia Heights city,Cahokia Heights,Cahokia Heights,17163,St. Clair County,Incorporated place,38.572498,-90.155537,0
+IL,1710383,place:IL:1710383,Cairo city,Cairo,Cairo,17003,Alexander County,Incorporated place,37.006288,-89.18288,1
+IL,1710422,place:IL:1710422,Caledonia village,Caledonia,Caledonia,17007,Boone County,Incorporated place,42.368623,-88.893925,1
+IL,1710448,place:IL:1710448,Calhoun village,Calhoun,Calhoun,17159,Richland County,Incorporated place,38.651161,-88.044023,1
+IL,1710487,place:IL:1710487,Calumet City city,Calumet City,Calumet City,17031,Cook County,Incorporated place,41.596493,-87.538572,1
+IL,1710513,place:IL:1710513,Calumet Park village,Calumet Park,Calumet Park,17031,Cook County,Incorporated place,41.665735,-87.65765,1
+IL,1710591,place:IL:1710591,Camargo village,Camargo,Camargo,17041,Douglas County,Incorporated place,39.79944,-88.16838,1
+IL,1710630,place:IL:1710630,Cambria village,Cambria,Cambria,17199,Williamson County,Incorporated place,37.779364,-89.119356,1
+IL,1710643,place:IL:1710643,Cambridge village,Cambridge,Cambridge,17073,Henry County,Incorporated place,41.292445,-90.19092,1
+IL,1710695,place:IL:1710695,Camden village,Camden,Camden,17169,Schuyler County,Incorporated place,40.152829,-90.773324,1
+IL,1710747,place:IL:1710747,Cameron CDP,Cameron,Cameron,17187,Warren County,Census-designated place,40.887545,-90.51644,1
+IL,1710877,place:IL:1710877,Camp Point village,Camp Point,Camp Point,17001,Adams County,Incorporated place,40.03641,-91.064134,1
+IL,1710773,place:IL:1710773,Campbell Hill village,Campbell Hill,Campbell Hill,17077,Jackson County,Incorporated place,37.930783,-89.551387,1
+IL,1710786,place:IL:1710786,Campbell's Island CDP,Campbell's Island,Campbell's Island,17161,Rock Island County,Census-designated place,41.54036,-90.430323,1
+IL,1710906,place:IL:1710906,Campton Hills village,Campton Hills,Campton Hills,17089,Kane County,Incorporated place,41.950241,-88.417049,1
+IL,1710916,place:IL:1710916,Campus village,Campus,Campus,17105,Livingston County,Incorporated place,41.024613,-88.307309,1
+IL,1710936,place:IL:1710936,Candlewick Lake CDP,Candlewick Lake,Candlewick Lake,17007,Boone County,Census-designated place,42.351108,-88.870408,1
+IL,1711007,place:IL:1711007,Canton city,Canton,Canton,17057,Fulton County,Incorporated place,40.563616,-90.036611,1
+IL,1711033,place:IL:1711033,Cantrall village,Cantrall,Cantrall,17167,Sangamon County,Incorporated place,39.935265,-89.678762,1
+IL,1711124,place:IL:1711124,Capron village,Capron,Capron,17007,Boone County,Incorporated place,42.398777,-88.738656,1
+IL,1711150,place:IL:1711150,Carbon Cliff village,Carbon Cliff,Carbon Cliff,17161,Rock Island County,Incorporated place,41.498072,-90.391733,1
+IL,1711176,place:IL:1711176,Carbon Hill village,Carbon Hill,Carbon Hill,17063,Grundy County,Incorporated place,41.296921,-88.299892,1
+IL,1711163,place:IL:1711163,Carbondale city,Carbondale,Carbondale,17077,Jackson County,Incorporated place,37.722062,-89.223664,1
+IL,1711202,place:IL:1711202,Carlinville city,Carlinville,Carlinville,17117,Macoupin County,Incorporated place,39.277475,-89.876125,1
+IL,1711215,place:IL:1711215,Carlock village,Carlock,Carlock,17113,McLean County,Incorporated place,40.583193,-89.128561,1
+IL,1711228,place:IL:1711228,Carlyle city,Carlyle,Carlyle,17027,Clinton County,Incorporated place,38.622266,-89.375442,1
+IL,1711267,place:IL:1711267,Carman CDP,Carman,Carman,17071,Henderson County,Census-designated place,40.736216,-91.061674,1
+IL,1711293,place:IL:1711293,Carmi city,Carmi,Carmi,17193,White County,Incorporated place,38.08615,-88.172062,1
+IL,1711332,place:IL:1711332,Carol Stream village,Carol Stream,Carol Stream,17043,DuPage County,Incorporated place,41.920346,-88.133223,1
+IL,1711358,place:IL:1711358,Carpentersville village,Carpentersville,Carpentersville,17089,Kane County,Incorporated place,42.122736,-88.293896,1
+IL,1711397,place:IL:1711397,Carrier Mills village,Carrier Mills,Carrier Mills,17165,Saline County,Incorporated place,37.688601,-88.628976,1
+IL,1711462,place:IL:1711462,Carrollton city,Carrollton,Carrollton,17061,Greene County,Incorporated place,39.294493,-90.406894,1
+IL,1711514,place:IL:1711514,Carterville city,Carterville,Carterville,17199,Williamson County,Incorporated place,37.763045,-89.083285,1
+IL,1711527,place:IL:1711527,Carthage city,Carthage,Carthage,17067,Hancock County,Incorporated place,40.414292,-91.1281,1
+IL,1711592,place:IL:1711592,Cary village,Cary,Cary,17111,McHenry County,Incorporated place,42.212907,-88.250436,1
+IL,1711618,place:IL:1711618,Casey city,Casey,Casey,17023,Clark County,Incorporated place,39.305417,-87.985309,1
+IL,1711644,place:IL:1711644,Caseyville village,Caseyville,Caseyville,17163,St. Clair County,Incorporated place,38.628961,-90.034459,1
+IL,1711774,place:IL:1711774,Catlin village,Catlin,Catlin,17183,Vermilion County,Incorporated place,40.06799,-87.708383,1
+IL,1711826,place:IL:1711826,Cave-In-Rock village,Cave-In-Rock,Cave-In-Rock,17069,Hardin County,Incorporated place,37.471016,-88.165762,1
+IL,1711982,place:IL:1711982,Cedar Point village,Cedar Point,Cedar Point,17099,LaSalle County,Incorporated place,41.26511,-89.126016,1
+IL,1712008,place:IL:1712008,Cedarville village,Cedarville,Cedarville,17177,Stephenson County,Incorporated place,42.375727,-89.636268,1
+IL,1712151,place:IL:1712151,Central City village,Central City,Central City,17121,Marion County,Incorporated place,38.548549,-89.128298,1
+IL,1712164,place:IL:1712164,Centralia city,Centralia,Centralia,17121,Marion County,Incorporated place,38.522066,-89.123533,1
+IL,1712268,place:IL:1712268,Cerro Gordo village,Cerro Gordo,Cerro Gordo,17147,Piatt County,Incorporated place,39.889202,-88.734472,1
+IL,1712294,place:IL:1712294,Chadwick village,Chadwick,Chadwick,17015,Carroll County,Incorporated place,42.014236,-89.888442,1
+IL,1712385,place:IL:1712385,Champaign city,Champaign,Champaign,17019,Champaign County,Incorporated place,40.114099,-88.274619,1
+IL,1712450,place:IL:1712450,Chandlerville village,Chandlerville,Chandlerville,17017,Cass County,Incorporated place,40.047011,-90.151257,1
+IL,1712476,place:IL:1712476,Channahon village,Channahon,Channahon,17063,Grundy County,Incorporated place,41.425266,-88.266579,1
+IL,1712489,place:IL:1712489,Channel Lake CDP,Channel Lake,Channel Lake,17097,Lake County,Census-designated place,42.482745,-88.14713,1
+IL,1712528,place:IL:1712528,Chapin village,Chapin,Chapin,17137,Morgan County,Incorporated place,39.766869,-90.402746,1
+IL,1712567,place:IL:1712567,Charleston city,Charleston,Charleston,17029,Coles County,Incorporated place,39.48483,-88.177609,1
+IL,1712684,place:IL:1712684,Chatham village,Chatham,Chatham,17167,Sangamon County,Incorporated place,39.674535,-89.693303,1
+IL,1712710,place:IL:1712710,Chatsworth town,Chatsworth,Chatsworth,17105,Livingston County,Incorporated place,40.721328,-88.299852,1
+IL,1712801,place:IL:1712801,Chebanse village,Chebanse,Chebanse,17075,Iroquois County,Incorporated place,41.000301,-87.911135,1
+IL,1712879,place:IL:1712879,Chemung CDP,Chemung,Chemung,17111,McHenry County,Census-designated place,42.416201,-88.66416,1
+IL,1712931,place:IL:1712931,Chenoa city,Chenoa,Chenoa,17113,McLean County,Incorporated place,40.737074,-88.72779,1
+IL,1712970,place:IL:1712970,Cherry village,Cherry,Cherry,17011,Bureau County,Incorporated place,41.428141,-89.213239,1
+IL,1713074,place:IL:1713074,Cherry Valley village,Cherry Valley,Cherry Valley,17201,Winnebago County,Incorporated place,42.235178,-88.975113,1
+IL,1713139,place:IL:1713139,Chester city,Chester,Chester,17157,Randolph County,Incorporated place,37.92575,-89.827699,1
+IL,1713165,place:IL:1713165,Chesterfield village,Chesterfield,Chesterfield,17117,Macoupin County,Incorporated place,39.256614,-90.066765,1
+IL,1713230,place:IL:1713230,Chestnut CDP,Chestnut,Chestnut,17107,Logan County,Census-designated place,40.053734,-89.187111,1
+IL,1714000,place:IL:1714000,Chicago city,Chicago,Chicago,17031,Cook County,Incorporated place,41.837045,-87.684939,1
+IL,1714026,place:IL:1714026,Chicago Heights city,Chicago Heights,Chicago Heights,17031,Cook County,Incorporated place,41.510684,-87.634069,1
+IL,1714065,place:IL:1714065,Chicago Ridge village,Chicago Ridge,Chicago Ridge,17031,Cook County,Incorporated place,41.703415,-87.779467,1
+IL,1714117,place:IL:1714117,Chillicothe city,Chillicothe,Chillicothe,17143,Peoria County,Incorporated place,40.915961,-89.50268,1
+IL,1714273,place:IL:1714273,Chrisman city,Chrisman,Chrisman,17045,Edgar County,Incorporated place,39.804357,-87.674873,1
+IL,1714286,place:IL:1714286,Christopher city,Christopher,Christopher,17055,Franklin County,Incorporated place,37.970999,-89.052985,1
+IL,1714351,place:IL:1714351,Cicero town,Cicero,Cicero,17031,Cook County,Incorporated place,41.844537,-87.75929,1
+IL,1714442,place:IL:1714442,Cisco village,Cisco,Cisco,17147,Piatt County,Incorporated place,40.011615,-88.725419,1
+IL,1714455,place:IL:1714455,Cisne village,Cisne,Cisne,17191,Wayne County,Incorporated place,38.51391,-88.43714,1
+IL,1714468,place:IL:1714468,Cissna Park village,Cissna Park,Cissna Park,17075,Iroquois County,Incorporated place,40.566981,-87.892197,1
+IL,1714533,place:IL:1714533,Claremont village,Claremont,Claremont,17159,Richland County,Incorporated place,38.717594,-87.972866,1
+IL,1714572,place:IL:1714572,Clarendon Hills village,Clarendon Hills,Clarendon Hills,17043,DuPage County,Incorporated place,41.798448,-87.957239,1
+IL,1714715,place:IL:1714715,Clay City village,Clay City,Clay City,17025,Clay County,Incorporated place,38.685793,-88.348621,1
+IL,1714767,place:IL:1714767,Clayton village,Clayton,Clayton,17001,Adams County,Incorporated place,40.030564,-90.957999,1
+IL,1714923,place:IL:1714923,Cleveland village,Cleveland,Cleveland,17073,Henry County,Incorporated place,41.503203,-90.317006,1
+IL,1714936,place:IL:1714936,Clifton village,Clifton,Clifton,17075,Iroquois County,Incorporated place,40.934726,-87.93433,1
+IL,1715001,place:IL:1715001,Clinton city,Clinton,Clinton,17039,De Witt County,Incorporated place,40.147001,-88.962999,1
+IL,1715170,place:IL:1715170,Coal City village,Coal City,Coal City,17063,Grundy County,Incorporated place,41.280406,-88.277259,1
+IL,1715235,place:IL:1715235,Coal Valley village,Coal Valley,Coal Valley,17161,Rock Island County,Incorporated place,41.438418,-90.439123,1
+IL,1715209,place:IL:1715209,Coalton village,Coalton,Coalton,17135,Montgomery County,Incorporated place,39.284146,-89.302918,1
+IL,1715261,place:IL:1715261,Coatsburg village,Coatsburg,Coatsburg,17001,Adams County,Incorporated place,40.032456,-91.160371,1
+IL,1715300,place:IL:1715300,Cobden village,Cobden,Cobden,17181,Union County,Incorporated place,37.532978,-89.254331,1
+IL,1715352,place:IL:1715352,Coffeen city,Coffeen,Coffeen,17135,Montgomery County,Incorporated place,39.088243,-89.389771,1
+IL,1715378,place:IL:1715378,Colchester city,Colchester,Colchester,17109,McDonough County,Incorporated place,40.42561,-90.792174,1
+IL,1715469,place:IL:1715469,Coleta village,Coleta,Coleta,17195,Whiteside County,Incorporated place,41.902036,-89.799812,1
+IL,1715495,place:IL:1715495,Colfax village,Colfax,Colfax,17113,McLean County,Incorporated place,40.566598,-88.616051,1
+IL,1715599,place:IL:1715599,Collinsville city,Collinsville,Collinsville,17119,Madison County,Incorporated place,38.678504,-90.006428,1
+IL,1715664,place:IL:1715664,Colona city,Colona,Colona,17073,Henry County,Incorporated place,41.473376,-90.332416,1
+IL,1715807,place:IL:1715807,Colp village,Colp,Colp,17199,Williamson County,Incorporated place,37.80735,-89.078531,1
+IL,1715833,place:IL:1715833,Columbia city,Columbia,Columbia,17133,Monroe County,Incorporated place,38.458056,-90.216,1
+IL,1715846,place:IL:1715846,Columbus village,Columbus,Columbus,17001,Adams County,Incorporated place,39.986472,-91.144971,1
+IL,1715950,place:IL:1715950,Como CDP,Como,Como,17195,Whiteside County,Census-designated place,41.766462,-89.765344,1
+IL,1715989,place:IL:1715989,Compton village,Compton,Compton,17103,Lee County,Incorporated place,41.694082,-89.086346,1
+IL,1716054,place:IL:1716054,Concord village,Concord,Concord,17137,Morgan County,Incorporated place,39.815604,-90.370394,1
+IL,1716119,place:IL:1716119,Congerville village,Congerville,Congerville,17203,Woodford County,Incorporated place,40.616652,-89.204822,1
+IL,1716210,place:IL:1716210,Cooksville village,Cooksville,Cooksville,17113,McLean County,Incorporated place,40.542662,-88.714708,1
+IL,1716301,place:IL:1716301,Coral CDP,Coral,Coral,17111,McHenry County,Census-designated place,42.217995,-88.566203,1
+IL,1716366,place:IL:1716366,Cordova village,Cordova,Cordova,17161,Rock Island County,Incorporated place,41.677028,-90.320713,1
+IL,1716405,place:IL:1716405,Cornell village,Cornell,Cornell,17105,Livingston County,Incorporated place,40.992022,-88.729881,1
+IL,1716431,place:IL:1716431,Cornland CDP,Cornland,Cornland,17107,Logan County,Census-designated place,39.937628,-89.401578,1
+IL,1716470,place:IL:1716470,Cortland town,Cortland,Cortland,17037,DeKalb County,Incorporated place,41.937239,-88.689303,1
+IL,1716613,place:IL:1716613,Coulterville village,Coulterville,Coulterville,17157,Randolph County,Incorporated place,38.185079,-89.604316,1
+IL,1716691,place:IL:1716691,Country Club Hills city,Country Club Hills,Country Club Hills,17031,Cook County,Incorporated place,41.563453,-87.725409,1
+IL,1716873,place:IL:1716873,Countryside city,Countryside,Countryside,17031,Cook County,Incorporated place,41.774206,-87.875224,1
+IL,1717055,place:IL:1717055,Cowden village,Cowden,Cowden,17173,Shelby County,Incorporated place,39.249224,-88.859351,1
+IL,1717077,place:IL:1717077,Coyne Center CDP,Coyne Center,Coyne Center,17161,Rock Island County,Census-designated place,41.400637,-90.562666,1
+IL,1717094,place:IL:1717094,Crab Orchard CDP,Crab Orchard,Crab Orchard,17199,Williamson County,Census-designated place,37.723611,-88.810281,1
+IL,1717185,place:IL:1717185,Crainville village,Crainville,Crainville,17199,Williamson County,Incorporated place,37.753795,-89.059121,1
+IL,1717289,place:IL:1717289,Creal Springs city,Creal Springs,Creal Springs,17199,Williamson County,Incorporated place,37.619847,-88.837446,1
+IL,1717406,place:IL:1717406,Crescent City village,Crescent City,Crescent City,17075,Iroquois County,Incorporated place,40.771665,-87.856578,1
+IL,1717458,place:IL:1717458,Crest Hill city,Crest Hill,Crest Hill,17197,Will County,Incorporated place,41.576107,-88.116351,1
+IL,1717471,place:IL:1717471,Creston village,Creston,Creston,17141,Ogle County,Incorporated place,41.93356,-88.974289,1
+IL,1717497,place:IL:1717497,Crestwood village,Crestwood,Crestwood,17031,Cook County,Incorporated place,41.645598,-87.740078,1
+IL,1717523,place:IL:1717523,Crete village,Crete,Crete,17197,Will County,Incorporated place,41.439406,-87.623621,1
+IL,1717549,place:IL:1717549,Creve Coeur village,Creve Coeur,Creve Coeur,17179,Tazewell County,Incorporated place,40.643958,-89.599085,1
+IL,1717783,place:IL:1717783,Crossville village,Crossville,Crossville,17193,White County,Incorporated place,38.162569,-88.064355,1
+IL,1717887,place:IL:1717887,Crystal Lake city,Crystal Lake,Crystal Lake,17111,McHenry County,Incorporated place,42.233209,-88.33436,1
+IL,1717939,place:IL:1717939,Crystal Lawns CDP,Crystal Lawns,Crystal Lawns,17197,Will County,Census-designated place,41.568536,-88.163946,1
+IL,1717991,place:IL:1717991,Cuba city,Cuba,Cuba,17057,Fulton County,Incorporated place,40.493601,-90.193353,1
+IL,1718030,place:IL:1718030,Cullom village,Cullom,Cullom,17105,Livingston County,Incorporated place,40.878445,-88.269766,1
+IL,1718147,place:IL:1718147,Curran village,Curran,Curran,17167,Sangamon County,Incorporated place,39.741962,-89.778415,1
+IL,1718212,place:IL:1718212,Custer Park CDP,Custer Park,Custer Park,17197,Will County,Census-designated place,41.24325,-88.129689,1
+IL,1718225,place:IL:1718225,Cutler village,Cutler,Cutler,17145,Perry County,Incorporated place,38.032549,-89.567572,1
+IL,1718251,place:IL:1718251,Cypress village,Cypress,Cypress,17087,Johnson County,Incorporated place,37.365722,-89.018887,1
+IL,1718303,place:IL:1718303,Dahlgren village,Dahlgren,Dahlgren,17065,Hamilton County,Incorporated place,38.198052,-88.684687,1
+IL,1718342,place:IL:1718342,Dakota village,Dakota,Dakota,17177,Stephenson County,Incorporated place,42.387909,-89.526559,1
+IL,1718420,place:IL:1718420,Dallas City city,Dallas City,Dallas City,17067,Hancock County,Incorporated place,40.635006,-91.163541,1
+IL,1718446,place:IL:1718446,Dalton City village,Dalton City,Dalton City,17139,Moultrie County,Incorporated place,39.717018,-88.807043,1
+IL,1718459,place:IL:1718459,Dalzell village,Dalzell,Dalzell,17011,Bureau County,Incorporated place,41.356487,-89.173366,1
+IL,1718472,place:IL:1718472,Damiansville village,Damiansville,Damiansville,17027,Clinton County,Incorporated place,38.508778,-89.615019,1
+IL,1718485,place:IL:1718485,Dana village,Dana,Dana,17099,LaSalle County,Incorporated place,40.956508,-88.949973,1
+IL,1718498,place:IL:1718498,Danforth village,Danforth,Danforth,17075,Iroquois County,Incorporated place,40.821975,-87.977847,1
+IL,1718537,place:IL:1718537,Danvers village,Danvers,Danvers,17113,McLean County,Incorporated place,40.529985,-89.175073,1
+IL,1718563,place:IL:1718563,Danville city,Danville,Danville,17183,Vermilion County,Incorporated place,40.142628,-87.610707,1
+IL,1718628,place:IL:1718628,Darien city,Darien,Darien,17043,DuPage County,Incorporated place,41.745663,-87.981494,1
+IL,1718641,place:IL:1718641,Darmstadt CDP,Darmstadt,Darmstadt,17163,St. Clair County,Census-designated place,38.318739,-89.729237,1
+IL,1718706,place:IL:1718706,Davis village,Davis,Davis,17177,Stephenson County,Incorporated place,42.421561,-89.414911,1
+IL,1718719,place:IL:1718719,Davis Junction village,Davis Junction,Davis Junction,17141,Ogle County,Incorporated place,42.114561,-89.090288,1
+IL,1718745,place:IL:1718745,Dawson village,Dawson,Dawson,17167,Sangamon County,Incorporated place,39.852952,-89.461948,1
+IL,1718771,place:IL:1718771,Dayton CDP,Dayton,Dayton,17099,LaSalle County,Census-designated place,41.391523,-88.799197,1
+IL,1719200,place:IL:1719200,De Land village,De Land,De Land,17147,Piatt County,Incorporated place,40.121815,-88.64347,1
+IL,1719499,place:IL:1719499,De Pue village,De Pue,De Pue,17011,Bureau County,Incorporated place,41.329413,-89.303824,1
+IL,1719616,place:IL:1719616,De Soto village,De Soto,De Soto,17077,Jackson County,Incorporated place,37.815788,-89.226984,1
+IL,1719798,place:IL:1719798,De Witt village,De Witt,De Witt,17039,De Witt County,Incorporated place,40.184638,-88.785263,1
+IL,1718823,place:IL:1718823,Decatur city,Decatur,Decatur,17115,Macon County,Incorporated place,39.855983,-88.933746,1
+IL,1718940,place:IL:1718940,Deer Creek village,Deer Creek,Deer Creek,17179,Tazewell County,Incorporated place,40.629498,-89.33172,1
+IL,1719031,place:IL:1719031,Deer Grove village,Deer Grove,Deer Grove,17195,Whiteside County,Incorporated place,41.60965,-89.686582,1
+IL,1719083,place:IL:1719083,Deer Park village,Deer Park,Deer Park,17097,Lake County,Incorporated place,42.166284,-88.08618,1
+IL,1718992,place:IL:1718992,Deerfield village,Deerfield,Deerfield,17097,Lake County,Incorporated place,42.166069,-87.852467,1
+IL,1719161,place:IL:1719161,DeKalb city,DeKalb,DeKalb,17037,DeKalb County,Incorporated place,41.928186,-88.747585,1
+IL,1719226,place:IL:1719226,Delavan city,Delavan,Delavan,17179,Tazewell County,Incorporated place,40.370475,-89.544624,1
+IL,1719642,place:IL:1719642,Des Plaines city,Des Plaines,Des Plaines,17031,Cook County,Incorporated place,42.034001,-87.901069,1
+IL,1719681,place:IL:1719681,Detroit village,Detroit,Detroit,17149,Pike County,Incorporated place,39.620161,-90.675914,1
+IL,1719746,place:IL:1719746,Dewey CDP,Dewey,Dewey,17019,Champaign County,Census-designated place,40.319252,-88.283378,1
+IL,1719837,place:IL:1719837,Diamond village,Diamond,Diamond,17063,Grundy County,Incorporated place,41.285224,-88.250701,1
+IL,1719915,place:IL:1719915,Dieterich village,Dieterich,Dieterich,17049,Effingham County,Incorporated place,39.060311,-88.3814,1
+IL,1720045,place:IL:1720045,Divernon village,Divernon,Divernon,17167,Sangamon County,Incorporated place,39.570431,-89.653638,1
+IL,1720123,place:IL:1720123,Dix village,Dix,Dix,17081,Jefferson County,Incorporated place,38.44448,-88.945965,1
+IL,1720149,place:IL:1720149,Dixmoor village,Dixmoor,Dixmoor,17031,Cook County,Incorporated place,41.63295,-87.667233,1
+IL,1720162,place:IL:1720162,Dixon city,Dixon,Dixon,17103,Lee County,Incorporated place,41.843288,-89.477547,1
+IL,1720292,place:IL:1720292,Dolton village,Dolton,Dolton,17031,Cook County,Incorporated place,41.630275,-87.596834,1
+IL,1720305,place:IL:1720305,Dongola village,Dongola,Dongola,17181,Union County,Incorporated place,37.357109,-89.164989,1
+IL,1720318,place:IL:1720318,Donnellson village,Donnellson,Donnellson,17135,Montgomery County,Incorporated place,39.030545,-89.475639,1
+IL,1720331,place:IL:1720331,Donovan village,Donovan,Donovan,17075,Iroquois County,Incorporated place,40.884883,-87.613852,1
+IL,1720370,place:IL:1720370,Dorchester village,Dorchester,Dorchester,17117,Macoupin County,Incorporated place,39.085883,-89.887738,1
+IL,1720526,place:IL:1720526,Dover village,Dover,Dover,17011,Bureau County,Incorporated place,41.434226,-89.395762,1
+IL,1720565,place:IL:1720565,Dowell village,Dowell,Dowell,17077,Jackson County,Incorporated place,37.939573,-89.239529,1
+IL,1720591,place:IL:1720591,Downers Grove village,Downers Grove,Downers Grove,17043,DuPage County,Incorporated place,41.79503,-88.021055,1
+IL,1720643,place:IL:1720643,Downs village,Downs,Downs,17113,McLean County,Incorporated place,40.398775,-88.889199,1
+IL,1720890,place:IL:1720890,Du Bois village,Du Bois,Du Bois,17189,Washington County,Incorporated place,38.22139,-89.212674,1
+IL,1721267,place:IL:1721267,Du Quoin city,Du Quoin,Du Quoin,17145,Perry County,Incorporated place,38.001719,-89.23284,1
+IL,1721020,place:IL:1721020,Dundas CDP,Dundas,Dundas,17159,Richland County,Census-designated place,38.83459,-88.085491,1
+IL,1721098,place:IL:1721098,Dunfermline village,Dunfermline,Dunfermline,17057,Fulton County,Incorporated place,40.491709,-90.032464,1
+IL,1721176,place:IL:1721176,Dunlap village,Dunlap,Dunlap,17143,Peoria County,Incorporated place,40.845213,-89.675922,1
+IL,1721254,place:IL:1721254,Dupo village,Dupo,Dupo,17163,St. Clair County,Incorporated place,38.516114,-90.217614,1
+IL,1721280,place:IL:1721280,Durand village,Durand,Durand,17201,Winnebago County,Incorporated place,42.433801,-89.326782,1
+IL,1721358,place:IL:1721358,Dwight village,Dwight,Dwight,17105,Livingston County,Incorporated place,41.099977,-88.421963,1
+IL,1721410,place:IL:1721410,Eagarville village,Eagarville,Eagarville,17117,Macoupin County,Incorporated place,39.108699,-89.779025,1
+IL,1721475,place:IL:1721475,Eagle Lake CDP,Eagle Lake,Eagle Lake,17197,Will County,Census-designated place,41.370257,-87.5552,1
+IL,1721540,place:IL:1721540,Earlville city,Earlville,Earlville,17099,LaSalle County,Incorporated place,41.588068,-88.922954,1
+IL,1721553,place:IL:1721553,East Alton village,East Alton,East Alton,17119,Madison County,Incorporated place,38.884546,-90.108679,1
+IL,1721579,place:IL:1721579,East Brooklyn village,East Brooklyn,East Brooklyn,17063,Grundy County,Incorporated place,41.172687,-88.265426,1
+IL,1721605,place:IL:1721605,East Cape Girardeau village,East Cape Girardeau,East Cape Girardeau,17003,Alexander County,Incorporated place,37.294005,-89.480188,1
+IL,1721618,place:IL:1721618,East Carondelet village,East Carondelet,East Carondelet,17163,St. Clair County,Incorporated place,38.537126,-90.239997,1
+IL,1721683,place:IL:1721683,East Dubuque city,East Dubuque,East Dubuque,17085,Jo Daviess County,Incorporated place,42.488342,-90.624237,1
+IL,1721696,place:IL:1721696,East Dundee village,East Dundee,East Dundee,17089,Kane County,Incorporated place,42.097687,-88.247521,1
+IL,1721826,place:IL:1721826,East Galesburg village,East Galesburg,East Galesburg,17095,Knox County,Incorporated place,40.942833,-90.31096,1
+IL,1721852,place:IL:1721852,East Gillespie village,East Gillespie,East Gillespie,17117,Macoupin County,Incorporated place,39.137819,-89.812685,1
+IL,1721904,place:IL:1721904,East Hazel Crest village,East Hazel Crest,East Hazel Crest,17031,Cook County,Incorporated place,41.575799,-87.650273,1
+IL,1722021,place:IL:1722021,East Lynn CDP,East Lynn,East Lynn,17183,Vermilion County,Census-designated place,40.466238,-87.800673,1
+IL,1722073,place:IL:1722073,East Moline city,East Moline,East Moline,17161,Rock Island County,Incorporated place,41.51987,-90.387943,1
+IL,1722164,place:IL:1722164,East Peoria city,East Peoria,East Peoria,17179,Tazewell County,Incorporated place,40.672964,-89.543462,1
+IL,1722255,place:IL:1722255,East St. Louis city,East St. Louis,East St. Louis,17163,St. Clair County,Incorporated place,38.616361,-90.130528,1
+IL,1722151,place:IL:1722151,Easton village,Easton,Easton,17125,Mason County,Incorporated place,40.232079,-89.841584,1
+IL,1722398,place:IL:1722398,Eddyville village,Eddyville,Eddyville,17151,Pope County,Incorporated place,37.500174,-88.585507,1
+IL,1722567,place:IL:1722567,Edgewood village,Edgewood,Edgewood,17049,Effingham County,Incorporated place,38.921865,-88.664076,1
+IL,1722619,place:IL:1722619,Edgington CDP,Edgington,Edgington,17161,Rock Island County,Census-designated place,41.386886,-90.76368,1
+IL,1722645,place:IL:1722645,Edinburg village,Edinburg,Edinburg,17021,Christian County,Incorporated place,39.65789,-89.390121,1
+IL,1722697,place:IL:1722697,Edwardsville city,Edwardsville,Edwardsville,17119,Madison County,Incorporated place,38.790835,-89.988605,1
+IL,1722736,place:IL:1722736,Effingham city,Effingham,Effingham,17049,Effingham County,Incorporated place,39.120662,-88.550859,1
+IL,1722957,place:IL:1722957,El Dara village,El Dara,El Dara,17149,Pike County,Incorporated place,39.62275,-90.991729,1
+IL,1723737,place:IL:1723737,El Paso city,El Paso,El Paso,17203,Woodford County,Incorporated place,40.740492,-89.01825,1
+IL,1722931,place:IL:1722931,Elburn village,Elburn,Elburn,17089,Kane County,Incorporated place,41.885994,-88.460921,1
+IL,1723009,place:IL:1723009,Eldorado city,Eldorado,Eldorado,17165,Saline County,Incorporated place,37.811726,-88.441578,1
+IL,1723022,place:IL:1723022,Eldred village,Eldred,Eldred,17061,Greene County,Incorporated place,39.286151,-90.553975,1
+IL,1723074,place:IL:1723074,Elgin city,Elgin,Elgin,17089,Kane County,Incorporated place,42.038963,-88.325671,1
+IL,1723139,place:IL:1723139,Eliza CDP,Eliza,Eliza,17131,Mercer County,Census-designated place,41.294769,-90.972545,1
+IL,1723165,place:IL:1723165,Elizabeth village,Elizabeth,Elizabeth,17085,Jo Daviess County,Incorporated place,42.316331,-90.222077,1
+IL,1723191,place:IL:1723191,Elizabethtown village,Elizabethtown,Elizabethtown,17069,Hardin County,Incorporated place,37.449937,-88.303521,1
+IL,1723256,place:IL:1723256,Elk Grove Village village,Elk Grove Village,Elk Grove Village,17031,Cook County,Incorporated place,42.005018,-87.992045,1
+IL,1723269,place:IL:1723269,Elkhart village,Elkhart,Elkhart,17107,Logan County,Incorporated place,40.010085,-89.4714,1
+IL,1723373,place:IL:1723373,Elkville village,Elkville,Elkville,17077,Jackson County,Incorporated place,37.909382,-89.237123,1
+IL,1723425,place:IL:1723425,Elliott village,Elliott,Elliott,17053,Ford County,Incorporated place,40.466198,-88.276942,1
+IL,1723503,place:IL:1723503,Ellis Grove village,Ellis Grove,Ellis Grove,17157,Randolph County,Incorporated place,38.010185,-89.91261,1
+IL,1723529,place:IL:1723529,Ellisville village,Ellisville,Ellisville,17057,Fulton County,Incorporated place,40.627308,-90.306042,1
+IL,1723555,place:IL:1723555,Ellsworth village,Ellsworth,Ellsworth,17113,McLean County,Incorporated place,40.449532,-88.71614,1
+IL,1723620,place:IL:1723620,Elmhurst city,Elmhurst,Elmhurst,17043,DuPage County,Incorporated place,41.897014,-87.943657,1
+IL,1723698,place:IL:1723698,Elmwood city,Elmwood,Elmwood,17143,Peoria County,Incorporated place,40.780378,-89.966141,1
+IL,1723724,place:IL:1723724,Elmwood Park village,Elmwood Park,Elmwood Park,17031,Cook County,Incorporated place,41.922458,-87.816321,1
+IL,1723776,place:IL:1723776,Elsah village,Elsah,Elsah,17083,Jersey County,Incorporated place,38.954122,-90.355257,1
+IL,1723841,place:IL:1723841,Elvaston village,Elvaston,Elvaston,17067,Hancock County,Incorporated place,40.395595,-91.248792,1
+IL,1723919,place:IL:1723919,Elwin CDP,Elwin,Elwin,17115,Macon County,Census-designated place,39.776207,-88.9776,1
+IL,1723945,place:IL:1723945,Elwood village,Elwood,Elwood,17197,Will County,Incorporated place,41.418139,-88.11717,1
+IL,1723971,place:IL:1723971,Emden village,Emden,Emden,17107,Logan County,Incorporated place,40.298249,-89.485125,1
+IL,1724062,place:IL:1724062,Emington village,Emington,Emington,17105,Livingston County,Incorporated place,40.969416,-88.35777,1
+IL,1724166,place:IL:1724166,Energy village,Energy,Energy,17199,Williamson County,Incorporated place,37.770658,-89.023869,1
+IL,1724179,place:IL:1724179,Enfield village,Enfield,Enfield,17193,White County,Incorporated place,38.100875,-88.338107,1
+IL,1724348,place:IL:1724348,Equality village,Equality,Equality,17059,Gallatin County,Incorporated place,37.736911,-88.342211,1
+IL,1724374,place:IL:1724374,Erie village,Erie,Erie,17195,Whiteside County,Incorporated place,41.658586,-90.081304,1
+IL,1724452,place:IL:1724452,Essex village,Essex,Essex,17091,Kankakee County,Incorporated place,41.183053,-88.192367,1
+IL,1724543,place:IL:1724543,Eureka city,Eureka,Eureka,17203,Woodford County,Incorporated place,40.714045,-89.277016,1
+IL,1724582,place:IL:1724582,Evanston city,Evanston,Evanston,17031,Cook County,Incorporated place,42.046391,-87.694352,1
+IL,1724608,place:IL:1724608,Evansville village,Evansville,Evansville,17157,Randolph County,Incorporated place,38.089045,-89.932543,1
+IL,1724634,place:IL:1724634,Evergreen Park village,Evergreen Park,Evergreen Park,17031,Cook County,Incorporated place,41.721275,-87.701334,1
+IL,1724673,place:IL:1724673,Ewing village,Ewing,Ewing,17055,Franklin County,Incorporated place,38.089357,-88.85219,1
+IL,1724699,place:IL:1724699,Exeter village,Exeter,Exeter,17171,Scott County,Incorporated place,39.719069,-90.496033,1
+IL,1724764,place:IL:1724764,Fairbury city,Fairbury,Fairbury,17105,Livingston County,Incorporated place,40.746183,-88.515556,1
+IL,1724816,place:IL:1724816,Fairfield city,Fairfield,Fairfield,17191,Wayne County,Incorporated place,38.380632,-88.372524,1
+IL,1724920,place:IL:1724920,Fairmont CDP,Fairmont,Fairmont,17197,Will County,Census-designated place,41.561357,-88.058722,1
+IL,1724933,place:IL:1724933,Fairmont City village,Fairmont City,Fairmont City,17163,St. Clair County,Incorporated place,38.646049,-90.09994,1
+IL,1724985,place:IL:1724985,Fairmount village,Fairmount,Fairmount,17183,Vermilion County,Incorporated place,40.04558,-87.829326,1
+IL,1725063,place:IL:1725063,Fairview village,Fairview,Fairview,17057,Fulton County,Incorporated place,40.654735,-90.183165,1
+IL,1725141,place:IL:1725141,Fairview Heights city,Fairview Heights,Fairview Heights,17163,St. Clair County,Incorporated place,38.595438,-90.005063,1
+IL,1725245,place:IL:1725245,Fall Creek CDP,Fall Creek,Fall Creek,17001,Adams County,Census-designated place,39.781384,-91.30318,1
+IL,1725375,place:IL:1725375,Farina village,Farina,Farina,17051,Fayette County,Incorporated place,38.828817,-88.781322,1
+IL,1725414,place:IL:1725414,Farmer City city,Farmer City,Farmer City,17039,De Witt County,Incorporated place,40.248464,-88.641655,1
+IL,1725440,place:IL:1725440,Farmersville village,Farmersville,Farmersville,17135,Montgomery County,Incorporated place,39.440677,-89.65254,1
+IL,1725531,place:IL:1725531,Farmington city,Farmington,Farmington,17057,Fulton County,Incorporated place,40.697011,-90.002312,1
+IL,1725713,place:IL:1725713,Fayetteville village,Fayetteville,Fayetteville,17163,St. Clair County,Incorporated place,38.377813,-89.797089,1
+IL,1725895,place:IL:1725895,Ferris village,Ferris,Ferris,17067,Hancock County,Incorporated place,40.469546,-91.168338,1
+IL,1725960,place:IL:1725960,Fidelity village,Fidelity,Fidelity,17083,Jersey County,Incorporated place,39.154609,-90.164457,1
+IL,1726012,place:IL:1726012,Fieldon village,Fieldon,Fieldon,17083,Jersey County,Incorporated place,39.108674,-90.499564,1
+IL,1726077,place:IL:1726077,Fillmore village,Fillmore,Fillmore,17135,Montgomery County,Incorporated place,39.114651,-89.278932,1
+IL,1726116,place:IL:1726116,Findlay village,Findlay,Findlay,17173,Shelby County,Incorporated place,39.522341,-88.754594,1
+IL,1726194,place:IL:1726194,Fisher village,Fisher,Fisher,17019,Champaign County,Incorporated place,40.315817,-88.350213,1
+IL,1726233,place:IL:1726233,Fithian village,Fithian,Fithian,17183,Vermilion County,Incorporated place,40.114361,-87.874975,1
+IL,1726311,place:IL:1726311,Flanagan village,Flanagan,Flanagan,17105,Livingston County,Incorporated place,40.877373,-88.858798,1
+IL,1726350,place:IL:1726350,Flat Rock village,Flat Rock,Flat Rock,17033,Crawford County,Incorporated place,38.903681,-87.673398,1
+IL,1726454,place:IL:1726454,Flora city,Flora,Flora,17025,Clay County,Incorporated place,38.665617,-88.473844,1
+IL,1726467,place:IL:1726467,Floraville CDP,Floraville,Floraville,17163,St. Clair County,Census-designated place,38.375983,-90.056017,1
+IL,1726480,place:IL:1726480,Florence village,Florence,Florence,17149,Pike County,Incorporated place,39.627826,-90.612582,1
+IL,1726571,place:IL:1726571,Flossmoor village,Flossmoor,Flossmoor,17031,Cook County,Incorporated place,41.539107,-87.685704,1
+IL,1726662,place:IL:1726662,Foosland village,Foosland,Foosland,17019,Champaign County,Incorporated place,40.361081,-88.429098,1
+IL,1726710,place:IL:1726710,Ford Heights village,Ford Heights,Ford Heights,17031,Cook County,Incorporated place,41.511303,-87.581226,1
+IL,1726753,place:IL:1726753,Forest City village,Forest City,Forest City,17125,Mason County,Incorporated place,40.372157,-89.832498,1
+IL,1726896,place:IL:1726896,Forest Lake CDP,Forest Lake,Forest Lake,17097,Lake County,Census-designated place,42.211835,-88.052499,1
+IL,1726935,place:IL:1726935,Forest Park village,Forest Park,Forest Park,17031,Cook County,Incorporated place,41.868365,-87.815664,1
+IL,1726987,place:IL:1726987,Forest View village,Forest View,Forest View,17031,Cook County,Incorporated place,41.809097,-87.773079,1
+IL,1727026,place:IL:1727026,Forrest village,Forrest,Forrest,17105,Livingston County,Incorporated place,40.751094,-88.409652,1
+IL,1727065,place:IL:1727065,Forreston village,Forreston,Forreston,17141,Ogle County,Incorporated place,42.12725,-89.578375,1
+IL,1727091,place:IL:1727091,Forsyth village,Forsyth,Forsyth,17115,Macon County,Incorporated place,39.926051,-88.964082,1
+IL,1727377,place:IL:1727377,Fowler CDP,Fowler,Fowler,17001,Adams County,Census-designated place,40.008807,-91.257804,1
+IL,1727442,place:IL:1727442,Fox Lake village,Fox Lake,Fox Lake,17097,Lake County,Incorporated place,42.428209,-88.183932,1
+IL,1727455,place:IL:1727455,Fox Lake Hills CDP,Fox Lake Hills,Fox Lake Hills,17097,Lake County,Census-designated place,42.411301,-88.128646,1
+IL,1727533,place:IL:1727533,Fox River Grove village,Fox River Grove,Fox River Grove,17111,McHenry County,Incorporated place,42.195491,-88.214806,1
+IL,1727624,place:IL:1727624,Frankfort village,Frankfort,Frankfort,17197,Will County,Incorporated place,41.509037,-87.870966,1
+IL,1727644,place:IL:1727644,Frankfort Square CDP,Frankfort Square,Frankfort Square,17197,Will County,Census-designated place,41.52194,-87.803136,1
+IL,1727663,place:IL:1727663,Franklin village,Franklin,Franklin,17137,Morgan County,Incorporated place,39.620508,-90.047694,1
+IL,1727689,place:IL:1727689,Franklin Grove village,Franklin Grove,Franklin Grove,17103,Lee County,Incorporated place,41.841327,-89.299966,1
+IL,1727702,place:IL:1727702,Franklin Park village,Franklin Park,Franklin Park,17031,Cook County,Incorporated place,41.935983,-87.879197,1
+IL,1727728,place:IL:1727728,Franklinville CDP,Franklinville,Franklinville,17111,McHenry County,Census-designated place,42.275449,-88.515538,1
+IL,1727806,place:IL:1727806,Freeburg village,Freeburg,Freeburg,17163,St. Clair County,Incorporated place,38.439038,-89.91557,1
+IL,1727858,place:IL:1727858,Freeman Spur village,Freeman Spur,Freeman Spur,17199,Williamson County,Incorporated place,37.859966,-88.999861,1
+IL,1727884,place:IL:1727884,Freeport city,Freeport,Freeport,17177,Stephenson County,Incorporated place,42.289011,-89.634265,1
+IL,1728144,place:IL:1728144,Fulton city,Fulton,Fulton,17195,Whiteside County,Incorporated place,41.865211,-90.158715,1
+IL,1728170,place:IL:1728170,Fults village,Fults,Fults,17133,Monroe County,Incorporated place,38.164371,-90.212824,1
+IL,1728248,place:IL:1728248,Gages Lake CDP,Gages Lake,Gages Lake,17097,Lake County,Census-designated place,42.351645,-87.982437,1
+IL,1728261,place:IL:1728261,Galatia village,Galatia,Galatia,17165,Saline County,Incorporated place,37.841977,-88.616482,1
+IL,1728300,place:IL:1728300,Galena city,Galena,Galena,17085,Jo Daviess County,Incorporated place,42.42206,-90.427804,1
+IL,1728326,place:IL:1728326,Galesburg city,Galesburg,Galesburg,17095,Knox County,Incorporated place,40.950217,-90.376564,1
+IL,1728404,place:IL:1728404,Galt CDP,Galt,Galt,17195,Whiteside County,Census-designated place,41.78939,-89.754271,1
+IL,1728430,place:IL:1728430,Galva city,Galva,Galva,17073,Henry County,Incorporated place,41.168966,-90.037369,1
+IL,1728612,place:IL:1728612,Garden Prairie CDP,Garden Prairie,Garden Prairie,17007,Boone County,Census-designated place,42.253621,-88.712923,1
+IL,1728638,place:IL:1728638,Gardner village,Gardner,Gardner,17063,Grundy County,Incorporated place,41.194517,-88.311457,1
+IL,1728742,place:IL:1728742,Garrett village,Garrett,Garrett,17041,Douglas County,Incorporated place,39.797204,-88.424641,1
+IL,1728807,place:IL:1728807,Gays village,Gays,Gays,17139,Moultrie County,Incorporated place,39.458294,-88.496306,1
+IL,1728846,place:IL:1728846,Geneseo city,Geneseo,Geneseo,17073,Henry County,Incorporated place,41.451252,-90.154844,1
+IL,1728872,place:IL:1728872,Geneva city,Geneva,Geneva,17089,Kane County,Incorporated place,41.882133,-88.33003,1
+IL,1728898,place:IL:1728898,Genoa city,Genoa,Genoa,17037,DeKalb County,Incorporated place,42.091035,-88.694964,1
+IL,1728963,place:IL:1728963,Georgetown city,Georgetown,Georgetown,17183,Vermilion County,Incorporated place,39.977415,-87.635375,1
+IL,1729093,place:IL:1729093,German Valley village,German Valley,German Valley,17177,Stephenson County,Incorporated place,42.214307,-89.484646,1
+IL,1729041,place:IL:1729041,Germantown village,Germantown,Germantown,17027,Clinton County,Incorporated place,38.555276,-89.541209,1
+IL,1729080,place:IL:1729080,Germantown Hills village,Germantown Hills,Germantown Hills,17203,Woodford County,Incorporated place,40.768954,-89.462982,1
+IL,1729125,place:IL:1729125,Gibson City city,Gibson City,Gibson City,17053,Ford County,Incorporated place,40.466831,-88.379205,1
+IL,1729145,place:IL:1729145,Gifford village,Gifford,Gifford,17019,Champaign County,Incorporated place,40.307821,-88.021344,1
+IL,1729171,place:IL:1729171,Gilberts village,Gilberts,Gilberts,17089,Kane County,Incorporated place,42.109981,-88.371882,1
+IL,1729236,place:IL:1729236,Gillespie city,Gillespie,Gillespie,17117,Macoupin County,Incorporated place,39.125435,-89.817283,1
+IL,1729275,place:IL:1729275,Gilman city,Gilman,Gilman,17075,Iroquois County,Incorporated place,40.759416,-88.001035,1
+IL,1729340,place:IL:1729340,Gilson CDP,Gilson,Gilson,17095,Knox County,Census-designated place,40.86271,-90.199062,1
+IL,1729392,place:IL:1729392,Girard city,Girard,Girard,17117,Macoupin County,Incorporated place,39.44658,-89.782047,1
+IL,1729431,place:IL:1729431,Gladstone village,Gladstone,Gladstone,17071,Henderson County,Incorporated place,40.86431,-90.956574,1
+IL,1729483,place:IL:1729483,Glasford village,Glasford,Glasford,17143,Peoria County,Incorporated place,40.572808,-89.813085,1
+IL,1729496,place:IL:1729496,Glasgow village,Glasgow,Glasgow,17171,Scott County,Incorporated place,39.548717,-90.479992,1
+IL,1729639,place:IL:1729639,Glen Carbon village,Glen Carbon,Glen Carbon,17119,Madison County,Incorporated place,38.758256,-89.983034,1
+IL,1729756,place:IL:1729756,Glen Ellyn village,Glen Ellyn,Glen Ellyn,17043,DuPage County,Incorporated place,41.866715,-88.062711,1
+IL,1729652,place:IL:1729652,Glencoe village,Glencoe,Glencoe,17031,Cook County,Incorporated place,42.134489,-87.763178,1
+IL,1729730,place:IL:1729730,Glendale Heights village,Glendale Heights,Glendale Heights,17043,DuPage County,Incorporated place,41.918877,-88.078095,1
+IL,1729938,place:IL:1729938,Glenview village,Glenview,Glenview,17031,Cook County,Incorporated place,42.085162,-87.827388,1
+IL,1730029,place:IL:1730029,Glenwood village,Glenwood,Glenwood,17031,Cook County,Incorporated place,41.541033,-87.611681,1
+IL,1730094,place:IL:1730094,Godfrey village,Godfrey,Godfrey,17119,Madison County,Incorporated place,38.952405,-90.222207,1
+IL,1730120,place:IL:1730120,Godley village,Godley,Godley,17197,Will County,Incorporated place,41.244377,-88.24262,1
+IL,1730133,place:IL:1730133,Golconda city,Golconda,Golconda,17151,Pope County,Incorporated place,37.362137,-88.486721,1
+IL,1730159,place:IL:1730159,Golden village,Golden,Golden,17001,Adams County,Incorporated place,40.110314,-91.019183,1
+IL,1730250,place:IL:1730250,Golden Gate village,Golden Gate,Golden Gate,17191,Wayne County,Incorporated place,38.358877,-88.204677,1
+IL,1730328,place:IL:1730328,Golf village,Golf,Golf,17031,Cook County,Incorporated place,42.058549,-87.784941,1
+IL,1730458,place:IL:1730458,Good Hope village,Good Hope,Good Hope,17109,McDonough County,Incorporated place,40.557402,-90.675291,1
+IL,1730419,place:IL:1730419,Goodenow CDP,Goodenow,Goodenow,17197,Will County,Census-designated place,41.392195,-87.639671,1
+IL,1730445,place:IL:1730445,Goodfield village,Goodfield,Goodfield,17203,Woodford County,Incorporated place,40.630556,-89.25808,1
+IL,1730510,place:IL:1730510,Goofy Ridge CDP,Goofy Ridge,Goofy Ridge,17125,Mason County,Census-designated place,40.394896,-89.940732,1
+IL,1730575,place:IL:1730575,Goreville village,Goreville,Goreville,17087,Johnson County,Incorporated place,37.555077,-88.973533,1
+IL,1730588,place:IL:1730588,Gorham village,Gorham,Gorham,17077,Jackson County,Incorporated place,37.717871,-89.477943,1
+IL,1730653,place:IL:1730653,Grafton city,Grafton,Grafton,17083,Jersey County,Incorporated place,38.976454,-90.425698,1
+IL,1730705,place:IL:1730705,Grand Detour CDP,Grand Detour,Grand Detour,17141,Ogle County,Census-designated place,41.901154,-89.41309,1
+IL,1730757,place:IL:1730757,Grand Ridge village,Grand Ridge,Grand Ridge,17099,LaSalle County,Incorporated place,41.236136,-88.831029,1
+IL,1730770,place:IL:1730770,Grand Tower city,Grand Tower,Grand Tower,17077,Jackson County,Incorporated place,37.64168,-89.506723,1
+IL,1730835,place:IL:1730835,Grandview village,Grandview,Grandview,17167,Sangamon County,Incorporated place,39.817518,-89.61802,1
+IL,1730900,place:IL:1730900,Grandwood Park CDP,Grandwood Park,Grandwood Park,17097,Lake County,Census-designated place,42.392149,-87.989208,1
+IL,1730926,place:IL:1730926,Granite City city,Granite City,Granite City,17119,Madison County,Incorporated place,38.729283,-90.125472,1
+IL,1730991,place:IL:1730991,Grant Park village,Grant Park,Grant Park,17091,Kankakee County,Incorporated place,41.242747,-87.635847,1
+IL,1730978,place:IL:1730978,Grantfork village,Grantfork,Grantfork,17119,Madison County,Incorporated place,38.826398,-89.66655,1
+IL,1731017,place:IL:1731017,Granville village,Granville,Granville,17155,Putnam County,Incorporated place,41.265796,-89.230476,1
+IL,1731121,place:IL:1731121,Grayslake village,Grayslake,Grayslake,17097,Lake County,Incorporated place,42.34082,-88.033563,1
+IL,1731165,place:IL:1731165,Grayville city,Grayville,Grayville,17193,White County,Incorporated place,38.255135,-87.996927,1
+IL,1731446,place:IL:1731446,Green Oaks village,Green Oaks,Green Oaks,17097,Lake County,Incorporated place,42.299987,-87.910961,1
+IL,1731563,place:IL:1731563,Green Valley village,Green Valley,Green Valley,17179,Tazewell County,Incorporated place,40.407264,-89.644322,1
+IL,1731368,place:IL:1731368,Greenfield city,Greenfield,Greenfield,17061,Greene County,Incorporated place,39.344487,-90.208191,1
+IL,1731524,place:IL:1731524,Greenup village,Greenup,Greenup,17035,Cumberland County,Incorporated place,39.247946,-88.160025,1
+IL,1731576,place:IL:1731576,Greenview village,Greenview,Greenview,17129,Menard County,Incorporated place,40.084918,-89.740524,1
+IL,1731589,place:IL:1731589,Greenville city,Greenville,Greenville,17005,Bond County,Incorporated place,38.886574,-89.389492,1
+IL,1731667,place:IL:1731667,Greenwood village,Greenwood,Greenwood,17111,McHenry County,Incorporated place,42.395384,-88.383803,1
+IL,1731732,place:IL:1731732,Gridley village,Gridley,Gridley,17113,McLean County,Incorporated place,40.743684,-88.880908,1
+IL,1731771,place:IL:1731771,Griggsville city,Griggsville,Griggsville,17149,Pike County,Incorporated place,39.707825,-90.727608,1
+IL,1731991,place:IL:1731991,Gulfport village,Gulfport,Gulfport,17071,Henderson County,Incorporated place,40.808975,-91.084054,0
+IL,1732018,place:IL:1732018,Gurnee village,Gurnee,Gurnee,17097,Lake County,Incorporated place,42.369973,-87.936974,1
+IL,1732200,place:IL:1732200,Hainesville village,Hainesville,Hainesville,17097,Lake County,Incorporated place,42.336194,-88.073454,1
+IL,1732395,place:IL:1732395,Hamburg village,Hamburg,Hamburg,17013,Calhoun County,Incorporated place,39.232342,-90.715599,1
+IL,1732408,place:IL:1732408,Hamel village,Hamel,Hamel,17119,Madison County,Incorporated place,38.89362,-89.837669,1
+IL,1732434,place:IL:1732434,Hamilton city,Hamilton,Hamilton,17067,Hancock County,Incorporated place,40.391583,-91.361069,1
+IL,1732473,place:IL:1732473,Hamlet CDP,Hamlet,Hamlet,17131,Mercer County,Census-designated place,41.311678,-90.733124,1
+IL,1732499,place:IL:1732499,Hammond village,Hammond,Hammond,17147,Piatt County,Incorporated place,39.800212,-88.593084,1
+IL,1732525,place:IL:1732525,Hampshire village,Hampshire,Hampshire,17089,Kane County,Incorporated place,42.116614,-88.505165,1
+IL,1732564,place:IL:1732564,Hampton village,Hampton,Hampton,17161,Rock Island County,Incorporated place,41.556548,-90.403432,1
+IL,1732616,place:IL:1732616,Hanaford village,Hanaford,Hanaford,17055,Franklin County,Incorporated place,37.955201,-88.831018,1
+IL,1732668,place:IL:1732668,Hanna City village,Hanna City,Hanna City,17143,Peoria County,Incorporated place,40.69315,-89.805029,1
+IL,1732707,place:IL:1732707,Hanover village,Hanover,Hanover,17085,Jo Daviess County,Incorporated place,42.255192,-90.273636,1
+IL,1732746,place:IL:1732746,Hanover Park village,Hanover Park,Hanover Park,17043,DuPage County,Incorporated place,41.982499,-88.142926,1
+IL,1732850,place:IL:1732850,Hardin village,Hardin,Hardin,17013,Calhoun County,Incorporated place,39.158973,-90.623141,1
+IL,1732876,place:IL:1732876,Harding CDP,Harding,Harding,17099,LaSalle County,Census-designated place,41.517819,-88.84886,1
+IL,1732967,place:IL:1732967,Harmon village,Harmon,Harmon,17103,Lee County,Incorporated place,41.723443,-89.553912,1
+IL,1733019,place:IL:1733019,Harmony CDP,Harmony,Harmony,17111,McHenry County,Census-designated place,42.158906,-88.528598,1
+IL,1733136,place:IL:1733136,Harrisburg city,Harrisburg,Harrisburg,17165,Saline County,Incorporated place,37.737717,-88.545818,1
+IL,1733162,place:IL:1733162,Harrison CDP,Harrison,Harrison,17077,Jackson County,Census-designated place,37.797557,-89.335972,1
+IL,1733227,place:IL:1733227,Harristown village,Harristown,Harristown,17115,Macon County,Incorporated place,39.842945,-89.05979,1
+IL,1733279,place:IL:1733279,Hartford village,Hartford,Hartford,17119,Madison County,Incorporated place,38.813058,-90.092103,1
+IL,1733292,place:IL:1733292,Hartland CDP,Hartland,Hartland,17111,McHenry County,Census-designated place,42.363077,-88.508584,1
+IL,1733318,place:IL:1733318,Hartsburg village,Hartsburg,Hartsburg,17107,Logan County,Incorporated place,40.250567,-89.441113,1
+IL,1733331,place:IL:1733331,Harvard city,Harvard,Harvard,17111,McHenry County,Incorporated place,42.42964,-88.621065,1
+IL,1733357,place:IL:1733357,Harvel village,Harvel,Harvel,17135,Montgomery County,Incorporated place,39.357745,-89.532239,1
+IL,1733383,place:IL:1733383,Harvey city,Harvey,Harvey,17031,Cook County,Incorporated place,41.607583,-87.65199,1
+IL,1733435,place:IL:1733435,Harwood Heights village,Harwood Heights,Harwood Heights,17031,Cook County,Incorporated place,41.966318,-87.80559,1
+IL,1733513,place:IL:1733513,Havana city,Havana,Havana,17125,Mason County,Incorporated place,40.295109,-90.05781,1
+IL,1733630,place:IL:1733630,Hawthorn Woods village,Hawthorn Woods,Hawthorn Woods,17097,Lake County,Incorporated place,42.235811,-88.067825,1
+IL,1733695,place:IL:1733695,Hazel Crest village,Hazel Crest,Hazel Crest,17031,Cook County,Incorporated place,41.573535,-87.687967,1
+IL,1733851,place:IL:1733851,Hebron village,Hebron,Hebron,17111,McHenry County,Incorporated place,42.465377,-88.434416,1
+IL,1733877,place:IL:1733877,Hecker village,Hecker,Hecker,17133,Monroe County,Incorporated place,38.304889,-89.993153,1
+IL,1734007,place:IL:1734007,Henderson village,Henderson,Henderson,17095,Knox County,Incorporated place,41.023878,-90.353581,1
+IL,1734098,place:IL:1734098,Hennepin village,Hennepin,Hennepin,17155,Putnam County,Incorporated place,41.250527,-89.314094,1
+IL,1734137,place:IL:1734137,Henning village,Henning,Henning,17183,Vermilion County,Incorporated place,40.306855,-87.700956,1
+IL,1734163,place:IL:1734163,Henry city,Henry,Henry,17123,Marshall County,Incorporated place,41.117367,-89.357282,1
+IL,1734272,place:IL:1734272,Heritage Lake CDP,Heritage Lake,Heritage Lake,17179,Tazewell County,Census-designated place,40.547617,-89.328783,1
+IL,1734332,place:IL:1734332,Herrick village,Herrick,Herrick,17173,Shelby County,Incorporated place,39.219616,-88.984789,1
+IL,1734358,place:IL:1734358,Herrin city,Herrin,Herrin,17199,Williamson County,Incorporated place,37.798389,-89.03065,1
+IL,1734384,place:IL:1734384,Herscher village,Herscher,Herscher,17091,Kankakee County,Incorporated place,41.04917,-88.10057,1
+IL,1734423,place:IL:1734423,Hettick village,Hettick,Hettick,17117,Macoupin County,Incorporated place,39.355736,-90.037407,1
+IL,1734449,place:IL:1734449,Heyworth village,Heyworth,Heyworth,17113,McLean County,Incorporated place,40.315933,-88.993257,1
+IL,1734514,place:IL:1734514,Hickory Hills city,Hickory Hills,Hickory Hills,17031,Cook County,Incorporated place,41.724778,-87.828005,1
+IL,1734553,place:IL:1734553,Hidalgo village,Hidalgo,Hidalgo,17079,Jasper County,Incorporated place,39.155917,-88.149096,1
+IL,1734670,place:IL:1734670,Highland city,Highland,Highland,17119,Madison County,Incorporated place,38.770434,-89.68612,1
+IL,1734722,place:IL:1734722,Highland Park city,Highland Park,Highland Park,17097,Lake County,Incorporated place,42.182372,-87.810845,1
+IL,1734865,place:IL:1734865,Highwood city,Highwood,Highwood,17097,Lake County,Incorporated place,42.206017,-87.812944,1
+IL,1734982,place:IL:1734982,Hillcrest village,Hillcrest,Hillcrest,17141,Ogle County,Incorporated place,41.966829,-89.062559,1
+IL,1735047,place:IL:1735047,Hillsboro city,Hillsboro,Hillsboro,17135,Montgomery County,Incorporated place,39.174882,-89.472217,1
+IL,1735073,place:IL:1735073,Hillsdale village,Hillsdale,Hillsdale,17161,Rock Island County,Incorporated place,41.605723,-90.173282,1
+IL,1735086,place:IL:1735086,Hillside village,Hillside,Hillside,17031,Cook County,Incorporated place,41.867524,-87.901839,1
+IL,1735203,place:IL:1735203,Hillview village,Hillview,Hillview,17061,Greene County,Incorporated place,39.449555,-90.538574,1
+IL,1735268,place:IL:1735268,Hinckley village,Hinckley,Hinckley,17037,DeKalb County,Incorporated place,41.771425,-88.640361,1
+IL,1735281,place:IL:1735281,Hindsboro village,Hindsboro,Hindsboro,17041,Douglas County,Incorporated place,39.684775,-88.134729,1
+IL,1735307,place:IL:1735307,Hinsdale village,Hinsdale,Hinsdale,17043,DuPage County,Incorporated place,41.800683,-87.928172,1
+IL,1735385,place:IL:1735385,Hodgkins village,Hodgkins,Hodgkins,17031,Cook County,Incorporated place,41.766066,-87.861944,1
+IL,1735398,place:IL:1735398,Hoffman village,Hoffman,Hoffman,17027,Clinton County,Incorporated place,38.540493,-89.264342,1
+IL,1735411,place:IL:1735411,Hoffman Estates village,Hoffman Estates,Hoffman Estates,17031,Cook County,Incorporated place,42.064532,-88.144585,1
+IL,1735463,place:IL:1735463,Holcomb CDP,Holcomb,Holcomb,17141,Ogle County,Census-designated place,42.064521,-89.096993,1
+IL,1735515,place:IL:1735515,Holiday Hills village,Holiday Hills,Holiday Hills,17111,McHenry County,Incorporated place,42.295944,-88.228842,1
+IL,1735541,place:IL:1735541,Holiday Shores CDP,Holiday Shores,Holiday Shores,17119,Madison County,Census-designated place,38.92714,-89.938862,1
+IL,1735671,place:IL:1735671,Hollowayville village,Hollowayville,Hollowayville,17011,Bureau County,Incorporated place,41.364686,-89.294878,1
+IL,1735814,place:IL:1735814,Homer village,Homer,Homer,17019,Champaign County,Incorporated place,40.033008,-87.957754,1
+IL,1735835,place:IL:1735835,Homer Glen village,Homer Glen,Homer Glen,17197,Will County,Incorporated place,41.604341,-87.961572,1
+IL,1735866,place:IL:1735866,Hometown city,Hometown,Hometown,17031,Cook County,Incorporated place,41.731248,-87.731134,1
+IL,1735879,place:IL:1735879,Homewood village,Homewood,Homewood,17031,Cook County,Incorporated place,41.558549,-87.66134,1
+IL,1736061,place:IL:1736061,Hoopeston city,Hoopeston,Hoopeston,17183,Vermilion County,Incorporated place,40.460824,-87.663572,1
+IL,1736074,place:IL:1736074,Hooppole village,Hooppole,Hooppole,17073,Henry County,Incorporated place,41.521849,-89.913968,1
+IL,1736126,place:IL:1736126,Hopedale village,Hopedale,Hopedale,17179,Tazewell County,Incorporated place,40.423391,-89.422321,1
+IL,1736150,place:IL:1736150,Hopewell village,Hopewell,Hopewell,17123,Marshall County,Incorporated place,40.984237,-89.457123,1
+IL,1736190,place:IL:1736190,Hopkins Park village,Hopkins Park,Hopkins Park,17091,Kankakee County,Incorporated place,41.069057,-87.606371,1
+IL,1736347,place:IL:1736347,Hoyleton village,Hoyleton,Hoyleton,17189,Washington County,Incorporated place,38.445703,-89.272101,1
+IL,1736438,place:IL:1736438,Hudson village,Hudson,Hudson,17113,McLean County,Incorporated place,40.605434,-88.989023,1
+IL,1736477,place:IL:1736477,Huey village,Huey,Huey,17027,Clinton County,Incorporated place,38.605285,-89.289973,1
+IL,1736516,place:IL:1736516,Hull village,Hull,Hull,17149,Pike County,Incorporated place,39.710777,-91.200796,1
+IL,1736542,place:IL:1736542,Humboldt village,Humboldt,Humboldt,17029,Coles County,Incorporated place,39.604684,-88.32012,1
+IL,1736568,place:IL:1736568,Hume village,Hume,Hume,17045,Edgar County,Incorporated place,39.798131,-87.86846,1
+IL,1736750,place:IL:1736750,Huntley village,Huntley,Huntley,17111,McHenry County,Incorporated place,42.160801,-88.435461,1
+IL,1736815,place:IL:1736815,Hurst city,Hurst,Hurst,17199,Williamson County,Incorporated place,37.837031,-89.147364,1
+IL,1736841,place:IL:1736841,Hutsonville village,Hutsonville,Hutsonville,17033,Crawford County,Incorporated place,39.109569,-87.664676,1
+IL,1737062,place:IL:1737062,Illinois City CDP,Illinois City,Illinois City,17161,Rock Island County,Census-designated place,41.399145,-90.899652,1
+IL,1737127,place:IL:1737127,Illiopolis village,Illiopolis,Illiopolis,17167,Sangamon County,Incorporated place,39.849753,-89.252051,1
+IL,1737179,place:IL:1737179,Ina village,Ina,Ina,17081,Jefferson County,Incorporated place,38.149892,-88.904019,1
+IL,1737218,place:IL:1737218,Indian Creek village,Indian Creek,Indian Creek,17097,Lake County,Incorporated place,42.227205,-87.978359,1
+IL,1737257,place:IL:1737257,Indian Head Park village,Indian Head Park,Indian Head Park,17031,Cook County,Incorporated place,41.768433,-87.897405,1
+IL,1737348,place:IL:1737348,Indianola village,Indianola,Indianola,17183,Vermilion County,Incorporated place,39.927064,-87.740241,1
+IL,1737439,place:IL:1737439,Industry village,Industry,Industry,17109,McDonough County,Incorporated place,40.327275,-90.60805,1
+IL,1737465,place:IL:1737465,Ingalls Park CDP,Ingalls Park,Ingalls Park,17197,Will County,Census-designated place,41.520402,-88.034459,1
+IL,1737608,place:IL:1737608,Inverness village,Inverness,Inverness,17031,Cook County,Incorporated place,42.115136,-88.100894,1
+IL,1737621,place:IL:1737621,Iola village,Iola,Iola,17025,Clay County,Incorporated place,38.834059,-88.627837,1
+IL,1737647,place:IL:1737647,Ipava village,Ipava,Ipava,17057,Fulton County,Incorporated place,40.352569,-90.323389,1
+IL,1737712,place:IL:1737712,Iroquois village,Iroquois,Iroquois,17075,Iroquois County,Incorporated place,40.828872,-87.584225,1
+IL,1737738,place:IL:1737738,Irving village,Irving,Irving,17135,Montgomery County,Incorporated place,39.205461,-89.405249,1
+IL,1737777,place:IL:1737777,Irvington village,Irvington,Irvington,17189,Washington County,Incorporated place,38.438393,-89.160268,1
+IL,1737803,place:IL:1737803,Irwin village,Irwin,Irwin,17091,Kankakee County,Incorporated place,41.053069,-87.983926,1
+IL,1737894,place:IL:1737894,Island Lake village,Island Lake,Island Lake,17111,McHenry County,Incorporated place,42.278773,-88.200441,1
+IL,1737907,place:IL:1737907,Itasca village,Itasca,Itasca,17043,DuPage County,Incorporated place,41.976616,-88.018775,1
+IL,1737933,place:IL:1737933,Iuka village,Iuka,Iuka,17121,Marion County,Incorporated place,38.617806,-88.788263,1
+IL,1737998,place:IL:1737998,Ivesdale village,Ivesdale,Ivesdale,17019,Champaign County,Incorporated place,39.945806,-88.455819,1
+IL,1738115,place:IL:1738115,Jacksonville city,Jacksonville,Jacksonville,17137,Morgan County,Incorporated place,39.729151,-90.232201,1
+IL,1738232,place:IL:1738232,Janesville CDP,Janesville,Janesville,17029,Coles County,Census-designated place,39.375243,-88.244991,1
+IL,1738323,place:IL:1738323,Jeffersonville village,Jeffersonville,Jeffersonville,17191,Wayne County,Incorporated place,38.442503,-88.403968,1
+IL,1738349,place:IL:1738349,Jeisyville village,Jeisyville,Jeisyville,17021,Christian County,Incorporated place,39.579165,-89.408057,1
+IL,1738375,place:IL:1738375,Jerome village,Jerome,Jerome,17167,Sangamon County,Incorporated place,39.767751,-89.678378,1
+IL,1738414,place:IL:1738414,Jerseyville city,Jerseyville,Jerseyville,17083,Jersey County,Incorporated place,39.117243,-90.326718,1
+IL,1738427,place:IL:1738427,Jewett village,Jewett,Jewett,17035,Cumberland County,Incorporated place,39.207709,-88.24307,1
+IL,1738479,place:IL:1738479,Johnsburg village,Johnsburg,Johnsburg,17111,McHenry County,Incorporated place,42.383246,-88.246763,1
+IL,1738531,place:IL:1738531,Johnsonville village,Johnsonville,Johnsonville,17191,Wayne County,Incorporated place,38.520873,-88.538223,1
+IL,1738544,place:IL:1738544,Johnston City city,Johnston City,Johnston City,17199,Williamson County,Incorporated place,37.821035,-88.929295,1
+IL,1738570,place:IL:1738570,Joliet city,Joliet,Joliet,17197,Will County,Incorporated place,41.516866,-88.147963,1
+IL,1738635,place:IL:1738635,Jonesboro city,Jonesboro,Jonesboro,17181,Union County,Incorporated place,37.450952,-89.266574,1
+IL,1738674,place:IL:1738674,Joppa village,Joppa,Joppa,17127,Massac County,Incorporated place,37.209217,-88.847032,1
+IL,1738726,place:IL:1738726,Joslin CDP,Joslin,Joslin,17161,Rock Island County,Census-designated place,41.544577,-90.221868,1
+IL,1738739,place:IL:1738739,Joy village,Joy,Joy,17131,Mercer County,Incorporated place,41.196922,-90.878792,1
+IL,1738778,place:IL:1738778,Junction village,Junction,Junction,17059,Gallatin County,Incorporated place,37.723368,-88.237671,1
+IL,1738791,place:IL:1738791,Junction City village,Junction City,Junction City,17121,Marion County,Incorporated place,38.575486,-89.126799,1
+IL,1738830,place:IL:1738830,Justice village,Justice,Justice,17031,Cook County,Incorporated place,41.753401,-87.826941,1
+IL,1738856,place:IL:1738856,Kampsville village,Kampsville,Kampsville,17013,Calhoun County,Incorporated place,39.297181,-90.612931,1
+IL,1738869,place:IL:1738869,Kane village,Kane,Kane,17061,Greene County,Incorporated place,39.190489,-90.35118,1
+IL,1738895,place:IL:1738895,Kaneville village,Kaneville,Kaneville,17089,Kane County,Incorporated place,41.833246,-88.521642,1
+IL,1738921,place:IL:1738921,Kangley village,Kangley,Kangley,17099,LaSalle County,Incorporated place,41.148004,-88.872087,1
+IL,1738934,place:IL:1738934,Kankakee city,Kankakee,Kankakee,17091,Kankakee County,Incorporated place,41.101654,-87.86369,1
+IL,1738986,place:IL:1738986,Kansas village,Kansas,Kansas,17045,Edgar County,Incorporated place,39.55446,-87.939554,1
+IL,1739038,place:IL:1739038,Kappa village,Kappa,Kappa,17203,Woodford County,Incorporated place,40.675442,-89.005966,1
+IL,1739077,place:IL:1739077,Karnak village,Karnak,Karnak,17153,Pulaski County,Incorporated place,37.294168,-88.976066,1
+IL,1739129,place:IL:1739129,Kaskaskia village,Kaskaskia,Kaskaskia,17157,Randolph County,Incorporated place,37.92128,-89.916325,1
+IL,1739233,place:IL:1739233,Keenes village,Keenes,Keenes,17191,Wayne County,Incorporated place,38.338583,-88.641916,1
+IL,1739259,place:IL:1739259,Keensburg village,Keensburg,Keensburg,17185,Wabash County,Incorporated place,38.351831,-87.868261,1
+IL,1739298,place:IL:1739298,Keithsburg city,Keithsburg,Keithsburg,17131,Mercer County,Incorporated place,41.099971,-90.936059,1
+IL,1739324,place:IL:1739324,Kell village,Kell,Kell,17121,Marion County,Incorporated place,38.487552,-88.90001,1
+IL,1739441,place:IL:1739441,Kempton village,Kempton,Kempton,17053,Ford County,Incorporated place,40.935469,-88.236253,1
+IL,1739519,place:IL:1739519,Kenilworth village,Kenilworth,Kenilworth,17031,Cook County,Incorporated place,42.088818,-87.714497,1
+IL,1739532,place:IL:1739532,Kenney village,Kenney,Kenney,17039,De Witt County,Incorporated place,40.098025,-89.086228,1
+IL,1739727,place:IL:1739727,Kewanee city,Kewanee,Kewanee,17073,Henry County,Incorporated place,41.239087,-89.92566,1
+IL,1739753,place:IL:1739753,Keyesport village,Keyesport,Keyesport,17005,Bond County,Incorporated place,38.746015,-89.273537,1
+IL,1739857,place:IL:1739857,Kilbourne village,Kilbourne,Kilbourne,17125,Mason County,Incorporated place,40.151909,-90.011518,1
+IL,1739883,place:IL:1739883,Kildeer village,Kildeer,Kildeer,17097,Lake County,Incorporated place,42.181353,-88.048935,1
+IL,1739909,place:IL:1739909,Kincaid village,Kincaid,Kincaid,17021,Christian County,Incorporated place,39.586808,-89.416476,1
+IL,1739922,place:IL:1739922,Kinderhook village,Kinderhook,Kinderhook,17149,Pike County,Incorporated place,39.703775,-91.152553,1
+IL,1739987,place:IL:1739987,Kings CDP,Kings,Kings,17141,Ogle County,Census-designated place,42.003146,-89.107023,1
+IL,1740052,place:IL:1740052,Kingston CDP,Kingston,"Kingston, Adams County",17001,Adams County,Census-designated place,39.819449,-91.027001,1
+IL,1740065,place:IL:1740065,Kingston village,Kingston,"Kingston, DeKalb County",17037,DeKalb County,Incorporated place,42.101062,-88.763197,1
+IL,1740091,place:IL:1740091,Kingston Mines village,Kingston Mines,Kingston Mines,17143,Peoria County,Incorporated place,40.558372,-89.77105,1
+IL,1740117,place:IL:1740117,Kinmundy city,Kinmundy,Kinmundy,17121,Marion County,Incorporated place,38.772143,-88.853462,1
+IL,1740143,place:IL:1740143,Kinsman village,Kinsman,Kinsman,17063,Grundy County,Incorporated place,41.190238,-88.570024,1
+IL,1740156,place:IL:1740156,Kirkland village,Kirkland,Kirkland,17037,DeKalb County,Incorporated place,42.090164,-88.848625,1
+IL,1740182,place:IL:1740182,Kirkwood village,Kirkwood,Kirkwood,17187,Warren County,Incorporated place,40.867774,-90.748312,1
+IL,1740364,place:IL:1740364,Knollwood CDP,Knollwood,Knollwood,17097,Lake County,Census-designated place,42.284584,-87.879318,1
+IL,1740416,place:IL:1740416,Knoxville city,Knoxville,Knoxville,17095,Knox County,Incorporated place,40.906931,-90.285697,1
+IL,1740520,place:IL:1740520,La Clede CDP,La Clede,La Clede,17051,Fayette County,Census-designated place,38.880611,-88.712708,1
+IL,1740676,place:IL:1740676,La Fayette village,La Fayette,La Fayette,17175,Stark County,Incorporated place,41.109606,-89.973522,1
+IL,1740767,place:IL:1740767,La Grange village,La Grange,La Grange,17031,Cook County,Incorporated place,41.807213,-87.874148,1
+IL,1740793,place:IL:1740793,La Grange Park village,La Grange Park,La Grange Park,17031,Cook County,Incorporated place,41.830778,-87.872274,1
+IL,1740832,place:IL:1740832,La Harpe city,La Harpe,La Harpe,17067,Hancock County,Incorporated place,40.584786,-90.969533,1
+IL,1741794,place:IL:1741794,La Moille village,La Moille,La Moille,17011,Bureau County,Incorporated place,41.530377,-89.284351,1
+IL,1742080,place:IL:1742080,La Prairie village,La Prairie,La Prairie,17001,Adams County,Incorporated place,40.147278,-91.002449,1
+IL,1742171,place:IL:1742171,La Rose village,La Rose,La Rose,17123,Marshall County,Incorporated place,40.978732,-89.234954,1
+IL,1740559,place:IL:1740559,Lacon city,Lacon,Lacon,17123,Marshall County,Incorporated place,41.022897,-89.40633,1
+IL,1740598,place:IL:1740598,Ladd village,Ladd,Ladd,17011,Bureau County,Incorporated place,41.381409,-89.214343,1
+IL,1740884,place:IL:1740884,Lake Barrington village,Lake Barrington,Lake Barrington,17097,Lake County,Incorporated place,42.21025,-88.169493,1
+IL,1740910,place:IL:1740910,Lake Bluff village,Lake Bluff,Lake Bluff,17097,Lake County,Incorporated place,42.282695,-87.852306,1
+IL,1740962,place:IL:1740962,Lake Camelot CDP,Lake Camelot,Lake Camelot,17143,Peoria County,Census-designated place,40.635059,-89.753005,1
+IL,1740980,place:IL:1740980,Lake Carroll CDP,Lake Carroll,Lake Carroll,17015,Carroll County,Census-designated place,42.16964,-89.865029,1
+IL,1740988,place:IL:1740988,Lake Catherine CDP,Lake Catherine,Lake Catherine,17097,Lake County,Census-designated place,42.486015,-88.124257,1
+IL,1741040,place:IL:1741040,Lake City CDP,Lake City,Lake City,17139,Moultrie County,Census-designated place,39.753585,-88.718578,1
+IL,1741105,place:IL:1741105,Lake Forest city,Lake Forest,Lake Forest,17097,Lake County,Incorporated place,42.23535,-87.857305,1
+IL,1741157,place:IL:1741157,Lake Holiday CDP,Lake Holiday,Lake Holiday,17099,LaSalle County,Census-designated place,41.620087,-88.664899,1
+IL,1741183,place:IL:1741183,Lake in the Hills village,Lake in the Hills,Lake in the Hills,17111,McHenry County,Incorporated place,42.179357,-88.315468,1
+IL,1741214,place:IL:1741214,Lake Ka-Ho village,Lake Ka-Ho,Lake Ka-Ho,17117,Macoupin County,Incorporated place,39.096968,-89.746135,1
+IL,1741346,place:IL:1741346,Lake of the Woods CDP,Lake of the Woods,Lake of the Woods,17019,Champaign County,Census-designated place,40.205007,-88.379768,1
+IL,1741404,place:IL:1741404,Lake Petersburg CDP,Lake Petersburg,Lake Petersburg,17129,Menard County,Census-designated place,39.984313,-89.856159,1
+IL,1741456,place:IL:1741456,Lake Summerset CDP,Lake Summerset,Lake Summerset,17201,Winnebago County,Census-designated place,42.45399,-89.390149,1
+IL,1741586,place:IL:1741586,Lake Villa village,Lake Villa,Lake Villa,17097,Lake County,Incorporated place,42.417573,-88.082609,1
+IL,1741742,place:IL:1741742,Lake Zurich village,Lake Zurich,Lake Zurich,17097,Lake County,Incorporated place,42.19528,-88.085191,1
+IL,1741326,place:IL:1741326,Lakemoor village,Lakemoor,Lakemoor,17111,McHenry County,Incorporated place,42.338872,-88.202665,1
+IL,1741651,place:IL:1741651,Lakewood village,Lakewood,"Lakewood, McHenry County",17111,McHenry County,Incorporated place,42.224482,-88.386669,1
+IL,1741677,place:IL:1741677,Lakewood CDP,Lakewood,"Lakewood, Shelby County",17173,Shelby County,Census-designated place,39.3235,-88.898176,1
+IL,1741716,place:IL:1741716,Lakewood Shores CDP,Lakewood Shores,Lakewood Shores,17197,Will County,Census-designated place,41.280146,-88.142813,1
+IL,1741859,place:IL:1741859,Lanark city,Lanark,Lanark,17015,Carroll County,Incorporated place,42.101885,-89.833399,1
+IL,1741950,place:IL:1741950,Lane CDP,Lane,Lane,17039,De Witt County,Census-designated place,40.121952,-88.85575,1
+IL,1742002,place:IL:1742002,Langleyville CDP,Langleyville,Langleyville,17021,Christian County,Census-designated place,39.561107,-89.360255,1
+IL,1742028,place:IL:1742028,Lansing village,Lansing,Lansing,17031,Cook County,Incorporated place,41.565004,-87.546004,1
+IL,1742067,place:IL:1742067,LaPlace CDP,LaPlace,LaPlace,17147,Piatt County,Census-designated place,39.797545,-88.714511,1
+IL,1742184,place:IL:1742184,LaSalle city,LaSalle,LaSalle,17099,LaSalle County,Incorporated place,41.335176,-89.097245,1
+IL,1742249,place:IL:1742249,Latham village,Latham,Latham,17107,Logan County,Incorporated place,39.966968,-89.162292,1
+IL,1742392,place:IL:1742392,Lawrence CDP,Lawrence,Lawrence,17111,McHenry County,Census-designated place,42.4433,-88.64171,1
+IL,1742405,place:IL:1742405,Lawrenceville city,Lawrenceville,Lawrenceville,17101,Lawrence County,Incorporated place,38.726345,-87.687289,1
+IL,1742971,place:IL:1742971,Le Roy city,Le Roy,Le Roy,17113,McLean County,Incorporated place,40.339371,-88.761098,1
+IL,1742457,place:IL:1742457,Leaf River village,Leaf River,Leaf River,17141,Ogle County,Incorporated place,42.123257,-89.403968,1
+IL,1742496,place:IL:1742496,Lebanon city,Lebanon,Lebanon,17163,St. Clair County,Incorporated place,38.600653,-89.809653,1
+IL,1742587,place:IL:1742587,Lee village,Lee,Lee,17103,Lee County,Incorporated place,41.795397,-88.94167,1
+IL,1742600,place:IL:1742600,Lee Center CDP,Lee Center,Lee Center,17103,Lee County,Census-designated place,41.750289,-89.276223,1
+IL,1742756,place:IL:1742756,Leland village,Leland,Leland,17099,LaSalle County,Incorporated place,41.615964,-88.798309,1
+IL,1742769,place:IL:1742769,Leland Grove city,Leland Grove,Leland Grove,17167,Sangamon County,Incorporated place,39.778702,-89.683909,1
+IL,1742795,place:IL:1742795,Lemont village,Lemont,Lemont,17031,Cook County,Incorporated place,41.667328,-87.984411,1
+IL,1742834,place:IL:1742834,Lena village,Lena,Lena,17177,Stephenson County,Incorporated place,42.378511,-89.821665,1
+IL,1742860,place:IL:1742860,Lenzburg village,Lenzburg,Lenzburg,17163,St. Clair County,Incorporated place,38.28635,-89.81778,1
+IL,1742912,place:IL:1742912,Leonore village,Leonore,Leonore,17099,LaSalle County,Incorporated place,41.188903,-88.982272,1
+IL,1742938,place:IL:1742938,Lerna village,Lerna,Lerna,17029,Coles County,Incorporated place,39.417876,-88.288783,1
+IL,1743055,place:IL:1743055,Lewistown city,Lewistown,Lewistown,17057,Fulton County,Incorporated place,40.396861,-90.15551,1
+IL,1743094,place:IL:1743094,Lexington city,Lexington,Lexington,17113,McLean County,Incorporated place,40.646951,-88.784141,1
+IL,1743133,place:IL:1743133,Liberty village,Liberty,Liberty,17001,Adams County,Incorporated place,39.879747,-91.106595,1
+IL,1743250,place:IL:1743250,Libertyville village,Libertyville,Libertyville,17097,Lake County,Incorporated place,42.284667,-87.966503,1
+IL,1743406,place:IL:1743406,Lily Lake village,Lily Lake,Lily Lake,17089,Kane County,Incorporated place,41.957294,-88.472014,1
+IL,1743445,place:IL:1743445,Lima village,Lima,Lima,17001,Adams County,Incorporated place,40.177036,-91.378298,1
+IL,1743510,place:IL:1743510,Limestone village,Limestone,Limestone,17091,Kankakee County,Incorporated place,41.133051,-87.96225,1
+IL,1743536,place:IL:1743536,Lincoln city,Lincoln,Lincoln,17107,Logan County,Incorporated place,40.150678,-89.370273,1
+IL,1743666,place:IL:1743666,Lincolnshire village,Lincolnshire,Lincolnshire,17097,Lake County,Incorporated place,42.196518,-87.917737,1
+IL,1743744,place:IL:1743744,Lincolnwood village,Lincolnwood,Lincolnwood,17031,Cook County,Incorporated place,42.00543,-87.732959,1
+IL,1743770,place:IL:1743770,Lindenhurst village,Lindenhurst,Lindenhurst,17097,Lake County,Incorporated place,42.417147,-88.026434,1
+IL,1743900,place:IL:1743900,Lisbon village,Lisbon,Lisbon,17093,Kendall County,Incorporated place,41.480652,-88.455735,1
+IL,1743939,place:IL:1743939,Lisle village,Lisle,Lisle,17043,DuPage County,Incorporated place,41.792111,-88.087705,1
+IL,1743965,place:IL:1743965,Litchfield city,Litchfield,Litchfield,17135,Montgomery County,Incorporated place,39.175963,-89.665482,1
+IL,1743978,place:IL:1743978,Literberry CDP,Literberry,Literberry,17137,Morgan County,Census-designated place,39.851583,-90.197871,1
+IL,1744082,place:IL:1744082,Little York village,Little York,Little York,17187,Warren County,Incorporated place,41.01093,-90.747241,1
+IL,1744056,place:IL:1744056,Littleton village,Littleton,Littleton,17169,Schuyler County,Incorporated place,40.234,-90.622315,1
+IL,1744121,place:IL:1744121,Liverpool village,Liverpool,Liverpool,17057,Fulton County,Incorporated place,40.389905,-90.001642,1
+IL,1744160,place:IL:1744160,Livingston village,Livingston,Livingston,17119,Madison County,Incorporated place,38.968596,-89.763737,1
+IL,1744173,place:IL:1744173,Loami village,Loami,Loami,17167,Sangamon County,Incorporated place,39.6741,-89.847896,1
+IL,1744225,place:IL:1744225,Lockport city,Lockport,Lockport,17197,Will County,Incorporated place,41.590785,-88.032468,1
+IL,1744244,place:IL:1744244,Lockport Heights CDP,Lockport Heights,Lockport Heights,17197,Will County,Census-designated place,41.62149,-88.022401,1
+IL,1744264,place:IL:1744264,Loda village,Loda,Loda,17075,Iroquois County,Incorporated place,40.514887,-88.076169,1
+IL,1744381,place:IL:1744381,Lomax village,Lomax,Lomax,17071,Henderson County,Incorporated place,40.679155,-91.075413,1
+IL,1744407,place:IL:1744407,Lombard village,Lombard,Lombard,17043,DuPage County,Incorporated place,41.873844,-88.015491,1
+IL,1744446,place:IL:1744446,London Mills village,London Mills,London Mills,17057,Fulton County,Incorporated place,40.710577,-90.266154,1
+IL,1744498,place:IL:1744498,Long Creek village,Long Creek,Long Creek,17115,Macon County,Incorporated place,39.805225,-88.847311,1
+IL,1744524,place:IL:1744524,Long Grove village,Long Grove,Long Grove,17097,Lake County,Incorporated place,42.195016,-88.011032,1
+IL,1744550,place:IL:1744550,Long Lake CDP,Long Lake,Long Lake,17097,Lake County,Census-designated place,42.372117,-88.127342,1
+IL,1744576,place:IL:1744576,Long Point village,Long Point,Long Point,17105,Livingston County,Incorporated place,41.005256,-88.893031,1
+IL,1744602,place:IL:1744602,Longview village,Longview,Longview,17019,Champaign County,Incorporated place,39.885918,-88.06621,1
+IL,1744719,place:IL:1744719,Loraine village,Loraine,Loraine,17001,Adams County,Incorporated place,40.152571,-91.221509,1
+IL,1744784,place:IL:1744784,Lorenzo CDP,Lorenzo,Lorenzo,17197,Will County,Census-designated place,41.345691,-88.222261,1
+IL,1744836,place:IL:1744836,Lost Nation CDP,Lost Nation,Lost Nation,17141,Ogle County,Census-designated place,41.911952,-89.368492,1
+IL,1744823,place:IL:1744823,Lostant village,Lostant,Lostant,17099,LaSalle County,Incorporated place,41.125274,-89.066753,1
+IL,1744927,place:IL:1744927,Louisville village,Louisville,Louisville,17025,Clay County,Incorporated place,38.769406,-88.506858,1
+IL,1745031,place:IL:1745031,Loves Park city,Loves Park,Loves Park,17201,Winnebago County,Incorporated place,42.337843,-88.998649,1
+IL,1745044,place:IL:1745044,Lovington village,Lovington,Lovington,17139,Moultrie County,Incorporated place,39.715064,-88.633683,1
+IL,1745109,place:IL:1745109,Lowpoint CDP,Lowpoint,Lowpoint,17203,Woodford County,Census-designated place,40.872824,-89.313721,1
+IL,1745174,place:IL:1745174,Ludlow village,Ludlow,Ludlow,17019,Champaign County,Incorporated place,40.386619,-88.125864,1
+IL,1745278,place:IL:1745278,Lyndon village,Lyndon,Lyndon,17195,Whiteside County,Incorporated place,41.717523,-89.923974,1
+IL,1745343,place:IL:1745343,Lynn Center CDP,Lynn Center,Lynn Center,17073,Henry County,Census-designated place,41.294624,-90.35909,1
+IL,1745369,place:IL:1745369,Lynnville village,Lynnville,Lynnville,17137,Morgan County,Incorporated place,39.685787,-90.345954,1
+IL,1745421,place:IL:1745421,Lynwood village,Lynwood,Lynwood,17031,Cook County,Incorporated place,41.523233,-87.550082,1
+IL,1745434,place:IL:1745434,Lyons village,Lyons,Lyons,17031,Cook County,Incorporated place,41.812184,-87.818589,1
+IL,1745642,place:IL:1745642,Macedonia village,Macedonia,Macedonia,17065,Hamilton County,Incorporated place,38.053654,-88.702835,1
+IL,1745726,place:IL:1745726,Machesney Park village,Machesney Park,Machesney Park,17201,Winnebago County,Incorporated place,42.367658,-89.024544,1
+IL,1745785,place:IL:1745785,Mackinaw village,Mackinaw,Mackinaw,17179,Tazewell County,Incorporated place,40.533915,-89.355458,1
+IL,1745889,place:IL:1745889,Macomb city,Macomb,Macomb,17109,McDonough County,Incorporated place,40.470162,-90.683018,1
+IL,1745941,place:IL:1745941,Macon city,Macon,Macon,17115,Macon County,Incorporated place,39.708704,-88.996686,1
+IL,1745993,place:IL:1745993,Madison city,Madison,Madison,17119,Madison County,Incorporated place,38.686289,-90.10179,1
+IL,1746058,place:IL:1746058,Maeystown village,Maeystown,Maeystown,17133,Monroe County,Incorporated place,38.229718,-90.231009,1
+IL,1746110,place:IL:1746110,Magnolia village,Magnolia,Magnolia,17155,Putnam County,Incorporated place,41.114078,-89.19575,1
+IL,1746136,place:IL:1746136,Mahomet village,Mahomet,Mahomet,17019,Champaign County,Incorporated place,40.190133,-88.389515,1
+IL,1746214,place:IL:1746214,Makanda village,Makanda,Makanda,17077,Jackson County,Incorporated place,37.620344,-89.23714,1
+IL,1746240,place:IL:1746240,Malden village,Malden,Malden,17011,Bureau County,Incorporated place,41.424978,-89.369806,1
+IL,1746279,place:IL:1746279,Malta village,Malta,Malta,17037,DeKalb County,Incorporated place,41.928459,-88.872847,1
+IL,1746331,place:IL:1746331,Manchester village,Manchester,Manchester,17171,Scott County,Incorporated place,39.542318,-90.330298,1
+IL,1746357,place:IL:1746357,Manhattan village,Manhattan,Manhattan,17197,Will County,Incorporated place,41.420177,-87.98072,1
+IL,1746383,place:IL:1746383,Manito village,Manito,Manito,17125,Mason County,Incorporated place,40.420091,-89.780609,1
+IL,1746422,place:IL:1746422,Manlius village,Manlius,Manlius,17011,Bureau County,Incorporated place,41.455613,-89.669155,1
+IL,1746487,place:IL:1746487,Mansfield village,Mansfield,Mansfield,17147,Piatt County,Incorporated place,40.212039,-88.508744,1
+IL,1746500,place:IL:1746500,Manteno village,Manteno,Manteno,17091,Kankakee County,Incorporated place,41.246107,-87.844932,1
+IL,1746604,place:IL:1746604,Maple Park village,Maple Park,Maple Park,17037,DeKalb County,Incorporated place,41.910779,-88.606056,1
+IL,1746643,place:IL:1746643,Mapleton village,Mapleton,Mapleton,17143,Peoria County,Incorporated place,40.573039,-89.724655,1
+IL,1746695,place:IL:1746695,Maquon village,Maquon,Maquon,17095,Knox County,Incorporated place,40.798029,-90.163176,1
+IL,1746734,place:IL:1746734,Marcelline CDP,Marcelline,Marcelline,17001,Adams County,Census-designated place,40.118506,-91.368301,1
+IL,1746786,place:IL:1746786,Marengo city,Marengo,Marengo,17111,McHenry County,Incorporated place,42.24655,-88.5975,1
+IL,1746825,place:IL:1746825,Marietta village,Marietta,Marietta,17057,Fulton County,Incorporated place,40.49945,-90.393016,1
+IL,1746864,place:IL:1746864,Marine village,Marine,Marine,17119,Madison County,Incorporated place,38.787359,-89.779078,1
+IL,1746916,place:IL:1746916,Marion city,Marion,Marion,17199,Williamson County,Incorporated place,37.734158,-88.944255,1
+IL,1746955,place:IL:1746955,Marissa village,Marissa,Marissa,17163,St. Clair County,Incorporated place,38.252671,-89.76931,1
+IL,1746981,place:IL:1746981,Mark village,Mark,Mark,17155,Putnam County,Incorporated place,41.262349,-89.255024,1
+IL,1747007,place:IL:1747007,Markham city,Markham,Markham,17031,Cook County,Incorporated place,41.600036,-87.690455,1
+IL,1747046,place:IL:1747046,Marley CDP,Marley,Marley,17197,Will County,Census-designated place,41.548225,-87.926043,1
+IL,1747072,place:IL:1747072,Maroa city,Maroa,Maroa,17115,Macon County,Incorporated place,40.036461,-88.956171,1
+IL,1747111,place:IL:1747111,Marquette Heights city,Marquette Heights,Marquette Heights,17179,Tazewell County,Incorporated place,40.618353,-89.604643,1
+IL,1747150,place:IL:1747150,Marseilles city,Marseilles,Marseilles,17099,LaSalle County,Incorporated place,41.318277,-88.67639,1
+IL,1747163,place:IL:1747163,Marshall city,Marshall,Marshall,17023,Clark County,Incorporated place,39.399449,-87.691197,1
+IL,1747254,place:IL:1747254,Martinsville city,Martinsville,Martinsville,17023,Clark County,Incorporated place,39.338421,-87.880862,1
+IL,1747280,place:IL:1747280,Martinton village,Martinton,Martinton,17075,Iroquois County,Incorporated place,40.915334,-87.726429,1
+IL,1747397,place:IL:1747397,Maryville village,Maryville,Maryville,17119,Madison County,Incorporated place,38.728931,-89.963819,1
+IL,1747423,place:IL:1747423,Mascoutah city,Mascoutah,Mascoutah,17163,St. Clair County,Incorporated place,38.518115,-89.800041,1
+IL,1747449,place:IL:1747449,Mason town,Mason,Mason,17049,Effingham County,Incorporated place,38.954328,-88.627068,1
+IL,1747475,place:IL:1747475,Mason City city,Mason City,Mason City,17125,Mason County,Incorporated place,40.202192,-89.697104,1
+IL,1747527,place:IL:1747527,Matherville village,Matherville,Matherville,17131,Mercer County,Incorporated place,41.259149,-90.605856,1
+IL,1747540,place:IL:1747540,Matteson village,Matteson,Matteson,17031,Cook County,Incorporated place,41.508871,-87.746044,1
+IL,1747553,place:IL:1747553,Mattoon city,Mattoon,Mattoon,17029,Coles County,Incorporated place,39.477833,-88.362225,1
+IL,1747592,place:IL:1747592,Maunie village,Maunie,Maunie,17193,White County,Incorporated place,38.035177,-88.045277,1
+IL,1747774,place:IL:1747774,Maywood village,Maywood,Maywood,17031,Cook County,Incorporated place,41.879777,-87.844184,1
+IL,1747787,place:IL:1747787,Mazon village,Mazon,Mazon,17063,Grundy County,Incorporated place,41.241461,-88.423101,1
+IL,1745525,place:IL:1745525,McClure village,McClure,McClure,17003,Alexander County,Incorporated place,37.309878,-89.430355,1
+IL,1745564,place:IL:1745564,McCook village,McCook,McCook,17031,Cook County,Incorporated place,41.798265,-87.841592,1
+IL,1745616,place:IL:1745616,McCullom Lake village,McCullom Lake,McCullom Lake,17111,McHenry County,Incorporated place,42.367699,-88.297366,1
+IL,1745694,place:IL:1745694,McHenry city,McHenry,McHenry,17111,McHenry County,Incorporated place,42.336278,-88.291519,1
+IL,1745811,place:IL:1745811,McLean village,McLean,McLean,17113,McLean County,Incorporated place,40.313579,-89.168606,1
+IL,1745824,place:IL:1745824,McLeansboro city,McLeansboro,McLeansboro,17065,Hamilton County,Incorporated place,38.090373,-88.539023,1
+IL,1745850,place:IL:1745850,McNabb village,McNabb,McNabb,17155,Putnam County,Incorporated place,41.17705,-89.209743,1
+IL,1748021,place:IL:1748021,Mechanicsburg village,Mechanicsburg,Mechanicsburg,17167,Sangamon County,Incorporated place,39.797083,-89.409865,1
+IL,1748073,place:IL:1748073,Media village,Media,Media,17071,Henderson County,Incorporated place,40.769449,-90.832651,1
+IL,1748138,place:IL:1748138,Medora village,Medora,Medora,17117,Macoupin County,Incorporated place,39.176524,-90.1414,1
+IL,1748242,place:IL:1748242,Melrose Park village,Melrose Park,Melrose Park,17031,Cook County,Incorporated place,41.902995,-87.863644,1
+IL,1748268,place:IL:1748268,Melvin village,Melvin,Melvin,17053,Ford County,Incorporated place,40.570964,-88.247,1
+IL,1748307,place:IL:1748307,Mendon village,Mendon,Mendon,17001,Adams County,Incorporated place,40.089183,-91.285784,1
+IL,1748333,place:IL:1748333,Mendota city,Mendota,Mendota,17099,LaSalle County,Incorporated place,41.556655,-89.100507,1
+IL,1748359,place:IL:1748359,Menominee village,Menominee,Menominee,17085,Jo Daviess County,Incorporated place,42.474683,-90.542894,1
+IL,1748424,place:IL:1748424,Meredosia village,Meredosia,Meredosia,17137,Morgan County,Incorporated place,39.831496,-90.557239,1
+IL,1748554,place:IL:1748554,Merrionette Park village,Merrionette Park,Merrionette Park,17031,Cook County,Incorporated place,41.681117,-87.701212,1
+IL,1748567,place:IL:1748567,Merritt CDP,Merritt,Merritt,17171,Scott County,Census-designated place,39.714869,-90.41572,1
+IL,1748606,place:IL:1748606,Metamora village,Metamora,Metamora,17203,Woodford County,Incorporated place,40.794964,-89.368401,1
+IL,1748632,place:IL:1748632,Metcalf village,Metcalf,Metcalf,17045,Edgar County,Incorporated place,39.800431,-87.807831,1
+IL,1748645,place:IL:1748645,Metropolis city,Metropolis,Metropolis,17127,Massac County,Incorporated place,37.149639,-88.687354,1
+IL,1748671,place:IL:1748671,Mettawa village,Mettawa,Mettawa,17097,Lake County,Incorporated place,42.243369,-87.921418,1
+IL,1748684,place:IL:1748684,Meyer CDP,Meyer,Meyer,17001,Adams County,Census-designated place,40.14825,-91.503601,1
+IL,1748853,place:IL:1748853,Middletown village,Middletown,Middletown,17107,Logan County,Incorporated place,40.099308,-89.590367,1
+IL,1748892,place:IL:1748892,Midlothian village,Midlothian,Midlothian,17031,Cook County,Incorporated place,41.625428,-87.724233,1
+IL,1749009,place:IL:1749009,Milan village,Milan,Milan,17161,Rock Island County,Incorporated place,41.435498,-90.56239,1
+IL,1749048,place:IL:1749048,Milford village,Milford,Milford,17075,Iroquois County,Incorporated place,40.627769,-87.696148,1
+IL,1749178,place:IL:1749178,Mill Creek village,Mill Creek,Mill Creek,17181,Union County,Incorporated place,37.340904,-89.253148,1
+IL,1749347,place:IL:1749347,Mill Shoals village,Mill Shoals,Mill Shoals,17193,White County,Incorporated place,38.249536,-88.345683,1
+IL,1749100,place:IL:1749100,Millbrook village,Millbrook,Millbrook,17093,Kendall County,Incorporated place,41.607055,-88.54538,1
+IL,1749191,place:IL:1749191,Milledgeville village,Milledgeville,Milledgeville,17015,Carroll County,Incorporated place,41.963665,-89.774695,1
+IL,1749243,place:IL:1749243,Millersburg CDP,Millersburg,Millersburg,17131,Mercer County,Census-designated place,41.240284,-90.81858,1
+IL,1749308,place:IL:1749308,Millington village,Millington,Millington,17099,LaSalle County,Incorporated place,41.560491,-88.604094,1
+IL,1749386,place:IL:1749386,Millstadt village,Millstadt,Millstadt,17163,St. Clair County,Incorporated place,38.450389,-90.086861,1
+IL,1749477,place:IL:1749477,Milton village,Milton,Milton,17149,Pike County,Incorporated place,39.564615,-90.649874,1
+IL,1749516,place:IL:1749516,Mineral village,Mineral,Mineral,17011,Bureau County,Incorporated place,41.38222,-89.83631,1
+IL,1749555,place:IL:1749555,Minier village,Minier,Minier,17179,Tazewell County,Incorporated place,40.433293,-89.313498,1
+IL,1749568,place:IL:1749568,Minonk city,Minonk,Minonk,17203,Woodford County,Incorporated place,40.910368,-89.038153,1
+IL,1749607,place:IL:1749607,Minooka village,Minooka,Minooka,17063,Grundy County,Incorporated place,41.450333,-88.277824,1
+IL,1749698,place:IL:1749698,Mitchell CDP,Mitchell,Mitchell,17119,Madison County,Census-designated place,38.763065,-90.081621,1
+IL,1749802,place:IL:1749802,Modesto village,Modesto,Modesto,17117,Macoupin County,Incorporated place,39.478863,-89.980332,1
+IL,1749854,place:IL:1749854,Mokena village,Mokena,Mokena,17197,Will County,Incorporated place,41.529863,-87.87771,1
+IL,1749867,place:IL:1749867,Moline city,Moline,Moline,17161,Rock Island County,Incorporated place,41.482333,-90.493407,1
+IL,1749893,place:IL:1749893,Momence city,Momence,Momence,17091,Kankakee County,Incorporated place,41.163576,-87.663504,1
+IL,1749945,place:IL:1749945,Monee village,Monee,Monee,17197,Will County,Incorporated place,41.418049,-87.750402,1
+IL,1750010,place:IL:1750010,Monmouth city,Monmouth,Monmouth,17187,Warren County,Incorporated place,40.914233,-90.643075,1
+IL,1750062,place:IL:1750062,Monroe Center village,Monroe Center,Monroe Center,17141,Ogle County,Incorporated place,42.099934,-88.994399,1
+IL,1750218,place:IL:1750218,Montgomery village,Montgomery,Montgomery,17093,Kendall County,Incorporated place,41.720778,-88.36191,1
+IL,1750244,place:IL:1750244,Monticello city,Monticello,Monticello,17147,Piatt County,Incorporated place,40.033545,-88.574111,1
+IL,1750283,place:IL:1750283,Montrose village,Montrose,Montrose,17049,Effingham County,Incorporated place,39.166026,-88.378046,1
+IL,1750452,place:IL:1750452,Moro CDP,Moro,Moro,17119,Madison County,Census-designated place,38.925152,-90.02636,1
+IL,1750491,place:IL:1750491,Morris city,Morris,Morris,17063,Grundy County,Incorporated place,41.380217,-88.42432,1
+IL,1750530,place:IL:1750530,Morrison city,Morrison,Morrison,17195,Whiteside County,Incorporated place,41.807651,-89.961639,1
+IL,1750543,place:IL:1750543,Morrisonville village,Morrisonville,Morrisonville,17021,Christian County,Incorporated place,39.421668,-89.459007,1
+IL,1750621,place:IL:1750621,Morton village,Morton,Morton,17179,Tazewell County,Incorporated place,40.61373,-89.4668,1
+IL,1750647,place:IL:1750647,Morton Grove village,Morton Grove,Morton Grove,17031,Cook County,Incorporated place,42.042321,-87.789012,1
+IL,1750699,place:IL:1750699,Mossville CDP,Mossville,Mossville,17143,Peoria County,Census-designated place,40.8171,-89.570352,1
+IL,1750751,place:IL:1750751,Mound City city,Mound City,Mound City,17153,Pulaski County,Incorporated place,37.085676,-89.163005,1
+IL,1750790,place:IL:1750790,Mound Station village,Mound Station,Mound Station,17009,Brown County,Incorporated place,40.006596,-90.873729,1
+IL,1750777,place:IL:1750777,Mounds city,Mounds,Mounds,17153,Pulaski County,Incorporated place,37.115371,-89.202439,1
+IL,1750829,place:IL:1750829,Mount Auburn village,Mount Auburn,Mount Auburn,17021,Christian County,Incorporated place,39.765376,-89.25927,1
+IL,1750868,place:IL:1750868,Mount Carmel city,Mount Carmel,Mount Carmel,17185,Wabash County,Incorporated place,38.419047,-87.769792,1
+IL,1750881,place:IL:1750881,Mount Carroll city,Mount Carroll,Mount Carroll,17015,Carroll County,Incorporated place,42.094787,-89.976908,1
+IL,1750920,place:IL:1750920,Mount Clare village,Mount Clare,Mount Clare,17117,Macoupin County,Incorporated place,39.097292,-89.833673,1
+IL,1750933,place:IL:1750933,Mount Erie village,Mount Erie,Mount Erie,17191,Wayne County,Incorporated place,38.514641,-88.232391,1
+IL,1750998,place:IL:1750998,Mount Morris village,Mount Morris,Mount Morris,17141,Ogle County,Incorporated place,42.048345,-89.429328,1
+IL,1751024,place:IL:1751024,Mount Olive city,Mount Olive,Mount Olive,17117,Macoupin County,Incorporated place,39.072656,-89.727885,1
+IL,1751089,place:IL:1751089,Mount Prospect village,Mount Prospect,Mount Prospect,17031,Cook County,Incorporated place,42.06473,-87.939721,1
+IL,1751128,place:IL:1751128,Mount Pulaski city,Mount Pulaski,Mount Pulaski,17107,Logan County,Incorporated place,40.010101,-89.283758,1
+IL,1751154,place:IL:1751154,Mount Sterling city,Mount Sterling,Mount Sterling,17009,Brown County,Incorporated place,39.985888,-90.764643,1
+IL,1751180,place:IL:1751180,Mount Vernon city,Mount Vernon,Mount Vernon,17081,Jefferson County,Incorporated place,38.314205,-88.91747,1
+IL,1751206,place:IL:1751206,Mount Zion village,Mount Zion,Mount Zion,17115,Macon County,Incorporated place,39.784016,-88.885011,1
+IL,1751232,place:IL:1751232,Moweaqua village,Moweaqua,Moweaqua,17173,Shelby County,Incorporated place,39.625792,-89.021418,1
+IL,1751271,place:IL:1751271,Muddy village,Muddy,Muddy,17165,Saline County,Incorporated place,37.766811,-88.513894,1
+IL,1751284,place:IL:1751284,Mulberry Grove village,Mulberry Grove,Mulberry Grove,17005,Bond County,Incorporated place,38.925269,-89.261955,1
+IL,1751310,place:IL:1751310,Mulkeytown CDP,Mulkeytown,Mulkeytown,17055,Franklin County,Census-designated place,37.973869,-89.108467,1
+IL,1751336,place:IL:1751336,Muncie village,Muncie,Muncie,17183,Vermilion County,Incorporated place,40.116053,-87.842964,1
+IL,1751349,place:IL:1751349,Mundelein village,Mundelein,Mundelein,17097,Lake County,Incorporated place,42.273352,-88.016174,1
+IL,1751453,place:IL:1751453,Murphysboro city,Murphysboro,Murphysboro,17077,Jackson County,Incorporated place,37.767183,-89.33241,1
+IL,1751479,place:IL:1751479,Murrayville village,Murrayville,Murrayville,17137,Morgan County,Incorporated place,39.581771,-90.25176,1
+IL,1751544,place:IL:1751544,Nachusa CDP,Nachusa,Nachusa,17103,Lee County,Census-designated place,41.833936,-89.385764,1
+IL,1751622,place:IL:1751622,Naperville city,Naperville,Naperville,17043,DuPage County,Incorporated place,41.749173,-88.162019,1
+IL,1751648,place:IL:1751648,Naplate village,Naplate,Naplate,17099,LaSalle County,Incorporated place,41.331529,-88.880205,1
+IL,1751661,place:IL:1751661,Naples town,Naples,Naples,17171,Scott County,Incorporated place,39.753456,-90.606908,1
+IL,1751700,place:IL:1751700,Nashville city,Nashville,Nashville,17189,Washington County,Incorporated place,38.344542,-89.390983,1
+IL,1751726,place:IL:1751726,Nason city,Nason,Nason,17081,Jefferson County,Incorporated place,38.176022,-88.966263,1
+IL,1751791,place:IL:1751791,Nauvoo city,Nauvoo,Nauvoo,17067,Hancock County,Incorporated place,40.544534,-91.382815,1
+IL,1751882,place:IL:1751882,Nebo village,Nebo,Nebo,17149,Pike County,Incorporated place,39.442062,-90.788169,1
+IL,1751934,place:IL:1751934,Nekoma CDP,Nekoma,Nekoma,17073,Henry County,Census-designated place,41.171901,-90.191047,1
+IL,1751947,place:IL:1751947,Nelson village,Nelson,Nelson,17103,Lee County,Incorporated place,41.796268,-89.60748,1
+IL,1751986,place:IL:1751986,Neoga city,Neoga,Neoga,17035,Cumberland County,Incorporated place,39.321642,-88.450295,1
+IL,1751999,place:IL:1751999,Neponset village,Neponset,Neponset,17011,Bureau County,Incorporated place,41.29674,-89.789552,1
+IL,1752116,place:IL:1752116,New Athens village,New Athens,New Athens,17163,St. Clair County,Incorporated place,38.318935,-89.873618,1
+IL,1752142,place:IL:1752142,New Baden village,New Baden,New Baden,17163,St. Clair County,Incorporated place,38.536786,-89.707263,1
+IL,1752155,place:IL:1752155,New Bedford village,New Bedford,New Bedford,17011,Bureau County,Incorporated place,41.511512,-89.718194,1
+IL,1752168,place:IL:1752168,New Berlin village,New Berlin,New Berlin,17167,Sangamon County,Incorporated place,39.726059,-89.914353,1
+IL,1752220,place:IL:1752220,New Boston city,New Boston,New Boston,17131,Mercer County,Incorporated place,41.17036,-90.9998,1
+IL,1752285,place:IL:1752285,New Burnside village,New Burnside,New Burnside,17087,Johnson County,Incorporated place,37.578216,-88.773281,1
+IL,1752311,place:IL:1752311,New Canton town,New Canton,New Canton,17149,Pike County,Incorporated place,39.637079,-91.098323,1
+IL,1752415,place:IL:1752415,New Douglas village,New Douglas,New Douglas,17119,Madison County,Incorporated place,38.968795,-89.667872,1
+IL,1752467,place:IL:1752467,New Grand Chain village,New Grand Chain,New Grand Chain,17153,Pulaski County,Incorporated place,37.256384,-89.018628,1
+IL,1752506,place:IL:1752506,New Haven village,New Haven,New Haven,17059,Gallatin County,Incorporated place,37.898433,-88.126763,1
+IL,1752545,place:IL:1752545,New Holland village,New Holland,New Holland,17107,Logan County,Incorporated place,40.183471,-89.582412,1
+IL,1752584,place:IL:1752584,New Lenox village,New Lenox,New Lenox,17197,Will County,Incorporated place,41.50957,-87.970555,1
+IL,1752701,place:IL:1752701,New Milford village,New Milford,New Milford,17201,Winnebago County,Incorporated place,42.168879,-89.051297,1
+IL,1752714,place:IL:1752714,New Minden village,New Minden,New Minden,17189,Washington County,Incorporated place,38.438033,-89.370419,1
+IL,1752805,place:IL:1752805,New Salem village,New Salem,New Salem,17149,Pike County,Incorporated place,39.707644,-90.847859,1
+IL,1752103,place:IL:1752103,Newark village,Newark,Newark,17093,Kendall County,Incorporated place,41.536594,-88.580562,1
+IL,1752623,place:IL:1752623,Newman city,Newman,Newman,17041,Douglas County,Incorporated place,39.796957,-87.987728,1
+IL,1752844,place:IL:1752844,Newton city,Newton,Newton,17079,Jasper County,Incorporated place,38.987278,-88.164515,1
+IL,1752961,place:IL:1752961,Niantic village,Niantic,Niantic,17115,Macon County,Incorporated place,39.854066,-89.165261,1
+IL,1753000,place:IL:1753000,Niles village,Niles,Niles,17031,Cook County,Incorporated place,42.027862,-87.809973,1
+IL,1753039,place:IL:1753039,Nilwood village,Nilwood,Nilwood,17117,Macoupin County,Incorporated place,39.399506,-89.807736,1
+IL,1753078,place:IL:1753078,Niota CDP,Niota,Niota,17067,Hancock County,Census-designated place,40.614409,-91.287715,1
+IL,1753143,place:IL:1753143,Noble village,Noble,Noble,17159,Richland County,Incorporated place,38.698126,-88.218784,1
+IL,1753169,place:IL:1753169,Nokomis city,Nokomis,Nokomis,17135,Montgomery County,Incorporated place,39.300255,-89.285547,1
+IL,1753195,place:IL:1753195,Nora village,Nora,Nora,17085,Jo Daviess County,Incorporated place,42.456483,-89.94591,1
+IL,1753234,place:IL:1753234,Normal town,Normal,Normal,17113,McLean County,Incorporated place,40.52014,-88.992234,1
+IL,1753377,place:IL:1753377,Norridge village,Norridge,Norridge,17031,Cook County,Incorporated place,41.963726,-87.823192,1
+IL,1753390,place:IL:1753390,Norris village,Norris,Norris,17057,Fulton County,Incorporated place,40.625778,-90.031987,1
+IL,1753403,place:IL:1753403,Norris City village,Norris City,Norris City,17193,White County,Incorporated place,37.978727,-88.327941,1
+IL,1753442,place:IL:1753442,North Aurora village,North Aurora,North Aurora,17089,Kane County,Incorporated place,41.808736,-88.341981,1
+IL,1753455,place:IL:1753455,North Barrington village,North Barrington,North Barrington,17097,Lake County,Incorporated place,42.206923,-88.128884,1
+IL,1753559,place:IL:1753559,North Chicago city,North Chicago,North Chicago,17097,Lake County,Incorporated place,42.316696,-87.859201,1
+IL,1753585,place:IL:1753585,North City village,North City,North City,17055,Franklin County,Incorporated place,37.991159,-89.063935,1
+IL,1753793,place:IL:1753793,North Henderson village,North Henderson,North Henderson,17131,Mercer County,Incorporated place,41.090378,-90.474821,1
+IL,1754092,place:IL:1754092,North Pekin village,North Pekin,North Pekin,17179,Tazewell County,Incorporated place,40.613271,-89.620678,1
+IL,1754144,place:IL:1754144,North Riverside village,North Riverside,North Riverside,17031,Cook County,Incorporated place,41.846142,-87.826283,1
+IL,1754222,place:IL:1754222,North Utica village,North Utica,North Utica,17099,LaSalle County,Incorporated place,41.353621,-89.019605,1
+IL,1753481,place:IL:1753481,Northbrook village,Northbrook,Northbrook,17031,Cook County,Incorporated place,42.128745,-87.835162,1
+IL,1753663,place:IL:1753663,Northfield village,Northfield,Northfield,17031,Cook County,Incorporated place,42.103267,-87.777192,1
+IL,1753871,place:IL:1753871,Northlake city,Northlake,Northlake,17031,Cook County,Incorporated place,41.914317,-87.905483,1
+IL,1754404,place:IL:1754404,Norwood village,Norwood,Norwood,17143,Peoria County,Incorporated place,40.707809,-89.699548,1
+IL,1755249,place:IL:1755249,O'Fallon city,O'Fallon,O'Fallon,17163,St. Clair County,Incorporated place,38.600006,-89.915402,1
+IL,1754534,place:IL:1754534,Oak Brook village,Oak Brook,Oak Brook,17043,DuPage County,Incorporated place,41.836395,-87.953173,1
+IL,1754638,place:IL:1754638,Oak Forest city,Oak Forest,Oak Forest,17031,Cook County,Incorporated place,41.60668,-87.753299,1
+IL,1754703,place:IL:1754703,Oak Grove village,Oak Grove,Oak Grove,17161,Rock Island County,Incorporated place,41.411933,-90.574166,1
+IL,1754820,place:IL:1754820,Oak Lawn village,Oak Lawn,Oak Lawn,17031,Cook County,Incorporated place,41.713885,-87.752777,1
+IL,1754885,place:IL:1754885,Oak Park village,Oak Park,Oak Park,17031,Cook County,Incorporated place,41.887164,-87.78994,1
+IL,1754924,place:IL:1754924,Oak Run CDP,Oak Run,Oak Run,17095,Knox County,Census-designated place,40.95988,-90.130113,1
+IL,1754560,place:IL:1754560,Oakbrook Terrace city,Oakbrook Terrace,Oakbrook Terrace,17043,DuPage County,Incorporated place,41.85356,-87.969023,1
+IL,1754586,place:IL:1754586,Oakdale village,Oakdale,Oakdale,17189,Washington County,Incorporated place,38.264832,-89.503487,1
+IL,1754625,place:IL:1754625,Oakford village,Oakford,Oakford,17129,Menard County,Incorporated place,40.100906,-89.96526,1
+IL,1754781,place:IL:1754781,Oakland city,Oakland,Oakland,17029,Coles County,Incorporated place,39.65782,-88.027858,1
+IL,1755002,place:IL:1755002,Oakwood village,Oakwood,Oakwood,17183,Vermilion County,Incorporated place,40.110126,-87.776925,1
+IL,1755041,place:IL:1755041,Oakwood Hills village,Oakwood Hills,Oakwood Hills,17111,McHenry County,Incorporated place,42.248087,-88.240012,1
+IL,1755106,place:IL:1755106,Oblong village,Oblong,Oblong,17033,Crawford County,Incorporated place,39.002301,-87.910526,1
+IL,1755132,place:IL:1755132,Oconee village,Oconee,Oconee,17173,Shelby County,Incorporated place,39.286306,-89.10661,1
+IL,1755171,place:IL:1755171,Odell village,Odell,Odell,17105,Livingston County,Incorporated place,41.002333,-88.523494,1
+IL,1755210,place:IL:1755210,Odin village,Odin,Odin,17121,Marion County,Incorporated place,38.615868,-89.054077,1
+IL,1755275,place:IL:1755275,Ogden village,Ogden,Ogden,17019,Champaign County,Incorporated place,40.115082,-87.956319,1
+IL,1755353,place:IL:1755353,Oglesby city,Oglesby,Oglesby,17099,LaSalle County,Incorporated place,41.29321,-89.071036,1
+IL,1755379,place:IL:1755379,Ohio village,Ohio,Ohio,17011,Bureau County,Incorporated place,41.556089,-89.459809,1
+IL,1755418,place:IL:1755418,Ohlman village,Ohlman,Ohlman,17135,Montgomery County,Incorporated place,39.343388,-89.218534,1
+IL,1755470,place:IL:1755470,Okawville village,Okawville,Okawville,17189,Washington County,Incorporated place,38.434417,-89.547978,1
+IL,1755639,place:IL:1755639,Old Mill Creek village,Old Mill Creek,Old Mill Creek,17097,Lake County,Incorporated place,42.433133,-87.9822,1
+IL,1755717,place:IL:1755717,Old Ripley village,Old Ripley,Old Ripley,17005,Bond County,Incorporated place,38.892744,-89.572087,1
+IL,1755756,place:IL:1755756,Old Shawneetown village,Old Shawneetown,Old Shawneetown,17059,Gallatin County,Incorporated place,37.697103,-88.138934,1
+IL,1755847,place:IL:1755847,Olive Branch CDP,Olive Branch,Olive Branch,17003,Alexander County,Census-designated place,37.183658,-89.349516,1
+IL,1755886,place:IL:1755886,Olivet CDP,Olivet,Olivet,17183,Vermilion County,Census-designated place,39.946076,-87.639636,1
+IL,1755899,place:IL:1755899,Olmsted village,Olmsted,Olmsted,17153,Pulaski County,Incorporated place,37.182358,-89.083976,1
+IL,1755912,place:IL:1755912,Olney city,Olney,Olney,17159,Richland County,Incorporated place,38.728108,-88.084219,1
+IL,1755938,place:IL:1755938,Olympia Fields village,Olympia Fields,Olympia Fields,17031,Cook County,Incorporated place,41.522432,-87.69137,1
+IL,1756003,place:IL:1756003,Omaha village,Omaha,Omaha,17059,Gallatin County,Incorporated place,37.889747,-88.306413,1
+IL,1756081,place:IL:1756081,Onarga village,Onarga,Onarga,17075,Iroquois County,Incorporated place,40.715308,-88.010822,1
+IL,1756159,place:IL:1756159,Oneida city,Oneida,Oneida,17095,Knox County,Incorporated place,41.07217,-90.224705,1
+IL,1756198,place:IL:1756198,Opdyke CDP,Opdyke,Opdyke,17081,Jefferson County,Census-designated place,38.258245,-88.78981,1
+IL,1756211,place:IL:1756211,Ophiem CDP,Ophiem,Ophiem,17073,Henry County,Census-designated place,41.253767,-90.3827,1
+IL,1756237,place:IL:1756237,Oquawka village,Oquawka,Oquawka,17071,Henderson County,Incorporated place,40.937519,-90.949509,1
+IL,1756341,place:IL:1756341,Orangeville village,Orangeville,Orangeville,17177,Stephenson County,Incorporated place,42.465789,-89.646857,1
+IL,1756471,place:IL:1756471,Oreana village,Oreana,Oreana,17115,Macon County,Incorporated place,39.937822,-88.868489,1
+IL,1756484,place:IL:1756484,Oregon city,Oregon,Oregon,17141,Ogle County,Incorporated place,42.012703,-89.335773,1
+IL,1756536,place:IL:1756536,Orient city,Orient,Orient,17055,Franklin County,Incorporated place,37.917551,-88.978331,1
+IL,1756601,place:IL:1756601,Orion village,Orion,Orion,17073,Henry County,Incorporated place,41.351475,-90.376295,1
+IL,1756627,place:IL:1756627,Orland Hills village,Orland Hills,Orland Hills,17031,Cook County,Incorporated place,41.592214,-87.83792,1
+IL,1756640,place:IL:1756640,Orland Park village,Orland Park,Orland Park,17031,Cook County,Incorporated place,41.608145,-87.85929,1
+IL,1756796,place:IL:1756796,Osco CDP,Osco,Osco,17073,Henry County,Census-designated place,41.346566,-90.282802,1
+IL,1756887,place:IL:1756887,Oswego village,Oswego,Oswego,17093,Kendall County,Incorporated place,41.684708,-88.336079,1
+IL,1756926,place:IL:1756926,Ottawa city,Ottawa,Ottawa,17099,LaSalle County,Incorporated place,41.354046,-88.823408,1
+IL,1756978,place:IL:1756978,Otterville town,Otterville,Otterville,17083,Jersey County,Incorporated place,39.050781,-90.398433,1
+IL,1757043,place:IL:1757043,Owaneco village,Owaneco,Owaneco,17021,Christian County,Incorporated place,39.481426,-89.194865,1
+IL,1757121,place:IL:1757121,Oxville CDP,Oxville,Oxville,17171,Scott County,Census-designated place,39.705388,-90.560395,1
+IL,1757160,place:IL:1757160,Paderborn CDP,Paderborn,Paderborn,17163,St. Clair County,Census-designated place,38.35943,-90.046929,1
+IL,1757225,place:IL:1757225,Palatine village,Palatine,Palatine,17031,Cook County,Incorporated place,42.116467,-88.044361,1
+IL,1757277,place:IL:1757277,Palestine village,Palestine,Palestine,17033,Crawford County,Incorporated place,39.001621,-87.612584,1
+IL,1757303,place:IL:1757303,Palmer village,Palmer,Palmer,17021,Christian County,Incorporated place,39.458677,-89.407923,1
+IL,1757329,place:IL:1757329,Palmyra village,Palmyra,Palmyra,17117,Macoupin County,Incorporated place,39.434497,-89.995913,1
+IL,1757342,place:IL:1757342,Paloma CDP,Paloma,Paloma,17001,Adams County,Census-designated place,40.023707,-91.198609,1
+IL,1757381,place:IL:1757381,Palos Heights city,Palos Heights,Palos Heights,17031,Cook County,Incorporated place,41.66265,-87.794126,1
+IL,1757394,place:IL:1757394,Palos Hills city,Palos Hills,Palos Hills,17031,Cook County,Incorporated place,41.700681,-87.825297,1
+IL,1757407,place:IL:1757407,Palos Park village,Palos Park,Palos Park,17031,Cook County,Incorporated place,41.658197,-87.850404,1
+IL,1757472,place:IL:1757472,Pana city,Pana,Pana,17021,Christian County,Incorporated place,39.394604,-89.090809,1
+IL,1757498,place:IL:1757498,Panama village,Panama,Panama,17135,Montgomery County,Incorporated place,39.028682,-89.523595,1
+IL,1757524,place:IL:1757524,Panola village,Panola,Panola,17203,Woodford County,Incorporated place,40.782841,-89.020247,1
+IL,1757576,place:IL:1757576,Papineau village,Papineau,Papineau,17075,Iroquois County,Incorporated place,40.967705,-87.716265,1
+IL,1757628,place:IL:1757628,Paris city,Paris,Paris,17045,Edgar County,Incorporated place,39.61428,-87.692606,1
+IL,1757654,place:IL:1757654,Park City city,Park City,Park City,17097,Lake County,Incorporated place,42.353666,-87.892381,1
+IL,1757732,place:IL:1757732,Park Forest village,Park Forest,Park Forest,17031,Cook County,Incorporated place,41.481679,-87.686797,1
+IL,1757875,place:IL:1757875,Park Ridge city,Park Ridge,Park Ridge,17031,Cook County,Incorporated place,42.011762,-87.843434,1
+IL,1757693,place:IL:1757693,Parkersburg village,Parkersburg,Parkersburg,17159,Richland County,Incorporated place,38.589127,-88.056828,1
+IL,1758057,place:IL:1758057,Patoka village,Patoka,Patoka,17121,Marion County,Incorporated place,38.754069,-89.095818,1
+IL,1758226,place:IL:1758226,Paw Paw village,Paw Paw,Paw Paw,17103,Lee County,Incorporated place,41.688243,-88.979805,1
+IL,1758174,place:IL:1758174,Pawnee village,Pawnee,Pawnee,17167,Sangamon County,Incorporated place,39.593652,-89.584623,1
+IL,1758239,place:IL:1758239,Paxton city,Paxton,Paxton,17053,Ford County,Incorporated place,40.456293,-88.103399,1
+IL,1758265,place:IL:1758265,Payson village,Payson,Payson,17001,Adams County,Incorporated place,39.816941,-91.244322,1
+IL,1758343,place:IL:1758343,Pearl village,Pearl,Pearl,17149,Pike County,Incorporated place,39.462673,-90.619677,1
+IL,1758369,place:IL:1758369,Pearl City village,Pearl City,Pearl City,17177,Stephenson County,Incorporated place,42.266179,-89.827185,1
+IL,1758408,place:IL:1758408,Pecatonica village,Pecatonica,Pecatonica,17201,Winnebago County,Incorporated place,42.308977,-89.357243,1
+IL,1758447,place:IL:1758447,Pekin city,Pekin,Pekin,17179,Tazewell County,Incorporated place,40.568757,-89.625115,1
+IL,1758577,place:IL:1758577,Penfield CDP,Penfield,Penfield,17019,Champaign County,Census-designated place,40.3047,-87.944307,1
+IL,1759000,place:IL:1759000,Peoria city,Peoria,Peoria,17143,Peoria County,Incorporated place,40.751645,-89.617205,1
+IL,1759026,place:IL:1759026,Peoria Heights village,Peoria Heights,Peoria Heights,17143,Peoria County,Incorporated place,40.746696,-89.570031,1
+IL,1759052,place:IL:1759052,Peotone village,Peotone,Peotone,17197,Will County,Incorporated place,41.330733,-87.796345,1
+IL,1759104,place:IL:1759104,Percy village,Percy,Percy,17157,Randolph County,Incorporated place,38.014674,-89.618105,1
+IL,1759156,place:IL:1759156,Perry village,Perry,Perry,17149,Pike County,Incorporated place,39.782195,-90.747296,1
+IL,1759234,place:IL:1759234,Peru city,Peru,Peru,17099,LaSalle County,Incorporated place,41.356905,-89.138896,1
+IL,1759273,place:IL:1759273,Pesotum village,Pesotum,Pesotum,17019,Champaign County,Incorporated place,39.911242,-88.276883,1
+IL,1759312,place:IL:1759312,Petersburg city,Petersburg,Petersburg,17129,Menard County,Incorporated place,40.014288,-89.845331,1
+IL,1759520,place:IL:1759520,Phillipstown village,Phillipstown,Phillipstown,17193,White County,Incorporated place,38.142881,-88.018108,1
+IL,1759533,place:IL:1759533,Philo village,Philo,Philo,17019,Champaign County,Incorporated place,40.003336,-88.156388,1
+IL,1759572,place:IL:1759572,Phoenix village,Phoenix,Phoenix,17031,Cook County,Incorporated place,41.611781,-87.630852,1
+IL,1759709,place:IL:1759709,Pierron village,Pierron,Pierron,17005,Bond County,Incorporated place,38.779156,-89.591824,1
+IL,1759884,place:IL:1759884,Pinckneyville city,Pinckneyville,Pinckneyville,17145,Perry County,Incorporated place,38.086072,-89.327036,1
+IL,1759988,place:IL:1759988,Pingree Grove village,Pingree Grove,Pingree Grove,17089,Kane County,Incorporated place,42.086647,-88.432448,1
+IL,1760079,place:IL:1760079,Piper City village,Piper City,Piper City,17053,Ford County,Incorporated place,40.756139,-88.188933,1
+IL,1760144,place:IL:1760144,Pistakee Highlands CDP,Pistakee Highlands,Pistakee Highlands,17111,McHenry County,Census-designated place,42.400068,-88.211243,1
+IL,1760209,place:IL:1760209,Pittsburg village,Pittsburg,Pittsburg,17199,Williamson County,Incorporated place,37.776593,-88.850213,1
+IL,1760222,place:IL:1760222,Pittsfield city,Pittsfield,Pittsfield,17149,Pike County,Incorporated place,39.600547,-90.81014,1
+IL,1760287,place:IL:1760287,Plainfield village,Plainfield,Plainfield,17197,Will County,Incorporated place,41.629436,-88.245648,1
+IL,1760339,place:IL:1760339,Plainville village,Plainville,Plainville,17001,Adams County,Incorporated place,39.784765,-91.181649,1
+IL,1760352,place:IL:1760352,Plano city,Plano,Plano,17093,Kendall County,Incorporated place,41.681533,-88.533084,1
+IL,1760391,place:IL:1760391,Plattville village,Plattville,Plattville,17093,Kendall County,Incorporated place,41.534259,-88.383592,1
+IL,1760534,place:IL:1760534,Pleasant Hill village,Pleasant Hill,Pleasant Hill,17149,Pike County,Incorporated place,39.44323,-90.872883,1
+IL,1760599,place:IL:1760599,Pleasant Plains village,Pleasant Plains,Pleasant Plains,17167,Sangamon County,Incorporated place,39.874771,-89.918832,1
+IL,1760826,place:IL:1760826,Plum Valley CDP,Plum Valley,Plum Valley,17197,Will County,Census-designated place,41.461075,-87.544237,1
+IL,1760833,place:IL:1760833,Plymouth village,Plymouth,Plymouth,17067,Hancock County,Incorporated place,40.292148,-90.91626,1
+IL,1760872,place:IL:1760872,Pocahontas village,Pocahontas,Pocahontas,17005,Bond County,Incorporated place,38.824391,-89.538758,1
+IL,1760937,place:IL:1760937,Polo city,Polo,Polo,17141,Ogle County,Incorporated place,41.984849,-89.580431,1
+IL,1761015,place:IL:1761015,Pontiac city,Pontiac,Pontiac,17105,Livingston County,Incorporated place,40.889426,-88.641481,1
+IL,1761067,place:IL:1761067,Pontoon Beach village,Pontoon Beach,Pontoon Beach,17119,Madison County,Incorporated place,38.720697,-90.050138,1
+IL,1761080,place:IL:1761080,Pontoosuc village,Pontoosuc,Pontoosuc,17067,Hancock County,Incorporated place,40.628606,-91.210663,1
+IL,1761145,place:IL:1761145,Poplar Grove village,Poplar Grove,Poplar Grove,17007,Boone County,Incorporated place,42.349077,-88.841758,1
+IL,1761216,place:IL:1761216,Port Barrington village,Port Barrington,Port Barrington,17097,Lake County,Incorporated place,42.244225,-88.195153,1
+IL,1761223,place:IL:1761223,Port Byron village,Port Byron,Port Byron,17161,Rock Island County,Incorporated place,41.624301,-90.330179,1
+IL,1761314,place:IL:1761314,Posen village,Posen,Posen,17031,Cook County,Incorporated place,41.629067,-87.685842,1
+IL,1761366,place:IL:1761366,Potomac village,Potomac,Potomac,17183,Vermilion County,Incorporated place,40.306741,-87.797601,1
+IL,1761548,place:IL:1761548,Prairie City village,Prairie City,Prairie City,17109,McDonough County,Incorporated place,40.620987,-90.464884,1
+IL,1761639,place:IL:1761639,Prairie du Rocher village,Prairie du Rocher,Prairie du Rocher,17157,Randolph County,Incorporated place,38.081708,-90.097565,1
+IL,1761678,place:IL:1761678,Prairie Grove village,Prairie Grove,Prairie Grove,17111,McHenry County,Incorporated place,42.27386,-88.269882,1
+IL,1761743,place:IL:1761743,Prairietown CDP,Prairietown,Prairietown,17119,Madison County,Census-designated place,38.966485,-89.92345,1
+IL,1761782,place:IL:1761782,Preemption CDP,Preemption,Preemption,17131,Mercer County,Census-designated place,41.313094,-90.578726,1
+IL,1761821,place:IL:1761821,Prestbury CDP,Prestbury,Prestbury,17089,Kane County,Census-designated place,41.785962,-88.423989,1
+IL,1761860,place:IL:1761860,Preston Heights CDP,Preston Heights,Preston Heights,17197,Will County,Census-designated place,41.495313,-88.080865,1
+IL,1761899,place:IL:1761899,Princeton city,Princeton,Princeton,17011,Bureau County,Incorporated place,41.380507,-89.464129,1
+IL,1761925,place:IL:1761925,Princeville village,Princeville,Princeville,17143,Peoria County,Incorporated place,40.93475,-89.754709,1
+IL,1761977,place:IL:1761977,Prophetstown city,Prophetstown,Prophetstown,17195,Whiteside County,Incorporated place,41.670325,-89.935153,1
+IL,1762016,place:IL:1762016,Prospect Heights city,Prospect Heights,Prospect Heights,17031,Cook County,Incorporated place,42.103663,-87.928972,1
+IL,1762211,place:IL:1762211,Pulaski village,Pulaski,Pulaski,17153,Pulaski County,Incorporated place,37.220853,-89.206564,1
+IL,1762367,place:IL:1762367,Quincy city,Quincy,Quincy,17001,Adams County,Incorporated place,39.933675,-91.379304,1
+IL,1762523,place:IL:1762523,Radom village,Radom,Radom,17189,Washington County,Incorporated place,38.27984,-89.192113,1
+IL,1762588,place:IL:1762588,Raleigh village,Raleigh,Raleigh,17165,Saline County,Incorporated place,37.824446,-88.531196,1
+IL,1762627,place:IL:1762627,Ramsey village,Ramsey,Ramsey,17051,Fayette County,Incorporated place,39.145659,-89.110269,1
+IL,1762744,place:IL:1762744,Rankin village,Rankin,Rankin,17183,Vermilion County,Incorporated place,40.464391,-87.895913,1
+IL,1762757,place:IL:1762757,Ransom village,Ransom,Ransom,17099,LaSalle County,Incorporated place,41.158562,-88.654186,1
+IL,1762783,place:IL:1762783,Rantoul village,Rantoul,Rantoul,17019,Champaign County,Incorporated place,40.302557,-88.154901,1
+IL,1762822,place:IL:1762822,Rapids City village,Rapids City,Rapids City,17161,Rock Island County,Incorporated place,41.578608,-90.339848,1
+IL,1762848,place:IL:1762848,Raritan village,Raritan,Raritan,17071,Henderson County,Incorporated place,40.695781,-90.825065,1
+IL,1762965,place:IL:1762965,Raymond village,Raymond,Raymond,17135,Montgomery County,Incorporated place,39.31976,-89.574547,1
+IL,1763043,place:IL:1763043,Red Bud city,Red Bud,Red Bud,17157,Randolph County,Incorporated place,38.207482,-90.002389,1
+IL,1763056,place:IL:1763056,Reddick village,Reddick,Reddick,17091,Kankakee County,Incorporated place,41.098399,-88.248545,1
+IL,1763069,place:IL:1763069,Redmon village,Redmon,Redmon,17045,Edgar County,Incorporated place,39.644787,-87.861524,1
+IL,1763355,place:IL:1763355,Rentchler CDP,Rentchler,Rentchler,17163,St. Clair County,Census-designated place,38.49252,-89.868677,1
+IL,1763382,place:IL:1763382,Rest Haven CDP,Rest Haven,Rest Haven,17197,Will County,Census-designated place,41.258285,-88.12973,1
+IL,1763420,place:IL:1763420,Reynolds village,Reynolds,Reynolds,17161,Rock Island County,Incorporated place,41.33181,-90.67222,1
+IL,1763537,place:IL:1763537,Richfield CDP,Richfield,Richfield,17001,Adams County,Census-designated place,39.814073,-91.115765,1
+IL,1763641,place:IL:1763641,Richmond village,Richmond,Richmond,17111,McHenry County,Incorporated place,42.463803,-88.309399,1
+IL,1763706,place:IL:1763706,Richton Park village,Richton Park,Richton Park,17031,Cook County,Incorporated place,41.480183,-87.742531,1
+IL,1763719,place:IL:1763719,Richview village,Richview,Richview,17189,Washington County,Incorporated place,38.375878,-89.180262,1
+IL,1763862,place:IL:1763862,Ridge Farm village,Ridge Farm,Ridge Farm,17183,Vermilion County,Incorporated place,39.895722,-87.651961,1
+IL,1763875,place:IL:1763875,Ridgefield CDP,Ridgefield,Ridgefield,17111,McHenry County,Census-designated place,42.270708,-88.362004,1
+IL,1764005,place:IL:1764005,Ridgewood CDP,Ridgewood,Ridgewood,17197,Will County,Census-designated place,41.53409,-88.043436,1
+IL,1764018,place:IL:1764018,Ridgway village,Ridgway,Ridgway,17059,Gallatin County,Incorporated place,37.797884,-88.260616,1
+IL,1764044,place:IL:1764044,Ridott village,Ridott,Ridott,17177,Stephenson County,Incorporated place,42.296844,-89.477148,1
+IL,1764083,place:IL:1764083,Riggston CDP,Riggston,Riggston,17171,Scott County,Census-designated place,39.694609,-90.423292,1
+IL,1764094,place:IL:1764094,Riley CDP,Riley,Riley,17111,McHenry County,Census-designated place,42.192927,-88.628705,1
+IL,1764135,place:IL:1764135,Ringwood village,Ringwood,Ringwood,17111,McHenry County,Incorporated place,42.397236,-88.303625,1
+IL,1764148,place:IL:1764148,Rio village,Rio,Rio,17095,Knox County,Incorporated place,41.109306,-90.398837,1
+IL,1764174,place:IL:1764174,Ripley village,Ripley,Ripley,17009,Brown County,Incorporated place,40.025188,-90.637957,1
+IL,1764239,place:IL:1764239,Ritchie CDP,Ritchie,Ritchie,17197,Will County,Census-designated place,41.255694,-88.115808,1
+IL,1764304,place:IL:1764304,River Forest village,River Forest,River Forest,17031,Cook County,Incorporated place,41.894875,-87.819064,1
+IL,1764343,place:IL:1764343,River Grove village,River Grove,River Grove,17031,Cook County,Incorporated place,41.924277,-87.837934,1
+IL,1764278,place:IL:1764278,Riverdale village,Riverdale,Riverdale,17031,Cook County,Incorporated place,41.642624,-87.636046,1
+IL,1764421,place:IL:1764421,Riverside village,Riverside,Riverside,17031,Cook County,Incorporated place,41.830956,-87.815854,1
+IL,1764486,place:IL:1764486,Riverton village,Riverton,Riverton,17167,Sangamon County,Incorporated place,39.846145,-89.536367,1
+IL,1764538,place:IL:1764538,Riverwoods village,Riverwoods,Riverwoods,17097,Lake County,Incorporated place,42.172903,-87.894862,1
+IL,1764590,place:IL:1764590,Roanoke village,Roanoke,Roanoke,17203,Woodford County,Incorporated place,40.798515,-89.201287,1
+IL,1764616,place:IL:1764616,Robbins village,Robbins,Robbins,17031,Cook County,Incorporated place,41.643125,-87.708103,1
+IL,1764655,place:IL:1764655,Roberts village,Roberts,Roberts,17053,Ford County,Incorporated place,40.614823,-88.18421,1
+IL,1764707,place:IL:1764707,Robinson city,Robinson,Robinson,17033,Crawford County,Incorporated place,39.008567,-87.73344,1
+IL,1764746,place:IL:1764746,Rochelle city,Rochelle,Rochelle,17141,Ogle County,Incorporated place,41.919778,-89.062264,1
+IL,1764759,place:IL:1764759,Rochester village,Rochester,Rochester,17167,Sangamon County,Incorporated place,39.744518,-89.520588,1
+IL,1764837,place:IL:1764837,Rock City village,Rock City,Rock City,17177,Stephenson County,Incorporated place,42.412956,-89.471014,1
+IL,1764928,place:IL:1764928,Rock Falls city,Rock Falls,Rock Falls,17195,Whiteside County,Incorporated place,41.772066,-89.694213,1
+IL,1765078,place:IL:1765078,Rock Island city,Rock Island,Rock Island,17161,Rock Island County,Incorporated place,41.469444,-90.585307,1
+IL,1765104,place:IL:1765104,Rock Island Arsenal CDP,Rock Island Arsenal,Rock Island Arsenal,17161,Rock Island County,Census-designated place,41.517067,-90.539629,1
+IL,1764811,place:IL:1764811,Rockbridge village,Rockbridge,Rockbridge,17061,Greene County,Incorporated place,39.269275,-90.206552,1
+IL,1764902,place:IL:1764902,Rockdale village,Rockdale,Rockdale,17197,Will County,Incorporated place,41.504881,-88.124765,1
+IL,1765000,place:IL:1765000,Rockford city,Rockford,Rockford,17201,Winnebago County,Incorporated place,42.2593,-89.063478,1
+IL,1765130,place:IL:1765130,Rockport CDP,Rockport,Rockport,17149,Pike County,Census-designated place,39.539101,-91.012697,1
+IL,1765156,place:IL:1765156,Rockton village,Rockton,Rockton,17201,Winnebago County,Incorporated place,42.447061,-89.063088,1
+IL,1765221,place:IL:1765221,Rockwood village,Rockwood,Rockwood,17157,Randolph County,Incorporated place,37.837063,-89.691776,1
+IL,1765338,place:IL:1765338,Rolling Meadows city,Rolling Meadows,Rolling Meadows,17031,Cook County,Incorporated place,42.074909,-88.025363,1
+IL,1765403,place:IL:1765403,Rome CDP,Rome,Rome,17143,Peoria County,Census-designated place,40.877433,-89.513241,1
+IL,1765442,place:IL:1765442,Romeoville village,Romeoville,Romeoville,17197,Will County,Incorporated place,41.627783,-88.101237,1
+IL,1765481,place:IL:1765481,Roodhouse city,Roodhouse,Roodhouse,17061,Greene County,Incorporated place,39.484053,-90.374035,1
+IL,1765611,place:IL:1765611,Roscoe village,Roscoe,Roscoe,17201,Winnebago County,Incorporated place,42.425559,-89.009455,1
+IL,1765754,place:IL:1765754,Rose Hill village,Rose Hill,Rose Hill,17079,Jasper County,Incorporated place,39.104302,-88.149888,1
+IL,1765806,place:IL:1765806,Roselle village,Roselle,Roselle,17043,DuPage County,Incorporated place,41.980249,-88.08591,1
+IL,1765819,place:IL:1765819,Rosemont village,Rosemont,Rosemont,17031,Cook County,Incorporated place,41.988978,-87.871739,1
+IL,1765845,place:IL:1765845,Roseville village,Roseville,Roseville,17187,Warren County,Incorporated place,40.730702,-90.663803,1
+IL,1765884,place:IL:1765884,Rosewood Heights CDP,Rosewood Heights,Rosewood Heights,17119,Madison County,Census-designated place,38.887788,-90.073246,1
+IL,1765897,place:IL:1765897,Rosiclare city,Rosiclare,Rosiclare,17069,Hardin County,Incorporated place,37.425612,-88.35227,1
+IL,1765962,place:IL:1765962,Rossville village,Rossville,Rossville,17183,Vermilion County,Incorporated place,40.381482,-87.669923,1
+IL,1766027,place:IL:1766027,Round Lake village,Round Lake,Round Lake,17097,Lake County,Incorporated place,42.343181,-88.102099,1
+IL,1766040,place:IL:1766040,Round Lake Beach village,Round Lake Beach,Round Lake Beach,17097,Lake County,Incorporated place,42.382452,-88.080682,1
+IL,1766053,place:IL:1766053,Round Lake Heights village,Round Lake Heights,Round Lake Heights,17097,Lake County,Incorporated place,42.384656,-88.105939,1
+IL,1766066,place:IL:1766066,Round Lake Park village,Round Lake Park,Round Lake Park,17097,Lake County,Incorporated place,42.340665,-88.081179,1
+IL,1766131,place:IL:1766131,Roxana village,Roxana,Roxana,17119,Madison County,Incorporated place,38.822036,-90.045917,1
+IL,1766157,place:IL:1766157,Royal village,Royal,Royal,17019,Champaign County,Incorporated place,40.193134,-87.971886,1
+IL,1766196,place:IL:1766196,Royal Lakes village,Royal Lakes,Royal Lakes,17117,Macoupin County,Incorporated place,39.113283,-89.95853,1
+IL,1766209,place:IL:1766209,Royalton village,Royalton,Royalton,17055,Franklin County,Incorporated place,37.877644,-89.113572,1
+IL,1766287,place:IL:1766287,Ruma village,Ruma,Ruma,17157,Randolph County,Incorporated place,38.130604,-90.000327,1
+IL,1766339,place:IL:1766339,Rushville city,Rushville,Rushville,17169,Schuyler County,Incorporated place,40.119966,-90.566548,1
+IL,1766404,place:IL:1766404,Russellville village,Russellville,Russellville,17101,Lawrence County,Incorporated place,38.818609,-87.53012,1
+IL,1766443,place:IL:1766443,Rutland village,Rutland,Rutland,17099,LaSalle County,Incorporated place,40.983794,-89.041327,1
+IL,1766534,place:IL:1766534,Sadorus village,Sadorus,Sadorus,17019,Champaign County,Incorporated place,39.966891,-88.345145,1
+IL,1766599,place:IL:1766599,Sailor Springs village,Sailor Springs,Sailor Springs,17025,Clay County,Incorporated place,38.764462,-88.360228,1
+IL,1767236,place:IL:1767236,Salem city,Salem,Salem,17121,Marion County,Incorporated place,38.627537,-88.959448,1
+IL,1767372,place:IL:1767372,Sammons Point village,Sammons Point,Sammons Point,17091,Kankakee County,Incorporated place,41.032362,-87.858252,1
+IL,1767613,place:IL:1767613,San Jose village,San Jose,San Jose,17125,Mason County,Incorporated place,40.30515,-89.604761,1
+IL,1767444,place:IL:1767444,Sandoval village,Sandoval,Sandoval,17121,Marion County,Incorporated place,38.612368,-89.11974,1
+IL,1767548,place:IL:1767548,Sandwich city,Sandwich,Sandwich,17037,DeKalb County,Incorporated place,41.650067,-88.619021,1
+IL,1767756,place:IL:1767756,Sauget village,Sauget,Sauget,17163,St. Clair County,Incorporated place,38.584857,-90.151114,1
+IL,1767769,place:IL:1767769,Sauk Village village,Sauk Village,Sauk Village,17031,Cook County,Incorporated place,41.490094,-87.570624,1
+IL,1767795,place:IL:1767795,Saunemin village,Saunemin,Saunemin,17105,Livingston County,Incorporated place,40.892186,-88.405325,1
+IL,1767821,place:IL:1767821,Savanna city,Savanna,Savanna,17015,Carroll County,Incorporated place,42.093912,-90.138764,1
+IL,1767860,place:IL:1767860,Savoy village,Savoy,Savoy,17019,Champaign County,Incorporated place,40.059135,-88.254497,1
+IL,1767873,place:IL:1767873,Sawyerville village,Sawyerville,Sawyerville,17117,Macoupin County,Incorporated place,39.0819,-89.804504,1
+IL,1767912,place:IL:1767912,Saybrook village,Saybrook,Saybrook,17113,McLean County,Incorporated place,40.428122,-88.526162,1
+IL,1767925,place:IL:1767925,Scales Mound village,Scales Mound,Scales Mound,17085,Jo Daviess County,Incorporated place,42.474828,-90.252621,1
+IL,1768003,place:IL:1768003,Schaumburg village,Schaumburg,Schaumburg,17031,Cook County,Incorporated place,42.028423,-88.084745,1
+IL,1768081,place:IL:1768081,Schiller Park village,Schiller Park,Schiller Park,17031,Cook County,Incorporated place,41.958626,-87.869317,1
+IL,1768120,place:IL:1768120,Schram City village,Schram City,Schram City,17135,Montgomery County,Incorporated place,39.159815,-89.466783,1
+IL,1768198,place:IL:1768198,Sciota village,Sciota,Sciota,17109,McDonough County,Incorporated place,40.562619,-90.748029,1
+IL,1768328,place:IL:1768328,Scott AFB CDP,Scott AFB,Scott AFB,17163,St. Clair County,Census-designated place,38.542554,-89.851497,1
+IL,1768406,place:IL:1768406,Scottville village,Scottville,Scottville,17117,Macoupin County,Incorporated place,39.477713,-90.103786,1
+IL,1768458,place:IL:1768458,Seaton village,Seaton,Seaton,17131,Mercer County,Incorporated place,41.102323,-90.799113,1
+IL,1768471,place:IL:1768471,Seatonville village,Seatonville,Seatonville,17011,Bureau County,Incorporated place,41.367116,-89.274824,1
+IL,1768510,place:IL:1768510,Secor village,Secor,Secor,17203,Woodford County,Incorporated place,40.741785,-89.135007,1
+IL,1768640,place:IL:1768640,Seneca village,Seneca,Seneca,17099,LaSalle County,Incorporated place,41.304204,-88.614906,1
+IL,1768679,place:IL:1768679,Serena CDP,Serena,Serena,17099,LaSalle County,Census-designated place,41.487169,-88.731881,1
+IL,1768705,place:IL:1768705,Sesser city,Sesser,Sesser,17055,Franklin County,Incorporated place,38.090336,-89.050813,1
+IL,1768809,place:IL:1768809,Seymour CDP,Seymour,Seymour,17019,Champaign County,Census-designated place,40.106809,-88.427071,1
+IL,1768822,place:IL:1768822,Shabbona village,Shabbona,Shabbona,17037,DeKalb County,Incorporated place,41.764305,-88.882179,1
+IL,1768991,place:IL:1768991,Shannon village,Shannon,Shannon,17015,Carroll County,Incorporated place,42.152447,-89.740174,1
+IL,1769082,place:IL:1769082,Shawneetown city,Shawneetown,Shawneetown,17059,Gallatin County,Incorporated place,37.715906,-88.18671,1
+IL,1769147,place:IL:1769147,Sheffield village,Sheffield,Sheffield,17011,Bureau County,Incorporated place,41.357972,-89.739174,1
+IL,1769186,place:IL:1769186,Shelbyville city,Shelbyville,Shelbyville,17173,Shelby County,Incorporated place,39.410305,-88.799666,1
+IL,1769212,place:IL:1769212,Sheldon village,Sheldon,Sheldon,17075,Iroquois County,Incorporated place,40.77102,-87.565758,1
+IL,1769277,place:IL:1769277,Sheridan village,Sheridan,Sheridan,17099,LaSalle County,Incorporated place,41.528347,-88.679554,1
+IL,1769342,place:IL:1769342,Sherman village,Sherman,Sherman,17167,Sangamon County,Incorporated place,39.885142,-89.606904,1
+IL,1769368,place:IL:1769368,Sherrard village,Sherrard,Sherrard,17131,Mercer County,Incorporated place,41.314204,-90.497216,1
+IL,1769524,place:IL:1769524,Shiloh village,Shiloh,Shiloh,17163,St. Clair County,Incorporated place,38.544918,-89.913037,1
+IL,1769563,place:IL:1769563,Shipman village,Shipman,Shipman,17117,Macoupin County,Incorporated place,39.119488,-90.045189,1
+IL,1769628,place:IL:1769628,Shirley CDP,Shirley,Shirley,17113,McLean County,Census-designated place,40.407464,-89.064271,1
+IL,1769758,place:IL:1769758,Shorewood village,Shorewood,Shorewood,17197,Will County,Incorporated place,41.517527,-88.215155,1
+IL,1769797,place:IL:1769797,Shumway village,Shumway,Shumway,17049,Effingham County,Incorporated place,39.183431,-88.653209,1
+IL,1769810,place:IL:1769810,Sibley village,Sibley,Sibley,17053,Ford County,Incorporated place,40.587623,-88.378217,1
+IL,1769836,place:IL:1769836,Sidell village,Sidell,Sidell,17183,Vermilion County,Incorporated place,39.909721,-87.823604,1
+IL,1769875,place:IL:1769875,Sidney village,Sidney,Sidney,17019,Champaign County,Incorporated place,40.0254,-88.072196,1
+IL,1769914,place:IL:1769914,Sigel town,Sigel,Sigel,17173,Shelby County,Incorporated place,39.225473,-88.494659,1
+IL,1769979,place:IL:1769979,Silvis city,Silvis,Silvis,17161,Rock Island County,Incorporated place,41.497646,-90.41014,1
+IL,1770005,place:IL:1770005,Simpson village,Simpson,Simpson,17087,Johnson County,Incorporated place,37.467445,-88.757879,1
+IL,1770031,place:IL:1770031,Sims village,Sims,Sims,17191,Wayne County,Incorporated place,38.361844,-88.535465,1
+IL,1770122,place:IL:1770122,Skokie village,Skokie,Skokie,17031,Cook County,Incorporated place,42.03597,-87.739994,1
+IL,1770161,place:IL:1770161,Sleepy Hollow village,Sleepy Hollow,Sleepy Hollow,17089,Kane County,Incorporated place,42.090287,-88.313712,1
+IL,1770213,place:IL:1770213,Smithboro village,Smithboro,Smithboro,17005,Bond County,Incorporated place,38.894558,-89.339902,1
+IL,1770226,place:IL:1770226,Smithfield village,Smithfield,Smithfield,17057,Fulton County,Incorporated place,40.474427,-90.29488,1
+IL,1770252,place:IL:1770252,Smithton village,Smithton,Smithton,17163,St. Clair County,Incorporated place,38.414342,-89.990095,1
+IL,1770278,place:IL:1770278,Smithville CDP,Smithville,Smithville,17143,Peoria County,Census-designated place,40.658954,-89.803114,1
+IL,1770356,place:IL:1770356,Solon Mills CDP,Solon Mills,Solon Mills,17111,McHenry County,Census-designated place,42.442125,-88.27641,1
+IL,1770460,place:IL:1770460,Somonauk village,Somonauk,Somonauk,17037,DeKalb County,Incorporated place,41.634747,-88.687476,1
+IL,1770525,place:IL:1770525,Sorento village,Sorento,Sorento,17005,Bond County,Incorporated place,39.00079,-89.574839,1
+IL,1770564,place:IL:1770564,South Barrington village,South Barrington,South Barrington,17031,Cook County,Incorporated place,42.092962,-88.158016,1
+IL,1770590,place:IL:1770590,South Beloit city,South Beloit,South Beloit,17201,Winnebago County,Incorporated place,42.484842,-89.027433,1
+IL,1770629,place:IL:1770629,South Chicago Heights village,South Chicago Heights,South Chicago Heights,17031,Cook County,Incorporated place,41.483406,-87.637201,1
+IL,1770720,place:IL:1770720,South Elgin village,South Elgin,South Elgin,17089,Kane County,Incorporated place,41.990254,-88.314285,1
+IL,1770850,place:IL:1770850,South Holland village,South Holland,South Holland,17031,Cook County,Incorporated place,41.598372,-87.602736,1
+IL,1770889,place:IL:1770889,South Jacksonville village,South Jacksonville,South Jacksonville,17137,Morgan County,Incorporated place,39.699632,-90.224157,1
+IL,1771175,place:IL:1771175,South Pekin village,South Pekin,South Pekin,17179,Tazewell County,Incorporated place,40.493402,-89.652529,1
+IL,1771240,place:IL:1771240,South Roxana village,South Roxana,South Roxana,17119,Madison County,Incorporated place,38.809194,-90.05849,1
+IL,1771370,place:IL:1771370,South Wilmington village,South Wilmington,South Wilmington,17063,Grundy County,Incorporated place,41.174495,-88.279455,1
+IL,1770759,place:IL:1770759,Southern View village,Southern View,Southern View,17167,Sangamon County,Incorporated place,39.754617,-89.651724,1
+IL,1771422,place:IL:1771422,Sparland village,Sparland,Sparland,17123,Marshall County,Incorporated place,41.029609,-89.44118,1
+IL,1771448,place:IL:1771448,Sparta city,Sparta,Sparta,17157,Randolph County,Incorporated place,38.139544,-89.730648,1
+IL,1771474,place:IL:1771474,Spaulding village,Spaulding,Spaulding,17167,Sangamon County,Incorporated place,39.866192,-89.545053,1
+IL,1771526,place:IL:1771526,Spillertown village,Spillertown,Spillertown,17199,Williamson County,Incorporated place,37.76524,-88.923938,1
+IL,1771604,place:IL:1771604,Spring Bay village,Spring Bay,Spring Bay,17203,Woodford County,Incorporated place,40.821249,-89.531131,1
+IL,1772052,place:IL:1772052,Spring Grove village,Spring Grove,Spring Grove,17111,McHenry County,Incorporated place,42.450749,-88.240232,1
+IL,1772156,place:IL:1772156,Spring Valley city,Spring Valley,Spring Valley,17011,Bureau County,Incorporated place,41.323258,-89.183013,1
+IL,1771643,place:IL:1771643,Springerton village,Springerton,Springerton,17193,White County,Incorporated place,38.178552,-88.355292,1
+IL,1772000,place:IL:1772000,Springfield city,Springfield,Springfield,17167,Sangamon County,Incorporated place,39.791063,-89.644572,1
+IL,1766638,place:IL:1766638,St. Anne village,St. Anne,St. Anne,17091,Kankakee County,Incorporated place,41.023469,-87.716988,1
+IL,1766677,place:IL:1766677,St. Augustine village,St. Augustine,St. Augustine,17095,Knox County,Incorporated place,40.721273,-90.406927,1
+IL,1766703,place:IL:1766703,St. Charles city,St. Charles,St. Charles,17089,Kane County,Incorporated place,41.919447,-88.310743,1
+IL,1766768,place:IL:1766768,St. David village,St. David,St. David,17057,Fulton County,Incorporated place,40.491985,-90.052463,1
+IL,1766794,place:IL:1766794,St. Elmo city,St. Elmo,St. Elmo,17051,Fayette County,Incorporated place,39.021775,-88.851406,1
+IL,1766833,place:IL:1766833,St. Francisville city,St. Francisville,St. Francisville,17101,Lawrence County,Incorporated place,38.591913,-87.647546,1
+IL,1766859,place:IL:1766859,St. Jacob village,St. Jacob,St. Jacob,17119,Madison County,Incorporated place,38.718016,-89.763258,1
+IL,1766924,place:IL:1766924,St. Johns village,St. Johns,St. Johns,17145,Perry County,Incorporated place,38.034941,-89.235765,1
+IL,1766950,place:IL:1766950,St. Joseph village,St. Joseph,St. Joseph,17019,Champaign County,Incorporated place,40.114713,-88.03562,1
+IL,1766989,place:IL:1766989,St. Libory village,St. Libory,St. Libory,17163,St. Clair County,Incorporated place,38.363067,-89.718104,1
+IL,1767132,place:IL:1767132,St. Peter village,St. Peter,St. Peter,17051,Fayette County,Incorporated place,38.867553,-88.850392,1
+IL,1767158,place:IL:1767158,St. Rose village,St. Rose,St. Rose,17027,Clinton County,Incorporated place,38.682616,-89.553607,1
+IL,1772221,place:IL:1772221,Standard village,Standard,Standard,17155,Putnam County,Incorporated place,41.255767,-89.181734,1
+IL,1772234,place:IL:1772234,Standard City village,Standard City,Standard City,17117,Macoupin County,Incorporated place,39.350198,-89.78385,1
+IL,1772260,place:IL:1772260,Stanford village,Stanford,Stanford,17113,McLean County,Incorporated place,40.432182,-89.220763,1
+IL,1772403,place:IL:1772403,Staunton city,Staunton,Staunton,17117,Macoupin County,Incorporated place,39.011668,-89.790737,1
+IL,1766800,place:IL:1766800,Ste. Marie village,Ste. Marie,Ste. Marie,17079,Jasper County,Incorporated place,38.930045,-88.027748,1
+IL,1772468,place:IL:1772468,Steeleville village,Steeleville,Steeleville,17157,Randolph County,Incorporated place,38.008405,-89.662406,1
+IL,1772520,place:IL:1772520,Steger village,Steger,Steger,17031,Cook County,Incorporated place,41.472322,-87.617732,1
+IL,1772546,place:IL:1772546,Sterling city,Sterling,Sterling,17195,Whiteside County,Incorporated place,41.799688,-89.695933,1
+IL,1772624,place:IL:1772624,Steward village,Steward,Steward,17103,Lee County,Incorporated place,41.848323,-89.020004,1
+IL,1772650,place:IL:1772650,Stewardson village,Stewardson,Stewardson,17173,Shelby County,Incorporated place,39.263828,-88.630085,1
+IL,1772676,place:IL:1772676,Stickney village,Stickney,Stickney,17031,Cook County,Incorporated place,41.817025,-87.7737,1
+IL,1772702,place:IL:1772702,Stillman Valley village,Stillman Valley,Stillman Valley,17141,Ogle County,Incorporated place,42.105427,-89.178989,1
+IL,1772780,place:IL:1772780,Stockton village,Stockton,Stockton,17085,Jo Daviess County,Incorporated place,42.352509,-90.001933,1
+IL,1772923,place:IL:1772923,Stone Park village,Stone Park,Stone Park,17031,Cook County,Incorporated place,41.903226,-87.880695,1
+IL,1772884,place:IL:1772884,Stonefort village,Stonefort,Stonefort,17165,Saline County,Incorporated place,37.621542,-88.704066,1
+IL,1772949,place:IL:1772949,Stonington village,Stonington,Stonington,17021,Christian County,Incorporated place,39.638517,-89.192044,1
+IL,1773027,place:IL:1773027,Stoy village,Stoy,Stoy,17033,Crawford County,Incorporated place,38.996791,-87.833559,1
+IL,1773040,place:IL:1773040,Strasburg village,Strasburg,Strasburg,17173,Shelby County,Incorporated place,39.349737,-88.621813,1
+IL,1773131,place:IL:1773131,Strawn village,Strawn,Strawn,17105,Livingston County,Incorporated place,40.652689,-88.39908,1
+IL,1773157,place:IL:1773157,Streamwood village,Streamwood,Streamwood,17031,Cook County,Incorporated place,42.020586,-88.177771,1
+IL,1773170,place:IL:1773170,Streator city,Streator,Streator,17099,LaSalle County,Incorporated place,41.124979,-88.829592,1
+IL,1773261,place:IL:1773261,Stronghurst village,Stronghurst,Stronghurst,17071,Henderson County,Incorporated place,40.746222,-90.909395,1
+IL,1773287,place:IL:1773287,Sublette village,Sublette,Sublette,17103,Lee County,Incorporated place,41.643046,-89.228943,1
+IL,1773391,place:IL:1773391,Sugar Grove village,Sugar Grove,Sugar Grove,17089,Kane County,Incorporated place,41.777407,-88.446525,1
+IL,1773495,place:IL:1773495,Sullivan city,Sullivan,Sullivan,17139,Moultrie County,Incorporated place,39.595166,-88.608949,1
+IL,1773547,place:IL:1773547,Summerfield village,Summerfield,Summerfield,17163,St. Clair County,Incorporated place,38.595711,-89.749749,1
+IL,1773638,place:IL:1773638,Summit village,Summit,Summit,17031,Cook County,Incorporated place,41.788894,-87.813641,1
+IL,1773703,place:IL:1773703,Sumner city,Sumner,Sumner,17101,Lawrence County,Incorporated place,38.715378,-87.866692,1
+IL,1773943,place:IL:1773943,Sun River Terrace village,Sun River Terrace,Sun River Terrace,17091,Kankakee County,Incorporated place,41.123409,-87.733299,1
+IL,1773872,place:IL:1773872,Sunnyland CDP,Sunnyland,Sunnyland,17197,Will County,Census-designated place,41.571968,-88.144854,1
+IL,1774119,place:IL:1774119,Swansea village,Swansea,Swansea,17163,St. Clair County,Incorporated place,38.551779,-89.987506,1
+IL,1774145,place:IL:1774145,Swedona CDP,Swedona,Swedona,17131,Mercer County,Census-designated place,41.280094,-90.443386,1
+IL,1774223,place:IL:1774223,Sycamore city,Sycamore,Sycamore,17037,DeKalb County,Incorporated place,41.996726,-88.677151,1
+IL,1774275,place:IL:1774275,Symerton village,Symerton,Symerton,17197,Will County,Incorporated place,41.325604,-88.053083,1
+IL,1774301,place:IL:1774301,Table Grove village,Table Grove,Table Grove,17057,Fulton County,Incorporated place,40.365034,-90.425239,1
+IL,1774379,place:IL:1774379,Tallula village,Tallula,Tallula,17129,Menard County,Incorporated place,39.945725,-89.93661,1
+IL,1774444,place:IL:1774444,Tamaroa village,Tamaroa,Tamaroa,17145,Perry County,Incorporated place,38.136342,-89.229266,1
+IL,1774457,place:IL:1774457,Tamms village,Tamms,Tamms,17003,Alexander County,Incorporated place,37.241541,-89.271329,1
+IL,1774470,place:IL:1774470,Tampico village,Tampico,Tampico,17195,Whiteside County,Incorporated place,41.630755,-89.785127,1
+IL,1774548,place:IL:1774548,Taylor Ridge CDP,Taylor Ridge,Taylor Ridge,17161,Rock Island County,Census-designated place,41.389188,-90.670504,1
+IL,1774561,place:IL:1774561,Taylor Springs village,Taylor Springs,Taylor Springs,17135,Montgomery County,Incorporated place,39.131886,-89.494971,1
+IL,1774574,place:IL:1774574,Taylorville city,Taylorville,Taylorville,17021,Christian County,Incorporated place,39.563369,-89.318026,1
+IL,1774665,place:IL:1774665,Tennessee village,Tennessee,Tennessee,17109,McDonough County,Incorporated place,40.41143,-90.836233,1
+IL,1774743,place:IL:1774743,Teutopolis village,Teutopolis,Teutopolis,17049,Effingham County,Incorporated place,39.131998,-88.479564,1
+IL,1774847,place:IL:1774847,Thawville village,Thawville,Thawville,17075,Iroquois County,Incorporated place,40.673121,-88.113651,1
+IL,1774860,place:IL:1774860,Thayer village,Thayer,Thayer,17167,Sangamon County,Incorporated place,39.540378,-89.758042,1
+IL,1774970,place:IL:1774970,The Galena Territory CDP,The Galena Territory,The Galena Territory,17085,Jo Daviess County,Census-designated place,42.393705,-90.325012,1
+IL,1774873,place:IL:1774873,Thebes village,Thebes,Thebes,17003,Alexander County,Incorporated place,37.212421,-89.45067,1
+IL,1775081,place:IL:1775081,Third Lake village,Third Lake,Third Lake,17097,Lake County,Incorporated place,42.369763,-88.009092,1
+IL,1775107,place:IL:1775107,Thomasboro village,Thomasboro,Thomasboro,17019,Champaign County,Incorporated place,40.243906,-88.187658,1
+IL,1775159,place:IL:1775159,Thompsonville village,Thompsonville,Thompsonville,17055,Franklin County,Incorporated place,37.911304,-88.765018,1
+IL,1775172,place:IL:1775172,Thomson village,Thomson,Thomson,17015,Carroll County,Incorporated place,41.974701,-90.112224,1
+IL,1775185,place:IL:1775185,Thornton village,Thornton,Thornton,17031,Cook County,Incorporated place,41.574149,-87.6193,1
+IL,1775263,place:IL:1775263,Tilden village,Tilden,Tilden,17157,Randolph County,Incorporated place,38.212024,-89.683675,1
+IL,1775276,place:IL:1775276,Tilton village,Tilton,Tilton,17183,Vermilion County,Incorporated place,40.094978,-87.642148,1
+IL,1775360,place:IL:1775360,Timberlane village,Timberlane,Timberlane,17007,Boone County,Incorporated place,42.335726,-88.866109,1
+IL,1775484,place:IL:1775484,Tinley Park village,Tinley Park,Tinley Park,17031,Cook County,Incorporated place,41.566802,-87.802643,1
+IL,1775549,place:IL:1775549,Tiskilwa village,Tiskilwa,Tiskilwa,17011,Bureau County,Incorporated place,41.292414,-89.506591,1
+IL,1775601,place:IL:1775601,Toledo village,Toledo,Toledo,17035,Cumberland County,Incorporated place,39.272782,-88.242187,1
+IL,1775614,place:IL:1775614,Tolono village,Tolono,Tolono,17019,Champaign County,Incorporated place,39.991115,-88.262403,1
+IL,1775653,place:IL:1775653,Toluca city,Toluca,Toluca,17123,Marshall County,Incorporated place,41.004431,-89.133879,1
+IL,1775718,place:IL:1775718,Tonica village,Tonica,Tonica,17099,LaSalle County,Incorporated place,41.21587,-89.069956,1
+IL,1775757,place:IL:1775757,Topeka village,Topeka,Topeka,17125,Mason County,Incorporated place,40.330362,-89.930612,1
+IL,1775783,place:IL:1775783,Toulon city,Toulon,Toulon,17175,Stark County,Incorporated place,41.093372,-89.863178,1
+IL,1775809,place:IL:1775809,Tovey village,Tovey,Tovey,17021,Christian County,Incorporated place,39.588251,-89.448554,1
+IL,1775822,place:IL:1775822,Towanda village,Towanda,Towanda,17113,McLean County,Incorporated place,40.563352,-88.900731,1
+IL,1775848,place:IL:1775848,Tower Hill village,Tower Hill,Tower Hill,17173,Shelby County,Incorporated place,39.386774,-88.959249,1
+IL,1775874,place:IL:1775874,Tower Lakes village,Tower Lakes,Tower Lakes,17097,Lake County,Incorporated place,42.227844,-88.15524,1
+IL,1775965,place:IL:1775965,Tremont village,Tremont,Tremont,17179,Tazewell County,Incorporated place,40.524944,-89.489455,1
+IL,1775991,place:IL:1775991,Trenton city,Trenton,Trenton,17027,Clinton County,Incorporated place,38.608299,-89.685242,1
+IL,1776017,place:IL:1776017,Trilla CDP,Trilla,Trilla,17029,Coles County,Census-designated place,39.375124,-88.350713,1
+IL,1776082,place:IL:1776082,Triumph CDP,Triumph,Triumph,17099,LaSalle County,Census-designated place,41.499321,-89.019862,1
+IL,1776108,place:IL:1776108,Trivoli CDP,Trivoli,Trivoli,17143,Peoria County,Census-designated place,40.697528,-89.889067,1
+IL,1776160,place:IL:1776160,Trout Valley village,Trout Valley,Trout Valley,17111,McHenry County,Incorporated place,42.195703,-88.250688,1
+IL,1776199,place:IL:1776199,Troy city,Troy,Troy,17119,Madison County,Incorporated place,38.726219,-89.89347,1
+IL,1776225,place:IL:1776225,Troy Grove village,Troy Grove,Troy Grove,17099,LaSalle County,Incorporated place,41.465701,-89.081542,1
+IL,1776407,place:IL:1776407,Tuscola city,Tuscola,Tuscola,17041,Douglas County,Incorporated place,39.795912,-88.275483,1
+IL,1776511,place:IL:1776511,Twin Grove CDP,Twin Grove,Twin Grove,17113,McLean County,Census-designated place,40.479324,-89.101516,1
+IL,1776615,place:IL:1776615,Ullin village,Ullin,Ullin,17153,Pulaski County,Incorporated place,37.280226,-89.175797,1
+IL,1776706,place:IL:1776706,Union village,Union,Union,17111,McHenry County,Incorporated place,42.231567,-88.54478,1
+IL,1776771,place:IL:1776771,Union Hill village,Union Hill,Union Hill,17091,Kankakee County,Incorporated place,41.107783,-88.146033,1
+IL,1776875,place:IL:1776875,Unity CDP,Unity,Unity,17003,Alexander County,Census-designated place,37.152059,-89.27302,1
+IL,1776935,place:IL:1776935,University Park village,University Park,University Park,17197,Will County,Incorporated place,41.446894,-87.712969,1
+IL,1777005,place:IL:1777005,Urbana city,Urbana,Urbana,17019,Champaign County,Incorporated place,40.110126,-88.197323,1
+IL,1777044,place:IL:1777044,Ursa village,Ursa,Ursa,17001,Adams County,Incorporated place,40.074171,-91.37238,1
+IL,1777148,place:IL:1777148,Valier village,Valier,Valier,17055,Franklin County,Incorporated place,38.017971,-89.043689,1
+IL,1777187,place:IL:1777187,Valley City village,Valley City,Valley City,17149,Pike County,Incorporated place,39.70737,-90.649406,1
+IL,1777265,place:IL:1777265,Valmeyer village,Valmeyer,Valmeyer,17133,Monroe County,Incorporated place,38.305865,-90.297974,1
+IL,1777317,place:IL:1777317,Vandalia city,Vandalia,Vandalia,17051,Fayette County,Incorporated place,38.974564,-89.110695,1
+IL,1777395,place:IL:1777395,Varna village,Varna,Varna,17123,Marshall County,Incorporated place,41.035246,-89.224316,1
+IL,1777408,place:IL:1777408,Venedy village,Venedy,Venedy,17189,Washington County,Incorporated place,38.396607,-89.645643,1
+IL,1777460,place:IL:1777460,Venetian Village CDP,Venetian Village,Venetian Village,17097,Lake County,Census-designated place,42.406072,-88.045525,1
+IL,1777473,place:IL:1777473,Venice city,Venice,Venice,17119,Madison County,Incorporated place,38.671997,-90.169316,1
+IL,1777525,place:IL:1777525,Vergennes village,Vergennes,Vergennes,17077,Jackson County,Incorporated place,37.901933,-89.340158,1
+IL,1777551,place:IL:1777551,Vermilion village,Vermilion,Vermilion,17045,Edgar County,Incorporated place,39.580177,-87.58795,1
+IL,1777642,place:IL:1777642,Vermont village,Vermont,Vermont,17057,Fulton County,Incorporated place,40.295715,-90.429018,1
+IL,1777681,place:IL:1777681,Vernon village,Vernon,Vernon,17121,Marion County,Incorporated place,38.801392,-89.087548,1
+IL,1777694,place:IL:1777694,Vernon Hills village,Vernon Hills,Vernon Hills,17097,Lake County,Incorporated place,42.234407,-87.961064,1
+IL,1777707,place:IL:1777707,Verona village,Verona,Verona,17063,Grundy County,Incorporated place,41.215724,-88.504913,1
+IL,1777720,place:IL:1777720,Versailles village,Versailles,Versailles,17009,Brown County,Incorporated place,39.88385,-90.658982,1
+IL,1777811,place:IL:1777811,Victoria village,Victoria,Victoria,17095,Knox County,Incorporated place,41.033649,-90.087306,1
+IL,1777863,place:IL:1777863,Vienna city,Vienna,Vienna,17087,Johnson County,Incorporated place,37.413624,-88.886577,1
+IL,1777941,place:IL:1777941,Villa Grove city,Villa Grove,Villa Grove,17041,Douglas County,Incorporated place,39.864477,-88.159729,1
+IL,1777993,place:IL:1777993,Villa Park village,Villa Park,Villa Park,17043,DuPage County,Incorporated place,41.885612,-87.978235,1
+IL,1778123,place:IL:1778123,Viola village,Viola,Viola,17131,Mercer County,Incorporated place,41.205323,-90.586188,1
+IL,1778149,place:IL:1778149,Virden city,Virden,Virden,17117,Macoupin County,Incorporated place,39.506061,-89.771102,1
+IL,1778175,place:IL:1778175,Virgil village,Virgil,Virgil,17089,Kane County,Incorporated place,41.955732,-88.528977,1
+IL,1778201,place:IL:1778201,Virginia city,Virginia,Virginia,17017,Cass County,Incorporated place,39.952942,-90.210446,1
+IL,1778227,place:IL:1778227,Volo village,Volo,Volo,17097,Lake County,Incorporated place,42.330324,-88.158743,1
+IL,1778370,place:IL:1778370,Wadsworth village,Wadsworth,Wadsworth,17097,Lake County,Incorporated place,42.450687,-87.925147,1
+IL,1778383,place:IL:1778383,Waggoner village,Waggoner,Waggoner,17135,Montgomery County,Incorporated place,39.377529,-89.65258,1
+IL,1778526,place:IL:1778526,Walnut village,Walnut,Walnut,17011,Bureau County,Incorporated place,41.557051,-89.591338,1
+IL,1778604,place:IL:1778604,Walnut Hill village,Walnut Hill,Walnut Hill,17121,Marion County,Incorporated place,38.477947,-89.044393,1
+IL,1778656,place:IL:1778656,Walshville village,Walshville,Walshville,17135,Montgomery County,Incorporated place,39.068997,-89.618962,1
+IL,1778708,place:IL:1778708,Waltonville village,Waltonville,Waltonville,17081,Jefferson County,Incorporated place,38.217937,-89.038202,1
+IL,1778721,place:IL:1778721,Wamac city,Wamac,Wamac,17189,Washington County,Incorporated place,38.490941,-89.14786,1
+IL,1778773,place:IL:1778773,Wapella village,Wapella,Wapella,17039,De Witt County,Incorporated place,40.221614,-88.961253,1
+IL,1778851,place:IL:1778851,Warren village,Warren,Warren,17085,Jo Daviess County,Incorporated place,42.494827,-89.991229,1
+IL,1778916,place:IL:1778916,Warrensburg village,Warrensburg,Warrensburg,17115,Macon County,Incorporated place,39.931953,-89.062761,1
+IL,1778929,place:IL:1778929,Warrenville city,Warrenville,Warrenville,17043,DuPage County,Incorporated place,41.820973,-88.187474,1
+IL,1778942,place:IL:1778942,Warsaw city,Warsaw,Warsaw,17067,Hancock County,Incorporated place,40.351045,-91.428019,1
+IL,1779007,place:IL:1779007,Washburn village,Washburn,Washburn,17203,Woodford County,Incorporated place,40.920299,-89.291757,1
+IL,1779033,place:IL:1779033,Washington city,Washington,Washington,17179,Tazewell County,Incorporated place,40.706396,-89.433463,1
+IL,1779085,place:IL:1779085,Washington Park village,Washington Park,Washington Park,17163,St. Clair County,Incorporated place,38.628459,-90.092525,1
+IL,1779124,place:IL:1779124,Wataga village,Wataga,Wataga,17095,Knox County,Incorporated place,41.02523,-90.275446,1
+IL,1779150,place:IL:1779150,Waterloo city,Waterloo,Waterloo,17133,Monroe County,Incorporated place,38.341214,-90.152716,1
+IL,1779163,place:IL:1779163,Waterman village,Waterman,Waterman,17037,DeKalb County,Incorporated place,41.765591,-88.763066,1
+IL,1779228,place:IL:1779228,Watseka city,Watseka,Watseka,17075,Iroquois County,Incorporated place,40.775105,-87.730374,1
+IL,1779241,place:IL:1779241,Watson village,Watson,Watson,17049,Effingham County,Incorporated place,39.026137,-88.56856,1
+IL,1779267,place:IL:1779267,Wauconda village,Wauconda,Wauconda,17097,Lake County,Incorporated place,42.277005,-88.135272,1
+IL,1779293,place:IL:1779293,Waukegan city,Waukegan,Waukegan,17097,Lake County,Incorporated place,42.369447,-87.870898,1
+IL,1779358,place:IL:1779358,Waverly city,Waverly,Waverly,17137,Morgan County,Incorporated place,39.59257,-89.95276,1
+IL,1779397,place:IL:1779397,Wayne village,Wayne,Wayne,17043,DuPage County,Incorporated place,41.947255,-88.253231,1
+IL,1779436,place:IL:1779436,Wayne City village,Wayne City,Wayne City,17191,Wayne County,Incorporated place,38.347644,-88.589407,1
+IL,1779449,place:IL:1779449,Waynesville village,Waynesville,Waynesville,17039,De Witt County,Incorporated place,40.241253,-89.124478,1
+IL,1779618,place:IL:1779618,Wedron CDP,Wedron,Wedron,17099,LaSalle County,Census-designated place,41.438306,-88.774891,1
+IL,1779683,place:IL:1779683,Weldon village,Weldon,Weldon,17039,De Witt County,Incorporated place,40.12163,-88.749742,1
+IL,1779735,place:IL:1779735,Wellington village,Wellington,Wellington,17075,Iroquois County,Incorporated place,40.541093,-87.679896,1
+IL,1779813,place:IL:1779813,Wenona city,Wenona,Wenona,17123,Marshall County,Incorporated place,41.048655,-89.052258,1
+IL,1779826,place:IL:1779826,Wenonah village,Wenonah,Wenonah,17135,Montgomery County,Incorporated place,39.319997,-89.28798,1
+IL,1780008,place:IL:1780008,West Brooklyn village,West Brooklyn,West Brooklyn,17103,Lee County,Incorporated place,41.693462,-89.147491,1
+IL,1780060,place:IL:1780060,West Chicago city,West Chicago,West Chicago,17043,DuPage County,Incorporated place,41.895343,-88.220469,1
+IL,1780073,place:IL:1780073,West City village,West City,West City,17055,Franklin County,Incorporated place,37.996016,-88.948894,1
+IL,1780125,place:IL:1780125,West Dundee village,West Dundee,West Dundee,17089,Kane County,Incorporated place,42.1044,-88.333451,1
+IL,1780333,place:IL:1780333,West Frankfort city,West Frankfort,West Frankfort,17055,Franklin County,Incorporated place,37.899495,-88.930814,1
+IL,1780580,place:IL:1780580,West Liberty CDP,West Liberty,West Liberty,17079,Jasper County,Census-designated place,38.852381,-88.085242,1
+IL,1780736,place:IL:1780736,West Peoria city,West Peoria,West Peoria,17143,Peoria County,Incorporated place,40.696977,-89.639908,1
+IL,1780762,place:IL:1780762,West Point village,West Point,West Point,17067,Hancock County,Incorporated place,40.255576,-91.183307,1
+IL,1780853,place:IL:1780853,West Salem village,West Salem,West Salem,17047,Edwards County,Incorporated place,38.520096,-88.0093,1
+IL,1780879,place:IL:1780879,West Union CDP,West Union,West Union,17023,Clark County,Census-designated place,39.213674,-87.666558,1
+IL,1780957,place:IL:1780957,West York CDP,West York,West York,17033,Crawford County,Census-designated place,39.168841,-87.67304,1
+IL,1780047,place:IL:1780047,Westchester village,Westchester,Westchester,17031,Cook County,Incorporated place,41.849196,-87.890619,1
+IL,1780242,place:IL:1780242,Western Springs village,Western Springs,Western Springs,17031,Cook County,Incorporated place,41.802278,-87.900556,1
+IL,1780255,place:IL:1780255,Westervelt CDP,Westervelt,Westervelt,17173,Shelby County,Census-designated place,39.479058,-88.861198,1
+IL,1780281,place:IL:1780281,Westfield village,Westfield,Westfield,17023,Clark County,Incorporated place,39.455534,-87.996449,1
+IL,1780570,place:IL:1780570,Westlake Village CDP,Westlake Village,Westlake Village,17201,Winnebago County,Census-designated place,42.309838,-89.292479,1
+IL,1780645,place:IL:1780645,Westmont village,Westmont,Westmont,17043,DuPage County,Incorporated place,41.794371,-87.97286,1
+IL,1780931,place:IL:1780931,Westville village,Westville,Westville,17183,Vermilion County,Incorporated place,40.044014,-87.638906,1
+IL,1781048,place:IL:1781048,Wheaton city,Wheaton,Wheaton,17043,DuPage County,Incorporated place,41.856833,-88.108126,1
+IL,1781074,place:IL:1781074,Wheeler village,Wheeler,Wheeler,17079,Jasper County,Incorporated place,39.043042,-88.318765,1
+IL,1781087,place:IL:1781087,Wheeling village,Wheeling,Wheeling,17031,Cook County,Incorporated place,42.127723,-87.921,1
+IL,1781191,place:IL:1781191,White City village,White City,White City,17117,Macoupin County,Incorporated place,39.070641,-89.769652,1
+IL,1781256,place:IL:1781256,White Hall city,White Hall,White Hall,17061,Greene County,Incorporated place,39.438554,-90.401075,1
+IL,1781295,place:IL:1781295,White Heath CDP,White Heath,White Heath,17147,Piatt County,Census-designated place,40.086811,-88.511649,1
+IL,1781165,place:IL:1781165,Whiteash CDP,Whiteash,Whiteash,17199,Williamson County,Census-designated place,37.783799,-88.93068,1
+IL,1781802,place:IL:1781802,Williamsfield village,Williamsfield,Williamsfield,17095,Knox County,Incorporated place,40.926379,-90.018168,1
+IL,1781815,place:IL:1781815,Williamson village,Williamson,Williamson,17119,Madison County,Incorporated place,38.98453,-89.762536,1
+IL,1781854,place:IL:1781854,Williamsville village,Williamsville,Williamsville,17167,Sangamon County,Incorporated place,39.95722,-89.543075,1
+IL,1781867,place:IL:1781867,Willisville village,Willisville,Willisville,17145,Perry County,Incorporated place,37.982804,-89.589787,1
+IL,1782010,place:IL:1782010,Willow Hill village,Willow Hill,Willow Hill,17079,Jasper County,Incorporated place,38.995838,-88.021817,1
+IL,1782029,place:IL:1782029,Willow Lake CDP,Willow Lake,Willow Lake,17177,Stephenson County,Census-designated place,42.33422,-89.635349,1
+IL,1782049,place:IL:1782049,Willow Springs village,Willow Springs,Willow Springs,17031,Cook County,Incorporated place,41.734137,-87.88401,1
+IL,1781919,place:IL:1781919,Willowbrook village,Willowbrook,"Willowbrook, DuPage County",17043,DuPage County,Incorporated place,41.767315,-87.94215,1
+IL,1781938,place:IL:1781938,Willowbrook CDP,Willowbrook,"Willowbrook, Will County",17197,Will County,Census-designated place,41.447602,-87.531616,1
+IL,1782075,place:IL:1782075,Wilmette village,Wilmette,Wilmette,17031,Cook County,Incorporated place,42.077323,-87.728621,1
+IL,1782088,place:IL:1782088,Wilmington village,Wilmington,"Wilmington, Greene County",17061,Greene County,Incorporated place,39.480683,-90.486766,1
+IL,1782101,place:IL:1782101,Wilmington city,Wilmington,"Wilmington, Will County",17197,Will County,Incorporated place,41.319251,-88.15996,1
+IL,1782218,place:IL:1782218,Wilsonville village,Wilsonville,Wilsonville,17117,Macoupin County,Incorporated place,39.068983,-89.855065,1
+IL,1782257,place:IL:1782257,Wilton Center CDP,Wilton Center,Wilton Center,17197,Will County,Census-designated place,41.351699,-87.95673,1
+IL,1782270,place:IL:1782270,Winchester city,Winchester,Winchester,17171,Scott County,Incorporated place,39.629778,-90.455964,1
+IL,1782309,place:IL:1782309,Windsor village,Windsor,"Windsor, Mercer County",17131,Mercer County,Incorporated place,41.201826,-90.444349,1
+IL,1782322,place:IL:1782322,Windsor city,Windsor,"Windsor, Shelby County",17173,Shelby County,Incorporated place,39.4389,-88.595389,1
+IL,1782400,place:IL:1782400,Winfield village,Winfield,Winfield,17043,DuPage County,Incorporated place,41.87848,-88.150206,1
+IL,1782491,place:IL:1782491,Winnebago village,Winnebago,Winnebago,17201,Winnebago County,Incorporated place,42.267088,-89.23397,1
+IL,1782530,place:IL:1782530,Winnetka village,Winnetka,Winnetka,17031,Cook County,Incorporated place,42.10621,-87.742764,1
+IL,1782543,place:IL:1782543,Winslow village,Winslow,Winslow,17177,Stephenson County,Incorporated place,42.492999,-89.794872,1
+IL,1782686,place:IL:1782686,Winthrop Harbor village,Winthrop Harbor,Winthrop Harbor,17097,Lake County,Incorporated place,42.480614,-87.829557,1
+IL,1782725,place:IL:1782725,Witt city,Witt,Witt,17135,Montgomery County,Incorporated place,39.253844,-89.348795,1
+IL,1782855,place:IL:1782855,Wonder Lake village,Wonder Lake,Wonder Lake,17111,McHenry County,Incorporated place,42.374854,-88.348318,1
+IL,1782985,place:IL:1782985,Wood Dale city,Wood Dale,Wood Dale,17043,DuPage County,Incorporated place,41.966405,-87.980953,1
+IL,1783271,place:IL:1783271,Wood River city,Wood River,Wood River,17119,Madison County,Incorporated place,38.864094,-90.077777,1
+IL,1783063,place:IL:1783063,Woodhull village,Woodhull,Woodhull,17073,Henry County,Incorporated place,41.178433,-90.322179,1
+IL,1783102,place:IL:1783102,Woodland village,Woodland,Woodland,17075,Iroquois County,Incorporated place,40.71511,-87.73111,1
+IL,1783206,place:IL:1783206,Woodlawn village,Woodlawn,Woodlawn,17081,Jefferson County,Incorporated place,38.328065,-89.034227,1
+IL,1783245,place:IL:1783245,Woodridge village,Woodridge,Woodridge,17043,DuPage County,Incorporated place,41.737392,-88.04413,1
+IL,1783336,place:IL:1783336,Woodson village,Woodson,Woodson,17137,Morgan County,Incorporated place,39.62741,-90.225635,1
+IL,1783349,place:IL:1783349,Woodstock city,Woodstock,Woodstock,17111,McHenry County,Incorporated place,42.30946,-88.435291,1
+IL,1783505,place:IL:1783505,Worden village,Worden,Worden,17119,Madison County,Incorporated place,38.931113,-89.840233,1
+IL,1783518,place:IL:1783518,Worth village,Worth,Worth,17031,Cook County,Incorporated place,41.688211,-87.792577,1
+IL,1783622,place:IL:1783622,Wyanet village,Wyanet,Wyanet,17011,Bureau County,Incorporated place,41.360913,-89.582726,1
+IL,1783687,place:IL:1783687,Wyoming city,Wyoming,Wyoming,17175,Stark County,Incorporated place,41.063799,-89.772852,1
+IL,1783739,place:IL:1783739,Xenia village,Xenia,Xenia,17025,Clay County,Incorporated place,38.637264,-88.637515,1
+IL,1783765,place:IL:1783765,Yale village,Yale,Yale,17079,Jasper County,Incorporated place,39.120294,-88.024559,1
+IL,1783817,place:IL:1783817,Yates City village,Yates City,Yates City,17095,Knox County,Incorporated place,40.777647,-90.013897,1
+IL,1784038,place:IL:1784038,Yorkville city,Yorkville,Yorkville,17093,Kendall County,Incorporated place,41.661736,-88.428596,1
+IL,1784155,place:IL:1784155,Zeigler city,Zeigler,Zeigler,17055,Franklin County,Incorporated place,37.905695,-89.053251,1
+IL,1784220,place:IL:1784220,Zion city,Zion,Zion,17097,Lake County,Incorporated place,42.459909,-87.851121,1

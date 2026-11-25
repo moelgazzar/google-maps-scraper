@@ -1,0 +1,808 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+WI,5500100,place:WI:5500100,Abbotsford city,Abbotsford,Abbotsford,55019,Clark County,Incorporated place,44.943486,-90.317339,1
+WI,5500150,place:WI:5500150,Abrams CDP,Abrams,Abrams,55083,Oconto County,Census-designated place,44.779625,-88.060383,1
+WI,5500275,place:WI:5500275,Adams city,Adams,Adams,55001,Adams County,Incorporated place,43.95524,-89.816548,1
+WI,5500450,place:WI:5500450,Adell village,Adell,Adell,55117,Sheboygan County,Incorporated place,43.620354,-87.945886,1
+WI,5500750,place:WI:5500750,Albany village,Albany,Albany,55045,Green County,Incorporated place,42.707073,-89.436918,1
+WI,5501000,place:WI:5501000,Algoma city,Algoma,Algoma,55061,Kewaunee County,Incorporated place,44.605677,-87.448008,1
+WI,5501075,place:WI:5501075,Allens Grove CDP,Allens Grove,Allens Grove,55127,Walworth County,Census-designated place,42.578287,-88.76679,1
+WI,5501100,place:WI:5501100,Allenton CDP,Allenton,Allenton,55131,Washington County,Census-designated place,43.421854,-88.344829,1
+WI,5501150,place:WI:5501150,Allouez village,Allouez,Allouez,55009,Brown County,Incorporated place,44.472257,-88.026237,1
+WI,5501225,place:WI:5501225,Alma city,Alma,Alma,55011,Buffalo County,Incorporated place,44.339969,-91.918517,1
+WI,5501300,place:WI:5501300,Alma Center village,Alma Center,Alma Center,55053,Jackson County,Incorporated place,44.437026,-90.912848,1
+WI,5501325,place:WI:5501325,Almena village,Almena,Almena,55005,Barron County,Incorporated place,45.414923,-92.03832,1
+WI,5501400,place:WI:5501400,Almond village,Almond,Almond,55097,Portage County,Incorporated place,44.261011,-89.408638,1
+WI,5501500,place:WI:5501500,Alto CDP,Alto,Alto,55039,Fond du Lac County,Census-designated place,43.667638,-88.792355,1
+WI,5501550,place:WI:5501550,Altoona city,Altoona,Altoona,55035,Eau Claire County,Incorporated place,44.799965,-91.440111,1
+WI,5501650,place:WI:5501650,Amberg CDP,Amberg,Amberg,55075,Marinette County,Census-designated place,45.506075,-87.987589,1
+WI,5501725,place:WI:5501725,Amery city,Amery,Amery,55095,Polk County,Incorporated place,45.30459,-92.363356,1
+WI,5501750,place:WI:5501750,Amherst village,Amherst,Amherst,55097,Portage County,Incorporated place,44.448329,-89.281683,1
+WI,5501800,place:WI:5501800,Amherst Junction village,Amherst Junction,Amherst Junction,55097,Portage County,Incorporated place,44.468689,-89.315384,1
+WI,5501950,place:WI:5501950,Angelica CDP,Angelica,Angelica,55115,Shawano County,Census-designated place,44.675029,-88.321566,1
+WI,5502075,place:WI:5502075,Aniwa village,Aniwa,Aniwa,55115,Shawano County,Incorporated place,45.009987,-89.207946,1
+WI,5502250,place:WI:5502250,Antigo city,Antigo,Antigo,55067,Langlade County,Incorporated place,45.141269,-89.155225,1
+WI,5502375,place:WI:5502375,Appleton city,Appleton,Appleton,55087,Outagamie County,Incorporated place,44.279795,-88.388303,1
+WI,5502500,place:WI:5502500,Arcadia city,Arcadia,Arcadia,55121,Trempealeau County,Incorporated place,44.248574,-91.491554,1
+WI,5502550,place:WI:5502550,Arena village,Arena,Arena,55049,Iowa County,Incorporated place,43.163628,-89.907397,1
+WI,5502600,place:WI:5502600,Argonne CDP,Argonne,Argonne,55041,Forest County,Census-designated place,45.658219,-88.877747,1
+WI,5502650,place:WI:5502650,Argyle village,Argyle,Argyle,55065,Lafayette County,Incorporated place,42.701409,-89.865671,1
+WI,5502700,place:WI:5502700,Arkansaw CDP,Arkansaw,Arkansaw,55091,Pepin County,Census-designated place,44.63431,-92.021072,1
+WI,5502725,place:WI:5502725,Arkdale CDP,Arkdale,Arkdale,55001,Adams County,Census-designated place,44.026185,-89.88609,1
+WI,5502800,place:WI:5502800,Arlington village,Arlington,Arlington,55021,Columbia County,Incorporated place,43.335052,-89.372573,1
+WI,5503025,place:WI:5503025,Arpin village,Arpin,Arpin,55141,Wood County,Incorporated place,44.539381,-90.031512,1
+WI,5503175,place:WI:5503175,Ashippun CDP,Ashippun,Ashippun,55027,Dodge County,Census-designated place,43.218213,-88.515942,1
+WI,5503225,place:WI:5503225,Ashland city,Ashland,Ashland,55003,Ashland County,Incorporated place,46.58176,-90.871898,1
+WI,5503425,place:WI:5503425,Ashwaubenon village,Ashwaubenon,Ashwaubenon,55009,Brown County,Incorporated place,44.478995,-88.087657,1
+WI,5503550,place:WI:5503550,Athens village,Athens,Athens,55073,Marathon County,Incorporated place,45.034871,-90.07921,1
+WI,5503775,place:WI:5503775,Auburndale village,Auburndale,Auburndale,55141,Wood County,Incorporated place,44.626596,-90.014405,1
+WI,5503825,place:WI:5503825,Augusta city,Augusta,Augusta,55035,Eau Claire County,Incorporated place,44.678407,-91.120332,1
+WI,5504025,place:WI:5504025,Avoca village,Avoca,Avoca,55049,Iowa County,Incorporated place,43.187676,-90.326345,1
+WI,5504150,place:WI:5504150,Babcock CDP,Babcock,Babcock,55141,Wood County,Census-designated place,44.304401,-90.107649,1
+WI,5504250,place:WI:5504250,Bagley village,Bagley,Bagley,55043,Grant County,Incorporated place,42.901521,-91.097002,1
+WI,5504300,place:WI:5504300,Baileys Harbor CDP,Baileys Harbor,Baileys Harbor,55029,Door County,Census-designated place,45.067089,-87.135538,1
+WI,5504400,place:WI:5504400,Baldwin village,Baldwin,Baldwin,55109,St. Croix County,Incorporated place,44.954096,-92.371826,1
+WI,5504475,place:WI:5504475,Balsam Lake village,Balsam Lake,Balsam Lake,55095,Polk County,Incorporated place,45.468651,-92.453747,1
+WI,5504525,place:WI:5504525,Bancroft CDP,Bancroft,Bancroft,55097,Portage County,Census-designated place,44.308554,-89.506181,1
+WI,5504550,place:WI:5504550,Bangor village,Bangor,Bangor,55063,La Crosse County,Incorporated place,43.893715,-90.993385,1
+WI,5504625,place:WI:5504625,Baraboo city,Baraboo,Baraboo,55111,Sauk County,Incorporated place,43.468072,-89.738387,1
+WI,5504775,place:WI:5504775,Barneveld village,Barneveld,Barneveld,55049,Iowa County,Incorporated place,43.012213,-89.898168,1
+WI,5504875,place:WI:5504875,Barron city,Barron,Barron,55005,Barron County,Incorporated place,45.402192,-91.84435,1
+WI,5504925,place:WI:5504925,Barronett CDP,Barronett,Barronett,55005,Barron County,Census-designated place,45.636229,-91.993745,1
+WI,5505275,place:WI:5505275,Batavia CDP,Batavia,Batavia,55117,Sheboygan County,Census-designated place,43.592342,-88.048365,1
+WI,5505325,place:WI:5505325,Bay City village,Bay City,Bay City,55093,Pierce County,Incorporated place,44.589297,-92.453455,1
+WI,5505350,place:WI:5505350,Bayfield city,Bayfield,Bayfield,55007,Bayfield County,Incorporated place,46.816135,-90.824838,1
+WI,5505387,place:WI:5505387,Bayfront CDP,Bayfront,Bayfront,55003,Ashland County,Census-designated place,46.623539,-90.78962,1
+WI,5505450,place:WI:5505450,Bayside village,Bayside,Bayside,55079,Milwaukee County,Incorporated place,43.182594,-87.901706,1
+WI,5505575,place:WI:5505575,Bear Creek village,Bear Creek,Bear Creek,55087,Outagamie County,Incorporated place,44.531318,-88.727536,1
+WI,5505900,place:WI:5505900,Beaver Dam city,Beaver Dam,Beaver Dam,55027,Dodge County,Incorporated place,43.475368,-88.827871,1
+WI,5506150,place:WI:5506150,Belgium village,Belgium,Belgium,55089,Ozaukee County,Incorporated place,43.501807,-87.847551,1
+WI,5506225,place:WI:5506225,Bell Center village,Bell Center,Bell Center,55023,Crawford County,Incorporated place,43.291866,-90.825505,1
+WI,5506300,place:WI:5506300,Belleville village,Belleville,Belleville,55025,Dane County,Incorporated place,42.862334,-89.53764,1
+WI,5506350,place:WI:5506350,Bellevue village,Bellevue,Bellevue,55009,Brown County,Incorporated place,44.460769,-87.955933,1
+WI,5506425,place:WI:5506425,Belmont village,Belmont,Belmont,55065,Lafayette County,Incorporated place,42.73767,-90.334319,1
+WI,5506500,place:WI:5506500,Beloit city,Beloit,Beloit,55105,Rock County,Incorporated place,42.523506,-89.01766,1
+WI,5506825,place:WI:5506825,Benton village,Benton,Benton,55065,Lafayette County,Incorporated place,42.570006,-90.38345,1
+WI,5506925,place:WI:5506925,Berlin city,Berlin,Berlin,55047,Green Lake County,Incorporated place,43.969729,-88.950033,1
+WI,5507200,place:WI:5507200,Big Bend village,Big Bend,Big Bend,55133,Waukesha County,Incorporated place,42.883908,-88.203564,1
+WI,5507250,place:WI:5507250,Big Falls village,Big Falls,Big Falls,55135,Waupaca County,Incorporated place,44.615607,-89.020239,1
+WI,5507315,place:WI:5507315,Big Foot Prairie CDP,Big Foot Prairie,Big Foot Prairie,55127,Walworth County,Census-designated place,42.495538,-88.601691,1
+WI,5507532,place:WI:5507532,Birch Hill CDP,Birch Hill,Birch Hill,55003,Ashland County,Census-designated place,46.520821,-90.555457,1
+WI,5507550,place:WI:5507550,Birchwood village,Birchwood,Birchwood,55129,Washburn County,Incorporated place,45.657679,-91.550616,1
+WI,5507600,place:WI:5507600,Birnamwood village,Birnamwood,Birnamwood,55115,Shawano County,Incorporated place,44.931882,-89.209503,1
+WI,5507650,place:WI:5507650,Biron village,Biron,Biron,55141,Wood County,Incorporated place,44.425499,-89.767822,1
+WI,5507725,place:WI:5507725,Black Creek village,Black Creek,Black Creek,55087,Outagamie County,Incorporated place,44.474519,-88.450191,1
+WI,5507800,place:WI:5507800,Black Earth village,Black Earth,Black Earth,55025,Dane County,Incorporated place,43.134619,-89.747354,1
+WI,5507900,place:WI:5507900,Black River Falls city,Black River Falls,Black River Falls,55053,Jackson County,Incorporated place,44.300256,-90.836888,1
+WI,5508075,place:WI:5508075,Blair city,Blair,Blair,55121,Trempealeau County,Incorporated place,44.327131,-91.299402,1
+WI,5508125,place:WI:5508125,Blanchardville village,Blanchardville,Blanchardville,55065,Lafayette County,Incorporated place,42.810443,-89.860576,1
+WI,5508225,place:WI:5508225,Bloomer city,Bloomer,Bloomer,55017,Chippewa County,Incorporated place,45.102828,-91.49154,1
+WI,5508265,place:WI:5508265,Bloomfield village,Bloomfield,Bloomfield,55127,Walworth County,Incorporated place,42.539973,-88.367986,1
+WI,5508375,place:WI:5508375,Bloomington village,Bloomington,Bloomington,55043,Grant County,Incorporated place,42.893141,-90.926501,1
+WI,5508475,place:WI:5508475,Blue Mounds village,Blue Mounds,Blue Mounds,55025,Dane County,Incorporated place,43.01778,-89.82686,1
+WI,5508525,place:WI:5508525,Blue River village,Blue River,Blue River,55043,Grant County,Incorporated place,43.184416,-90.571829,1
+WI,5508560,place:WI:5508560,Bluffview CDP,Bluffview,Bluffview,55111,Sauk County,Census-designated place,43.362463,-89.773743,1
+WI,5508600,place:WI:5508600,Boaz village,Boaz,Boaz,55103,Richland County,Incorporated place,43.329925,-90.527653,1
+WI,5508625,place:WI:5508625,Bohners Lake CDP,Bohners Lake,Bohners Lake,55101,Racine County,Census-designated place,42.622117,-88.283856,1
+WI,5508725,place:WI:5508725,Bonduel village,Bonduel,Bonduel,55115,Shawano County,Incorporated place,44.737994,-88.45135,1
+WI,5508850,place:WI:5508850,Boscobel city,Boscobel,Boscobel,55043,Grant County,Incorporated place,43.147139,-90.704895,1
+WI,5508925,place:WI:5508925,Boulder Junction CDP,Boulder Junction,Boulder Junction,55125,Vilas County,Census-designated place,46.1148,-89.654438,1
+WI,5509025,place:WI:5509025,Bowler village,Bowler,Bowler,55115,Shawano County,Incorporated place,44.862745,-88.981408,1
+WI,5509050,place:WI:5509050,Boyceville village,Boyceville,Boyceville,55033,Dunn County,Incorporated place,45.042815,-92.038473,1
+WI,5509075,place:WI:5509075,Boyd village,Boyd,Boyd,55017,Chippewa County,Incorporated place,44.953281,-91.039766,1
+WI,5509300,place:WI:5509300,Brandon village,Brandon,Brandon,55039,Fond du Lac County,Incorporated place,43.73542,-88.782116,1
+WI,5509465,place:WI:5509465,Brice Prairie CDP,Brice Prairie,Brice Prairie,55063,La Crosse County,Census-designated place,43.937526,-91.307364,1
+WI,5509575,place:WI:5509575,Briggsville CDP,Briggsville,Briggsville,55077,Marquette County,Census-designated place,43.660293,-89.592846,1
+WI,5509725,place:WI:5509725,Brillion city,Brillion,Brillion,55015,Calumet County,Incorporated place,44.17351,-88.067823,1
+WI,5509800,place:WI:5509800,Bristol village,Bristol,Bristol,55059,Kenosha County,Incorporated place,42.532323,-88.009098,1
+WI,5509925,place:WI:5509925,Brodhead city,Brodhead,Brodhead,55045,Green County,Incorporated place,42.616836,-89.375604,1
+WI,5510025,place:WI:5510025,Brookfield city,Brookfield,Brookfield,55133,Waukesha County,Incorporated place,43.06432,-88.117794,1
+WI,5510075,place:WI:5510075,Brooklyn village,Brooklyn,Brooklyn,55045,Green County,Incorporated place,42.849471,-89.376346,1
+WI,5510325,place:WI:5510325,Brothertown CDP,Brothertown,Brothertown,55015,Calumet County,Census-designated place,43.974964,-88.317467,1
+WI,5510375,place:WI:5510375,Brown Deer village,Brown Deer,Brown Deer,55079,Milwaukee County,Incorporated place,43.174327,-87.974959,1
+WI,5510425,place:WI:5510425,Browns Lake CDP,Browns Lake,Browns Lake,55101,Racine County,Census-designated place,42.689527,-88.237726,1
+WI,5510450,place:WI:5510450,Brownsville village,Brownsville,Brownsville,55027,Dodge County,Incorporated place,43.614608,-88.495215,1
+WI,5510475,place:WI:5510475,Browntown village,Browntown,Browntown,55045,Green County,Incorporated place,42.578789,-89.789406,1
+WI,5510500,place:WI:5510500,Bruce village,Bruce,Bruce,55107,Rusk County,Incorporated place,45.463455,-91.279266,1
+WI,5510550,place:WI:5510550,Brule CDP,Brule,Brule,55031,Douglas County,Census-designated place,46.55843,-91.570892,1
+WI,5511062,place:WI:5511062,Buffalo City city,Buffalo City,Buffalo City,55011,Buffalo County,Incorporated place,44.223161,-91.865888,1
+WI,5511200,place:WI:5511200,Burlington city,Burlington,Burlington,55101,Racine County,Incorporated place,42.674374,-88.271287,1
+WI,5511250,place:WI:5511250,Burnett CDP,Burnett,Burnett,55027,Dodge County,Census-designated place,43.506496,-88.708441,1
+WI,5511475,place:WI:5511475,Butler village,Butler,Butler,55133,Waukesha County,Incorporated place,43.108448,-88.072232,1
+WI,5511500,place:WI:5511500,Butte des Morts CDP,Butte des Morts,Butte des Morts,55139,Winnebago County,Census-designated place,44.103499,-88.65948,1
+WI,5511525,place:WI:5511525,Butternut village,Butternut,Butternut,55003,Ashland County,Incorporated place,46.013304,-90.497426,1
+WI,5511650,place:WI:5511650,Cable CDP,Cable,Cable,55007,Bayfield County,Census-designated place,46.201093,-91.293667,1
+WI,5511750,place:WI:5511750,Cadott village,Cadott,Cadott,55017,Chippewa County,Incorporated place,44.949802,-91.15376,1
+WI,5511950,place:WI:5511950,Caledonia village,Caledonia,Caledonia,55101,Racine County,Incorporated place,42.797411,-87.877405,1
+WI,5512200,place:WI:5512200,Cambria village,Cambria,Cambria,55021,Columbia County,Incorporated place,43.541358,-89.111482,1
+WI,5512225,place:WI:5512225,Cambridge village,Cambridge,Cambridge,55025,Dane County,Incorporated place,43.006555,-89.021412,1
+WI,5512250,place:WI:5512250,Cameron village,Cameron,Cameron,55005,Barron County,Incorporated place,45.403592,-91.73975,1
+WI,5512350,place:WI:5512350,Camp Douglas village,Camp Douglas,Camp Douglas,55057,Juneau County,Incorporated place,43.919733,-90.269741,1
+WI,5512325,place:WI:5512325,Campbellsport village,Campbellsport,Campbellsport,55039,Fond du Lac County,Incorporated place,43.597512,-88.280598,1
+WI,5512675,place:WI:5512675,Caroline CDP,Caroline,Caroline,55115,Shawano County,Census-designated place,44.723175,-88.89857,1
+WI,5512825,place:WI:5512825,Cascade village,Cascade,Cascade,55117,Sheboygan County,Incorporated place,43.661474,-88.008806,1
+WI,5512850,place:WI:5512850,Casco village,Casco,Casco,55061,Kewaunee County,Incorporated place,44.555185,-87.620321,1
+WI,5512950,place:WI:5512950,Cashton village,Cashton,Cashton,55081,Monroe County,Incorporated place,43.741236,-90.786589,1
+WI,5513050,place:WI:5513050,Cassville village,Cassville,Cassville,55043,Grant County,Incorporated place,42.715172,-90.989137,1
+WI,5513150,place:WI:5513150,Cataract CDP,Cataract,Cataract,55081,Monroe County,Census-designated place,44.086735,-90.838414,1
+WI,5513175,place:WI:5513175,Catawba village,Catawba,Catawba,55099,Price County,Incorporated place,45.537104,-90.533516,1
+WI,5513300,place:WI:5513300,Cazenovia village,Cazenovia,Cazenovia,55103,Richland County,Incorporated place,43.525252,-90.20404,1
+WI,5513325,place:WI:5513325,Cecil village,Cecil,Cecil,55115,Shawano County,Incorporated place,44.81137,-88.449276,1
+WI,5513475,place:WI:5513475,Cedar Grove village,Cedar Grove,Cedar Grove,55117,Sheboygan County,Incorporated place,43.568247,-87.822969,1
+WI,5513375,place:WI:5513375,Cedarburg city,Cedarburg,Cedarburg,55089,Ozaukee County,Incorporated place,43.299923,-87.988438,1
+WI,5513587,place:WI:5513587,Ceex Haci CDP,Ceex Haci,Ceex Haci,55141,Wood County,Census-designated place,44.281796,-89.965021,1
+WI,5513850,place:WI:5513850,Centuria village,Centuria,Centuria,55095,Polk County,Incorporated place,45.448691,-92.557894,1
+WI,5513880,place:WI:5513880,Chain O' Lakes CDP,Chain O' Lakes,Chain O' Lakes,55135,Waupaca County,Census-designated place,44.33203,-89.165384,1
+WI,5514150,place:WI:5514150,Chaseburg village,Chaseburg,Chaseburg,55123,Vernon County,Incorporated place,43.666954,-91.093852,1
+WI,5514175,place:WI:5514175,Chelsea CDP,Chelsea,Chelsea,55119,Taylor County,Census-designated place,45.292855,-90.305354,1
+WI,5514225,place:WI:5514225,Chenequa village,Chenequa,Chenequa,55133,Waukesha County,Incorporated place,43.123134,-88.381387,1
+WI,5514325,place:WI:5514325,Chetek city,Chetek,Chetek,55005,Barron County,Incorporated place,45.316064,-91.653232,1
+WI,5514440,place:WI:5514440,Chief Lake CDP,Chief Lake,Chief Lake,55113,Sawyer County,Census-designated place,45.938728,-91.335895,1
+WI,5514450,place:WI:5514450,Chili CDP,Chili,Chili,55019,Clark County,Census-designated place,44.633455,-90.36191,1
+WI,5514475,place:WI:5514475,Chilton city,Chilton,Chilton,55015,Calumet County,Incorporated place,44.030188,-88.161667,1
+WI,5514575,place:WI:5514575,Chippewa Falls city,Chippewa Falls,Chippewa Falls,55017,Chippewa County,Incorporated place,44.934653,-91.389165,1
+WI,5514850,place:WI:5514850,Clam Lake CDP,Clam Lake,Clam Lake,55003,Ashland County,Census-designated place,46.16187,-90.903796,1
+WI,5514925,place:WI:5514925,Clarks Mills CDP,Clarks Mills,Clarks Mills,55071,Manitowoc County,Census-designated place,44.091142,-87.862627,1
+WI,5515100,place:WI:5515100,Clayton village,Clayton,Clayton,55095,Polk County,Incorporated place,45.327452,-92.164524,1
+WI,5515250,place:WI:5515250,Clear Lake village,Clear Lake,Clear Lake,55095,Polk County,Incorporated place,45.24798,-92.267805,1
+WI,5515400,place:WI:5515400,Cleveland village,Cleveland,Cleveland,55071,Manitowoc County,Incorporated place,43.918372,-87.749539,1
+WI,5515625,place:WI:5515625,Clinton village,Clinton,Clinton,55105,Rock County,Incorporated place,42.557625,-88.86803,1
+WI,5515725,place:WI:5515725,Clintonville city,Clintonville,Clintonville,55135,Waupaca County,Incorporated place,44.62212,-88.751714,1
+WI,5515900,place:WI:5515900,Clyman village,Clyman,Clyman,55027,Dodge County,Incorporated place,43.311651,-88.72307,1
+WI,5515975,place:WI:5515975,Cobb village,Cobb,Cobb,55049,Iowa County,Incorporated place,42.966665,-90.328485,1
+WI,5516025,place:WI:5516025,Cochrane village,Cochrane,Cochrane,55011,Buffalo County,Incorporated place,44.226347,-91.841701,1
+WI,5516150,place:WI:5516150,Colby city,Colby,Colby,55019,Clark County,Incorporated place,44.911327,-90.315729,1
+WI,5516250,place:WI:5516250,Coleman village,Coleman,Coleman,55075,Marinette County,Incorporated place,45.066998,-88.035661,1
+WI,5516275,place:WI:5516275,Colfax village,Colfax,Colfax,55033,Dunn County,Incorporated place,44.997353,-91.724812,1
+WI,5516350,place:WI:5516350,Collins CDP,Collins,Collins,55071,Manitowoc County,Census-designated place,44.085671,-87.981124,1
+WI,5516375,place:WI:5516375,Coloma village,Coloma,Coloma,55137,Waushara County,Incorporated place,44.038651,-89.531148,1
+WI,5516450,place:WI:5516450,Columbus city,Columbus,Columbus,55021,Columbia County,Incorporated place,43.336805,-89.029988,1
+WI,5516500,place:WI:5516500,Combined Locks village,Combined Locks,Combined Locks,55087,Outagamie County,Incorporated place,44.261909,-88.305102,1
+WI,5516575,place:WI:5516575,Como CDP,Como,Como,55127,Walworth County,Census-designated place,42.613055,-88.486115,1
+WI,5516775,place:WI:5516775,Conrath village,Conrath,Conrath,55107,Rusk County,Incorporated place,45.384185,-91.035708,1
+WI,5516900,place:WI:5516900,Coon Valley village,Coon Valley,Coon Valley,55123,Vernon County,Incorporated place,43.701893,-91.011415,1
+WI,5517100,place:WI:5517100,Cornell city,Cornell,Cornell,55017,Chippewa County,Incorporated place,45.163817,-91.150436,1
+WI,5517150,place:WI:5517150,Cornucopia CDP,Cornucopia,Cornucopia,55007,Bayfield County,Census-designated place,46.856681,-91.108144,1
+WI,5517175,place:WI:5517175,Cottage Grove village,Cottage Grove,Cottage Grove,55025,Dane County,Incorporated place,43.092381,-89.205191,1
+WI,5517225,place:WI:5517225,Couderay village,Couderay,Couderay,55113,Sawyer County,Incorporated place,45.797438,-91.296704,1
+WI,5517425,place:WI:5517425,Crandon city,Crandon,Crandon,55041,Forest County,Incorporated place,45.567833,-88.895347,1
+WI,5517725,place:WI:5517725,Crivitz village,Crivitz,Crivitz,55075,Marinette County,Incorporated place,45.23335,-88.006947,1
+WI,5517775,place:WI:5517775,Cross Plains village,Cross Plains,Cross Plains,55025,Dane County,Incorporated place,43.113187,-89.640851,1
+WI,5517950,place:WI:5517950,Cuba City city,Cuba City,Cuba City,55043,Grant County,Incorporated place,42.603615,-90.431798,1
+WI,5517975,place:WI:5517975,Cudahy city,Cudahy,Cudahy,55079,Milwaukee County,Incorporated place,42.946711,-87.864016,1
+WI,5518025,place:WI:5518025,Cumberland city,Cumberland,Cumberland,55005,Barron County,Incorporated place,45.537981,-92.031977,1
+WI,5518125,place:WI:5518125,Curtiss village,Curtiss,Curtiss,55019,Clark County,Incorporated place,44.952767,-90.439585,1
+WI,5518500,place:WI:5518500,Dale CDP,Dale,Dale,55087,Outagamie County,Census-designated place,44.27566,-88.673017,1
+WI,5518575,place:WI:5518575,Dallas village,Dallas,Dallas,55005,Barron County,Incorporated place,45.258178,-91.814619,1
+WI,5518625,place:WI:5518625,Dalton CDP,Dalton,Dalton,55047,Green Lake County,Census-designated place,43.6564,-89.207633,1
+WI,5518650,place:WI:5518650,Danbury CDP,Danbury,Danbury,55013,Burnett County,Census-designated place,46.009548,-92.376323,1
+WI,5518700,place:WI:5518700,Dane village,Dane,Dane,55025,Dane County,Incorporated place,43.245972,-89.499531,1
+WI,5518825,place:WI:5518825,Darien village,Darien,Darien,55127,Walworth County,Incorporated place,42.599001,-88.714273,1
+WI,5518875,place:WI:5518875,Darlington city,Darlington,Darlington,55065,Lafayette County,Incorporated place,42.675803,-90.120814,1
+WI,5519775,place:WI:5519775,De Pere city,De Pere,De Pere,55009,Brown County,Incorporated place,44.429327,-88.08037,1
+WI,5519850,place:WI:5519850,De Soto village,De Soto,De Soto,55123,Vernon County,Incorporated place,43.42906,-91.196334,1
+WI,5519325,place:WI:5519325,Deer Park village,Deer Park,Deer Park,55109,St. Croix County,Incorporated place,45.18854,-92.388687,1
+WI,5519250,place:WI:5519250,Deerfield village,Deerfield,Deerfield,55025,Dane County,Incorporated place,43.048721,-89.076111,1
+WI,5519350,place:WI:5519350,DeForest village,DeForest,DeForest,55025,Dane County,Incorporated place,43.229777,-89.345486,1
+WI,5519365,place:WI:5519365,Dekorra CDP,Dekorra,Dekorra,55021,Columbia County,Census-designated place,43.453876,-89.460309,1
+WI,5519400,place:WI:5519400,Delafield city,Delafield,Delafield,55133,Waukesha County,Incorporated place,43.067421,-88.388833,1
+WI,5519450,place:WI:5519450,Delavan city,Delavan,Delavan,55127,Walworth County,Incorporated place,42.630211,-88.63061,1
+WI,5519500,place:WI:5519500,Delavan Lake CDP,Delavan Lake,Delavan Lake,55127,Walworth County,Census-designated place,42.607191,-88.61948,1
+WI,5519600,place:WI:5519600,Dellwood CDP,Dellwood,Dellwood,55001,Adams County,Census-designated place,43.945106,-89.928003,1
+WI,5519700,place:WI:5519700,Denmark village,Denmark,Denmark,55009,Brown County,Incorporated place,44.349336,-87.831198,1
+WI,5520125,place:WI:5520125,Diamond Bluff CDP,Diamond Bluff,Diamond Bluff,55093,Pierce County,Census-designated place,44.648888,-92.618884,1
+WI,5520167,place:WI:5520167,Diaperville CDP,Diaperville,Diaperville,55003,Ashland County,Census-designated place,46.604782,-90.713502,1
+WI,5520175,place:WI:5520175,Dickeyville village,Dickeyville,Dickeyville,55043,Grant County,Incorporated place,42.625437,-90.59609,1
+WI,5520275,place:WI:5520275,Dodge CDP,Dodge,Dodge,55121,Trempealeau County,Census-designated place,44.134381,-91.549335,1
+WI,5520350,place:WI:5520350,Dodgeville city,Dodgeville,Dodgeville,55049,Iowa County,Incorporated place,42.965986,-90.129723,1
+WI,5520450,place:WI:5520450,Dorchester village,Dorchester,Dorchester,55019,Clark County,Incorporated place,45.001426,-90.331157,1
+WI,5520550,place:WI:5520550,Dousman village,Dousman,Dousman,55133,Waukesha County,Incorporated place,43.009381,-88.47557,1
+WI,5520675,place:WI:5520675,Downing village,Downing,Downing,55033,Dunn County,Incorporated place,45.04982,-92.124322,1
+WI,5520725,place:WI:5520725,Downsville CDP,Downsville,Downsville,55033,Dunn County,Census-designated place,44.775055,-91.928659,1
+WI,5520775,place:WI:5520775,Doylestown village,Doylestown,Doylestown,55021,Columbia County,Incorporated place,43.428274,-89.146858,1
+WI,5520850,place:WI:5520850,Dresser village,Dresser,Dresser,55095,Polk County,Incorporated place,45.363176,-92.634675,1
+WI,5520875,place:WI:5520875,Drummond CDP,Drummond,Drummond,55007,Bayfield County,Census-designated place,46.343697,-91.249894,1
+WI,5520975,place:WI:5520975,Dunbar CDP,Dunbar,Dunbar,55075,Marinette County,Census-designated place,45.646709,-88.179716,1
+WI,5521225,place:WI:5521225,Durand city,Durand,Durand,55091,Pepin County,Incorporated place,44.6285,-91.955793,1
+WI,5521375,place:WI:5521375,Dyckesville CDP,Dyckesville,Dyckesville,55009,Brown County,Census-designated place,44.640309,-87.764824,1
+WI,5521425,place:WI:5521425,Eagle village,Eagle,Eagle,55133,Waukesha County,Incorporated place,42.875342,-88.466603,1
+WI,5521525,place:WI:5521525,Eagle Lake CDP,Eagle Lake,Eagle Lake,55101,Racine County,Census-designated place,42.695587,-88.128844,1
+WI,5521625,place:WI:5521625,Eagle River city,Eagle River,Eagle River,55125,Vilas County,Incorporated place,45.924695,-89.257779,1
+WI,5522100,place:WI:5522100,East Troy village,East Troy,East Troy,55127,Walworth County,Incorporated place,42.785184,-88.395573,1
+WI,5521900,place:WI:5521900,Eastman village,Eastman,Eastman,55023,Crawford County,Incorporated place,43.165171,-91.032768,1
+WI,5521975,place:WI:5521975,Easton CDP,Easton,Easton,55001,Adams County,Census-designated place,43.836023,-89.799125,1
+WI,5522300,place:WI:5522300,Eau Claire city,Eau Claire,Eau Claire,55035,Eau Claire County,Incorporated place,44.818343,-91.494769,1
+WI,5522475,place:WI:5522475,Eden village,Eden,Eden,55039,Fond du Lac County,Incorporated place,43.696076,-88.364966,1
+WI,5522550,place:WI:5522550,Edgar village,Edgar,Edgar,55073,Marathon County,Incorporated place,44.922851,-89.962611,1
+WI,5522575,place:WI:5522575,Edgerton city,Edgerton,Edgerton,55105,Rock County,Incorporated place,42.838947,-89.069571,1
+WI,5522700,place:WI:5522700,Edmund CDP,Edmund,Edmund,55049,Iowa County,Census-designated place,42.966221,-90.264438,1
+WI,5522850,place:WI:5522850,Egg Harbor village,Egg Harbor,Egg Harbor,55029,Door County,Incorporated place,45.051314,-87.304882,1
+WI,5522975,place:WI:5522975,Eland village,Eland,Eland,55115,Shawano County,Incorporated place,44.866913,-89.208963,1
+WI,5523025,place:WI:5523025,Elcho CDP,Elcho,Elcho,55067,Langlade County,Census-designated place,45.436794,-89.192384,1
+WI,5523075,place:WI:5523075,Elderon village,Elderon,Elderon,55073,Marathon County,Incorporated place,44.787468,-89.252007,1
+WI,5523175,place:WI:5523175,Eleva village,Eleva,Eleva,55121,Trempealeau County,Incorporated place,44.576566,-91.470254,1
+WI,5523325,place:WI:5523325,Elk Mound village,Elk Mound,Elk Mound,55033,Dunn County,Incorporated place,44.874421,-91.686238,1
+WI,5523275,place:WI:5523275,Elkhart Lake village,Elkhart Lake,Elkhart Lake,55117,Sheboygan County,Incorporated place,43.831899,-88.01312,1
+WI,5523300,place:WI:5523300,Elkhorn city,Elkhorn,Elkhorn,55127,Walworth County,Incorporated place,42.671601,-88.536256,1
+WI,5523475,place:WI:5523475,Ellison Bay CDP,Ellison Bay,Ellison Bay,55029,Door County,Census-designated place,45.255326,-87.072914,1
+WI,5523525,place:WI:5523525,Ellsworth village,Ellsworth,Ellsworth,55093,Pierce County,Incorporated place,44.736178,-92.480249,1
+WI,5523575,place:WI:5523575,Elm Grove village,Elm Grove,Elm Grove,55133,Waukesha County,Incorporated place,43.04752,-88.087029,1
+WI,5523700,place:WI:5523700,Elmwood village,Elmwood,Elmwood,55093,Pierce County,Incorporated place,44.780073,-92.14897,1
+WI,5523725,place:WI:5523725,Elmwood Park village,Elmwood Park,Elmwood Park,55101,Racine County,Incorporated place,42.691254,-87.822051,1
+WI,5523800,place:WI:5523800,Elroy city,Elroy,Elroy,55057,Juneau County,Incorporated place,43.741562,-90.270172,1
+WI,5523850,place:WI:5523850,Embarrass village,Embarrass,Embarrass,55135,Waupaca County,Incorporated place,44.670484,-88.703189,1
+WI,5523900,place:WI:5523900,Emerald CDP,Emerald,Emerald,55109,St. Croix County,Census-designated place,45.086675,-92.249478,1
+WI,5524075,place:WI:5524075,Endeavor village,Endeavor,Endeavor,55077,Marquette County,Incorporated place,43.714386,-89.469166,1
+WI,5524150,place:WI:5524150,Ephraim village,Ephraim,Ephraim,55029,Door County,Incorporated place,45.166429,-87.172463,1
+WI,5524400,place:WI:5524400,Ettrick village,Ettrick,Ettrick,55121,Trempealeau County,Incorporated place,44.169553,-91.265042,1
+WI,5524475,place:WI:5524475,Eureka CDP,Eureka,Eureka,55139,Winnebago County,Census-designated place,44.011625,-88.841388,1
+WI,5524550,place:WI:5524550,Evansville city,Evansville,Evansville,55105,Rock County,Incorporated place,42.77823,-89.294786,1
+WI,5524700,place:WI:5524700,Exeland village,Exeland,Exeland,55113,Sawyer County,Incorporated place,45.667431,-91.241478,1
+WI,5524825,place:WI:5524825,Fairchild village,Fairchild,Fairchild,55035,Eau Claire County,Incorporated place,44.605234,-90.956722,1
+WI,5525075,place:WI:5525075,Fairwater village,Fairwater,Fairwater,55039,Fond du Lac County,Incorporated place,43.742825,-88.866884,1
+WI,5525125,place:WI:5525125,Fall Creek village,Fall Creek,Fall Creek,55035,Eau Claire County,Incorporated place,44.763962,-91.277797,1
+WI,5525150,place:WI:5525150,Fall River village,Fall River,Fall River,55021,Columbia County,Incorporated place,43.385851,-89.045468,1
+WI,5525600,place:WI:5525600,Fennimore city,Fennimore,Fennimore,55043,Grant County,Incorporated place,42.985668,-90.653242,1
+WI,5525650,place:WI:5525650,Fenwood village,Fenwood,Fenwood,55073,Marathon County,Incorporated place,44.86578,-90.014578,1
+WI,5525725,place:WI:5525725,Ferryville village,Ferryville,Ferryville,55023,Crawford County,Incorporated place,43.353312,-91.095659,1
+WI,5525950,place:WI:5525950,Fitchburg city,Fitchburg,Fitchburg,55025,Dane County,Incorporated place,42.985782,-89.425334,1
+WI,5526175,place:WI:5526175,Florence CDP,Florence,Florence,55037,Florence County,Census-designated place,45.92786,-88.235237,1
+WI,5526275,place:WI:5526275,Fond du Lac city,Fond du Lac,Fond du Lac,55039,Fond du Lac County,Incorporated place,43.772182,-88.440264,1
+WI,5526350,place:WI:5526350,Fontana-on-Geneva Lake village,Fontana-on-Geneva Lake,Fontana-on-Geneva Lake,55127,Walworth County,Incorporated place,42.544319,-88.569332,1
+WI,5526400,place:WI:5526400,Footville village,Footville,Footville,55105,Rock County,Incorporated place,42.671452,-89.20841,1
+WI,5526575,place:WI:5526575,Forest Junction CDP,Forest Junction,Forest Junction,55015,Calumet County,Census-designated place,44.214763,-88.149581,1
+WI,5526625,place:WI:5526625,Forestville village,Forestville,Forestville,55029,Door County,Incorporated place,44.690892,-87.478355,1
+WI,5526675,place:WI:5526675,Fort Atkinson city,Fort Atkinson,Fort Atkinson,55055,Jefferson County,Incorporated place,42.913981,-88.85509,1
+WI,5526850,place:WI:5526850,Fountain City city,Fountain City,Fountain City,55011,Buffalo County,Incorporated place,44.118783,-91.690034,1
+WI,5526982,place:WI:5526982,Fox Crossing village,Fox Crossing,Fox Crossing,55139,Winnebago County,Incorporated place,44.223603,-88.479075,1
+WI,5527000,place:WI:5527000,Fox Lake city,Fox Lake,Fox Lake,55027,Dodge County,Incorporated place,43.561568,-88.914752,1
+WI,5527075,place:WI:5527075,Fox Point village,Fox Point,Fox Point,55079,Milwaukee County,Incorporated place,43.158139,-87.901392,1
+WI,5527125,place:WI:5527125,Francis Creek village,Francis Creek,Francis Creek,55071,Manitowoc County,Incorporated place,44.200532,-87.720911,1
+WI,5527300,place:WI:5527300,Franklin city,Franklin,Franklin,55079,Milwaukee County,Incorporated place,42.883879,-88.011548,1
+WI,5527412,place:WI:5527412,Franks Field CDP,Franks Field,Franks Field,55003,Ashland County,Census-designated place,46.552163,-90.598917,1
+WI,5527500,place:WI:5527500,Frederic village,Frederic,Frederic,55095,Polk County,Incorporated place,45.652671,-92.462464,1
+WI,5527550,place:WI:5527550,Fredonia village,Fredonia,Fredonia,55089,Ozaukee County,Incorporated place,43.471703,-87.947135,1
+WI,5527800,place:WI:5527800,Fremont village,Fremont,Fremont,55135,Waupaca County,Incorporated place,44.260335,-88.874436,1
+WI,5527875,place:WI:5527875,French Island CDP,French Island,French Island,55063,La Crosse County,Census-designated place,43.858247,-91.264889,1
+WI,5527950,place:WI:5527950,Friendship village,Friendship,Friendship,55001,Adams County,Incorporated place,43.971746,-89.820016,1
+WI,5528000,place:WI:5528000,Friesland village,Friesland,Friesland,55021,Columbia County,Incorporated place,43.587632,-89.06555,1
+WI,5528050,place:WI:5528050,Fulton CDP,Fulton,Fulton,55105,Rock County,Census-designated place,42.805338,-89.125859,1
+WI,5528200,place:WI:5528200,Galesville city,Galesville,Galesville,55121,Trempealeau County,Incorporated place,44.084289,-91.357518,1
+WI,5528450,place:WI:5528450,Gays Mills village,Gays Mills,Gays Mills,55023,Crawford County,Incorporated place,43.330114,-90.846233,1
+WI,5528625,place:WI:5528625,Genoa village,Genoa,Genoa,55123,Vernon County,Incorporated place,43.573338,-91.226053,1
+WI,5528675,place:WI:5528675,Genoa City village,Genoa City,Genoa City,55127,Walworth County,Incorporated place,42.507537,-88.318518,1
+WI,5528875,place:WI:5528875,Germantown village,Germantown,Germantown,55131,Washington County,Incorporated place,43.234527,-88.124999,1
+WI,5528925,place:WI:5528925,Gibbsville CDP,Gibbsville,Gibbsville,55117,Sheboygan County,Census-designated place,43.649117,-87.834943,1
+WI,5529050,place:WI:5529050,Gillett city,Gillett,Gillett,55083,Oconto County,Incorporated place,44.88992,-88.306176,1
+WI,5529175,place:WI:5529175,Gilman village,Gilman,Gilman,55119,Taylor County,Incorporated place,45.166194,-90.807217,1
+WI,5529200,place:WI:5529200,Gilmanton CDP,Gilmanton,Gilmanton,55011,Buffalo County,Census-designated place,44.480867,-91.672104,1
+WI,5529475,place:WI:5529475,Glen Flora village,Glen Flora,Glen Flora,55107,Rusk County,Incorporated place,45.496957,-90.893479,1
+WI,5529500,place:WI:5529500,Glen Haven CDP,Glen Haven,Glen Haven,55043,Grant County,Census-designated place,42.83574,-91.060752,1
+WI,5529350,place:WI:5529350,Glenbeulah village,Glenbeulah,Glenbeulah,55117,Sheboygan County,Incorporated place,43.798394,-88.046792,1
+WI,5529400,place:WI:5529400,Glendale city,Glendale,Glendale,55079,Milwaukee County,Incorporated place,43.126142,-87.927195,1
+WI,5529625,place:WI:5529625,Glenwood City city,Glenwood City,Glenwood City,55109,St. Croix County,Incorporated place,45.052084,-92.165828,1
+WI,5529675,place:WI:5529675,Glidden CDP,Glidden,Glidden,55003,Ashland County,Census-designated place,46.134673,-90.572127,1
+WI,5529750,place:WI:5529750,Goodman CDP,Goodman,Goodman,55075,Marinette County,Census-designated place,45.619382,-88.351427,1
+WI,5529900,place:WI:5529900,Gordon CDP,Gordon,Gordon,55031,Douglas County,Census-designated place,46.240046,-91.799513,1
+WI,5529950,place:WI:5529950,Gotham CDP,Gotham,Gotham,55103,Richland County,Census-designated place,43.222488,-90.296957,1
+WI,5530000,place:WI:5530000,Grafton village,Grafton,Grafton,55089,Ozaukee County,Incorporated place,43.324012,-87.945352,1
+WI,5530100,place:WI:5530100,Grand Marsh CDP,Grand Marsh,Grand Marsh,55001,Adams County,Census-designated place,43.885247,-89.707156,1
+WI,5530150,place:WI:5530150,Grand View CDP,Grand View,Grand View,55007,Bayfield County,Census-designated place,46.368042,-91.103438,1
+WI,5530425,place:WI:5530425,Granton village,Granton,Granton,55019,Clark County,Incorporated place,44.588698,-90.460534,1
+WI,5530450,place:WI:5530450,Grantsburg village,Grantsburg,Grantsburg,55013,Burnett County,Incorporated place,45.783794,-92.677318,1
+WI,5530575,place:WI:5530575,Gratiot village,Gratiot,Gratiot,55065,Lafayette County,Incorporated place,42.579786,-90.023795,1
+WI,5531000,place:WI:5531000,Green Bay city,Green Bay,Green Bay,55009,Brown County,Incorporated place,44.521542,-87.986568,1
+WI,5531300,place:WI:5531300,Green Lake city,Green Lake,Green Lake,55047,Green Lake County,Incorporated place,43.842785,-88.95579,1
+WI,5531475,place:WI:5531475,Green Valley CDP,Green Valley,Green Valley,55115,Shawano County,Census-designated place,44.796922,-88.268174,1
+WI,5531075,place:WI:5531075,Greenbush CDP,Greenbush,Greenbush,55117,Sheboygan County,Census-designated place,43.778076,-88.094123,1
+WI,5531125,place:WI:5531125,Greendale village,Greendale,Greendale,55079,Milwaukee County,Incorporated place,42.939993,-88.000857,1
+WI,5531175,place:WI:5531175,Greenfield city,Greenfield,Greenfield,55079,Milwaukee County,Incorporated place,42.960957,-88.004223,1
+WI,5531375,place:WI:5531375,Greenleaf village,Greenleaf,Greenleaf,55009,Brown County,Incorporated place,44.339174,-88.084926,1
+WI,5531525,place:WI:5531525,Greenville village,Greenville,Greenville,55087,Outagamie County,Incorporated place,44.284135,-88.547272,0
+WI,5531575,place:WI:5531575,Greenwood city,Greenwood,Greenwood,55019,Clark County,Incorporated place,44.765376,-90.598951,1
+WI,5531675,place:WI:5531675,Gresham village,Gresham,Gresham,55115,Shawano County,Incorporated place,44.84861,-88.786076,1
+WI,5531975,place:WI:5531975,Hager City CDP,Hager City,Hager City,55093,Pierce County,Census-designated place,44.602063,-92.533469,1
+WI,5532075,place:WI:5532075,Hales Corners village,Hales Corners,Hales Corners,55079,Milwaukee County,Incorporated place,42.941231,-88.0495,1
+WI,5532325,place:WI:5532325,Hammond village,Hammond,Hammond,55109,St. Croix County,Incorporated place,44.969023,-92.438072,1
+WI,5532450,place:WI:5532450,Hancock village,Hancock,Hancock,55137,Waushara County,Incorporated place,44.133308,-89.520954,1
+WI,5532550,place:WI:5532550,Hanover CDP,Hanover,Hanover,55105,Rock County,Census-designated place,42.638884,-89.171034,1
+WI,5532790,place:WI:5532790,Harrison village,Harrison,Harrison,55015,Calumet County,Incorporated place,44.192246,-88.294059,1
+WI,5532950,place:WI:5532950,Harrisville CDP,Harrisville,Harrisville,55077,Marquette County,Census-designated place,43.88429,-89.409885,1
+WI,5533000,place:WI:5533000,Hartford city,Hartford,Hartford,55131,Washington County,Incorporated place,43.322467,-88.377737,1
+WI,5533100,place:WI:5533100,Hartland village,Hartland,Hartland,55133,Waukesha County,Incorporated place,43.102352,-88.335595,1
+WI,5533150,place:WI:5533150,Hatfield CDP,Hatfield,Hatfield,55053,Jackson County,Census-designated place,44.416914,-90.750849,1
+WI,5533175,place:WI:5533175,Hatley village,Hatley,Hatley,55073,Marathon County,Incorporated place,44.886494,-89.337101,1
+WI,5533225,place:WI:5533225,Haugen village,Haugen,Haugen,55005,Barron County,Incorporated place,45.607593,-91.778588,1
+WI,5533275,place:WI:5533275,Hawkins village,Hawkins,Hawkins,55107,Rusk County,Incorporated place,45.511853,-90.717153,1
+WI,5533450,place:WI:5533450,Hayward city,Hayward,Hayward,55113,Sawyer County,Incorporated place,46.006588,-91.489684,1
+WI,5533500,place:WI:5533500,Hazel Green village,Hazel Green,Hazel Green,55043,Grant County,Incorporated place,42.534126,-90.43607,1
+WI,5533675,place:WI:5533675,Hebron CDP,Hebron,Hebron,55055,Jefferson County,Census-designated place,42.918787,-88.689478,1
+WI,5533825,place:WI:5533825,Helenville CDP,Helenville,Helenville,55055,Jefferson County,Census-designated place,43.016537,-88.699897,1
+WI,5533975,place:WI:5533975,Herbster CDP,Herbster,Herbster,55007,Bayfield County,Census-designated place,46.842197,-91.2419,1
+WI,5534250,place:WI:5534250,Hewitt village,Hewitt,Hewitt,55141,Wood County,Incorporated place,44.642486,-90.104834,1
+WI,5534450,place:WI:5534450,Highland village,Highland,Highland,55049,Iowa County,Incorporated place,43.047477,-90.380085,1
+WI,5534575,place:WI:5534575,Hilbert village,Hilbert,Hilbert,55015,Calumet County,Incorporated place,44.141492,-88.161084,1
+WI,5534825,place:WI:5534825,Hillsboro city,Hillsboro,Hillsboro,55123,Vernon County,Incorporated place,43.656497,-90.334389,1
+WI,5535000,place:WI:5535000,Hingham CDP,Hingham,Hingham,55117,Sheboygan County,Census-designated place,43.654278,-87.910623,1
+WI,5535075,place:WI:5535075,Hixton village,Hixton,Hixton,55053,Jackson County,Incorporated place,44.383081,-91.0148,1
+WI,5535150,place:WI:5535150,Hobart village,Hobart,Hobart,55009,Brown County,Incorporated place,44.494997,-88.158988,1
+WI,5535225,place:WI:5535225,Holcombe CDP,Holcombe,Holcombe,55017,Chippewa County,Census-designated place,45.223235,-91.11902,1
+WI,5535400,place:WI:5535400,Hollandale village,Hollandale,Hollandale,55049,Iowa County,Incorporated place,42.874972,-89.9335,1
+WI,5535450,place:WI:5535450,Holmen village,Holmen,Holmen,55063,La Crosse County,Incorporated place,43.971196,-91.266515,1
+WI,5535750,place:WI:5535750,Horicon city,Horicon,Horicon,55027,Dodge County,Incorporated place,43.445001,-88.640328,1
+WI,5535850,place:WI:5535850,Hortonville village,Hortonville,Hortonville,55087,Outagamie County,Incorporated place,44.335766,-88.636599,1
+WI,5535900,place:WI:5535900,Houlton CDP,Houlton,Houlton,55109,St. Croix County,Census-designated place,45.066337,-92.786307,1
+WI,5535950,place:WI:5535950,Howard village,Howard,Howard,55009,Brown County,Incorporated place,44.568621,-88.071724,1
+WI,5536025,place:WI:5536025,Howards Grove village,Howards Grove,Howards Grove,55117,Sheboygan County,Incorporated place,43.82974,-87.820326,1
+WI,5536250,place:WI:5536250,Hudson city,Hudson,Hudson,55109,St. Croix County,Incorporated place,44.963882,-92.730253,1
+WI,5536400,place:WI:5536400,Humbird CDP,Humbird,Humbird,55019,Clark County,Census-designated place,44.531283,-90.879166,1
+WI,5536525,place:WI:5536525,Hurley city,Hurley,Hurley,55051,Iron County,Incorporated place,46.445331,-90.20869,1
+WI,5536625,place:WI:5536625,Hustisford village,Hustisford,Hustisford,55027,Dodge County,Incorporated place,43.342696,-88.603471,1
+WI,5536675,place:WI:5536675,Hustler village,Hustler,Hustler,55057,Juneau County,Incorporated place,43.877286,-90.265801,1
+WI,5536800,place:WI:5536800,Independence city,Independence,Independence,55121,Trempealeau County,Incorporated place,44.309824,-91.42071,1
+WI,5536925,place:WI:5536925,Ingram village,Ingram,Ingram,55107,Rusk County,Incorporated place,45.505624,-90.813687,1
+WI,5537025,place:WI:5537025,Iola village,Iola,Iola,55135,Waupaca County,Incorporated place,44.509708,-89.117218,1
+WI,5537125,place:WI:5537125,Iron Belt CDP,Iron Belt,Iron Belt,55051,Iron County,Census-designated place,46.403009,-90.319218,1
+WI,5537150,place:WI:5537150,Iron Ridge village,Iron Ridge,Iron Ridge,55027,Dodge County,Incorporated place,43.398061,-88.531928,1
+WI,5537175,place:WI:5537175,Iron River CDP,Iron River,Iron River,55007,Bayfield County,Census-designated place,46.579339,-91.399852,1
+WI,5537225,place:WI:5537225,Ironton village,Ironton,Ironton,55111,Sauk County,Incorporated place,43.544188,-90.145467,1
+WI,5537575,place:WI:5537575,Ixonia CDP,Ixonia,Ixonia,55055,Jefferson County,Census-designated place,43.137193,-88.596316,1
+WI,5537675,place:WI:5537675,Jackson village,Jackson,Jackson,55131,Washington County,Incorporated place,43.319582,-88.164074,1
+WI,5537825,place:WI:5537825,Janesville city,Janesville,Janesville,55105,Rock County,Incorporated place,42.684698,-89.01317,1
+WI,5537900,place:WI:5537900,Jefferson city,Jefferson,Jefferson,55055,Jefferson County,Incorporated place,43.003955,-88.808473,1
+WI,5538225,place:WI:5538225,Jim Falls CDP,Jim Falls,Jim Falls,55017,Chippewa County,Census-designated place,45.047712,-91.271586,1
+WI,5538350,place:WI:5538350,Johnson Creek village,Johnson Creek,Johnson Creek,55055,Jefferson County,Incorporated place,43.079053,-88.771069,1
+WI,5538487,place:WI:5538487,Jolmaville CDP,Jolmaville,Jolmaville,55003,Ashland County,Census-designated place,46.433051,-90.749832,1
+WI,5538600,place:WI:5538600,Juda CDP,Juda,Juda,55045,Green County,Census-designated place,42.589961,-89.50922,1
+WI,5538625,place:WI:5538625,Jump River CDP,Jump River,Jump River,55119,Taylor County,Census-designated place,45.355532,-90.796445,1
+WI,5538650,place:WI:5538650,Junction City village,Junction City,Junction City,55097,Portage County,Incorporated place,44.594933,-89.769656,1
+WI,5538675,place:WI:5538675,Juneau city,Juneau,Juneau,55027,Dodge County,Incorporated place,43.402904,-88.703256,1
+WI,5538800,place:WI:5538800,Kaukauna city,Kaukauna,Kaukauna,55087,Outagamie County,Incorporated place,44.276791,-88.263857,1
+WI,5538900,place:WI:5538900,Kekoskee village,Kekoskee,Kekoskee,55027,Dodge County,Incorporated place,43.500597,-88.584595,1
+WI,5539000,place:WI:5539000,Kellnersville village,Kellnersville,Kellnersville,55071,Manitowoc County,Incorporated place,44.225167,-87.803115,1
+WI,5539150,place:WI:5539150,Kendall village,Kendall,Kendall,55081,Monroe County,Incorporated place,43.792669,-90.367649,1
+WI,5539175,place:WI:5539175,Kennan village,Kennan,Kennan,55099,Price County,Incorporated place,45.530074,-90.586831,1
+WI,5539225,place:WI:5539225,Kenosha city,Kenosha,Kenosha,55059,Kenosha County,Incorporated place,42.587526,-87.879996,1
+WI,5539250,place:WI:5539250,Keshena CDP,Keshena,Keshena,55078,Menominee County,Census-designated place,44.866766,-88.585363,1
+WI,5539300,place:WI:5539300,Kewaskum village,Kewaskum,Kewaskum,55131,Washington County,Incorporated place,43.519295,-88.231403,1
+WI,5539350,place:WI:5539350,Kewaunee city,Kewaunee,Kewaunee,55061,Kewaunee County,Incorporated place,44.463574,-87.521699,1
+WI,5539525,place:WI:5539525,Kiel city,Kiel,Kiel,55071,Manitowoc County,Incorporated place,43.91602,-88.026497,1
+WI,5539550,place:WI:5539550,Kieler CDP,Kieler,Kieler,55043,Grant County,Census-designated place,42.582306,-90.605183,1
+WI,5539650,place:WI:5539650,Kimberly village,Kimberly,Kimberly,55087,Outagamie County,Incorporated place,44.26676,-88.338004,1
+WI,5539700,place:WI:5539700,King CDP,King,King,55135,Waupaca County,Census-designated place,44.342086,-89.12485,1
+WI,5539750,place:WI:5539750,Kingston village,Kingston,Kingston,55047,Green Lake County,Incorporated place,43.693268,-89.131469,1
+WI,5539975,place:WI:5539975,Knapp village,Knapp,Knapp,55033,Dunn County,Incorporated place,44.948898,-92.080767,1
+WI,5540125,place:WI:5540125,Knowlton CDP,Knowlton,Knowlton,55073,Marathon County,Census-designated place,44.718188,-89.680363,1
+WI,5540275,place:WI:5540275,Kohler village,Kohler,Kohler,55117,Sheboygan County,Incorporated place,43.739983,-87.776838,1
+WI,5540450,place:WI:5540450,Krakow CDP,Krakow,Krakow,55115,Shawano County,Census-designated place,44.758507,-88.261086,1
+WI,5540550,place:WI:5540550,Kronenwetter village,Kronenwetter,Kronenwetter,55073,Marathon County,Incorporated place,44.819893,-89.588673,1
+WI,5540775,place:WI:5540775,La Crosse city,La Crosse,La Crosse,55063,La Crosse County,Incorporated place,43.825075,-91.22457,1
+WI,5540875,place:WI:5540875,La Farge village,La Farge,La Farge,55123,Vernon County,Incorporated place,43.578243,-90.638265,1
+WI,5542825,place:WI:5542825,La Valle village,La Valle,La Valle,55111,Sauk County,Incorporated place,43.582669,-90.130171,1
+WI,5540675,place:WI:5540675,Lac du Flambeau CDP,Lac du Flambeau,Lac du Flambeau,55125,Vilas County,Census-designated place,45.962279,-89.896865,1
+WI,5540750,place:WI:5540750,Lac La Belle village,Lac La Belle,Lac La Belle,55133,Waukesha County,Incorporated place,43.159186,-88.479751,1
+WI,5540850,place:WI:5540850,Ladysmith city,Ladysmith,Ladysmith,55107,Rusk County,Incorporated place,45.460974,-91.097573,1
+WI,5541160,place:WI:5541160,Lake Arrowhead CDP,Lake Arrowhead,Lake Arrowhead,55001,Adams County,Census-designated place,44.203602,-89.844627,1
+WI,5541210,place:WI:5541210,Lake Camelot CDP,Lake Camelot,Lake Camelot,55001,Adams County,Census-designated place,44.213174,-89.763795,1
+WI,5541300,place:WI:5541300,Lake Delton village,Lake Delton,Lake Delton,55111,Sauk County,Incorporated place,43.591986,-89.783139,1
+WI,5541450,place:WI:5541450,Lake Geneva city,Lake Geneva,Lake Geneva,55127,Walworth County,Incorporated place,42.582456,-88.426808,1
+WI,5541525,place:WI:5541525,Lake Hallie village,Lake Hallie,Lake Hallie,55017,Chippewa County,Incorporated place,44.88838,-91.424188,1
+WI,5541560,place:WI:5541560,Lake Ivanhoe CDP,Lake Ivanhoe,Lake Ivanhoe,55127,Walworth County,Census-designated place,42.583836,-88.3402,1
+WI,5541583,place:WI:5541583,Lake Koshkonong CDP,Lake Koshkonong,Lake Koshkonong,55055,Jefferson County,Census-designated place,42.860502,-88.940129,1
+WI,5541645,place:WI:5541645,Lake Lorraine CDP,Lake Lorraine,Lake Lorraine,55127,Walworth County,Census-designated place,42.731125,-88.737169,1
+WI,5541675,place:WI:5541675,Lake Mills city,Lake Mills,Lake Mills,55055,Jefferson County,Incorporated place,43.077639,-88.906411,1
+WI,5541725,place:WI:5541725,Lake Nebagamon village,Lake Nebagamon,Lake Nebagamon,55031,Douglas County,Incorporated place,46.497748,-91.704353,1
+WI,5541765,place:WI:5541765,Lake Ripley CDP,Lake Ripley,Lake Ripley,55055,Jefferson County,Census-designated place,43.008632,-88.990254,1
+WI,5541772,place:WI:5541772,Lake Sherwood CDP,Lake Sherwood,Lake Sherwood,55001,Adams County,Census-designated place,44.206264,-89.788058,1
+WI,5541875,place:WI:5541875,Lake Tomahawk CDP,Lake Tomahawk,Lake Tomahawk,55085,Oneida County,Census-designated place,45.809175,-89.577404,1
+WI,5541975,place:WI:5541975,Lake Wazeecha CDP,Lake Wazeecha,Lake Wazeecha,55141,Wood County,Census-designated place,44.37087,-89.749231,1
+WI,5542012,place:WI:5542012,Lake Wisconsin CDP,Lake Wisconsin,Lake Wisconsin,55021,Columbia County,Census-designated place,43.36474,-89.59601,1
+WI,5542025,place:WI:5542025,Lake Wissota CDP,Lake Wissota,Lake Wissota,55017,Chippewa County,Census-designated place,44.920124,-91.296937,1
+WI,5542050,place:WI:5542050,Lakewood CDP,Lakewood,Lakewood,55083,Oconto County,Census-designated place,45.300592,-88.514541,1
+WI,5542250,place:WI:5542250,Lancaster city,Lancaster,Lancaster,55043,Grant County,Incorporated place,42.846093,-90.705811,1
+WI,5542450,place:WI:5542450,Lannon village,Lannon,Lannon,55133,Waukesha County,Incorporated place,43.15724,-88.158198,1
+WI,5542475,place:WI:5542475,Laona CDP,Laona,Laona,55041,Forest County,Census-designated place,45.55968,-88.669656,1
+WI,5542805,place:WI:5542805,Lauderdale Lakes CDP,Lauderdale Lakes,Lauderdale Lakes,55127,Walworth County,Census-designated place,42.772349,-88.580552,1
+WI,5543025,place:WI:5543025,Lebanon CDP,Lebanon,Lebanon,55027,Dodge County,Census-designated place,43.257449,-88.632197,1
+WI,5543207,place:WI:5543207,Legend Lake CDP,Legend Lake,Legend Lake,55078,Menominee County,Census-designated place,44.895116,-88.543082,1
+WI,5543325,place:WI:5543325,Lena village,Lena,Lena,55083,Oconto County,Incorporated place,44.953037,-88.047325,1
+WI,5543575,place:WI:5543575,Leopolis CDP,Leopolis,Leopolis,55115,Shawano County,Census-designated place,44.765481,-88.844716,1
+WI,5543725,place:WI:5543725,Lewis CDP,Lewis,Lewis,55095,Polk County,Census-designated place,45.721887,-92.392215,1
+WI,5544033,place:WI:5544033,Lily Lake CDP,Lily Lake,Lily Lake,55059,Kenosha County,Census-designated place,42.565703,-88.209981,1
+WI,5544225,place:WI:5544225,Lime Ridge village,Lime Ridge,Lime Ridge,55111,Sauk County,Incorporated place,43.467579,-90.157692,1
+WI,5544625,place:WI:5544625,Linden village,Linden,Linden,55049,Iowa County,Incorporated place,42.918614,-90.274181,1
+WI,5544847,place:WI:5544847,Lisbon village,Lisbon,Lisbon,55133,Waukesha County,Incorporated place,43.157584,-88.250411,0
+WI,5544950,place:WI:5544950,Little Chute village,Little Chute,Little Chute,55087,Outagamie County,Incorporated place,44.291128,-88.320399,1
+WI,5545220,place:WI:5545220,Little Round Lake CDP,Little Round Lake,Little Round Lake,55113,Sawyer County,Census-designated place,45.969426,-91.368866,1
+WI,5545225,place:WI:5545225,Little Sturgeon CDP,Little Sturgeon,Little Sturgeon,55029,Door County,Census-designated place,44.842029,-87.57449,1
+WI,5545325,place:WI:5545325,Livingston village,Livingston,Livingston,55043,Grant County,Incorporated place,42.900095,-90.43368,1
+WI,5545350,place:WI:5545350,Lodi city,Lodi,Lodi,55021,Columbia County,Incorporated place,43.316671,-89.542646,1
+WI,5545400,place:WI:5545400,Loganville village,Loganville,Loganville,55111,Sauk County,Incorporated place,43.43702,-90.037365,1
+WI,5545425,place:WI:5545425,Lohrville village,Lohrville,Lohrville,55137,Waushara County,Incorporated place,44.038153,-89.121158,1
+WI,5545475,place:WI:5545475,Lomira village,Lomira,Lomira,55027,Dodge County,Incorporated place,43.59411,-88.442393,1
+WI,5545575,place:WI:5545575,Lone Rock village,Lone Rock,Lone Rock,55103,Richland County,Incorporated place,43.18567,-90.201286,1
+WI,5545600,place:WI:5545600,Long Lake CDP,Long Lake,Long Lake,55037,Florence County,Census-designated place,45.843027,-88.667306,1
+WI,5545950,place:WI:5545950,Lowell village,Lowell,Lowell,55027,Dodge County,Incorporated place,43.333564,-88.813704,1
+WI,5546075,place:WI:5546075,Loyal city,Loyal,Loyal,55019,Clark County,Incorporated place,44.736538,-90.495628,1
+WI,5546150,place:WI:5546150,Lublin village,Lublin,Lublin,55119,Taylor County,Incorporated place,45.074915,-90.723808,1
+WI,5546200,place:WI:5546200,Luck village,Luck,Luck,55095,Polk County,Incorporated place,45.576753,-92.462503,1
+WI,5546400,place:WI:5546400,Luxemburg village,Luxemburg,Luxemburg,55061,Kewaunee County,Incorporated place,44.544225,-87.706741,1
+WI,5546600,place:WI:5546600,Lyndon Station village,Lyndon Station,Lyndon Station,55057,Juneau County,Incorporated place,43.708788,-89.893654,1
+WI,5546675,place:WI:5546675,Lynxville village,Lynxville,Lynxville,55023,Crawford County,Incorporated place,43.25272,-91.049381,1
+WI,5546700,place:WI:5546700,Lyons CDP,Lyons,Lyons,55127,Walworth County,Census-designated place,42.648231,-88.360114,1
+WI,5548000,place:WI:5548000,Madison city,Madison,Madison,55025,Dane County,Incorporated place,43.087815,-89.429856,1
+WI,5548175,place:WI:5548175,Maiden Rock village,Maiden Rock,Maiden Rock,55093,Pierce County,Incorporated place,44.567911,-92.309344,1
+WI,5548225,place:WI:5548225,Maine village,Maine,Maine,55073,Marathon County,Incorporated place,45.05803,-89.681321,1
+WI,5548350,place:WI:5548350,Manawa city,Manawa,Manawa,55135,Waupaca County,Incorporated place,44.461517,-88.920464,1
+WI,5548500,place:WI:5548500,Manitowoc city,Manitowoc,Manitowoc,55071,Manitowoc County,Incorporated place,44.097981,-87.678945,1
+WI,5548750,place:WI:5548750,Maple Bluff village,Maple Bluff,Maple Bluff,55025,Dane County,Incorporated place,43.117399,-89.37105,1
+WI,5549100,place:WI:5549100,Marathon City village,Marathon City,Marathon City,55073,Marathon County,Incorporated place,44.938987,-89.850059,1
+WI,5549175,place:WI:5549175,Marengo CDP,Marengo,Marengo,55003,Ashland County,Census-designated place,46.421926,-90.808097,1
+WI,5549250,place:WI:5549250,Maribel village,Maribel,Maribel,55071,Manitowoc County,Incorporated place,44.278597,-87.802126,1
+WI,5549300,place:WI:5549300,Marinette city,Marinette,Marinette,55075,Marinette County,Incorporated place,45.086794,-87.632443,1
+WI,5549400,place:WI:5549400,Marion city,Marion,Marion,55135,Waupaca County,Incorporated place,44.677261,-88.902386,1
+WI,5549450,place:WI:5549450,Markesan city,Markesan,Markesan,55047,Green Lake County,Incorporated place,43.714159,-88.998151,1
+WI,5549500,place:WI:5549500,Marquette village,Marquette,Marquette,55047,Green Lake County,Incorporated place,43.74643,-89.138319,1
+WI,5549575,place:WI:5549575,Marshall village,Marshall,Marshall,55025,Dane County,Incorporated place,43.170486,-89.062647,1
+WI,5549675,place:WI:5549675,Marshfield city,Marshfield,Marshfield,55141,Wood County,Incorporated place,44.663291,-90.171736,1
+WI,5549900,place:WI:5549900,Mason village,Mason,Mason,55007,Bayfield County,Incorporated place,46.436322,-91.059846,1
+WI,5550000,place:WI:5550000,Mattoon village,Mattoon,Mattoon,55115,Shawano County,Incorporated place,45.004593,-89.04118,1
+WI,5550025,place:WI:5550025,Mauston city,Mauston,Mauston,55057,Juneau County,Incorporated place,43.799976,-90.079554,1
+WI,5550200,place:WI:5550200,Mayville city,Mayville,Mayville,55027,Dodge County,Incorporated place,43.498154,-88.547639,1
+WI,5550225,place:WI:5550225,Mazomanie village,Mazomanie,Mazomanie,55025,Dane County,Incorporated place,43.17245,-89.795308,1
+WI,5546850,place:WI:5546850,McFarland village,McFarland,McFarland,55025,Dane County,Incorporated place,43.020991,-89.284219,1
+WI,5550425,place:WI:5550425,Medford city,Medford,Medford,55119,Taylor County,Incorporated place,45.135634,-90.342467,1
+WI,5550700,place:WI:5550700,Mellen city,Mellen,Mellen,55003,Ashland County,Incorporated place,46.323977,-90.660454,1
+WI,5550750,place:WI:5550750,Melrose village,Melrose,Melrose,55053,Jackson County,Incorporated place,44.131154,-90.996919,1
+WI,5550800,place:WI:5550800,Melvina village,Melvina,Melvina,55081,Monroe County,Incorporated place,43.802449,-90.781459,1
+WI,5550825,place:WI:5550825,Menasha city,Menasha,Menasha,55139,Winnebago County,Incorporated place,44.212338,-88.427357,1
+WI,5551000,place:WI:5551000,Menomonee Falls village,Menomonee Falls,Menomonee Falls,55133,Waukesha County,Incorporated place,43.159411,-88.121548,1
+WI,5551025,place:WI:5551025,Menomonie city,Menomonie,Menomonie,55033,Dunn County,Incorporated place,44.889187,-91.90981,1
+WI,5551150,place:WI:5551150,Mequon city,Mequon,Mequon,55089,Ozaukee County,Incorporated place,43.21117,-88.015761,1
+WI,5551175,place:WI:5551175,Mercer CDP,Mercer,Mercer,55051,Iron County,Census-designated place,46.161334,-90.041842,1
+WI,5551250,place:WI:5551250,Merrill city,Merrill,Merrill,55069,Lincoln County,Incorporated place,45.180635,-89.700339,1
+WI,5551300,place:WI:5551300,Merrillan village,Merrillan,Merrillan,55053,Jackson County,Incorporated place,44.447852,-90.834286,1
+WI,5551325,place:WI:5551325,Merrimac village,Merrimac,Merrimac,55111,Sauk County,Incorporated place,43.375581,-89.626862,1
+WI,5551375,place:WI:5551375,Merton village,Merton,Merton,55133,Waukesha County,Incorporated place,43.143682,-88.312344,1
+WI,5551617,place:WI:5551617,Middle Village CDP,Middle Village,Middle Village,55078,Menominee County,Census-designated place,44.926491,-88.717814,1
+WI,5551575,place:WI:5551575,Middleton city,Middleton,Middleton,55025,Dane County,Incorporated place,43.106959,-89.50634,1
+WI,5551875,place:WI:5551875,Milladore village,Milladore,Milladore,55141,Wood County,Incorporated place,44.605625,-89.855161,1
+WI,5552025,place:WI:5552025,Millston CDP,Millston,Millston,55053,Jackson County,Census-designated place,44.189264,-90.645691,1
+WI,5552075,place:WI:5552075,Milltown village,Milltown,Milltown,55095,Polk County,Incorporated place,45.521082,-92.498503,1
+WI,5552200,place:WI:5552200,Milton city,Milton,Milton,55105,Rock County,Incorporated place,42.774675,-88.939991,1
+WI,5553000,place:WI:5553000,Milwaukee city,Milwaukee,Milwaukee,55079,Milwaukee County,Incorporated place,43.063348,-87.966695,1
+WI,5553050,place:WI:5553050,Mindoro CDP,Mindoro,Mindoro,55063,La Crosse County,Census-designated place,44.020139,-91.101926,1
+WI,5553100,place:WI:5553100,Mineral Point city,Mineral Point,Mineral Point,55049,Iowa County,Incorporated place,42.863216,-90.181792,1
+WI,5553200,place:WI:5553200,Minocqua CDP,Minocqua,Minocqua,55085,Oneida County,Census-designated place,45.882,-89.704271,1
+WI,5553250,place:WI:5553250,Minong village,Minong,Minong,55129,Washburn County,Incorporated place,46.098978,-91.825949,1
+WI,5553325,place:WI:5553325,Mishicot village,Mishicot,Mishicot,55071,Manitowoc County,Incorporated place,44.228533,-87.639805,1
+WI,5553358,place:WI:5553358,Mission CDP,Mission,Mission,55053,Jackson County,Census-designated place,44.345353,-90.763086,1
+WI,5553500,place:WI:5553500,Mole Lake CDP,Mole Lake,Mole Lake,55041,Forest County,Census-designated place,45.486128,-88.975622,1
+WI,5553600,place:WI:5553600,Mondovi city,Mondovi,Mondovi,55011,Buffalo County,Incorporated place,44.570255,-91.666851,1
+WI,5553675,place:WI:5553675,Monona city,Monona,Monona,55025,Dane County,Incorporated place,43.053873,-89.333513,1
+WI,5553750,place:WI:5553750,Monroe city,Monroe,Monroe,55045,Green County,Incorporated place,42.603432,-89.636505,1
+WI,5553875,place:WI:5553875,Montello city,Montello,Montello,55077,Marquette County,Incorporated place,43.794357,-89.333183,1
+WI,5553950,place:WI:5553950,Montfort village,Montfort,Montfort,55043,Grant County,Incorporated place,42.969892,-90.433193,1
+WI,5554000,place:WI:5554000,Monticello village,Monticello,Monticello,55045,Green County,Incorporated place,42.744662,-89.590257,1
+WI,5554075,place:WI:5554075,Montreal city,Montreal,Montreal,55051,Iron County,Incorporated place,46.433177,-90.241935,1
+WI,5554500,place:WI:5554500,Mosinee city,Mosinee,Mosinee,55073,Marathon County,Incorporated place,44.79182,-89.684328,1
+WI,5554650,place:WI:5554650,Mount Calvary village,Mount Calvary,Mount Calvary,55039,Fond du Lac County,Incorporated place,43.823819,-88.241063,1
+WI,5554675,place:WI:5554675,Mount Hope village,Mount Hope,Mount Hope,55043,Grant County,Incorporated place,42.969635,-90.859559,1
+WI,5554725,place:WI:5554725,Mount Horeb village,Mount Horeb,Mount Horeb,55025,Dane County,Incorporated place,43.005939,-89.731704,1
+WI,5554875,place:WI:5554875,Mount Pleasant village,Mount Pleasant,Mount Pleasant,55101,Racine County,Incorporated place,42.708832,-87.884894,1
+WI,5554900,place:WI:5554900,Mount Sterling village,Mount Sterling,Mount Sterling,55023,Crawford County,Incorporated place,43.31619,-90.929223,1
+WI,5554625,place:WI:5554625,Mountain CDP,Mountain,Mountain,55083,Oconto County,Census-designated place,45.186387,-88.468086,1
+WI,5555050,place:WI:5555050,Mukwonago village,Mukwonago,Mukwonago,55133,Waukesha County,Incorporated place,42.852988,-88.320626,1
+WI,5555200,place:WI:5555200,Muscoda village,Muscoda,Muscoda,55043,Grant County,Incorporated place,43.186419,-90.4319,1
+WI,5555275,place:WI:5555275,Muskego city,Muskego,Muskego,55133,Waukesha County,Incorporated place,42.871356,-88.13432,1
+WI,5555550,place:WI:5555550,Nashotah village,Nashotah,Nashotah,55133,Waukesha County,Incorporated place,43.089143,-88.408232,1
+WI,5555650,place:WI:5555650,Navarino CDP,Navarino,Navarino,55115,Shawano County,Census-designated place,44.610914,-88.493352,1
+WI,5555700,place:WI:5555700,Necedah village,Necedah,Necedah,55057,Juneau County,Incorporated place,44.022091,-90.075051,1
+WI,5555750,place:WI:5555750,Neenah city,Neenah,Neenah,55139,Winnebago County,Incorporated place,44.164575,-88.480038,1
+WI,5555800,place:WI:5555800,Neillsville city,Neillsville,Neillsville,55019,Clark County,Incorporated place,44.560267,-90.591593,1
+WI,5555875,place:WI:5555875,Nekoosa city,Nekoosa,Nekoosa,55141,Wood County,Incorporated place,44.313177,-89.907891,1
+WI,5555950,place:WI:5555950,Nelson village,Nelson,Nelson,55011,Buffalo County,Incorporated place,44.419593,-91.997308,1
+WI,5556000,place:WI:5556000,Nelsonville village,Nelsonville,Nelsonville,55097,Portage County,Incorporated place,44.490185,-89.303494,1
+WI,5556050,place:WI:5556050,Neopit CDP,Neopit,Neopit,55078,Menominee County,Census-designated place,44.984688,-88.814575,1
+WI,5556075,place:WI:5556075,Neosho village,Neosho,Neosho,55027,Dodge County,Incorporated place,43.307141,-88.521184,1
+WI,5556125,place:WI:5556125,Neshkoro village,Neshkoro,Neshkoro,55077,Marquette County,Incorporated place,43.965128,-89.215764,1
+WI,5556350,place:WI:5556350,New Auburn village,New Auburn,New Auburn,55017,Chippewa County,Incorporated place,45.19879,-91.566335,1
+WI,5556375,place:WI:5556375,New Berlin city,New Berlin,New Berlin,55133,Waukesha County,Incorporated place,42.972,-88.129168,1
+WI,5556700,place:WI:5556700,New Glarus village,New Glarus,New Glarus,55045,Green County,Incorporated place,42.812229,-89.633311,1
+WI,5556800,place:WI:5556800,New Holstein city,New Holstein,New Holstein,55015,Calumet County,Incorporated place,43.949222,-88.094881,1
+WI,5556900,place:WI:5556900,New Lisbon city,New Lisbon,New Lisbon,55057,Juneau County,Incorporated place,43.875292,-90.162379,1
+WI,5556925,place:WI:5556925,New London city,New London,New London,55135,Waupaca County,Incorporated place,44.39591,-88.73861,1
+WI,5557000,place:WI:5557000,New Munster CDP,New Munster,New Munster,55059,Kenosha County,Census-designated place,42.575763,-88.231108,1
+WI,5557008,place:WI:5557008,New Odanah CDP,New Odanah,New Odanah,55003,Ashland County,Census-designated place,46.598621,-90.650817,1
+WI,5557050,place:WI:5557050,New Post CDP,New Post,New Post,55113,Sawyer County,Census-designated place,45.902783,-91.207142,1
+WI,5557100,place:WI:5557100,New Richmond city,New Richmond,New Richmond,55109,St. Croix County,Incorporated place,45.125235,-92.5481,1
+WI,5556250,place:WI:5556250,Newald CDP,Newald,Newald,55041,Forest County,Census-designated place,45.739576,-88.700487,1
+WI,5556450,place:WI:5556450,Newburg village,Newburg,Newburg,55131,Washington County,Incorporated place,43.432257,-88.047924,1
+WI,5557325,place:WI:5557325,Niagara city,Niagara,Niagara,55075,Marinette County,Incorporated place,45.779259,-88.003197,1
+WI,5557375,place:WI:5557375,Nichols village,Nichols,Nichols,55087,Outagamie County,Incorporated place,44.567202,-88.467799,1
+WI,5557700,place:WI:5557700,North Bay village,North Bay,North Bay,55101,Racine County,Incorporated place,42.764171,-87.780619,1
+WI,5558000,place:WI:5558000,North Fond du Lac village,North Fond du Lac,North Fond du Lac,55039,Fond du Lac County,Incorporated place,43.811601,-88.485379,1
+WI,5558025,place:WI:5558025,North Freedom village,North Freedom,North Freedom,55111,Sauk County,Incorporated place,43.457966,-89.853833,1
+WI,5558050,place:WI:5558050,North Hudson village,North Hudson,North Hudson,55109,St. Croix County,Incorporated place,44.995765,-92.754998,1
+WI,5558100,place:WI:5558100,North Lake CDP,North Lake,North Lake,55133,Waukesha County,Census-designated place,43.155297,-88.367406,1
+WI,5558400,place:WI:5558400,North Prairie village,North Prairie,North Prairie,55133,Waukesha County,Incorporated place,42.940891,-88.402108,1
+WI,5558375,place:WI:5558375,Northport CDP,Northport,Northport,55135,Waupaca County,Census-designated place,44.405015,-88.811252,1
+WI,5558575,place:WI:5558575,Norwalk village,Norwalk,Norwalk,55081,Monroe County,Incorporated place,43.834174,-90.626854,1
+WI,5558800,place:WI:5558800,Oak Creek city,Oak Creek,Oak Creek,55079,Milwaukee County,Incorporated place,42.878693,-87.898676,1
+WI,5558850,place:WI:5558850,Oakdale village,Oakdale,Oakdale,55081,Monroe County,Incorporated place,43.962167,-90.379118,1
+WI,5558900,place:WI:5558900,Oakfield village,Oakfield,Oakfield,55039,Fond du Lac County,Incorporated place,43.684063,-88.548571,1
+WI,5559250,place:WI:5559250,Oconomowoc city,Oconomowoc,Oconomowoc,55133,Waukesha County,Incorporated place,43.101015,-88.495115,1
+WI,5559300,place:WI:5559300,Oconomowoc Lake village,Oconomowoc Lake,Oconomowoc Lake,55133,Waukesha County,Incorporated place,43.103817,-88.449738,1
+WI,5559350,place:WI:5559350,Oconto city,Oconto,Oconto,55083,Oconto County,Incorporated place,44.892663,-87.868509,1
+WI,5559400,place:WI:5559400,Oconto Falls city,Oconto Falls,Oconto Falls,55083,Oconto County,Incorporated place,44.865353,-88.136777,1
+WI,5559450,place:WI:5559450,Odanah CDP,Odanah,Odanah,55003,Ashland County,Census-designated place,46.594079,-90.677951,1
+WI,5559475,place:WI:5559475,Ogdensburg village,Ogdensburg,Ogdensburg,55135,Waupaca County,Incorporated place,44.457205,-89.024327,1
+WI,5559500,place:WI:5559500,Ogema CDP,Ogema,Ogema,55099,Price County,Census-designated place,45.456606,-90.300279,1
+WI,5559800,place:WI:5559800,Oliver village,Oliver,Oliver,55031,Douglas County,Incorporated place,46.645755,-92.184661,1
+WI,5559875,place:WI:5559875,Omro city,Omro,Omro,55139,Winnebago County,Incorporated place,44.038973,-88.736994,1
+WI,5559925,place:WI:5559925,Onalaska city,Onalaska,Onalaska,55063,La Crosse County,Incorporated place,43.890002,-91.20419,1
+WI,5560075,place:WI:5560075,Ontario village,Ontario,Ontario,55123,Vernon County,Incorporated place,43.721919,-90.593219,1
+WI,5560100,place:WI:5560100,Oostburg village,Oostburg,Oostburg,55117,Sheboygan County,Incorporated place,43.624134,-87.788108,1
+WI,5560200,place:WI:5560200,Oregon village,Oregon,Oregon,55025,Dane County,Incorporated place,42.925064,-89.388976,1
+WI,5560250,place:WI:5560250,Orfordville village,Orfordville,Orfordville,55105,Rock County,Incorporated place,42.629367,-89.257284,1
+WI,5560450,place:WI:5560450,Osceola village,Osceola,Osceola,55095,Polk County,Incorporated place,45.319253,-92.695792,1
+WI,5560500,place:WI:5560500,Oshkosh city,Oshkosh,Oshkosh,55139,Winnebago County,Incorporated place,44.023168,-88.56226,1
+WI,5560575,place:WI:5560575,Osseo city,Osseo,Osseo,55121,Trempealeau County,Incorporated place,44.579831,-91.213829,1
+WI,5560825,place:WI:5560825,Owen city,Owen,Owen,55019,Clark County,Incorporated place,44.948191,-90.562616,1
+WI,5560875,place:WI:5560875,Oxford village,Oxford,Oxford,55077,Marquette County,Incorporated place,43.780372,-89.563582,1
+WI,5560912,place:WI:5560912,Paac Ciinak CDP,Paac Ciinak,Paac Ciinak,55115,Shawano County,Census-designated place,44.857952,-89.155069,1
+WI,5560950,place:WI:5560950,Packwaukee CDP,Packwaukee,Packwaukee,55077,Marquette County,Census-designated place,43.765302,-89.45979,1
+WI,5560975,place:WI:5560975,Paddock Lake village,Paddock Lake,Paddock Lake,55059,Kenosha County,Incorporated place,42.570528,-88.106783,1
+WI,5561025,place:WI:5561025,Palmyra village,Palmyra,Palmyra,55055,Jefferson County,Incorporated place,42.883426,-88.601422,1
+WI,5561100,place:WI:5561100,Pardeeville village,Pardeeville,Pardeeville,55021,Columbia County,Incorporated place,43.537272,-89.302647,1
+WI,5561200,place:WI:5561200,Park Falls city,Park Falls,Park Falls,55099,Price County,Incorporated place,45.936358,-90.443969,1
+WI,5561325,place:WI:5561325,Park Ridge village,Park Ridge,Park Ridge,55097,Portage County,Incorporated place,44.519992,-89.546272,1
+WI,5561425,place:WI:5561425,Patch Grove village,Patch Grove,Patch Grove,55043,Grant County,Incorporated place,42.940288,-90.972343,1
+WI,5561675,place:WI:5561675,Pella CDP,Pella,Pella,55115,Shawano County,Census-designated place,44.743504,-88.822441,1
+WI,5561750,place:WI:5561750,Pembine CDP,Pembine,Pembine,55075,Marinette County,Census-designated place,45.636676,-87.991306,1
+WI,5561800,place:WI:5561800,Pence CDP,Pence,Pence,55051,Iron County,Census-designated place,46.410323,-90.2695,1
+WI,5561925,place:WI:5561925,Pepin village,Pepin,Pepin,55091,Pepin County,Incorporated place,44.44278,-92.147668,1
+WI,5562175,place:WI:5562175,Peshtigo city,Peshtigo,Peshtigo,55075,Marinette County,Incorporated place,45.059392,-87.749483,1
+WI,5562240,place:WI:5562240,Pewaukee city,Pewaukee,Pewaukee city,55133,Waukesha County,Incorporated place,43.066141,-88.244465,1
+WI,5562250,place:WI:5562250,Pewaukee village,Pewaukee,Pewaukee village,55133,Waukesha County,Incorporated place,43.086873,-88.256387,1
+WI,5562450,place:WI:5562450,Phillips city,Phillips,Phillips,55099,Price County,Incorporated place,45.693888,-90.405493,1
+WI,5562675,place:WI:5562675,Pigeon Falls village,Pigeon Falls,Pigeon Falls,55121,Trempealeau County,Incorporated place,44.424587,-91.208341,1
+WI,5562975,place:WI:5562975,Pine River CDP,Pine River,Pine River,55137,Waushara County,Census-designated place,44.148598,-89.075882,1
+WI,5563100,place:WI:5563100,Pittsville city,Pittsville,Pittsville,55141,Wood County,Incorporated place,44.441673,-90.136571,1
+WI,5563125,place:WI:5563125,Plain village,Plain,Plain,55111,Sauk County,Incorporated place,43.277195,-90.042668,1
+WI,5563150,place:WI:5563150,Plainfield village,Plainfield,Plainfield,55137,Waushara County,Incorporated place,44.217499,-89.496926,1
+WI,5563250,place:WI:5563250,Platteville city,Platteville,Platteville,55043,Grant County,Incorporated place,42.727923,-90.468103,1
+WI,5563300,place:WI:5563300,Pleasant Prairie village,Pleasant Prairie,Pleasant Prairie,55059,Kenosha County,Incorporated place,42.526679,-87.888302,1
+WI,5563525,place:WI:5563525,Plover village,Plover,Plover,55097,Portage County,Incorporated place,44.46202,-89.537971,1
+WI,5563600,place:WI:5563600,Plum City village,Plum City,Plum City,55093,Pierce County,Incorporated place,44.635583,-92.191705,1
+WI,5563700,place:WI:5563700,Plymouth city,Plymouth,Plymouth,55117,Sheboygan County,Incorporated place,43.743303,-87.965664,1
+WI,5563925,place:WI:5563925,Polonia CDP,Polonia,Polonia,55097,Portage County,Census-designated place,44.580548,-89.410626,1
+WI,5563975,place:WI:5563975,Poplar village,Poplar,Poplar,55031,Douglas County,Incorporated place,46.581849,-91.782321,1
+WI,5564175,place:WI:5564175,Port Edwards village,Port Edwards,Port Edwards,55141,Wood County,Incorporated place,44.357256,-89.850363,1
+WI,5564450,place:WI:5564450,Port Washington city,Port Washington,Port Washington,55089,Ozaukee County,Incorporated place,43.40151,-87.875718,1
+WI,5564500,place:WI:5564500,Port Wing CDP,Port Wing,Port Wing,55007,Bayfield County,Census-designated place,46.775588,-91.380612,1
+WI,5564100,place:WI:5564100,Portage city,Portage,Portage,55021,Columbia County,Incorporated place,43.548951,-89.465866,1
+WI,5564550,place:WI:5564550,Post Lake CDP,Post Lake,Post Lake,55067,Langlade County,Census-designated place,45.430458,-89.090342,1
+WI,5564625,place:WI:5564625,Potosi village,Potosi,Potosi,55043,Grant County,Incorporated place,42.685491,-90.707793,1
+WI,5564675,place:WI:5564675,Potter village,Potter,Potter,55015,Calumet County,Incorporated place,44.11836,-88.103044,1
+WI,5564700,place:WI:5564700,Potter Lake CDP,Potter Lake,Potter Lake,55127,Walworth County,Census-designated place,42.821811,-88.348681,1
+WI,5564750,place:WI:5564750,Pound village,Pound,Pound,55075,Marinette County,Incorporated place,45.098946,-88.032449,1
+WI,5564825,place:WI:5564825,Powers Lake CDP,Powers Lake,Powers Lake,55059,Kenosha County,Census-designated place,42.541681,-88.299119,1
+WI,5564950,place:WI:5564950,Poy Sippi CDP,Poy Sippi,Poy Sippi,55137,Waushara County,Census-designated place,44.137318,-89.002805,1
+WI,5564900,place:WI:5564900,Poynette village,Poynette,Poynette,55021,Columbia County,Incorporated place,43.39306,-89.405384,1
+WI,5565050,place:WI:5565050,Prairie du Chien city,Prairie du Chien,Prairie du Chien,55023,Crawford County,Incorporated place,43.041618,-91.135408,1
+WI,5565100,place:WI:5565100,Prairie du Sac village,Prairie du Sac,Prairie du Sac,55111,Sauk County,Incorporated place,43.293928,-89.735231,1
+WI,5565150,place:WI:5565150,Prairie Farm village,Prairie Farm,Prairie Farm,55005,Barron County,Incorporated place,45.236352,-91.98003,1
+WI,5565325,place:WI:5565325,Prentice village,Prentice,Prentice,55099,Price County,Incorporated place,45.541591,-90.295072,1
+WI,5565375,place:WI:5565375,Prescott city,Prescott,Prescott,55093,Pierce County,Incorporated place,44.753753,-92.788726,1
+WI,5565600,place:WI:5565600,Princeton city,Princeton,Princeton,55047,Green Lake County,Incorporated place,43.855891,-89.124818,1
+WI,5565675,place:WI:5565675,Pulaski village,Pulaski,Pulaski,55009,Brown County,Incorporated place,44.668206,-88.234279,1
+WI,5565725,place:WI:5565725,Pulcifer CDP,Pulcifer,Pulcifer,55115,Shawano County,Census-designated place,44.849906,-88.362989,1
+WI,5566000,place:WI:5566000,Racine city,Racine,Racine,55101,Racine County,Incorporated place,42.725569,-87.814224,1
+WI,5566050,place:WI:5566050,Radisson village,Radisson,Radisson,55113,Sawyer County,Incorporated place,45.767476,-91.217417,1
+WI,5566150,place:WI:5566150,Randolph village,Randolph,Randolph,55027,Dodge County,Incorporated place,43.539472,-89.002811,1
+WI,5566200,place:WI:5566200,Random Lake village,Random Lake,Random Lake,55117,Sheboygan County,Incorporated place,43.554748,-87.957765,1
+WI,5566350,place:WI:5566350,Raymond village,Raymond,Raymond,55101,Racine County,Incorporated place,42.799157,-88.010847,1
+WI,5566450,place:WI:5566450,Readstown village,Readstown,Readstown,55123,Vernon County,Incorporated place,43.448745,-90.759082,1
+WI,5566625,place:WI:5566625,Redgranite village,Redgranite,Redgranite,55137,Waushara County,Incorporated place,44.053606,-89.115252,1
+WI,5566800,place:WI:5566800,Reedsburg city,Reedsburg,Reedsburg,55111,Sauk County,Incorporated place,43.535051,-89.995509,1
+WI,5566875,place:WI:5566875,Reedsville village,Reedsville,Reedsville,55071,Manitowoc County,Incorporated place,44.15253,-87.951806,1
+WI,5566900,place:WI:5566900,Reeseville village,Reeseville,Reeseville,55027,Dodge County,Incorporated place,43.306173,-88.84455,1
+WI,5567050,place:WI:5567050,Reserve CDP,Reserve,Reserve,55113,Sawyer County,Census-designated place,45.823074,-91.365221,1
+WI,5567100,place:WI:5567100,Rewey village,Rewey,Rewey,55049,Iowa County,Incorporated place,42.841865,-90.396108,1
+WI,5567200,place:WI:5567200,Rhinelander city,Rhinelander,Rhinelander,55085,Oneida County,Incorporated place,45.634166,-89.428775,1
+WI,5567275,place:WI:5567275,Rib Lake village,Rib Lake,Rib Lake,55119,Taylor County,Incorporated place,45.319514,-90.20224,1
+WI,5567320,place:WI:5567320,Rib Mountain village,Rib Mountain,Rib Mountain,55073,Marathon County,Incorporated place,44.896885,-89.683423,1
+WI,5567350,place:WI:5567350,Rice Lake city,Rice Lake,Rice Lake,55005,Barron County,Incorporated place,45.48556,-91.743701,1
+WI,5567475,place:WI:5567475,Richfield village,Richfield,Richfield,55131,Washington County,Incorporated place,43.24314,-88.234518,1
+WI,5567625,place:WI:5567625,Richland Center city,Richland Center,Richland Center,55103,Richland County,Incorporated place,43.339577,-90.38343,1
+WI,5567800,place:WI:5567800,Ridgeland village,Ridgeland,Ridgeland,55033,Dunn County,Incorporated place,45.198063,-91.897959,1
+WI,5567875,place:WI:5567875,Ridgeway village,Ridgeway,Ridgeway,55049,Iowa County,Incorporated place,42.998424,-89.992575,1
+WI,5568100,place:WI:5568100,Rio village,Rio,Rio,55021,Columbia County,Incorporated place,43.452161,-89.241591,1
+WI,5568175,place:WI:5568175,Ripon city,Ripon,Ripon,55039,Fond du Lac County,Incorporated place,43.84356,-88.837936,1
+WI,5568275,place:WI:5568275,River Falls city,River Falls,River Falls,55093,Pierce County,Incorporated place,44.86085,-92.625708,1
+WI,5568325,place:WI:5568325,River Hills village,River Hills,River Hills,55079,Milwaukee County,Incorporated place,43.173227,-87.931537,1
+WI,5568475,place:WI:5568475,Roberts village,Roberts,Roberts,55109,St. Croix County,Incorporated place,44.973292,-92.550082,1
+WI,5568550,place:WI:5568550,Rochester village,Rochester,Rochester,55101,Racine County,Incorporated place,42.732913,-88.250323,1
+WI,5568800,place:WI:5568800,Rock Falls CDP,Rock Falls,Rock Falls,55033,Dunn County,Census-designated place,44.715715,-91.698991,1
+WI,5568975,place:WI:5568975,Rock Springs village,Rock Springs,Rock Springs,55111,Sauk County,Incorporated place,43.478726,-89.926906,1
+WI,5568725,place:WI:5568725,Rockdale village,Rockdale,Rockdale,55025,Dane County,Incorporated place,42.969984,-89.03055,1
+WI,5568900,place:WI:5568900,Rockland village,Rockland,Rockland,55063,La Crosse County,Incorporated place,43.907723,-90.916898,1
+WI,5569300,place:WI:5569300,Rome CDP,Rome,Rome,55055,Jefferson County,Census-designated place,42.985324,-88.64986,1
+WI,5569525,place:WI:5569525,Rosendale village,Rosendale,Rosendale,55039,Fond du Lac County,Incorporated place,43.808904,-88.671241,1
+WI,5569575,place:WI:5569575,Rosholt village,Rosholt,Rosholt,55097,Portage County,Incorporated place,44.630177,-89.305189,1
+WI,5569725,place:WI:5569725,Rothschild village,Rothschild,Rothschild,55073,Marathon County,Incorporated place,44.873879,-89.620177,1
+WI,5569950,place:WI:5569950,Rubicon CDP,Rubicon,Rubicon,55027,Dodge County,Census-designated place,43.337226,-88.452554,1
+WI,5570000,place:WI:5570000,Rudolph village,Rudolph,Rudolph,55141,Wood County,Incorporated place,44.497198,-89.801808,1
+WI,5571163,place:WI:5571163,Salem Lakes village,Salem Lakes,Salem Lakes,55059,Kenosha County,Incorporated place,42.536496,-88.133169,1
+WI,5571512,place:WI:5571512,Sand Pillow CDP,Sand Pillow,Sand Pillow,55053,Jackson County,Census-designated place,44.331306,-90.763742,1
+WI,5571585,place:WI:5571585,Sandy Hook CDP,Sandy Hook,Sandy Hook,55043,Grant County,Census-designated place,42.546614,-90.616775,1
+WI,5571650,place:WI:5571650,Sauk City village,Sauk City,Sauk City,55111,Sauk County,Incorporated place,43.273272,-89.732456,1
+WI,5571700,place:WI:5571700,Saukville village,Saukville,Saukville,55089,Ozaukee County,Incorporated place,43.388946,-87.943896,1
+WI,5571850,place:WI:5571850,Saxon CDP,Saxon,Saxon,55051,Iron County,Census-designated place,46.494084,-90.409955,1
+WI,5571950,place:WI:5571950,Sayner CDP,Sayner,Sayner,55125,Vilas County,Census-designated place,45.987754,-89.541914,1
+WI,5571975,place:WI:5571975,Scandinavia village,Scandinavia,Scandinavia,55135,Waupaca County,Incorporated place,44.460733,-89.146542,1
+WI,5572150,place:WI:5572150,Schofield city,Schofield,Schofield,55073,Marathon County,Incorporated place,44.913348,-89.621478,1
+WI,5572475,place:WI:5572475,Seneca CDP,Seneca,Seneca,55023,Crawford County,Census-designated place,43.265826,-90.956582,1
+WI,5572650,place:WI:5572650,Sextonville CDP,Sextonville,Sextonville,55103,Richland County,Census-designated place,43.279474,-90.292373,1
+WI,5572670,place:WI:5572670,Seymour CDP,Seymour,"Seymour, Eau Claire County",55035,Eau Claire County,Census-designated place,44.819561,-91.436434,1
+WI,5572725,place:WI:5572725,Seymour city,Seymour,"Seymour, Outagamie County",55087,Outagamie County,Incorporated place,44.514416,-88.32734,1
+WI,5572875,place:WI:5572875,Sharon village,Sharon,Sharon,55127,Walworth County,Incorporated place,42.498713,-88.730451,1
+WI,5572925,place:WI:5572925,Shawano city,Shawano,Shawano,55115,Shawano County,Incorporated place,44.773521,-88.58195,1
+WI,5572975,place:WI:5572975,Sheboygan city,Sheboygan,Sheboygan,55117,Sheboygan County,Incorporated place,43.738713,-87.731531,1
+WI,5573025,place:WI:5573025,Sheboygan Falls city,Sheboygan Falls,Sheboygan Falls,55117,Sheboygan County,Incorporated place,43.72925,-87.825012,1
+WI,5573175,place:WI:5573175,Sheldon village,Sheldon,Sheldon,55107,Rusk County,Incorporated place,45.311904,-90.956665,1
+WI,5573200,place:WI:5573200,Shell Lake city,Shell Lake,Shell Lake,55129,Washburn County,Incorporated place,45.72637,-91.910025,1
+WI,5573525,place:WI:5573525,Sherwood village,Sherwood,Sherwood,55015,Calumet County,Incorporated place,44.176933,-88.275019,1
+WI,5573625,place:WI:5573625,Shiocton village,Shiocton,Shiocton,55087,Outagamie County,Incorporated place,44.445041,-88.57645,1
+WI,5573675,place:WI:5573675,Shopiere CDP,Shopiere,Shopiere,55105,Rock County,Census-designated place,42.572183,-88.936206,1
+WI,5573725,place:WI:5573725,Shorewood village,Shorewood,Shorewood,55079,Milwaukee County,Incorporated place,43.091338,-87.886654,1
+WI,5573750,place:WI:5573750,Shorewood Hills village,Shorewood Hills,Shorewood Hills,55025,Dane County,Incorporated place,43.07885,-89.446864,1
+WI,5573825,place:WI:5573825,Shullsburg city,Shullsburg,Shullsburg,55065,Lafayette County,Incorporated place,42.57328,-90.23474,1
+WI,5574175,place:WI:5574175,Siren village,Siren,Siren,55013,Burnett County,Incorporated place,45.777829,-92.383151,1
+WI,5574225,place:WI:5574225,Sister Bay village,Sister Bay,Sister Bay,55029,Door County,Incorporated place,45.187097,-87.129354,1
+WI,5574400,place:WI:5574400,Slinger village,Slinger,Slinger,55131,Washington County,Incorporated place,43.335246,-88.277065,1
+WI,5574500,place:WI:5574500,Sobieski CDP,Sobieski,Sobieski,55083,Oconto County,Census-designated place,44.722749,-88.065881,1
+WI,5574550,place:WI:5574550,Soldiers Grove village,Soldiers Grove,Soldiers Grove,55023,Crawford County,Incorporated place,43.392305,-90.773432,1
+WI,5574575,place:WI:5574575,Solon Springs village,Solon Springs,Solon Springs,55031,Douglas County,Incorporated place,46.347825,-91.829388,1
+WI,5574625,place:WI:5574625,Somers village,Somers,Somers,55059,Kenosha County,Incorporated place,42.643242,-87.892166,1
+WI,5574675,place:WI:5574675,Somerset village,Somerset,Somerset,55109,St. Croix County,Incorporated place,45.125706,-92.672961,1
+WI,5575125,place:WI:5575125,South Milwaukee city,South Milwaukee,South Milwaukee,55079,Milwaukee County,Incorporated place,42.912643,-87.862312,1
+WI,5575275,place:WI:5575275,South Wayne village,South Wayne,South Wayne,55065,Lafayette County,Incorporated place,42.567588,-89.876146,1
+WI,5575325,place:WI:5575325,Sparta city,Sparta,Sparta,55081,Monroe County,Incorporated place,43.938249,-90.812705,1
+WI,5575400,place:WI:5575400,Spencer village,Spencer,Spencer,55073,Marathon County,Incorporated place,44.753615,-90.298465,1
+WI,5575625,place:WI:5575625,Spooner city,Spooner,Spooner,55129,Washburn County,Incorporated place,45.825917,-91.886125,1
+WI,5576025,place:WI:5576025,Spring Green village,Spring Green,Spring Green,55111,Sauk County,Incorporated place,43.177577,-90.068837,1
+WI,5576300,place:WI:5576300,Spring Valley village,Spring Valley,Spring Valley,55093,Pierce County,Incorporated place,44.852406,-92.243075,1
+WI,5575775,place:WI:5575775,Springbrook CDP,Springbrook,Springbrook,55129,Washburn County,Census-designated place,45.946907,-91.688996,1
+WI,5575975,place:WI:5575975,Springfield CDP,Springfield,Springfield,55127,Walworth County,Census-designated place,42.640657,-88.413527,1
+WI,5570500,place:WI:5570500,St. Cloud village,St. Cloud,St. Cloud,55039,Fond du Lac County,Incorporated place,43.822438,-88.171707,1
+WI,5570550,place:WI:5570550,St. Croix Falls city,St. Croix Falls,St. Croix Falls,55095,Polk County,Incorporated place,45.411367,-92.624466,1
+WI,5570650,place:WI:5570650,St. Francis city,St. Francis,St. Francis,55079,Milwaukee County,Incorporated place,42.970968,-87.871702,1
+WI,5570800,place:WI:5570800,St. Joseph CDP,St. Joseph,St. Joseph,55063,La Crosse County,Census-designated place,43.785465,-91.043627,1
+WI,5571025,place:WI:5571025,St. Nazianz village,St. Nazianz,St. Nazianz,55071,Manitowoc County,Incorporated place,44.007345,-87.924787,1
+WI,5571050,place:WI:5571050,St. Peter CDP,St. Peter,St. Peter,55039,Fond du Lac County,Census-designated place,43.838283,-88.343335,1
+WI,5576625,place:WI:5576625,Stanley city,Stanley,Stanley,55017,Chippewa County,Incorporated place,44.959474,-90.947958,1
+WI,5576825,place:WI:5576825,Star Prairie village,Star Prairie,Star Prairie,55109,St. Croix County,Incorporated place,45.197508,-92.532121,1
+WI,5577100,place:WI:5577100,Stetsonville village,Stetsonville,Stetsonville,55119,Taylor County,Incorporated place,45.077056,-90.314273,1
+WI,5577175,place:WI:5577175,Steuben village,Steuben,Steuben,55023,Crawford County,Incorporated place,43.183354,-90.856936,1
+WI,5577200,place:WI:5577200,Stevens Point city,Stevens Point,Stevens Point,55097,Portage County,Incorporated place,44.5253,-89.550377,1
+WI,5577400,place:WI:5577400,Stockbridge village,Stockbridge,Stockbridge,55015,Calumet County,Incorporated place,44.068447,-88.309707,1
+WI,5577475,place:WI:5577475,Stockholm village,Stockholm,Stockholm,55091,Pepin County,Incorporated place,44.490989,-92.272135,1
+WI,5577550,place:WI:5577550,Stoddard village,Stoddard,Stoddard,55123,Vernon County,Incorporated place,43.663586,-91.213724,1
+WI,5577625,place:WI:5577625,Stone Lake CDP,Stone Lake,Stone Lake,55129,Washburn County,Census-designated place,45.838934,-91.552094,1
+WI,5577675,place:WI:5577675,Stoughton city,Stoughton,Stoughton,55025,Dane County,Incorporated place,42.923769,-89.222515,1
+WI,5577750,place:WI:5577750,Stratford village,Stratford,Stratford,55073,Marathon County,Incorporated place,44.797592,-90.070587,1
+WI,5577825,place:WI:5577825,Strum village,Strum,Strum,55121,Trempealeau County,Incorporated place,44.553205,-91.388642,1
+WI,5577875,place:WI:5577875,Sturgeon Bay city,Sturgeon Bay,Sturgeon Bay,55029,Door County,Incorporated place,44.822676,-87.369806,1
+WI,5577925,place:WI:5577925,Sturtevant village,Sturtevant,Sturtevant,55101,Racine County,Incorporated place,42.6989,-87.901553,1
+WI,5577975,place:WI:5577975,Suamico village,Suamico,Suamico,55009,Brown County,Incorporated place,44.626729,-88.033045,1
+WI,5578175,place:WI:5578175,Sullivan village,Sullivan,Sullivan,55055,Jefferson County,Incorporated place,43.012343,-88.595331,1
+WI,5578375,place:WI:5578375,Summit village,Summit,Summit,55133,Waukesha County,Incorporated place,43.055109,-88.473858,1
+WI,5578425,place:WI:5578425,Summit Lake CDP,Summit Lake,Summit Lake,55067,Langlade County,Census-designated place,45.381756,-89.207126,1
+WI,5578600,place:WI:5578600,Sun Prairie city,Sun Prairie,Sun Prairie,55025,Dane County,Incorporated place,43.183796,-89.234319,1
+WI,5578650,place:WI:5578650,Superior city,Superior,Superior city,55031,Douglas County,Incorporated place,46.693164,-92.081086,1
+WI,5578660,place:WI:5578660,Superior village,Superior,Superior village,55031,Douglas County,Incorporated place,46.648749,-92.108809,1
+WI,5578725,place:WI:5578725,Suring village,Suring,Suring,55083,Oconto County,Incorporated place,45.000727,-88.369325,1
+WI,5578750,place:WI:5578750,Sussex village,Sussex,Sussex,55133,Waukesha County,Incorporated place,43.134854,-88.226041,1
+WI,5578980,place:WI:5578980,Tainter Lake CDP,Tainter Lake,Tainter Lake,55033,Dunn County,Census-designated place,44.987376,-91.860185,1
+WI,5579100,place:WI:5579100,Taycheedah CDP,Taycheedah,Taycheedah,55039,Fond du Lac County,Census-designated place,43.813647,-88.387236,1
+WI,5579150,place:WI:5579150,Taylor village,Taylor,Taylor,55053,Jackson County,Incorporated place,44.321748,-91.120505,1
+WI,5579250,place:WI:5579250,Tennyson village,Tennyson,Tennyson,55043,Grant County,Incorporated place,42.690615,-90.686704,1
+WI,5579375,place:WI:5579375,Theresa village,Theresa,Theresa,55027,Dodge County,Incorporated place,43.516767,-88.453809,1
+WI,5579475,place:WI:5579475,Thiensville village,Thiensville,Thiensville,55089,Ozaukee County,Incorporated place,43.235436,-87.976832,1
+WI,5579600,place:WI:5579600,Thornton CDP,Thornton,Thornton,55115,Shawano County,Census-designated place,44.798508,-88.691213,1
+WI,5579625,place:WI:5579625,Thorp city,Thorp,Thorp,55019,Clark County,Incorporated place,44.957957,-90.802185,1
+WI,5579675,place:WI:5579675,Three Lakes CDP,Three Lakes,Three Lakes,55085,Oneida County,Census-designated place,45.804495,-89.169056,1
+WI,5579740,place:WI:5579740,Tichigan CDP,Tichigan,Tichigan,55101,Racine County,Census-designated place,42.81104,-88.208782,1
+WI,5579825,place:WI:5579825,Tigerton village,Tigerton,Tigerton,55115,Shawano County,Incorporated place,44.741624,-89.045936,1
+WI,5579900,place:WI:5579900,Tilleda CDP,Tilleda,Tilleda,55115,Shawano County,Census-designated place,44.815522,-88.912575,1
+WI,5580075,place:WI:5580075,Tomah city,Tomah,Tomah,55081,Monroe County,Incorporated place,43.987927,-90.501437,1
+WI,5580125,place:WI:5580125,Tomahawk city,Tomahawk,Tomahawk,55069,Lincoln County,Incorporated place,45.478961,-89.711773,1
+WI,5580225,place:WI:5580225,Tony village,Tony,Tony,55107,Rusk County,Incorporated place,45.480315,-90.997158,1
+WI,5580300,place:WI:5580300,Townsend CDP,Townsend,Townsend,55083,Oconto County,Census-designated place,45.324031,-88.590417,1
+WI,5580425,place:WI:5580425,Trego CDP,Trego,Trego,55129,Washburn County,Census-designated place,45.905054,-91.833088,1
+WI,5580475,place:WI:5580475,Trempealeau village,Trempealeau,Trempealeau,55121,Trempealeau County,Incorporated place,44.002249,-91.427834,1
+WI,5581025,place:WI:5581025,Tunnel City CDP,Tunnel City,Tunnel City,55081,Monroe County,Census-designated place,44.004959,-90.567979,1
+WI,5581075,place:WI:5581075,Turtle Lake village,Turtle Lake,"Turtle Lake, Barron County",55005,Barron County,Incorporated place,45.390622,-92.149832,1
+WI,5581090,place:WI:5581090,Turtle Lake CDP,Turtle Lake,"Turtle Lake, Walworth County",55127,Walworth County,Census-designated place,42.732098,-88.678038,1
+WI,5581150,place:WI:5581150,Tustin CDP,Tustin,Tustin,55137,Waushara County,Census-designated place,44.169798,-88.896056,1
+WI,5581250,place:WI:5581250,Twin Lakes village,Twin Lakes,Twin Lakes,55059,Kenosha County,Incorporated place,42.515576,-88.250369,1
+WI,5581325,place:WI:5581325,Two Rivers city,Two Rivers,Two Rivers,55071,Manitowoc County,Incorporated place,44.156137,-87.577352,1
+WI,5581725,place:WI:5581725,Union Center village,Union Center,Union Center,55057,Juneau County,Incorporated place,43.682589,-90.263336,1
+WI,5581775,place:WI:5581775,Union Grove village,Union Grove,Union Grove,55101,Racine County,Incorporated place,42.686384,-88.049509,1
+WI,5581850,place:WI:5581850,Unity village,Unity,Unity,55073,Marathon County,Incorporated place,44.851124,-90.313074,1
+WI,5582200,place:WI:5582200,Valders village,Valders,Valders,55071,Manitowoc County,Incorporated place,44.068148,-87.885813,1
+WI,5582450,place:WI:5582450,Van Dyne CDP,Van Dyne,Van Dyne,55039,Fond du Lac County,Census-designated place,43.886211,-88.49781,1
+WI,5582575,place:WI:5582575,Vernon village,Vernon,Vernon,55133,Waukesha County,Incorporated place,42.879031,-88.266618,0
+WI,5582600,place:WI:5582600,Verona city,Verona,Verona,55025,Dane County,Incorporated place,42.991265,-89.539247,1
+WI,5582650,place:WI:5582650,Vesper village,Vesper,Vesper,55141,Wood County,Incorporated place,44.480485,-89.967613,1
+WI,5582900,place:WI:5582900,Viola village,Viola,Viola,55123,Vernon County,Incorporated place,43.508187,-90.674004,1
+WI,5582925,place:WI:5582925,Viroqua city,Viroqua,Viroqua,55123,Vernon County,Incorporated place,43.560622,-90.886155,1
+WI,5583000,place:WI:5583000,Wabeno CDP,Wabeno,Wabeno,55041,Forest County,Census-designated place,45.439411,-88.658068,1
+WI,5583100,place:WI:5583100,Waldo village,Waldo,Waldo,55117,Sheboygan County,Incorporated place,43.676965,-87.947613,1
+WI,5583175,place:WI:5583175,Wales village,Wales,Wales,55133,Waukesha County,Incorporated place,43.005837,-88.370357,1
+WI,5583250,place:WI:5583250,Walworth village,Walworth,Walworth,55127,Walworth County,Incorporated place,42.530502,-88.593917,1
+WI,5583450,place:WI:5583450,Warrens village,Warrens,Warrens,55081,Monroe County,Incorporated place,44.127534,-90.517843,1
+WI,5583525,place:WI:5583525,Washburn city,Washburn,Washburn,55007,Bayfield County,Incorporated place,46.676651,-90.901287,1
+WI,5583825,place:WI:5583825,Waterford village,Waterford,Waterford,55101,Racine County,Incorporated place,42.766022,-88.216765,1
+WI,5583925,place:WI:5583925,Waterloo city,Waterloo,Waterloo,55055,Jefferson County,Incorporated place,43.183201,-88.990433,1
+WI,5583975,place:WI:5583975,Watertown city,Watertown,Watertown,55055,Jefferson County,Incorporated place,43.189405,-88.72891,1
+WI,5584150,place:WI:5584150,Waubeka CDP,Waubeka,Waubeka,55089,Ozaukee County,Census-designated place,43.47021,-87.993466,1
+WI,5584200,place:WI:5584200,Waukau CDP,Waukau,Waukau,55139,Winnebago County,Census-designated place,43.984548,-88.772057,1
+WI,5584250,place:WI:5584250,Waukesha city,Waukesha,Waukesha city,55133,Waukesha County,Incorporated place,43.009084,-88.245062,1
+WI,5584275,place:WI:5584275,Waukesha village,Waukesha,Waukesha village,55133,Waukesha County,Incorporated place,42.960422,-88.249314,0
+WI,5584300,place:WI:5584300,Waumandee CDP,Waumandee,Waumandee,55011,Buffalo County,Census-designated place,44.302329,-91.705204,1
+WI,5584350,place:WI:5584350,Waunakee village,Waunakee,Waunakee,55025,Dane County,Incorporated place,43.181607,-89.441571,1
+WI,5584375,place:WI:5584375,Waupaca city,Waupaca,Waupaca,55135,Waupaca County,Incorporated place,44.350048,-89.070003,1
+WI,5584425,place:WI:5584425,Waupun city,Waupun,Waupun,55027,Dodge County,Incorporated place,43.631547,-88.737534,1
+WI,5584475,place:WI:5584475,Wausau city,Wausau,Wausau,55073,Marathon County,Incorporated place,44.961766,-89.646538,1
+WI,5584525,place:WI:5584525,Wausaukee village,Wausaukee,Wausaukee,55075,Marinette County,Incorporated place,45.378247,-87.954834,1
+WI,5584625,place:WI:5584625,Wautoma city,Wautoma,Wautoma,55137,Waushara County,Incorporated place,44.066657,-89.291884,1
+WI,5584675,place:WI:5584675,Wauwatosa city,Wauwatosa,Wauwatosa,55079,Milwaukee County,Incorporated place,43.063165,-88.035583,1
+WI,5584725,place:WI:5584725,Wauzeka village,Wauzeka,Wauzeka,55023,Crawford County,Incorporated place,43.085734,-90.897188,1
+WI,5585025,place:WI:5585025,Webster village,Webster,Webster,55013,Burnett County,Incorporated place,45.87978,-92.36283,1
+WI,5585300,place:WI:5585300,West Allis city,West Allis,West Allis,55079,Milwaukee County,Incorporated place,43.007186,-88.028986,1
+WI,5585325,place:WI:5585325,West Baraboo village,West Baraboo,West Baraboo,55111,Sauk County,Incorporated place,43.478424,-89.774061,1
+WI,5585350,place:WI:5585350,West Bend city,West Bend,West Bend,55131,Washington County,Incorporated place,43.417492,-88.181685,1
+WI,5585875,place:WI:5585875,West Milwaukee village,West Milwaukee,West Milwaukee,55079,Milwaukee County,Incorporated place,43.012437,-87.970984,1
+WI,5586275,place:WI:5586275,West Salem village,West Salem,West Salem,55063,La Crosse County,Incorporated place,43.898534,-91.087453,1
+WI,5585425,place:WI:5585425,Westboro CDP,Westboro,Westboro,55119,Taylor County,Census-designated place,45.360796,-90.293396,1
+WI,5585475,place:WI:5585475,Westby city,Westby,Westby,55123,Vernon County,Incorporated place,43.652864,-90.858193,1
+WI,5585575,place:WI:5585575,Westfield village,Westfield,Westfield,55077,Marquette County,Incorporated place,43.885163,-89.492492,1
+WI,5586025,place:WI:5586025,Weston village,Weston,Weston,55073,Marathon County,Incorporated place,44.89122,-89.549651,1
+WI,5586400,place:WI:5586400,Weyauwega city,Weyauwega,Weyauwega,55135,Waupaca County,Incorporated place,44.323593,-88.933131,1
+WI,5586450,place:WI:5586450,Weyerhaeuser village,Weyerhaeuser,Weyerhaeuser,55107,Rusk County,Incorporated place,45.425644,-91.41524,1
+WI,5586575,place:WI:5586575,Wheeler village,Wheeler,Wheeler,55033,Dunn County,Incorporated place,45.043798,-91.898949,1
+WI,5586750,place:WI:5586750,White Lake village,White Lake,White Lake,55067,Langlade County,Incorporated place,45.159693,-88.763418,1
+WI,5586700,place:WI:5586700,Whitefish Bay village,Whitefish Bay,Whitefish Bay,55079,Milwaukee County,Incorporated place,43.113137,-87.900475,1
+WI,5586725,place:WI:5586725,Whitehall city,Whitehall,Whitehall,55121,Trempealeau County,Incorporated place,44.360516,-91.337802,1
+WI,5586775,place:WI:5586775,Whitelaw village,Whitelaw,Whitelaw,55071,Manitowoc County,Incorporated place,44.147561,-87.82669,1
+WI,5586925,place:WI:5586925,Whitewater city,Whitewater,Whitewater,55127,Walworth County,Incorporated place,42.837439,-88.734282,1
+WI,5586975,place:WI:5586975,Whiting village,Whiting,Whiting,55097,Portage County,Incorporated place,44.490088,-89.560024,1
+WI,5587000,place:WI:5587000,Whittlesey CDP,Whittlesey,Whittlesey,55119,Taylor County,Census-designated place,45.220619,-90.323224,1
+WI,5587075,place:WI:5587075,Wild Rose village,Wild Rose,Wild Rose,55137,Waushara County,Incorporated place,44.178282,-89.244468,1
+WI,5587200,place:WI:5587200,Williams Bay village,Williams Bay,Williams Bay,55127,Walworth County,Incorporated place,42.578491,-88.546465,1
+WI,5587475,place:WI:5587475,Wilson village,Wilson,Wilson,55109,St. Croix County,Incorporated place,44.958609,-92.170496,1
+WI,5587525,place:WI:5587525,Wilton village,Wilton,Wilton,55081,Monroe County,Incorporated place,43.813263,-90.52686,1
+WI,5587625,place:WI:5587625,Winchester CDP,Winchester,Winchester,55139,Winnebago County,Census-designated place,44.198236,-88.659907,1
+WI,5587675,place:WI:5587675,Wind Lake CDP,Wind Lake,Wind Lake,55101,Racine County,Census-designated place,42.827934,-88.155983,1
+WI,5587700,place:WI:5587700,Wind Point village,Wind Point,Wind Point,55101,Racine County,Incorporated place,42.780399,-87.771505,1
+WI,5587725,place:WI:5587725,Windsor village,Windsor,Windsor,55025,Dane County,Incorporated place,43.245704,-89.281518,1
+WI,5587900,place:WI:5587900,Winneconne village,Winneconne,Winneconne,55139,Winnebago County,Incorporated place,44.114402,-88.717052,1
+WI,5587975,place:WI:5587975,Winter village,Winter,Winter,55113,Sawyer County,Incorporated place,45.822142,-91.013043,1
+WI,5588025,place:WI:5588025,Wiota CDP,Wiota,Wiota,55065,Lafayette County,Census-designated place,42.636743,-89.949317,1
+WI,5588150,place:WI:5588150,Wisconsin Dells city,Wisconsin Dells,Wisconsin Dells,55021,Columbia County,Incorporated place,43.638367,-89.775759,1
+WI,5588200,place:WI:5588200,Wisconsin Rapids city,Wisconsin Rapids,Wisconsin Rapids,55141,Wood County,Incorporated place,44.392923,-89.826749,1
+WI,5588275,place:WI:5588275,Withee village,Withee,Withee,55019,Clark County,Incorporated place,44.950982,-90.598847,1
+WI,5588325,place:WI:5588325,Wittenberg village,Wittenberg,Wittenberg,55115,Shawano County,Incorporated place,44.826881,-89.166583,1
+WI,5588500,place:WI:5588500,Wonewoc village,Wonewoc,Wonewoc,55057,Juneau County,Incorporated place,43.653477,-90.224242,1
+WI,5588675,place:WI:5588675,Woodford CDP,Woodford,Woodford,55065,Lafayette County,Census-designated place,42.647308,-89.857206,1
+WI,5588825,place:WI:5588825,Woodman village,Woodman,Woodman,55043,Grant County,Incorporated place,43.092512,-90.797753,1
+WI,5588925,place:WI:5588925,Woodruff CDP,Woodruff,Woodruff,55085,Oneida County,Census-designated place,45.894436,-89.691154,1
+WI,5589025,place:WI:5589025,Woodville village,Woodville,Woodville,55109,St. Croix County,Incorporated place,44.948314,-92.285084,1
+WI,5589150,place:WI:5589150,Wrightstown village,Wrightstown,Wrightstown,55009,Brown County,Incorporated place,44.327137,-88.175633,1
+WI,5589275,place:WI:5589275,Wyeville village,Wyeville,Wyeville,55081,Monroe County,Incorporated place,44.027851,-90.386077,1
+WI,5589300,place:WI:5589300,Wyocena village,Wyocena,Wyocena,55021,Columbia County,Incorporated place,43.493239,-89.301835,1
+WI,5589550,place:WI:5589550,Yorkville village,Yorkville,Yorkville,55101,Racine County,Incorporated place,42.720098,-88.001389,1
+WI,5589625,place:WI:5589625,Yuba village,Yuba,Yuba,55103,Richland County,Incorporated place,43.536387,-90.426836,1
+WI,5589760,place:WI:5589760,Zoar CDP,Zoar,Zoar,55078,Menominee County,Census-designated place,45.005427,-88.874792,1

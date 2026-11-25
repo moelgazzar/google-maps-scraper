@@ -1,0 +1,52 @@
+state,name,ready,counties,places,zip_areas,baseline_scopes,baseline_place_scopes,baseline_zip_scopes,alternate_zip_scope_ceiling,places_requiring_manual_search_label,places_covered_by_zip_only,zip_areas_without_place_overlap,catalog_dir
+FL,Florida,True,67,958,1013,1971,958,1013,1013,0,0,71,geography
+GA,Georgia,True,159,676,752,1428,676,752,752,0,0,44,geography
+SC,South Carolina,True,46,475,424,899,475,424,424,0,0,29,geography
+AL,Alabama,True,67,595,658,1253,595,658,658,0,0,89,geography/states/AL
+AK,Alaska,True,30,355,245,600,355,245,245,0,0,1,geography/states/AK
+AZ,Arizona,True,15,467,420,887,467,420,420,0,0,18,geography/states/AZ
+AR,Arkansas,True,75,626,620,1246,626,620,620,0,0,80,geography/states/AR
+CA,California,True,58,1622,1808,3430,1622,1808,1808,0,0,105,geography/states/CA
+CO,Colorado,True,64,485,530,1015,485,530,530,0,0,71,geography/states/CO
+CT,Connecticut,True,9,215,288,503,215,288,288,0,0,80,geography/states/CT
+DE,Delaware,True,3,79,70,149,79,70,70,0,0,7,geography/states/DE
+DC,District of Columbia,True,1,1,57,58,1,57,57,0,0,0,geography/states/DC
+HI,Hawaii,True,5,163,97,260,163,97,97,0,0,5,geography/states/HI
+ID,Idaho,True,44,235,287,522,235,287,287,0,0,62,geography/states/ID
+IL,Illinois,True,102,1461,1397,2858,1461,1397,1397,0,0,69,geography/states/IL
+IN,Indiana,True,92,974,807,1781,974,807,807,0,0,113,geography/states/IN
+IA,Iowa,True,99,1026,972,1998,1026,972,972,0,0,25,geography/states/IA
+KS,Kansas,True,105,740,710,1450,740,710,710,0,0,18,geography/states/KS
+KY,Kentucky,True,120,553,782,1335,553,782,782,0,0,301,geography/states/KY
+LA,Louisiana,True,64,484,540,1024,484,540,540,0,0,68,geography/states/LA
+ME,Maine,True,16,155,427,582,155,427,427,0,0,262,geography/states/ME
+MD,Maryland,True,24,536,478,1014,536,478,478,0,0,75,geography/states/MD
+MA,Massachusetts,True,14,248,540,788,248,540,540,0,0,172,geography/states/MA
+MI,Michigan,True,83,745,993,1738,745,993,993,0,0,212,geography/states/MI
+MN,Minnesota,True,87,916,887,1803,916,887,887,0,0,55,geography/states/MN
+MS,Mississippi,True,82,427,428,855,427,428,428,0,0,56,geography/states/MS
+MO,Missouri,True,115,1081,1040,2121,1081,1040,1040,0,0,150,geography/states/MO
+MT,Montana,True,56,497,373,870,497,373,373,0,0,44,geography/states/MT
+NE,Nebraska,True,93,593,592,1185,593,592,592,0,0,23,geography/states/NE
+NV,Nevada,True,17,138,182,320,138,182,182,0,0,15,geography/states/NV
+NH,New Hampshire,True,10,100,247,347,100,247,247,0,0,133,geography/states/NH
+NJ,New Jersey,True,21,701,598,1299,701,598,598,0,0,46,geography/states/NJ
+NM,New Mexico,True,33,528,379,907,528,379,379,0,0,63,geography/states/NM
+NY,New York,True,62,1293,1826,3119,1293,1826,1826,0,0,453,geography/states/NY
+NC,North Carolina,True,100,785,853,1638,785,853,853,0,0,124,geography/states/NC
+ND,North Dakota,True,53,406,400,806,406,400,400,0,0,37,geography/states/ND
+OH,Ohio,True,88,1265,1233,2498,1265,1233,1233,0,0,116,geography/states/OH
+OK,Oklahoma,True,77,846,666,1512,846,666,666,0,0,22,geography/states/OK
+OR,Oregon,True,36,426,430,856,426,430,430,0,0,68,geography/states/OR
+PA,Pennsylvania,True,67,2002,1833,3835,2002,1833,1833,0,0,440,geography/states/PA
+RI,Rhode Island,True,5,36,81,117,36,81,81,0,0,27,geography/states/RI
+SD,South Dakota,True,66,485,401,886,485,401,401,0,0,50,geography/states/SD
+TN,Tennessee,True,95,504,641,1145,504,641,641,0,0,92,geography/states/TN
+TX,Texas,True,254,1864,1992,3856,1864,1992,1992,0,0,258,geography/states/TX
+UT,Utah,True,29,334,303,637,334,303,303,0,0,24,geography/states/UT
+VT,Vermont,True,14,180,265,445,180,265,265,0,0,101,geography/states/VT
+VA,Virginia,True,133,700,907,1607,700,907,907,0,0,264,geography/states/VA
+WA,Washington,True,39,639,606,1245,639,606,606,0,0,78,geography/states/WA
+WV,West Virginia,True,55,439,741,1180,439,741,741,0,0,301,geography/states/WV
+WI,Wisconsin,True,72,807,783,1590,807,783,783,0,0,56,geography/states/WI
+WY,Wyoming,True,23,205,180,385,205,180,180,0,0,31,geography/states/WY

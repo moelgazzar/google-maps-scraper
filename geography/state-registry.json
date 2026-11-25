@@ -1,0 +1,2065 @@
+{
+  "schema_version": 1,
+  "generated_utc": "2026-11-23T21:43:38.351478+00:00",
+  "jurisdiction_order": [
+    "FL",
+    "GA",
+    "SC",
+    "AL",
+    "AK",
+    "AZ",
+    "AR",
+    "CA",
+    "CO",
+    "CT",
+    "DE",
+    "DC",
+    "HI",
+    "ID",
+    "IL",
+    "IN",
+    "IA",
+    "KS",
+    "KY",
+    "LA",
+    "ME",
+    "MD",
+    "MA",
+    "MI",
+    "MN",
+    "MS",
+    "MO",
+    "MT",
+    "NE",
+    "NV",
+    "NH",
+    "NJ",
+    "NM",
+    "NY",
+    "NC",
+    "ND",
+    "OH",
+    "OK",
+    "OR",
+    "PA",
+    "RI",
+    "SD",
+    "TN",
+    "TX",
+    "UT",
+    "VT",
+    "VA",
+    "WA",
+    "WV",
+    "WI",
+    "WY"
+  ],
+  "coverage_model": "Census places plus all ZCTAs; counties reconcile boundaries and ambiguous names",
+  "primary_example": "auto detailing",
+  "alternate_example": "mobile detailing",
+  "totals": {
+    "jurisdictions": 51,
+    "counties": 3144,
+    "places": 32071,
+    "zip_areas": 33782,
+    "place_zip_links": 52400,
+    "baseline_scopes": 65853,
+    "baseline_place_scopes": 32071,
+    "baseline_zip_scopes": 33782,
+    "alternate_zip_scope_ceiling": 33782,
+    "places_requiring_manual_search_label": 0,
+    "places_covered_by_zip_only": 0,
+    "zip_areas_without_place_overlap": 5104
+  },
+  "states": [
+    {
+      "state": "FL",
+      "name": "Florida",
+      "catalog_dir": "geography",
+      "counties": 67,
+      "places": 958,
+      "zip_areas": 1013,
+      "place_zip_links": 2206,
+      "baseline_scopes": 1971,
+      "baseline_place_scopes": 958,
+      "baseline_zip_scopes": 1013,
+      "alternate_zip_scope_ceiling": 1013,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 71,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 276811,
+          "sha256": "922932645bd0729f725652e37710ab3649b4955efffda1f70064ad0908fbbadb"
+        },
+        "zip-areas.csv": {
+          "bytes": 172131,
+          "sha256": "47a3bc029908a44161647aab66f8bb1cfe5e686ec4b88f87e2577ff63f3d45ea"
+        },
+        "counties.csv": {
+          "bytes": 12428,
+          "sha256": "475a0a9af66852456dba1f4e486f69a4a0e61a2c333002c20fe08135cddc3bed"
+        },
+        "place-zip-links.csv": {
+          "bytes": 291737,
+          "sha256": "949606a26a66dbfce49aa1fe5a1f7ed3475d4c8e5338ae4e04007b367667ef84"
+        },
+        "inventory.json": {
+          "bytes": 2716,
+          "sha256": "0e913f479fdef610bb07cdb1b804d33a4eed73f851eaf3ac44abcb888526151f"
+        }
+      }
+    },
+    {
+      "state": "GA",
+      "name": "Georgia",
+      "catalog_dir": "geography",
+      "counties": 159,
+      "places": 676,
+      "zip_areas": 752,
+      "place_zip_links": 1264,
+      "baseline_scopes": 1428,
+      "baseline_place_scopes": 676,
+      "baseline_zip_scopes": 752,
+      "alternate_zip_scope_ceiling": 752,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 44,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 276811,
+          "sha256": "922932645bd0729f725652e37710ab3649b4955efffda1f70064ad0908fbbadb"
+        },
+        "zip-areas.csv": {
+          "bytes": 172131,
+          "sha256": "47a3bc029908a44161647aab66f8bb1cfe5e686ec4b88f87e2577ff63f3d45ea"
+        },
+        "counties.csv": {
+          "bytes": 12428,
+          "sha256": "475a0a9af66852456dba1f4e486f69a4a0e61a2c333002c20fe08135cddc3bed"
+        },
+        "place-zip-links.csv": {
+          "bytes": 291737,
+          "sha256": "949606a26a66dbfce49aa1fe5a1f7ed3475d4c8e5338ae4e04007b367667ef84"
+        },
+        "inventory.json": {
+          "bytes": 2716,
+          "sha256": "0e913f479fdef610bb07cdb1b804d33a4eed73f851eaf3ac44abcb888526151f"
+        }
+      }
+    },
+    {
+      "state": "SC",
+      "name": "South Carolina",
+      "catalog_dir": "geography",
+      "counties": 46,
+      "places": 475,
+      "zip_areas": 424,
+      "place_zip_links": 796,
+      "baseline_scopes": 899,
+      "baseline_place_scopes": 475,
+      "baseline_zip_scopes": 424,
+      "alternate_zip_scope_ceiling": 424,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 29,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 276811,
+          "sha256": "922932645bd0729f725652e37710ab3649b4955efffda1f70064ad0908fbbadb"
+        },
+        "zip-areas.csv": {
+          "bytes": 172131,
+          "sha256": "47a3bc029908a44161647aab66f8bb1cfe5e686ec4b88f87e2577ff63f3d45ea"
+        },
+        "counties.csv": {
+          "bytes": 12428,
+          "sha256": "475a0a9af66852456dba1f4e486f69a4a0e61a2c333002c20fe08135cddc3bed"
+        },
+        "place-zip-links.csv": {
+          "bytes": 291737,
+          "sha256": "949606a26a66dbfce49aa1fe5a1f7ed3475d4c8e5338ae4e04007b367667ef84"
+        },
+        "inventory.json": {
+          "bytes": 2716,
+          "sha256": "0e913f479fdef610bb07cdb1b804d33a4eed73f851eaf3ac44abcb888526151f"
+        }
+      }
+    },
+    {
+      "state": "AL",
+      "name": "Alabama",
+      "catalog_dir": "geography/states/AL",
+      "counties": 67,
+      "places": 595,
+      "zip_areas": 658,
+      "place_zip_links": 1278,
+      "baseline_scopes": 1253,
+      "baseline_place_scopes": 595,
+      "baseline_zip_scopes": 658,
+      "alternate_zip_scope_ceiling": 658,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 89,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 75448,
+          "sha256": "a65990f1c2af64541f2f59724e03b399d9962282c3b74bfe6d0a922298300694"
+        },
+        "zip-areas.csv": {
+          "bytes": 52709,
+          "sha256": "6f2fd06ccb009775dc8026f7ca83b41b4e4812613b91eaeede034501a7ac00a3"
+        },
+        "counties.csv": {
+          "bytes": 3088,
+          "sha256": "b3261a190d482d9c71860c9edbfa5f3e23d7f9b7defd69647835f444d4ab8f72"
+        },
+        "place-zip-links.csv": {
+          "bytes": 86122,
+          "sha256": "b6db7610c89352b30214b22f037559024c1d857e261ee8fbb4cb431d99bd685a"
+        },
+        "inventory.json": {
+          "bytes": 2021,
+          "sha256": "4cf1339ce18335dbb769b7531bf49b9b36349f24c1c3cc63758e4b9a21df066a"
+        }
+      }
+    },
+    {
+      "state": "AK",
+      "name": "Alaska",
+      "catalog_dir": "geography/states/AK",
+      "counties": 30,
+      "places": 355,
+      "zip_areas": 245,
+      "place_zip_links": 422,
+      "baseline_scopes": 600,
+      "baseline_place_scopes": 355,
+      "baseline_zip_scopes": 245,
+      "alternate_zip_scope_ceiling": 245,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 1,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 49678,
+          "sha256": "e732661861f2b84e9627feba4e0ab387918eee1dccce774f03e920e50ab38b33"
+        },
+        "zip-areas.csv": {
+          "bytes": 19551,
+          "sha256": "d502b68d069fbc4ff9237a4c0d44df9e2bfc4c05e8ac01e2b958141be51e5c97"
+        },
+        "counties.csv": {
+          "bytes": 1695,
+          "sha256": "fb8ef54f39ebca194234990c0317395aa94bfc33edf9739b3b24b12a590e9288"
+        },
+        "place-zip-links.csv": {
+          "bytes": 28680,
+          "sha256": "0c78247a7603db43a1190ce45ea906309024f8502bd71c18cd555715e05dd743"
+        },
+        "inventory.json": {
+          "bytes": 2019,
+          "sha256": "ae8d8efef6f2ac8f703d173b784b972a69d4446e0bcdb874ae8ec1dcf0e4d23a"
+        }
+      }
+    },
+    {
+      "state": "AZ",
+      "name": "Arizona",
+      "catalog_dir": "geography/states/AZ",
+      "counties": 15,
+      "places": 467,
+      "zip_areas": 420,
+      "place_zip_links": 874,
+      "baseline_scopes": 887,
+      "baseline_place_scopes": 467,
+      "baseline_zip_scopes": 420,
+      "alternate_zip_scope_ceiling": 420,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 18,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 62327,
+          "sha256": "beb8573190652d29b41b4d7b928f085aa72f482c536ca279e03381e778d6225a"
+        },
+        "zip-areas.csv": {
+          "bytes": 29859,
+          "sha256": "1e95d8e7b2448b2a9232ae790407d763ea92438a97a45a01c3b0e3c6366a7ec2"
+        },
+        "counties.csv": {
+          "bytes": 726,
+          "sha256": "b3ca4eeabc413bff4091fe18e174100ef78ef9352f672634ffc40f2b2ad8f2d9"
+        },
+        "place-zip-links.csv": {
+          "bytes": 59773,
+          "sha256": "65f5ec7a115a48447ff1a3955832b346e65164ec68b2e0ed6c9253851126840c"
+        },
+        "inventory.json": {
+          "bytes": 2020,
+          "sha256": "1b3b1ffc93bcce6a0eb1ec602ed876dfbb96099d07a039e22aa316cc3b4cfdc5"
+        }
+      }
+    },
+    {
+      "state": "AR",
+      "name": "Arkansas",
+      "catalog_dir": "geography/states/AR",
+      "counties": 75,
+      "places": 626,
+      "zip_areas": 620,
+      "place_zip_links": 951,
+      "baseline_scopes": 1246,
+      "baseline_place_scopes": 626,
+      "baseline_zip_scopes": 620,
+      "alternate_zip_scope_ceiling": 620,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 80,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 78640,
+          "sha256": "737ba291c86c872fdf387ba783774c458c19605fd344fcd28c95eb854110e82e"
+        },
+        "zip-areas.csv": {
+          "bytes": 49588,
+          "sha256": "1897e394b317a8822808d174caa357729c863add81625c4b719d52a680e332c2"
+        },
+        "counties.csv": {
+          "bytes": 3463,
+          "sha256": "75c5d9ab6d32fcf60630cd6e3fe42cc3f58bf7669875769f99b555b28eca211d"
+        },
+        "place-zip-links.csv": {
+          "bytes": 63758,
+          "sha256": "f489e4cdab3d75c89871444be712e0768723e4939b65551fb743b4a2b986fc40"
+        },
+        "inventory.json": {
+          "bytes": 2020,
+          "sha256": "211bc52b7c1a94edc10ff99d5b0ff3a8a5db28c68221d9f9b4751c1a477462f4"
+        }
+      }
+    },
+    {
+      "state": "CA",
+      "name": "California",
+      "catalog_dir": "geography/states/CA",
+      "counties": 58,
+      "places": 1622,
+      "zip_areas": 1808,
+      "place_zip_links": 3619,
+      "baseline_scopes": 3430,
+      "baseline_place_scopes": 1622,
+      "baseline_zip_scopes": 1808,
+      "alternate_zip_scope_ceiling": 1808,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 105,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 219373,
+          "sha256": "1f1e47ea8c034c1729768a677450a375852ac1b16b59a29736ec5b28b0842cab"
+        },
+        "zip-areas.csv": {
+          "bytes": 132259,
+          "sha256": "e68c9c6022cb19688f1c6e1710f05c05e0243e54a52924c66cd61a904382d6e6"
+        },
+        "counties.csv": {
+          "bytes": 2773,
+          "sha256": "1d43d898d2595b7e86e07b4741990e9f86e52feea12655a942925255e9f29141"
+        },
+        "place-zip-links.csv": {
+          "bytes": 246911,
+          "sha256": "aca879c6b148abdb261248332923b84a72ecfb658619edf7758a1401faddacf3"
+        },
+        "inventory.json": {
+          "bytes": 2027,
+          "sha256": "8337d0aea95740220bdc92110aea4a55c1aecae7aed33171b516aeeca6734fd6"
+        }
+      }
+    },
+    {
+      "state": "CO",
+      "name": "Colorado",
+      "catalog_dir": "geography/states/CO",
+      "counties": 64,
+      "places": 485,
+      "zip_areas": 530,
+      "place_zip_links": 883,
+      "baseline_scopes": 1015,
+      "baseline_place_scopes": 485,
+      "baseline_zip_scopes": 530,
+      "alternate_zip_scope_ceiling": 530,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 71,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 62864,
+          "sha256": "8871fa970f96894205810a598dface7d8179a31b5ad27913274f86c68b810428"
+        },
+        "zip-areas.csv": {
+          "bytes": 40856,
+          "sha256": "3341d985e81481f203bc08be84f31b052d0ef9c230675c0a8ce4088c9bdbb02f"
+        },
+        "counties.csv": {
+          "bytes": 3021,
+          "sha256": "b75c323bc7f42f87cf29a0343327a3fe857ce7b40ca0f91711b431fc27cd4cea"
+        },
+        "place-zip-links.csv": {
+          "bytes": 59861,
+          "sha256": "40543bf482d1d83e54664e3b9795ce4252fcd4893a9e565c24099ca6b1f8baaa"
+        },
+        "inventory.json": {
+          "bytes": 2020,
+          "sha256": "566f74d313a0f84addcde6ef20b3f3d4e316ef83c414e081b0cf5079d23145d1"
+        }
+      }
+    },
+    {
+      "state": "CT",
+      "name": "Connecticut",
+      "catalog_dir": "geography/states/CT",
+      "counties": 9,
+      "places": 215,
+      "zip_areas": 288,
+      "place_zip_links": 325,
+      "baseline_scopes": 503,
+      "baseline_place_scopes": 215,
+      "baseline_zip_scopes": 288,
+      "alternate_zip_scope_ceiling": 288,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 80,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 33931,
+          "sha256": "e44dac90e2490b55f9ec8b2e26cd1617e4589d8d9da92be9bcd01704c8cc417b"
+        },
+        "zip-areas.csv": {
+          "bytes": 20769,
+          "sha256": "3f97bdbbe3a7134b1d52b14e8a11b559ebd82e5861ec85f93d62cb3dd7a43d6c"
+        },
+        "counties.csv": {
+          "bytes": 643,
+          "sha256": "572d84a016c57bb2a9b7697c7419b6cfd96c247af01cdeabc17dd9a30c3bb2c5"
+        },
+        "place-zip-links.csv": {
+          "bytes": 22420,
+          "sha256": "de7928b3948c4a6aa48a2485e35c61ba8b0632343b9cea4394635041779513a0"
+        },
+        "inventory.json": {
+          "bytes": 2019,
+          "sha256": "3416436634f97ac5e5a5eaeaf7361749ec3de288376b9bedc909d40fdc579690"
+        }
+      }
+    },
+    {
+      "state": "DE",
+      "name": "Delaware",
+      "catalog_dir": "geography/states/DE",
+      "counties": 3,
+      "places": 79,
+      "zip_areas": 70,
+      "place_zip_links": 136,
+      "baseline_scopes": 149,
+      "baseline_place_scopes": 79,
+      "baseline_zip_scopes": 70,
+      "alternate_zip_scope_ceiling": 70,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 7,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 10286,
+          "sha256": "f85c30a0ea4c0aaff7ec310c563e953ac03418940c7f5d1cc7f40ab3a17b1073"
+        },
+        "zip-areas.csv": {
+          "bytes": 4969,
+          "sha256": "24c83f6614037011cc75fe51a5eda3212438d083cdf7be29b9dd7089a4afef76"
+        },
+        "counties.csv": {
+          "bytes": 172,
+          "sha256": "2b39423a36d4b6908a431e9fecb72adec2bdc4c8b097a3ed5cf4f46a367fa7bc"
+        },
+        "place-zip-links.csv": {
+          "bytes": 9275,
+          "sha256": "403627be38b8be13f280c6bc10a0c94ee0bd3209d244515b1d9d8ccdc4b0db6b"
+        },
+        "inventory.json": {
+          "bytes": 2015,
+          "sha256": "4df628c384c451fe1a14382c964c0a802b2aefb2842bb0af8d86a0b0f1095c7a"
+        }
+      }
+    },
+    {
+      "state": "DC",
+      "name": "District of Columbia",
+      "catalog_dir": "geography/states/DC",
+      "counties": 1,
+      "places": 1,
+      "zip_areas": 57,
+      "place_zip_links": 57,
+      "baseline_scopes": 58,
+      "baseline_place_scopes": 1,
+      "baseline_zip_scopes": 57,
+      "alternate_zip_scope_ceiling": 57,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 0,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 282,
+          "sha256": "536dad99cff5aaa0d908d5c4fe120476ae22c3f8cd33104ce7bc61590dc105cf"
+        },
+        "zip-areas.csv": {
+          "bytes": 4278,
+          "sha256": "f57910ffa352aeb723c7a2154a816fd960f60f10d72eb0a771e62d52de1b74c9"
+        },
+        "counties.csv": {
+          "bytes": 87,
+          "sha256": "cabeced328546d205d8d39c2759f7c25d5872384415e1d38a5a7b374a921ba2f"
+        },
+        "place-zip-links.csv": {
+          "bytes": 3688,
+          "sha256": "854f5bc8455cbfc2539f06d530a0a43d290824af9a49c316bb56053baedda015"
+        },
+        "inventory.json": {
+          "bytes": 2012,
+          "sha256": "e339ee4eef103b701a2b944e70b8db3be4d8491d69b83b225a8f8d9c8b4764b7"
+        }
+      }
+    },
+    {
+      "state": "HI",
+      "name": "Hawaii",
+      "catalog_dir": "geography/states/HI",
+      "counties": 5,
+      "places": 163,
+      "zip_areas": 97,
+      "place_zip_links": 220,
+      "baseline_scopes": 260,
+      "baseline_place_scopes": 163,
+      "baseline_zip_scopes": 97,
+      "alternate_zip_scope_ceiling": 97,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 5,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 21631,
+          "sha256": "8186f243d6cac952f0c92b5e55d58c32449abf9d6b56578fce18309b8b0b2aaa"
+        },
+        "zip-areas.csv": {
+          "bytes": 6676,
+          "sha256": "ea8e21ffb6d455d53467a57b7544373af59197e0de11ce8334b52c7046d834a0"
+        },
+        "counties.csv": {
+          "bytes": 263,
+          "sha256": "b96a3dac93340868cf1a28150a3f3e0e193e1f16b3496a8aa12a79e722497820"
+        },
+        "place-zip-links.csv": {
+          "bytes": 15142,
+          "sha256": "6c62d979e85acb17f87e4658d38525c04307d68f5fce020458a1aadb6cadd8bc"
+        },
+        "inventory.json": {
+          "bytes": 2017,
+          "sha256": "9e1c3691c5ece990039b0a6ce7636b5ba482164819e22d23ebac601d76651e46"
+        }
+      }
+    },
+    {
+      "state": "ID",
+      "name": "Idaho",
+      "catalog_dir": "geography/states/ID",
+      "counties": 44,
+      "places": 235,
+      "zip_areas": 287,
+      "place_zip_links": 318,
+      "baseline_scopes": 522,
+      "baseline_place_scopes": 235,
+      "baseline_zip_scopes": 287,
+      "alternate_zip_scope_ceiling": 287,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 62,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 29473,
+          "sha256": "68f1dde3f7c503dd665dace417ccf14c6bc73179f09fca45ff8985fe1e2878a6"
+        },
+        "zip-areas.csv": {
+          "bytes": 22158,
+          "sha256": "2fe8bd4b4f61d5e0b776400cd982f5fc78ca28a4527d9adbe1dcea8ac3ee4ef1"
+        },
+        "counties.csv": {
+          "bytes": 2076,
+          "sha256": "e2cdd3a818abed332f8422420350b34a4cd30c00671b29af99ed500859c5427e"
+        },
+        "place-zip-links.csv": {
+          "bytes": 21226,
+          "sha256": "036575db1a692a89305d135978e42f7239b230b0dce82c880e733a36b24690b1"
+        },
+        "inventory.json": {
+          "bytes": 2019,
+          "sha256": "f75930ccd4b97676b78a4474ba143505bc860aeaf34bb8e43b4f1d7a3f5533ec"
+        }
+      }
+    },
+    {
+      "state": "IL",
+      "name": "Illinois",
+      "catalog_dir": "geography/states/IL",
+      "counties": 102,
+      "places": 1461,
+      "zip_areas": 1397,
+      "place_zip_links": 2584,
+      "baseline_scopes": 2858,
+      "baseline_place_scopes": 1461,
+      "baseline_zip_scopes": 1397,
+      "alternate_zip_scope_ceiling": 1397,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 69,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 186963,
+          "sha256": "f9680ae8c41e9454b7dd2c7270e5bd024fcd706e9defc1eb94c189c5f2d35235"
+        },
+        "zip-areas.csv": {
+          "bytes": 108902,
+          "sha256": "f716228a9485c69ee35c0924face74d82c9df2e0adfd17b2b772f6d57d008548"
+        },
+        "counties.csv": {
+          "bytes": 4672,
+          "sha256": "029b7b9a21e4d31d4737b2e66e3b343e22c1202ad604fbcd9027b93a3934655f"
+        },
+        "place-zip-links.csv": {
+          "bytes": 173390,
+          "sha256": "50d876785a1aa33bbf9525ae62187ecc44542585d6dc81b32a87882ffce32b0d"
+        },
+        "inventory.json": {
+          "bytes": 2026,
+          "sha256": "818b4fcb46e768aa58b2778896c67dd8a4b3a34ccf36d3ca284181135d13e734"
+        }
+      }
+    },
+    {
+      "state": "IN",
+      "name": "Indiana",
+      "catalog_dir": "geography/states/IN",
+      "counties": 92,
+      "places": 974,
+      "zip_areas": 807,
+      "place_zip_links": 1085,
+      "baseline_scopes": 1781,
+      "baseline_place_scopes": 974,
+      "baseline_zip_scopes": 807,
+      "alternate_zip_scope_ceiling": 807,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 113,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 124901,
+          "sha256": "9227ec220a6fdd2ce1339bbf56f0a27771c141e3aedbec2bafbba133ede46ff6"
+        },
+        "zip-areas.csv": {
+          "bytes": 66593,
+          "sha256": "c44b4b65a20dadbadb96d687a933feef9ad8bc6b7ea02bb8aaaaec33b938b02c"
+        },
+        "counties.csv": {
+          "bytes": 4212,
+          "sha256": "2bce79d594522228c6bda25efc7ed831d2c74a405745f811e76b73952a4d311b"
+        },
+        "place-zip-links.csv": {
+          "bytes": 73063,
+          "sha256": "bfb89c181625155eb310162092c286808cbbd49c7597f03ccc50991bc835182e"
+        },
+        "inventory.json": {
+          "bytes": 2025,
+          "sha256": "128f06bd46a70bc870872c6b01ef6c1f2fa4ad4a6e2e905a2aec0d5dc6a5208d"
+        }
+      }
+    },
+    {
+      "state": "IA",
+      "name": "Iowa",
+      "catalog_dir": "geography/states/IA",
+      "counties": 99,
+      "places": 1026,
+      "zip_areas": 972,
+      "place_zip_links": 1293,
+      "baseline_scopes": 1998,
+      "baseline_place_scopes": 1026,
+      "baseline_zip_scopes": 972,
+      "alternate_zip_scope_ceiling": 972,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 25,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 127316,
+          "sha256": "102f995a1e4490a855ff07d7f6cced126d359616cd123cab05221fcca3b24454"
+        },
+        "zip-areas.csv": {
+          "bytes": 80506,
+          "sha256": "e7df56025115e2e6e89b7d49413aaf7800f5deecf6c28b37934c728cbb2191fe"
+        },
+        "counties.csv": {
+          "bytes": 4543,
+          "sha256": "5faef4ea842739b739ec69e19498c1a8ff45ee4a417ea9bf65160cf4d71afedc"
+        },
+        "place-zip-links.csv": {
+          "bytes": 86021,
+          "sha256": "18019b3a7f2b6e64ad4f9a8d19edb5a0bd8cbf37301fe4bc1ca54f7c3f9a7794"
+        },
+        "inventory.json": {
+          "bytes": 2021,
+          "sha256": "8c0486fa8d77edb269a407f50ff2ad05c0909f3e16a32f59f7cf814cff826b82"
+        }
+      }
+    },
+    {
+      "state": "KS",
+      "name": "Kansas",
+      "catalog_dir": "geography/states/KS",
+      "counties": 105,
+      "places": 740,
+      "zip_areas": 710,
+      "place_zip_links": 940,
+      "baseline_scopes": 1450,
+      "baseline_place_scopes": 740,
+      "baseline_zip_scopes": 710,
+      "alternate_zip_scope_ceiling": 710,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 18,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 91537,
+          "sha256": "03560a66ca2e425d28bcd8f2bd3eba8af5d6aa28ec620d99991b921ba1377c1e"
+        },
+        "zip-areas.csv": {
+          "bytes": 58989,
+          "sha256": "2a474e0451e793fc0fead45276026d1256c32292a96fb93daf0434a19496e8e0"
+        },
+        "counties.csv": {
+          "bytes": 4818,
+          "sha256": "58de09f1e16a430d3a107751e2e2f0a71e3b0df5fbf050ec8af840f2d84b3435"
+        },
+        "place-zip-links.csv": {
+          "bytes": 62428,
+          "sha256": "4e88412fcd3d6072bdb449662f610a6a500642693bcef12bb7fb3c2a48e7eebc"
+        },
+        "inventory.json": {
+          "bytes": 2021,
+          "sha256": "d84ffd58701162772f1b1ea4df3a7b7ad3a6e140ff1b71cba8f1f973f9cad68f"
+        }
+      }
+    },
+    {
+      "state": "KY",
+      "name": "Kentucky",
+      "catalog_dir": "geography/states/KY",
+      "counties": 120,
+      "places": 553,
+      "zip_areas": 782,
+      "place_zip_links": 886,
+      "baseline_scopes": 1335,
+      "baseline_place_scopes": 553,
+      "baseline_zip_scopes": 782,
+      "alternate_zip_scope_ceiling": 782,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 301,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 71669,
+          "sha256": "7357cb64d34002db9a827b4a3c1b7c1c6452db187ec2487f238cafd353bc87ed"
+        },
+        "zip-areas.csv": {
+          "bytes": 62747,
+          "sha256": "033a6819d2bfb9cfb69127cbd0b5d60de7aa8414d227b6fa3109ff13228eb3f6"
+        },
+        "counties.csv": {
+          "bytes": 5478,
+          "sha256": "12c55cff114c9962657bd1e33fb9b4120d95d775a1d175f706c5b2033445a1a4"
+        },
+        "place-zip-links.csv": {
+          "bytes": 61868,
+          "sha256": "51fffd94544fdd32bb4f96bb300d6bee5cb0c1c47341758a84a222b6cfa718cc"
+        },
+        "inventory.json": {
+          "bytes": 2022,
+          "sha256": "8b21b761106befa666790cdb4b35a56d7f3c96d26d80a8b5eae8b66247524272"
+        }
+      }
+    },
+    {
+      "state": "LA",
+      "name": "Louisiana",
+      "catalog_dir": "geography/states/LA",
+      "counties": 64,
+      "places": 484,
+      "zip_areas": 540,
+      "place_zip_links": 801,
+      "baseline_scopes": 1024,
+      "baseline_place_scopes": 484,
+      "baseline_zip_scopes": 540,
+      "alternate_zip_scope_ceiling": 540,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 68,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 62638,
+          "sha256": "7eac88ed2dc92760a503bfca05a3abdaa22c046781c8b2240b725b90833c6ea3"
+        },
+        "zip-areas.csv": {
+          "bytes": 42883,
+          "sha256": "a221e8f2e4c8b6d1ea6509a92ed099d37595d25fc3c8976d00a7e9cdf58008ff"
+        },
+        "counties.csv": {
+          "bytes": 3098,
+          "sha256": "57f10c35a596eaf699478a35a6e6ddca56ae7d11e84abd3ba35c7e8f1f9489be"
+        },
+        "place-zip-links.csv": {
+          "bytes": 53667,
+          "sha256": "d4c2f338d13985f01dd98db0a180f0fc689ec292486057efd477a4359c2d26b5"
+        },
+        "inventory.json": {
+          "bytes": 2021,
+          "sha256": "39089f1af7dc824720fe5e271f9fb2c9d317ad77315931db97c16250f8985709"
+        }
+      }
+    },
+    {
+      "state": "ME",
+      "name": "Maine",
+      "catalog_dir": "geography/states/ME",
+      "counties": 16,
+      "places": 155,
+      "zip_areas": 427,
+      "place_zip_links": 176,
+      "baseline_scopes": 582,
+      "baseline_place_scopes": 155,
+      "baseline_zip_scopes": 427,
+      "alternate_zip_scope_ceiling": 427,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 262,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 20506,
+          "sha256": "7f21ef2d2d875463868bb145f6cfc96f568678e806136e422fc227cf31f59a33"
+        },
+        "zip-areas.csv": {
+          "bytes": 29802,
+          "sha256": "bd2c4ad598e23bc825acc67d527bf4f53a7ba03e73fab1d7ed21491e15e0ec24"
+        },
+        "counties.csv": {
+          "bytes": 785,
+          "sha256": "7a652b826aa4f8ae561dacb57f988a22a77a8f17f839ff0123ea86757a71a3d4"
+        },
+        "place-zip-links.csv": {
+          "bytes": 11997,
+          "sha256": "601570006856eb049f72e3f94b01838c3f2121640d97a141f055bc6500bc10e6"
+        },
+        "inventory.json": {
+          "bytes": 2021,
+          "sha256": "2f8415f83fe3353a56691bfc7bb2cd9c8a4a3212c123a7885511ef83f25af069"
+        }
+      }
+    },
+    {
+      "state": "MD",
+      "name": "Maryland",
+      "catalog_dir": "geography/states/MD",
+      "counties": 24,
+      "places": 536,
+      "zip_areas": 478,
+      "place_zip_links": 1019,
+      "baseline_scopes": 1014,
+      "baseline_place_scopes": 536,
+      "baseline_zip_scopes": 478,
+      "alternate_zip_scope_ceiling": 478,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 75,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 73372,
+          "sha256": "6fd59fb2040adc5ad434a70a91771454ca12cfa528b493b812c2dad0b712f7e4"
+        },
+        "zip-areas.csv": {
+          "bytes": 35731,
+          "sha256": "8330aac01873686e34210177cc44d11930fddc539c09ae43f3f35f77240a1fbe"
+        },
+        "counties.csv": {
+          "bytes": 1170,
+          "sha256": "3b8d001b93d90c937488d090263fd9448a8c890974a41d36dca8779f8f5dae92"
+        },
+        "place-zip-links.csv": {
+          "bytes": 69926,
+          "sha256": "75b871f612edb5346ec76b1a78dc6c1288ef62e4f1deef3419be9406b6490a60"
+        },
+        "inventory.json": {
+          "bytes": 2021,
+          "sha256": "455ed6dc8d4178e73b612cc7a1dc8cf789f15f23b43b4b09caad94b093fec384"
+        }
+      }
+    },
+    {
+      "state": "MA",
+      "name": "Massachusetts",
+      "catalog_dir": "geography/states/MA",
+      "counties": 14,
+      "places": 248,
+      "zip_areas": 540,
+      "place_zip_links": 479,
+      "baseline_scopes": 788,
+      "baseline_place_scopes": 248,
+      "baseline_zip_scopes": 540,
+      "alternate_zip_scope_ceiling": 540,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 172,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 33356,
+          "sha256": "5698ef3824f68ceb3588d341880e44c722cc4d1707b93c4493b035599044d45b"
+        },
+        "zip-areas.csv": {
+          "bytes": 37889,
+          "sha256": "f91d9bafe7d3e1dcb2c385301519736e646220493697d38a24f5cb041a81f8ab"
+        },
+        "counties.csv": {
+          "bytes": 685,
+          "sha256": "56ab12b4221c6d96a61d59bb6355cc98b45f9f13602c61c71b6bb716d1831d8e"
+        },
+        "place-zip-links.csv": {
+          "bytes": 32070,
+          "sha256": "338363634937ca07f9c5b43eeda64d233ff1a8d6a21e1da2b8227a4c19bad235"
+        },
+        "inventory.json": {
+          "bytes": 2021,
+          "sha256": "f187fb88a71dc8bdbab9b688396b259bd16bcd293e243473699a32f57b30dcd0"
+        }
+      }
+    },
+    {
+      "state": "MI",
+      "name": "Michigan",
+      "catalog_dir": "geography/states/MI",
+      "counties": 83,
+      "places": 745,
+      "zip_areas": 993,
+      "place_zip_links": 1081,
+      "baseline_scopes": 1738,
+      "baseline_place_scopes": 745,
+      "baseline_zip_scopes": 993,
+      "alternate_zip_scope_ceiling": 993,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 212,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 96115,
+          "sha256": "1481c40dc0a5baf1a1ea5779e940cdbd9235676d1be01cc1041b54ab42782d73"
+        },
+        "zip-areas.csv": {
+          "bytes": 78288,
+          "sha256": "2d0cc0838a87d12f58e4eff8b5c0f4970b05358b4983f9530a75d21470b8e9ff"
+        },
+        "counties.csv": {
+          "bytes": 3845,
+          "sha256": "cf2e5f4a4fe9cc19b27322e0c4a07bf9ef5c368b0a5d508325e0cbe08c39082b"
+        },
+        "place-zip-links.csv": {
+          "bytes": 73019,
+          "sha256": "cde7187ce62d6ecdf91e67c8c28e28f894920f8c7ac6600cd7b85d90d5151032"
+        },
+        "inventory.json": {
+          "bytes": 2022,
+          "sha256": "45e62c2cda362edb4aa1b1918f55e46937fe298ee0c05f99b73f1ab830ed74a0"
+        }
+      }
+    },
+    {
+      "state": "MN",
+      "name": "Minnesota",
+      "catalog_dir": "geography/states/MN",
+      "counties": 87,
+      "places": 916,
+      "zip_areas": 887,
+      "place_zip_links": 1337,
+      "baseline_scopes": 1803,
+      "baseline_place_scopes": 916,
+      "baseline_zip_scopes": 887,
+      "alternate_zip_scope_ceiling": 887,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 55,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 114858,
+          "sha256": "7c6b84cdae4cf269a5b0c79dcae63f9ed2c3394a4a8cad3b5f636ea16d28ecde"
+        },
+        "zip-areas.csv": {
+          "bytes": 72082,
+          "sha256": "4cd043eb6832c1a3e734813cf71de4dc76c206ce82ba12c217d97c4f39747145"
+        },
+        "counties.csv": {
+          "bytes": 4028,
+          "sha256": "c4166a0fa8e8f01e45f8b3747b2db204ec4b1c8d784fe4ec366f3400c8667b3c"
+        },
+        "place-zip-links.csv": {
+          "bytes": 89596,
+          "sha256": "b3f8781e3ac86d1db87f62375de5cfe57ca9b46530bcc76f7225aba2abb2cd3c"
+        },
+        "inventory.json": {
+          "bytes": 2021,
+          "sha256": "dba624943aab36241b0f253ae7becfadadb7da04c98c6276d6c2fc9637cdcf45"
+        }
+      }
+    },
+    {
+      "state": "MS",
+      "name": "Mississippi",
+      "catalog_dir": "geography/states/MS",
+      "counties": 82,
+      "places": 427,
+      "zip_areas": 428,
+      "place_zip_links": 616,
+      "baseline_scopes": 855,
+      "baseline_place_scopes": 427,
+      "baseline_zip_scopes": 428,
+      "alternate_zip_scope_ceiling": 428,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 56,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 53938,
+          "sha256": "83f4a276be5e09b1ffbef055f2bfafb35761380f7c820df24498a0038cf54282"
+        },
+        "zip-areas.csv": {
+          "bytes": 37650,
+          "sha256": "f2de1d89e53fb301245523832a6b81bc228eeea6a8b6de4a103bbc189c329635"
+        },
+        "counties.csv": {
+          "bytes": 3788,
+          "sha256": "8cd10fe62fb6159ff706a4e848673aa086449454e9dac726ad65e307ad94033d"
+        },
+        "place-zip-links.csv": {
+          "bytes": 41295,
+          "sha256": "d07047c12c7bb5ea10b8dc003063d208533696ecd744139965a03df1258eeea1"
+        },
+        "inventory.json": {
+          "bytes": 2020,
+          "sha256": "d45c1cfb9c9555c7208d3ab2c04b7d363d8fbd130cf6f7636084bc6f2eaf2a77"
+        }
+      }
+    },
+    {
+      "state": "MO",
+      "name": "Missouri",
+      "catalog_dir": "geography/states/MO",
+      "counties": 115,
+      "places": 1081,
+      "zip_areas": 1040,
+      "place_zip_links": 1609,
+      "baseline_scopes": 2121,
+      "baseline_place_scopes": 1081,
+      "baseline_zip_scopes": 1040,
+      "alternate_zip_scope_ceiling": 1040,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 150,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 138082,
+          "sha256": "e35f9e8253d7787328a23e26361fd44980e04f5ad5ed9f40bdce9ede63a79491"
+        },
+        "zip-areas.csv": {
+          "bytes": 85166,
+          "sha256": "6682a9f125134b1ba4a51b37c062225772522e01a52f3762691544bcb317bca2"
+        },
+        "counties.csv": {
+          "bytes": 5266,
+          "sha256": "b48b02b85ad4195e5927b87805441ec95713f61d8374c92675320c8c0f3ef009"
+        },
+        "place-zip-links.csv": {
+          "bytes": 108672,
+          "sha256": "71c55d7814bf6dec2d10c67cfb508655f4554f4403547510a4c054a00ee91136"
+        },
+        "inventory.json": {
+          "bytes": 2025,
+          "sha256": "1a975044b048e6cfd96ea1e4df151a888f5849015f29b1d5a14becb54065e963"
+        }
+      }
+    },
+    {
+      "state": "MT",
+      "name": "Montana",
+      "catalog_dir": "geography/states/MT",
+      "counties": 56,
+      "places": 497,
+      "zip_areas": 373,
+      "place_zip_links": 588,
+      "baseline_scopes": 870,
+      "baseline_place_scopes": 497,
+      "baseline_zip_scopes": 373,
+      "alternate_zip_scope_ceiling": 373,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 44,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 66032,
+          "sha256": "65253b9534698fafa413e4c6a0c0e364c5a8226fb5e57022d20587467fabdcc6"
+        },
+        "zip-areas.csv": {
+          "bytes": 29714,
+          "sha256": "49682b3aa662ad745a5b2868d2239355eb6cc01c33d53ef799454f6698112fb7"
+        },
+        "counties.csv": {
+          "bytes": 2699,
+          "sha256": "0c7d2e384a11ac00c8d021ac5acc64e32ea5471b56385859094f834ffaaa31ce"
+        },
+        "place-zip-links.csv": {
+          "bytes": 40314,
+          "sha256": "32414e3e78eb85ff1b638b2f44000eee1f5451188e91bd135dfcce8398fb5005"
+        },
+        "inventory.json": {
+          "bytes": 2020,
+          "sha256": "39c803b936ec8c4bb3bad7e7c18e9ce70d8d46f668764639b08d7d0fd27b6c2a"
+        }
+      }
+    },
+    {
+      "state": "NE",
+      "name": "Nebraska",
+      "catalog_dir": "geography/states/NE",
+      "counties": 93,
+      "places": 593,
+      "zip_areas": 592,
+      "place_zip_links": 697,
+      "baseline_scopes": 1185,
+      "baseline_place_scopes": 593,
+      "baseline_zip_scopes": 592,
+      "alternate_zip_scope_ceiling": 592,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 23,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 73614,
+          "sha256": "b0db009bfeb98d5a212d88e8a4d27d1a4b2ee6d87db5acba02f88fdcbefe5f11"
+        },
+        "zip-areas.csv": {
+          "bytes": 49353,
+          "sha256": "9c97d805b3b2d7768923ce20a8be2babbdcdc128d95887c3cd188ae3a82b85b7"
+        },
+        "counties.csv": {
+          "bytes": 4251,
+          "sha256": "21e0664ba3d95a38881e51bb6a9cfb4c28b5338b9e9eaba0d9149045950c14ae"
+        },
+        "place-zip-links.csv": {
+          "bytes": 45787,
+          "sha256": "b0efa4baff6f1887dc4602c6c1d8f65fb4ed6e31cf3cc2b84d954a07890bd83a"
+        },
+        "inventory.json": {
+          "bytes": 2019,
+          "sha256": "a27a7afece4520d160f28c05b96c6d6480f0d8026a958e747c7e8f1b8b390828"
+        }
+      }
+    },
+    {
+      "state": "NV",
+      "name": "Nevada",
+      "catalog_dir": "geography/states/NV",
+      "counties": 17,
+      "places": 138,
+      "zip_areas": 182,
+      "place_zip_links": 280,
+      "baseline_scopes": 320,
+      "baseline_place_scopes": 138,
+      "baseline_zip_scopes": 182,
+      "alternate_zip_scope_ceiling": 182,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 15,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 18315,
+          "sha256": "e29701927100cd0d8bccd01acf557f5e404c532bc3a4411f9918aaa4828c3648"
+        },
+        "zip-areas.csv": {
+          "bytes": 12830,
+          "sha256": "b9d92371d950b5998d610aeb7bda5e4a7d9165199db0d5a7a01cc1d60dc432d6"
+        },
+        "counties.csv": {
+          "bytes": 819,
+          "sha256": "909bf5a99eb61b75efbf5e8b4687b91defbf7ad1d304210fb8dd5bb8698c1ebf"
+        },
+        "place-zip-links.csv": {
+          "bytes": 19227,
+          "sha256": "9580d6e8ba23360ed4f90cd140d9f1ffe5ce9b0cc973caa35cb5c4e7ad38eed4"
+        },
+        "inventory.json": {
+          "bytes": 2020,
+          "sha256": "04067baf7339ef1cd4b7223b62fabee1b9fe9df38551922906aeada5a1279087"
+        }
+      }
+    },
+    {
+      "state": "NH",
+      "name": "New Hampshire",
+      "catalog_dir": "geography/states/NH",
+      "counties": 10,
+      "places": 100,
+      "zip_areas": 247,
+      "place_zip_links": 128,
+      "baseline_scopes": 347,
+      "baseline_place_scopes": 100,
+      "baseline_zip_scopes": 247,
+      "alternate_zip_scope_ceiling": 247,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 133,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 13382,
+          "sha256": "7918d79db3b0b77ca481ac3f25b1d5c3eb0fe5193ed7ba5ab8bad14c25172e3f"
+        },
+        "zip-areas.csv": {
+          "bytes": 17658,
+          "sha256": "e4284197a345cf3907ca71803eb7e1082eac0629af7362ca5d2a3ab797b6b9a1"
+        },
+        "counties.csv": {
+          "bytes": 505,
+          "sha256": "fe67dc6a29728d4472bb69d1ad82821d79e1ebee2328776ed3157781bb2dca57"
+        },
+        "place-zip-links.csv": {
+          "bytes": 8768,
+          "sha256": "a4460695942a1e2eff40bb77185526724edcbb3b014df06befde625da27d9c8a"
+        },
+        "inventory.json": {
+          "bytes": 2020,
+          "sha256": "91d1d69d3bf77229c04377b336bd75e0f0c7cdb3590332c4c1c0a99fb5223937"
+        }
+      }
+    },
+    {
+      "state": "NJ",
+      "name": "New Jersey",
+      "catalog_dir": "geography/states/NJ",
+      "counties": 21,
+      "places": 701,
+      "zip_areas": 598,
+      "place_zip_links": 1085,
+      "baseline_scopes": 1299,
+      "baseline_place_scopes": 701,
+      "baseline_zip_scopes": 598,
+      "alternate_zip_scope_ceiling": 598,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 46,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 95025,
+          "sha256": "74fc2b01d69b2d2fb1c3edc6cdc7c2a46a4d06b42f7ffc04d2fb57e9f3ce9478"
+        },
+        "zip-areas.csv": {
+          "bytes": 42595,
+          "sha256": "96302055f5cb37fe3f25dbc69b273db90545a4660bb2407bf52d5af2446fb9ed"
+        },
+        "counties.csv": {
+          "bytes": 1000,
+          "sha256": "a80e88a2ca5e81669d3b27095db6be952d6ae39db4b0322c1b637f74c1e3e190"
+        },
+        "place-zip-links.csv": {
+          "bytes": 74257,
+          "sha256": "8ea631765a4906102e26198aee6401ac30a2a9dd9a2891f1d7535cb9a964a1e5"
+        },
+        "inventory.json": {
+          "bytes": 2021,
+          "sha256": "92d86994177cdc5eb5f8bd52d788e5456ea679db81ca37ce6a0e49898f83d1a3"
+        }
+      }
+    },
+    {
+      "state": "NM",
+      "name": "New Mexico",
+      "catalog_dir": "geography/states/NM",
+      "counties": 33,
+      "places": 528,
+      "zip_areas": 379,
+      "place_zip_links": 716,
+      "baseline_scopes": 907,
+      "baseline_place_scopes": 528,
+      "baseline_zip_scopes": 379,
+      "alternate_zip_scope_ceiling": 379,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 63,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 70543,
+          "sha256": "4e27e0fb5c24d68cbd727c0d48fd8da9f556d31c09d9d7017655d8ab3e55649c"
+        },
+        "zip-areas.csv": {
+          "bytes": 28297,
+          "sha256": "13b3d13f6963385f2677891312255ae7b31de1f56ad37cb3dbc6e2cb511221ff"
+        },
+        "counties.csv": {
+          "bytes": 1573,
+          "sha256": "b32263c1dd4de0479ae9151187b96e61f3e747ff093cac13b51d9deeb428ed9c"
+        },
+        "place-zip-links.csv": {
+          "bytes": 49077,
+          "sha256": "15fd25f7d2c1d116686f5510738971cb8f32f7de464ae679ddd75c04f416fd7c"
+        },
+        "inventory.json": {
+          "bytes": 2021,
+          "sha256": "6fc5f079c33ea83d355095d30724a9fcb553c138664d679c5cbdf8ebdd6aac5d"
+        }
+      }
+    },
+    {
+      "state": "NY",
+      "name": "New York",
+      "catalog_dir": "geography/states/NY",
+      "counties": 62,
+      "places": 1293,
+      "zip_areas": 1826,
+      "place_zip_links": 2456,
+      "baseline_scopes": 3119,
+      "baseline_place_scopes": 1293,
+      "baseline_zip_scopes": 1826,
+      "alternate_zip_scope_ceiling": 1826,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 453,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 173571,
+          "sha256": "cd065d5645f0e3e4573eefabca5516cb28e020fb5c525adee73e2aefc30af713"
+        },
+        "zip-areas.csv": {
+          "bytes": 133944,
+          "sha256": "70b6e13607744668923b5d1be68736f13b3a44116fbeb64005d543d88652d26a"
+        },
+        "counties.csv": {
+          "bytes": 2892,
+          "sha256": "d13c4f577c5eccc7bec858130d6b58f1a6935a9bcb89b01fd06d08fcb2b9e4a7"
+        },
+        "place-zip-links.csv": {
+          "bytes": 166854,
+          "sha256": "31e8fc54e886b0db2367b984a578ed9904261e5b8d62725ab193f4f44035e96e"
+        },
+        "inventory.json": {
+          "bytes": 2025,
+          "sha256": "cb36882324319bf66df880e6b91d07a768d5e68ba2f59714d9a717c7144e55bf"
+        }
+      }
+    },
+    {
+      "state": "NC",
+      "name": "North Carolina",
+      "catalog_dir": "geography/states/NC",
+      "counties": 100,
+      "places": 785,
+      "zip_areas": 853,
+      "place_zip_links": 1460,
+      "baseline_scopes": 1638,
+      "baseline_place_scopes": 785,
+      "baseline_zip_scopes": 853,
+      "alternate_zip_scope_ceiling": 853,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 124,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 101026,
+          "sha256": "4d91b194164914df8e26cb5a8ad981b33907a8302bdd422f50ba47f6406ed01e"
+        },
+        "zip-areas.csv": {
+          "bytes": 68843,
+          "sha256": "2004aec0da009de702298e3f01424a5130f0ce0ed90ab1ed1b6c588370723f88"
+        },
+        "counties.csv": {
+          "bytes": 4605,
+          "sha256": "bcbacf36ba92573ffb09a3420185c666440b68ddd38d1e8f33446b1212930277"
+        },
+        "place-zip-links.csv": {
+          "bytes": 98923,
+          "sha256": "fc52138df889d0f6a3282739289def3c6233783ecb25333ecd1403442d0a2e11"
+        },
+        "inventory.json": {
+          "bytes": 2024,
+          "sha256": "2845b58e8e5cd9c7df614a4b8b118bc1bf64f3b1f520d035029e0d3dcaa856ea"
+        }
+      }
+    },
+    {
+      "state": "ND",
+      "name": "North Dakota",
+      "catalog_dir": "geography/states/ND",
+      "counties": 53,
+      "places": 406,
+      "zip_areas": 400,
+      "place_zip_links": 445,
+      "baseline_scopes": 806,
+      "baseline_place_scopes": 406,
+      "baseline_zip_scopes": 400,
+      "alternate_zip_scope_ceiling": 400,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 37,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 49845,
+          "sha256": "dc50a5a034b2a03faef79aee16d622fee7a197adf6f13256c4f33e91855870ea"
+        },
+        "zip-areas.csv": {
+          "bytes": 33057,
+          "sha256": "9bc1a51d175c2dac896ef402cf2c23d504394e9e8fb48ce41b0e3fe810cba6d1"
+        },
+        "counties.csv": {
+          "bytes": 2466,
+          "sha256": "53f671062492bcbc63a51fa62ea4499177b8d3c4382e7ec21e88c0c9794eb355"
+        },
+        "place-zip-links.csv": {
+          "bytes": 29419,
+          "sha256": "91fb14076e68eb287b154fbe25387e3863f532e929dd197186282317341a7984"
+        },
+        "inventory.json": {
+          "bytes": 2019,
+          "sha256": "7b7cae8b89f4a5ddb2f74d21984c10a6da3a44efb40e4cba4109fa1d804b0dee"
+        }
+      }
+    },
+    {
+      "state": "OH",
+      "name": "Ohio",
+      "catalog_dir": "geography/states/OH",
+      "counties": 88,
+      "places": 1265,
+      "zip_areas": 1233,
+      "place_zip_links": 2171,
+      "baseline_scopes": 2498,
+      "baseline_place_scopes": 1265,
+      "baseline_zip_scopes": 1233,
+      "alternate_zip_scope_ceiling": 1233,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 116,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 166537,
+          "sha256": "a12990f69ffd169d26e57b8f6402255e6b58057caaf475db6b37d0bd029ccceb"
+        },
+        "zip-areas.csv": {
+          "bytes": 98767,
+          "sha256": "68c974dde89d4d5504f1c52f02b7ddc32d2b481d62a2ee3d3f39abb39cf5bf6f"
+        },
+        "counties.csv": {
+          "bytes": 4039,
+          "sha256": "ec51f24f8263d7994e02f9ac82e299d8cbde0953c2d0b339ff553134aa5d0413"
+        },
+        "place-zip-links.csv": {
+          "bytes": 147039,
+          "sha256": "8b89ee820e768a9bc5969e8903b42fae2e8e79c3c1b6babf74936e16ddae162e"
+        },
+        "inventory.json": {
+          "bytes": 2025,
+          "sha256": "de352007a60ff3b16527deca7d36e4267a055c31c91874745a3c3a42441d75e8"
+        }
+      }
+    },
+    {
+      "state": "OK",
+      "name": "Oklahoma",
+      "catalog_dir": "geography/states/OK",
+      "counties": 77,
+      "places": 846,
+      "zip_areas": 666,
+      "place_zip_links": 1317,
+      "baseline_scopes": 1512,
+      "baseline_place_scopes": 846,
+      "baseline_zip_scopes": 666,
+      "alternate_zip_scope_ceiling": 666,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 22,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 104922,
+          "sha256": "662dcfa7551ee052b2b238decd7ee0c36f08c4a9e173cd1250b7cf4a15228452"
+        },
+        "zip-areas.csv": {
+          "bytes": 53691,
+          "sha256": "b40c1d91f062fd208834721640599beaa0f5d0a5a440b5c10f704bf441f4c6b3"
+        },
+        "counties.csv": {
+          "bytes": 3548,
+          "sha256": "4d51ab575c3e4a0089ff9d30ac62592739ac559b9dcaaed74aa69a05f1a65040"
+        },
+        "place-zip-links.csv": {
+          "bytes": 87436,
+          "sha256": "faa59a9df4e34161bc0395dec5d2723610ad996d03ac8934507fdfeebfc28b64"
+        },
+        "inventory.json": {
+          "bytes": 2022,
+          "sha256": "e0e17f2a7cbf318dc60c6dde937da67951c6cf83add01efc86b54297ba7e96f3"
+        }
+      }
+    },
+    {
+      "state": "OR",
+      "name": "Oregon",
+      "catalog_dir": "geography/states/OR",
+      "counties": 36,
+      "places": 426,
+      "zip_areas": 430,
+      "place_zip_links": 647,
+      "baseline_scopes": 856,
+      "baseline_place_scopes": 426,
+      "baseline_zip_scopes": 430,
+      "alternate_zip_scope_ceiling": 430,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 68,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 54901,
+          "sha256": "d327711f3754b20fa53dd714d3dfe43e713d25598b3d1f1fec17e951021bfb41"
+        },
+        "zip-areas.csv": {
+          "bytes": 32048,
+          "sha256": "a3cad70ae566964b1f86313d42b5d5ad103a408a1a78352093ec84f00995548e"
+        },
+        "counties.csv": {
+          "bytes": 1708,
+          "sha256": "d8993d3debae3fc0f2ff6ace5a68b024f4a74227906346034a09d1ccfe701e7a"
+        },
+        "place-zip-links.csv": {
+          "bytes": 43650,
+          "sha256": "21693285a9d278007ec9bae6fdd3a7010ff2e80d68a2f60fa4b5d6eb3a8eb2c6"
+        },
+        "inventory.json": {
+          "bytes": 2020,
+          "sha256": "2c9957193bf1fd91a165602812e438cdee9cefacd615aa166aa1200c185faee0"
+        }
+      }
+    },
+    {
+      "state": "PA",
+      "name": "Pennsylvania",
+      "catalog_dir": "geography/states/PA",
+      "counties": 67,
+      "places": 2002,
+      "zip_areas": 1833,
+      "place_zip_links": 2820,
+      "baseline_scopes": 3835,
+      "baseline_place_scopes": 2002,
+      "baseline_zip_scopes": 1833,
+      "alternate_zip_scope_ceiling": 1833,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 440,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 268508,
+          "sha256": "2116eeca4afa6221f8d4eebe9c53bbb36b0566e6cad2919204df52d87c23a006"
+        },
+        "zip-areas.csv": {
+          "bytes": 136314,
+          "sha256": "dd8d8c1b22e6637eee0ea2d9c4fd200f4c83df563c5995269f0ec85f5eff5366"
+        },
+        "counties.csv": {
+          "bytes": 3130,
+          "sha256": "6af6609a00cd3732676c8c2f37af5a9cf09a3c271349dd8dfd9f0308205c5d73"
+        },
+        "place-zip-links.csv": {
+          "bytes": 191297,
+          "sha256": "04aa4c0a4a982a4383716b8e3c8bc17ae4b2fc83401518103843a220ab8c3be2"
+        },
+        "inventory.json": {
+          "bytes": 2027,
+          "sha256": "571007b326c8ef0d3483bb55b3e600a72eb5516f204f3dc7e551741376633dd0"
+        }
+      }
+    },
+    {
+      "state": "RI",
+      "name": "Rhode Island",
+      "catalog_dir": "geography/states/RI",
+      "counties": 5,
+      "places": 36,
+      "zip_areas": 81,
+      "place_zip_links": 84,
+      "baseline_scopes": 117,
+      "baseline_place_scopes": 36,
+      "baseline_zip_scopes": 81,
+      "alternate_zip_scope_ceiling": 81,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 27,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 5030,
+          "sha256": "032ca96774dd36c9467229e1dd2c50f91e2a4523d68d5db36dfe8f6a124488e9"
+        },
+        "zip-areas.csv": {
+          "bytes": 5784,
+          "sha256": "8fb54cda7d54be5488fa36c1948075ecf43620398b2f95a6acf8c8f361a796e4"
+        },
+        "counties.csv": {
+          "bytes": 267,
+          "sha256": "80d4d6bfadd2bbadba2188a1b23c72ef279b27480ced152ecc81555d9f20c37f"
+        },
+        "place-zip-links.csv": {
+          "bytes": 5761,
+          "sha256": "993e04b14c38fcb33e29dc4ec9535633ceca0de1e7a49ae172a30d9810592204"
+        },
+        "inventory.json": {
+          "bytes": 2015,
+          "sha256": "4d3f92e50b04c5c88fba5a497cf54bfa3f5a407e32406e3cf152ce257b7596f9"
+        }
+      }
+    },
+    {
+      "state": "SD",
+      "name": "South Dakota",
+      "catalog_dir": "geography/states/SD",
+      "counties": 66,
+      "places": 485,
+      "zip_areas": 401,
+      "place_zip_links": 547,
+      "baseline_scopes": 886,
+      "baseline_place_scopes": 485,
+      "baseline_zip_scopes": 401,
+      "alternate_zip_scope_ceiling": 401,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 50,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 62502,
+          "sha256": "fc9594879716602154775ec8eaf08e93e220f936060b67886c1d5272d980b728"
+        },
+        "zip-areas.csv": {
+          "bytes": 33525,
+          "sha256": "c8605ec79a37c2de2f3806781636bf5ee3cda95bc5c8984822a9cca4cb0955b6"
+        },
+        "counties.csv": {
+          "bytes": 3048,
+          "sha256": "680182e6026557fef7448263953539b41bb1428709bc89799c5de2ecbbd40476"
+        },
+        "place-zip-links.csv": {
+          "bytes": 37075,
+          "sha256": "21ece91fc75355b7c81c7a68a2b70435b24c9b2c01a5f45971645c0ad4596e56"
+        },
+        "inventory.json": {
+          "bytes": 2020,
+          "sha256": "1d753e2c065c8594fbcd77a31f14fc95901f7a006a5dca8ec2d7eb5ae22d1ec3"
+        }
+      }
+    },
+    {
+      "state": "TN",
+      "name": "Tennessee",
+      "catalog_dir": "geography/states/TN",
+      "counties": 95,
+      "places": 504,
+      "zip_areas": 641,
+      "place_zip_links": 968,
+      "baseline_scopes": 1145,
+      "baseline_place_scopes": 504,
+      "baseline_zip_scopes": 641,
+      "alternate_zip_scope_ceiling": 641,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 92,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 65066,
+          "sha256": "3ab21cabd685ac47a3d5111d71548133c9fd9ad24097a7510ed9b624929f14df"
+        },
+        "zip-areas.csv": {
+          "bytes": 53915,
+          "sha256": "f3561e6bf05dad7c2379b342112bfc69fd54a2ab1c88e2a125930bd2639889ac"
+        },
+        "counties.csv": {
+          "bytes": 4365,
+          "sha256": "acb5dcdd095818b44375b4012e369c09405eeaa2653d63ba6cfa58b5a940d062"
+        },
+        "place-zip-links.csv": {
+          "bytes": 67735,
+          "sha256": "91b671443ec8253277c0415c12051eabaaedbdd5b2613e5b2cfa1949be2c3ce2"
+        },
+        "inventory.json": {
+          "bytes": 2020,
+          "sha256": "a734392f5ceba5cb1d129c157d7eb09e4b87f1f9a8181e8715fef8a1ba78fbc2"
+        }
+      }
+    },
+    {
+      "state": "TX",
+      "name": "Texas",
+      "catalog_dir": "geography/states/TX",
+      "counties": 254,
+      "places": 1864,
+      "zip_areas": 1992,
+      "place_zip_links": 3484,
+      "baseline_scopes": 3856,
+      "baseline_place_scopes": 1864,
+      "baseline_zip_scopes": 1992,
+      "alternate_zip_scope_ceiling": 1992,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 258,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 239862,
+          "sha256": "d84106162871626182c424047aea1e3cb1fec3146989eec7453bbda265ef1106"
+        },
+        "zip-areas.csv": {
+          "bytes": 156697,
+          "sha256": "efb6d672af75f5fa7ac3da55bc519f4431cb4312abf78753f647cbd619dbf301"
+        },
+        "counties.csv": {
+          "bytes": 11650,
+          "sha256": "447217d3884cc36fbeccb1eabbaebb65711e7bf1e07aca97d131b3b14994e1ef"
+        },
+        "place-zip-links.csv": {
+          "bytes": 234644,
+          "sha256": "ff7e554aed31385b704f71630d1f9f7f2eed2765f007b5cb5e97096cdce06945"
+        },
+        "inventory.json": {
+          "bytes": 2027,
+          "sha256": "3679feb70fd4a683acf26a51b993df9523e04fc735e40c7ae0d523775f1f28b4"
+        }
+      }
+    },
+    {
+      "state": "UT",
+      "name": "Utah",
+      "catalog_dir": "geography/states/UT",
+      "counties": 29,
+      "places": 334,
+      "zip_areas": 303,
+      "place_zip_links": 575,
+      "baseline_scopes": 637,
+      "baseline_place_scopes": 334,
+      "baseline_zip_scopes": 303,
+      "alternate_zip_scope_ceiling": 303,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 24,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 42604,
+          "sha256": "1a14add42ca8dbecfcd0fb98d1c8ada84fad23816c85fe7e0dfe0ca30b0431c3"
+        },
+        "zip-areas.csv": {
+          "bytes": 21363,
+          "sha256": "9a0b497ab726b8aa453d94319b63167cdb201c8cc6170253aa23b1b165d57b50"
+        },
+        "counties.csv": {
+          "bytes": 1363,
+          "sha256": "ff049d6484a4c0936bf603debb0234930817e7444249e3a77179730d6bd9fd15"
+        },
+        "place-zip-links.csv": {
+          "bytes": 38984,
+          "sha256": "5c33e33c3007c8d1112da7aa6bc8f5752513e8230fd3f4f4434b2c22bb0fd909"
+        },
+        "inventory.json": {
+          "bytes": 2019,
+          "sha256": "3bc487a11c39b4c0f30e1059ddc616e322e6fae9a9f23dc84ad273b9fa69c4c5"
+        }
+      }
+    },
+    {
+      "state": "VT",
+      "name": "Vermont",
+      "catalog_dir": "geography/states/VT",
+      "counties": 14,
+      "places": 180,
+      "zip_areas": 265,
+      "place_zip_links": 224,
+      "baseline_scopes": 445,
+      "baseline_place_scopes": 180,
+      "baseline_zip_scopes": 265,
+      "alternate_zip_scope_ceiling": 265,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 101,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 24455,
+          "sha256": "f6e726c08c4721dda2e2708b7a09ba15fdb57169685f4135b8a1c5897525c8aa"
+        },
+        "zip-areas.csv": {
+          "bytes": 19382,
+          "sha256": "f0d28adc0b41c3880be8cf42251e426d7ced7567d5ed694b6a0391268d680849"
+        },
+        "counties.csv": {
+          "bytes": 691,
+          "sha256": "24ddfbeffff1323ed659516d903db59d571d3e6e6424006a2c2d0cbfe82c87e8"
+        },
+        "place-zip-links.csv": {
+          "bytes": 15566,
+          "sha256": "f04ab46bbe00de258e7d4b865231781c7a387dae0384820e935e1fe715c84b9a"
+        },
+        "inventory.json": {
+          "bytes": 2021,
+          "sha256": "682f8f499a976d69afe2892ab04bdc7d1e48a194295841b3f3210982c2661107"
+        }
+      }
+    },
+    {
+      "state": "VA",
+      "name": "Virginia",
+      "catalog_dir": "geography/states/VA",
+      "counties": 133,
+      "places": 700,
+      "zip_areas": 907,
+      "place_zip_links": 1170,
+      "baseline_scopes": 1607,
+      "baseline_place_scopes": 700,
+      "baseline_zip_scopes": 907,
+      "alternate_zip_scope_ceiling": 907,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 264,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 93572,
+          "sha256": "1e368427dc17e5ad1b8e0f9300d9803453d51894dca7c03ad8ceeef05de13bdc"
+        },
+        "zip-areas.csv": {
+          "bytes": 73232,
+          "sha256": "18e1f97d4ba047ee34b68a5f78cd73390e43168dba68ee8fe982afae51028c42"
+        },
+        "counties.csv": {
+          "bytes": 6254,
+          "sha256": "01b5b8cd380232297f511ec3cbb6f3a4e89376c365f53ae37c4eec8093dee279"
+        },
+        "place-zip-links.csv": {
+          "bytes": 79666,
+          "sha256": "975ec0b633c3ce34ddc5ccab2612d5c19d328677ceea12743f379a4df996e8a2"
+        },
+        "inventory.json": {
+          "bytes": 2025,
+          "sha256": "5ec90df5e784e380392fd6caf0a27477db7ae44046aae9fd64c98ce1c88162ac"
+        }
+      }
+    },
+    {
+      "state": "WA",
+      "name": "Washington",
+      "catalog_dir": "geography/states/WA",
+      "counties": 39,
+      "places": 639,
+      "zip_areas": 606,
+      "place_zip_links": 1151,
+      "baseline_scopes": 1245,
+      "baseline_place_scopes": 639,
+      "baseline_zip_scopes": 606,
+      "alternate_zip_scope_ceiling": 606,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 78,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 83614,
+          "sha256": "596e1d0257a0717b09125095cbe2d84a1551d0c18be2262063abdc94f82d8756"
+        },
+        "zip-areas.csv": {
+          "bytes": 43876,
+          "sha256": "9e146f7e45f2ceb5ff2da86dffb7eec574e8b34ebfb7c60744c1b8f52951a4c8"
+        },
+        "counties.csv": {
+          "bytes": 1867,
+          "sha256": "1ae3cd2364617286b179dfa9c2603631fa7d8b0f66e3c2b32d1d08fa65f49eb7"
+        },
+        "place-zip-links.csv": {
+          "bytes": 77898,
+          "sha256": "091d5c19692a8b9c3bd438c76a56ce7164d0c6908f57ca695b1cd0fcc989b294"
+        },
+        "inventory.json": {
+          "bytes": 2021,
+          "sha256": "3574ce922cd291f6dc52386a13dd14049708f555cd81da6338feaaff420856e4"
+        }
+      }
+    },
+    {
+      "state": "WV",
+      "name": "West Virginia",
+      "catalog_dir": "geography/states/WV",
+      "counties": 55,
+      "places": 439,
+      "zip_areas": 741,
+      "place_zip_links": 663,
+      "baseline_scopes": 1180,
+      "baseline_place_scopes": 439,
+      "baseline_zip_scopes": 741,
+      "alternate_zip_scope_ceiling": 741,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 301,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 56172,
+          "sha256": "846ad30b42f8ef8fdaead80b57525ad0b38a2d351e40d06ed39b82848a5b7c62"
+        },
+        "zip-areas.csv": {
+          "bytes": 55424,
+          "sha256": "d84df9e09446800c4b0635d59a94ba037b1395e7cc8dc8d70a844f8edc1fae88"
+        },
+        "counties.csv": {
+          "bytes": 2535,
+          "sha256": "e96802bc3e8eb6f634652b16ea9a8a79da4ecb26bf86975020ed12abcaee2b21"
+        },
+        "place-zip-links.csv": {
+          "bytes": 44504,
+          "sha256": "22fb36e6708dff53a27d0e751d6f6fd51400ca47e46330b83509ab1ba964e38f"
+        },
+        "inventory.json": {
+          "bytes": 2021,
+          "sha256": "ae3ffe2d708fd4cb068735c5c2ecfede193212fe6cb3b7f32c4e19c9ab7569a7"
+        }
+      }
+    },
+    {
+      "state": "WI",
+      "name": "Wisconsin",
+      "catalog_dir": "geography/states/WI",
+      "counties": 72,
+      "places": 807,
+      "zip_areas": 783,
+      "place_zip_links": 1217,
+      "baseline_scopes": 1590,
+      "baseline_place_scopes": 807,
+      "baseline_zip_scopes": 783,
+      "alternate_zip_scope_ceiling": 783,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 56,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 103568,
+          "sha256": "2d12e5f4453eb082addb35abe10275561f0acd3e639ce95a77add5f753daf839"
+        },
+        "zip-areas.csv": {
+          "bytes": 63471,
+          "sha256": "350a81e94d328eb37114fa90d07ce98cc04e8a472152fcc4ec25f47914f17557"
+        },
+        "counties.csv": {
+          "bytes": 3325,
+          "sha256": "0120383f00de2b878663a5597aaeb908b4155408e837a15badefe2fae7ac4e6e"
+        },
+        "place-zip-links.csv": {
+          "bytes": 81987,
+          "sha256": "9919276c422b25b5b907ccee01afba444c341daa0804fa508253a585d8ad5042"
+        },
+        "inventory.json": {
+          "bytes": 2022,
+          "sha256": "a42e646294747180b29a40a9267477aac9ed280fcb813f669b4c988dd6106c4b"
+        }
+      }
+    },
+    {
+      "state": "WY",
+      "name": "Wyoming",
+      "catalog_dir": "geography/states/WY",
+      "counties": 23,
+      "places": 205,
+      "zip_areas": 180,
+      "place_zip_links": 252,
+      "baseline_scopes": 385,
+      "baseline_place_scopes": 205,
+      "baseline_zip_scopes": 180,
+      "alternate_zip_scope_ceiling": 180,
+      "places_requiring_manual_search_label": 0,
+      "places_covered_by_zip_only": 0,
+      "zip_areas_without_place_overlap": 31,
+      "ready": true,
+      "files": {
+        "places.csv": {
+          "bytes": 26631,
+          "sha256": "03da4f78e500c171085b47c0970234e99ca7eadbedaf2ad4fec897a01fbdf8d4"
+        },
+        "zip-areas.csv": {
+          "bytes": 13174,
+          "sha256": "179afaa291399a2b8fdf69e98a65d45591b4df047158f8140fda591cf9115cd6"
+        },
+        "counties.csv": {
+          "bytes": 1112,
+          "sha256": "fa5450d5d0d73aeb23dc5d226e75ce4956fa7651b2d11b10e15ab90f519c61f5"
+        },
+        "place-zip-links.csv": {
+          "bytes": 17126,
+          "sha256": "4858678db8a29c603a7bef38a0ec34c7cd7eafe77615b8b033ebde8dbde86fab"
+        },
+        "inventory.json": {
+          "bytes": 2020,
+          "sha256": "19991fa2514028adff2c8d31a9743b556103feea88613a78b6503012639608ac"
+        }
+      }
+    }
+  ]
+}

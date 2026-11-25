@@ -1,0 +1,847 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+OK,4000100,place:OK:4000100,Achille town,Achille,Achille,40013,Bryan County,Incorporated place,33.835346,-96.388752,1
+OK,4000200,place:OK:4000200,Ada city,Ada,Ada,40123,Pontotoc County,Incorporated place,34.767914,-96.669114,1
+OK,4000250,place:OK:4000250,Adair town,Adair,Adair,40097,Mayes County,Incorporated place,36.43641,-95.273445,1
+OK,4000300,place:OK:4000300,Adams CDP,Adams,Adams,40139,Texas County,Census-designated place,36.754581,-101.075164,1
+OK,4000350,place:OK:4000350,Adamson CDP,Adamson,Adamson,40121,Pittsburg County,Census-designated place,34.924784,-95.547583,1
+OK,4000450,place:OK:4000450,Addington town,Addington,Addington,40067,Jefferson County,Incorporated place,34.243101,-97.966109,1
+OK,4000600,place:OK:4000600,Afton town,Afton,Afton,40115,Ottawa County,Incorporated place,36.696535,-94.957463,1
+OK,4000700,place:OK:4000700,Agra town,Agra,Agra,40081,Lincoln County,Incorporated place,35.894937,-96.870195,1
+OK,4000900,place:OK:4000900,Akins CDP,Akins,Akins,40135,Sequoyah County,Census-designated place,35.494223,-94.657569,1
+OK,4000950,place:OK:4000950,Albany CDP,Albany,Albany,40013,Bryan County,Census-designated place,33.874518,-96.155242,1
+OK,4001050,place:OK:4001050,Albion town,Albion,Albion,40127,Pushmataha County,Incorporated place,34.661748,-95.098717,1
+OK,4001150,place:OK:4001150,Alderson town,Alderson,Alderson,40121,Pittsburg County,Incorporated place,34.900593,-95.689431,1
+OK,4001250,place:OK:4001250,Alex town,Alex,Alex,40051,Grady County,Incorporated place,34.922801,-97.776329,1
+OK,4001350,place:OK:4001350,Aline town,Aline,Aline,40003,Alfalfa County,Incorporated place,36.50967,-98.448672,1
+OK,4001400,place:OK:4001400,Allen town,Allen,Allen,40123,Pontotoc County,Incorporated place,34.877628,-96.412889,1
+OK,4001700,place:OK:4001700,Altus city,Altus,Altus,40065,Jackson County,Incorporated place,34.657061,-99.309046,1
+OK,4001800,place:OK:4001800,Alva city,Alva,Alva,40151,Woods County,Incorporated place,36.789606,-98.664882,1
+OK,4001900,place:OK:4001900,Amber town,Amber,Amber,40051,Grady County,Incorporated place,35.160232,-97.882055,1
+OK,4001950,place:OK:4001950,Ames town,Ames,Ames,40093,Major County,Incorporated place,36.246962,-98.186139,1
+OK,4002000,place:OK:4002000,Amorita town,Amorita,Amorita,40003,Alfalfa County,Incorporated place,36.924012,-98.293621,1
+OK,4002050,place:OK:4002050,Anadarko city,Anadarko,Anadarko,40015,Caddo County,Incorporated place,35.065296,-98.244469,1
+OK,4002250,place:OK:4002250,Antlers city,Antlers,Antlers,40127,Pushmataha County,Incorporated place,34.233026,-95.622759,1
+OK,4002300,place:OK:4002300,Apache town,Apache,Apache,40015,Caddo County,Incorporated place,34.894169,-98.358726,1
+OK,4002500,place:OK:4002500,Arapaho town,Arapaho,Arapaho,40039,Custer County,Incorporated place,35.577797,-98.959345,1
+OK,4002550,place:OK:4002550,Arcadia town,Arcadia,Arcadia,40109,Oklahoma County,Incorporated place,35.665487,-97.325515,1
+OK,4002600,place:OK:4002600,Ardmore city,Ardmore,Ardmore,40019,Carter County,Incorporated place,34.196507,-97.131848,1
+OK,4002650,place:OK:4002650,Arkoma town,Arkoma,Arkoma,40079,Le Flore County,Incorporated place,35.330247,-94.448332,1
+OK,4002750,place:OK:4002750,Armstrong town,Armstrong,Armstrong,40013,Bryan County,Incorporated place,34.052816,-96.34484,1
+OK,4002800,place:OK:4002800,Arnett town,Arnett,Arnett,40045,Ellis County,Incorporated place,36.134487,-99.772706,1
+OK,4002900,place:OK:4002900,Arpelar CDP,Arpelar,Arpelar,40121,Pittsburg County,Census-designated place,34.932848,-95.951695,1
+OK,4003000,place:OK:4003000,Asher town,Asher,Asher,40125,Pottawatomie County,Incorporated place,34.988373,-96.925401,1
+OK,4003050,place:OK:4003050,Ashland town,Ashland,Ashland,40121,Pittsburg County,Incorporated place,34.765566,-96.070865,1
+OK,4003300,place:OK:4003300,Atoka city,Atoka,Atoka,40005,Atoka County,Incorporated place,34.386353,-96.131101,1
+OK,4003350,place:OK:4003350,Atwood town,Atwood,Atwood,40063,Hughes County,Incorporated place,34.955155,-96.336762,1
+OK,4003500,place:OK:4003500,Avant town,Avant,Avant,40113,Osage County,Incorporated place,36.489631,-96.04626,1
+OK,4003550,place:OK:4003550,Avard CDP,Avard,Avard,40151,Woods County,Census-designated place,36.697358,-98.789357,1
+OK,4003750,place:OK:4003750,Bache CDP,Bache,Bache,40121,Pittsburg County,Census-designated place,34.894269,-95.650526,1
+OK,4003815,place:OK:4003815,Badger Lee CDP,Badger Lee,Badger Lee,40135,Sequoyah County,Census-designated place,35.473698,-94.818967,1
+OK,4003900,place:OK:4003900,Baker CDP,Baker,Baker,40139,Texas County,Census-designated place,36.870414,-101.017712,1
+OK,4004075,place:OK:4004075,Ballou CDP,Ballou,Ballou,40097,Mayes County,Census-designated place,36.142127,-95.199834,1
+OK,4004200,place:OK:4004200,Barber CDP,Barber,Barber,40021,Cherokee County,Census-designated place,35.752135,-94.848449,1
+OK,4004250,place:OK:4004250,Barnsdall city,Barnsdall,Barnsdall,40113,Osage County,Incorporated place,36.561229,-96.15574,1
+OK,4004350,place:OK:4004350,Baron CDP,Baron,Baron,40001,Adair County,Census-designated place,35.935822,-94.601601,1
+OK,4004450,place:OK:4004450,Bartlesville city,Bartlesville,Bartlesville,40147,Washington County,Incorporated place,36.737914,-95.948484,1
+OK,4004700,place:OK:4004700,Bearden town,Bearden,Bearden,40107,Okfuskee County,Incorporated place,35.364296,-96.3886,1
+OK,4004750,place:OK:4004750,Beaver town,Beaver,Beaver,40007,Beaver County,Incorporated place,36.815087,-100.523543,1
+OK,4004950,place:OK:4004950,Bee CDP,Bee,Bee,40069,Johnston County,Census-designated place,34.124589,-96.568774,1
+OK,4005000,place:OK:4005000,Beggs city,Beggs,Beggs,40111,Okmulgee County,Incorporated place,35.741386,-96.066464,1
+OK,4005070,place:OK:4005070,Belfonte CDP,Belfonte,Belfonte,40135,Sequoyah County,Census-designated place,35.542942,-94.551182,1
+OK,4005090,place:OK:4005090,Bell CDP,Bell,Bell,40001,Adair County,Census-designated place,35.729723,-94.567897,1
+OK,4005400,place:OK:4005400,Bennington town,Bennington,Bennington,40013,Bryan County,Incorporated place,34.005396,-96.038388,1
+OK,4005450,place:OK:4005450,Bentley CDP,Bentley,Bentley,40005,Atoka County,Census-designated place,34.217411,-96.07971,1
+OK,4005550,place:OK:4005550,Bernice town,Bernice,Bernice,40041,Delaware County,Incorporated place,36.623395,-94.913481,1
+OK,4005650,place:OK:4005650,Bessie town,Bessie,Bessie,40149,Washita County,Incorporated place,35.385419,-98.989178,1
+OK,4005700,place:OK:4005700,Bethany city,Bethany,Bethany,40109,Oklahoma County,Incorporated place,35.507174,-97.641734,1
+OK,4005800,place:OK:4005800,Bethel Acres town,Bethel Acres,Bethel Acres,40125,Pottawatomie County,Incorporated place,35.311366,-97.045061,1
+OK,4005900,place:OK:4005900,Big Cabin town,Big Cabin,Big Cabin,40035,Craig County,Incorporated place,36.537602,-95.229368,1
+OK,4006100,place:OK:4006100,Billings town,Billings,Billings,40103,Noble County,Incorporated place,36.537595,-97.441749,1
+OK,4006200,place:OK:4006200,Binger town,Binger,Binger,40015,Caddo County,Incorporated place,35.310487,-98.343134,1
+OK,4006350,place:OK:4006350,Bison CDP,Bison,Bison,40047,Garfield County,Census-designated place,36.195948,-97.897913,1
+OK,4006400,place:OK:4006400,Bixby city,Bixby,Bixby,40143,Tulsa County,Incorporated place,35.945571,-95.878343,1
+OK,4006450,place:OK:4006450,Blackburn town,Blackburn,Blackburn,40117,Pawnee County,Incorporated place,36.373312,-96.596551,1
+OK,4006500,place:OK:4006500,Blackgum CDP,Blackgum,Blackgum,40135,Sequoyah County,Census-designated place,35.612046,-94.992135,1
+OK,4006600,place:OK:4006600,Blackwell city,Blackwell,Blackwell,40071,Kay County,Incorporated place,36.801341,-97.300871,1
+OK,4006650,place:OK:4006650,Blair town,Blair,Blair,40065,Jackson County,Incorporated place,34.780193,-99.333436,1
+OK,4006700,place:OK:4006700,Blanchard city,Blanchard,Blanchard,40087,McClain County,Incorporated place,35.154313,-97.657197,1
+OK,4006750,place:OK:4006750,Blanco CDP,Blanco,Blanco,40121,Pittsburg County,Census-designated place,34.750821,-95.773563,1
+OK,4006900,place:OK:4006900,Blue CDP,Blue,Blue,40013,Bryan County,Census-designated place,33.989938,-96.230368,1
+OK,4006950,place:OK:4006950,Bluejacket town,Bluejacket,Bluejacket,40035,Craig County,Incorporated place,36.800427,-95.074033,1
+OK,4007300,place:OK:4007300,Boise City city,Boise City,Boise City,40025,Cimarron County,Incorporated place,36.731336,-102.509522,1
+OK,4007350,place:OK:4007350,Bokchito town,Bokchito,Bokchito,40013,Bryan County,Incorporated place,34.024584,-96.159963,1
+OK,4007450,place:OK:4007450,Bokoshe town,Bokoshe,Bokoshe,40079,Le Flore County,Incorporated place,35.190371,-94.790406,1
+OK,4007500,place:OK:4007500,Boley town,Boley,Boley,40107,Okfuskee County,Incorporated place,35.489868,-96.479953,1
+OK,4007750,place:OK:4007750,Boswell town,Boswell,Boswell,40023,Choctaw County,Incorporated place,34.027613,-95.869957,1
+OK,4007950,place:OK:4007950,Bowlegs town,Bowlegs,Bowlegs,40133,Seminole County,Incorporated place,35.147276,-96.669273,1
+OK,4008000,place:OK:4008000,Bowring CDP,Bowring,Bowring,40113,Osage County,Census-designated place,36.878744,-96.11975,1
+OK,4008050,place:OK:4008050,Box CDP,Box,Box,40135,Sequoyah County,Census-designated place,35.570017,-94.972763,1
+OK,4008150,place:OK:4008150,Boynton town,Boynton,Boynton,40101,Muskogee County,Incorporated place,35.649415,-95.6541,1
+OK,4008300,place:OK:4008300,Bradley town,Bradley,Bradley,40051,Grady County,Incorporated place,34.877967,-97.708744,1
+OK,4008400,place:OK:4008400,Braggs town,Braggs,Braggs,40101,Muskogee County,Incorporated place,35.663293,-95.198339,1
+OK,4008450,place:OK:4008450,Braman town,Braman,Braman,40071,Kay County,Incorporated place,36.923644,-97.335815,1
+OK,4008550,place:OK:4008550,Bray town,Bray,Bray,40137,Stephens County,Incorporated place,34.60836,-97.817484,1
+OK,4008600,place:OK:4008600,Breckenridge town,Breckenridge,Breckenridge,40047,Garfield County,Incorporated place,36.457242,-97.725465,1
+OK,4008650,place:OK:4008650,Brent CDP,Brent,Brent,40135,Sequoyah County,Census-designated place,35.366223,-94.792475,1
+OK,4008700,place:OK:4008700,Briartown CDP,Briartown,Briartown,40101,Muskogee County,Census-designated place,35.297323,-95.238611,1
+OK,4008725,place:OK:4008725,Bridge Creek town,Bridge Creek,Bridge Creek,40051,Grady County,Incorporated place,35.233546,-97.734686,1
+OK,4008750,place:OK:4008750,Bridgeport city,Bridgeport,Bridgeport,40015,Caddo County,Incorporated place,35.547622,-98.377478,1
+OK,4008775,place:OK:4008775,Briggs CDP,Briggs,Briggs,40021,Cherokee County,Census-designated place,35.921697,-94.878486,1
+OK,4008900,place:OK:4008900,Bristow city,Bristow,Bristow,40037,Creek County,Incorporated place,35.833084,-96.394401,1
+OK,4009050,place:OK:4009050,Broken Arrow city,Broken Arrow,Broken Arrow,40143,Tulsa County,Incorporated place,36.039317,-95.78522,1
+OK,4009100,place:OK:4009100,Broken Bow city,Broken Bow,Broken Bow,40089,McCurtain County,Incorporated place,34.028862,-94.741357,1
+OK,4009150,place:OK:4009150,Bromide town,Bromide,Bromide,40069,Johnston County,Incorporated place,34.418295,-96.494761,1
+OK,4009400,place:OK:4009400,Brooksville town,Brooksville,Brooksville,40125,Pottawatomie County,Incorporated place,35.209675,-96.961127,1
+OK,4009612,place:OK:4009612,Brush Creek CDP,Brush Creek,Brush Creek,40041,Delaware County,Census-designated place,36.416473,-94.783885,1
+OK,4009650,place:OK:4009650,Brushy CDP,Brushy,Brushy,40135,Sequoyah County,Census-designated place,35.561647,-94.747517,1
+OK,4009700,place:OK:4009700,Bryant CDP,Bryant,Bryant,40111,Okmulgee County,Census-designated place,35.392286,-96.062342,1
+OK,4009850,place:OK:4009850,Buffalo town,Buffalo,Buffalo,40059,Harper County,Incorporated place,36.829412,-99.637673,1
+OK,4009875,place:OK:4009875,Bug Tussle CDP,Bug Tussle,Bug Tussle,40121,Pittsburg County,Census-designated place,35.029275,-95.688597,1
+OK,4009887,place:OK:4009887,Bull Hollow CDP,Bull Hollow,Bull Hollow,40041,Delaware County,Census-designated place,36.304625,-94.900832,1
+OK,4009900,place:OK:4009900,Bunch CDP,Bunch,Bunch,40001,Adair County,Census-designated place,35.698852,-94.740242,1
+OK,4009950,place:OK:4009950,Burbank town,Burbank,Burbank,40113,Osage County,Incorporated place,36.696085,-96.728112,1
+OK,4010050,place:OK:4010050,Burlington town,Burlington,Burlington,40003,Alfalfa County,Incorporated place,36.900213,-98.42341,1
+OK,4010150,place:OK:4010150,Burneyville CDP,Burneyville,Burneyville,40085,Love County,Census-designated place,33.890125,-97.292396,1
+OK,4010250,place:OK:4010250,Burns Flat town,Burns Flat,Burns Flat,40149,Washita County,Incorporated place,35.354693,-99.175017,1
+OK,4010400,place:OK:4010400,Bushyhead CDP,Bushyhead,Bushyhead,40131,Rogers County,Census-designated place,36.461664,-95.505238,1
+OK,4010450,place:OK:4010450,Butler town,Butler,"Butler, Custer County",40039,Custer County,Incorporated place,35.636448,-99.186377,1
+OK,4010460,place:OK:4010460,Butler CDP,Butler,"Butler, Delaware County",40041,Delaware County,Census-designated place,36.538724,-94.74057,1
+OK,4010550,place:OK:4010550,Byars town,Byars,Byars,40087,McClain County,Incorporated place,34.871969,-97.054224,1
+OK,4010600,place:OK:4010600,Byng town,Byng,Byng,40123,Pontotoc County,Incorporated place,34.865667,-96.66777,1
+OK,4010650,place:OK:4010650,Byron town,Byron,Byron,40003,Alfalfa County,Incorporated place,36.901382,-98.294423,1
+OK,4010700,place:OK:4010700,Cache city,Cache,Cache,40031,Comanche County,Incorporated place,34.627559,-98.619547,1
+OK,4010800,place:OK:4010800,Caddo town,Caddo,Caddo,40013,Bryan County,Incorporated place,34.125593,-96.263719,1
+OK,4010950,place:OK:4010950,Calera town,Calera,Calera,40013,Bryan County,Incorporated place,33.930829,-96.42906,1
+OK,4011050,place:OK:4011050,Calumet town,Calumet,Calumet,40017,Canadian County,Incorporated place,35.601385,-98.124786,1
+OK,4011100,place:OK:4011100,Calvin town,Calvin,Calvin,40063,Hughes County,Incorporated place,34.96638,-96.249887,1
+OK,4011150,place:OK:4011150,Camargo town,Camargo,Camargo,40043,Dewey County,Incorporated place,36.017902,-99.288454,1
+OK,4011300,place:OK:4011300,Cameron town,Cameron,Cameron,40079,Le Flore County,Incorporated place,35.137476,-94.539288,1
+OK,4011450,place:OK:4011450,Canadian town,Canadian,Canadian,40121,Pittsburg County,Incorporated place,35.173963,-95.649404,1
+OK,4011530,place:OK:4011530,Canadian Shores CDP,Canadian Shores,Canadian Shores,40121,Pittsburg County,Census-designated place,35.172853,-95.742081,1
+OK,4011550,place:OK:4011550,Caney town,Caney,"Caney, Atoka County",40005,Atoka County,Incorporated place,34.235764,-96.217168,1
+OK,4011562,place:OK:4011562,Caney CDP,Caney,"Caney, Cherokee County",40021,Cherokee County,Census-designated place,35.829557,-94.840026,1
+OK,4011575,place:OK:4011575,Caney Ridge CDP,Caney Ridge,Caney Ridge,40021,Cherokee County,Census-designated place,35.763926,-94.882761,1
+OK,4011600,place:OK:4011600,Canton town,Canton,Canton,40011,Blaine County,Incorporated place,36.055018,-98.588403,1
+OK,4011650,place:OK:4011650,Canute town,Canute,Canute,40149,Washita County,Incorporated place,35.421969,-99.277927,1
+OK,4011750,place:OK:4011750,Capron town,Capron,Capron,40151,Woods County,Incorporated place,36.896662,-98.577622,1
+OK,4011975,place:OK:4011975,Carlisle CDP,Carlisle,Carlisle,40135,Sequoyah County,Census-designated place,35.506877,-95.032222,1
+OK,4011990,place:OK:4011990,Carlton Landing town,Carlton Landing,Carlton Landing,40121,Pittsburg County,Incorporated place,35.211734,-95.557049,1
+OK,4012000,place:OK:4012000,Carmen town,Carmen,Carmen,40003,Alfalfa County,Incorporated place,36.579117,-98.457902,1
+OK,4012050,place:OK:4012050,Carnegie town,Carnegie,Carnegie,40015,Caddo County,Incorporated place,35.104877,-98.597231,1
+OK,4012100,place:OK:4012100,Carney town,Carney,Carney,40081,Lincoln County,Incorporated place,35.805891,-97.015542,1
+OK,4012200,place:OK:4012200,Carrier town,Carrier,Carrier,40047,Garfield County,Incorporated place,36.478594,-98.0172,1
+OK,4012300,place:OK:4012300,Carter town,Carter,Carter,40009,Beckham County,Incorporated place,35.216948,-99.503576,1
+OK,4012550,place:OK:4012550,Cartwright CDP,Cartwright,Cartwright,40013,Bryan County,Census-designated place,33.85539,-96.556978,1
+OK,4012650,place:OK:4012650,Cashion town,Cashion,Cashion,40073,Kingfisher County,Incorporated place,35.800909,-97.675739,1
+OK,4012750,place:OK:4012750,Castle town,Castle,Castle,40107,Okfuskee County,Incorporated place,35.468109,-96.391552,1
+OK,4012900,place:OK:4012900,Catoosa city,Catoosa,Catoosa,40131,Rogers County,Incorporated place,36.180256,-95.770334,1
+OK,4012910,place:OK:4012910,Cave Spring CDP,Cave Spring,Cave Spring,40001,Adair County,Census-designated place,35.728177,-94.75814,1
+OK,4012915,place:OK:4012915,Cayuga CDP,Cayuga,Cayuga,40041,Delaware County,Census-designated place,36.637389,-94.651732,1
+OK,4012930,place:OK:4012930,Cedar Crest CDP,Cedar Crest,Cedar Crest,40097,Mayes County,Census-designated place,36.123176,-95.173148,1
+OK,4012937,place:OK:4012937,Cedar Lake CDP,Cedar Lake,Cedar Lake,40017,Canadian County,Census-designated place,35.427,-98.193009,1
+OK,4012960,place:OK:4012960,Cedar Valley city,Cedar Valley,Cedar Valley,40083,Logan County,Incorporated place,35.872919,-97.500499,1
+OK,4013000,place:OK:4013000,Cement town,Cement,Cement,40015,Caddo County,Incorporated place,34.936201,-98.136288,1
+OK,4013100,place:OK:4013100,Centrahoma city,Centrahoma,Centrahoma,40029,Coal County,Incorporated place,34.610397,-96.343671,1
+OK,4013135,place:OK:4013135,Central High town,Central High,Central High,40137,Stephens County,Incorporated place,34.614327,-98.088648,1
+OK,4013475,place:OK:4013475,Chance CDP,Chance,Chance,40001,Adair County,Census-designated place,36.067498,-94.646266,1
+OK,4013500,place:OK:4013500,Chandler city,Chandler,Chandler,40081,Lincoln County,Incorporated place,35.712784,-96.836198,1
+OK,4013600,place:OK:4013600,Chattanooga town,Chattanooga,Chattanooga,40031,Comanche County,Incorporated place,34.42386,-98.654017,1
+OK,4013650,place:OK:4013650,Checotah city,Checotah,Checotah,40091,McIntosh County,Incorporated place,35.482436,-95.522818,1
+OK,4013700,place:OK:4013700,Chelsea town,Chelsea,Chelsea,40131,Rogers County,Incorporated place,36.532037,-95.434568,1
+OK,4013750,place:OK:4013750,Cherokee city,Cherokee,Cherokee,40003,Alfalfa County,Incorporated place,36.750694,-98.357667,1
+OK,4013775,place:OK:4013775,Cherry Tree CDP,Cherry Tree,Cherry Tree,40001,Adair County,Census-designated place,35.746465,-94.643925,1
+OK,4013800,place:OK:4013800,Chester CDP,Chester,Chester,40093,Major County,Census-designated place,36.215676,-98.921341,1
+OK,4013850,place:OK:4013850,Chewey CDP,Chewey,Chewey,40001,Adair County,Census-designated place,36.112488,-94.725729,1
+OK,4013900,place:OK:4013900,Cheyenne town,Cheyenne,Cheyenne,40129,Roger Mills County,Incorporated place,35.61092,-99.676371,1
+OK,4013950,place:OK:4013950,Chickasha city,Chickasha,Chickasha,40051,Grady County,Incorporated place,35.040543,-97.947173,1
+OK,4014200,place:OK:4014200,Choctaw city,Choctaw,Choctaw,40109,Oklahoma County,Incorporated place,35.484983,-97.269942,1
+OK,4014300,place:OK:4014300,Chouteau town,Chouteau,Chouteau,40097,Mayes County,Incorporated place,36.189507,-95.338902,1
+OK,4014350,place:OK:4014350,Christie CDP,Christie,Christie,40001,Adair County,Census-designated place,35.97604,-94.646948,1
+OK,4014500,place:OK:4014500,Cimarron City town,Cimarron City,Cimarron City,40083,Logan County,Incorporated place,35.888778,-97.603211,1
+OK,4014700,place:OK:4014700,Claremore city,Claremore,Claremore,40131,Rogers County,Incorporated place,36.315093,-95.609451,1
+OK,4014750,place:OK:4014750,Clarita CDP,Clarita,Clarita,40029,Coal County,Census-designated place,34.480967,-96.439393,1
+OK,4014800,place:OK:4014800,Clarksville CDP,Clarksville,Clarksville,40145,Wagoner County,Census-designated place,35.824076,-95.514082,1
+OK,4014900,place:OK:4014900,Clayton town,Clayton,Clayton,40127,Pushmataha County,Incorporated place,34.586236,-95.355456,1
+OK,4015050,place:OK:4015050,Clearview town,Clearview,Clearview,40107,Okfuskee County,Incorporated place,35.398687,-96.186996,1
+OK,4015300,place:OK:4015300,Cleo Springs town,Cleo Springs,Cleo Springs,40093,Major County,Incorporated place,36.404928,-98.440027,1
+OK,4015250,place:OK:4015250,Cleora town,Cleora,Cleora,40041,Delaware County,Incorporated place,36.576173,-94.979984,1
+OK,4015350,place:OK:4015350,Cleveland city,Cleveland,Cleveland,40117,Pawnee County,Incorporated place,36.310908,-96.47218,1
+OK,4015400,place:OK:4015400,Clinton city,Clinton,Clinton,40039,Custer County,Incorporated place,35.507101,-98.970503,1
+OK,4015625,place:OK:4015625,Cloud Creek CDP,Cloud Creek,Cloud Creek,40041,Delaware County,Census-designated place,36.293782,-94.754354,1
+OK,4015800,place:OK:4015800,Coalgate city,Coalgate,Coalgate,40029,Coal County,Incorporated place,34.532271,-96.221205,1
+OK,4016050,place:OK:4016050,Colbert town,Colbert,Colbert,40013,Bryan County,Incorporated place,33.857413,-96.508433,1
+OK,4016100,place:OK:4016100,Colcord town,Colcord,Colcord,40041,Delaware County,Incorporated place,36.264707,-94.692344,1
+OK,4016200,place:OK:4016200,Cole town,Cole,Cole,40087,McClain County,Incorporated place,35.098548,-97.562738,1
+OK,4016250,place:OK:4016250,Coleman CDP,Coleman,Coleman,40069,Johnston County,Census-designated place,34.264655,-96.420627,1
+OK,4016350,place:OK:4016350,Collinsville city,Collinsville,Collinsville,40143,Tulsa County,Incorporated place,36.372901,-95.857187,1
+OK,4016400,place:OK:4016400,Colony town,Colony,Colony,40149,Washita County,Incorporated place,35.348537,-98.671458,1
+OK,4016450,place:OK:4016450,Comanche city,Comanche,Comanche,40137,Stephens County,Incorporated place,34.362503,-97.979879,1
+OK,4016500,place:OK:4016500,Commerce city,Commerce,Commerce,40115,Ottawa County,Incorporated place,36.934895,-94.861462,1
+OK,4016700,place:OK:4016700,Connerville CDP,Connerville,Connerville,40069,Johnston County,Census-designated place,34.442069,-96.629676,1
+OK,4016950,place:OK:4016950,Cookson CDP,Cookson,Cookson,40021,Cherokee County,Census-designated place,35.721272,-94.915492,1
+OK,4017050,place:OK:4017050,Cooperton town,Cooperton,Cooperton,40075,Kiowa County,Incorporated place,34.86651,-98.875869,1
+OK,4017100,place:OK:4017100,Copan town,Copan,Copan,40147,Washington County,Incorporated place,36.900473,-95.925291,1
+OK,4017110,place:OK:4017110,Copeland CDP,Copeland,Copeland,40041,Delaware County,Census-designated place,36.663775,-94.827148,1
+OK,4017300,place:OK:4017300,Corn town,Corn,Corn,40149,Washita County,Incorporated place,35.379052,-98.781704,1
+OK,4017350,place:OK:4017350,Cornish town,Cornish,Cornish,40067,Jefferson County,Incorporated place,34.163583,-97.596391,1
+OK,4017450,place:OK:4017450,Cottonwood CDP,Cottonwood,Cottonwood,40029,Coal County,Census-designated place,34.554699,-96.203235,1
+OK,4017550,place:OK:4017550,Council Hill town,Council Hill,Council Hill,40101,Muskogee County,Incorporated place,35.555812,-95.65251,1
+OK,4017700,place:OK:4017700,Covington town,Covington,Covington,40047,Garfield County,Incorporated place,36.307474,-97.586358,1
+OK,4017800,place:OK:4017800,Coweta city,Coweta,Coweta,40145,Wagoner County,Incorporated place,35.966384,-95.660647,1
+OK,4017850,place:OK:4017850,Cowlington town,Cowlington,Cowlington,40079,Le Flore County,Incorporated place,35.309627,-94.78397,1
+OK,4017950,place:OK:4017950,Coyle town,Coyle,Coyle,40083,Logan County,Incorporated place,35.951879,-97.236079,1
+OK,4018250,place:OK:4018250,Crescent city,Crescent,Crescent,40083,Logan County,Incorporated place,35.951937,-97.594355,1
+OK,4018275,place:OK:4018275,Crescent Springs CDP,Crescent Springs,Crescent Springs,40083,Logan County,Census-designated place,35.89765,-97.602795,1
+OK,4018450,place:OK:4018450,Cromwell town,Cromwell,Cromwell,40133,Seminole County,Incorporated place,35.340736,-96.459568,1
+OK,4018550,place:OK:4018550,Crowder town,Crowder,Crowder,40121,Pittsburg County,Incorporated place,35.117911,-95.676814,1
+OK,4018750,place:OK:4018750,Cumberland CDP,Cumberland,Cumberland,40095,Marshall County,Census-designated place,34.058753,-96.592513,1
+OK,4018850,place:OK:4018850,Cushing city,Cushing,Cushing,40119,Payne County,Incorporated place,35.979681,-96.761753,1
+OK,4018950,place:OK:4018950,Custer City town,Custer City,Custer City,40039,Custer County,Incorporated place,35.663829,-98.886946,1
+OK,4019000,place:OK:4019000,Cyril town,Cyril,Cyril,40015,Caddo County,Incorporated place,34.898474,-98.20293,1
+OK,4019050,place:OK:4019050,Dacoma town,Dacoma,Dacoma,40151,Woods County,Incorporated place,36.659622,-98.563474,1
+OK,4019150,place:OK:4019150,Dale CDP,Dale,Dale,40125,Pottawatomie County,Census-designated place,35.384162,-97.043419,1
+OK,4019350,place:OK:4019350,Davenport town,Davenport,Davenport,40081,Lincoln County,Incorporated place,35.70938,-96.764208,1
+OK,4019400,place:OK:4019400,Davidson town,Davidson,Davidson,40141,Tillman County,Incorporated place,34.242103,-99.078113,1
+OK,4019450,place:OK:4019450,Davis city,Davis,Davis,40099,Murray County,Incorporated place,34.42892,-97.173869,1
+OK,4019650,place:OK:4019650,Deer Creek town,Deer Creek,Deer Creek,40053,Grant County,Incorporated place,36.806682,-97.519483,1
+OK,4019665,place:OK:4019665,Deer Lick CDP,Deer Lick,Deer Lick,40041,Delaware County,Census-designated place,36.459467,-94.746813,1
+OK,4019900,place:OK:4019900,Del City city,Del City,Del City,40109,Oklahoma County,Incorporated place,35.448278,-97.440785,1
+OK,4019850,place:OK:4019850,Delaware town,Delaware,Delaware,40105,Nowata County,Incorporated place,36.778958,-95.642539,1
+OK,4020100,place:OK:4020100,Dennis CDP,Dennis,Dennis,40041,Delaware County,Census-designated place,36.547328,-94.87692,1
+OK,4020300,place:OK:4020300,Depew town,Depew,Depew,40037,Creek County,Incorporated place,35.801739,-96.511156,1
+OK,4020450,place:OK:4020450,Devol town,Devol,Devol,40033,Cotton County,Incorporated place,34.1954,-98.588195,1
+OK,4020500,place:OK:4020500,Dewar town,Dewar,Dewar,40111,Okmulgee County,Incorporated place,35.457918,-95.949132,1
+OK,4020550,place:OK:4020550,Dewey city,Dewey,Dewey,40147,Washington County,Incorporated place,36.790402,-95.933712,1
+OK,4020650,place:OK:4020650,Dibble town,Dibble,Dibble,40087,McClain County,Incorporated place,35.019655,-97.627087,1
+OK,4020700,place:OK:4020700,Dickson town,Dickson,Dickson,40019,Carter County,Incorporated place,34.190224,-96.99875,1
+OK,4020850,place:OK:4020850,Dill City town,Dill City,Dill City,40149,Washita County,Incorporated place,35.281822,-99.133647,1
+OK,4020900,place:OK:4020900,Disney town,Disney,Disney,40097,Mayes County,Incorporated place,36.47419,-95.018203,1
+OK,4021000,place:OK:4021000,Dixon CDP,Dixon,Dixon,40133,Seminole County,Census-designated place,35.161003,-96.518441,1
+OK,4021020,place:OK:4021020,Dodge CDP,Dodge,Dodge,40041,Delaware County,Census-designated place,36.578926,-94.638484,1
+OK,4021150,place:OK:4021150,Dotyville CDP,Dotyville,Dotyville,40115,Ottawa County,Census-designated place,36.8514,-94.909763,1
+OK,4021200,place:OK:4021200,Dougherty town,Dougherty,Dougherty,40099,Murray County,Incorporated place,34.399808,-97.05148,1
+OK,4021250,place:OK:4021250,Douglas town,Douglas,Douglas,40047,Garfield County,Incorporated place,36.260463,-97.6666,1
+OK,4021350,place:OK:4021350,Dover town,Dover,Dover,40073,Kingfisher County,Incorporated place,35.981347,-97.910823,1
+OK,4021672,place:OK:4021672,Dripping Springs CDP,Dripping Springs,Dripping Springs,40041,Delaware County,Census-designated place,36.170835,-94.685222,1
+OK,4021676,place:OK:4021676,Drowning Creek CDP,Drowning Creek,Drowning Creek,40041,Delaware County,Census-designated place,36.4778,-94.894247,1
+OK,4021700,place:OK:4021700,Drummond town,Drummond,Drummond,40047,Garfield County,Incorporated place,36.301724,-98.03578,1
+OK,4021750,place:OK:4021750,Drumright city,Drumright,Drumright,40037,Creek County,Incorporated place,35.989923,-96.597424,1
+OK,4021755,place:OK:4021755,Dry Creek CDP,Dry Creek,Dry Creek,40021,Cherokee County,Census-designated place,35.738817,-94.873354,1
+OK,4021760,place:OK:4021760,Duchess Landing CDP,Duchess Landing,Duchess Landing,40091,McIntosh County,Census-designated place,35.398468,-95.41658,1
+OK,4021900,place:OK:4021900,Duncan city,Duncan,Duncan,40137,Stephens County,Incorporated place,34.481607,-97.960557,1
+OK,4022050,place:OK:4022050,Durant city,Durant,Durant,40013,Bryan County,Incorporated place,33.995153,-96.39254,1
+OK,4022100,place:OK:4022100,Durham CDP,Durham,Durham,40129,Roger Mills County,Census-designated place,35.84389,-99.926126,1
+OK,4022200,place:OK:4022200,Dustin town,Dustin,Dustin,40063,Hughes County,Incorporated place,35.271245,-96.027826,1
+OK,4022275,place:OK:4022275,Dwight Mission CDP,Dwight Mission,Dwight Mission,40135,Sequoyah County,Census-designated place,35.557966,-94.850529,1
+OK,4022300,place:OK:4022300,Eagle City CDP,Eagle City,Eagle City,40011,Blaine County,Census-designated place,35.93383,-98.589967,1
+OK,4022350,place:OK:4022350,Eagletown CDP,Eagletown,Eagletown,40089,McCurtain County,Census-designated place,34.041866,-94.570239,1
+OK,4022400,place:OK:4022400,Eakly town,Eakly,Eakly,40015,Caddo County,Incorporated place,35.305361,-98.55619,1
+OK,4022450,place:OK:4022450,Earl CDP,Earl,Earl,40069,Johnston County,Census-designated place,34.203357,-96.892087,1
+OK,4022500,place:OK:4022500,Earlsboro town,Earlsboro,Earlsboro,40125,Pottawatomie County,Incorporated place,35.329202,-96.80293,1
+OK,4022550,place:OK:4022550,East Duke town,East Duke,East Duke,40065,Jackson County,Incorporated place,34.662829,-99.569629,1
+OK,4023100,place:OK:4023100,Edgewater Park CDP,Edgewater Park,Edgewater Park,40031,Comanche County,Census-designated place,34.824734,-98.375198,1
+OK,4023200,place:OK:4023200,Edmond city,Edmond,Edmond,40109,Oklahoma County,Incorporated place,35.673807,-97.413076,1
+OK,4023700,place:OK:4023700,El Reno city,El Reno,El Reno,40017,Canadian County,Incorporated place,35.535973,-97.945469,1
+OK,4023300,place:OK:4023300,Eldon CDP,Eldon,Eldon,40021,Cherokee County,Census-designated place,35.940128,-94.809192,1
+OK,4023350,place:OK:4023350,Eldorado town,Eldorado,Eldorado,40065,Jackson County,Incorporated place,34.472945,-99.649617,1
+OK,4023450,place:OK:4023450,Elgin city,Elgin,Elgin,40031,Comanche County,Incorporated place,34.785937,-98.296627,1
+OK,4023500,place:OK:4023500,Elk City city,Elk City,Elk City,40009,Beckham County,Incorporated place,35.389612,-99.428749,1
+OK,4023575,place:OK:4023575,Elm Grove CDP,Elm Grove,Elm Grove,40001,Adair County,Census-designated place,35.795961,-94.568111,1
+OK,4023550,place:OK:4023550,Elmer town,Elmer,Elmer,40065,Jackson County,Incorporated place,34.480801,-99.352104,1
+OK,4023600,place:OK:4023600,Elmore City town,Elmore City,Elmore City,40049,Garvin County,Incorporated place,34.628974,-97.393986,1
+OK,4023675,place:OK:4023675,Elohim City CDP,Elohim City,Elohim City,40001,Adair County,Census-designated place,35.641465,-94.510467,1
+OK,4023850,place:OK:4023850,Emet CDP,Emet,Emet,40069,Johnston County,Census-designated place,34.205997,-96.53929,1
+OK,4023900,place:OK:4023900,Empire City town,Empire City,Empire City,40137,Stephens County,Incorporated place,34.477613,-98.059445,1
+OK,4023950,place:OK:4023950,Enid city,Enid,Enid,40047,Garfield County,Incorporated place,36.406702,-97.869861,1
+OK,4024050,place:OK:4024050,Enterprise CDP,Enterprise,Enterprise,40061,Haskell County,Census-designated place,35.22483,-95.376876,1
+OK,4024200,place:OK:4024200,Erick city,Erick,Erick,40009,Beckham County,Incorporated place,35.215604,-99.868683,1
+OK,4024300,place:OK:4024300,Erin Springs town,Erin Springs,Erin Springs,40049,Garvin County,Incorporated place,34.810665,-97.605272,1
+OK,4024460,place:OK:4024460,Etowah town,Etowah,Etowah,40027,Cleveland County,Incorporated place,35.125933,-97.1704,1
+OK,4024500,place:OK:4024500,Etta CDP,Etta,Etta,40021,Cherokee County,Census-designated place,35.836201,-94.90299,1
+OK,4024650,place:OK:4024650,Eufaula city,Eufaula,Eufaula,40091,McIntosh County,Incorporated place,35.292114,-95.586425,1
+OK,4024762,place:OK:4024762,Evening Shade CDP,Evening Shade,Evening Shade,40135,Sequoyah County,Census-designated place,35.620973,-94.905374,1
+OK,4025000,place:OK:4025000,Fair Oaks town,Fair Oaks,Fair Oaks,40145,Wagoner County,Incorporated place,36.158354,-95.690776,1
+OK,4024850,place:OK:4024850,Fairfax town,Fairfax,Fairfax,40113,Osage County,Incorporated place,36.570081,-96.707885,1
+OK,4024875,place:OK:4024875,Fairfield CDP,Fairfield,Fairfield,40001,Adair County,Census-designated place,35.837508,-94.6082,1
+OK,4024900,place:OK:4024900,Fairland town,Fairland,Fairland,40115,Ottawa County,Incorporated place,36.751393,-94.847266,1
+OK,4024950,place:OK:4024950,Fairmont town,Fairmont,Fairmont,40047,Garfield County,Incorporated place,36.356015,-97.705455,1
+OK,4025100,place:OK:4025100,Fairview city,Fairview,Fairview,40093,Major County,Incorporated place,36.27061,-98.477017,1
+OK,4025250,place:OK:4025250,Fallis town,Fallis,Fallis,40081,Lincoln County,Incorporated place,35.749299,-97.118222,1
+OK,4025400,place:OK:4025400,Fanshawe town,Fanshawe,Fanshawe,40079,Le Flore County,Incorporated place,34.961938,-94.91118,1
+OK,4025450,place:OK:4025450,Fargo town,Fargo,Fargo,40045,Ellis County,Incorporated place,36.374206,-99.622165,1
+OK,4025650,place:OK:4025650,Faxon town,Faxon,Faxon,40031,Comanche County,Incorporated place,34.460258,-98.579374,1
+OK,4025700,place:OK:4025700,Fay CDP,Fay,Fay,40043,Dewey County,Census-designated place,35.81609,-98.658661,1
+OK,4025850,place:OK:4025850,Felt CDP,Felt,Felt,40025,Cimarron County,Census-designated place,36.563366,-102.79479,1
+OK,4026000,place:OK:4026000,Finley CDP,Finley,Finley,40127,Pushmataha County,Census-designated place,34.327347,-95.497668,1
+OK,4026200,place:OK:4026200,Fittstown CDP,Fittstown,Fittstown,40123,Pontotoc County,Census-designated place,34.609033,-96.640542,1
+OK,4026250,place:OK:4026250,Fitzhugh town,Fitzhugh,Fitzhugh,40123,Pontotoc County,Incorporated place,34.657603,-96.766932,1
+OK,4026350,place:OK:4026350,Fletcher town,Fletcher,Fletcher,40031,Comanche County,Incorporated place,34.823702,-98.231446,1
+OK,4026415,place:OK:4026415,Flint Creek CDP,Flint Creek,Flint Creek,40041,Delaware County,Census-designated place,36.180687,-94.744408,1
+OK,4026525,place:OK:4026525,Flute Springs CDP,Flute Springs,Flute Springs,40135,Sequoyah County,Census-designated place,35.626728,-94.799979,1
+OK,4026750,place:OK:4026750,Foraker town,Foraker,Foraker,40113,Osage County,Incorporated place,36.87283,-96.569211,1
+OK,4026850,place:OK:4026850,Forest Park town,Forest Park,Forest Park,40109,Oklahoma County,Incorporated place,35.509858,-97.447143,1
+OK,4026900,place:OK:4026900,Forgan town,Forgan,Forgan,40007,Beaver County,Incorporated place,36.906979,-100.537979,1
+OK,4027100,place:OK:4027100,Fort Cobb town,Fort Cobb,Fort Cobb,40015,Caddo County,Incorporated place,35.115273,-98.445334,1
+OK,4027150,place:OK:4027150,Fort Coffee town,Fort Coffee,Fort Coffee,40079,Le Flore County,Incorporated place,35.294209,-94.571353,1
+OK,4027200,place:OK:4027200,Fort Gibson town,Fort Gibson,Fort Gibson,40101,Muskogee County,Incorporated place,35.782145,-95.260096,1
+OK,4027350,place:OK:4027350,Fort Supply town,Fort Supply,Fort Supply,40153,Woodward County,Incorporated place,36.572092,-99.57352,1
+OK,4027400,place:OK:4027400,Fort Towson town,Fort Towson,Fort Towson,40023,Choctaw County,Incorporated place,34.030922,-95.277643,1
+OK,4027450,place:OK:4027450,Foss town,Foss,Foss,40149,Washita County,Incorporated place,35.450005,-99.170738,1
+OK,4027500,place:OK:4027500,Foster town,Foster,Foster,40049,Garvin County,Incorporated place,34.605963,-97.489859,1
+OK,4027550,place:OK:4027550,Fox CDP,Fox,Fox,40019,Carter County,Census-designated place,34.357864,-97.495,1
+OK,4027600,place:OK:4027600,Foyil town,Foyil,Foyil,40131,Rogers County,Incorporated place,36.430325,-95.520461,1
+OK,4027650,place:OK:4027650,Francis town,Francis,Francis,40123,Pontotoc County,Incorporated place,34.874579,-96.59266,1
+OK,4027800,place:OK:4027800,Frederick city,Frederick,Frederick,40141,Tillman County,Incorporated place,34.350033,-98.988003,1
+OK,4027850,place:OK:4027850,Freedom town,Freedom,Freedom,40151,Woods County,Incorporated place,36.767478,-99.112273,1
+OK,4027900,place:OK:4027900,Friendship town,Friendship,Friendship,40065,Jackson County,Incorporated place,34.697835,-99.228694,1
+OK,4028250,place:OK:4028250,Gage town,Gage,Gage,40045,Ellis County,Incorporated place,36.318128,-99.757603,1
+OK,4028350,place:OK:4028350,Gans town,Gans,Gans,40135,Sequoyah County,Incorporated place,35.387658,-94.693563,1
+OK,4028500,place:OK:4028500,Garber city,Garber,Garber,40047,Garfield County,Incorporated place,36.436669,-97.581012,1
+OK,4028700,place:OK:4028700,Garvin town,Garvin,Garvin,40089,McCurtain County,Incorporated place,33.957185,-94.931016,1
+OK,4028800,place:OK:4028800,Gate town,Gate,Gate,40007,Beaver County,Incorporated place,36.851706,-100.055208,1
+OK,4028900,place:OK:4028900,Geary city,Geary,Geary,40011,Blaine County,Incorporated place,35.637076,-98.316976,1
+OK,4028950,place:OK:4028950,Gene Autry town,Gene Autry,Gene Autry,40019,Carter County,Incorporated place,34.314442,-97.042171,1
+OK,4029100,place:OK:4029100,Geronimo town,Geronimo,Geronimo,40031,Comanche County,Incorporated place,34.4832,-98.388012,1
+OK,4029150,place:OK:4029150,Gerty town,Gerty,Gerty,40063,Hughes County,Incorporated place,34.835734,-96.288876,1
+OK,4029300,place:OK:4029300,Gideon CDP,Gideon,Gideon,40021,Cherokee County,Census-designated place,35.997151,-95.027925,1
+OK,4029400,place:OK:4029400,Glencoe town,Glencoe,Glencoe,40119,Payne County,Incorporated place,36.234081,-96.932853,1
+OK,4029600,place:OK:4029600,Glenpool city,Glenpool,Glenpool,40143,Tulsa County,Incorporated place,35.94949,-96.006754,1
+OK,4029800,place:OK:4029800,Golden CDP,Golden,Golden,40089,McCurtain County,Census-designated place,34.030778,-94.90291,1
+OK,4029850,place:OK:4029850,Goldsby town,Goldsby,Goldsby,40087,McClain County,Incorporated place,35.123907,-97.486624,1
+OK,4029900,place:OK:4029900,Goltry town,Goltry,Goltry,40003,Alfalfa County,Incorporated place,36.531965,-98.151302,1
+OK,4030200,place:OK:4030200,Goodwell town,Goodwell,Goodwell,40139,Texas County,Incorporated place,36.59479,-101.621981,1
+OK,4030300,place:OK:4030300,Gore town,Gore,Gore,40135,Sequoyah County,Incorporated place,35.537858,-95.111967,1
+OK,4030350,place:OK:4030350,Gotebo town,Gotebo,Gotebo,40075,Kiowa County,Incorporated place,35.07123,-98.874261,1
+OK,4030400,place:OK:4030400,Gould town,Gould,Gould,40057,Harmon County,Incorporated place,34.669144,-99.773646,1
+OK,4030500,place:OK:4030500,Gowen CDP,Gowen,Gowen,40077,Latimer County,Census-designated place,34.883282,-95.47238,1
+OK,4030600,place:OK:4030600,Gracemont town,Gracemont,Gracemont,40015,Caddo County,Incorporated place,35.187856,-98.259114,1
+OK,4030750,place:OK:4030750,Grainola town,Grainola,Grainola,40113,Osage County,Incorporated place,36.937929,-96.648771,1
+OK,4030900,place:OK:4030900,Grand Lake Towne town,Grand Lake Towne,Grand Lake Towne,40097,Mayes County,Incorporated place,36.505593,-95.027881,1
+OK,4030850,place:OK:4030850,Grandfield city,Grandfield,Grandfield,40141,Tillman County,Incorporated place,34.23075,-98.68731,1
+OK,4030915,place:OK:4030915,Grandview CDP,Grandview,Grandview,40021,Cherokee County,Census-designated place,35.96476,-94.99866,1
+OK,4030950,place:OK:4030950,Granite town,Granite,Granite,40055,Greer County,Incorporated place,34.951154,-99.368379,1
+OK,4031000,place:OK:4031000,Grant CDP,Grant,Grant,40023,Choctaw County,Census-designated place,33.936486,-95.517868,1
+OK,4031150,place:OK:4031150,Grayson town,Grayson,Grayson,40111,Okmulgee County,Incorporated place,35.505391,-95.871617,1
+OK,4031165,place:OK:4031165,Greasy CDP,Greasy,Greasy,40001,Adair County,Census-designated place,35.681874,-94.702453,1
+OK,4031250,place:OK:4031250,Greenfield town,Greenfield,Greenfield,40011,Blaine County,Incorporated place,35.729052,-98.377483,1
+OK,4031375,place:OK:4031375,Greenville CDP,Greenville,Greenville,40085,Love County,Census-designated place,34.0044,-97.121286,1
+OK,4031425,place:OK:4031425,Gregory CDP,Gregory,Gregory,40131,Rogers County,Census-designated place,36.169725,-95.574088,1
+OK,4031600,place:OK:4031600,Grove city,Grove,Grove,40041,Delaware County,Incorporated place,36.585034,-94.787247,1
+OK,4031700,place:OK:4031700,Guthrie city,Guthrie,Guthrie,40083,Logan County,Incorporated place,35.876512,-97.408657,1
+OK,4031750,place:OK:4031750,Guymon city,Guymon,Guymon,40139,Texas County,Incorporated place,36.690101,-101.477046,1
+OK,4031900,place:OK:4031900,Haileyville city,Haileyville,Haileyville,40121,Pittsburg County,Incorporated place,34.854152,-95.578632,1
+OK,4032050,place:OK:4032050,Hallett town,Hallett,Hallett,40117,Pawnee County,Incorporated place,36.231852,-96.56786,1
+OK,4032250,place:OK:4032250,Hammon town,Hammon,Hammon,40129,Roger Mills County,Incorporated place,35.63232,-99.38322,1
+OK,4032350,place:OK:4032350,Hanna town,Hanna,Hanna,40091,McIntosh County,Incorporated place,35.202089,-95.889242,1
+OK,4032400,place:OK:4032400,Hanson CDP,Hanson,Hanson,40135,Sequoyah County,Census-designated place,35.438009,-94.698351,1
+OK,4032550,place:OK:4032550,Hardesty town,Hardesty,Hardesty,40139,Texas County,Incorporated place,36.614785,-101.193662,1
+OK,4032750,place:OK:4032750,Harrah city,Harrah,Harrah,40109,Oklahoma County,Incorporated place,35.472048,-97.182687,1
+OK,4032850,place:OK:4032850,Hartshorne city,Hartshorne,Hartshorne,40121,Pittsburg County,Incorporated place,34.838795,-95.561923,1
+OK,4032900,place:OK:4032900,Haskell town,Haskell,Haskell,40101,Muskogee County,Incorporated place,35.818966,-95.680398,1
+OK,4033000,place:OK:4033000,Hastings town,Hastings,Hastings,40067,Jefferson County,Incorporated place,34.22432,-98.108748,1
+OK,4033150,place:OK:4033150,Haworth town,Haworth,Haworth,40089,McCurtain County,Incorporated place,33.840923,-94.657009,1
+OK,4033250,place:OK:4033250,Haywood CDP,Haywood,Haywood,40121,Pittsburg County,Census-designated place,34.891946,-95.951981,1
+OK,4033300,place:OK:4033300,Headrick town,Headrick,Headrick,40065,Jackson County,Incorporated place,34.626894,-99.137336,1
+OK,4033350,place:OK:4033350,Healdton city,Healdton,Healdton,40019,Carter County,Incorporated place,34.231506,-97.487173,1
+OK,4033400,place:OK:4033400,Heavener city,Heavener,Heavener,40079,Le Flore County,Incorporated place,34.891944,-94.607705,1
+OK,4033450,place:OK:4033450,Helena town,Helena,Helena,40003,Alfalfa County,Incorporated place,36.546477,-98.27187,1
+OK,4033600,place:OK:4033600,Hendrix town,Hendrix,Hendrix,40013,Bryan County,Incorporated place,33.775265,-96.407082,1
+OK,4033650,place:OK:4033650,Hennepin CDP,Hennepin,Hennepin,40049,Garvin County,Census-designated place,34.517219,-97.345376,1
+OK,4033700,place:OK:4033700,Hennessey town,Hennessey,Hennessey,40073,Kingfisher County,Incorporated place,36.105811,-97.898615,1
+OK,4033750,place:OK:4033750,Henryetta city,Henryetta,Henryetta,40111,Okmulgee County,Incorporated place,35.441389,-95.986411,1
+OK,4034150,place:OK:4034150,Hickory town,Hickory,Hickory,40099,Murray County,Incorporated place,34.556453,-96.853408,1
+OK,4034650,place:OK:4034650,Hillsdale town,Hillsdale,Hillsdale,40047,Garfield County,Incorporated place,36.56325,-97.992664,1
+OK,4034750,place:OK:4034750,Hinton town,Hinton,Hinton,40015,Caddo County,Incorporated place,35.505281,-98.355062,1
+OK,4034850,place:OK:4034850,Hitchcock town,Hitchcock,Hitchcock,40011,Blaine County,Incorporated place,35.967658,-98.349696,1
+OK,4034900,place:OK:4034900,Hitchita town,Hitchita,Hitchita,40091,McIntosh County,Incorporated place,35.519825,-95.751743,1
+OK,4035000,place:OK:4035000,Hobart city,Hobart,Hobart,40075,Kiowa County,Incorporated place,35.024606,-99.087579,1
+OK,4035030,place:OK:4035030,Hochatown town,Hochatown,Hochatown,40089,McCurtain County,Incorporated place,34.165729,-94.771597,1
+OK,4035150,place:OK:4035150,Hodgen CDP,Hodgen,Hodgen,40079,Le Flore County,Census-designated place,34.840444,-94.633889,1
+OK,4035300,place:OK:4035300,Hoffman town,Hoffman,Hoffman,40111,Okmulgee County,Incorporated place,35.488837,-95.844692,1
+OK,4035400,place:OK:4035400,Holdenville city,Holdenville,Holdenville,40063,Hughes County,Incorporated place,35.083481,-96.401353,1
+OK,4035500,place:OK:4035500,Hollis city,Hollis,Hollis,40057,Harmon County,Incorporated place,34.689672,-99.915294,1
+OK,4035550,place:OK:4035550,Hollister town,Hollister,Hollister,40141,Tillman County,Incorporated place,34.340936,-98.871131,1
+OK,4035800,place:OK:4035800,Homestead CDP,Homestead,Homestead,40011,Blaine County,Census-designated place,36.14997,-98.397004,1
+OK,4035850,place:OK:4035850,Hominy city,Hominy,Hominy,40113,Osage County,Incorporated place,36.421925,-96.393031,1
+OK,4035875,place:OK:4035875,Honey Hill CDP,Honey Hill,Honey Hill,40001,Adair County,Census-designated place,35.764727,-94.574947,1
+OK,4036000,place:OK:4036000,Hooker city,Hooker,Hooker,40139,Texas County,Incorporated place,36.86136,-101.216256,1
+OK,4036020,place:OK:4036020,Hoot Owl town,Hoot Owl,Hoot Owl,40097,Mayes County,Incorporated place,36.359983,-95.121414,1
+OK,4036050,place:OK:4036050,Hopeton CDP,Hopeton,Hopeton,40151,Woods County,Census-designated place,36.68818,-98.662014,1
+OK,4036090,place:OK:4036090,Horntown town,Horntown,Horntown,40063,Hughes County,Incorporated place,35.083603,-96.23759,1
+OK,4036115,place:OK:4036115,Hough CDP,Hough,Hough,40139,Texas County,Census-designated place,36.871959,-101.57474,1
+OK,4036150,place:OK:4036150,Howe town,Howe,Howe,40079,Le Flore County,Incorporated place,34.949572,-94.640305,1
+OK,4036200,place:OK:4036200,Hoyt CDP,Hoyt,Hoyt,40061,Haskell County,Census-designated place,35.264849,-95.301151,1
+OK,4036300,place:OK:4036300,Hugo city,Hugo,Hugo,40023,Choctaw County,Incorporated place,34.011584,-95.512179,1
+OK,4036400,place:OK:4036400,Hulbert town,Hulbert,Hulbert,40021,Cherokee County,Incorporated place,35.931653,-95.145527,1
+OK,4036600,place:OK:4036600,Hunter town,Hunter,Hunter,40047,Garfield County,Incorporated place,36.564017,-97.662508,1
+OK,4036700,place:OK:4036700,Hydro town,Hydro,Hydro,40015,Caddo County,Incorporated place,35.54813,-98.580106,1
+OK,4036750,place:OK:4036750,Idabel city,Idabel,Idabel,40089,McCurtain County,Incorporated place,33.907634,-94.82228,1
+OK,4036850,place:OK:4036850,Indiahoma town,Indiahoma,Indiahoma,40031,Comanche County,Incorporated place,34.619895,-98.75205,1
+OK,4036945,place:OK:4036945,Indianola CDP,Indianola,"Indianola, Delaware County",40041,Delaware County,Census-designated place,36.444505,-94.674667,1
+OK,4036950,place:OK:4036950,Indianola town,Indianola,"Indianola, Pittsburg County",40121,Pittsburg County,Incorporated place,35.163372,-95.775934,1
+OK,4037000,place:OK:4037000,Ingalls CDP,Ingalls,Ingalls,40119,Payne County,Census-designated place,36.104744,-96.87077,1
+OK,4037100,place:OK:4037100,Inola town,Inola,Inola,40131,Rogers County,Incorporated place,36.113092,-95.54956,1
+OK,4037275,place:OK:4037275,Iron Post CDP,Iron Post,Iron Post,40097,Mayes County,Census-designated place,36.155822,-95.135248,1
+OK,4037350,place:OK:4037350,Isabella CDP,Isabella,Isabella,40093,Major County,Census-designated place,36.238987,-98.326401,1
+OK,4037410,place:OK:4037410,IXL town,IXL,IXL,40107,Okfuskee County,Incorporated place,35.528769,-96.385394,1
+OK,4037650,place:OK:4037650,Jay city,Jay,Jay,40041,Delaware County,Incorporated place,36.427112,-94.795571,1
+OK,4037750,place:OK:4037750,Jefferson town,Jefferson,Jefferson,40053,Grant County,Incorporated place,36.720343,-97.790901,1
+OK,4037800,place:OK:4037800,Jenks city,Jenks,Jenks,40143,Tulsa County,Incorporated place,35.998219,-95.973404,1
+OK,4037850,place:OK:4037850,Jennings town,Jennings,Jennings,40117,Pawnee County,Incorporated place,36.182278,-96.569162,1
+OK,4038000,place:OK:4038000,Jet town,Jet,Jet,40003,Alfalfa County,Incorporated place,36.666527,-98.181648,1
+OK,4038200,place:OK:4038200,Johnson town,Johnson,Johnson,40125,Pottawatomie County,Incorporated place,35.413769,-96.849312,1
+OK,4038201,place:OK:4038201,Johnson Prairie CDP,Johnson Prairie,Johnson Prairie,40021,Cherokee County,Census-designated place,36.079103,-94.975868,1
+OK,4038350,place:OK:4038350,Jones town,Jones,Jones,40109,Oklahoma County,Incorporated place,35.56673,-97.288914,1
+OK,4038475,place:OK:4038475,Justice CDP,Justice,Justice,40131,Rogers County,Census-designated place,36.290802,-95.563561,1
+OK,4038600,place:OK:4038600,Kansas town,Kansas,Kansas,40041,Delaware County,Incorporated place,36.205359,-94.788945,1
+OK,4038700,place:OK:4038700,Katie town,Katie,Katie,40049,Garvin County,Incorporated place,34.590712,-97.32562,1
+OK,4038800,place:OK:4038800,Kaw City city,Kaw City,Kaw City,40071,Kay County,Incorporated place,36.766748,-96.861777,1
+OK,4038850,place:OK:4038850,Keefton CDP,Keefton,Keefton,40101,Muskogee County,Census-designated place,35.578506,-95.306315,1
+OK,4039000,place:OK:4039000,Kellyville town,Kellyville,Kellyville,40037,Creek County,Incorporated place,35.972631,-96.192739,1
+OK,4039050,place:OK:4039050,Kemp town,Kemp,Kemp,40013,Bryan County,Incorporated place,33.769572,-96.354436,1
+OK,4039150,place:OK:4039150,Kendrick town,Kendrick,Kendrick,40081,Lincoln County,Incorporated place,35.785303,-96.775512,1
+OK,4039200,place:OK:4039200,Kenefic town,Kenefic,Kenefic,40013,Bryan County,Incorporated place,34.149955,-96.36441,1
+OK,4039400,place:OK:4039400,Kenton CDP,Kenton,Kenton,40025,Cimarron County,Census-designated place,36.906359,-102.965209,1
+OK,4039450,place:OK:4039450,Kenwood CDP,Kenwood,Kenwood,40041,Delaware County,Census-designated place,36.301244,-94.997873,1
+OK,4039500,place:OK:4039500,Keota town,Keota,Keota,40061,Haskell County,Incorporated place,35.257388,-94.922314,1
+OK,4039550,place:OK:4039550,Ketchum town,Ketchum,Ketchum,40035,Craig County,Incorporated place,36.530242,-95.031558,1
+OK,4039600,place:OK:4039600,Keyes town,Keyes,Keyes,40025,Cimarron County,Incorporated place,36.807634,-102.251735,1
+OK,4039625,place:OK:4039625,Keys CDP,Keys,Keys,40021,Cherokee County,Census-designated place,35.802785,-94.941494,1
+OK,4039750,place:OK:4039750,Kiefer town,Kiefer,Kiefer,40037,Creek County,Incorporated place,35.943785,-96.05306,1
+OK,4039800,place:OK:4039800,Kildare town,Kildare,Kildare,40071,Kay County,Incorporated place,36.80836,-97.049982,1
+OK,4039850,place:OK:4039850,Kingfisher city,Kingfisher,Kingfisher,40073,Kingfisher County,Incorporated place,35.844726,-97.939308,1
+OK,4039900,place:OK:4039900,Kingston town,Kingston,Kingston,40095,Marshall County,Incorporated place,34.000387,-96.706522,1
+OK,4039950,place:OK:4039950,Kinta town,Kinta,Kinta,40061,Haskell County,Incorporated place,35.119759,-95.238238,1
+OK,4040000,place:OK:4040000,Kiowa town,Kiowa,Kiowa,40121,Pittsburg County,Incorporated place,34.723294,-95.902895,1
+OK,4040100,place:OK:4040100,Knowles town,Knowles,Knowles,40007,Beaver County,Incorporated place,36.872893,-100.192416,1
+OK,4040200,place:OK:4040200,Konawa city,Konawa,Konawa,40133,Seminole County,Incorporated place,34.957894,-96.753806,1
+OK,4040300,place:OK:4040300,Krebs city,Krebs,Krebs,40121,Pittsburg County,Incorporated place,34.929783,-95.718636,1
+OK,4040400,place:OK:4040400,Kremlin town,Kremlin,Kremlin,40047,Garfield County,Incorporated place,36.546573,-97.83233,1
+OK,4040700,place:OK:4040700,Lahoma town,Lahoma,Lahoma,40047,Garfield County,Incorporated place,36.387988,-98.090322,1
+OK,4040800,place:OK:4040800,Lake Aluma town,Lake Aluma,Lake Aluma,40109,Oklahoma County,Incorporated place,35.53147,-97.447417,1
+OK,4040875,place:OK:4040875,Lake Ellsworth Addition CDP,Lake Ellsworth Addition,Lake Ellsworth Addition,40031,Comanche County,Census-designated place,34.836829,-98.321326,1
+OK,4041050,place:OK:4041050,Lakeside Village CDP,Lakeside Village,Lakeside Village,40031,Comanche County,Census-designated place,34.798885,-98.381096,1
+OK,4041250,place:OK:4041250,Lamar town,Lamar,Lamar,40063,Hughes County,Incorporated place,35.094209,-96.124823,1
+OK,4041300,place:OK:4041300,Lambert town,Lambert,Lambert,40003,Alfalfa County,Incorporated place,36.683241,-98.423656,1
+OK,4041350,place:OK:4041350,Lamont town,Lamont,Lamont,40053,Grant County,Incorporated place,36.691319,-97.558274,1
+OK,4041400,place:OK:4041400,Lane CDP,Lane,Lane,40005,Atoka County,Census-designated place,34.29988,-95.989631,1
+OK,4041500,place:OK:4041500,Langley town,Langley,Langley,40097,Mayes County,Incorporated place,36.480261,-95.05721,1
+OK,4041550,place:OK:4041550,Langston town,Langston,Langston,40083,Logan County,Incorporated place,35.930752,-97.279294,1
+OK,4041680,place:OK:4041680,Latta CDP,Latta,Latta,40123,Pontotoc County,Census-designated place,34.752895,-96.709719,1
+OK,4041700,place:OK:4041700,Laverne town,Laverne,Laverne,40059,Harper County,Incorporated place,36.705318,-99.896732,1
+OK,4041760,place:OK:4041760,Lawrence Creek town,Lawrence Creek,Lawrence Creek,40037,Creek County,Incorporated place,36.083805,-96.426756,1
+OK,4041850,place:OK:4041850,Lawton city,Lawton,Lawton,40031,Comanche County,Incorporated place,34.619218,-98.421106,1
+OK,4041856,place:OK:4041856,Lawtonka Acres CDP,Lawtonka Acres,Lawtonka Acres,40031,Comanche County,Census-designated place,34.780499,-98.529603,1
+OK,4042150,place:OK:4042150,Le Flore town,Le Flore,Le Flore,40079,Le Flore County,Incorporated place,34.894594,-94.978025,1
+OK,4041900,place:OK:4041900,Leach CDP,Leach,Leach,40041,Delaware County,Census-designated place,36.197849,-94.909861,1
+OK,4041950,place:OK:4041950,Lebanon CDP,Lebanon,Lebanon,40095,Marshall County,Census-designated place,33.971745,-96.92384,1
+OK,4042050,place:OK:4042050,Leedey town,Leedey,Leedey,40043,Dewey County,Incorporated place,35.868423,-99.344924,1
+OK,4042200,place:OK:4042200,Lehigh city,Lehigh,Lehigh,40029,Coal County,Incorporated place,34.474729,-96.221689,1
+OK,4042300,place:OK:4042300,Lenapah town,Lenapah,Lenapah,40105,Nowata County,Incorporated place,36.851347,-95.635696,1
+OK,4042450,place:OK:4042450,Leon town,Leon,Leon,40085,Love County,Incorporated place,33.877336,-97.429083,1
+OK,4042500,place:OK:4042500,Leonard CDP,Leonard,Leonard,40143,Tulsa County,Census-designated place,35.922786,-95.801007,1
+OK,4042600,place:OK:4042600,Lequire CDP,Lequire,Lequire,40061,Haskell County,Census-designated place,35.111147,-95.111859,1
+OK,4042700,place:OK:4042700,Lexington city,Lexington,Lexington,40027,Cleveland County,Incorporated place,35.017605,-97.335018,1
+OK,4042850,place:OK:4042850,Liberty CDP,Liberty,"Liberty, Sequoyah County",40135,Sequoyah County,Census-designated place,35.460861,-94.545749,1
+OK,4042860,place:OK:4042860,Liberty town,Liberty,"Liberty, Okmulgee County",40111,Okmulgee County,Incorporated place,35.853024,-95.986245,1
+OK,4043000,place:OK:4043000,Lima town,Lima,Lima,40133,Seminole County,Incorporated place,35.173708,-96.598114,1
+OK,4043057,place:OK:4043057,Limestone CDP,Limestone,Limestone,40131,Rogers County,Census-designated place,36.314343,-95.747728,1
+OK,4043150,place:OK:4043150,Lindsay city,Lindsay,Lindsay,40049,Garvin County,Incorporated place,34.840485,-97.609851,1
+OK,4043400,place:OK:4043400,Little City CDP,Little City,Little City,40095,Marshall County,Census-designated place,34.083955,-96.616047,1
+OK,4043425,place:OK:4043425,Little Ponderosa CDP,Little Ponderosa,Little Ponderosa,40007,Beaver County,Census-designated place,36.961186,-100.878139,1
+OK,4043442,place:OK:4043442,Little Rock CDP,Little Rock,Little Rock,40097,Mayes County,Census-designated place,36.214982,-95.090744,1
+OK,4043450,place:OK:4043450,Loco town,Loco,Loco,40137,Stephens County,Incorporated place,34.329506,-97.680638,1
+OK,4043500,place:OK:4043500,Locust Grove town,Locust Grove,Locust Grove,40097,Mayes County,Incorporated place,36.198162,-95.168874,1
+OK,4043725,place:OK:4043725,Lone Chimney town,Lone Chimney,Lone Chimney,40117,Pawnee County,Incorporated place,36.23265,-96.792914,0
+OK,4043750,place:OK:4043750,Lone Grove city,Lone Grove,Lone Grove,40019,Carter County,Incorporated place,34.174545,-97.256957,1
+OK,4043850,place:OK:4043850,Lone Wolf town,Lone Wolf,Lone Wolf,40075,Kiowa County,Incorporated place,34.990427,-99.245602,1
+OK,4043900,place:OK:4043900,Long CDP,Long,Long,40135,Sequoyah County,Census-designated place,35.497823,-94.538858,1
+OK,4043950,place:OK:4043950,Longdale town,Longdale,Longdale,40011,Blaine County,Incorporated place,36.133794,-98.551179,1
+OK,4043975,place:OK:4043975,Longtown CDP,Longtown,Longtown,40121,Pittsburg County,Census-designated place,35.242345,-95.518583,1
+OK,4044000,place:OK:4044000,Lookeba town,Lookeba,Lookeba,40015,Caddo County,Incorporated place,35.363005,-98.364095,1
+OK,4044075,place:OK:4044075,Lost City CDP,Lost City,Lost City,40021,Cherokee County,Census-designated place,36.000647,-95.122306,1
+OK,4044100,place:OK:4044100,Lotsee town,Lotsee,Lotsee,40143,Tulsa County,Incorporated place,36.133432,-96.209085,1
+OK,4044150,place:OK:4044150,Loveland town,Loveland,Loveland,40141,Tillman County,Incorporated place,34.304975,-98.771309,1
+OK,4044200,place:OK:4044200,Lovell CDP,Lovell,Lovell,40083,Logan County,Census-designated place,36.056034,-97.636473,1
+OK,4044275,place:OK:4044275,Lowrey CDP,Lowrey,Lowrey,40021,Cherokee County,Census-designated place,36.099952,-94.930908,1
+OK,4044300,place:OK:4044300,Loyal town,Loyal,Loyal,40073,Kingfisher County,Incorporated place,35.972771,-98.118154,1
+OK,4044350,place:OK:4044350,Lucien CDP,Lucien,Lucien,40103,Noble County,Census-designated place,36.274764,-97.455029,1
+OK,4044500,place:OK:4044500,Luther town,Luther,Luther,40109,Oklahoma County,Incorporated place,35.668218,-97.190547,1
+OK,4044775,place:OK:4044775,Lyons Switch CDP,Lyons Switch,Lyons Switch,40001,Adair County,Census-designated place,35.788983,-94.685329,1
+OK,4045500,place:OK:4045500,Macomb town,Macomb,Macomb,40125,Pottawatomie County,Incorporated place,35.147902,-97.00865,1
+OK,4045750,place:OK:4045750,Madill city,Madill,Madill,40095,Marshall County,Incorporated place,34.08708,-96.774665,1
+OK,4045930,place:OK:4045930,Mallard Bay CDP,Mallard Bay,Mallard Bay,40145,Wagoner County,Census-designated place,35.862248,-95.263845,1
+OK,4046000,place:OK:4046000,Manchester town,Manchester,Manchester,40053,Grant County,Incorporated place,36.994494,-98.0351,1
+OK,4046050,place:OK:4046050,Mangum city,Mangum,Mangum,40055,Greer County,Incorporated place,34.878559,-99.503906,1
+OK,4046150,place:OK:4046150,Manitou town,Manitou,Manitou,40141,Tillman County,Incorporated place,34.507244,-98.981011,1
+OK,4046200,place:OK:4046200,Mannford town,Mannford,Mannford,40037,Creek County,Incorporated place,36.132862,-96.330428,1
+OK,4046300,place:OK:4046300,Mannsville town,Mannsville,Mannsville,40069,Johnston County,Incorporated place,34.183123,-96.888853,1
+OK,4046400,place:OK:4046400,Maramec town,Maramec,Maramec,40117,Pawnee County,Incorporated place,36.24189,-96.680512,1
+OK,4046450,place:OK:4046450,Marble City town,Marble City,Marble City,40135,Sequoyah County,Incorporated place,35.583882,-94.817396,1
+OK,4046488,place:OK:4046488,Marietta CDP,Marietta,"Marietta, Adair County",40001,Adair County,Census-designated place,35.848313,-94.653212,1
+OK,4046500,place:OK:4046500,Marietta city,Marietta,"Marietta, Love County",40085,Love County,Incorporated place,33.936172,-97.124716,1
+OK,4046550,place:OK:4046550,Marland town,Marland,Marland,40103,Noble County,Incorporated place,36.560995,-97.152772,1
+OK,4046600,place:OK:4046600,Marlow city,Marlow,Marlow,40137,Stephens County,Incorporated place,34.631168,-97.957162,1
+OK,4046650,place:OK:4046650,Marshall town,Marshall,Marshall,40083,Logan County,Incorporated place,36.149683,-97.623244,1
+OK,4046700,place:OK:4046700,Martha town,Martha,Martha,40065,Jackson County,Incorporated place,34.725983,-99.386657,1
+OK,4046900,place:OK:4046900,Maud city,Maud,Maud,40125,Pottawatomie County,Incorporated place,35.133451,-96.777971,1
+OK,4047000,place:OK:4047000,May town,May,May,40059,Harper County,Incorporated place,36.616708,-99.748636,1
+OK,4047150,place:OK:4047150,Maysville town,Maysville,Maysville,40087,McClain County,Incorporated place,34.864713,-97.373593,1
+OK,4047200,place:OK:4047200,Mazie CDP,Mazie,Mazie,40097,Mayes County,Census-designated place,36.142561,-95.330214,1
+OK,4044800,place:OK:4044800,McAlester city,McAlester,McAlester,40121,Pittsburg County,Incorporated place,34.926128,-95.773619,1
+OK,4044900,place:OK:4044900,McBride CDP,McBride,McBride,40095,Marshall County,Census-designated place,33.934522,-96.636498,1
+OK,4044925,place:OK:4044925,McCord CDP,McCord,McCord,40113,Osage County,Census-designated place,36.673211,-97.035949,1
+OK,4044950,place:OK:4044950,McCurtain town,McCurtain,McCurtain,40061,Haskell County,Incorporated place,35.150561,-94.967178,1
+OK,4045350,place:OK:4045350,McLoud city,McLoud,McLoud,40125,Pottawatomie County,Incorporated place,35.411325,-97.115659,1
+OK,4047250,place:OK:4047250,Mead town,Mead,Mead,40013,Bryan County,Incorporated place,33.997991,-96.518641,1
+OK,4047300,place:OK:4047300,Medford city,Medford,Medford,40053,Grant County,Incorporated place,36.803444,-97.738169,1
+OK,4047350,place:OK:4047350,Medicine Park town,Medicine Park,Medicine Park,40031,Comanche County,Incorporated place,34.733194,-98.481046,1
+OK,4047450,place:OK:4047450,Meeker town,Meeker,Meeker,40081,Lincoln County,Incorporated place,35.489413,-96.897704,1
+OK,4047550,place:OK:4047550,Mehan CDP,Mehan,Mehan,40119,Payne County,Census-designated place,36.04583,-96.940133,1
+OK,4047750,place:OK:4047750,Meno town,Meno,Meno,40093,Major County,Incorporated place,36.388195,-98.177925,1
+OK,4047800,place:OK:4047800,Meridian town,Meridian,Meridian,40083,Logan County,Incorporated place,35.844226,-97.245563,1
+OK,4048000,place:OK:4048000,Miami city,Miami,Miami,40115,Ottawa County,Incorporated place,36.887722,-94.870895,1
+OK,4048100,place:OK:4048100,Middleberg CDP,Middleberg,Middleberg,40051,Grady County,Census-designated place,35.10661,-97.73416,1
+OK,4048350,place:OK:4048350,Midwest City city,Midwest City,Midwest City,40109,Oklahoma County,Incorporated place,35.458752,-97.37457,1
+OK,4048400,place:OK:4048400,Milburn town,Milburn,Milburn,40069,Johnston County,Incorporated place,34.238658,-96.552394,1
+OK,4048450,place:OK:4048450,Milfay CDP,Milfay,Milfay,40037,Creek County,Census-designated place,35.75095,-96.559172,1
+OK,4048500,place:OK:4048500,Mill Creek town,Mill Creek,Mill Creek,40069,Johnston County,Incorporated place,34.402551,-96.825196,1
+OK,4048600,place:OK:4048600,Millerton town,Millerton,Millerton,40089,McCurtain County,Incorporated place,33.984902,-95.023033,1
+OK,4048750,place:OK:4048750,Minco city,Minco,Minco,40051,Grady County,Incorporated place,35.315621,-97.951407,1
+OK,4049000,place:OK:4049000,Moffett town,Moffett,Moffett,40135,Sequoyah County,Incorporated place,35.404671,-94.455721,1
+OK,4049050,place:OK:4049050,Monroe CDP,Monroe,Monroe,40079,Le Flore County,Census-designated place,34.993724,-94.515539,1
+OK,4049100,place:OK:4049100,Moodys CDP,Moodys,Moodys,40021,Cherokee County,Census-designated place,36.034069,-94.956412,1
+OK,4049200,place:OK:4049200,Moore city,Moore,Moore,40027,Cleveland County,Incorporated place,35.328503,-97.474763,1
+OK,4049250,place:OK:4049250,Mooreland town,Mooreland,Mooreland,40153,Woodward County,Incorporated place,36.437701,-99.204847,1
+OK,4049400,place:OK:4049400,Morris city,Morris,Morris,40111,Okmulgee County,Incorporated place,35.610288,-95.863458,1
+OK,4049450,place:OK:4049450,Morrison town,Morrison,Morrison,40103,Noble County,Incorporated place,36.29173,-97.0348,1
+OK,4049550,place:OK:4049550,Mounds town,Mounds,Mounds,40037,Creek County,Incorporated place,35.875913,-96.066128,1
+OK,4049600,place:OK:4049600,Mountain Park town,Mountain Park,Mountain Park,40075,Kiowa County,Incorporated place,34.698829,-98.952348,1
+OK,4049650,place:OK:4049650,Mountain View town,Mountain View,Mountain View,40075,Kiowa County,Incorporated place,35.099516,-98.749749,1
+OK,4049750,place:OK:4049750,Moyers CDP,Moyers,Moyers,40127,Pushmataha County,Census-designated place,34.325002,-95.651087,1
+OK,4049825,place:OK:4049825,Mulberry CDP,Mulberry,Mulberry,40001,Adair County,Census-designated place,35.868687,-94.69945,1
+OK,4049850,place:OK:4049850,Muldrow town,Muldrow,Muldrow,40135,Sequoyah County,Incorporated place,35.40342,-94.597523,1
+OK,4049860,place:OK:4049860,Mule Barn town,Mule Barn,Mule Barn,40117,Pawnee County,Incorporated place,36.217903,-96.312301,0
+OK,4049900,place:OK:4049900,Mulhall town,Mulhall,Mulhall,40119,Payne County,Incorporated place,36.112098,-97.342802,1
+OK,4049950,place:OK:4049950,Murphy CDP,Murphy,Murphy,40097,Mayes County,Census-designated place,36.134102,-95.24137,1
+OK,4050050,place:OK:4050050,Muskogee city,Muskogee,Muskogee,40101,Muskogee County,Incorporated place,35.742643,-95.356864,1
+OK,4050100,place:OK:4050100,Mustang city,Mustang,Mustang,40017,Canadian County,Incorporated place,35.3929,-97.727299,1
+OK,4050150,place:OK:4050150,Mutual town,Mutual,Mutual,40153,Woodward County,Incorporated place,36.230462,-99.167975,1
+OK,4050200,place:OK:4050200,Narcissa CDP,Narcissa,Narcissa,40115,Ottawa County,Census-designated place,36.801033,-94.927866,1
+OK,4050250,place:OK:4050250,Nardin CDP,Nardin,Nardin,40071,Kay County,Census-designated place,36.804091,-97.449868,1
+OK,4050300,place:OK:4050300,Nash town,Nash,Nash,40053,Grant County,Incorporated place,36.665048,-98.051966,1
+OK,4050350,place:OK:4050350,Nashoba CDP,Nashoba,Nashoba,40127,Pushmataha County,Census-designated place,34.480729,-95.210298,1
+OK,4050800,place:OK:4050800,Nelagoney CDP,Nelagoney,Nelagoney,40113,Osage County,Census-designated place,36.626037,-96.2441,1
+OK,4050975,place:OK:4050975,Nescatunga CDP,Nescatunga,Nescatunga,40003,Alfalfa County,Census-designated place,36.754293,-98.156052,1
+OK,4051050,place:OK:4051050,New Alluwe town,New Alluwe,New Alluwe,40105,Nowata County,Incorporated place,36.610102,-95.488565,1
+OK,4051250,place:OK:4051250,New Cordell city,New Cordell,New Cordell,40149,Washita County,Incorporated place,35.296862,-98.983769,1
+OK,4051275,place:OK:4051275,New Eucha CDP,New Eucha,New Eucha,40041,Delaware County,Census-designated place,36.39116,-94.852242,1
+OK,4051750,place:OK:4051750,New Woodville town,New Woodville,New Woodville,40095,Marshall County,Incorporated place,33.968845,-96.654842,1
+OK,4051150,place:OK:4051150,Newcastle city,Newcastle,Newcastle,40087,McClain County,Incorporated place,35.242395,-97.595336,1
+OK,4051300,place:OK:4051300,Newkirk city,Newkirk,Newkirk,40071,Kay County,Incorporated place,36.881797,-97.055292,1
+OK,4051800,place:OK:4051800,Nichols Hills city,Nichols Hills,Nichols Hills,40109,Oklahoma County,Incorporated place,35.546389,-97.54327,1
+OK,4051850,place:OK:4051850,Nicoma Park city,Nicoma Park,Nicoma Park,40109,Oklahoma County,Incorporated place,35.49178,-97.324313,1
+OK,4051900,place:OK:4051900,Nicut CDP,Nicut,Nicut,40135,Sequoyah County,Census-designated place,35.602384,-94.562909,1
+OK,4052100,place:OK:4052100,Ninnekah town,Ninnekah,Ninnekah,40051,Grady County,Incorporated place,34.964012,-97.944707,1
+OK,4052150,place:OK:4052150,Noble city,Noble,Noble,40027,Cleveland County,Incorporated place,35.134919,-97.371089,1
+OK,4052450,place:OK:4052450,Norge town,Norge,Norge,40051,Grady County,Incorporated place,34.98878,-97.994049,1
+OK,4052500,place:OK:4052500,Norman city,Norman,Norman,40027,Cleveland County,Incorporated place,35.240569,-97.345299,1
+OK,4052600,place:OK:4052600,North Enid town,North Enid,North Enid,40047,Garfield County,Incorporated place,36.445832,-97.863389,1
+OK,4052700,place:OK:4052700,North Miami town,North Miami,North Miami,40115,Ottawa County,Incorporated place,36.920131,-94.879654,1
+OK,4052859,place:OK:4052859,Norwood CDP,Norwood,Norwood,40021,Cherokee County,Census-designated place,35.844688,-95.151235,1
+OK,4052862,place:OK:4052862,Notchietown CDP,Notchietown,Notchietown,40135,Sequoyah County,Census-designated place,35.584524,-95.087707,1
+OK,4052900,place:OK:4052900,Nowata city,Nowata,Nowata,40105,Nowata County,Incorporated place,36.699265,-95.637465,1
+OK,4053210,place:OK:4053210,Oak Grove town,Oak Grove,Oak Grove,40117,Pawnee County,Incorporated place,36.205613,-96.338423,1
+OK,4053301,place:OK:4053301,Oak Hill-Piney CDP,Oak Hill-Piney,Oak Hill-Piney,40041,Delaware County,Census-designated place,36.378688,-94.726565,1
+OK,4053350,place:OK:4053350,Oakhurst CDP,Oakhurst,Oakhurst,40143,Tulsa County,Census-designated place,36.08061,-96.062364,1
+OK,4053400,place:OK:4053400,Oakland town,Oakland,Oakland,40095,Marshall County,Incorporated place,34.091507,-96.804145,1
+OK,4053550,place:OK:4053550,Oaks town,Oaks,Oaks,40041,Delaware County,Incorporated place,36.169798,-94.852931,1
+OK,4053600,place:OK:4053600,Oakwood town,Oakwood,Oakwood,40043,Dewey County,Incorporated place,35.931616,-98.703088,1
+OK,4053700,place:OK:4053700,Ochelata town,Ochelata,Ochelata,40147,Washington County,Incorporated place,36.602685,-95.975056,1
+OK,4054000,place:OK:4054000,Oilton city,Oilton,Oilton,40037,Creek County,Incorporated place,36.082655,-96.581442,1
+OK,4054050,place:OK:4054050,Okarche town,Okarche,Okarche,40017,Canadian County,Incorporated place,35.724871,-97.975675,1
+OK,4054100,place:OK:4054100,Okay town,Okay,Okay,40145,Wagoner County,Incorporated place,35.865019,-95.307735,1
+OK,4054150,place:OK:4054150,Okeene town,Okeene,Okeene,40011,Blaine County,Incorporated place,36.117076,-98.316734,1
+OK,4054200,place:OK:4054200,Okemah city,Okemah,Okemah,40107,Okfuskee County,Incorporated place,35.429269,-96.300309,1
+OK,4055000,place:OK:4055000,Oklahoma City city,Oklahoma City,Oklahoma City,40109,Oklahoma County,Incorporated place,35.467079,-97.513657,1
+OK,4055150,place:OK:4055150,Okmulgee city,Okmulgee,Okmulgee,40111,Okmulgee County,Incorporated place,35.625162,-95.954032,1
+OK,4055200,place:OK:4055200,Oktaha town,Oktaha,Oktaha,40101,Muskogee County,Incorporated place,35.577489,-95.477892,1
+OK,4055275,place:OK:4055275,Old Eucha CDP,Old Eucha,Old Eucha,40041,Delaware County,Census-designated place,36.355135,-94.937907,1
+OK,4055285,place:OK:4055285,Old Green CDP,Old Green,Old Green,40001,Adair County,Census-designated place,35.985311,-94.608037,1
+OK,4055350,place:OK:4055350,Olive CDP,Olive,Olive,40037,Creek County,Census-designated place,36.023817,-96.481541,1
+OK,4055450,place:OK:4055450,Olustee town,Olustee,Olustee,40065,Jackson County,Incorporated place,34.547754,-99.424066,1
+OK,4055750,place:OK:4055750,Oologah town,Oologah,Oologah,40131,Rogers County,Incorporated place,36.443778,-95.708911,1
+OK,4055850,place:OK:4055850,Optima town,Optima,Optima,40139,Texas County,Incorporated place,36.761275,-101.349203,1
+OK,4056050,place:OK:4056050,Orlando town,Orlando,Orlando,40083,Logan County,Incorporated place,36.148356,-97.374844,1
+OK,4056150,place:OK:4056150,Osage town,Osage,Osage,40113,Osage County,Incorporated place,36.295702,-96.417211,1
+OK,4056650,place:OK:4056650,Owasso city,Owasso,Owasso,40143,Tulsa County,Incorporated place,36.287236,-95.835349,1
+OK,4056800,place:OK:4056800,Paden town,Paden,Paden,40107,Okfuskee County,Incorporated place,35.508363,-96.567089,1
+OK,4056900,place:OK:4056900,Panama town,Panama,Panama,40079,Le Flore County,Incorporated place,35.171749,-94.669636,1
+OK,4056950,place:OK:4056950,Panola CDP,Panola,Panola,40077,Latimer County,Census-designated place,34.922131,-95.208687,1
+OK,4057100,place:OK:4057100,Paoli town,Paoli,Paoli,40049,Garvin County,Incorporated place,34.827046,-97.262269,1
+OK,4057150,place:OK:4057150,Paradise Hill town,Paradise Hill,Paradise Hill,40135,Sequoyah County,Incorporated place,35.607345,-95.07309,1
+OK,4057300,place:OK:4057300,Park Hill CDP,Park Hill,Park Hill,40021,Cherokee County,Census-designated place,35.834444,-94.972077,1
+OK,4057550,place:OK:4057550,Pauls Valley city,Pauls Valley,Pauls Valley,40049,Garvin County,Incorporated place,34.710227,-97.224016,1
+OK,4057600,place:OK:4057600,Pawhuska city,Pawhuska,Pawhuska,40113,Osage County,Incorporated place,36.669064,-96.331216,1
+OK,4057650,place:OK:4057650,Pawnee city,Pawnee,Pawnee,40117,Pawnee County,Incorporated place,36.351776,-96.800818,1
+OK,4057875,place:OK:4057875,Peavine CDP,Peavine,Peavine,40001,Adair County,Census-designated place,35.900317,-94.606632,1
+OK,4057900,place:OK:4057900,Peckham CDP,Peckham,Peckham,40071,Kay County,Census-designated place,36.886652,-97.178056,1
+OK,4057950,place:OK:4057950,Peggs CDP,Peggs,Peggs,40021,Cherokee County,Census-designated place,36.067284,-95.071798,1
+OK,4058050,place:OK:4058050,Pensacola town,Pensacola,Pensacola,40097,Mayes County,Incorporated place,36.459227,-95.127764,1
+OK,4058100,place:OK:4058100,Peoria town,Peoria,Peoria,40115,Ottawa County,Incorporated place,36.915563,-94.669552,1
+OK,4058150,place:OK:4058150,Perkins city,Perkins,Perkins,40119,Payne County,Incorporated place,35.979763,-97.03129,1
+OK,4058250,place:OK:4058250,Perry city,Perry,Perry,40103,Noble County,Incorporated place,36.280149,-97.30819,1
+OK,4058300,place:OK:4058300,Pershing CDP,Pershing,Pershing,40113,Osage County,Census-designated place,36.590124,-96.273126,1
+OK,4058400,place:OK:4058400,Pettit CDP,Pettit,Pettit,40021,Cherokee County,Census-designated place,35.773684,-94.976758,1
+OK,4058500,place:OK:4058500,Phillips town,Phillips,Phillips,40029,Coal County,Incorporated place,34.504221,-96.222227,1
+OK,4058650,place:OK:4058650,Pickett CDP,Pickett,Pickett,40123,Pontotoc County,Census-designated place,34.779506,-96.775519,1
+OK,4058700,place:OK:4058700,Piedmont city,Piedmont,Piedmont,40017,Canadian County,Incorporated place,35.674845,-97.753508,1
+OK,4059175,place:OK:4059175,Pin Oak Acres CDP,Pin Oak Acres,Pin Oak Acres,40097,Mayes County,Census-designated place,36.122561,-95.288859,1
+OK,4059100,place:OK:4059100,Piney CDP,Piney,Piney,40001,Adair County,Census-designated place,35.890519,-94.555943,1
+OK,4059125,place:OK:4059125,Pinhook Corner CDP,Pinhook Corner,Pinhook Corner,40135,Sequoyah County,Census-designated place,35.528899,-94.90545,1
+OK,4059150,place:OK:4059150,Pink town,Pink,Pink,40125,Pottawatomie County,Incorporated place,35.232691,-97.100032,1
+OK,4059350,place:OK:4059350,Pittsburg town,Pittsburg,Pittsburg,40121,Pittsburg County,Incorporated place,34.711636,-95.850183,1
+OK,4059500,place:OK:4059500,Platter CDP,Platter,Platter,40013,Bryan County,Census-designated place,33.908218,-96.533874,1
+OK,4059700,place:OK:4059700,Pocasset town,Pocasset,Pocasset,40051,Grady County,Incorporated place,35.177951,-97.959021,1
+OK,4059750,place:OK:4059750,Pocola town,Pocola,Pocola,40079,Le Flore County,Incorporated place,35.251531,-94.467919,1
+OK,4059850,place:OK:4059850,Ponca City city,Ponca City,Ponca City,40071,Kay County,Incorporated place,36.721042,-97.068444,1
+OK,4059950,place:OK:4059950,Pond Creek city,Pond Creek,Pond Creek,40053,Grant County,Incorporated place,36.667836,-97.802391,1
+OK,4060000,place:OK:4060000,Pontotoc CDP,Pontotoc,Pontotoc,40069,Johnston County,Census-designated place,34.488836,-96.629019,1
+OK,4060150,place:OK:4060150,Porter town,Porter,Porter,40145,Wagoner County,Incorporated place,35.868409,-95.515954,1
+OK,4060250,place:OK:4060250,Porum town,Porum,Porum,40101,Muskogee County,Incorporated place,35.357128,-95.26339,1
+OK,4060350,place:OK:4060350,Poteau city,Poteau,Poteau,40079,Le Flore County,Incorporated place,35.06665,-94.610269,1
+OK,4060500,place:OK:4060500,Prague city,Prague,Prague,40081,Lincoln County,Incorporated place,35.496803,-96.69987,1
+OK,4060650,place:OK:4060650,Preston CDP,Preston,Preston,40111,Okmulgee County,Census-designated place,35.711385,-95.988942,1
+OK,4060750,place:OK:4060750,Proctor CDP,Proctor,Proctor,40001,Adair County,Census-designated place,35.980013,-94.73695,1
+OK,4060850,place:OK:4060850,Prue town,Prue,Prue,40113,Osage County,Incorporated place,36.249422,-96.266523,1
+OK,4061000,place:OK:4061000,Pryor Creek city,Pryor Creek,Pryor Creek,40097,Mayes County,Incorporated place,36.299675,-95.311286,1
+OK,4061020,place:OK:4061020,Pump Back CDP,Pump Back,Pump Back,40097,Mayes County,Census-designated place,36.264495,-95.119071,1
+OK,4061113,place:OK:4061113,Pumpkin Hollow CDP,Pumpkin Hollow,Pumpkin Hollow,40021,Cherokee County,Census-designated place,36.005973,-94.841439,1
+OK,4061150,place:OK:4061150,Purcell city,Purcell,Purcell,40087,McClain County,Incorporated place,35.023677,-97.373524,1
+OK,4061250,place:OK:4061250,Putnam town,Putnam,Putnam,40043,Dewey County,Incorporated place,35.855908,-98.968223,1
+OK,4061400,place:OK:4061400,Quapaw town,Quapaw,Quapaw,40115,Ottawa County,Incorporated place,36.949989,-94.78653,1
+OK,4061450,place:OK:4061450,Quay CDP,Quay,Quay,40117,Pawnee County,Census-designated place,36.161065,-96.709029,1
+OK,4061500,place:OK:4061500,Quinlan CDP,Quinlan,Quinlan,40153,Woodward County,Census-designated place,36.456222,-99.045728,1
+OK,4061550,place:OK:4061550,Quinton town,Quinton,Quinton,40121,Pittsburg County,Incorporated place,35.12606,-95.366479,1
+OK,4061650,place:OK:4061650,Ralston town,Ralston,Ralston,40117,Pawnee County,Incorporated place,36.503475,-96.73738,1
+OK,4061700,place:OK:4061700,Ramona town,Ramona,Ramona,40147,Washington County,Incorporated place,36.537745,-95.925861,1
+OK,4061850,place:OK:4061850,Randlett town,Randlett,Randlett,40033,Cotton County,Incorporated place,34.177347,-98.463921,1
+OK,4061900,place:OK:4061900,Ratliff City town,Ratliff City,Ratliff City,40019,Carter County,Incorporated place,34.452445,-97.517354,1
+OK,4061950,place:OK:4061950,Rattan town,Rattan,Rattan,40127,Pushmataha County,Incorporated place,34.196041,-95.404545,1
+OK,4062000,place:OK:4062000,Ravia town,Ravia,Ravia,40069,Johnston County,Incorporated place,34.240563,-96.755764,1
+OK,4062100,place:OK:4062100,Reagan CDP,Reagan,Reagan,40069,Johnston County,Census-designated place,34.344061,-96.713364,1
+OK,4062550,place:OK:4062550,Red Oak town,Red Oak,Red Oak,40077,Latimer County,Incorporated place,34.951328,-95.079441,1
+OK,4062650,place:OK:4062650,Red Rock town,Red Rock,Red Rock,40103,Noble County,Incorporated place,36.460071,-97.179608,1
+OK,4062200,place:OK:4062200,Redbird town,Redbird,Redbird,40145,Wagoner County,Incorporated place,35.887132,-95.587254,1
+OK,4062275,place:OK:4062275,Redbird Smith CDP,Redbird Smith,Redbird Smith,40135,Sequoyah County,Census-designated place,35.562756,-95.02717,1
+OK,4062875,place:OK:4062875,Remy CDP,Remy,Remy,40135,Sequoyah County,Census-designated place,35.46144,-94.499574,1
+OK,4062900,place:OK:4062900,Renfrow town,Renfrow,Renfrow,40053,Grant County,Incorporated place,36.92484,-97.657048,1
+OK,4062950,place:OK:4062950,Rentiesville town,Rentiesville,Rentiesville,40091,McIntosh County,Incorporated place,35.533543,-95.484796,1
+OK,4063100,place:OK:4063100,Reydon town,Reydon,Reydon,40129,Roger Mills County,Incorporated place,35.649812,-99.92361,1
+OK,4063350,place:OK:4063350,Ringling town,Ringling,Ringling,40067,Jefferson County,Incorporated place,34.177257,-97.591474,1
+OK,4063450,place:OK:4063450,Ringwood town,Ringwood,Ringwood,40093,Major County,Incorporated place,36.383957,-98.240041,1
+OK,4063500,place:OK:4063500,Ripley town,Ripley,Ripley,40119,Payne County,Incorporated place,36.01584,-96.903844,1
+OK,4063537,place:OK:4063537,River Bottom CDP,River Bottom,River Bottom,40101,Muskogee County,Census-designated place,35.635741,-95.237836,1
+OK,4063600,place:OK:4063600,Rock Island town,Rock Island,Rock Island,40079,Le Flore County,Incorporated place,35.184921,-94.482614,1
+OK,4063700,place:OK:4063700,Rocky town,Rocky,Rocky,40149,Washita County,Incorporated place,35.156408,-99.059646,1
+OK,4063715,place:OK:4063715,Rocky Ford CDP,Rocky Ford,Rocky Ford,40021,Cherokee County,Census-designated place,36.155773,-94.911016,1
+OK,4063720,place:OK:4063720,Rocky Mountain CDP,Rocky Mountain,Rocky Mountain,40001,Adair County,Census-designated place,35.790288,-94.771297,1
+OK,4063730,place:OK:4063730,Rocky Point CDP,Rocky Point,Rocky Point,40145,Wagoner County,Census-designated place,36.026267,-95.322131,1
+OK,4063750,place:OK:4063750,Roff town,Roff,Roff,40123,Pontotoc County,Incorporated place,34.628935,-96.841467,1
+OK,4063800,place:OK:4063800,Roland town,Roland,Roland,40135,Sequoyah County,Incorporated place,35.413179,-94.508525,1
+OK,4063900,place:OK:4063900,Roosevelt town,Roosevelt,Roosevelt,40075,Kiowa County,Incorporated place,34.848278,-99.022335,1
+OK,4063950,place:OK:4063950,Rose CDP,Rose,Rose,40097,Mayes County,Census-designated place,36.212358,-95.038139,1
+OK,4064000,place:OK:4064000,Rosedale town,Rosedale,Rosedale,40087,McClain County,Incorporated place,34.918875,-97.185071,1
+OK,4064050,place:OK:4064050,Rosston town,Rosston,Rosston,40059,Harper County,Incorporated place,36.812897,-99.932746,1
+OK,4064300,place:OK:4064300,Rush Springs town,Rush Springs,Rush Springs,40051,Grady County,Incorporated place,34.778859,-97.957309,1
+OK,4064600,place:OK:4064600,Ryan town,Ryan,Ryan,40067,Jefferson County,Incorporated place,34.021415,-97.954152,1
+OK,4064950,place:OK:4064950,Salina town,Salina,Salina,40097,Mayes County,Incorporated place,36.291629,-95.155423,1
+OK,4065000,place:OK:4065000,Sallisaw city,Sallisaw,Sallisaw,40135,Sequoyah County,Incorporated place,35.460463,-94.807911,1
+OK,4065062,place:OK:4065062,Sams Corner CDP,Sams Corner,Sams Corner,40097,Mayes County,Census-designated place,36.198319,-95.216708,1
+OK,4065240,place:OK:4065240,Sand Hill CDP,Sand Hill,Sand Hill,40101,Muskogee County,Census-designated place,35.634262,-95.2012,1
+OK,4065250,place:OK:4065250,Sand Point CDP,Sand Point,Sand Point,40013,Bryan County,Census-designated place,33.963795,-96.566056,1
+OK,4065300,place:OK:4065300,Sand Springs city,Sand Springs,Sand Springs,40143,Tulsa County,Incorporated place,36.139735,-96.124611,1
+OK,4065400,place:OK:4065400,Sapulpa city,Sapulpa,Sapulpa,40037,Creek County,Incorporated place,36.004206,-96.123275,1
+OK,4065500,place:OK:4065500,Sasakwa town,Sasakwa,Sasakwa,40133,Seminole County,Incorporated place,34.946762,-96.52533,1
+OK,4065600,place:OK:4065600,Savanna town,Savanna,Savanna,40121,Pittsburg County,Incorporated place,34.836138,-95.835749,1
+OK,4065650,place:OK:4065650,Sawyer town,Sawyer,Sawyer,40023,Choctaw County,Incorporated place,34.018681,-95.378479,1
+OK,4065700,place:OK:4065700,Sayre city,Sayre,Sayre,40009,Beckham County,Incorporated place,35.295653,-99.628239,1
+OK,4065900,place:OK:4065900,Schulter town,Schulter,Schulter,40111,Okmulgee County,Incorporated place,35.511268,-95.95654,1
+OK,4065950,place:OK:4065950,Scipio CDP,Scipio,Scipio,40121,Pittsburg County,Census-designated place,35.051296,-95.955577,1
+OK,4066250,place:OK:4066250,Seiling city,Seiling,Seiling,40043,Dewey County,Incorporated place,36.144651,-98.925437,1
+OK,4066300,place:OK:4066300,Selman CDP,Selman,Selman,40059,Harper County,Census-designated place,36.801413,-99.489322,1
+OK,4066350,place:OK:4066350,Seminole city,Seminole,Seminole,40133,Seminole County,Incorporated place,35.235009,-96.649468,1
+OK,4066400,place:OK:4066400,Sentinel town,Sentinel,Sentinel,40149,Washita County,Incorporated place,35.156979,-99.173463,1
+OK,4066450,place:OK:4066450,Sequoyah CDP,Sequoyah,Sequoyah,40131,Rogers County,Census-designated place,36.379744,-95.596839,1
+OK,4066500,place:OK:4066500,Seward CDP,Seward,Seward,40083,Logan County,Census-designated place,35.796668,-97.486973,1
+OK,4066510,place:OK:4066510,Shady Grove CDP,Shady Grove,"Shady Grove, Cherokee County",40021,Cherokee County,Census-designated place,35.948542,-95.095242,1
+OK,4066520,place:OK:4066520,Shady Grove CDP,Shady Grove,"Shady Grove, McIntosh County",40091,McIntosh County,Census-designated place,35.469674,-95.396277,1
+OK,4066550,place:OK:4066550,Shady Point town,Shady Point,Shady Point,40079,Le Flore County,Incorporated place,35.127585,-94.668491,1
+OK,4066600,place:OK:4066600,Shamrock town,Shamrock,Shamrock,40037,Creek County,Incorporated place,35.910664,-96.577693,1
+OK,4066650,place:OK:4066650,Sharon town,Sharon,Sharon,40153,Woodward County,Incorporated place,36.275492,-99.338134,1
+OK,4066750,place:OK:4066750,Shattuck town,Shattuck,Shattuck,40045,Ellis County,Incorporated place,36.268187,-99.877802,1
+OK,4066800,place:OK:4066800,Shawnee city,Shawnee,Shawnee,40125,Pottawatomie County,Incorporated place,35.340637,-96.932012,1
+OK,4067200,place:OK:4067200,Shidler city,Shidler,Shidler,40113,Osage County,Incorporated place,36.78103,-96.659411,1
+OK,4067400,place:OK:4067400,Short CDP,Short,Short,40135,Sequoyah County,Census-designated place,35.568198,-94.495373,1
+OK,4067550,place:OK:4067550,Silo town,Silo,Silo,40013,Bryan County,Incorporated place,34.035744,-96.474467,1
+OK,4067625,place:OK:4067625,Simms CDP,Simms,Simms,40101,Muskogee County,Census-designated place,35.39871,-95.164706,1
+OK,4067800,place:OK:4067800,Skedee town,Skedee,Skedee,40117,Pawnee County,Incorporated place,36.380474,-96.703923,1
+OK,4067850,place:OK:4067850,Skiatook city,Skiatook,Skiatook,40143,Tulsa County,Incorporated place,36.346682,-95.945624,1
+OK,4067950,place:OK:4067950,Slaughterville town,Slaughterville,Slaughterville,40027,Cleveland County,Incorporated place,35.094631,-97.282809,1
+OK,4068000,place:OK:4068000,Slick town,Slick,Slick,40037,Creek County,Incorporated place,35.780228,-96.262457,1
+OK,4068200,place:OK:4068200,Smith Village town,Smith Village,Smith Village,40109,Oklahoma County,Incorporated place,35.45079,-97.457006,1
+OK,4068250,place:OK:4068250,Smithville town,Smithville,Smithville,40089,McCurtain County,Incorporated place,34.47276,-94.646471,1
+OK,4068275,place:OK:4068275,Snake Creek CDP,Snake Creek,Snake Creek,40097,Mayes County,Census-designated place,36.178558,-95.093714,1
+OK,4068400,place:OK:4068400,Snyder city,Snyder,Snyder,40075,Kiowa County,Incorporated place,34.65541,-98.953394,1
+OK,4068500,place:OK:4068500,Soper town,Soper,Soper,40023,Choctaw County,Incorporated place,34.032213,-95.696963,1
+OK,4068537,place:OK:4068537,Sour John CDP,Sour John,Sour John,40101,Muskogee County,Census-designated place,35.620585,-95.143283,1
+OK,4068600,place:OK:4068600,South Coffeyville town,South Coffeyville,South Coffeyville,40105,Nowata County,Incorporated place,36.992089,-95.621838,1
+OK,4068950,place:OK:4068950,Sparks town,Sparks,Sparks,40081,Lincoln County,Incorporated place,35.610915,-96.818516,1
+OK,4068951,place:OK:4068951,Sparrowhawk CDP,Sparrowhawk,Sparrowhawk,40021,Cherokee County,Census-designated place,35.970552,-94.892782,1
+OK,4069000,place:OK:4069000,Spaulding town,Spaulding,Spaulding,40063,Hughes County,Incorporated place,35.013077,-96.440443,1
+OK,4069050,place:OK:4069050,Spavinaw town,Spavinaw,Spavinaw,40097,Mayes County,Incorporated place,36.393932,-95.050185,1
+OK,4069200,place:OK:4069200,Spencer city,Spencer,Spencer,40109,Oklahoma County,Incorporated place,35.510758,-97.371553,1
+OK,4069300,place:OK:4069300,Sperry town,Sperry,Sperry,40143,Tulsa County,Incorporated place,36.296681,-95.998986,1
+OK,4069350,place:OK:4069350,Spiro town,Spiro,Spiro,40079,Le Flore County,Incorporated place,35.240531,-94.624258,1
+OK,4069392,place:OK:4069392,Sportmans Shores CDP,Sportmans Shores,Sportmans Shores,40097,Mayes County,Census-designated place,36.464013,-95.0829,1
+OK,4069400,place:OK:4069400,Sportsmen Acres town,Sportsmen Acres,Sportsmen Acres,40097,Mayes County,Incorporated place,36.245577,-95.251695,1
+OK,4069500,place:OK:4069500,Springer town,Springer,Springer,40019,Carter County,Incorporated place,34.29562,-97.11745,1
+OK,4064850,place:OK:4064850,St. Louis town,St. Louis,St. Louis,40125,Pottawatomie County,Incorporated place,35.081259,-96.859791,1
+OK,4070037,place:OK:4070037,Steely Hollow CDP,Steely Hollow,Steely Hollow,40021,Cherokee County,Census-designated place,35.9917,-94.935967,1
+OK,4070150,place:OK:4070150,Sterling town,Sterling,Sterling,40031,Comanche County,Incorporated place,34.749393,-98.172507,1
+OK,4070200,place:OK:4070200,Stidham town,Stidham,Stidham,40091,McIntosh County,Incorporated place,35.368643,-95.700754,1
+OK,4070250,place:OK:4070250,Stigler city,Stigler,Stigler,40061,Haskell County,Incorporated place,35.258882,-95.116852,1
+OK,4070300,place:OK:4070300,Stillwater city,Stillwater,Stillwater,40119,Payne County,Incorporated place,36.131496,-97.074464,1
+OK,4070350,place:OK:4070350,Stilwell city,Stilwell,Stilwell,40001,Adair County,Incorporated place,35.815224,-94.631465,1
+OK,4070500,place:OK:4070500,Stonewall town,Stonewall,Stonewall,40123,Pontotoc County,Incorporated place,34.649823,-96.526832,1
+OK,4070512,place:OK:4070512,Stoney Point CDP,Stoney Point,Stoney Point,40135,Sequoyah County,Census-designated place,35.564708,-94.676221,1
+OK,4070750,place:OK:4070750,Strang town,Strang,Strang,40097,Mayes County,Incorporated place,36.412259,-95.134738,1
+OK,4070800,place:OK:4070800,Stratford town,Stratford,Stratford,40049,Garvin County,Incorporated place,34.795314,-96.960497,1
+OK,4070850,place:OK:4070850,Stringtown town,Stringtown,Stringtown,40005,Atoka County,Incorporated place,34.4696,-96.055521,1
+OK,4070950,place:OK:4070950,Strong City town,Strong City,Strong City,40129,Roger Mills County,Incorporated place,35.66984,-99.600448,1
+OK,4071000,place:OK:4071000,Stroud city,Stroud,Stroud,40081,Lincoln County,Incorporated place,35.768874,-96.650062,1
+OK,4071050,place:OK:4071050,Stuart town,Stuart,Stuart,40063,Hughes County,Incorporated place,34.901062,-96.099426,1
+OK,4071250,place:OK:4071250,Sugden town,Sugden,Sugden,40067,Jefferson County,Incorporated place,34.082529,-97.978839,1
+OK,4071350,place:OK:4071350,Sulphur city,Sulphur,Sulphur,40099,Murray County,Incorporated place,34.500652,-96.986201,1
+OK,4071450,place:OK:4071450,Summit town,Summit,Summit,40101,Muskogee County,Incorporated place,35.669579,-95.420664,1
+OK,4071500,place:OK:4071500,Sumner CDP,Sumner,Sumner,40103,Noble County,Census-designated place,36.318302,-97.117931,1
+OK,4071650,place:OK:4071650,Sunray CDP,Sunray,Sunray,40137,Stephens County,Census-designated place,34.409631,-97.954023,1
+OK,4071900,place:OK:4071900,Sweetwater town,Sweetwater,Sweetwater,40009,Beckham County,Incorporated place,35.415025,-99.920299,1
+OK,4071950,place:OK:4071950,Swink CDP,Swink,Swink,40023,Choctaw County,Census-designated place,34.017272,-95.20179,1
+OK,4071965,place:OK:4071965,Sycamore CDP,Sycamore,Sycamore,40041,Delaware County,Census-designated place,36.399006,-94.714954,1
+OK,4072050,place:OK:4072050,Taft town,Taft,Taft,40101,Muskogee County,Incorporated place,35.760334,-95.545985,1
+OK,4072075,place:OK:4072075,Tagg Flats CDP,Tagg Flats,Tagg Flats,40041,Delaware County,Census-designated place,36.338723,-94.903645,1
+OK,4072100,place:OK:4072100,Tahlequah city,Tahlequah,Tahlequah,40021,Cherokee County,Incorporated place,35.910503,-94.97772,1
+OK,4072200,place:OK:4072200,Talala town,Talala,Talala,40131,Rogers County,Incorporated place,36.529472,-95.701074,1
+OK,4072250,place:OK:4072250,Talihina town,Talihina,Talihina,40079,Le Flore County,Incorporated place,34.75284,-95.043566,1
+OK,4072350,place:OK:4072350,Taloga town,Taloga,Taloga,40043,Dewey County,Incorporated place,36.040236,-98.964039,1
+OK,4072400,place:OK:4072400,Tamaha town,Tamaha,Tamaha,40061,Haskell County,Incorporated place,35.398188,-95.014189,1
+OK,4072500,place:OK:4072500,Tatums town,Tatums,Tatums,40019,Carter County,Incorporated place,34.477557,-97.464584,1
+OK,4072610,place:OK:4072610,Taylor Ferry CDP,Taylor Ferry,Taylor Ferry,40145,Wagoner County,Census-designated place,35.934484,-95.305379,1
+OK,4072650,place:OK:4072650,Tecumseh city,Tecumseh,Tecumseh,40125,Pottawatomie County,Incorporated place,35.264267,-96.933445,1
+OK,4072750,place:OK:4072750,Temple town,Temple,Temple,40033,Cotton County,Incorporated place,34.272157,-98.234563,1
+OK,4072775,place:OK:4072775,Tenkiller CDP,Tenkiller,Tenkiller,40021,Cherokee County,Census-designated place,35.802534,-94.852314,1
+OK,4072800,place:OK:4072800,Teresita CDP,Teresita,Teresita,40021,Cherokee County,Census-designated place,36.123037,-94.980356,1
+OK,4072850,place:OK:4072850,Terlton town,Terlton,Terlton,40117,Pawnee County,Incorporated place,36.187621,-96.491817,1
+OK,4072900,place:OK:4072900,Terral town,Terral,Terral,40067,Jefferson County,Incorporated place,33.896631,-97.938228,1
+OK,4072950,place:OK:4072950,Texanna CDP,Texanna,Texanna,40091,McIntosh County,Census-designated place,35.357918,-95.511754,1
+OK,4073100,place:OK:4073100,Texhoma town,Texhoma,Texhoma,40139,Texas County,Incorporated place,36.505405,-101.787387,1
+OK,4073150,place:OK:4073150,Texola town,Texola,Texola,40009,Beckham County,Incorporated place,35.222462,-99.992959,1
+OK,4073200,place:OK:4073200,Thackerville town,Thackerville,Thackerville,40085,Love County,Incorporated place,33.787604,-97.139174,1
+OK,4073250,place:OK:4073250,The Village city,The Village,The Village,40109,Oklahoma County,Incorporated place,35.570276,-97.557499,1
+OK,4073450,place:OK:4073450,Thomas city,Thomas,Thomas,40039,Custer County,Incorporated place,35.744773,-98.739686,1
+OK,4073600,place:OK:4073600,Tiawah CDP,Tiawah,Tiawah,40131,Rogers County,Census-designated place,36.248285,-95.53619,1
+OK,4073850,place:OK:4073850,Tipton town,Tipton,Tipton,40141,Tillman County,Incorporated place,34.499357,-99.136278,1
+OK,4073900,place:OK:4073900,Tishomingo city,Tishomingo,Tishomingo,40069,Johnston County,Incorporated place,34.239048,-96.68242,1
+OK,4073950,place:OK:4073950,Titanic CDP,Titanic,Titanic,40001,Adair County,Census-designated place,35.890698,-94.740643,1
+OK,4074150,place:OK:4074150,Tonkawa city,Tonkawa,Tonkawa,40071,Kay County,Incorporated place,36.670501,-97.31501,1
+OK,4074159,place:OK:4074159,Tonkawa Tribal Housing CDP,Tonkawa Tribal Housing,Tonkawa Tribal Housing,40071,Kay County,Census-designated place,36.669741,-97.266254,1
+OK,4074180,place:OK:4074180,Toppers CDP,Toppers,Toppers,40145,Wagoner County,Census-designated place,35.971459,-95.324928,1
+OK,4074400,place:OK:4074400,Tribbey town,Tribbey,Tribbey,40125,Pottawatomie County,Incorporated place,35.103575,-97.106067,1
+OK,4074550,place:OK:4074550,Tryon town,Tryon,Tryon,40081,Lincoln County,Incorporated place,35.877055,-96.96959,1
+OK,4074650,place:OK:4074650,Tullahassee town,Tullahassee,Tullahassee,40145,Wagoner County,Incorporated place,35.834812,-95.446942,1
+OK,4075000,place:OK:4075000,Tulsa city,Tulsa,Tulsa,40143,Tulsa County,Incorporated place,36.127949,-95.902316,1
+OK,4075050,place:OK:4075050,Tupelo city,Tupelo,Tupelo,40029,Coal County,Incorporated place,34.602685,-96.420791,1
+OK,4075150,place:OK:4075150,Turley CDP,Turley,Turley,40143,Tulsa County,Census-designated place,36.246853,-95.966211,1
+OK,4075200,place:OK:4075200,Turpin CDP,Turpin,Turpin,40007,Beaver County,Census-designated place,36.870458,-100.882502,1
+OK,4075250,place:OK:4075250,Tushka town,Tushka,Tushka,40005,Atoka County,Incorporated place,34.318505,-96.167639,1
+OK,4075300,place:OK:4075300,Tuskahoma CDP,Tuskahoma,Tuskahoma,40127,Pushmataha County,Census-designated place,34.629729,-95.282605,1
+OK,4075450,place:OK:4075450,Tuttle city,Tuttle,Tuttle,40051,Grady County,Incorporated place,35.313876,-97.753612,1
+OK,4075575,place:OK:4075575,Twin Lakes CDP,Twin Lakes,Twin Lakes,40083,Logan County,Census-designated place,35.868492,-97.665038,1
+OK,4075600,place:OK:4075600,Twin Oaks CDP,Twin Oaks,Twin Oaks,40041,Delaware County,Census-designated place,36.197428,-94.837848,1
+OK,4075750,place:OK:4075750,Tyrone town,Tyrone,Tyrone,40139,Texas County,Incorporated place,36.955669,-101.067992,1
+OK,4075950,place:OK:4075950,Union City town,Union City,Union City,40017,Canadian County,Incorporated place,35.399523,-97.906705,1
+OK,4076350,place:OK:4076350,Utica CDP,Utica,Utica,40013,Bryan County,Census-designated place,33.906613,-96.221735,1
+OK,4076500,place:OK:4076500,Valley Brook town,Valley Brook,Valley Brook,40109,Oklahoma County,Incorporated place,35.40267,-97.481423,1
+OK,4076600,place:OK:4076600,Valley Park town,Valley Park,Valley Park,40131,Rogers County,Incorporated place,36.278805,-95.735742,1
+OK,4076650,place:OK:4076650,Valliant town,Valliant,Valliant,40089,McCurtain County,Incorporated place,34.005793,-95.07858,1
+OK,4076850,place:OK:4076850,Vanoss CDP,Vanoss,Vanoss,40123,Pontotoc County,Census-designated place,34.757816,-96.871209,1
+OK,4076900,place:OK:4076900,Velma town,Velma,Velma,40137,Stephens County,Incorporated place,34.456418,-97.663845,1
+OK,4076950,place:OK:4076950,Vera town,Vera,Vera,40147,Washington County,Incorporated place,36.452641,-95.892914,1
+OK,4077000,place:OK:4077000,Verden town,Verden,Verden,40051,Grady County,Incorporated place,35.083316,-98.08612,1
+OK,4077050,place:OK:4077050,Verdigris town,Verdigris,Verdigris,40131,Rogers County,Incorporated place,36.253691,-95.660458,1
+OK,4077150,place:OK:4077150,Vernon town,Vernon,Vernon,40091,McIntosh County,Incorporated place,35.226515,-95.938588,0
+OK,4077250,place:OK:4077250,Vian town,Vian,Vian,40135,Sequoyah County,Incorporated place,35.50425,-94.969826,1
+OK,4077300,place:OK:4077300,Vici town,Vici,Vici,40043,Dewey County,Incorporated place,36.14881,-99.299433,1
+OK,4077550,place:OK:4077550,Vinita city,Vinita,Vinita,40035,Craig County,Incorporated place,36.644152,-95.062183,1
+OK,4077850,place:OK:4077850,Wagoner city,Wagoner,Wagoner,40145,Wagoner County,Incorporated place,35.965686,-95.377715,1
+OK,4077900,place:OK:4077900,Wainwright town,Wainwright,Wainwright,40101,Muskogee County,Incorporated place,35.613519,-95.565562,1
+OK,4077950,place:OK:4077950,Wakita town,Wakita,Wakita,40053,Grant County,Incorporated place,36.88186,-97.923948,1
+OK,4078150,place:OK:4078150,Walters city,Walters,Walters,40033,Cotton County,Incorporated place,34.358432,-98.356878,1
+OK,4078200,place:OK:4078200,Wanette town,Wanette,Wanette,40125,Pottawatomie County,Incorporated place,34.974608,-97.028837,1
+OK,4078250,place:OK:4078250,Wann town,Wann,Wann,40105,Nowata County,Incorporated place,36.914701,-95.804716,1
+OK,4078300,place:OK:4078300,Wapanucka town,Wapanucka,Wapanucka,40069,Johnston County,Incorporated place,34.373472,-96.425128,1
+OK,4078350,place:OK:4078350,Wardville CDP,Wardville,Wardville,40005,Atoka County,Census-designated place,34.654646,-96.030893,1
+OK,4078400,place:OK:4078400,Warner town,Warner,Warner,40101,Muskogee County,Incorporated place,35.491693,-95.308945,1
+OK,4078500,place:OK:4078500,Warr Acres city,Warr Acres,Warr Acres,40109,Oklahoma County,Incorporated place,35.526104,-97.618106,1
+OK,4078650,place:OK:4078650,Warwick town,Warwick,Warwick,40081,Lincoln County,Incorporated place,35.690338,-97.005027,1
+OK,4078700,place:OK:4078700,Washington town,Washington,Washington,40087,McClain County,Incorporated place,35.054686,-97.490731,1
+OK,4078750,place:OK:4078750,Washita CDP,Washita,Washita,40015,Caddo County,Census-designated place,35.104407,-98.341338,1
+OK,4078950,place:OK:4078950,Watonga city,Watonga,Watonga,40011,Blaine County,Incorporated place,35.847503,-98.402734,1
+OK,4079000,place:OK:4079000,Watova CDP,Watova,Watova,40105,Nowata County,Census-designated place,36.61972,-95.660449,1
+OK,4079100,place:OK:4079100,Watts town,Watts,Watts,40001,Adair County,Incorporated place,36.106512,-94.573885,1
+OK,4079150,place:OK:4079150,Wauhillau CDP,Wauhillau,Wauhillau,40001,Adair County,Census-designated place,35.86081,-94.76089,1
+OK,4079200,place:OK:4079200,Waukomis town,Waukomis,Waukomis,40047,Garfield County,Incorporated place,36.286102,-97.902729,1
+OK,4079250,place:OK:4079250,Waurika city,Waurika,Waurika,40067,Jefferson County,Incorporated place,34.183749,-98.026298,1
+OK,4079300,place:OK:4079300,Wayne town,Wayne,Wayne,40087,McClain County,Incorporated place,34.91691,-97.316523,1
+OK,4079350,place:OK:4079350,Waynoka city,Waynoka,Waynoka,40151,Woods County,Incorporated place,36.578628,-98.883651,1
+OK,4079450,place:OK:4079450,Weatherford city,Weatherford,Weatherford,40039,Custer County,Incorporated place,35.537395,-98.684345,1
+OK,4079600,place:OK:4079600,Webb City town,Webb City,Webb City,40113,Osage County,Incorporated place,36.808308,-96.71331,1
+OK,4079650,place:OK:4079650,Webbers Falls town,Webbers Falls,Webbers Falls,40101,Muskogee County,Incorporated place,35.517003,-95.164221,1
+OK,4079750,place:OK:4079750,Welch town,Welch,Welch,40035,Craig County,Incorporated place,36.874409,-95.094401,1
+OK,4079800,place:OK:4079800,Weleetka town,Weleetka,Weleetka,40107,Okfuskee County,Incorporated place,35.34029,-96.135974,1
+OK,4079850,place:OK:4079850,Welling CDP,Welling,Welling,40021,Cherokee County,Census-designated place,35.881053,-94.87032,1
+OK,4079900,place:OK:4079900,Wellston town,Wellston,Wellston,40081,Lincoln County,Incorporated place,35.683851,-97.063415,1
+OK,4080000,place:OK:4080000,Welty CDP,Welty,Welty,40107,Okfuskee County,Census-designated place,35.62716,-96.417151,1
+OK,4080230,place:OK:4080230,West Peavine CDP,West Peavine,West Peavine,40001,Adair County,Census-designated place,35.911493,-94.652783,1
+OK,4080350,place:OK:4080350,West Siloam Springs town,West Siloam Springs,West Siloam Springs,40041,Delaware County,Incorporated place,36.175986,-94.599003,1
+OK,4080250,place:OK:4080250,Westport town,Westport,Westport,40117,Pawnee County,Incorporated place,36.193432,-96.337138,1
+OK,4080450,place:OK:4080450,Westville town,Westville,Westville,40001,Adair County,Incorporated place,35.989413,-94.574664,1
+OK,4080500,place:OK:4080500,Wetumka city,Wetumka,Wetumka,40063,Hughes County,Incorporated place,35.242128,-96.233744,1
+OK,4080550,place:OK:4080550,Wewoka city,Wewoka,Wewoka,40133,Seminole County,Incorporated place,35.144068,-96.496775,1
+OK,4080675,place:OK:4080675,Whippoorwill CDP,Whippoorwill,Whippoorwill,40113,Osage County,Census-designated place,36.915355,-96.127641,1
+OK,4080750,place:OK:4080750,White Eagle CDP,White Eagle,White Eagle,40071,Kay County,Census-designated place,36.626662,-97.081228,1
+OK,4080850,place:OK:4080850,White Oak CDP,White Oak,White Oak,40035,Craig County,Census-designated place,36.609145,-95.275453,1
+OK,4080912,place:OK:4080912,White Water CDP,White Water,White Water,40041,Delaware County,Census-designated place,36.50169,-94.728885,1
+OK,4080800,place:OK:4080800,Whitefield town,Whitefield,Whitefield,40061,Haskell County,Incorporated place,35.254592,-95.244551,1
+OK,4080813,place:OK:4080813,Whitehorn Cove CDP,Whitehorn Cove,Whitehorn Cove,40145,Wagoner County,Census-designated place,35.995103,-95.287045,1
+OK,4080900,place:OK:4080900,Whitesboro CDP,Whitesboro,Whitesboro,40079,Le Flore County,Census-designated place,34.704534,-94.873609,1
+OK,4080975,place:OK:4080975,Wickliffe CDP,Wickliffe,Wickliffe,40097,Mayes County,Census-designated place,36.312198,-95.107091,1
+OK,4081000,place:OK:4081000,Wilburton city,Wilburton,Wilburton,40077,Latimer County,Incorporated place,34.91845,-95.304015,1
+OK,4081300,place:OK:4081300,Willow town,Willow,Willow,40055,Greer County,Incorporated place,35.051531,-99.509898,1
+OK,4081500,place:OK:4081500,Wilson city,Wilson,Wilson,40019,Carter County,Incorporated place,34.168664,-97.425407,1
+OK,4081575,place:OK:4081575,Winchester town,Winchester,Winchester,40111,Okmulgee County,Incorporated place,35.790569,-95.998131,1
+OK,4081750,place:OK:4081750,Wister town,Wister,Wister,40079,Le Flore County,Incorporated place,34.969743,-94.720638,1
+OK,4081912,place:OK:4081912,Woodall CDP,Woodall,Woodall,40021,Cherokee County,Census-designated place,35.824573,-95.082349,1
+OK,4082000,place:OK:4082000,Woodlawn Park town,Woodlawn Park,Woodlawn Park,40109,Oklahoma County,Incorporated place,35.509629,-97.649868,1
+OK,4082150,place:OK:4082150,Woodward city,Woodward,Woodward,40153,Woodward County,Incorporated place,36.424832,-99.404726,1
+OK,4082200,place:OK:4082200,Wright City town,Wright City,Wright City,40089,McCurtain County,Incorporated place,34.066286,-95.00701,1
+OK,4082250,place:OK:4082250,Wyandotte town,Wyandotte,Wyandotte,40115,Ottawa County,Incorporated place,36.807143,-94.729305,1
+OK,4082400,place:OK:4082400,Wynnewood city,Wynnewood,Wynnewood,40049,Garvin County,Incorporated place,34.642789,-97.162467,1
+OK,4082450,place:OK:4082450,Wynona town,Wynona,Wynona,40113,Osage County,Incorporated place,36.545789,-96.326351,1
+OK,4082500,place:OK:4082500,Yale city,Yale,Yale,40119,Payne County,Incorporated place,36.115147,-96.701059,1
+OK,4082650,place:OK:4082650,Yeager town,Yeager,Yeager,40063,Hughes County,Incorporated place,35.157009,-96.340231,1
+OK,4082950,place:OK:4082950,Yukon city,Yukon,Yukon,40017,Canadian County,Incorporated place,35.518409,-97.766172,1
+OK,4083030,place:OK:4083030,Zeb CDP,Zeb,Zeb,40021,Cherokee County,Census-designated place,35.796588,-95.055116,1
+OK,4083050,place:OK:4083050,Zena CDP,Zena,Zena,40041,Delaware County,Census-designated place,36.508375,-94.84813,1
+OK,4083125,place:OK:4083125,Zion CDP,Zion,Zion,40001,Adair County,Census-designated place,35.787806,-94.642477,1

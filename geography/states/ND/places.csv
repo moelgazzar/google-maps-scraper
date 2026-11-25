@@ -1,0 +1,407 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+ND,3800100,place:ND:3800100,Abercrombie city,Abercrombie,Abercrombie,38077,Richland County,Incorporated place,46.447035,-96.729649,1
+ND,3800340,place:ND:3800340,Adams city,Adams,Adams,38099,Walsh County,Incorporated place,48.420545,-98.073958,1
+ND,3800940,place:ND:3800940,Alamo city,Alamo,Alamo,38105,Williams County,Incorporated place,48.581977,-103.467443,1
+ND,3801180,place:ND:3801180,Alexander city,Alexander,Alexander,38053,McKenzie County,Incorporated place,47.838058,-103.643203,1
+ND,3801420,place:ND:3801420,Alice city,Alice,Alice,38017,Cass County,Incorporated place,46.760046,-97.556248,1
+ND,3801700,place:ND:3801700,Almont city,Almont,Almont,38059,Morton County,Incorporated place,46.728335,-101.502652,1
+ND,3801740,place:ND:3801740,Alsen city,Alsen,Alsen,38019,Cavalier County,Incorporated place,48.630456,-98.704271,1
+ND,3801860,place:ND:3801860,Ambrose city,Ambrose,Ambrose,38023,Divide County,Incorporated place,48.955902,-103.481255,1
+ND,3801940,place:ND:3801940,Amenia city,Amenia,Amenia,38017,Cass County,Incorporated place,47.006485,-97.224104,1
+ND,3802060,place:ND:3802060,Amidon city,Amidon,Amidon,38087,Slope County,Incorporated place,46.482247,-103.319601,1
+ND,3802220,place:ND:3802220,Anamoose city,Anamoose,Anamoose,38049,McHenry County,Incorporated place,47.883068,-100.24226,1
+ND,3802380,place:ND:3802380,Aneta city,Aneta,Aneta,38063,Nelson County,Incorporated place,47.679719,-97.988984,1
+ND,3802660,place:ND:3802660,Antler city,Antler,Antler,38009,Bottineau County,Incorporated place,48.971319,-101.283164,1
+ND,3802820,place:ND:3802820,Apple Valley CDP,Apple Valley,Apple Valley,38015,Burleigh County,Census-designated place,46.820971,-100.599484,1
+ND,3802860,place:ND:3802860,Ardoch city,Ardoch,Ardoch,38099,Walsh County,Incorporated place,48.205446,-97.338033,1
+ND,3803020,place:ND:3803020,Argusville city,Argusville,Argusville,38017,Cass County,Incorporated place,47.050068,-96.943141,1
+ND,3803220,place:ND:3803220,Arnegard city,Arnegard,Arnegard,38053,McKenzie County,Incorporated place,47.806523,-103.442573,1
+ND,3803300,place:ND:3803300,Arthur city,Arthur,Arthur,38017,Cass County,Incorporated place,47.104268,-97.218355,1
+ND,3803540,place:ND:3803540,Ashley city,Ashley,Ashley,38051,McIntosh County,Incorporated place,46.034744,-99.373677,1
+ND,3803740,place:ND:3803740,Auburn CDP,Auburn,Auburn,38099,Walsh County,Census-designated place,48.506563,-97.436844,1
+ND,3804020,place:ND:3804020,Ayr city,Ayr,Ayr,38017,Cass County,Incorporated place,47.041107,-97.490932,1
+ND,3804460,place:ND:3804460,Balfour city,Balfour,Balfour,38049,McHenry County,Incorporated place,47.950908,-100.534257,1
+ND,3804580,place:ND:3804580,Balta city,Balta,Balta,38069,Pierce County,Incorporated place,48.166111,-100.036503,1
+ND,3804740,place:ND:3804740,Bantry CDP,Bantry,Bantry,38049,McHenry County,Census-designated place,48.494254,-100.614696,1
+ND,3804940,place:ND:3804940,Barney city,Barney,Barney,38077,Richland County,Incorporated place,46.265843,-96.998834,1
+ND,3805220,place:ND:3805220,Barton CDP,Barton,Barton,38069,Pierce County,Census-designated place,48.508788,-100.173821,1
+ND,3805260,place:ND:3805260,Bathgate city,Bathgate,Bathgate,38067,Pembina County,Incorporated place,48.880411,-97.473862,1
+ND,3805420,place:ND:3805420,Beach city,Beach,Beach,38033,Golden Valley County,Incorporated place,46.918747,-104.005446,1
+ND,3805740,place:ND:3805740,Belcourt CDP,Belcourt,Belcourt,38079,Rolette County,Census-designated place,48.842494,-99.744164,1
+ND,3805820,place:ND:3805820,Belfield city,Belfield,Belfield,38089,Stark County,Incorporated place,46.886789,-103.195481,1
+ND,3805980,place:ND:3805980,Benedict city,Benedict,Benedict,38055,McLean County,Incorporated place,47.830132,-101.084323,1
+ND,3806180,place:ND:3806180,Bergen city,Bergen,Bergen,38049,McHenry County,Incorporated place,48.003724,-100.719893,1
+ND,3806300,place:ND:3806300,Berlin city,Berlin,Berlin,38045,LaMoure County,Incorporated place,46.378373,-98.488445,1
+ND,3806460,place:ND:3806460,Berthold city,Berthold,Berthold,38101,Ward County,Incorporated place,48.314136,-101.759023,1
+ND,3806660,place:ND:3806660,Beulah city,Beulah,Beulah,38057,Mercer County,Incorporated place,47.266826,-101.770684,1
+ND,3807020,place:ND:3807020,Binford city,Binford,Binford,38039,Griggs County,Incorporated place,47.560424,-98.345628,1
+ND,3807180,place:ND:3807180,Bisbee city,Bisbee,Bisbee,38095,Towner County,Incorporated place,48.62721,-99.378773,1
+ND,3807200,place:ND:3807200,Bismarck city,Bismarck,Bismarck,38015,Burleigh County,Incorporated place,46.815857,-100.768569,1
+ND,3807456,place:ND:3807456,Blacktail CDP,Blacktail,Blacktail,38105,Williams County,Census-designated place,48.432108,-103.73969,1
+ND,3807620,place:ND:3807620,Blanchard CDP,Blanchard,Blanchard,38097,Traill County,Census-designated place,47.343084,-97.223124,1
+ND,3808460,place:ND:3808460,Bottineau city,Bottineau,Bottineau,38009,Bottineau County,Incorporated place,48.824799,-100.442522,1
+ND,3808500,place:ND:3808500,Bowbells city,Bowbells,Bowbells,38013,Burke County,Incorporated place,48.802179,-102.245832,1
+ND,3808580,place:ND:3808580,Bowdon city,Bowdon,Bowdon,38103,Wells County,Incorporated place,47.468514,-99.708868,1
+ND,3808700,place:ND:3808700,Bowman city,Bowman,Bowman,38011,Bowman County,Incorporated place,46.184324,-103.402946,1
+ND,3808900,place:ND:3808900,Braddock city,Braddock,Braddock,38029,Emmons County,Incorporated place,46.563978,-100.089639,1
+ND,3809320,place:ND:3809320,Briarwood city,Briarwood,Briarwood,38017,Cass County,Incorporated place,46.787002,-96.794771,1
+ND,3809460,place:ND:3809460,Brinsmade city,Brinsmade,Brinsmade,38005,Benson County,Incorporated place,48.183979,-99.323639,1
+ND,3809700,place:ND:3809700,Brocket city,Brocket,Brocket,38071,Ramsey County,Incorporated place,48.210813,-98.355405,1
+ND,3809830,place:ND:3809830,Brooktree Park CDP,Brooktree Park,Brooktree Park,38017,Cass County,Census-designated place,47.003884,-96.895693,1
+ND,3810060,place:ND:3810060,Buchanan city,Buchanan,Buchanan,38093,Stutsman County,Incorporated place,47.062599,-98.829018,1
+ND,3810300,place:ND:3810300,Bucyrus city,Bucyrus,Bucyrus,38001,Adams County,Incorporated place,46.06457,-102.788317,1
+ND,3810420,place:ND:3810420,Buffalo city,Buffalo,Buffalo,38017,Cass County,Incorporated place,46.91926,-97.550619,1
+ND,3810940,place:ND:3810940,Burlington city,Burlington,Burlington,38101,Ward County,Incorporated place,48.257173,-101.41455,1
+ND,3811180,place:ND:3811180,Butte city,Butte,Butte,38055,McLean County,Incorporated place,47.836968,-100.665841,1
+ND,3811340,place:ND:3811340,Buxton city,Buxton,Buxton,38097,Traill County,Incorporated place,47.602065,-97.097519,1
+ND,3811500,place:ND:3811500,Caledonia CDP,Caledonia,Caledonia,38097,Traill County,Census-designated place,47.457677,-96.889141,1
+ND,3811580,place:ND:3811580,Calio city,Calio,Calio,38019,Cavalier County,Incorporated place,48.62377,-98.938381,1
+ND,3811700,place:ND:3811700,Calvin city,Calvin,Calvin,38019,Cavalier County,Incorporated place,48.851849,-98.938021,1
+ND,3811860,place:ND:3811860,Cando city,Cando,Cando,38095,Towner County,Incorporated place,48.487411,-99.202916,1
+ND,3812020,place:ND:3812020,Cannon Ball CDP,Cannon Ball,Cannon Ball,38085,Sioux County,Census-designated place,46.323693,-100.629428,1
+ND,3812060,place:ND:3812060,Canton City (Hensel) city,Canton City (Hensel),Canton City (Hensel),38067,Pembina County,Incorporated place,48.688034,-97.666135,1
+ND,3812260,place:ND:3812260,Carpio city,Carpio,Carpio,38101,Ward County,Incorporated place,48.443445,-101.716317,1
+ND,3812340,place:ND:3812340,Carrington city,Carrington,Carrington,38031,Foster County,Incorporated place,47.453046,-99.131166,1
+ND,3812460,place:ND:3812460,Carson city,Carson,Carson,38037,Grant County,Incorporated place,46.422307,-101.570618,1
+ND,3812700,place:ND:3812700,Casselton city,Casselton,Casselton,38017,Cass County,Incorporated place,46.896365,-97.212604,1
+ND,3812820,place:ND:3812820,Cathay city,Cathay,Cathay,38103,Wells County,Incorporated place,47.553923,-99.411296,1
+ND,3812940,place:ND:3812940,Cavalier city,Cavalier,Cavalier,38067,Pembina County,Incorporated place,48.794019,-97.622647,1
+ND,3813020,place:ND:3813020,Cayuga city,Cayuga,Cayuga,38081,Sargent County,Incorporated place,46.07606,-97.384516,1
+ND,3813180,place:ND:3813180,Center city,Center,Center,38065,Oliver County,Incorporated place,47.114931,-101.297676,1
+ND,3814100,place:ND:3814100,Christine city,Christine,Christine,38077,Richland County,Incorporated place,46.575131,-96.806644,1
+ND,3814140,place:ND:3814140,Churchs Ferry CDP,Churchs Ferry,Churchs Ferry,38071,Ramsey County,Census-designated place,48.268604,-99.194369,1
+ND,3814660,place:ND:3814660,Cleveland city,Cleveland,Cleveland,38093,Stutsman County,Incorporated place,46.891027,-99.119562,1
+ND,3814740,place:ND:3814740,Clifford city,Clifford,Clifford,38097,Traill County,Incorporated place,47.3482,-97.410094,1
+ND,3815100,place:ND:3815100,Cogswell city,Cogswell,Cogswell,38081,Sargent County,Incorporated place,46.106967,-97.78423,1
+ND,3815140,place:ND:3815140,Coleharbor city,Coleharbor,Coleharbor,38055,McLean County,Incorporated place,47.542533,-101.221365,1
+ND,3815180,place:ND:3815180,Colfax city,Colfax,Colfax,38077,Richland County,Incorporated place,46.473061,-96.873635,1
+ND,3815460,place:ND:3815460,Columbus city,Columbus,Columbus,38013,Burke County,Incorporated place,48.904982,-102.781176,1
+ND,3815820,place:ND:3815820,Conway city,Conway,Conway,38099,Walsh County,Incorporated place,48.234279,-97.675088,1
+ND,3815900,place:ND:3815900,Cooperstown city,Cooperstown,Cooperstown,38039,Griggs County,Incorporated place,47.444894,-98.125625,1
+ND,3816380,place:ND:3816380,Courtenay city,Courtenay,Courtenay,38093,Stutsman County,Incorporated place,47.224136,-98.568492,1
+ND,3816580,place:ND:3816580,Crary city,Crary,Crary,38071,Ramsey County,Incorporated place,48.07425,-98.63303,1
+ND,3816940,place:ND:3816940,Crosby city,Crosby,Crosby,38023,Divide County,Incorporated place,48.916167,-103.296622,1
+ND,3817060,place:ND:3817060,Crystal city,Crystal,Crystal,38067,Pembina County,Incorporated place,48.598099,-97.668578,1
+ND,3817620,place:ND:3817620,Dahlen CDP,Dahlen,Dahlen,38063,Nelson County,Census-designated place,48.15879,-97.932382,1
+ND,3818180,place:ND:3818180,Davenport city,Davenport,Davenport,38017,Cass County,Incorporated place,46.714869,-97.06553,1
+ND,3818260,place:ND:3818260,Dawson city,Dawson,Dawson,38043,Kidder County,Incorporated place,46.867939,-99.75362,1
+ND,3818340,place:ND:3818340,Dazey city,Dazey,Dazey,38003,Barnes County,Incorporated place,47.188351,-98.200702,1
+ND,3818820,place:ND:3818820,De Lamere CDP,De Lamere,De Lamere,38081,Sargent County,Census-designated place,46.266824,-97.333318,1
+ND,3818620,place:ND:3818620,Deering city,Deering,Deering,38049,McHenry County,Incorporated place,48.395831,-101.049842,1
+ND,3819060,place:ND:3819060,Denhoff CDP,Denhoff,Denhoff,38083,Sheridan County,Census-designated place,47.483336,-100.26228,1
+ND,3819300,place:ND:3819300,Des Lacs city,Des Lacs,Des Lacs,38101,Ward County,Incorporated place,48.256865,-101.563705,1
+ND,3819420,place:ND:3819420,Devils Lake city,Devils Lake,Devils Lake,38071,Ramsey County,Incorporated place,48.112578,-98.874762,1
+ND,3819580,place:ND:3819580,Dickey city,Dickey,Dickey,38045,LaMoure County,Incorporated place,46.536801,-98.468092,1
+ND,3819620,place:ND:3819620,Dickinson city,Dickinson,Dickinson,38089,Stark County,Incorporated place,46.892685,-102.797343,1
+ND,3819820,place:ND:3819820,Dodge city,Dodge,Dodge,38025,Dunn County,Incorporated place,47.305322,-102.20238,1
+ND,3819900,place:ND:3819900,Donnybrook city,Donnybrook,Donnybrook,38101,Ward County,Incorporated place,48.507731,-101.887054,1
+ND,3820020,place:ND:3820020,Douglas city,Douglas,Douglas,38101,Ward County,Incorporated place,47.857657,-101.502293,1
+ND,3820300,place:ND:3820300,Drake city,Drake,Drake,38049,McHenry County,Incorporated place,47.922691,-100.37442,1
+ND,3820340,place:ND:3820340,Drayton city,Drayton,Drayton,38067,Pembina County,Incorporated place,48.56206,-97.179496,1
+ND,3820500,place:ND:3820500,Driscoll CDP,Driscoll,Driscoll,38015,Burleigh County,Census-designated place,46.842682,-100.143905,1
+ND,3820940,place:ND:3820940,Dunn Center city,Dunn Center,Dunn Center,38025,Dunn County,Incorporated place,47.353134,-102.622785,1
+ND,3821020,place:ND:3821020,Dunseith city,Dunseith,Dunseith,38079,Rolette County,Incorporated place,48.813033,-100.062233,1
+ND,3821220,place:ND:3821220,Dwight city,Dwight,Dwight,38077,Richland County,Incorporated place,46.303913,-96.740011,1
+ND,3821520,place:ND:3821520,East Dunseith CDP,East Dunseith,East Dunseith,38079,Rolette County,Census-designated place,48.863246,-100.021856,1
+ND,3821580,place:ND:3821580,East Fairview CDP,East Fairview,East Fairview,38053,McKenzie County,Census-designated place,47.853419,-104.035893,1
+ND,3822140,place:ND:3822140,Edgeley city,Edgeley,Edgeley,38045,LaMoure County,Incorporated place,46.362448,-98.712607,1
+ND,3822260,place:ND:3822260,Edinburg city,Edinburg,Edinburg,38099,Walsh County,Incorporated place,48.495502,-97.862968,1
+ND,3822340,place:ND:3822340,Edmore city,Edmore,Edmore,38071,Ramsey County,Incorporated place,48.412438,-98.453645,1
+ND,3822540,place:ND:3822540,Egeland city,Egeland,Egeland,38095,Towner County,Incorporated place,48.628113,-99.09796,1
+ND,3823020,place:ND:3823020,Elgin city,Elgin,Elgin,38037,Grant County,Incorporated place,46.401499,-101.847373,1
+ND,3823220,place:ND:3823220,Ellendale city,Ellendale,Ellendale,38021,Dickey County,Incorporated place,46.004354,-98.525354,1
+ND,3823340,place:ND:3823340,Elliott city,Elliott,Elliott,38073,Ransom County,Incorporated place,46.402268,-97.81488,1
+ND,3824020,place:ND:3824020,Embden CDP,Embden,Embden,38017,Cass County,Census-designated place,46.805031,-97.439506,1
+ND,3824060,place:ND:3824060,Emerado city,Emerado,Emerado,38035,Grand Forks County,Incorporated place,47.928568,-97.361629,1
+ND,3824260,place:ND:3824260,Enderlin city,Enderlin,Enderlin,38073,Ransom County,Incorporated place,46.6215,-97.595581,1
+ND,3824380,place:ND:3824380,Englevale CDP,Englevale,Englevale,38073,Ransom County,Census-designated place,46.391177,-97.903831,1
+ND,3824540,place:ND:3824540,Epping city,Epping,Epping,38105,Williams County,Incorporated place,48.281651,-103.35784,1
+ND,3824620,place:ND:3824620,Erie CDP,Erie,Erie,38017,Cass County,Census-designated place,47.115346,-97.387918,1
+ND,3824780,place:ND:3824780,Esmond city,Esmond,Esmond,38005,Benson County,Incorporated place,48.033096,-99.76476,1
+ND,3825180,place:ND:3825180,Fairdale city,Fairdale,Fairdale,38099,Walsh County,Incorporated place,48.490037,-98.231224,1
+ND,3825300,place:ND:3825300,Fairmount city,Fairmount,Fairmount,38077,Richland County,Incorporated place,46.054695,-96.602907,1
+ND,3825700,place:ND:3825700,Fargo city,Fargo,Fargo,38017,Cass County,Incorporated place,46.86469,-96.829073,1
+ND,3826180,place:ND:3826180,Fessenden city,Fessenden,Fessenden,38103,Wells County,Incorporated place,47.649308,-99.627008,1
+ND,3826380,place:ND:3826380,Fingal city,Fingal,Fingal,38003,Barnes County,Incorporated place,46.762492,-97.793158,1
+ND,3826420,place:ND:3826420,Finley city,Finley,Finley,38091,Steele County,Incorporated place,47.512515,-97.837267,1
+ND,3826660,place:ND:3826660,Flasher city,Flasher,Flasher,38059,Morton County,Incorporated place,46.452099,-101.232861,1
+ND,3826700,place:ND:3826700,Flaxton city,Flaxton,Flaxton,38013,Burke County,Incorporated place,48.896288,-102.391147,1
+ND,3826980,place:ND:3826980,Forbes city,Forbes,Forbes,38021,Dickey County,Incorporated place,45.942511,-98.782019,1
+ND,3827060,place:ND:3827060,Fordville city,Fordville,Fordville,38099,Walsh County,Incorporated place,48.216592,-97.795376,1
+ND,3827100,place:ND:3827100,Forest River city,Forest River,Forest River,38099,Walsh County,Incorporated place,48.216553,-97.470319,1
+ND,3827260,place:ND:3827260,Forman city,Forman,Forman,38081,Sargent County,Incorporated place,46.103761,-97.637099,1
+ND,3827580,place:ND:3827580,Fort Ransom city,Fort Ransom,Fort Ransom,38073,Ransom County,Incorporated place,46.524529,-97.931057,1
+ND,3827700,place:ND:3827700,Fort Totten CDP,Fort Totten,Fort Totten,38005,Benson County,Census-designated place,47.970583,-99.016517,1
+ND,3827860,place:ND:3827860,Fort Yates city,Fort Yates,Fort Yates,38085,Sioux County,Incorporated place,46.086594,-100.630078,1
+ND,3827820,place:ND:3827820,Fortuna city,Fortuna,Fortuna,38023,Divide County,Incorporated place,48.910351,-103.77958,1
+ND,3827950,place:ND:3827950,Four Bears Village CDP,Four Bears Village,Four Bears Village,38053,McKenzie County,Census-designated place,47.987113,-102.593735,1
+ND,3827980,place:ND:3827980,Foxholm CDP,Foxholm,Foxholm,38101,Ward County,Census-designated place,48.365415,-101.57212,1
+ND,3828380,place:ND:3828380,Fredonia city,Fredonia,Fredonia,38047,Logan County,Incorporated place,46.329175,-99.095632,1
+ND,3828720,place:ND:3828720,Frontier city,Frontier,Frontier,38017,Cass County,Incorporated place,46.800275,-96.833294,1
+ND,3828780,place:ND:3828780,Fullerton city,Fullerton,Fullerton,38021,Dickey County,Incorporated place,46.163227,-98.427312,1
+ND,3828860,place:ND:3828860,Gackle city,Gackle,Gackle,38047,Logan County,Incorporated place,46.626404,-99.141408,1
+ND,3828980,place:ND:3828980,Galesburg city,Galesburg,Galesburg,38097,Traill County,Incorporated place,47.270098,-97.408761,1
+ND,3829180,place:ND:3829180,Gardena city,Gardena,Gardena,38009,Bottineau County,Incorporated place,48.701237,-100.498087,1
+ND,3829220,place:ND:3829220,Gardner city,Gardner,Gardner,38017,Cass County,Incorporated place,47.144511,-96.968617,1
+ND,3829460,place:ND:3829460,Garrison city,Garrison,Garrison,38055,McLean County,Incorporated place,47.653206,-101.421914,1
+ND,3829540,place:ND:3829540,Gascoyne city,Gascoyne,Gascoyne,38011,Bowman County,Incorporated place,46.118954,-103.078786,1
+ND,3830180,place:ND:3830180,Gilby city,Gilby,Gilby,38035,Grand Forks County,Incorporated place,48.083502,-97.467723,1
+ND,3830460,place:ND:3830460,Gladstone city,Gladstone,Gladstone,38089,Stark County,Incorporated place,46.858698,-102.576584,1
+ND,3830860,place:ND:3830860,Glen Ullin city,Glen Ullin,Glen Ullin,38059,Morton County,Incorporated place,46.811696,-101.833498,1
+ND,3830580,place:ND:3830580,Glenburn city,Glenburn,Glenburn,38075,Renville County,Incorporated place,48.513496,-101.220891,1
+ND,3830660,place:ND:3830660,Glenfield city,Glenfield,Glenfield,38031,Foster County,Incorporated place,47.455072,-98.566203,1
+ND,3831180,place:ND:3831180,Golden Valley city,Golden Valley,Golden Valley,38057,Mercer County,Incorporated place,47.290264,-102.0653,1
+ND,3831420,place:ND:3831420,Golva city,Golva,Golva,38033,Golden Valley County,Incorporated place,46.734482,-103.982162,1
+ND,3831500,place:ND:3831500,Goodrich city,Goodrich,Goodrich,38083,Sheridan County,Incorporated place,47.47622,-100.124798,1
+ND,3831740,place:ND:3831740,Grace City city,Grace City,Grace City,38031,Foster County,Incorporated place,47.551304,-98.80387,1
+ND,3831820,place:ND:3831820,Grafton city,Grafton,Grafton,38099,Walsh County,Incorporated place,48.41391,-97.406164,1
+ND,3832060,place:ND:3832060,Grand Forks city,Grand Forks,Grand Forks,38035,Grand Forks County,Incorporated place,47.919595,-97.087328,1
+ND,3832140,place:ND:3832140,Grand Forks AFB CDP,Grand Forks AFB,Grand Forks AFB,38035,Grand Forks County,Census-designated place,47.95568,-97.39128,1
+ND,3832300,place:ND:3832300,Grandin city,Grandin,Grandin,38017,Cass County,Incorporated place,47.236719,-97.003219,1
+ND,3832580,place:ND:3832580,Grano city,Grano,Grano,38075,Renville County,Incorporated place,48.61532,-101.589171,1
+ND,3832660,place:ND:3832660,Granville city,Granville,Granville,38049,McHenry County,Incorporated place,48.266588,-100.844663,1
+ND,3832900,place:ND:3832900,Great Bend city,Great Bend,Great Bend,38077,Richland County,Incorporated place,46.154638,-96.800995,1
+ND,3833050,place:ND:3833050,Green Acres CDP,Green Acres,Green Acres,38079,Rolette County,Census-designated place,48.838132,-99.690092,1
+ND,3833500,place:ND:3833500,Grenora city,Grenora,Grenora,38105,Williams County,Incorporated place,48.619747,-103.936691,1
+ND,3834020,place:ND:3834020,Gwinner city,Gwinner,Gwinner,38081,Sargent County,Incorporated place,46.231045,-97.656093,1
+ND,3834180,place:ND:3834180,Hague city,Hague,Hague,38029,Emmons County,Incorporated place,46.028891,-99.999106,1
+ND,3834340,place:ND:3834340,Halliday city,Halliday,Halliday,38025,Dunn County,Incorporated place,47.352023,-102.338829,1
+ND,3834460,place:ND:3834460,Hamberg city,Hamberg,Hamberg,38103,Wells County,Incorporated place,47.763346,-99.515963,1
+ND,3834620,place:ND:3834620,Hamilton city,Hamilton,Hamilton,38067,Pembina County,Incorporated place,48.807982,-97.451735,1
+ND,3834860,place:ND:3834860,Hampden city,Hampden,Hampden,38071,Ramsey County,Incorporated place,48.539598,-98.654317,1
+ND,3834900,place:ND:3834900,Hankinson city,Hankinson,Hankinson,38077,Richland County,Incorporated place,46.074053,-96.891028,1
+ND,3835020,place:ND:3835020,Hannaford city,Hannaford,Hannaford,38039,Griggs County,Incorporated place,47.314181,-98.188941,1
+ND,3835060,place:ND:3835060,Hannah city,Hannah,Hannah,38019,Cavalier County,Incorporated place,48.972884,-98.690294,1
+ND,3835140,place:ND:3835140,Hansboro city,Hansboro,Hansboro,38095,Towner County,Incorporated place,48.952448,-99.380239,1
+ND,3835500,place:ND:3835500,Harmon CDP,Harmon,Harmon,38059,Morton County,Census-designated place,46.954361,-100.956967,1
+ND,3835900,place:ND:3835900,Harvey city,Harvey,Harvey,38103,Wells County,Incorporated place,47.778228,-99.930691,1
+ND,3835940,place:ND:3835940,Harwood city,Harwood,Harwood,38017,Cass County,Incorporated place,46.966337,-96.877615,1
+ND,3836100,place:ND:3836100,Hatton city,Hatton,Hatton,38097,Traill County,Incorporated place,47.636967,-97.458289,1
+ND,3836140,place:ND:3836140,Havana city,Havana,Havana,38081,Sargent County,Incorporated place,45.954234,-97.618496,1
+ND,3836540,place:ND:3836540,Haynes city,Haynes,Haynes,38001,Adams County,Incorporated place,45.973911,-102.471008,1
+ND,3836700,place:ND:3836700,Hazelton city,Hazelton,Hazelton,38029,Emmons County,Incorporated place,46.485724,-100.281089,1
+ND,3836780,place:ND:3836780,Hazen city,Hazen,Hazen,38057,Mercer County,Incorporated place,47.298417,-101.624823,1
+ND,3836860,place:ND:3836860,Hebron city,Hebron,Hebron,38059,Morton County,Incorporated place,46.902416,-102.0447,1
+ND,3836980,place:ND:3836980,Heil CDP,Heil,Heil,38037,Grant County,Census-designated place,46.389194,-101.701151,1
+ND,3837020,place:ND:3837020,Heimdal CDP,Heimdal,Heimdal,38103,Wells County,Census-designated place,47.792639,-99.652704,1
+ND,3837700,place:ND:3837700,Hettinger city,Hettinger,Hettinger,38001,Adams County,Incorporated place,46.003521,-102.634613,1
+ND,3838100,place:ND:3838100,Hillsboro city,Hillsboro,Hillsboro,38097,Traill County,Incorporated place,47.402972,-97.063463,1
+ND,3838780,place:ND:3838780,Hoople city,Hoople,Hoople,38099,Walsh County,Incorporated place,48.535789,-97.638868,1
+ND,3838860,place:ND:3838860,Hope city,Hope,Hope,38091,Steele County,Incorporated place,47.324377,-97.719203,1
+ND,3838900,place:ND:3838900,Horace city,Horace,Horace,38017,Cass County,Incorporated place,46.75695,-96.911325,1
+ND,3839460,place:ND:3839460,Hunter city,Hunter,Hunter,38017,Cass County,Incorporated place,47.190113,-97.213811,1
+ND,3839580,place:ND:3839580,Hurdsfield city,Hurdsfield,Hurdsfield,38103,Wells County,Incorporated place,47.447183,-99.930386,1
+ND,3839980,place:ND:3839980,Inkster city,Inkster,Inkster,38035,Grand Forks County,Incorporated place,48.151251,-97.64415,1
+ND,3840580,place:ND:3840580,Jamestown city,Jamestown,Jamestown,38093,Stutsman County,Incorporated place,46.905851,-98.693579,1
+ND,3840740,place:ND:3840740,Jessie CDP,Jessie,Jessie,38039,Griggs County,Census-designated place,47.54019,-98.229147,1
+ND,3841180,place:ND:3841180,Jud city,Jud,Jud,38045,LaMoure County,Incorporated place,46.525772,-98.897552,1
+ND,3841380,place:ND:3841380,Karlsruhe city,Karlsruhe,Karlsruhe,38049,McHenry County,Incorporated place,48.091045,-100.616207,1
+ND,3841500,place:ND:3841500,Kathryn city,Kathryn,Kathryn,38003,Barnes County,Incorporated place,46.681174,-97.970358,1
+ND,3842020,place:ND:3842020,Kenmare city,Kenmare,Kenmare,38101,Ward County,Incorporated place,48.672812,-102.07203,1
+ND,3842180,place:ND:3842180,Kensal city,Kensal,Kensal,38093,Stutsman County,Incorporated place,47.300033,-98.732106,1
+ND,3842660,place:ND:3842660,Kief city,Kief,Kief,38049,McHenry County,Incorporated place,47.858986,-100.514172,1
+ND,3842700,place:ND:3842700,Killdeer city,Killdeer,Killdeer,38025,Dunn County,Incorporated place,47.368761,-102.746214,1
+ND,3842780,place:ND:3842780,Kindred city,Kindred,Kindred,38017,Cass County,Incorporated place,46.649479,-97.016708,1
+ND,3843260,place:ND:3843260,Knox city,Knox,Knox,38005,Benson County,Incorporated place,48.343948,-99.691111,1
+ND,3843500,place:ND:3843500,Kramer city,Kramer,Kramer,38009,Bottineau County,Incorporated place,48.691031,-100.70765,1
+ND,3843580,place:ND:3843580,Kulm city,Kulm,Kulm,38045,LaMoure County,Incorporated place,46.301947,-98.946607,1
+ND,3844300,place:ND:3844300,Lakota city,Lakota,Lakota,38063,Nelson County,Incorporated place,48.042868,-98.346767,1
+ND,3844540,place:ND:3844540,LaMoure city,LaMoure,LaMoure,38045,LaMoure County,Incorporated place,46.357417,-98.296541,1
+ND,3844700,place:ND:3844700,Landa city,Landa,Landa,38009,Bottineau County,Incorporated place,48.895855,-100.911987,1
+ND,3844780,place:ND:3844780,Langdon city,Langdon,Langdon,38019,Cavalier County,Incorporated place,48.762209,-98.375265,1
+ND,3844860,place:ND:3844860,Lankin city,Lankin,Lankin,38099,Walsh County,Incorporated place,48.31467,-97.920258,1
+ND,3844900,place:ND:3844900,Lansford city,Lansford,Lansford,38009,Bottineau County,Incorporated place,48.626952,-101.375891,1
+ND,3845020,place:ND:3845020,Larimore city,Larimore,Larimore,38035,Grand Forks County,Incorporated place,47.909065,-97.627004,1
+ND,3845220,place:ND:3845220,Larson CDP,Larson,Larson,38013,Burke County,Census-designated place,48.891574,-102.862564,1
+ND,3845300,place:ND:3845300,Lawton city,Lawton,Lawton,38071,Ramsey County,Incorporated place,48.303341,-98.367869,1
+ND,3845460,place:ND:3845460,Leal city,Leal,Leal,38003,Barnes County,Incorporated place,47.104916,-98.315527,1
+ND,3845580,place:ND:3845580,Leeds city,Leeds,Leeds,38005,Benson County,Incorporated place,48.286803,-99.429551,1
+ND,3845740,place:ND:3845740,Lehr city,Lehr,Lehr,38051,McIntosh County,Incorporated place,46.282395,-99.352929,1
+ND,3845860,place:ND:3845860,Leith city,Leith,Leith,38037,Grant County,Incorporated place,46.364925,-101.641415,1
+ND,3845980,place:ND:3845980,Leonard city,Leonard,Leonard,38017,Cass County,Incorporated place,46.65229,-97.249944,1
+ND,3846460,place:ND:3846460,Lidgerwood city,Lidgerwood,Lidgerwood,38077,Richland County,Incorporated place,46.073753,-97.145233,1
+ND,3846540,place:ND:3846540,Lignite city,Lignite,Lignite,38013,Burke County,Incorporated place,48.877169,-102.564428,1
+ND,3846640,place:ND:3846640,Lincoln city,Lincoln,Lincoln,38015,Burleigh County,Incorporated place,46.770287,-100.690838,1
+ND,3846980,place:ND:3846980,Linton city,Linton,Linton,38029,Emmons County,Incorporated place,46.268675,-100.232894,1
+ND,3847100,place:ND:3847100,Lisbon city,Lisbon,Lisbon,38073,Ransom County,Incorporated place,46.438986,-97.684415,1
+ND,3847140,place:ND:3847140,Litchville city,Litchville,Litchville,38003,Barnes County,Incorporated place,46.656563,-98.191701,1
+ND,3847540,place:ND:3847540,Logan CDP,Logan,Logan,38101,Ward County,Census-designated place,48.15956,-101.175557,1
+ND,3847660,place:ND:3847660,Loma city,Loma,Loma,38019,Cavalier County,Incorporated place,48.63773,-98.525699,1
+ND,3847796,place:ND:3847796,Long Creek CDP,Long Creek,Long Creek,38105,Williams County,Census-designated place,48.100963,-103.254588,1
+ND,3848020,place:ND:3848020,Loraine city,Loraine,Loraine,38075,Renville County,Incorporated place,48.868354,-101.567889,1
+ND,3848460,place:ND:3848460,Ludden city,Ludden,Ludden,38021,Dickey County,Incorporated place,46.00797,-98.124794,1
+ND,3848580,place:ND:3848580,Luverne city,Luverne,Luverne,38091,Steele County,Incorporated place,47.251424,-97.934817,1
+ND,3849620,place:ND:3849620,Maddock city,Maddock,Maddock,38005,Benson County,Incorporated place,47.962387,-99.529294,1
+ND,3849820,place:ND:3849820,Makoti city,Makoti,Makoti,38101,Ward County,Incorporated place,47.96333,-101.802908,1
+ND,3849900,place:ND:3849900,Mandan city,Mandan,Mandan,38059,Morton County,Incorporated place,46.829484,-100.88706,1
+ND,3849980,place:ND:3849980,Mandaree CDP,Mandaree,Mandaree,38053,McKenzie County,Census-designated place,47.745112,-102.697567,1
+ND,3850220,place:ND:3850220,Manning CDP,Manning,Manning,38025,Dunn County,Census-designated place,47.231035,-102.770375,1
+ND,3850380,place:ND:3850380,Mantador city,Mantador,Mantador,38077,Richland County,Incorporated place,46.165495,-96.977851,1
+ND,3850420,place:ND:3850420,Manvel city,Manvel,Manvel,38035,Grand Forks County,Incorporated place,48.072782,-97.177929,1
+ND,3850580,place:ND:3850580,Mapleton city,Mapleton,Mapleton,38017,Cass County,Incorporated place,46.891531,-97.053257,1
+ND,3850780,place:ND:3850780,Marion city,Marion,Marion,38045,LaMoure County,Incorporated place,46.611159,-98.338639,1
+ND,3850860,place:ND:3850860,Marmarth city,Marmarth,Marmarth,38087,Slope County,Incorporated place,46.301208,-103.934588,1
+ND,3851060,place:ND:3851060,Martin city,Martin,Martin,38083,Sheridan County,Incorporated place,47.82677,-100.115302,1
+ND,3851380,place:ND:3851380,Max city,Max,Max,38055,McLean County,Incorporated place,47.82042,-101.291106,1
+ND,3851420,place:ND:3851420,Maxbass city,Maxbass,Maxbass,38009,Bottineau County,Incorporated place,48.722447,-101.142365,1
+ND,3851500,place:ND:3851500,Mayville city,Mayville,Mayville,38097,Traill County,Incorporated place,47.498184,-97.326354,1
+ND,3849020,place:ND:3849020,McClusky city,McClusky,McClusky,38083,Sheridan County,Incorporated place,47.483989,-100.442533,1
+ND,3849220,place:ND:3849220,McGregor CDP,McGregor,McGregor,38105,Williams County,Census-designated place,48.595563,-102.92801,1
+ND,3849260,place:ND:3849260,McHenry city,McHenry,McHenry,38031,Foster County,Incorporated place,47.576405,-98.590996,1
+ND,3849540,place:ND:3849540,McLeod CDP,McLeod,McLeod,38073,Ransom County,Census-designated place,46.388656,-97.298767,1
+ND,3849580,place:ND:3849580,McVille city,McVille,McVille,38063,Nelson County,Incorporated place,47.765116,-98.175442,1
+ND,3851860,place:ND:3851860,Medina city,Medina,Medina,38093,Stutsman County,Incorporated place,46.89384,-99.299885,1
+ND,3851900,place:ND:3851900,Medora city,Medora,Medora,38007,Billings County,Incorporated place,46.911261,-103.526517,1
+ND,3852180,place:ND:3852180,Menoken CDP,Menoken,Menoken,38015,Burleigh County,Census-designated place,46.81442,-100.530479,1
+ND,3852340,place:ND:3852340,Mercer city,Mercer,Mercer,38055,McLean County,Incorporated place,47.490606,-100.71114,1
+ND,3852740,place:ND:3852740,Michigan City city,Michigan City,Michigan City,38063,Nelson County,Incorporated place,48.025635,-98.120264,1
+ND,3852940,place:ND:3852940,Milnor city,Milnor,Milnor,38081,Sargent County,Incorporated place,46.260964,-97.454998,1
+ND,3853020,place:ND:3853020,Milton city,Milton,Milton,38019,Cavalier County,Incorporated place,48.626006,-98.045964,1
+ND,3853220,place:ND:3853220,Minnewaukan city,Minnewaukan,Minnewaukan,38005,Benson County,Incorporated place,48.071697,-99.253831,1
+ND,3853380,place:ND:3853380,Minot city,Minot,Minot,38101,Ward County,Incorporated place,48.236141,-101.277578,1
+ND,3853420,place:ND:3853420,Minot AFB CDP,Minot AFB,Minot AFB,38101,Ward County,Census-designated place,48.419002,-101.336503,1
+ND,3853540,place:ND:3853540,Minto city,Minto,Minto,38099,Walsh County,Incorporated place,48.29241,-97.373046,1
+ND,3853780,place:ND:3853780,Mohall city,Mohall,Mohall,38075,Renville County,Incorporated place,48.765979,-101.516386,1
+ND,3853820,place:ND:3853820,Monango city,Monango,Monango,38021,Dickey County,Incorporated place,46.173406,-98.595175,1
+ND,3853980,place:ND:3853980,Montpelier city,Montpelier,Montpelier,38093,Stutsman County,Incorporated place,46.698966,-98.588464,1
+ND,3854220,place:ND:3854220,Mooreton city,Mooreton,Mooreton,38077,Richland County,Incorporated place,46.268931,-96.875777,1
+ND,3854620,place:ND:3854620,Mott city,Mott,Mott,38041,Hettinger County,Incorporated place,46.374402,-102.318897,1
+ND,3854740,place:ND:3854740,Mountain city,Mountain,Mountain,38067,Pembina County,Incorporated place,48.684305,-97.864807,1
+ND,3855020,place:ND:3855020,Munich city,Munich,Munich,38019,Cavalier County,Incorporated place,48.673375,-98.838749,1
+ND,3855220,place:ND:3855220,Mylo city,Mylo,Mylo,38079,Rolette County,Incorporated place,48.635841,-99.617921,1
+ND,3855420,place:ND:3855420,Napoleon city,Napoleon,Napoleon,38047,Logan County,Incorporated place,46.503929,-99.768332,1
+ND,3855500,place:ND:3855500,Nash CDP,Nash,Nash,38099,Walsh County,Census-designated place,48.477824,-97.524453,1
+ND,3855620,place:ND:3855620,Neche city,Neche,Neche,38067,Pembina County,Incorporated place,48.983043,-97.551699,1
+ND,3855740,place:ND:3855740,Nekoma city,Nekoma,Nekoma,38019,Cavalier County,Incorporated place,48.578264,-98.37611,1
+ND,3856180,place:ND:3856180,New England city,New England,New England,38041,Hettinger County,Incorporated place,46.540817,-102.866962,1
+ND,3856420,place:ND:3856420,New Leipzig city,New Leipzig,New Leipzig,38037,Grant County,Incorporated place,46.375768,-101.951599,1
+ND,3856620,place:ND:3856620,New Rockford city,New Rockford,New Rockford,38027,Eddy County,Incorporated place,47.679617,-99.137698,1
+ND,3856700,place:ND:3856700,New Salem city,New Salem,New Salem,38059,Morton County,Incorporated place,46.84305,-101.417941,1
+ND,3856740,place:ND:3856740,New Town city,New Town,New Town,38061,Mountrail County,Incorporated place,47.989075,-102.488305,1
+ND,3856020,place:ND:3856020,Newburg city,Newburg,Newburg,38009,Bottineau County,Incorporated place,48.713878,-100.91264,1
+ND,3856780,place:ND:3856780,Niagara city,Niagara,Niagara,38035,Grand Forks County,Incorporated place,48.000896,-97.876989,1
+ND,3857180,place:ND:3857180,Nome city,Nome,Nome,38003,Barnes County,Incorporated place,46.675796,-97.816255,1
+ND,3857220,place:ND:3857220,Noonan city,Noonan,Noonan,38023,Divide County,Incorporated place,48.890332,-103.010287,1
+ND,3858120,place:ND:3858120,North River city,North River,North River,38017,Cass County,Incorporated place,46.950445,-96.803467,1
+ND,3858300,place:ND:3858300,Northwood city,Northwood,Northwood,38035,Grand Forks County,Incorporated place,47.731424,-97.565226,1
+ND,3858740,place:ND:3858740,Oakes city,Oakes,Oakes,38021,Dickey County,Incorporated place,46.139704,-98.087123,1
+ND,3859020,place:ND:3859020,Oberon city,Oberon,Oberon,38005,Benson County,Incorporated place,47.923855,-99.20584,1
+ND,3859660,place:ND:3859660,Oriska city,Oriska,Oriska,38003,Barnes County,Incorporated place,46.931117,-97.790539,1
+ND,3859820,place:ND:3859820,Orrin CDP,Orrin,Orrin,38069,Pierce County,Census-designated place,48.090938,-100.167109,1
+ND,3860100,place:ND:3860100,Osnabrock city,Osnabrock,Osnabrock,38019,Cavalier County,Incorporated place,48.670163,-98.149397,1
+ND,3860380,place:ND:3860380,Overly city,Overly,Overly,38009,Bottineau County,Incorporated place,48.681139,-100.15102,1
+ND,3860480,place:ND:3860480,Oxbow city,Oxbow,Oxbow,38017,Cass County,Incorporated place,46.6647,-96.820793,1
+ND,3860500,place:ND:3860500,Page city,Page,Page,38017,Cass County,Incorporated place,47.15919,-97.568131,1
+ND,3860620,place:ND:3860620,Palermo city,Palermo,Palermo,38061,Mountrail County,Incorporated place,48.339159,-102.235491,1
+ND,3860900,place:ND:3860900,Park River city,Park River,Park River,38099,Walsh County,Incorporated place,48.391059,-97.742678,1
+ND,3860940,place:ND:3860940,Parshall city,Parshall,Parshall,38061,Mountrail County,Incorporated place,47.959506,-102.133804,1
+ND,3861460,place:ND:3861460,Pekin city,Pekin,Pekin,38063,Nelson County,Incorporated place,47.791911,-98.32777,1
+ND,3861580,place:ND:3861580,Pembina city,Pembina,Pembina,38067,Pembina County,Incorporated place,48.967087,-97.246861,1
+ND,3861780,place:ND:3861780,Perth city,Perth,Perth,38095,Towner County,Incorporated place,48.714723,-99.458124,1
+ND,3861860,place:ND:3861860,Petersburg city,Petersburg,Petersburg,38063,Nelson County,Incorporated place,48.017491,-98.000632,1
+ND,3862060,place:ND:3862060,Pettibone city,Pettibone,Pettibone,38043,Kidder County,Incorporated place,47.117068,-99.520816,1
+ND,3862260,place:ND:3862260,Pick City city,Pick City,Pick City,38057,Mercer County,Incorporated place,47.511001,-101.457304,1
+ND,3862540,place:ND:3862540,Pillsbury city,Pillsbury,Pillsbury,38003,Barnes County,Incorporated place,47.207123,-97.795691,1
+ND,3862620,place:ND:3862620,Pingree city,Pingree,Pingree,38093,Stutsman County,Incorporated place,47.163823,-98.908563,1
+ND,3862780,place:ND:3862780,Pisek city,Pisek,Pisek,38099,Walsh County,Incorporated place,48.310644,-97.71028,1
+ND,3862980,place:ND:3862980,Plaza city,Plaza,Plaza,38061,Mountrail County,Incorporated place,48.026289,-101.958725,1
+ND,3863700,place:ND:3863700,Porcupine CDP,Porcupine,Porcupine,38085,Sioux County,Census-designated place,46.221838,-101.100104,1
+ND,3863740,place:ND:3863740,Portal city,Portal,Portal,38013,Burke County,Incorporated place,48.994384,-102.548395,1
+ND,3863900,place:ND:3863900,Portland city,Portland,Portland,38097,Traill County,Incorporated place,47.499511,-97.369306,1
+ND,3864140,place:ND:3864140,Powers Lake city,Powers Lake,Powers Lake,38013,Burke County,Incorporated place,48.564022,-102.645625,1
+ND,3864320,place:ND:3864320,Prairie Rose city,Prairie Rose,Prairie Rose,38017,Cass County,Incorporated place,46.817121,-96.835395,1
+ND,3865100,place:ND:3865100,Raleigh CDP,Raleigh,Raleigh,38037,Grant County,Census-designated place,46.357143,-101.305383,1
+ND,3865580,place:ND:3865580,Ray city,Ray,Ray,38105,Williams County,Incorporated place,48.340425,-103.168866,1
+ND,3865900,place:ND:3865900,Reeder city,Reeder,Reeder,38001,Adams County,Incorporated place,46.105926,-102.942164,1
+ND,3865980,place:ND:3865980,Regan city,Regan,Regan,38015,Burleigh County,Incorporated place,47.156794,-100.527298,1
+ND,3866020,place:ND:3866020,Regent city,Regent,Regent,38041,Hettinger County,Incorporated place,46.422197,-102.558052,1
+ND,3866040,place:ND:3866040,Reile's Acres city,Reile's Acres,Reile's Acres,38017,Cass County,Incorporated place,46.929064,-96.870046,1
+ND,3866260,place:ND:3866260,Reynolds city,Reynolds,Reynolds,38097,Traill County,Incorporated place,47.668529,-97.105968,1
+ND,3866300,place:ND:3866300,Rhame city,Rhame,Rhame,38011,Bowman County,Incorporated place,46.234649,-103.654982,1
+ND,3866500,place:ND:3866500,Richardton city,Richardton,Richardton,38089,Stark County,Incorporated place,46.884816,-102.339088,1
+ND,3866980,place:ND:3866980,Riverdale city,Riverdale,Riverdale,38055,McLean County,Incorporated place,47.496757,-101.367049,1
+ND,3867180,place:ND:3867180,Robinson city,Robinson,Robinson,38043,Kidder County,Incorporated place,47.142062,-99.781332,1
+ND,3867500,place:ND:3867500,Rocklake city,Rocklake,Rocklake,38095,Towner County,Incorporated place,48.79016,-99.245898,1
+ND,3867620,place:ND:3867620,Rogers city,Rogers,Rogers,38003,Barnes County,Incorporated place,47.074031,-98.203127,1
+ND,3867780,place:ND:3867780,Rolette city,Rolette,Rolette,38079,Rolette County,Incorporated place,48.660897,-99.841675,1
+ND,3867820,place:ND:3867820,Rolla city,Rolla,Rolla,38079,Rolette County,Incorporated place,48.843618,-99.609353,1
+ND,3868540,place:ND:3868540,Ross city,Ross,Ross,38061,Mountrail County,Incorporated place,48.312775,-102.543509,1
+ND,3868860,place:ND:3868860,Rugby city,Rugby,Rugby,38069,Pierce County,Incorporated place,48.365422,-99.990223,1
+ND,3869140,place:ND:3869140,Ruso city,Ruso,Ruso,38055,McLean County,Incorporated place,47.837332,-100.934268,1
+ND,3869300,place:ND:3869300,Ruthville CDP,Ruthville,Ruthville,38101,Ward County,Census-designated place,48.370814,-101.300234,1
+ND,3869340,place:ND:3869340,Rutland city,Rutland,Rutland,38081,Sargent County,Incorporated place,46.054343,-97.506801,1
+ND,3869460,place:ND:3869460,Ryder city,Ryder,Ryder,38101,Ward County,Incorporated place,47.922047,-101.670883,1
+ND,3870380,place:ND:3870380,Sanborn city,Sanborn,Sanborn,38003,Barnes County,Incorporated place,46.942793,-98.223812,1
+ND,3870780,place:ND:3870780,Sarles city,Sarles,Sarles,38019,Cavalier County,Incorporated place,48.944967,-98.996881,1
+ND,3870980,place:ND:3870980,Sawyer city,Sawyer,Sawyer,38101,Ward County,Incorporated place,48.089458,-101.053314,1
+ND,3871500,place:ND:3871500,Scranton city,Scranton,Scranton,38011,Bowman County,Incorporated place,46.149479,-103.142977,1
+ND,3871660,place:ND:3871660,Selfridge city,Selfridge,Selfridge,38085,Sioux County,Incorporated place,46.041682,-100.924357,1
+ND,3871700,place:ND:3871700,Selz CDP,Selz,Selz,38069,Pierce County,Census-designated place,47.859404,-99.893412,1
+ND,3871780,place:ND:3871780,Sentinel Butte city,Sentinel Butte,Sentinel Butte,38033,Golden Valley County,Incorporated place,46.91944,-103.84059,1
+ND,3871940,place:ND:3871940,Sharon city,Sharon,Sharon,38091,Steele County,Incorporated place,47.597457,-97.898722,1
+ND,3872180,place:ND:3872180,Sheldon city,Sheldon,Sheldon,38073,Ransom County,Incorporated place,46.588493,-97.494374,1
+ND,3872250,place:ND:3872250,Shell Valley CDP,Shell Valley,Shell Valley,38079,Rolette County,Census-designated place,48.808616,-99.827101,1
+ND,3872540,place:ND:3872540,Sherwood city,Sherwood,Sherwood,38075,Renville County,Incorporated place,48.961867,-101.632802,1
+ND,3872580,place:ND:3872580,Sheyenne city,Sheyenne,Sheyenne,38027,Eddy County,Incorporated place,47.827287,-99.116832,1
+ND,3872820,place:ND:3872820,Sibley city,Sibley,Sibley,38003,Barnes County,Incorporated place,47.218602,-97.965306,1
+ND,3873820,place:ND:3873820,Solen city,Solen,Solen,38085,Sioux County,Incorporated place,46.387312,-100.795647,1
+ND,3874020,place:ND:3874020,Souris city,Souris,Souris,38009,Bottineau County,Incorporated place,48.909959,-100.682648,1
+ND,3874185,place:ND:3874185,South Heart city,South Heart,South Heart,38089,Stark County,Incorporated place,46.867911,-102.990597,1
+ND,3874660,place:ND:3874660,Spiritwood CDP,Spiritwood,Spiritwood,38093,Stutsman County,Census-designated place,46.934282,-98.493296,1
+ND,3874740,place:ND:3874740,Spiritwood Lake city,Spiritwood Lake,Spiritwood Lake,38093,Stutsman County,Incorporated place,47.079627,-98.58595,1
+ND,3874780,place:ND:3874780,Springbrook city,Springbrook,Springbrook,38105,Williams County,Incorporated place,48.252114,-103.461679,1
+ND,3869980,place:ND:3869980,St. John city,St. John,St. John,38079,Rolette County,Incorporated place,48.943766,-99.713096,1
+ND,3870260,place:ND:3870260,St. Thomas city,St. Thomas,St. Thomas,38067,Pembina County,Incorporated place,48.619236,-97.447107,1
+ND,3875380,place:ND:3875380,Stanley city,Stanley,Stanley,38061,Mountrail County,Incorporated place,48.313526,-102.400796,1
+ND,3875420,place:ND:3875420,Stanton city,Stanton,Stanton,38057,Mercer County,Incorporated place,47.318483,-101.381965,1
+ND,3875580,place:ND:3875580,Starkweather city,Starkweather,Starkweather,38071,Ramsey County,Incorporated place,48.452084,-98.878441,1
+ND,3875780,place:ND:3875780,Steele city,Steele,Steele,38043,Kidder County,Incorporated place,46.856801,-99.918126,1
+ND,3876500,place:ND:3876500,Strasburg city,Strasburg,Strasburg,38029,Emmons County,Incorporated place,46.133523,-100.160756,1
+ND,3876620,place:ND:3876620,Streeter city,Streeter,Streeter,38093,Stutsman County,Incorporated place,46.657618,-99.356818,1
+ND,3877180,place:ND:3877180,Surrey city,Surrey,Surrey,38101,Ward County,Incorporated place,48.242967,-101.128325,1
+ND,3877260,place:ND:3877260,Sutton CDP,Sutton,Sutton,38039,Griggs County,Census-designated place,47.403796,-98.441035,1
+ND,3877660,place:ND:3877660,Sykeston city,Sykeston,Sykeston,38103,Wells County,Incorporated place,47.466071,-99.399315,1
+ND,3877980,place:ND:3877980,Tappen city,Tappen,Tappen,38043,Kidder County,Incorporated place,46.871603,-99.627096,1
+ND,3878180,place:ND:3878180,Taylor city,Taylor,Taylor,38089,Stark County,Incorporated place,46.902205,-102.422874,1
+ND,3878660,place:ND:3878660,Thompson city,Thompson,Thompson,38035,Grand Forks County,Incorporated place,47.774612,-97.104357,1
+ND,3878940,place:ND:3878940,Tioga city,Tioga,Tioga,38105,Williams County,Incorporated place,48.394617,-102.94349,1
+ND,3879140,place:ND:3879140,Tolley city,Tolley,Tolley,38075,Renville County,Incorporated place,48.730301,-101.827083,1
+ND,3879180,place:ND:3879180,Tolna city,Tolna,Tolna,38063,Nelson County,Incorporated place,47.825699,-98.438164,1
+ND,3879340,place:ND:3879340,Tower City city,Tower City,Tower City,38017,Cass County,Incorporated place,46.926308,-97.676035,1
+ND,3879420,place:ND:3879420,Towner city,Towner,Towner,38049,McHenry County,Incorporated place,48.34712,-100.406984,1
+ND,3879460,place:ND:3879460,Trenton CDP,Trenton,Trenton,38105,Williams County,Census-designated place,48.069923,-103.843153,1
+ND,3879940,place:ND:3879940,Turtle Lake city,Turtle Lake,Turtle Lake,38055,McLean County,Incorporated place,47.521482,-100.890799,1
+ND,3880140,place:ND:3880140,Tuttle city,Tuttle,Tuttle,38043,Kidder County,Incorporated place,47.144491,-99.993404,1
+ND,3880660,place:ND:3880660,Underwood city,Underwood,Underwood,38055,McLean County,Incorporated place,47.456385,-101.141217,1
+ND,3880860,place:ND:3880860,Upham city,Upham,Upham,38049,McHenry County,Incorporated place,48.58155,-100.728432,1
+ND,3881180,place:ND:3881180,Valley City city,Valley City,Valley City,38003,Barnes County,Incorporated place,46.920858,-98.005237,1
+ND,3881620,place:ND:3881620,Velva city,Velva,Velva,38049,McHenry County,Incorporated place,48.060044,-100.933039,1
+ND,3881700,place:ND:3881700,Venturia city,Venturia,Venturia,38051,McIntosh County,Incorporated place,45.996856,-99.548331,1
+ND,3881900,place:ND:3881900,Verona city,Verona,Verona,38045,LaMoure County,Incorporated place,46.362629,-98.07715,1
+ND,3882380,place:ND:3882380,Voltaire city,Voltaire,Voltaire,38049,McHenry County,Incorporated place,48.018671,-100.844006,1
+ND,3882660,place:ND:3882660,Wahpeton city,Wahpeton,Wahpeton,38077,Richland County,Incorporated place,46.272083,-96.612203,1
+ND,3882780,place:ND:3882780,Walcott city,Walcott,Walcott,38077,Richland County,Incorporated place,46.550472,-96.93755,1
+ND,3882940,place:ND:3882940,Wales city,Wales,Wales,38019,Cavalier County,Incorporated place,48.893432,-98.599177,1
+ND,3882980,place:ND:3882980,Walhalla city,Walhalla,Walhalla,38067,Pembina County,Incorporated place,48.92103,-97.916991,1
+ND,3883580,place:ND:3883580,Warwick city,Warwick,Warwick,38005,Benson County,Incorporated place,47.852876,-98.696873,1
+ND,3883700,place:ND:3883700,Washburn city,Washburn,Washburn,38055,McLean County,Incorporated place,47.294045,-101.027796,1
+ND,3883860,place:ND:3883860,Watford City city,Watford City,Watford City,38053,McKenzie County,Incorporated place,47.802746,-103.264774,1
+ND,3884780,place:ND:3884780,West Fargo city,West Fargo,West Fargo,38017,Cass County,Incorporated place,46.858932,-96.905563,1
+ND,3885020,place:ND:3885020,Westhope city,Westhope,Westhope,38009,Bottineau County,Incorporated place,48.911176,-101.01771,1
+ND,3885180,place:ND:3885180,Wheatland CDP,Wheatland,Wheatland,38017,Cass County,Census-designated place,46.904897,-97.345483,1
+ND,3885540,place:ND:3885540,White Earth city,White Earth,White Earth,38061,Mountrail County,Incorporated place,48.379868,-102.771755,1
+ND,3885660,place:ND:3885660,White Shield CDP,White Shield,White Shield,38055,McLean County,Census-designated place,47.660158,-101.843561,1
+ND,3886020,place:ND:3886020,Wildrose city,Wildrose,Wildrose,38105,Williams County,Incorporated place,48.629953,-103.183693,1
+ND,3886220,place:ND:3886220,Williston city,Williston,Williston,38105,Williams County,Incorporated place,48.189496,-103.649117,1
+ND,3886380,place:ND:3886380,Willow City city,Willow City,Willow City,38009,Bottineau County,Incorporated place,48.604691,-100.293311,1
+ND,3886580,place:ND:3886580,Wilton city,Wilton,Wilton,38055,McLean County,Incorporated place,47.158009,-100.783967,1
+ND,3886620,place:ND:3886620,Wimbledon city,Wimbledon,Wimbledon,38003,Barnes County,Incorporated place,47.169067,-98.458629,1
+ND,3886780,place:ND:3886780,Wing city,Wing,Wing,38015,Burleigh County,Incorporated place,47.142266,-100.282318,1
+ND,3887020,place:ND:3887020,Wishek city,Wishek,Wishek,38051,McIntosh County,Incorporated place,46.255615,-99.554482,1
+ND,3887180,place:ND:3887180,Wolford city,Wolford,Wolford,38069,Pierce County,Incorporated place,48.497483,-99.703815,1
+ND,3887580,place:ND:3887580,Woodworth city,Woodworth,Woodworth,38093,Stutsman County,Incorporated place,47.142169,-99.304151,1
+ND,3887740,place:ND:3887740,Wyndmere city,Wyndmere,Wyndmere,38077,Richland County,Incorporated place,46.264129,-97.131182,1
+ND,3887860,place:ND:3887860,York city,York,York,38005,Benson County,Incorporated place,48.313243,-99.573257,1
+ND,3888020,place:ND:3888020,Ypsilanti CDP,Ypsilanti,Ypsilanti,38093,Stutsman County,Census-designated place,46.783354,-98.561036,1
+ND,3888140,place:ND:3888140,Zap city,Zap,Zap,38057,Mercer County,Incorporated place,47.285093,-101.923718,1
+ND,3888180,place:ND:3888180,Zeeland city,Zeeland,Zeeland,38051,McIntosh County,Incorporated place,45.972944,-99.832442,1

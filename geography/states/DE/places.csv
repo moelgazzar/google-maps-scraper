@@ -1,0 +1,80 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+DE,1001400,place:DE:1001400,Arden village,Arden,Arden,10003,New Castle County,Incorporated place,39.811335,-75.488528,1
+DE,1001530,place:DE:1001530,Ardencroft village,Ardencroft,Ardencroft,10003,New Castle County,Incorporated place,39.8056,-75.486151,1
+DE,1001660,place:DE:1001660,Ardentown village,Ardentown,Ardentown,10003,New Castle County,Incorporated place,39.808365,-75.480958,1
+DE,1004130,place:DE:1004130,Bear CDP,Bear,Bear,10003,New Castle County,Census-designated place,39.618895,-75.680821,1
+DE,1004650,place:DE:1004650,Bellefonte town,Bellefonte,Bellefonte,10003,New Castle County,Incorporated place,39.766836,-75.498286,1
+DE,1005690,place:DE:1005690,Bethany Beach town,Bethany Beach,Bethany Beach,10005,Sussex County,Incorporated place,38.537592,-75.064283,1
+DE,1005820,place:DE:1005820,Bethel town,Bethel,Bethel,10005,Sussex County,Incorporated place,38.571044,-75.619509,1
+DE,1006730,place:DE:1006730,Blades town,Blades,Blades,10005,Sussex County,Incorporated place,38.635226,-75.602516,1
+DE,1007250,place:DE:1007250,Bowers town,Bowers,Bowers,10001,Kent County,Incorporated place,39.061579,-75.40287,1
+DE,1008680,place:DE:1008680,Bridgeville town,Bridgeville,Bridgeville,10005,Sussex County,Incorporated place,38.72515,-75.602811,1
+DE,1009850,place:DE:1009850,Brookside CDP,Brookside,Brookside,10003,New Castle County,Census-designated place,39.666234,-75.706551,1
+DE,1010760,place:DE:1010760,Camden town,Camden,Camden,10001,Kent County,Incorporated place,39.099184,-75.556885,1
+DE,1014660,place:DE:1014660,Cheswold town,Cheswold,Cheswold,10001,Kent County,Incorporated place,39.219805,-75.587818,1
+DE,1015310,place:DE:1015310,Claymont CDP,Claymont,Claymont,10003,New Castle County,Census-designated place,39.803171,-75.460482,1
+DE,1015440,place:DE:1015440,Clayton town,Clayton,Clayton,10001,Kent County,Incorporated place,39.274059,-75.631529,1
+DE,1018950,place:DE:1018950,Dagsboro town,Dagsboro,Dagsboro,10005,Sussex County,Incorporated place,38.546223,-75.24579,1
+DE,1019730,place:DE:1019730,Delaware City city,Delaware City,Delaware City,10003,New Castle County,Incorporated place,39.573785,-75.594605,1
+DE,1020380,place:DE:1020380,Delmar town,Delmar,Delmar,10005,Sussex County,Incorporated place,38.472468,-75.543859,1
+DE,1020900,place:DE:1020900,Dewey Beach town,Dewey Beach,Dewey Beach,10005,Sussex County,Incorporated place,38.695716,-75.075197,1
+DE,1021200,place:DE:1021200,Dover city,Dover,Dover,10001,Kent County,Incorporated place,39.160602,-75.521659,1
+DE,1021387,place:DE:1021387,Dover Base Housing CDP,Dover Base Housing,Dover Base Housing,10001,Kent County,Census-designated place,39.116301,-75.482959,1
+DE,1023240,place:DE:1023240,Edgemoor CDP,Edgemoor,Edgemoor,10003,New Castle County,Census-designated place,39.753895,-75.505521,1
+DE,1024020,place:DE:1024020,Ellendale town,Ellendale,Ellendale,10005,Sussex County,Incorporated place,38.810537,-75.432157,1
+DE,1024540,place:DE:1024540,Elsmere town,Elsmere,Elsmere,10003,New Castle County,Incorporated place,39.738446,-75.594565,1
+DE,1025840,place:DE:1025840,Farmington town,Farmington,Farmington,10001,Kent County,Incorporated place,38.869911,-75.579004,1
+DE,1026620,place:DE:1026620,Felton town,Felton,Felton,10001,Kent County,Incorporated place,39.012443,-75.576357,1
+DE,1026880,place:DE:1026880,Fenwick Island town,Fenwick Island,Fenwick Island,10005,Sussex County,Incorporated place,38.461759,-75.05473,1
+DE,1028310,place:DE:1028310,Frankford town,Frankford,Frankford,10005,Sussex County,Incorporated place,38.521458,-75.233488,1
+DE,1028440,place:DE:1028440,Frederica town,Frederica,Frederica,10001,Kent County,Incorporated place,39.007939,-75.466529,1
+DE,1029090,place:DE:1029090,Georgetown town,Georgetown,Georgetown,10005,Sussex County,Incorporated place,38.68945,-75.387229,1
+DE,1029350,place:DE:1029350,Glasgow CDP,Glasgow,Glasgow,10003,New Castle County,Census-designated place,39.601548,-75.747348,1
+DE,1031430,place:DE:1031430,Greenville CDP,Greenville,Greenville,10003,New Castle County,Census-designated place,39.775067,-75.612033,1
+DE,1031560,place:DE:1031560,Greenwood town,Greenwood,Greenwood,10005,Sussex County,Incorporated place,38.807432,-75.589944,1
+DE,1033120,place:DE:1033120,Harrington city,Harrington,Harrington,10001,Kent County,Incorporated place,38.925653,-75.568856,1
+DE,1033250,place:DE:1033250,Hartly town,Hartly,Hartly,10001,Kent County,Incorporated place,39.168179,-75.712436,1
+DE,1033900,place:DE:1033900,Henlopen Acres town,Henlopen Acres,Henlopen Acres,10005,Sussex County,Incorporated place,38.725559,-75.084979,1
+DE,1034810,place:DE:1034810,Highland Acres CDP,Highland Acres,Highland Acres,10001,Kent County,Census-designated place,39.116265,-75.518288,1
+DE,1035850,place:DE:1035850,Hockessin CDP,Hockessin,Hockessin,10003,New Castle County,Census-designated place,39.783175,-75.677618,1
+DE,1036760,place:DE:1036760,Houston town,Houston,Houston,10001,Kent County,Incorporated place,38.917349,-75.503892,1
+DE,1038710,place:DE:1038710,Kent Acres CDP,Kent Acres,Kent Acres,10001,Kent County,Census-designated place,39.132184,-75.516121,1
+DE,1039100,place:DE:1039100,Kenton town,Kenton,Kenton,10001,Kent County,Incorporated place,39.227279,-75.664831,1
+DE,1041310,place:DE:1041310,Laurel town,Laurel,Laurel,10005,Sussex County,Incorporated place,38.573766,-75.571226,1
+DE,1041700,place:DE:1041700,Leipsic town,Leipsic,Leipsic,10001,Kent County,Incorporated place,39.24051,-75.515486,1
+DE,1041830,place:DE:1041830,Lewes city,Lewes,Lewes,10005,Sussex County,Incorporated place,38.778644,-75.143689,1
+DE,1042480,place:DE:1042480,Lincoln CDP,Lincoln,Lincoln,10005,Sussex County,Census-designated place,38.867788,-75.422463,1
+DE,1042870,place:DE:1042870,Little Creek town,Little Creek,Little Creek,10001,Kent County,Incorporated place,39.165907,-75.448129,1
+DE,1043245,place:DE:1043245,Long Neck CDP,Long Neck,Long Neck,10005,Sussex County,Census-designated place,38.622131,-75.162672,1
+DE,1044430,place:DE:1044430,Magnolia town,Magnolia,Magnolia,10001,Kent County,Incorporated place,39.071409,-75.476042,1
+DE,1047030,place:DE:1047030,Middletown town,Middletown,Middletown,10003,New Castle County,Incorporated place,39.441739,-75.717383,1
+DE,1047420,place:DE:1047420,Milford city,Milford,Milford,10005,Sussex County,Incorporated place,38.909787,-75.422301,1
+DE,1047940,place:DE:1047940,Millsboro town,Millsboro,Millsboro,10005,Sussex County,Incorporated place,38.587333,-75.316356,1
+DE,1048200,place:DE:1048200,Millville town,Millville,Millville,10005,Sussex County,Incorporated place,38.535575,-75.128423,1
+DE,1048330,place:DE:1048330,Milton town,Milton,Milton,10005,Sussex County,Incorporated place,38.772826,-75.314937,1
+DE,1050800,place:DE:1050800,New Castle city,New Castle,New Castle,10003,New Castle County,Incorporated place,39.670017,-75.566519,1
+DE,1050670,place:DE:1050670,Newark city,Newark,Newark,10003,New Castle County,Incorporated place,39.677649,-75.757479,1
+DE,1051190,place:DE:1051190,Newport town,Newport,Newport,10003,New Castle County,Incorporated place,39.714383,-75.604121,1
+DE,1052490,place:DE:1052490,North Star CDP,North Star,North Star,10003,New Castle County,Census-designated place,39.752565,-75.734159,1
+DE,1053920,place:DE:1053920,Ocean View town,Ocean View,Ocean View,10005,Sussex County,Incorporated place,38.537179,-75.096239,1
+DE,1054050,place:DE:1054050,Odessa town,Odessa,Odessa,10003,New Castle County,Incorporated place,39.456455,-75.659626,1
+DE,1056490,place:DE:1056490,Pike Creek CDP,Pike Creek,Pike Creek,10003,New Castle County,Census-designated place,39.748745,-75.694974,1
+DE,1056500,place:DE:1056500,Pike Creek Valley CDP,Pike Creek Valley,Pike Creek Valley,10003,New Castle County,Census-designated place,39.726765,-75.697663,1
+DE,1058600,place:DE:1058600,Port Penn CDP,Port Penn,Port Penn,10003,New Castle County,Census-designated place,39.515236,-75.581358,1
+DE,1060290,place:DE:1060290,Rehoboth Beach city,Rehoboth Beach,Rehoboth Beach,10005,Sussex County,Incorporated place,38.717446,-75.080611,1
+DE,1061265,place:DE:1061265,Rising Sun-Lebanon CDP,Rising Sun-Lebanon,Rising Sun-Lebanon,10001,Kent County,Census-designated place,39.099956,-75.506287,1
+DE,1061480,place:DE:1061480,Riverview CDP,Riverview,Riverview,10001,Kent County,Census-designated place,39.030435,-75.518649,1
+DE,1061720,place:DE:1061720,Rodney Village CDP,Rodney Village,Rodney Village,10001,Kent County,Census-designated place,39.12831,-75.539683,1
+DE,1064320,place:DE:1064320,Seaford city,Seaford,Seaford,10005,Sussex County,Incorporated place,38.658391,-75.614092,1
+DE,1064840,place:DE:1064840,Selbyville town,Selbyville,Selbyville,10005,Sussex County,Incorporated place,38.460938,-75.205643,1
+DE,1067050,place:DE:1067050,Slaughter Beach town,Slaughter Beach,Slaughter Beach,10005,Sussex County,Incorporated place,38.918719,-75.313554,1
+DE,1067310,place:DE:1067310,Smyrna town,Smyrna,Smyrna,10001,Kent County,Incorporated place,39.295295,-75.608707,1
+DE,1067700,place:DE:1067700,South Bethany town,South Bethany,South Bethany,10005,Sussex County,Incorporated place,38.516269,-75.058097,1
+DE,1063800,place:DE:1063800,St. Georges CDP,St. Georges,St. Georges,10003,New Castle County,Census-designated place,39.559592,-75.64896,1
+DE,1072510,place:DE:1072510,Townsend town,Townsend,Townsend,10003,New Castle County,Incorporated place,39.404803,-75.699096,1
+DE,1074330,place:DE:1074330,Viola town,Viola,Viola,10001,Kent County,Incorporated place,39.04293,-75.571458,1
+DE,1077580,place:DE:1077580,Wilmington city,Wilmington,Wilmington,10003,New Castle County,Incorporated place,39.735651,-75.532104,1
+DE,1077840,place:DE:1077840,Wilmington Manor CDP,Wilmington Manor,Wilmington Manor,10003,New Castle County,Census-designated place,39.686026,-75.585009,1
+DE,1080830,place:DE:1080830,Woodside town,Woodside,Woodside,10001,Kent County,Incorporated place,39.071086,-75.567724,1
+DE,1080895,place:DE:1080895,Woodside East CDP,Woodside East,Woodside East,10001,Kent County,Census-designated place,39.067544,-75.537625,1
+DE,1081350,place:DE:1081350,Wyoming town,Wyoming,Wyoming,10001,Kent County,Incorporated place,39.112429,-75.564918,1

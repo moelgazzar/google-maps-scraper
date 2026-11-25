@@ -1,0 +1,498 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+MT,3000175,place:MT:3000175,Absarokee CDP,Absarokee,Absarokee,30095,Stillwater County,Census-designated place,45.527593,-109.455765,1
+MT,3000400,place:MT:3000400,Acton CDP,Acton,Acton,30111,Yellowstone County,Census-designated place,45.928946,-108.678685,1
+MT,3000700,place:MT:3000700,Alberton town,Alberton,Alberton,30061,Mineral County,Incorporated place,47.004437,-114.485283,1
+MT,3000850,place:MT:3000850,Alder CDP,Alder,Alder,30057,Madison County,Census-designated place,45.321591,-112.109216,1
+MT,3001300,place:MT:3001300,Alzada CDP,Alzada,Alzada,30011,Carter County,Census-designated place,45.020549,-104.412787,1
+MT,3001525,place:MT:3001525,Amsterdam CDP,Amsterdam,Amsterdam,30031,Gallatin County,Census-designated place,45.738262,-111.339096,1
+MT,3001675,place:MT:3001675,Anaconda-Deer Lodge County,Anaconda-Deer Lodge County,Anaconda-Deer Lodge County,30023,Deer Lodge County,Incorporated place,46.09471,-113.141668,1
+MT,3002050,place:MT:3002050,Antelope CDP,Antelope,Antelope,30091,Sheridan County,Census-designated place,48.689714,-104.454017,1
+MT,3002350,place:MT:3002350,Argenta CDP,Argenta,Argenta,30001,Beaverhead County,Census-designated place,45.278728,-112.860611,1
+MT,3002425,place:MT:3002425,Arlee CDP,Arlee,Arlee,30047,Lake County,Census-designated place,47.168088,-114.083645,1
+MT,3002800,place:MT:3002800,Ashland CDP,Ashland,Ashland,30087,Rosebud County,Census-designated place,45.597682,-106.297498,1
+MT,3003025,place:MT:3003025,Augusta CDP,Augusta,Augusta,30049,Lewis and Clark County,Census-designated place,47.489329,-112.392158,1
+MT,3003175,place:MT:3003175,Avon CDP,Avon,Avon,30077,Powell County,Census-designated place,46.628653,-112.575587,1
+MT,3003196,place:MT:3003196,Ayers Ranch Colony CDP,Ayers Ranch Colony,Ayers Ranch Colony,30027,Fergus County,Census-designated place,47.051033,-108.945175,1
+MT,3003212,place:MT:3003212,Azure CDP,Azure,Azure,30041,Hill County,Census-designated place,48.305019,-109.807252,1
+MT,3003250,place:MT:3003250,Babb CDP,Babb,Babb,30035,Glacier County,Census-designated place,48.88791,-113.451128,1
+MT,3003400,place:MT:3003400,Bainville town,Bainville,Bainville,30085,Roosevelt County,Incorporated place,48.143994,-104.221054,1
+MT,3003475,place:MT:3003475,Baker city,Baker,Baker,30025,Fallon County,Incorporated place,46.364871,-104.27332,1
+MT,3003625,place:MT:3003625,Ballantine CDP,Ballantine,Ballantine,30111,Yellowstone County,Census-designated place,45.951098,-108.142847,1
+MT,3004150,place:MT:3004150,Basin CDP,Basin,Basin,30043,Jefferson County,Census-designated place,46.283454,-112.287097,1
+MT,3004230,place:MT:3004230,Batavia CDP,Batavia,Batavia,30029,Flathead County,Census-designated place,48.177474,-114.407248,1
+MT,3004410,place:MT:3004410,Bear Dance CDP,Bear Dance,Bear Dance,30047,Lake County,Census-designated place,47.901904,-114.027316,1
+MT,3004300,place:MT:3004300,Bearcreek town,Bearcreek,Bearcreek,30009,Carbon County,Incorporated place,45.160556,-109.157421,1
+MT,3004575,place:MT:3004575,Beaver Creek CDP,Beaver Creek,Beaver Creek,30041,Hill County,Census-designated place,48.543672,-109.806918,1
+MT,3004900,place:MT:3004900,Belfry CDP,Belfry,Belfry,30009,Carbon County,Census-designated place,45.137238,-108.998077,1
+MT,3004975,place:MT:3004975,Belgrade city,Belgrade,Belgrade,30031,Gallatin County,Incorporated place,45.782706,-111.178256,1
+MT,3005050,place:MT:3005050,Belknap CDP,Belknap,Belknap,30089,Sanders County,Census-designated place,47.647314,-115.422132,1
+MT,3005275,place:MT:3005275,Belt town,Belt,Belt,30013,Cascade County,Incorporated place,47.387202,-110.927738,1
+MT,3005650,place:MT:3005650,Biddle CDP,Biddle,Biddle,30075,Powder River County,Census-designated place,45.105066,-105.31155,1
+MT,3005800,place:MT:3005800,Big Arm CDP,Big Arm,Big Arm,30047,Lake County,Census-designated place,47.793609,-114.27003,1
+MT,3006250,place:MT:3006250,Big Sandy town,Big Sandy,Big Sandy,30015,Chouteau County,Incorporated place,48.178561,-110.113341,1
+MT,3006325,place:MT:3006325,Big Sky CDP,Big Sky,Big Sky,30031,Gallatin County,Census-designated place,45.256628,-111.331633,1
+MT,3006410,place:MT:3006410,Big Sky Colony CDP,Big Sky Colony,Big Sky Colony,30035,Glacier County,Census-designated place,48.839229,-112.76846,1
+MT,3006440,place:MT:3006440,Big Stone Colony CDP,Big Stone Colony,Big Stone Colony,30013,Cascade County,Census-designated place,47.400065,-111.209164,1
+MT,3006475,place:MT:3006475,Big Timber city,Big Timber,Big Timber,30097,Sweet Grass County,Incorporated place,45.834782,-109.948266,1
+MT,3005875,place:MT:3005875,Bigfork CDP,Bigfork,Bigfork,30029,Flathead County,Census-designated place,48.084034,-114.053031,1
+MT,3006550,place:MT:3006550,Billings city,Billings,Billings,30111,Yellowstone County,Incorporated place,45.788538,-108.552475,1
+MT,3006815,place:MT:3006815,Birch Creek Colony CDP,Birch Creek Colony,Birch Creek Colony,30073,Pondera County,Census-designated place,48.246506,-112.469648,1
+MT,3006925,place:MT:3006925,Birney CDP,Birney,Birney,30087,Rosebud County,Census-designated place,45.415485,-106.493383,1
+MT,3007150,place:MT:3007150,Black Eagle CDP,Black Eagle,Black Eagle,30013,Cascade County,Census-designated place,47.527739,-111.260008,1
+MT,3007300,place:MT:3007300,Blackfoot CDP,Blackfoot,Blackfoot,30035,Glacier County,Census-designated place,48.577115,-112.873323,1
+MT,3007675,place:MT:3007675,Bloomfield CDP,Bloomfield,Bloomfield,30021,Dawson County,Census-designated place,47.412195,-104.918783,1
+MT,3008162,place:MT:3008162,Boneau CDP,Boneau,Boneau,30015,Chouteau County,Census-designated place,48.295107,-109.873788,1
+MT,3008462,place:MT:3008462,Bonner-West Riverside CDP,Bonner-West Riverside,Bonner-West Riverside,30063,Missoula County,Census-designated place,46.877275,-113.888033,1
+MT,3008575,place:MT:3008575,Boulder city,Boulder,Boulder,30043,Jefferson County,Incorporated place,46.23584,-112.119749,1
+MT,3008725,place:MT:3008725,Box Elder CDP,Box Elder,Box Elder,30041,Hill County,Census-designated place,48.32305,-110.017664,1
+MT,3008800,place:MT:3008800,Boyd CDP,Boyd,Boyd,30009,Carbon County,Census-designated place,45.454067,-109.069661,1
+MT,3008950,place:MT:3008950,Bozeman city,Bozeman,Bozeman,30031,Gallatin County,Incorporated place,45.683919,-111.057553,1
+MT,3009250,place:MT:3009250,Brady CDP,Brady,Brady,30073,Pondera County,Census-designated place,48.027912,-111.844064,1
+MT,3009400,place:MT:3009400,Brandon CDP,Brandon,Brandon,30057,Madison County,Census-designated place,45.466045,-112.133932,1
+MT,3009475,place:MT:3009475,Bridger town,Bridger,"Bridger, Carbon County",30009,Carbon County,Incorporated place,45.294906,-108.916456,1
+MT,3009500,place:MT:3009500,Bridger CDP,Bridger,"Bridger, Gallatin County",30031,Gallatin County,Census-designated place,45.804376,-110.896353,1
+MT,3009700,place:MT:3009700,Broadus town,Broadus,Broadus,30075,Powder River County,Incorporated place,45.443053,-105.408349,1
+MT,3009775,place:MT:3009775,Broadview town,Broadview,Broadview,30111,Yellowstone County,Incorporated place,46.098789,-108.878866,1
+MT,3010000,place:MT:3010000,Brockton CDP,Brockton,Brockton,30085,Roosevelt County,Census-designated place,48.155523,-104.904161,1
+MT,3010075,place:MT:3010075,Brockway CDP,Brockway,Brockway,30055,McCone County,Census-designated place,47.299242,-105.764408,1
+MT,3010150,place:MT:3010150,Brooks CDP,Brooks,Brooks,30027,Fergus County,Census-designated place,47.205297,-109.421139,1
+MT,3010375,place:MT:3010375,Browning CDP,Browning,Browning,30035,Glacier County,Census-designated place,48.556397,-113.01512,1
+MT,3010935,place:MT:3010935,Bull Lake CDP,Bull Lake,Bull Lake,30053,Lincoln County,Census-designated place,48.242394,-115.850469,1
+MT,3011200,place:MT:3011200,Busby CDP,Busby,Busby,30003,Big Horn County,Census-designated place,45.525636,-106.977522,1
+MT,3011397,place:MT:3011397,Butte-Silver Bow (balance),Butte-Silver Bow (balance),Butte-Silver Bow (balance),30093,Silver Bow County,Incorporated place,45.896232,-112.660071,1
+MT,3011500,place:MT:3011500,Bynum CDP,Bynum,Bynum,30099,Teton County,Census-designated place,47.968123,-112.316476,1
+MT,3011800,place:MT:3011800,Camas CDP,Camas,Camas,30089,Sanders County,Census-designated place,47.617922,-114.655991,1
+MT,3011995,place:MT:3011995,Camp Three CDP,Camp Three,Camp Three,30065,Musselshell County,Census-designated place,46.453303,-108.574113,1
+MT,3011999,place:MT:3011999,Camrose Colony CDP,Camrose Colony,Camrose Colony,30101,Toole County,Census-designated place,48.311579,-111.611834,1
+MT,3012025,place:MT:3012025,Canyon Creek CDP,Canyon Creek,Canyon Creek,30049,Lewis and Clark County,Census-designated place,46.805379,-112.254476,1
+MT,3012400,place:MT:3012400,Cardwell CDP,Cardwell,Cardwell,30043,Jefferson County,Census-designated place,45.864856,-111.964746,1
+MT,3012435,place:MT:3012435,Carlton CDP,Carlton,Carlton,30063,Missoula County,Census-designated place,46.691186,-114.062378,1
+MT,3012625,place:MT:3012625,Carter CDP,Carter,Carter,30015,Chouteau County,Census-designated place,47.777825,-110.932759,1
+MT,3012775,place:MT:3012775,Cascade town,Cascade,Cascade,30013,Cascade County,Incorporated place,47.270416,-111.705136,1
+MT,3012783,place:MT:3012783,Cascade Colony CDP,Cascade Colony,Cascade Colony,30013,Cascade County,Census-designated place,47.440964,-111.817769,1
+MT,3013375,place:MT:3013375,Centerville CDP,Centerville,Centerville,30013,Cascade County,Census-designated place,47.384509,-111.143158,1
+MT,3013900,place:MT:3013900,Charlo CDP,Charlo,Charlo,30047,Lake County,Census-designated place,47.442764,-114.172175,1
+MT,3013975,place:MT:3013975,Charlos Heights CDP,Charlos Heights,Charlos Heights,30081,Ravalli County,Census-designated place,46.134516,-114.188541,1
+MT,3014200,place:MT:3014200,Chester town,Chester,Chester,30051,Liberty County,Incorporated place,48.511293,-110.966143,1
+MT,3014575,place:MT:3014575,Chinook city,Chinook,Chinook,30005,Blaine County,Incorporated place,48.590128,-109.23182,1
+MT,3014650,place:MT:3014650,Choteau city,Choteau,Choteau,30099,Teton County,Incorporated place,47.813673,-112.1794,1
+MT,3014875,place:MT:3014875,Churchill CDP,Churchill,Churchill,30031,Gallatin County,Census-designated place,45.749951,-111.310256,1
+MT,3014950,place:MT:3014950,Circle town,Circle,Circle,30055,McCone County,Incorporated place,47.417664,-105.587046,1
+MT,3015100,place:MT:3015100,Clancy CDP,Clancy,Clancy,30043,Jefferson County,Census-designated place,46.449256,-112.002956,1
+MT,3015475,place:MT:3015475,Clinton CDP,Clinton,Clinton,30063,Missoula County,Census-designated place,46.771775,-113.720456,1
+MT,3015550,place:MT:3015550,Clyde Park town,Clyde Park,Clyde Park,30067,Park County,Incorporated place,45.883944,-110.605786,1
+MT,3016000,place:MT:3016000,Coffee Creek CDP,Coffee Creek,Coffee Creek,30027,Fergus County,Census-designated place,47.348978,-110.082617,1
+MT,3016525,place:MT:3016525,Colstrip city,Colstrip,Colstrip,30087,Rosebud County,Incorporated place,45.894514,-106.628419,1
+MT,3016600,place:MT:3016600,Columbia Falls city,Columbia Falls,Columbia Falls,30029,Flathead County,Incorporated place,48.371476,-114.191834,1
+MT,3016825,place:MT:3016825,Columbus town,Columbus,Columbus,30095,Stillwater County,Incorporated place,45.635966,-109.248784,1
+MT,3017050,place:MT:3017050,Condon CDP,Condon,Condon,30063,Missoula County,Census-designated place,47.534413,-113.691065,1
+MT,3017200,place:MT:3017200,Conner CDP,Conner,Conner,30081,Ravalli County,Census-designated place,45.925791,-114.133474,1
+MT,3017275,place:MT:3017275,Conrad city,Conrad,Conrad,30073,Pondera County,Incorporated place,48.174083,-111.946593,1
+MT,3017350,place:MT:3017350,Cooke City CDP,Cooke City,Cooke City,30067,Park County,Census-designated place,45.01869,-109.9119,1
+MT,3017500,place:MT:3017500,Coram CDP,Coram,Coram,30029,Flathead County,Census-designated place,48.43062,-114.046814,1
+MT,3017725,place:MT:3017725,Corvallis CDP,Corvallis,Corvallis,30081,Ravalli County,Census-designated place,46.313952,-114.111708,1
+MT,3017800,place:MT:3017800,Corwin Springs CDP,Corwin Springs,Corwin Springs,30067,Park County,Census-designated place,45.131933,-110.799031,1
+MT,3018025,place:MT:3018025,Craig CDP,Craig,Craig,30049,Lewis and Clark County,Census-designated place,47.070565,-111.967987,1
+MT,3018100,place:MT:3018100,Crane CDP,Crane,Crane,30083,Richland County,Census-designated place,47.579369,-104.2387,1
+MT,3018250,place:MT:3018250,Crow Agency CDP,Crow Agency,Crow Agency,30003,Big Horn County,Census-designated place,45.602651,-107.459154,1
+MT,3018475,place:MT:3018475,Culbertson town,Culbertson,Culbertson,30085,Roosevelt County,Incorporated place,48.14511,-104.516254,1
+MT,3018700,place:MT:3018700,Custer CDP,Custer,Custer,30111,Yellowstone County,Census-designated place,46.129227,-107.555549,1
+MT,3018775,place:MT:3018775,Cut Bank city,Cut Bank,Cut Bank,30035,Glacier County,Incorporated place,48.634097,-112.330068,1
+MT,3018850,place:MT:3018850,Cyr CDP,Cyr,Cyr,30061,Mineral County,Census-designated place,47.00032,-114.587727,1
+MT,3019225,place:MT:3019225,Danvers CDP,Danvers,Danvers,30027,Fergus County,Census-designated place,47.228328,-109.713053,1
+MT,3019300,place:MT:3019300,Darby town,Darby,Darby,30081,Ravalli County,Incorporated place,46.024549,-114.179745,1
+MT,3019525,place:MT:3019525,Dayton CDP,Dayton,Dayton,30047,Lake County,Census-designated place,47.864867,-114.276849,1
+MT,3019675,place:MT:3019675,De Borgia CDP,De Borgia,De Borgia,30061,Mineral County,Census-designated place,47.370104,-115.321026,1
+MT,3019825,place:MT:3019825,Deer Lodge city,Deer Lodge,Deer Lodge,30077,Powell County,Incorporated place,46.398485,-112.732737,1
+MT,3019800,place:MT:3019800,Deerfield Colony CDP,Deerfield Colony,Deerfield Colony,30027,Fergus County,Census-designated place,47.257096,-109.676865,1
+MT,3020050,place:MT:3020050,Dell CDP,Dell,Dell,30001,Beaverhead County,Census-designated place,44.726755,-112.696894,1
+MT,3020425,place:MT:3020425,Denton town,Denton,Denton,30027,Fergus County,Incorporated place,47.322179,-109.94851,1
+MT,3020725,place:MT:3020725,Dewey CDP,Dewey,Dewey,30001,Beaverhead County,Census-designated place,45.775444,-112.852945,1
+MT,3020800,place:MT:3020800,Dillon city,Dillon,Dillon,30001,Beaverhead County,Incorporated place,45.218102,-112.634521,1
+MT,3021025,place:MT:3021025,Dodson town,Dodson,Dodson,30071,Phillips County,Incorporated place,48.394106,-108.245044,1
+MT,3021850,place:MT:3021850,Drummond town,Drummond,Drummond,30039,Granite County,Incorporated place,46.666585,-113.147042,1
+MT,3022130,place:MT:3022130,Duncan Ranch Colony CDP,Duncan Ranch Colony,Duncan Ranch Colony,30107,Wheatland County,Census-designated place,46.441832,-110.026266,1
+MT,3022450,place:MT:3022450,Dupuyer CDP,Dupuyer,Dupuyer,30073,Pondera County,Census-designated place,48.182424,-112.474464,1
+MT,3022600,place:MT:3022600,Dutton town,Dutton,Dutton,30099,Teton County,Incorporated place,47.847539,-111.714305,1
+MT,3022655,place:MT:3022655,Eagle Creek Colony CDP,Eagle Creek Colony,Eagle Creek Colony,30051,Liberty County,Census-designated place,48.702124,-111.203113,1
+MT,3022943,place:MT:3022943,East End Colony CDP,East End Colony,East End Colony,30041,Hill County,Census-designated place,48.751857,-109.546587,1
+MT,3022985,place:MT:3022985,East Glacier Park Village CDP,East Glacier Park Village,East Glacier Park Village,30035,Glacier County,Census-designated place,48.445916,-113.223498,1
+MT,3023125,place:MT:3023125,East Helena city,East Helena,East Helena,30049,Lewis and Clark County,Incorporated place,46.584312,-111.921116,1
+MT,3023168,place:MT:3023168,East Malta Colony CDP,East Malta Colony,East Malta Colony,30071,Phillips County,Census-designated place,48.350583,-107.610802,1
+MT,3023200,place:MT:3023200,East Missoula CDP,East Missoula,East Missoula,30063,Missoula County,Census-designated place,46.880849,-113.947243,1
+MT,3023500,place:MT:3023500,Edgar CDP,Edgar,Edgar,30009,Carbon County,Census-designated place,45.459312,-108.858789,1
+MT,3023650,place:MT:3023650,Ekalaka town,Ekalaka,Ekalaka,30011,Carter County,Incorporated place,45.889207,-104.551683,1
+MT,3023865,place:MT:3023865,Elkhorn CDP,Elkhorn,Elkhorn,30043,Jefferson County,Census-designated place,46.28431,-111.948837,1
+MT,3023950,place:MT:3023950,Elliston CDP,Elliston,Elliston,30077,Powell County,Census-designated place,46.558694,-112.463842,1
+MT,3024100,place:MT:3024100,Elmo CDP,Elmo,Elmo,30047,Lake County,Census-designated place,47.829024,-114.348349,1
+MT,3024325,place:MT:3024325,Emigrant CDP,Emigrant,Emigrant,30067,Park County,Census-designated place,45.384217,-110.756888,1
+MT,3024475,place:MT:3024475,Ennis town,Ennis,Ennis,30057,Madison County,Incorporated place,45.346104,-111.732095,1
+MT,3024700,place:MT:3024700,Essex CDP,Essex,Essex,30029,Flathead County,Census-designated place,48.284739,-113.610274,1
+MT,3024850,place:MT:3024850,Eureka town,Eureka,Eureka,30053,Lincoln County,Incorporated place,48.878951,-115.049175,1
+MT,3025000,place:MT:3025000,Evaro CDP,Evaro,Evaro,30063,Missoula County,Census-designated place,47.073949,-114.025975,1
+MT,3025075,place:MT:3025075,Evergreen CDP,Evergreen,Evergreen,30029,Flathead County,Census-designated place,48.229205,-114.271655,1
+MT,3025245,place:MT:3025245,Fair Haven Colony CDP,Fair Haven Colony,Fair Haven Colony,30013,Cascade County,Census-designated place,47.404077,-111.629437,1
+MT,3025225,place:MT:3025225,Fairfield town,Fairfield,Fairfield,30099,Teton County,Incorporated place,47.615368,-111.981291,1
+MT,3025300,place:MT:3025300,Fairview town,Fairview,Fairview,30083,Richland County,Incorporated place,47.852026,-104.050894,1
+MT,3025375,place:MT:3025375,Fallon CDP,Fallon,Fallon,30079,Prairie County,Census-designated place,46.83705,-105.127496,1
+MT,3026226,place:MT:3026226,Finley Point CDP,Finley Point,Finley Point,30047,Lake County,Census-designated place,47.749082,-114.075827,1
+MT,3026575,place:MT:3026575,Fishtail CDP,Fishtail,Fishtail,30095,Stillwater County,Census-designated place,45.448071,-109.508429,1
+MT,3026733,place:MT:3026733,Flat Willow Colony CDP,Flat Willow Colony,Flat Willow Colony,30065,Musselshell County,Census-designated place,46.725166,-108.488203,1
+MT,3026800,place:MT:3026800,Flaxville town,Flaxville,Flaxville,30019,Daniels County,Incorporated place,48.804486,-105.173629,1
+MT,3026950,place:MT:3026950,Florence CDP,Florence,Florence,30081,Ravalli County,Census-designated place,46.634486,-114.081347,1
+MT,3027025,place:MT:3027025,Floweree CDP,Floweree,Floweree,30015,Chouteau County,Census-designated place,47.724803,-111.025259,1
+MT,3027360,place:MT:3027360,Fords Creek Colony CDP,Fords Creek Colony,Fords Creek Colony,30027,Fergus County,Census-designated place,47.131036,-108.916691,1
+MT,3027595,place:MT:3027595,Forest Hill Village CDP,Forest Hill Village,Forest Hill Village,30029,Flathead County,Census-designated place,48.118996,-114.26716,1
+MT,3027700,place:MT:3027700,Forsyth city,Forsyth,Forsyth,30087,Rosebud County,Incorporated place,46.267882,-106.672587,1
+MT,3027850,place:MT:3027850,Fort Belknap Agency CDP,Fort Belknap Agency,Fort Belknap Agency,30005,Blaine County,Census-designated place,48.430119,-108.679958,1
+MT,3028000,place:MT:3028000,Fort Benton city,Fort Benton,Fort Benton,30015,Chouteau County,Incorporated place,47.828821,-110.656104,1
+MT,3028450,place:MT:3028450,Fort Peck town,Fort Peck,Fort Peck,30105,Valley County,Incorporated place,48.00705,-106.455199,1
+MT,3028600,place:MT:3028600,Fort Shaw CDP,Fort Shaw,Fort Shaw,30013,Cascade County,Census-designated place,47.496885,-111.819344,1
+MT,3028650,place:MT:3028650,Fort Smith CDP,Fort Smith,Fort Smith,30003,Big Horn County,Census-designated place,45.312798,-107.933937,1
+MT,3028150,place:MT:3028150,Fortine CDP,Fortine,Fortine,30053,Lincoln County,Census-designated place,48.770142,-114.88602,1
+MT,3028725,place:MT:3028725,Forty Mile Colony CDP,Forty Mile Colony,Forty Mile Colony,30003,Big Horn County,Census-designated place,45.282771,-107.356763,1
+MT,3028862,place:MT:3028862,Four Corners CDP,Four Corners,Four Corners,30031,Gallatin County,Census-designated place,45.669776,-111.178408,1
+MT,3029050,place:MT:3029050,Fox CDP,Fox,Fox,30009,Carbon County,Census-designated place,45.288417,-109.212489,1
+MT,3029087,place:MT:3029087,Fox Lake CDP,Fox Lake,Fox Lake,30083,Richland County,Census-designated place,47.685655,-104.630654,1
+MT,3029275,place:MT:3029275,Frazer CDP,Frazer,Frazer,30105,Valley County,Census-designated place,48.048928,-106.048524,1
+MT,3029350,place:MT:3029350,Frenchtown CDP,Frenchtown,Frenchtown,30063,Missoula County,Census-designated place,47.028011,-114.246192,1
+MT,3029500,place:MT:3029500,Froid town,Froid,Froid,30085,Roosevelt County,Incorporated place,48.338363,-104.491711,1
+MT,3029575,place:MT:3029575,Fromberg town,Fromberg,Fromberg,30009,Carbon County,Incorporated place,45.393546,-108.901543,1
+MT,3029875,place:MT:3029875,Gallatin Gateway CDP,Gallatin Gateway,Gallatin Gateway,30031,Gallatin County,Census-designated place,45.587809,-111.194587,1
+MT,3029885,place:MT:3029885,Gallatin River Ranch CDP,Gallatin River Ranch,Gallatin River Ranch,30031,Gallatin County,Census-designated place,45.902112,-111.329442,1
+MT,3029950,place:MT:3029950,Gardiner CDP,Gardiner,Gardiner,30067,Park County,Census-designated place,45.052509,-110.737775,1
+MT,3030175,place:MT:3030175,Garrison CDP,Garrison,Garrison,30077,Powell County,Census-designated place,46.540193,-112.816758,1
+MT,3030400,place:MT:3030400,Geraldine town,Geraldine,Geraldine,30015,Chouteau County,Incorporated place,47.602016,-110.266733,1
+MT,3030550,place:MT:3030550,Geyser CDP,Geyser,Geyser,30045,Judith Basin County,Census-designated place,47.263323,-110.492693,1
+MT,3030625,place:MT:3030625,Gibson Flats CDP,Gibson Flats,Gibson Flats,30013,Cascade County,Census-designated place,47.464025,-111.240439,1
+MT,3030700,place:MT:3030700,Gildford CDP,Gildford,Gildford,30041,Hill County,Census-designated place,48.573724,-110.307094,1
+MT,3030704,place:MT:3030704,Gildford Colony CDP,Gildford Colony,Gildford Colony,30041,Hill County,Census-designated place,48.80251,-110.284339,1
+MT,3030750,place:MT:3030750,Gilman CDP,Gilman,Gilman,30049,Lewis and Clark County,Census-designated place,47.509302,-112.357797,1
+MT,3030925,place:MT:3030925,Glacier Colony CDP,Glacier Colony,Glacier Colony,30035,Glacier County,Census-designated place,48.830359,-112.214975,1
+MT,3031075,place:MT:3031075,Glasgow city,Glasgow,Glasgow,30105,Valley County,Incorporated place,48.199027,-106.632077,1
+MT,3031375,place:MT:3031375,Glen CDP,Glen,Glen,30001,Beaverhead County,Census-designated place,45.478905,-112.692001,1
+MT,3031418,place:MT:3031418,Glendale Colony CDP,Glendale Colony,Glendale Colony,30035,Glacier County,Census-designated place,48.840885,-112.544219,1
+MT,3031450,place:MT:3031450,Glendive city,Glendive,Glendive,30021,Dawson County,Incorporated place,47.106473,-104.710856,1
+MT,3031825,place:MT:3031825,Goldcreek CDP,Goldcreek,Goldcreek,30077,Powell County,Census-designated place,46.583775,-112.928444,1
+MT,3031991,place:MT:3031991,Golden Valley Colony CDP,Golden Valley Colony,Golden Valley Colony,30037,Golden Valley County,Census-designated place,46.259244,-109.27341,1
+MT,3032350,place:MT:3032350,Grant CDP,Grant,Grant,30001,Beaverhead County,Census-designated place,45.009632,-113.067458,1
+MT,3032575,place:MT:3032575,Grass Range town,Grass Range,Grass Range,30027,Fergus County,Incorporated place,47.026039,-108.802952,1
+MT,3032800,place:MT:3032800,Great Falls city,Great Falls,Great Falls,30013,Cascade County,Incorporated place,47.502518,-111.29997,1
+MT,3033250,place:MT:3033250,Greycliff CDP,Greycliff,Greycliff,30097,Sweet Grass County,Census-designated place,45.758654,-109.779792,1
+MT,3033625,place:MT:3033625,Hall CDP,Hall,Hall,30039,Granite County,Census-designated place,46.586717,-113.197079,1
+MT,3033775,place:MT:3033775,Hamilton city,Hamilton,Hamilton,30081,Ravalli County,Incorporated place,46.252631,-114.160123,1
+MT,3034110,place:MT:3034110,Happys Inn CDP,Happys Inn,Happys Inn,30053,Lincoln County,Census-designated place,48.058349,-115.126915,1
+MT,3034225,place:MT:3034225,Hardin city,Hardin,Hardin,30003,Big Horn County,Incorporated place,45.742268,-107.608272,1
+MT,3034300,place:MT:3034300,Hardy CDP,Hardy,Hardy,30013,Cascade County,Census-designated place,47.182546,-111.815545,1
+MT,3034375,place:MT:3034375,Harlem city,Harlem,Harlem,30005,Blaine County,Incorporated place,48.531857,-108.784652,1
+MT,3034450,place:MT:3034450,Harlowton city,Harlowton,Harlowton,30107,Wheatland County,Incorporated place,46.436763,-109.834461,1
+MT,3034525,place:MT:3034525,Harrison CDP,Harrison,Harrison,30057,Madison County,Census-designated place,45.704378,-111.784416,1
+MT,3034584,place:MT:3034584,Hartland Colony CDP,Hartland Colony,Hartland Colony,30005,Blaine County,Census-designated place,48.951969,-109.448284,1
+MT,3034825,place:MT:3034825,Haugan CDP,Haugan,Haugan,30061,Mineral County,Census-designated place,47.388602,-115.407822,1
+MT,3035050,place:MT:3035050,Havre city,Havre,Havre,30041,Hill County,Incorporated place,48.541911,-109.677956,1
+MT,3035125,place:MT:3035125,Havre North CDP,Havre North,Havre North,30041,Hill County,Census-designated place,48.563238,-109.671249,1
+MT,3035275,place:MT:3035275,Hays CDP,Hays,Hays,30005,Blaine County,Census-designated place,48.010366,-108.660646,1
+MT,3035350,place:MT:3035350,Heart Butte CDP,Heart Butte,Heart Butte,30073,Pondera County,Census-designated place,48.289555,-112.833612,1
+MT,3035435,place:MT:3035435,Hebgen Lake Estates CDP,Hebgen Lake Estates,Hebgen Lake Estates,30031,Gallatin County,Census-designated place,44.76924,-111.190453,1
+MT,3035600,place:MT:3035600,Helena city,Helena,Helena,30049,Lewis and Clark County,Incorporated place,46.595465,-112.018746,1
+MT,3035622,place:MT:3035622,Helena Flats CDP,Helena Flats,Helena Flats,30029,Flathead County,Census-designated place,48.278644,-114.23639,1
+MT,3035628,place:MT:3035628,Helena Valley Northeast CDP,Helena Valley Northeast,Helena Valley Northeast,30049,Lewis and Clark County,Census-designated place,46.70625,-111.940539,1
+MT,3035631,place:MT:3035631,Helena Valley Northwest CDP,Helena Valley Northwest,Helena Valley Northwest,30049,Lewis and Clark County,Census-designated place,46.729488,-112.058105,1
+MT,3035634,place:MT:3035634,Helena Valley Southeast CDP,Helena Valley Southeast,Helena Valley Southeast,30049,Lewis and Clark County,Census-designated place,46.62269,-111.900911,1
+MT,3035637,place:MT:3035637,Helena Valley West Central CDP,Helena Valley West Central,Helena Valley West Central,30049,Lewis and Clark County,Census-designated place,46.661299,-112.060059,1
+MT,3035640,place:MT:3035640,Helena West Side CDP,Helena West Side,Helena West Side,30049,Lewis and Clark County,Census-designated place,46.596208,-112.116522,1
+MT,3035725,place:MT:3035725,Helmville CDP,Helmville,Helmville,30077,Powell County,Census-designated place,46.856496,-112.966794,1
+MT,3035875,place:MT:3035875,Heron CDP,Heron,Heron,30089,Sanders County,Census-designated place,48.063758,-115.98022,1
+MT,3035912,place:MT:3035912,Herron CDP,Herron,Herron,30041,Hill County,Census-designated place,48.53412,-109.771785,1
+MT,3036055,place:MT:3036055,Hidden Lake Colony CDP,Hidden Lake Colony,Hidden Lake Colony,30035,Glacier County,Census-designated place,48.598743,-112.603149,1
+MT,3036250,place:MT:3036250,Highwood CDP,Highwood,Highwood,30015,Chouteau County,Census-designated place,47.599181,-110.769605,1
+MT,3036325,place:MT:3036325,Hilger CDP,Hilger,Hilger,30027,Fergus County,Census-designated place,47.255714,-109.357223,1
+MT,3036333,place:MT:3036333,Hilldale Colony CDP,Hilldale Colony,Hilldale Colony,30041,Hill County,Census-designated place,48.803513,-109.783241,1
+MT,3036385,place:MT:3036385,Hillside Colony CDP,Hillside Colony,Hillside Colony,30101,Toole County,Census-designated place,48.978855,-112.070364,1
+MT,3036400,place:MT:3036400,Hingham town,Hingham,Hingham,30041,Hill County,Incorporated place,48.555449,-110.421288,1
+MT,3036475,place:MT:3036475,Hinsdale CDP,Hinsdale,Hinsdale,30105,Valley County,Census-designated place,48.396336,-107.088893,1
+MT,3036700,place:MT:3036700,Hobson city,Hobson,Hobson,30045,Judith Basin County,Incorporated place,46.999431,-109.873339,1
+MT,3036925,place:MT:3036925,Hogeland CDP,Hogeland,Hogeland,30005,Blaine County,Census-designated place,48.854668,-108.662401,1
+MT,3037450,place:MT:3037450,Homestead CDP,Homestead,Homestead,30091,Sheridan County,Census-designated place,48.420209,-104.536949,1
+MT,3037710,place:MT:3037710,Horizon Colony CDP,Horizon Colony,Horizon Colony,30035,Glacier County,Census-designated place,48.716716,-112.227609,1
+MT,3037825,place:MT:3037825,Hot Springs town,Hot Springs,Hot Springs,30089,Sanders County,Incorporated place,47.608861,-114.668879,1
+MT,3038125,place:MT:3038125,Hungry Horse CDP,Hungry Horse,Hungry Horse,30029,Flathead County,Census-designated place,48.383808,-114.064861,1
+MT,3038200,place:MT:3038200,Huntley CDP,Huntley,Huntley,30111,Yellowstone County,Census-designated place,45.900144,-108.304442,1
+MT,3038275,place:MT:3038275,Huson CDP,Huson,Huson,30063,Missoula County,Census-designated place,47.033243,-114.340786,1
+MT,3038350,place:MT:3038350,Hysham town,Hysham,Hysham,30103,Treasure County,Incorporated place,46.290921,-107.230499,1
+MT,3038480,place:MT:3038480,Indian Springs CDP,Indian Springs,Indian Springs,30053,Lincoln County,Census-designated place,48.957793,-115.043725,1
+MT,3038725,place:MT:3038725,Inverness CDP,Inverness,Inverness,30041,Hill County,Census-designated place,48.559865,-110.710077,1
+MT,3038950,place:MT:3038950,Ismay town,Ismay,Ismay,30017,Custer County,Incorporated place,46.500227,-104.792931,1
+MT,3039025,place:MT:3039025,Jackson CDP,Jackson,Jackson,30001,Beaverhead County,Census-designated place,45.367885,-113.409678,1
+MT,3039175,place:MT:3039175,Jardine CDP,Jardine,Jardine,30067,Park County,Census-designated place,45.056491,-110.618573,1
+MT,3039325,place:MT:3039325,Jeffers CDP,Jeffers,Jeffers,30057,Madison County,Census-designated place,45.348143,-111.703659,1
+MT,3039400,place:MT:3039400,Jefferson City CDP,Jefferson City,Jefferson City,30043,Jefferson County,Census-designated place,46.377945,-112.030484,1
+MT,3039627,place:MT:3039627,Jette CDP,Jette,Jette,30047,Lake County,Census-designated place,47.716947,-114.190557,1
+MT,3039700,place:MT:3039700,Joliet town,Joliet,Joliet,30009,Carbon County,Incorporated place,45.484367,-108.972147,1
+MT,3039775,place:MT:3039775,Joplin CDP,Joplin,Joplin,30051,Liberty County,Census-designated place,48.559391,-110.77292,1
+MT,3039925,place:MT:3039925,Jordan town,Jordan,Jordan,30033,Garfield County,Incorporated place,47.321054,-106.909859,1
+MT,3040000,place:MT:3040000,Judith Gap city,Judith Gap,Judith Gap,30107,Wheatland County,Incorporated place,46.679033,-109.753397,1
+MT,3040075,place:MT:3040075,Kalispell city,Kalispell,Kalispell,30029,Flathead County,Incorporated place,48.216152,-114.327645,1
+MT,3040355,place:MT:3040355,Kerr CDP,Kerr,Kerr,30047,Lake County,Census-designated place,47.676439,-114.183,1
+MT,3040525,place:MT:3040525,Kevin town,Kevin,Kevin,30101,Toole County,Incorporated place,48.745649,-111.965771,1
+MT,3040580,place:MT:3040580,Kicking Horse CDP,Kicking Horse,Kicking Horse,30047,Lake County,Census-designated place,47.46115,-114.060264,1
+MT,3040675,place:MT:3040675,Kila CDP,Kila,Kila,30029,Flathead County,Census-designated place,48.121529,-114.476703,1
+MT,3040680,place:MT:3040680,Kilby Butte Colony CDP,Kilby Butte Colony,Kilby Butte Colony,30065,Musselshell County,Census-designated place,46.476203,-108.360375,1
+MT,3040685,place:MT:3040685,King Arthur Park CDP,King Arthur Park,King Arthur Park,30031,Gallatin County,Census-designated place,45.666494,-111.128309,1
+MT,3040718,place:MT:3040718,King Ranch Colony CDP,King Ranch Colony,King Ranch Colony,30027,Fergus County,Census-designated place,47.057223,-109.636196,1
+MT,3040725,place:MT:3040725,Kings Point CDP,Kings Point,Kings Point,30047,Lake County,Census-designated place,47.765756,-114.153269,1
+MT,3040720,place:MT:3040720,Kingsbury Colony CDP,Kingsbury Colony,Kingsbury Colony,30073,Pondera County,Census-designated place,48.304423,-112.484629,1
+MT,3041050,place:MT:3041050,Klein CDP,Klein,Klein,30065,Musselshell County,Census-designated place,46.398261,-108.552585,1
+MT,3041725,place:MT:3041725,Kremlin CDP,Kremlin,Kremlin,30041,Hill County,Census-designated place,48.570659,-110.086127,1
+MT,3041910,place:MT:3041910,Lake Mary Ronan CDP,Lake Mary Ronan,Lake Mary Ronan,30047,Lake County,Census-designated place,47.917229,-114.379118,1
+MT,3041950,place:MT:3041950,Lakeside CDP,Lakeside,Lakeside,30029,Flathead County,Census-designated place,48.018275,-114.231916,1
+MT,3042100,place:MT:3042100,Lakeview CDP,Lakeview,Lakeview,30001,Beaverhead County,Census-designated place,44.60213,-111.812365,1
+MT,3042250,place:MT:3042250,Lame Deer CDP,Lame Deer,Lame Deer,30087,Rosebud County,Census-designated place,45.617651,-106.613362,1
+MT,3042325,place:MT:3042325,Landusky CDP,Landusky,Landusky,30071,Phillips County,Census-designated place,47.898274,-108.619741,1
+MT,3042475,place:MT:3042475,Laredo CDP,Laredo,Laredo,30041,Hill County,Census-designated place,48.430306,-109.885978,1
+MT,3042700,place:MT:3042700,Laurel city,Laurel,Laurel,30111,Yellowstone County,Incorporated place,45.674012,-108.778269,1
+MT,3042850,place:MT:3042850,Lavina town,Lavina,Lavina,30037,Golden Valley County,Incorporated place,46.295015,-108.938808,1
+MT,3043375,place:MT:3043375,Lewistown city,Lewistown,Lewistown,30027,Fergus County,Incorporated place,47.051379,-109.452385,1
+MT,3043400,place:MT:3043400,Lewistown Heights CDP,Lewistown Heights,Lewistown Heights,30027,Fergus County,Census-designated place,47.078383,-109.473528,1
+MT,3043450,place:MT:3043450,Libby city,Libby,Libby,30053,Lincoln County,Incorporated place,48.38638,-115.556368,1
+MT,3043525,place:MT:3043525,Lima town,Lima,Lima,30001,Beaverhead County,Incorporated place,44.638344,-112.591786,1
+MT,3043675,place:MT:3043675,Lincoln CDP,Lincoln,Lincoln,30049,Lewis and Clark County,Census-designated place,46.953382,-112.671497,1
+MT,3043710,place:MT:3043710,Lindisfarne CDP,Lindisfarne,Lindisfarne,30047,Lake County,Census-designated place,47.804775,-114.208303,1
+MT,3043750,place:MT:3043750,Lindsay CDP,Lindsay,Lindsay,30021,Dawson County,Census-designated place,47.224885,-105.152791,1
+MT,3043830,place:MT:3043830,Little Bitterroot Lake CDP,Little Bitterroot Lake,Little Bitterroot Lake,30029,Flathead County,Census-designated place,48.133869,-114.7259,1
+MT,3043835,place:MT:3043835,Little Browning CDP,Little Browning,Little Browning,30035,Glacier County,Census-designated place,48.625599,-112.351313,1
+MT,3043975,place:MT:3043975,Livingston city,Livingston,Livingston,30067,Park County,Incorporated place,45.665629,-110.555706,1
+MT,3044200,place:MT:3044200,Lockwood CDP,Lockwood,Lockwood,30111,Yellowstone County,Census-designated place,45.830531,-108.397127,1
+MT,3044275,place:MT:3044275,Lodge Grass town,Lodge Grass,Lodge Grass,30003,Big Horn County,Incorporated place,45.31426,-107.367783,1
+MT,3044350,place:MT:3044350,Lodge Pole CDP,Lodge Pole,Lodge Pole,30005,Blaine County,Census-designated place,48.027236,-108.551732,1
+MT,3044500,place:MT:3044500,Logan CDP,Logan,Logan,30031,Gallatin County,Census-designated place,45.882911,-111.423854,1
+MT,3044650,place:MT:3044650,Lolo CDP,Lolo,Lolo,30063,Missoula County,Census-designated place,46.7718,-114.108356,1
+MT,3044800,place:MT:3044800,Loma CDP,Loma,Loma,30015,Chouteau County,Census-designated place,47.951118,-110.488611,1
+MT,3044950,place:MT:3044950,Lonepine CDP,Lonepine,Lonepine,30089,Sanders County,Census-designated place,47.692119,-114.639625,1
+MT,3045179,place:MT:3045179,Loring Colony CDP,Loring Colony,Loring Colony,30071,Phillips County,Census-designated place,48.789125,-107.968654,1
+MT,3046150,place:MT:3046150,Luther CDP,Luther,Luther,30009,Carbon County,Census-designated place,45.284963,-109.416132,1
+MT,3047275,place:MT:3047275,Malmstrom AFB CDP,Malmstrom AFB,Malmstrom AFB,30013,Cascade County,Census-designated place,47.505847,-111.182513,1
+MT,3047425,place:MT:3047425,Malta city,Malta,Malta,30071,Phillips County,Incorporated place,48.355497,-107.870227,1
+MT,3047460,place:MT:3047460,Mammoth CDP,Mammoth,Mammoth,30057,Madison County,Census-designated place,45.669171,-112.017694,1
+MT,3047575,place:MT:3047575,Manhattan town,Manhattan,Manhattan,30031,Gallatin County,Incorporated place,45.858626,-111.330283,1
+MT,3047875,place:MT:3047875,Marion CDP,Marion,Marion,30029,Flathead County,Census-designated place,48.086476,-114.679603,1
+MT,3048100,place:MT:3048100,Martin City CDP,Martin City,Martin City,30029,Flathead County,Census-designated place,48.392998,-114.030405,1
+MT,3048175,place:MT:3048175,Martinsdale CDP,Martinsdale,Martinsdale,30059,Meagher County,Census-designated place,46.454741,-110.311974,1
+MT,3048190,place:MT:3048190,Martinsdale Colony CDP,Martinsdale Colony,Martinsdale Colony,30107,Wheatland County,Census-designated place,46.489594,-110.260505,1
+MT,3048250,place:MT:3048250,Marysville CDP,Marysville,Marysville,30049,Lewis and Clark County,Census-designated place,46.750242,-112.302733,1
+MT,3048585,place:MT:3048585,Maverick Mountain CDP,Maverick Mountain,Maverick Mountain,30001,Beaverhead County,Census-designated place,45.418111,-113.110969,1
+MT,3048625,place:MT:3048625,Maxville CDP,Maxville,Maxville,30039,Granite County,Census-designated place,46.476127,-113.235375,1
+MT,3046225,place:MT:3046225,McAllister CDP,McAllister,McAllister,30057,Madison County,Census-designated place,45.436393,-111.725169,1
+MT,3048775,place:MT:3048775,Medicine Lake town,Medicine Lake,Medicine Lake,30091,Sheridan County,Incorporated place,48.5022,-104.501676,1
+MT,3049000,place:MT:3049000,Melstone town,Melstone,Melstone,30065,Musselshell County,Incorporated place,46.598696,-107.868255,1
+MT,3049418,place:MT:3049418,Midway Colony CDP,Midway Colony,Midway Colony,30073,Pondera County,Census-designated place,48.06698,-111.993533,1
+MT,3049525,place:MT:3049525,Miles City city,Miles City,Miles City,30017,Custer County,Incorporated place,46.405823,-105.838944,1
+MT,3049600,place:MT:3049600,Milford Colony CDP,Milford Colony,Milford Colony,30049,Lewis and Clark County,Census-designated place,47.329813,-112.21164,1
+MT,3049750,place:MT:3049750,Miller Colony CDP,Miller Colony,Miller Colony,30099,Teton County,Census-designated place,47.925717,-112.291712,1
+MT,3050200,place:MT:3050200,Missoula city,Missoula,Missoula,30063,Missoula County,Incorporated place,46.874359,-114.026136,1
+MT,3050575,place:MT:3050575,Moccasin CDP,Moccasin,Moccasin,30045,Judith Basin County,Census-designated place,47.052728,-109.908604,1
+MT,3050950,place:MT:3050950,Monarch CDP,Monarch,Monarch,30013,Cascade County,Census-designated place,47.100289,-110.844806,1
+MT,3051175,place:MT:3051175,Montana City CDP,Montana City,Montana City,30043,Jefferson County,Census-designated place,46.52399,-111.933472,1
+MT,3051475,place:MT:3051475,Montaqua CDP,Montaqua,Montaqua,30009,Carbon County,Census-designated place,45.507253,-108.908711,1
+MT,3051550,place:MT:3051550,Moore town,Moore,Moore,30027,Fergus County,Incorporated place,46.974956,-109.695113,1
+MT,3052185,place:MT:3052185,Mountain View Colony CDP,Mountain View Colony,Mountain View Colony,30111,Yellowstone County,Census-designated place,46.068024,-108.721341,1
+MT,3052315,place:MT:3052315,Muddy CDP,Muddy,Muddy,30003,Big Horn County,Census-designated place,45.579773,-106.775353,1
+MT,3052600,place:MT:3052600,Musselshell CDP,Musselshell,Musselshell,30065,Musselshell County,Census-designated place,46.494154,-108.096293,1
+MT,3052900,place:MT:3052900,Nashua town,Nashua,Nashua,30105,Valley County,Incorporated place,48.133551,-106.357118,1
+MT,3053200,place:MT:3053200,Neihart town,Neihart,Neihart,30013,Cascade County,Incorporated place,46.935209,-110.736052,1
+MT,3053476,place:MT:3053476,New Miami Colony CDP,New Miami Colony,New Miami Colony,30073,Pondera County,Census-designated place,48.19117,-112.280423,1
+MT,3053500,place:MT:3053500,New Rockport Colony CDP,New Rockport Colony,New Rockport Colony,30099,Teton County,Census-designated place,47.859798,-112.034807,1
+MT,3053725,place:MT:3053725,Niarada CDP,Niarada,Niarada,30029,Flathead County,Census-designated place,47.830919,-114.55781,1
+MT,3053800,place:MT:3053800,Nibbe CDP,Nibbe,Nibbe,30111,Yellowstone County,Census-designated place,45.981937,-108.02714,1
+MT,3054475,place:MT:3054475,Norris CDP,Norris,Norris,30057,Madison County,Census-designated place,45.573087,-111.691333,1
+MT,3054510,place:MT:3054510,North Browning CDP,North Browning,North Browning,30035,Glacier County,Census-designated place,48.571191,-113.031436,1
+MT,3054684,place:MT:3054684,North Harlem Colony CDP,North Harlem Colony,North Harlem Colony,30005,Blaine County,Census-designated place,48.584343,-108.755576,1
+MT,3054925,place:MT:3054925,Noxon CDP,Noxon,Noxon,30089,Sanders County,Census-designated place,47.985046,-115.770857,1
+MT,3055075,place:MT:3055075,Nye CDP,Nye,Nye,30095,Stillwater County,Census-designated place,45.434026,-109.806906,1
+MT,3055260,place:MT:3055260,Old Agency CDP,Old Agency,Old Agency,30089,Sanders County,Census-designated place,47.325186,-114.297499,1
+MT,3055450,place:MT:3055450,Olney CDP,Olney,Olney,30029,Flathead County,Census-designated place,48.547036,-114.57262,1
+MT,3055525,place:MT:3055525,Opheim town,Opheim,Opheim,30105,Valley County,Incorporated place,48.857055,-106.40836,1
+MT,3055675,place:MT:3055675,Orchard Homes CDP,Orchard Homes,Orchard Homes,30063,Missoula County,Census-designated place,46.855196,-114.070327,1
+MT,3056050,place:MT:3056050,Outlook town,Outlook,Outlook,30091,Sheridan County,Incorporated place,48.888784,-104.784914,1
+MT,3056125,place:MT:3056125,Ovando CDP,Ovando,Ovando,30077,Powell County,Census-designated place,47.013874,-113.158819,1
+MT,3056350,place:MT:3056350,Pablo CDP,Pablo,Pablo,30047,Lake County,Census-designated place,47.604269,-114.105684,1
+MT,3056425,place:MT:3056425,Paradise CDP,Paradise,Paradise,30089,Sanders County,Census-designated place,47.384925,-114.795285,1
+MT,3056575,place:MT:3056575,Park City CDP,Park City,Park City,30095,Stillwater County,Census-designated place,45.630946,-108.925311,1
+MT,3056650,place:MT:3056650,Parker School CDP,Parker School,Parker School,30041,Hill County,Census-designated place,48.246797,-109.734237,1
+MT,3056800,place:MT:3056800,Peerless CDP,Peerless,Peerless,30019,Daniels County,Census-designated place,48.78226,-105.830437,1
+MT,3056875,place:MT:3056875,Pendroy CDP,Pendroy,Pendroy,30099,Teton County,Census-designated place,48.073018,-112.299202,1
+MT,3057175,place:MT:3057175,Philipsburg town,Philipsburg,Philipsburg,30039,Granite County,Incorporated place,46.332429,-113.296002,1
+MT,3057475,place:MT:3057475,Piltzville CDP,Piltzville,Piltzville,30063,Missoula County,Census-designated place,46.854729,-113.852662,1
+MT,3057550,place:MT:3057550,Pine Creek CDP,Pine Creek,Pine Creek,30067,Park County,Census-designated place,45.507834,-110.572442,1
+MT,3057700,place:MT:3057700,Pinesdale town,Pinesdale,Pinesdale,30081,Ravalli County,Incorporated place,46.334211,-114.222998,1
+MT,3057775,place:MT:3057775,Pinnacle CDP,Pinnacle,Pinnacle,30029,Flathead County,Census-designated place,48.356718,-113.648313,1
+MT,3057950,place:MT:3057950,Pioneer Junction CDP,Pioneer Junction,Pioneer Junction,30053,Lincoln County,Census-designated place,48.315795,-115.518258,1
+MT,3058150,place:MT:3058150,Plains town,Plains,Plains,30089,Sanders County,Incorporated place,47.460196,-114.884201,1
+MT,3058310,place:MT:3058310,Pleasant Valley Colony CDP,Pleasant Valley Colony,Pleasant Valley Colony,30013,Cascade County,Census-designated place,47.337882,-111.044857,1
+MT,3058375,place:MT:3058375,Plentywood city,Plentywood,Plentywood,30091,Sheridan County,Incorporated place,48.77602,-104.557296,1
+MT,3058450,place:MT:3058450,Plevna town,Plevna,Plevna,30025,Fallon County,Incorporated place,46.421952,-104.521067,1
+MT,3058675,place:MT:3058675,Polebridge CDP,Polebridge,Polebridge,30029,Flathead County,Census-designated place,48.762198,-114.28191,1
+MT,3058750,place:MT:3058750,Polson city,Polson,Polson,30047,Lake County,Incorporated place,47.688463,-114.140743,1
+MT,3058825,place:MT:3058825,Pompeys Pillar CDP,Pompeys Pillar,Pompeys Pillar,30111,Yellowstone County,Census-designated place,45.990644,-107.950376,1
+MT,3058834,place:MT:3058834,Pondera Colony CDP,Pondera Colony,Pondera Colony,30073,Pondera County,Census-designated place,48.239921,-112.418101,1
+MT,3058840,place:MT:3058840,Ponderosa Pines CDP,Ponderosa Pines,Ponderosa Pines,30031,Gallatin County,Census-designated place,46.032333,-111.364147,1
+MT,3058900,place:MT:3058900,Pony CDP,Pony,Pony,30057,Madison County,Census-designated place,45.662844,-111.882579,1
+MT,3058975,place:MT:3058975,Poplar city,Poplar,Poplar,30085,Roosevelt County,Incorporated place,48.110482,-105.196887,1
+MT,3059350,place:MT:3059350,Potomac CDP,Potomac,Potomac,30063,Missoula County,Census-designated place,46.881337,-113.575135,1
+MT,3059500,place:MT:3059500,Power CDP,Power,Power,30099,Teton County,Census-designated place,47.721263,-111.700277,1
+MT,3059650,place:MT:3059650,Prairie Elk Colony CDP,Prairie Elk Colony,Prairie Elk Colony,30055,McCone County,Census-designated place,48.014748,-105.798182,1
+MT,3059725,place:MT:3059725,Pray CDP,Pray,Pray,30067,Park County,Census-designated place,45.416908,-110.648144,1
+MT,3059950,place:MT:3059950,Pryor CDP,Pryor,Pryor,30003,Big Horn County,Census-designated place,45.411419,-108.529992,1
+MT,3060400,place:MT:3060400,Racetrack CDP,Racetrack,Racetrack,30077,Powell County,Census-designated place,46.277036,-112.743623,1
+MT,3060450,place:MT:3060450,Rader Creek CDP,Rader Creek,Rader Creek,30043,Jefferson County,Census-designated place,45.845548,-112.316034,1
+MT,3060475,place:MT:3060475,Radersburg CDP,Radersburg,Radersburg,30007,Broadwater County,Census-designated place,46.196366,-111.631355,1
+MT,3060850,place:MT:3060850,Rapelje CDP,Rapelje,Rapelje,30095,Stillwater County,Census-designated place,45.971984,-109.257959,1
+MT,3061075,place:MT:3061075,Ravalli CDP,Ravalli,Ravalli,30047,Lake County,Census-designated place,47.281299,-114.164365,1
+MT,3061300,place:MT:3061300,Raynesford CDP,Raynesford,Raynesford,30045,Judith Basin County,Census-designated place,47.270065,-110.731932,1
+MT,3061525,place:MT:3061525,Red Lodge city,Red Lodge,Red Lodge,30009,Carbon County,Incorporated place,45.193337,-109.250143,1
+MT,3061675,place:MT:3061675,Redstone CDP,Redstone,Redstone,30091,Sheridan County,Census-designated place,48.821657,-104.943259,1
+MT,3061900,place:MT:3061900,Reed Point CDP,Reed Point,Reed Point,30095,Stillwater County,Census-designated place,45.707085,-109.547281,1
+MT,3062125,place:MT:3062125,Reserve CDP,Reserve,Reserve,30091,Sheridan County,Census-designated place,48.602365,-104.467609,1
+MT,3062200,place:MT:3062200,Rexford town,Rexford,Rexford,30053,Lincoln County,Incorporated place,48.899792,-115.171431,1
+MT,3062230,place:MT:3062230,Rhodes CDP,Rhodes,Rhodes,30029,Flathead County,Census-designated place,48.280673,-114.470993,1
+MT,3062245,place:MT:3062245,Riceville CDP,Riceville,Riceville,30013,Cascade County,Census-designated place,47.220206,-110.926266,1
+MT,3062275,place:MT:3062275,Richey town,Richey,Richey,30021,Dawson County,Incorporated place,47.643903,-105.069598,1
+MT,3062650,place:MT:3062650,Rimini CDP,Rimini,Rimini,30049,Lewis and Clark County,Census-designated place,46.492152,-112.249756,1
+MT,3062825,place:MT:3062825,Rimrock Colony CDP,Rimrock Colony,Rimrock Colony,30101,Toole County,Census-designated place,48.895374,-112.095177,1
+MT,3063042,place:MT:3063042,Riverbend CDP,Riverbend,Riverbend,30061,Mineral County,Census-designated place,47.159023,-114.849125,1
+MT,3063266,place:MT:3063266,Riverview Colony CDP,Riverview Colony,Riverview Colony,30051,Liberty County,Census-designated place,48.182668,-111.031907,1
+MT,3063400,place:MT:3063400,Roberts CDP,Roberts,Roberts,30009,Carbon County,Census-designated place,45.343612,-109.181754,1
+MT,3063590,place:MT:3063590,Rockport Colony CDP,Rockport Colony,Rockport Colony,30099,Teton County,Census-designated place,48.067347,-112.476118,1
+MT,3063700,place:MT:3063700,Rockvale CDP,Rockvale,Rockvale,30009,Carbon County,Census-designated place,45.518668,-108.871298,1
+MT,3063928,place:MT:3063928,Rocky Boy West CDP,Rocky Boy West,Rocky Boy West,30015,Chouteau County,Census-designated place,48.297152,-109.991838,1
+MT,3063900,place:MT:3063900,Rocky Boy's Agency CDP,Rocky Boy's Agency,Rocky Boy's Agency,30041,Hill County,Census-designated place,48.261017,-109.774612,1
+MT,3063940,place:MT:3063940,Rocky Point CDP,Rocky Point,Rocky Point,30047,Lake County,Census-designated place,47.732327,-114.185477,1
+MT,3064075,place:MT:3064075,Rollins CDP,Rollins,Rollins,30047,Lake County,Census-designated place,47.910529,-114.194869,1
+MT,3064150,place:MT:3064150,Ronan city,Ronan,Ronan,30047,Lake County,Incorporated place,47.527398,-114.09968,1
+MT,3064300,place:MT:3064300,Roscoe CDP,Roscoe,Roscoe,30009,Carbon County,Census-designated place,45.351813,-109.493346,1
+MT,3064375,place:MT:3064375,Rosebud CDP,Rosebud,Rosebud,30087,Rosebud County,Census-designated place,46.269874,-106.444935,1
+MT,3064525,place:MT:3064525,Roundup city,Roundup,Roundup,30065,Musselshell County,Incorporated place,46.448335,-108.539687,1
+MT,3064675,place:MT:3064675,Roy CDP,Roy,Roy,30027,Fergus County,Census-designated place,47.334299,-108.959994,1
+MT,3064900,place:MT:3064900,Rudyard CDP,Rudyard,Rudyard,30041,Hill County,Census-designated place,48.559872,-110.550061,1
+MT,3064975,place:MT:3064975,Ryegate town,Ryegate,Ryegate,30037,Golden Valley County,Incorporated place,46.298439,-109.253747,1
+MT,3065050,place:MT:3065050,Saco town,Saco,Saco,30071,Phillips County,Incorporated place,48.45707,-107.341334,1
+MT,3065065,place:MT:3065065,Saddle Butte CDP,Saddle Butte,Saddle Butte,30041,Hill County,Census-designated place,48.523446,-109.64488,1
+MT,3065160,place:MT:3065160,Sage Creek Colony CDP,Sage Creek Colony,Sage Creek Colony,30051,Liberty County,Census-designated place,48.92883,-110.972238,1
+MT,3065875,place:MT:3065875,Saltese CDP,Saltese,Saltese,30061,Mineral County,Census-designated place,47.411399,-115.512056,1
+MT,3065950,place:MT:3065950,Sand Coulee CDP,Sand Coulee,Sand Coulee,30013,Cascade County,Census-designated place,47.402409,-111.172615,1
+MT,3066212,place:MT:3066212,Sangrey CDP,Sangrey,Sangrey,30041,Hill County,Census-designated place,48.281643,-109.816621,1
+MT,3066250,place:MT:3066250,Santa Rita CDP,Santa Rita,Santa Rita,30035,Glacier County,Census-designated place,48.698468,-112.318766,1
+MT,3066317,place:MT:3066317,Sapphire Ridge CDP,Sapphire Ridge,Sapphire Ridge,30045,Judith Basin County,Census-designated place,46.886582,-110.252208,1
+MT,3066550,place:MT:3066550,Savage CDP,Savage,Savage,30083,Richland County,Census-designated place,47.453646,-104.34135,1
+MT,3066925,place:MT:3066925,Scobey city,Scobey,Scobey,30019,Daniels County,Incorporated place,48.790389,-105.420627,1
+MT,3067075,place:MT:3067075,Sedan CDP,Sedan,Sedan,30031,Gallatin County,Census-designated place,45.963337,-110.879303,1
+MT,3067150,place:MT:3067150,Seeley Lake CDP,Seeley Lake,Seeley Lake,30063,Missoula County,Census-designated place,47.170519,-113.458553,1
+MT,3067192,place:MT:3067192,Seville Colony CDP,Seville Colony,Seville Colony,30035,Glacier County,Census-designated place,48.705805,-112.592883,1
+MT,3067225,place:MT:3067225,Shawmut CDP,Shawmut,Shawmut,30107,Wheatland County,Census-designated place,46.344663,-109.512152,1
+MT,3067450,place:MT:3067450,Shelby city,Shelby,Shelby,30101,Toole County,Incorporated place,48.502237,-111.862088,1
+MT,3067525,place:MT:3067525,Shepherd CDP,Shepherd,Shepherd,30111,Yellowstone County,Census-designated place,45.946804,-108.346348,1
+MT,3067600,place:MT:3067600,Sheridan town,Sheridan,Sheridan,30057,Madison County,Incorporated place,45.458822,-112.194618,1
+MT,3067900,place:MT:3067900,Sidney city,Sidney,Sidney,30083,Richland County,Incorporated place,47.715456,-104.167161,1
+MT,3068050,place:MT:3068050,Silesia CDP,Silesia,Silesia,30009,Carbon County,Census-designated place,45.548982,-108.837589,1
+MT,3068425,place:MT:3068425,Silver Gate CDP,Silver Gate,Silver Gate,30067,Park County,Census-designated place,45.019784,-109.982939,1
+MT,3068500,place:MT:3068500,Silver Star CDP,Silver Star,Silver Star,30057,Madison County,Census-designated place,45.687424,-112.285069,1
+MT,3068575,place:MT:3068575,Simms CDP,Simms,Simms,30013,Cascade County,Census-designated place,47.492537,-111.953585,1
+MT,3068985,place:MT:3068985,Sleeping Buffalo CDP,Sleeping Buffalo,Sleeping Buffalo,30071,Phillips County,Census-designated place,48.482535,-107.530166,1
+MT,3069345,place:MT:3069345,Snowslip CDP,Snowslip,Snowslip,30029,Flathead County,Census-designated place,48.264789,-113.445941,1
+MT,3069475,place:MT:3069475,Somers CDP,Somers,Somers,30029,Flathead County,Census-designated place,48.082446,-114.231948,1
+MT,3069680,place:MT:3069680,South Browning CDP,South Browning,South Browning,30035,Glacier County,Census-designated place,48.545794,-113.011629,1
+MT,3069713,place:MT:3069713,South Glastonbury CDP,South Glastonbury,South Glastonbury,30067,Park County,Census-designated place,45.312137,-110.808008,1
+MT,3069725,place:MT:3069725,South Hills CDP,South Hills,South Hills,30043,Jefferson County,Census-designated place,46.556408,-111.997543,1
+MT,3069900,place:MT:3069900,Spokane Creek CDP,Spokane Creek,Spokane Creek,30007,Broadwater County,Census-designated place,46.534304,-111.739126,1
+MT,3070000,place:MT:3070000,Spring Creek Colony CDP,Spring Creek Colony,Spring Creek Colony,30027,Fergus County,Census-designated place,47.153967,-109.620731,1
+MT,3070150,place:MT:3070150,Springdale CDP,Springdale,Springdale,30067,Park County,Census-designated place,45.738115,-110.223542,1
+MT,3070225,place:MT:3070225,Springdale Colony CDP,Springdale Colony,Springdale Colony,30059,Meagher County,Census-designated place,46.46181,-111.019111,1
+MT,3070375,place:MT:3070375,Springhill CDP,Springhill,Springhill,30031,Gallatin County,Census-designated place,45.88418,-111.081733,1
+MT,3070434,place:MT:3070434,Springwater Colony CDP,Springwater Colony,Springwater Colony,30107,Wheatland County,Census-designated place,46.45689,-109.753238,1
+MT,3070600,place:MT:3070600,Square Butte CDP,Square Butte,Square Butte,30015,Chouteau County,Census-designated place,47.514177,-110.199089,1
+MT,3065275,place:MT:3065275,St. Ignatius town,St. Ignatius,St. Ignatius,30047,Lake County,Incorporated place,47.319239,-114.095394,1
+MT,3065400,place:MT:3065400,St. Marie CDP,St. Marie,St. Marie,30105,Valley County,Census-designated place,48.405291,-106.49855,1
+MT,3065425,place:MT:3065425,St. Mary CDP,St. Mary,St. Mary,30035,Glacier County,Census-designated place,48.742911,-113.427496,1
+MT,3065537,place:MT:3065537,St. Pierre CDP,St. Pierre,St. Pierre,30041,Hill County,Census-designated place,48.243927,-109.816089,1
+MT,3065575,place:MT:3065575,St. Regis CDP,St. Regis,St. Regis,30061,Mineral County,Census-designated place,47.30489,-115.103912,1
+MT,3065650,place:MT:3065650,St. Xavier CDP,St. Xavier,St. Xavier,30003,Big Horn County,Census-designated place,45.456956,-107.725022,1
+MT,3070675,place:MT:3070675,Stanford town,Stanford,Stanford,30045,Judith Basin County,Incorporated place,47.152078,-110.219016,1
+MT,3070825,place:MT:3070825,Starr School CDP,Starr School,Starr School,30035,Glacier County,Census-designated place,48.603808,-113.14491,1
+MT,3071200,place:MT:3071200,Stevensville town,Stevensville,Stevensville,30081,Ravalli County,Incorporated place,46.507087,-114.088663,1
+MT,3071350,place:MT:3071350,Stockett CDP,Stockett,Stockett,30013,Cascade County,Census-designated place,47.354264,-111.169624,1
+MT,3071575,place:MT:3071575,Stryker CDP,Stryker,Stryker,30053,Lincoln County,Census-designated place,48.672889,-114.767801,1
+MT,3071800,place:MT:3071800,Sula CDP,Sula,Sula,30081,Ravalli County,Census-designated place,45.846186,-113.957482,1
+MT,3072380,place:MT:3072380,Sun Prairie CDP,Sun Prairie,Sun Prairie,30013,Cascade County,Census-designated place,47.534682,-111.488381,1
+MT,3072475,place:MT:3072475,Sun River CDP,Sun River,Sun River,30013,Cascade County,Census-designated place,47.53054,-111.723988,1
+MT,3072175,place:MT:3072175,Sunburst town,Sunburst,Sunburst,30101,Toole County,Incorporated place,48.873993,-111.901248,1
+MT,3072305,place:MT:3072305,Sunnybrook Colony CDP,Sunnybrook Colony,Sunnybrook Colony,30015,Chouteau County,Census-designated place,48.157311,-110.727032,1
+MT,3072625,place:MT:3072625,Superior town,Superior,Superior,30061,Mineral County,Incorporated place,47.19512,-114.901363,1
+MT,3072660,place:MT:3072660,Surprise Creek Colony CDP,Surprise Creek Colony,Surprise Creek Colony,30045,Judith Basin County,Census-designated place,47.170543,-110.33959,1
+MT,3072850,place:MT:3072850,Swan Lake CDP,Swan Lake,Swan Lake,30047,Lake County,Census-designated place,47.936114,-113.799697,1
+MT,3073075,place:MT:3073075,Sweet Grass CDP,Sweet Grass,Sweet Grass,30101,Toole County,Census-designated place,48.992761,-111.966816,1
+MT,3073165,place:MT:3073165,Sylvanite CDP,Sylvanite,Sylvanite,30053,Lincoln County,Census-designated place,48.706255,-115.874027,1
+MT,3066910,place:MT:3066910,Sčilíp CDP,Sčilíp,Sčilíp,30089,Sanders County,Census-designated place,47.317824,-114.360067,0
+MT,3073675,place:MT:3073675,Terry town,Terry,Terry,30079,Prairie County,Incorporated place,46.792224,-105.312483,1
+MT,3073760,place:MT:3073760,The Silos CDP,The Silos,The Silos,30007,Broadwater County,Census-designated place,46.398457,-111.586567,1
+MT,3073825,place:MT:3073825,Thompson Falls city,Thompson Falls,Thompson Falls,30089,Sanders County,Incorporated place,47.599342,-115.342546,1
+MT,3073975,place:MT:3073975,Three Forks city,Three Forks,Three Forks,30031,Gallatin County,Incorporated place,45.889568,-111.552748,1
+MT,3074500,place:MT:3074500,Toston CDP,Toston,Toston,30007,Broadwater County,Census-designated place,46.161781,-111.448787,1
+MT,3074575,place:MT:3074575,Townsend city,Townsend,Townsend,30007,Broadwater County,Incorporated place,46.319185,-111.519649,1
+MT,3074650,place:MT:3074650,Tracy CDP,Tracy,Tracy,30013,Cascade County,Census-designated place,47.413227,-111.151132,1
+MT,3074725,place:MT:3074725,Trego CDP,Trego,Trego,30053,Lincoln County,Census-designated place,48.652724,-114.927968,1
+MT,3074950,place:MT:3074950,Trout Creek CDP,Trout Creek,Trout Creek,30089,Sanders County,Census-designated place,47.834182,-115.583667,1
+MT,3075025,place:MT:3075025,Troy city,Troy,Troy,30053,Lincoln County,Incorporated place,48.459968,-115.890787,1
+MT,3075175,place:MT:3075175,Turah CDP,Turah,Turah,30063,Missoula County,Census-designated place,46.83972,-113.825123,1
+MT,3075250,place:MT:3075250,Turner CDP,Turner,Turner,30005,Blaine County,Census-designated place,48.846932,-108.400522,1
+MT,3075258,place:MT:3075258,Turner Colony CDP,Turner Colony,Turner Colony,30005,Blaine County,Census-designated place,48.763091,-108.430074,1
+MT,3075287,place:MT:3075287,Turtle Lake CDP,Turtle Lake,Turtle Lake,30047,Lake County,Census-designated place,47.670093,-114.085697,1
+MT,3075475,place:MT:3075475,Twin Bridges town,Twin Bridges,Twin Bridges,30057,Madison County,Incorporated place,45.542889,-112.334091,1
+MT,3075550,place:MT:3075550,Twin Creeks CDP,Twin Creeks,Twin Creeks,30063,Missoula County,Census-designated place,46.910597,-113.726649,1
+MT,3075590,place:MT:3075590,Twin Hills Colony CDP,Twin Hills Colony,Twin Hills Colony,30015,Chouteau County,Census-designated place,48.016847,-111.069779,1
+MT,3075700,place:MT:3075700,Twodot CDP,Twodot,Twodot,30107,Wheatland County,Census-designated place,46.422263,-110.072719,1
+MT,3075775,place:MT:3075775,Ulm CDP,Ulm,Ulm,30013,Cascade County,Census-designated place,47.421366,-111.523324,1
+MT,3075905,place:MT:3075905,Unionville CDP,Unionville,Unionville,30049,Lewis and Clark County,Census-designated place,46.546396,-112.085351,1
+MT,3076075,place:MT:3076075,Utica CDP,Utica,Utica,30045,Judith Basin County,Census-designated place,46.96781,-110.093499,1
+MT,3076225,place:MT:3076225,Valier town,Valier,Valier,30073,Pondera County,Incorporated place,48.305542,-112.252221,1
+MT,3076675,place:MT:3076675,Vaughn CDP,Vaughn,Vaughn,30013,Cascade County,Census-designated place,47.552324,-111.560861,1
+MT,3076900,place:MT:3076900,Victor CDP,Victor,Victor,30081,Ravalli County,Census-designated place,46.416122,-114.149243,1
+MT,3076975,place:MT:3076975,Vida CDP,Vida,Vida,30055,McCone County,Census-designated place,47.833906,-105.492532,1
+MT,3077125,place:MT:3077125,Virginia City town,Virginia City,Virginia City,30057,Madison County,Incorporated place,45.296201,-111.936889,1
+MT,3077650,place:MT:3077650,Walkerville town,Walkerville,Walkerville,30093,Silver Bow County,Incorporated place,46.03659,-112.539545,1
+MT,3078143,place:MT:3078143,Warm Spring Creek CDP,Warm Spring Creek,Warm Spring Creek,30027,Fergus County,Census-designated place,47.184749,-109.282617,1
+MT,3078775,place:MT:3078775,Weeksville CDP,Weeksville,Weeksville,30089,Sanders County,Census-designated place,47.530883,-115.008233,1
+MT,3079075,place:MT:3079075,West Glacier CDP,West Glacier,West Glacier,30029,Flathead County,Census-designated place,48.495758,-114.001991,1
+MT,3079086,place:MT:3079086,West Glendive CDP,West Glendive,West Glendive,30021,Dawson County,Census-designated place,47.106242,-104.7541,1
+MT,3079098,place:MT:3079098,West Havre CDP,West Havre,West Havre,30041,Hill County,Census-designated place,48.547012,-109.731014,1
+MT,3079105,place:MT:3079105,West Kootenai CDP,West Kootenai,West Kootenai,30053,Lincoln County,Census-designated place,48.963166,-115.219266,1
+MT,3079525,place:MT:3079525,West Yellowstone town,West Yellowstone,West Yellowstone,30031,Gallatin County,Incorporated place,44.662183,-111.107022,1
+MT,3078925,place:MT:3078925,Westby town,Westby,Westby,30091,Sheridan County,Incorporated place,48.870503,-104.057083,1
+MT,3079695,place:MT:3079695,Wheatland CDP,Wheatland,Wheatland,30007,Broadwater County,Census-designated place,45.962449,-111.576998,1
+MT,3079935,place:MT:3079935,White Haven CDP,White Haven,White Haven,30053,Lincoln County,Census-designated place,48.347765,-115.515999,1
+MT,3080050,place:MT:3080050,White Sulphur Springs city,White Sulphur Springs,White Sulphur Springs,30059,Meagher County,Incorporated place,46.545302,-110.903887,1
+MT,3079825,place:MT:3079825,Whitefish city,Whitefish,Whitefish,30029,Flathead County,Incorporated place,48.43731,-114.346795,1
+MT,3079900,place:MT:3079900,Whitehall town,Whitehall,Whitehall,30043,Jefferson County,Incorporated place,45.870987,-112.097584,1
+MT,3080125,place:MT:3080125,Whitetail CDP,Whitetail,Whitetail,30019,Daniels County,Census-designated place,48.896517,-105.161391,1
+MT,3080200,place:MT:3080200,Whitewater CDP,Whitewater,Whitewater,30071,Phillips County,Census-designated place,48.763471,-107.630245,1
+MT,3080275,place:MT:3080275,Whitlash CDP,Whitlash,Whitlash,30051,Liberty County,Census-designated place,48.908931,-111.251946,1
+MT,3080350,place:MT:3080350,Wibaux town,Wibaux,Wibaux,30109,Wibaux County,Incorporated place,46.986574,-104.190043,1
+MT,3080800,place:MT:3080800,Willow Creek CDP,Willow Creek,Willow Creek,30031,Gallatin County,Census-designated place,45.80967,-111.648915,1
+MT,3080875,place:MT:3080875,Wilsall CDP,Wilsall,Wilsall,30067,Park County,Census-designated place,45.984326,-110.660395,1
+MT,3080950,place:MT:3080950,Windham CDP,Windham,Windham,30045,Judith Basin County,Census-designated place,47.078119,-110.138656,1
+MT,3080975,place:MT:3080975,Wineglass CDP,Wineglass,Wineglass,30067,Park County,Census-designated place,45.628015,-110.62334,1
+MT,3081025,place:MT:3081025,Winifred town,Winifred,Winifred,30027,Fergus County,Incorporated place,47.561314,-109.376464,1
+MT,3081100,place:MT:3081100,Winnett town,Winnett,Winnett,30069,Petroleum County,Incorporated place,47.004301,-108.346612,1
+MT,3081175,place:MT:3081175,Winston CDP,Winston,Winston,30007,Broadwater County,Census-designated place,46.468431,-111.665223,1
+MT,3081250,place:MT:3081250,Wisdom CDP,Wisdom,Wisdom,30001,Beaverhead County,Census-designated place,45.609777,-113.445996,1
+MT,3081325,place:MT:3081325,Wise River CDP,Wise River,Wise River,30001,Beaverhead County,Census-designated place,45.794399,-112.943837,1
+MT,3081400,place:MT:3081400,Wolf Creek CDP,Wolf Creek,Wolf Creek,30049,Lewis and Clark County,Census-designated place,47.005884,-112.070061,1
+MT,3081475,place:MT:3081475,Wolf Point city,Wolf Point,Wolf Point,30085,Roosevelt County,Incorporated place,48.0931,-105.641353,1
+MT,3081700,place:MT:3081700,Woods Bay CDP,Woods Bay,Woods Bay,30047,Lake County,Census-designated place,48.014133,-114.066854,1
+MT,3081925,place:MT:3081925,Worden CDP,Worden,Worden,30111,Yellowstone County,Census-designated place,45.962302,-108.162267,1
+MT,3081980,place:MT:3081980,Wye CDP,Wye,Wye,30063,Missoula County,Census-designated place,46.952404,-114.133103,1
+MT,3082075,place:MT:3082075,Wyola CDP,Wyola,Wyola,30003,Big Horn County,Census-designated place,45.115344,-107.373805,1
+MT,3082130,place:MT:3082130,Yaak CDP,Yaak,Yaak,30053,Lincoln County,Census-designated place,48.829879,-115.686413,1
+MT,3082525,place:MT:3082525,York CDP,York,York,30049,Lewis and Clark County,Census-designated place,46.718035,-111.752901,1
+MT,3082635,place:MT:3082635,Zenith Colony CDP,Zenith Colony,Zenith Colony,30035,Glacier County,Census-designated place,48.868798,-112.342327,1
+MT,3082675,place:MT:3082675,Zortman CDP,Zortman,Zortman,30071,Phillips County,Census-designated place,47.916736,-108.509021,1
+MT,3082750,place:MT:3082750,Zurich CDP,Zurich,Zurich,30005,Blaine County,Census-designated place,48.586011,-109.030243,1

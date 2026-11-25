@@ -1,0 +1,12 @@
+{
+  "Panhandle": {"anchor": "Pensacola", "counties": ["Bay", "Calhoun", "Escambia", "Gulf", "Holmes", "Jackson", "Okaloosa", "Santa Rosa", "Walton", "Washington"]},
+  "Big Bend": {"anchor": "Tallahassee", "counties": ["Columbia", "Dixie", "Franklin", "Gadsden", "Gilchrist", "Hamilton", "Jefferson", "Lafayette", "Leon", "Liberty", "Madison", "Suwannee", "Taylor", "Wakulla"]},
+  "Northeast": {"anchor": "Orange Park", "counties": ["Baker", "Bradford", "Clay", "Duval", "Flagler", "Nassau", "Putnam", "St. Johns", "Union"]},
+  "North Central": {"anchor": "Ocala", "counties": ["Alachua", "Citrus", "Hernando", "Levy", "Marion", "Sumter"]},
+  "Greater Orlando": {"anchor": "Kissimmee", "counties": ["Lake", "Orange", "Osceola", "Seminole", "Volusia"]},
+  "Space and Treasure Coasts": {"anchor": "Port St. Lucie", "counties": ["Brevard", "Indian River", "Martin", "Okeechobee", "St. Lucie"]},
+  "Tampa Bay and Polk": {"anchor": "Lakeland", "counties": ["Hillsborough", "Pasco", "Pinellas", "Polk"]},
+  "Southwest": {"anchor": "Cape Coral", "counties": ["Charlotte", "Collier", "DeSoto", "Glades", "Hardee", "Hendry", "Highlands", "Lee", "Manatee", "Sarasota"]},
+  "Broward and Palm Beach": {"anchor": "Coral Springs", "counties": ["Broward", "Palm Beach"]},
+  "Miami-Dade and Keys": {"anchor": "Hialeah", "counties": ["Miami-Dade", "Monroe"]}
+}

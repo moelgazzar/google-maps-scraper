@@ -1,0 +1,236 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+ID,1600100,place:ID:1600100,Aberdeen city,Aberdeen,Aberdeen,16011,Bingham County,Incorporated place,42.944098,-112.838381,1
+ID,1600280,place:ID:1600280,Acequia city,Acequia,Acequia,16067,Minidoka County,Incorporated place,42.668343,-113.597281,1
+ID,1601000,place:ID:1601000,Albion city,Albion,Albion,16031,Cassia County,Incorporated place,42.409808,-113.580438,1
+ID,1601900,place:ID:1601900,American Falls city,American Falls,American Falls,16077,Power County,Incorporated place,42.782846,-112.854211,1
+ID,1601990,place:ID:1601990,Ammon city,Ammon,Ammon,16019,Bonneville County,Incorporated place,43.475002,-111.959612,1
+ID,1602935,place:ID:1602935,Arbon Valley CDP,Arbon Valley,Arbon Valley,16077,Power County,Census-designated place,42.888404,-112.593186,1
+ID,1603160,place:ID:1603160,Arco city,Arco,Arco,16023,Butte County,Incorporated place,43.631854,-113.301072,1
+ID,1603340,place:ID:1603340,Arimo city,Arimo,Arimo,16005,Bannock County,Incorporated place,42.559861,-112.172021,1
+ID,1603610,place:ID:1603610,Ashton city,Ashton,Ashton,16043,Fremont County,Incorporated place,44.073332,-111.448311,1
+ID,1603700,place:ID:1603700,Athol city,Athol,Athol,16055,Kootenai County,Incorporated place,47.947103,-116.707648,1
+ID,1604105,place:ID:1604105,Avimor CDP,Avimor,Avimor,16001,Ada County,Census-designated place,43.76833,-116.260123,1
+ID,1604420,place:ID:1604420,Bancroft city,Bancroft,Bancroft,16029,Caribou County,Incorporated place,42.719416,-111.882281,1
+ID,1604600,place:ID:1604600,Banks CDP,Banks,Banks,16015,Boise County,Census-designated place,44.072248,-116.131684,1
+ID,1605230,place:ID:1605230,Basalt city,Basalt,Basalt,16011,Bingham County,Incorporated place,43.314443,-112.165044,1
+ID,1606220,place:ID:1606220,Bellevue city,Bellevue,Bellevue,16013,Blaine County,Incorporated place,43.468901,-114.255397,1
+ID,1606670,place:ID:1606670,Bennington CDP,Bennington,Bennington,16007,Bear Lake County,Census-designated place,42.382259,-111.32098,1
+ID,1607840,place:ID:1607840,Blackfoot city,Blackfoot,Blackfoot,16011,Bingham County,Incorporated place,43.193425,-112.346518,1
+ID,1608290,place:ID:1608290,Blanchard CDP,Blanchard,Blanchard,16017,Bonner County,Census-designated place,48.01103,-116.995779,1
+ID,1608470,place:ID:1608470,Bliss city,Bliss,Bliss,16047,Gooding County,Incorporated place,42.924284,-114.947516,1
+ID,1608560,place:ID:1608560,Bloomington city,Bloomington,Bloomington,16007,Bear Lake County,Incorporated place,42.19099,-111.402756,1
+ID,1608830,place:ID:1608830,Boise City city,Boise City,Boise City,16001,Ada County,Incorporated place,43.59805,-116.231596,1
+ID,1609370,place:ID:1609370,Bonners Ferry city,Bonners Ferry,Bonners Ferry,16021,Boundary County,Incorporated place,48.693374,-116.31836,1
+ID,1609730,place:ID:1609730,Bovill city,Bovill,Bovill,16057,Latah County,Incorporated place,46.858679,-116.393551,1
+ID,1610450,place:ID:1610450,Bruneau CDP,Bruneau,Bruneau,16073,Owyhee County,Census-designated place,42.872792,-115.795239,1
+ID,1610810,place:ID:1610810,Buhl city,Buhl,Buhl,16083,Twin Falls County,Incorporated place,42.598362,-114.759536,1
+ID,1611260,place:ID:1611260,Burley city,Burley,Burley,16031,Cassia County,Incorporated place,42.537439,-113.791288,1
+ID,1611710,place:ID:1611710,Butte City city,Butte City,Butte City,16023,Butte County,Incorporated place,43.606988,-113.240739,1
+ID,1612250,place:ID:1612250,Caldwell city,Caldwell,Caldwell,16027,Canyon County,Incorporated place,43.645468,-116.660654,1
+ID,1612520,place:ID:1612520,Cambridge city,Cambridge,Cambridge,16087,Washington County,Incorporated place,44.571567,-116.677823,1
+ID,1612790,place:ID:1612790,Carey city,Carey,Carey,16013,Blaine County,Incorporated place,43.312085,-113.940809,1
+ID,1613150,place:ID:1613150,Cascade city,Cascade,Cascade,16085,Valley County,Incorporated place,44.508761,-116.043627,1
+ID,1613240,place:ID:1613240,Castleford city,Castleford,Castleford,16083,Twin Falls County,Incorporated place,42.520569,-114.871806,1
+ID,1613780,place:ID:1613780,Challis city,Challis,Challis,16037,Custer County,Incorporated place,44.505778,-114.228321,1
+ID,1614680,place:ID:1614680,Chubbuck city,Chubbuck,Chubbuck,16005,Bannock County,Incorporated place,42.927195,-112.458301,1
+ID,1614950,place:ID:1614950,Clark Fork city,Clark Fork,Clark Fork,16017,Bonner County,Incorporated place,48.147257,-116.172199,1
+ID,1615490,place:ID:1615490,Clayton city,Clayton,Clayton,16037,Custer County,Incorporated place,44.259202,-114.383108,1
+ID,1616120,place:ID:1616120,Clifton city,Clifton,Clifton,16041,Franklin County,Incorporated place,42.187286,-112.004596,1
+ID,1616750,place:ID:1616750,Coeur d'Alene city,Coeur d'Alene,Coeur d'Alene,16055,Kootenai County,Incorporated place,47.702887,-116.795799,1
+ID,1617830,place:ID:1617830,Conkling Park CDP,Conkling Park,Conkling Park,16055,Kootenai County,Census-designated place,47.399815,-116.770309,1
+ID,1618010,place:ID:1618010,Coolin CDP,Coolin,Coolin,16017,Bonner County,Census-designated place,48.476019,-116.843985,1
+ID,1618640,place:ID:1618640,Cottonwood city,Cottonwood,Cottonwood,16049,Idaho County,Incorporated place,46.051045,-116.349751,1
+ID,1618820,place:ID:1618820,Council city,Council,Council,16003,Adams County,Incorporated place,44.733195,-116.436837,1
+ID,1619270,place:ID:1619270,Craigmont city,Craigmont,Craigmont,16061,Lewis County,Incorporated place,46.24174,-116.471344,1
+ID,1619720,place:ID:1619720,Crouch city,Crouch,Crouch,16015,Boise County,Incorporated place,44.115362,-115.975813,1
+ID,1619900,place:ID:1619900,Culdesac city,Culdesac,Culdesac,16069,Nez Perce County,Incorporated place,46.374896,-116.670097,1
+ID,1620350,place:ID:1620350,Dalton Gardens city,Dalton Gardens,Dalton Gardens,16055,Kootenai County,Incorporated place,47.733412,-116.767873,1
+ID,1620710,place:ID:1620710,Dayton city,Dayton,Dayton,16041,Franklin County,Incorporated place,42.111162,-111.984792,1
+ID,1621520,place:ID:1621520,De Smet CDP,De Smet,De Smet,16009,Benewah County,Census-designated place,47.14102,-116.911366,1
+ID,1620890,place:ID:1620890,Deary city,Deary,Deary,16057,Latah County,Incorporated place,46.800586,-116.557368,1
+ID,1620980,place:ID:1620980,Declo city,Declo,Declo,16031,Cassia County,Incorporated place,42.519599,-113.628732,1
+ID,1621790,place:ID:1621790,Dietrich city,Dietrich,Dietrich,16063,Lincoln County,Incorporated place,42.912796,-114.266289,1
+ID,1622330,place:ID:1622330,Donnelly city,Donnelly,Donnelly,16085,Valley County,Incorporated place,44.734226,-116.088945,1
+ID,1622510,place:ID:1622510,Dover city,Dover,Dover,16017,Bonner County,Incorporated place,48.259168,-116.609834,1
+ID,1622600,place:ID:1622600,Downey city,Downey,Downey,16005,Bannock County,Incorporated place,42.428917,-112.12332,1
+ID,1622690,place:ID:1622690,Driggs city,Driggs,Driggs,16081,Teton County,Incorporated place,43.729849,-111.105016,1
+ID,1622780,place:ID:1622780,Drummond city,Drummond,Drummond,16043,Fremont County,Incorporated place,43.99959,-111.343358,1
+ID,1622960,place:ID:1622960,Dubois city,Dubois,Dubois,16033,Clark County,Incorporated place,44.171161,-112.228278,1
+ID,1623410,place:ID:1623410,Eagle city,Eagle,Eagle,16001,Ada County,Incorporated place,43.695865,-116.411852,1
+ID,1623680,place:ID:1623680,East Hope city,East Hope,East Hope,16017,Bonner County,Incorporated place,48.237985,-116.284575,1
+ID,1624310,place:ID:1624310,Eden city,Eden,Eden,16053,Jerome County,Incorporated place,42.605309,-114.209087,1
+ID,1625030,place:ID:1625030,Elk City CDP,Elk City,Elk City,16049,Idaho County,Census-designated place,45.820903,-115.441146,1
+ID,1625120,place:ID:1625120,Elk River city,Elk River,Elk River,16035,Clearwater County,Incorporated place,46.783006,-116.181105,1
+ID,1625570,place:ID:1625570,Emmett city,Emmett,Emmett,16045,Gem County,Incorporated place,43.86923,-116.492173,1
+ID,1626290,place:ID:1626290,Fairfield city,Fairfield,Fairfield,16025,Camas County,Incorporated place,43.348045,-114.800826,1
+ID,1627460,place:ID:1627460,Ferdinand city,Ferdinand,Ferdinand,16049,Idaho County,Incorporated place,46.151915,-116.390008,1
+ID,1627550,place:ID:1627550,Fernan Lake Village city,Fernan Lake Village,Fernan Lake Village,16055,Kootenai County,Incorporated place,47.672291,-116.747555,1
+ID,1627640,place:ID:1627640,Fernwood CDP,Fernwood,Fernwood,16009,Benewah County,Census-designated place,47.115096,-116.386485,1
+ID,1627730,place:ID:1627730,Filer city,Filer,Filer,16083,Twin Falls County,Incorporated place,42.565085,-114.606096,1
+ID,1627910,place:ID:1627910,Firth city,Firth,Firth,16011,Bingham County,Incorporated place,43.305768,-112.183437,1
+ID,1628360,place:ID:1628360,Fort Hall CDP,Fort Hall,Fort Hall,16005,Bannock County,Census-designated place,43.014547,-112.45787,1
+ID,1628810,place:ID:1628810,Franklin city,Franklin,Franklin,16041,Franklin County,Incorporated place,42.004635,-111.804656,1
+ID,1628990,place:ID:1628990,Fruitland city,Fruitland,Fruitland,16075,Payette County,Incorporated place,44.016858,-116.920712,1
+ID,1629440,place:ID:1629440,Gannett CDP,Gannett,Gannett,16013,Blaine County,Census-designated place,43.352097,-114.167689,1
+ID,1629620,place:ID:1629620,Garden City city,Garden City,Garden City,16001,Ada County,Incorporated place,43.668297,-116.294389,1
+ID,1629710,place:ID:1629710,Garden Valley CDP,Garden Valley,Garden Valley,16015,Boise County,Census-designated place,44.086277,-115.962054,1
+ID,1630160,place:ID:1630160,Genesee city,Genesee,Genesee,16057,Latah County,Incorporated place,46.551608,-116.928389,1
+ID,1630340,place:ID:1630340,Georgetown city,Georgetown,Georgetown,16007,Bear Lake County,Incorporated place,42.479083,-111.363497,1
+ID,1631690,place:ID:1631690,Glenns Ferry city,Glenns Ferry,Glenns Ferry,16039,Elmore County,Incorporated place,42.950061,-115.308228,1
+ID,1632140,place:ID:1632140,Gooding city,Gooding,Gooding,16047,Gooding County,Incorporated place,42.937046,-114.713519,1
+ID,1632500,place:ID:1632500,Grace city,Grace,Grace,16029,Caribou County,Incorporated place,42.575181,-111.731024,1
+ID,1632770,place:ID:1632770,Grand View city,Grand View,Grand View,16073,Owyhee County,Incorporated place,42.98514,-116.093663,1
+ID,1632950,place:ID:1632950,Grangeville city,Grangeville,Grangeville,16049,Idaho County,Incorporated place,45.925826,-116.121916,1
+ID,1633490,place:ID:1633490,Greenleaf city,Greenleaf,Greenleaf,16027,Canyon County,Incorporated place,43.672607,-116.821443,1
+ID,1634030,place:ID:1634030,Groveland CDP,Groveland,Groveland,16011,Bingham County,Census-designated place,43.223483,-112.37547,1
+ID,1634300,place:ID:1634300,Hagerman city,Hagerman,Hagerman,16047,Gooding County,Incorporated place,42.816016,-114.897681,1
+ID,1634390,place:ID:1634390,Hailey city,Hailey,Hailey,16013,Blaine County,Incorporated place,43.512674,-114.299499,1
+ID,1634750,place:ID:1634750,Hammett CDP,Hammett,Hammett,16039,Elmore County,Census-designated place,42.944114,-115.465521,1
+ID,1634930,place:ID:1634930,Hansen city,Hansen,Hansen,16083,Twin Falls County,Incorporated place,42.531365,-114.301177,1
+ID,1635200,place:ID:1635200,Harrison city,Harrison,Harrison,16055,Kootenai County,Incorporated place,47.469458,-116.808597,1
+ID,1635830,place:ID:1635830,Hauser city,Hauser,Hauser,16055,Kootenai County,Incorporated place,47.764965,-117.014104,1
+ID,1636370,place:ID:1636370,Hayden city,Hayden,Hayden,16055,Kootenai County,Incorporated place,47.768454,-116.801239,1
+ID,1636460,place:ID:1636460,Hayden Lake city,Hayden Lake,Hayden Lake,16055,Kootenai County,Incorporated place,47.76446,-116.756097,1
+ID,1636730,place:ID:1636730,Hazelton city,Hazelton,Hazelton,16053,Jerome County,Incorporated place,42.594712,-114.136611,1
+ID,1637360,place:ID:1637360,Heyburn city,Heyburn,Heyburn,16067,Minidoka County,Incorporated place,42.559978,-113.761729,1
+ID,1637500,place:ID:1637500,Hidden Springs CDP,Hidden Springs,Hidden Springs,16001,Ada County,Census-designated place,43.716541,-116.259415,1
+ID,1638080,place:ID:1638080,Hollister city,Hollister,Hollister,16083,Twin Falls County,Incorporated place,42.352911,-114.583846,1
+ID,1638170,place:ID:1638170,Homedale city,Homedale,Homedale,16073,Owyhee County,Incorporated place,43.613658,-116.937465,1
+ID,1638440,place:ID:1638440,Hope city,Hope,Hope,16017,Bonner County,Incorporated place,48.256328,-116.306192,1
+ID,1638620,place:ID:1638620,Horseshoe Bend city,Horseshoe Bend,Horseshoe Bend,16015,Boise County,Incorporated place,43.915768,-116.199763,1
+ID,1639070,place:ID:1639070,Huetter city,Huetter,Huetter,16055,Kootenai County,Incorporated place,47.703544,-116.850838,1
+ID,1639610,place:ID:1639610,Idaho City city,Idaho City,Idaho City,16015,Boise County,Incorporated place,43.827844,-115.830474,1
+ID,1639700,place:ID:1639700,Idaho Falls city,Idaho Falls,Idaho Falls,16019,Bonneville County,Incorporated place,43.489616,-112.03534,1
+ID,1640330,place:ID:1640330,Inkom city,Inkom,Inkom,16005,Bannock County,Incorporated place,42.796547,-112.254327,1
+ID,1640420,place:ID:1640420,Iona city,Iona,Iona,16019,Bonneville County,Incorporated place,43.528114,-111.931516,1
+ID,1640510,place:ID:1640510,Irwin city,Irwin,Irwin,16019,Bonneville County,Incorporated place,43.40156,-111.272664,1
+ID,1640600,place:ID:1640600,Island Park city,Island Park,Island Park,16043,Fremont County,Incorporated place,44.534191,-111.337788,1
+ID,1641320,place:ID:1641320,Jerome city,Jerome,Jerome,16053,Jerome County,Incorporated place,42.717854,-114.51579,1
+ID,1642130,place:ID:1642130,Juliaetta city,Juliaetta,Juliaetta,16057,Latah County,Incorporated place,46.574737,-116.70808,1
+ID,1642400,place:ID:1642400,Kamiah city,Kamiah,Kamiah,16061,Lewis County,Incorporated place,46.226794,-116.028616,1
+ID,1642580,place:ID:1642580,Kellogg city,Kellogg,Kellogg,16079,Shoshone County,Incorporated place,47.53497,-116.132674,1
+ID,1642760,place:ID:1642760,Kendrick city,Kendrick,Kendrick,16057,Latah County,Incorporated place,46.614183,-116.661271,1
+ID,1643030,place:ID:1643030,Ketchum city,Ketchum,Ketchum,16013,Blaine County,Incorporated place,43.684244,-114.374499,1
+ID,1643570,place:ID:1643570,Kimberly city,Kimberly,Kimberly,16083,Twin Falls County,Incorporated place,42.534924,-114.370678,1
+ID,1644110,place:ID:1644110,Kooskia city,Kooskia,Kooskia,16049,Idaho County,Incorporated place,46.141676,-115.973726,1
+ID,1644200,place:ID:1644200,Kootenai city,Kootenai,Kootenai,16017,Bonner County,Incorporated place,48.311831,-116.517128,1
+ID,1644290,place:ID:1644290,Kuna city,Kuna,Kuna,16001,Ada County,Incorporated place,43.52484,-116.403635,1
+ID,1644560,place:ID:1644560,Laclede CDP,Laclede,Laclede,16017,Bonner County,Census-designated place,48.167129,-116.751565,1
+ID,1645370,place:ID:1645370,Lapwai city,Lapwai,Lapwai,16069,Nez Perce County,Incorporated place,46.403715,-116.804223,1
+ID,1645820,place:ID:1645820,Lava Hot Springs city,Lava Hot Springs,Lava Hot Springs,16005,Bannock County,Incorporated place,42.620107,-112.009902,1
+ID,1645910,place:ID:1645910,Leadore city,Leadore,Leadore,16059,Lemhi County,Incorporated place,44.680046,-113.35922,1
+ID,1646450,place:ID:1646450,Letha CDP,Letha,Letha,16045,Gem County,Census-designated place,43.89289,-116.646256,1
+ID,1646540,place:ID:1646540,Lewiston city,Lewiston,Lewiston,16069,Nez Perce County,Incorporated place,46.39313,-116.993472,1
+ID,1646720,place:ID:1646720,Lewisville city,Lewisville,Lewisville,16051,Jefferson County,Incorporated place,43.695734,-112.013898,1
+ID,1647080,place:ID:1647080,Lincoln CDP,Lincoln,Lincoln,16019,Bonneville County,Census-designated place,43.518526,-111.968195,1
+ID,1647890,place:ID:1647890,Lost River city,Lost River,Lost River,16037,Custer County,Incorporated place,43.688262,-113.635283,1
+ID,1648250,place:ID:1648250,Lowman CDP,Lowman,Lowman,16015,Boise County,Census-designated place,44.071978,-115.6183,1
+ID,1649240,place:ID:1649240,Mackay city,Mackay,Mackay,16037,Custer County,Incorporated place,43.911996,-113.612728,1
+ID,1650140,place:ID:1650140,Malad City city,Malad City,Malad City,16071,Oneida County,Incorporated place,42.189909,-112.249688,1
+ID,1650230,place:ID:1650230,Malta city,Malta,Malta,16031,Cassia County,Incorporated place,42.307532,-113.369737,1
+ID,1650950,place:ID:1650950,Marsing city,Marsing,Marsing,16073,Owyhee County,Incorporated place,43.54636,-116.810422,1
+ID,1648790,place:ID:1648790,McCall city,McCall,McCall,16085,Valley County,Incorporated place,44.908408,-116.112491,1
+ID,1648880,place:ID:1648880,McCammon city,McCammon,McCammon,16005,Bannock County,Incorporated place,42.648236,-112.189394,1
+ID,1651850,place:ID:1651850,Melba city,Melba,Melba,16027,Canyon County,Incorporated place,43.373633,-116.531933,1
+ID,1652030,place:ID:1652030,Menan city,Menan,Menan,16051,Jefferson County,Incorporated place,43.721868,-111.992593,1
+ID,1652120,place:ID:1652120,Meridian city,Meridian,Meridian,16001,Ada County,Incorporated place,43.610595,-116.400672,1
+ID,1652660,place:ID:1652660,Middleton city,Middleton,Middleton,16027,Canyon County,Incorporated place,43.709859,-116.614758,1
+ID,1652750,place:ID:1652750,Midvale city,Midvale,Midvale,16087,Washington County,Incorporated place,44.462255,-116.740652,1
+ID,1653110,place:ID:1653110,Minidoka city,Minidoka,Minidoka,16067,Minidoka County,Incorporated place,42.755147,-113.490197,1
+ID,1653920,place:ID:1653920,Montpelier city,Montpelier,Montpelier,16007,Bear Lake County,Incorporated place,42.325992,-111.298826,1
+ID,1654100,place:ID:1654100,Moore city,Moore,Moore,16023,Butte County,Incorporated place,43.73441,-113.36734,1
+ID,1654370,place:ID:1654370,Moreland CDP,Moreland,Moreland,16011,Bingham County,Census-designated place,43.21948,-112.437772,1
+ID,1654550,place:ID:1654550,Moscow city,Moscow,Moscow,16057,Latah County,Incorporated place,46.728583,-116.999299,1
+ID,1654730,place:ID:1654730,Mountain Home city,Mountain Home,Mountain Home,16039,Elmore County,Incorporated place,43.131585,-115.697296,1
+ID,1654820,place:ID:1654820,Mountain Home AFB CDP,Mountain Home AFB,Mountain Home AFB,16039,Elmore County,Census-designated place,43.049186,-115.86586,1
+ID,1655270,place:ID:1655270,Moyie Springs city,Moyie Springs,Moyie Springs,16021,Boundary County,Incorporated place,48.724901,-116.195607,1
+ID,1655450,place:ID:1655450,Mud Lake city,Mud Lake,Mud Lake,16051,Jefferson County,Incorporated place,43.842855,-112.479504,1
+ID,1655630,place:ID:1655630,Mullan city,Mullan,Mullan,16079,Shoshone County,Incorporated place,47.468759,-115.796351,1
+ID,1655720,place:ID:1655720,Murphy CDP,Murphy,Murphy,16073,Owyhee County,Census-designated place,43.212138,-116.548501,1
+ID,1655900,place:ID:1655900,Murtaugh city,Murtaugh,Murtaugh,16083,Twin Falls County,Incorporated place,42.491685,-114.162311,1
+ID,1656260,place:ID:1656260,Nampa city,Nampa,Nampa,16027,Canyon County,Incorporated place,43.584321,-116.563971,1
+ID,1656890,place:ID:1656890,New Meadows city,New Meadows,New Meadows,16003,Adams County,Incorporated place,44.971335,-116.285195,1
+ID,1656980,place:ID:1656980,New Plymouth city,New Plymouth,New Plymouth,16075,Payette County,Incorporated place,43.970417,-116.818781,1
+ID,1656800,place:ID:1656800,Newdale city,Newdale,Newdale,16043,Fremont County,Incorporated place,43.886385,-111.603888,1
+ID,1657250,place:ID:1657250,Nezperce city,Nezperce,Nezperce,16061,Lewis County,Incorporated place,46.236595,-116.239764,1
+ID,1658060,place:ID:1658060,Notus city,Notus,Notus,16027,Canyon County,Incorporated place,43.718354,-116.785022,1
+ID,1658330,place:ID:1658330,Oakley city,Oakley,Oakley,16031,Cassia County,Incorporated place,42.24206,-113.883058,1
+ID,1658600,place:ID:1658600,Oldtown city,Oldtown,Oldtown,16017,Bonner County,Incorporated place,48.182714,-117.017188,1
+ID,1658870,place:ID:1658870,Onaway city,Onaway,Onaway,16057,Latah County,Incorporated place,46.928211,-116.889621,1
+ID,1659320,place:ID:1659320,Orofino city,Orofino,Orofino,16035,Clearwater County,Incorporated place,46.484943,-116.253027,1
+ID,1659590,place:ID:1659590,Osburn city,Osburn,Osburn,16079,Shoshone County,Incorporated place,47.505731,-116.000709,1
+ID,1660040,place:ID:1660040,Oxford city,Oxford,Oxford,16041,Franklin County,Incorporated place,42.259831,-112.01787,1
+ID,1660580,place:ID:1660580,Paris city,Paris,Paris,16007,Bear Lake County,Incorporated place,42.227978,-111.402424,1
+ID,1660760,place:ID:1660760,Parker city,Parker,Parker,16043,Fremont County,Incorporated place,43.958405,-111.759206,1
+ID,1660880,place:ID:1660880,Parkline CDP,Parkline,Parkline,16009,Benewah County,Census-designated place,47.338483,-116.69398,1
+ID,1660940,place:ID:1660940,Parma city,Parma,Parma,16027,Canyon County,Incorporated place,43.785603,-116.943028,1
+ID,1661210,place:ID:1661210,Paul city,Paul,Paul,16067,Minidoka County,Incorporated place,42.604519,-113.784681,1
+ID,1661300,place:ID:1661300,Payette city,Payette,Payette,16075,Payette County,Incorporated place,44.080093,-116.926852,1
+ID,1661840,place:ID:1661840,Peck city,Peck,Peck,16069,Nez Perce County,Incorporated place,46.47468,-116.42617,1
+ID,1662740,place:ID:1662740,Pierce city,Pierce,Pierce,16035,Clearwater County,Incorporated place,46.497597,-115.802613,1
+ID,1663100,place:ID:1663100,Pinehurst city,Pinehurst,Pinehurst,16079,Shoshone County,Incorporated place,47.536314,-116.231746,1
+ID,1663550,place:ID:1663550,Placerville city,Placerville,Placerville,16015,Boise County,Incorporated place,43.942737,-115.945986,1
+ID,1663910,place:ID:1663910,Plummer city,Plummer,Plummer,16009,Benewah County,Incorporated place,47.329615,-116.884819,1
+ID,1664090,place:ID:1664090,Pocatello city,Pocatello,Pocatello,16005,Bannock County,Incorporated place,42.87121,-112.462027,1
+ID,1664450,place:ID:1664450,Ponderay city,Ponderay,Ponderay,16017,Bonner County,Incorporated place,48.30478,-116.536645,1
+ID,1664810,place:ID:1664810,Post Falls city,Post Falls,Post Falls,16055,Kootenai County,Incorporated place,47.72556,-116.944169,1
+ID,1664900,place:ID:1664900,Potlatch city,Potlatch,Potlatch,16057,Latah County,Incorporated place,46.923493,-116.897401,1
+ID,1665260,place:ID:1665260,Preston city,Preston,Preston,16041,Franklin County,Incorporated place,42.099414,-111.880738,1
+ID,1665530,place:ID:1665530,Priest River city,Priest River,Priest River,16017,Bonner County,Incorporated place,48.184319,-116.905428,1
+ID,1665620,place:ID:1665620,Princeton CDP,Princeton,Princeton,16057,Latah County,Census-designated place,46.917198,-116.82608,1
+ID,1666340,place:ID:1666340,Rathdrum city,Rathdrum,Rathdrum,16055,Kootenai County,Incorporated place,47.794036,-116.892927,1
+ID,1667150,place:ID:1667150,Reubens city,Reubens,Reubens,16061,Lewis County,Incorporated place,46.322923,-116.542861,1
+ID,1667420,place:ID:1667420,Rexburg city,Rexburg,Rexburg,16065,Madison County,Incorporated place,43.822893,-111.790988,1
+ID,1667600,place:ID:1667600,Richfield city,Richfield,Richfield,16063,Lincoln County,Incorporated place,43.05164,-114.155942,1
+ID,1667780,place:ID:1667780,Rigby city,Rigby,Rigby,16051,Jefferson County,Incorporated place,43.673587,-111.913525,1
+ID,1667870,place:ID:1667870,Riggins city,Riggins,Riggins,16049,Idaho County,Incorporated place,45.420591,-116.317636,1
+ID,1667960,place:ID:1667960,Ririe city,Ririe,Ririe,16051,Jefferson County,Incorporated place,43.632494,-111.771717,1
+ID,1668230,place:ID:1668230,Riverside CDP,Riverside,Riverside,16011,Bingham County,Census-designated place,43.196554,-112.435625,1
+ID,1668500,place:ID:1668500,Roberts city,Roberts,Roberts,16051,Jefferson County,Incorporated place,43.720488,-112.128868,1
+ID,1668545,place:ID:1668545,Robie Creek CDP,Robie Creek,Robie Creek,16015,Boise County,Census-designated place,43.662033,-116.015251,1
+ID,1668860,place:ID:1668860,Rockford CDP,Rockford,Rockford,16011,Bingham County,Census-designated place,43.189235,-112.530618,1
+ID,1668950,place:ID:1668950,Rockford Bay CDP,Rockford Bay,Rockford Bay,16055,Kootenai County,Census-designated place,47.508637,-116.886536,1
+ID,1669130,place:ID:1669130,Rockland city,Rockland,Rockland,16077,Power County,Incorporated place,42.573185,-112.874354,1
+ID,1670660,place:ID:1670660,Rupert city,Rupert,Rupert,16067,Minidoka County,Incorporated place,42.618936,-113.673967,1
+ID,1671650,place:ID:1671650,Salmon city,Salmon,Salmon,16059,Lemhi County,Incorporated place,45.174386,-113.894764,1
+ID,1672100,place:ID:1672100,Sandpoint city,Sandpoint,Sandpoint,16017,Bonner County,Incorporated place,48.281694,-116.560013,1
+ID,1673450,place:ID:1673450,Shelley city,Shelley,Shelley,16011,Bingham County,Incorporated place,43.379638,-112.123001,1
+ID,1673900,place:ID:1673900,Shoshone city,Shoshone,Shoshone,16063,Lincoln County,Incorporated place,42.936757,-114.401671,1
+ID,1674440,place:ID:1674440,Silverton CDP,Silverton,Silverton,16079,Shoshone County,Census-designated place,47.495681,-115.960513,1
+ID,1675070,place:ID:1675070,Smelterville city,Smelterville,Smelterville,16079,Shoshone County,Incorporated place,47.543056,-116.177742,1
+ID,1675160,place:ID:1675160,Smiths Ferry CDP,Smiths Ferry,Smiths Ferry,16085,Valley County,Census-designated place,44.299159,-116.078379,1
+ID,1675195,place:ID:1675195,Soda Springs city,Soda Springs,Soda Springs,16029,Caribou County,Incorporated place,42.657584,-111.589125,1
+ID,1675970,place:ID:1675970,Spencer city,Spencer,Spencer,16033,Clark County,Incorporated place,44.367769,-112.18428,1
+ID,1676060,place:ID:1676060,Spirit Lake city,Spirit Lake,Spirit Lake,16055,Kootenai County,Incorporated place,47.965799,-116.869831,1
+ID,1671020,place:ID:1671020,St. Anthony city,St. Anthony,St. Anthony,16043,Fremont County,Incorporated place,43.966047,-111.683826,1
+ID,1671110,place:ID:1671110,St. Charles city,St. Charles,St. Charles,16007,Bear Lake County,Incorporated place,42.111826,-111.390316,1
+ID,1671470,place:ID:1671470,St. Maries city,St. Maries,St. Maries,16009,Benewah County,Incorporated place,47.314589,-116.572235,1
+ID,1676780,place:ID:1676780,Stanley city,Stanley,Stanley,16037,Custer County,Incorporated place,44.218509,-114.932368,1
+ID,1676870,place:ID:1676870,Star city,Star,Star,16001,Ada County,Incorporated place,43.704085,-116.502153,1
+ID,1677050,place:ID:1677050,State Line city,State Line,State Line,16055,Kootenai County,Incorporated place,47.705341,-117.036629,1
+ID,1677500,place:ID:1677500,Stites city,Stites,Stites,16049,Idaho County,Incorporated place,46.09252,-115.975985,1
+ID,1678040,place:ID:1678040,Sugar City city,Sugar City,Sugar City,16065,Madison County,Incorporated place,43.874883,-111.752248,1
+ID,1678850,place:ID:1678850,Sun Valley city,Sun Valley,Sun Valley,16013,Blaine County,Incorporated place,43.683852,-114.334203,1
+ID,1679120,place:ID:1679120,Swan Valley city,Swan Valley,Swan Valley,16019,Bonneville County,Incorporated place,43.442575,-111.324544,1
+ID,1679300,place:ID:1679300,Sweetwater CDP,Sweetwater,Sweetwater,16069,Nez Perce County,Census-designated place,46.367638,-116.79748,1
+ID,1680200,place:ID:1680200,Tensed city,Tensed,Tensed,16009,Benewah County,Incorporated place,47.159612,-116.923795,1
+ID,1680380,place:ID:1680380,Teton city,Teton,Teton,16043,Fremont County,Incorporated place,43.88756,-111.672266,1
+ID,1680470,place:ID:1680470,Tetonia city,Tetonia,Tetonia,16081,Teton County,Incorporated place,43.814581,-111.158664,1
+ID,1682360,place:ID:1682360,Troy city,Troy,Troy,16057,Latah County,Incorporated place,46.737981,-116.773154,1
+ID,1682810,place:ID:1682810,Twin Falls city,Twin Falls,Twin Falls,16083,Twin Falls County,Incorporated place,42.564094,-114.460899,1
+ID,1683170,place:ID:1683170,Tyhee CDP,Tyhee,Tyhee,16005,Bannock County,Census-designated place,42.954003,-112.456193,1
+ID,1683350,place:ID:1683350,Ucon city,Ucon,Ucon,16019,Bonneville County,Incorporated place,43.592857,-111.959963,1
+ID,1684250,place:ID:1684250,Victor city,Victor,Victor,16081,Teton County,Incorporated place,43.601508,-111.110785,1
+ID,1684430,place:ID:1684430,Viola CDP,Viola,Viola,16057,Latah County,Census-designated place,46.838885,-117.018845,1
+ID,1684790,place:ID:1684790,Wallace city,Wallace,Wallace,16079,Shoshone County,Incorporated place,47.473578,-115.922542,1
+ID,1685240,place:ID:1685240,Wardner city,Wardner,Wardner,16079,Shoshone County,Incorporated place,47.518971,-116.135674,1
+ID,1685420,place:ID:1685420,Warm River city,Warm River,Warm River,16043,Fremont County,Incorporated place,44.120926,-111.321017,1
+ID,1686050,place:ID:1686050,Weippe city,Weippe,Weippe,16035,Clearwater County,Incorporated place,46.37825,-115.938844,1
+ID,1686140,place:ID:1686140,Weiser city,Weiser,Weiser,16087,Washington County,Incorporated place,44.254861,-116.969281,1
+ID,1686320,place:ID:1686320,Wendell city,Wendell,Wendell,16047,Gooding County,Incorporated place,42.77468,-114.70296,1
+ID,1687040,place:ID:1687040,Weston city,Weston,Weston,16041,Franklin County,Incorporated place,42.036209,-111.977799,1
+ID,1687310,place:ID:1687310,White Bird city,White Bird,White Bird,16049,Idaho County,Incorporated place,45.76268,-116.300351,1
+ID,1687670,place:ID:1687670,Wilder city,Wilder,Wilder,16027,Canyon County,Incorporated place,43.677492,-116.907579,1
+ID,1687850,place:ID:1687850,Winchester city,Winchester,Winchester,16061,Lewis County,Incorporated place,46.240812,-116.624137,1
+ID,1688480,place:ID:1688480,Worley city,Worley,Worley,16055,Kootenai County,Incorporated place,47.400533,-116.919254,1
+ID,1688660,place:ID:1688660,Yellow Pine CDP,Yellow Pine,Yellow Pine,16085,Valley County,Census-designated place,44.960716,-115.485434,1

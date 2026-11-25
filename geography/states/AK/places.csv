@@ -1,0 +1,356 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+AK,0200065,place:AK:0200065,Adak city,Adak,Adak,02016,Aleutians West Census Area,Incorporated place,51.909499,-176.599175,1
+AK,0200650,place:AK:0200650,Akhiok city,Akhiok,Akhiok,02150,Kodiak Island Borough,Incorporated place,56.94832,-154.215224,1
+AK,0200760,place:AK:0200760,Akiachak CDP,Akiachak,Akiachak,02050,Bethel Census Area,Census-designated place,60.920991,-161.402199,1
+AK,0200870,place:AK:0200870,Akiak city,Akiak,Akiak,02050,Bethel Census Area,Incorporated place,60.912917,-161.208155,1
+AK,0201090,place:AK:0201090,Akutan city,Akutan,Akutan,02013,Aleutians East Borough,Incorporated place,54.139971,-165.763035,1
+AK,0201200,place:AK:0201200,Alakanuk city,Alakanuk,Alakanuk,02158,Kusilvak Census Area,Incorporated place,62.711072,-164.642538,1
+AK,0201305,place:AK:0201305,Alatna CDP,Alatna,Alatna,02290,Yukon-Koyukuk Census Area,Census-designated place,66.563353,-152.837612,1
+AK,0201390,place:AK:0201390,Alcan Border CDP,Alcan Border,Alcan Border,02240,Southeast Fairbanks Census Area,Census-designated place,62.703111,-141.193921,1
+AK,0201420,place:AK:0201420,Aleknagik city,Aleknagik,Aleknagik,02070,Dillingham Census Area,Incorporated place,59.288867,-158.664457,1
+AK,0201560,place:AK:0201560,Aleneva CDP,Aleneva,Aleneva,02150,Kodiak Island Borough,Census-designated place,58.059052,-152.909015,1
+AK,0201860,place:AK:0201860,Allakaket city,Allakaket,Allakaket,02290,Yukon-Koyukuk Census Area,Incorporated place,66.545012,-152.591101,1
+AK,0201970,place:AK:0201970,Ambler city,Ambler,Ambler,02188,Northwest Arctic Borough,Incorporated place,67.080817,-157.906487,1
+AK,0202080,place:AK:0202080,Anaktuvuk Pass city,Anaktuvuk Pass,Anaktuvuk Pass,02185,North Slope Borough,Incorporated place,68.147438,-151.698223,1
+AK,0203110,place:AK:0203110,Anchor Point CDP,Anchor Point,Anchor Point,02122,Kenai Peninsula Borough,Census-designated place,59.763714,-151.702167,1
+AK,0203000,place:AK:0203000,Anchorage municipality,Anchorage,Anchorage,02020,Anchorage Municipality,Incorporated place,61.17425,-149.284329,1
+AK,0203220,place:AK:0203220,Anderson city,Anderson,Anderson,02068,Denali Borough,Incorporated place,64.308047,-149.164091,1
+AK,0203440,place:AK:0203440,Angoon city,Angoon,Angoon,02105,Hoonah-Angoon Census Area,Incorporated place,57.444828,-134.485325,1
+AK,0203550,place:AK:0203550,Aniak city,Aniak,Aniak,02050,Bethel Census Area,Incorporated place,61.579913,-159.54759,1
+AK,0203880,place:AK:0203880,Anvik city,Anvik,Anvik,02290,Yukon-Koyukuk Census Area,Incorporated place,62.631764,-160.215431,1
+AK,0203990,place:AK:0203990,Arctic Village CDP,Arctic Village,Arctic Village,02290,Yukon-Koyukuk Census Area,Census-designated place,68.165277,-145.401351,1
+AK,0204210,place:AK:0204210,Atka city,Atka,Atka,02016,Aleutians West Census Area,Incorporated place,52.210886,-174.210079,1
+AK,0204430,place:AK:0204430,Atmautluak CDP,Atmautluak,Atmautluak,02050,Bethel Census Area,Census-designated place,60.861191,-162.283341,1
+AK,0204500,place:AK:0204500,Atqasuk city,Atqasuk,Atqasuk,02185,North Slope Borough,Incorporated place,70.479653,-157.323862,1
+AK,0204670,place:AK:0204670,Attu Station CDP,Attu Station,Attu Station,02016,Aleutians West Census Area,Census-designated place,52.880263,+173.256091,0
+AK,0205000,place:AK:0205000,Badger CDP,Badger,Badger,02090,Fairbanks North Star Borough,Census-designated place,64.805819,-147.393072,1
+AK,0205585,place:AK:0205585,Bear Creek CDP,Bear Creek,Bear Creek,02122,Kenai Peninsula Borough,Census-designated place,60.207775,-149.369937,1
+AK,0205750,place:AK:0205750,Beaver CDP,Beaver,Beaver,02290,Yukon-Koyukuk Census Area,Census-designated place,66.382802,-147.321934,1
+AK,0206245,place:AK:0206245,Beluga CDP,Beluga,Beluga,02122,Kenai Peninsula Borough,Census-designated place,61.186925,-151.185382,1
+AK,0206520,place:AK:0206520,Bethel city,Bethel,Bethel,02050,Bethel Census Area,Incorporated place,60.793901,-161.795853,1
+AK,0206630,place:AK:0206630,Bettles city,Bettles,Bettles,02290,Yukon-Koyukuk Census Area,Incorporated place,66.907266,-151.538086,1
+AK,0206850,place:AK:0206850,Big Delta CDP,Big Delta,Big Delta,02240,Southeast Fairbanks Census Area,Census-designated place,64.152092,-145.744667,1
+AK,0207070,place:AK:0207070,Big Lake CDP,Big Lake,Big Lake,02170,Matanuska-Susitna Borough,Census-designated place,61.516034,-149.971207,1
+AK,0207620,place:AK:0207620,Birch Creek CDP,Birch Creek,Birch Creek,02290,Yukon-Koyukuk Census Area,Census-designated place,66.26853,-145.871791,1
+AK,0208740,place:AK:0208740,Brevig Mission city,Brevig Mission,Brevig Mission,02180,Nome Census Area,Incorporated place,65.343152,-166.510705,1
+AK,0209600,place:AK:0209600,Buckland city,Buckland,Buckland,02188,Northwest Arctic Borough,Incorporated place,65.977105,-161.139567,1
+AK,0209657,place:AK:0209657,Buffalo Soapstone CDP,Buffalo Soapstone,Buffalo Soapstone,02170,Matanuska-Susitna Borough,Census-designated place,61.684554,-149.121272,1
+AK,0209710,place:AK:0209710,Butte CDP,Butte,Butte,02170,Matanuska-Susitna Borough,Census-designated place,61.533727,-148.98798,1
+AK,0210150,place:AK:0210150,Cantwell CDP,Cantwell,Cantwell,02068,Denali Borough,Census-designated place,63.411402,-148.749636,1
+AK,0211690,place:AK:0211690,Central CDP,Central,Central,02290,Yukon-Koyukuk Census Area,Census-designated place,65.538951,-144.498679,1
+AK,0211800,place:AK:0211800,Chalkyitsik CDP,Chalkyitsik,Chalkyitsik,02290,Yukon-Koyukuk Census Area,Census-designated place,66.646727,-143.785741,1
+AK,0212350,place:AK:0212350,Chase CDP,Chase,Chase,02170,Matanuska-Susitna Borough,Census-designated place,62.418037,-149.936247,1
+AK,0212680,place:AK:0212680,Chefornak city,Chefornak,Chefornak,02050,Bethel Census Area,Incorporated place,60.150031,-164.259998,1
+AK,0212920,place:AK:0212920,Chena Ridge CDP,Chena Ridge,Chena Ridge,02090,Fairbanks North Star Borough,Census-designated place,64.794305,-148.032883,1
+AK,0212970,place:AK:0212970,Chenega CDP,Chenega,Chenega,02063,Chugach Census Area,Census-designated place,60.091897,-147.994696,1
+AK,0213230,place:AK:0213230,Chevak city,Chevak,Chevak,02158,Kusilvak Census Area,Incorporated place,61.52945,-165.593938,1
+AK,0213340,place:AK:0213340,Chickaloon CDP,Chickaloon,Chickaloon,02170,Matanuska-Susitna Borough,Census-designated place,61.820773,-148.281508,1
+AK,0213450,place:AK:0213450,Chicken CDP,Chicken,Chicken,02240,Southeast Fairbanks Census Area,Census-designated place,64.087693,-141.828309,1
+AK,0213550,place:AK:0213550,Chignik city,Chignik,Chignik,,,Incorporated place,56.295582,-158.387675,1
+AK,0213670,place:AK:0213670,Chignik Lagoon CDP,Chignik Lagoon,Chignik Lagoon,02164,Lake and Peninsula Borough,Census-designated place,56.304266,-158.500252,1
+AK,0213780,place:AK:0213780,Chignik Lake CDP,Chignik Lake,Chignik Lake,02164,Lake and Peninsula Borough,Census-designated place,56.254287,-158.781799,1
+AK,0213860,place:AK:0213860,Chiniak CDP,Chiniak,Chiniak,02150,Kodiak Island Borough,Census-designated place,57.575624,-152.278749,1
+AK,0213890,place:AK:0213890,Chisana CDP,Chisana,Chisana,02066,Copper River Census Area,Census-designated place,62.110039,-142.050549,0
+AK,0214000,place:AK:0214000,Chistochina CDP,Chistochina,Chistochina,02066,Copper River Census Area,Census-designated place,62.596444,-144.941045,1
+AK,0214110,place:AK:0214110,Chitina CDP,Chitina,Chitina,02066,Copper River Census Area,Census-designated place,61.552122,-144.174186,1
+AK,0214330,place:AK:0214330,Chuathbaluk city,Chuathbaluk,Chuathbaluk,02050,Bethel Census Area,Incorporated place,61.574329,-159.245982,1
+AK,0214880,place:AK:0214880,Circle CDP,Circle,Circle,02290,Yukon-Koyukuk Census Area,Census-designated place,65.790425,-144.196008,1
+AK,0215320,place:AK:0215320,Clam Gulch CDP,Clam Gulch,Clam Gulch,02122,Kenai Peninsula Borough,Census-designated place,60.208887,-151.404203,1
+AK,0215430,place:AK:0215430,Clark's Point city,Clark's Point,Clark's Point,02070,Dillingham Census Area,Incorporated place,58.832993,-158.527302,1
+AK,0216360,place:AK:0216360,Coffman Cove city,Coffman Cove,Coffman Cove,02198,Prince of Wales-Hyder Census Area,Incorporated place,56.005201,-132.838759,1
+AK,0216420,place:AK:0216420,Cohoe CDP,Cohoe,Cohoe,02122,Kenai Peninsula Borough,Census-designated place,60.227203,-151.309912,1
+AK,0216530,place:AK:0216530,Cold Bay city,Cold Bay,Cold Bay,02013,Aleutians East Borough,Incorporated place,55.215322,-162.776026,1
+AK,0216630,place:AK:0216630,Coldfoot CDP,Coldfoot,Coldfoot,02290,Yukon-Koyukuk Census Area,Census-designated place,67.260741,-150.069894,1
+AK,0216750,place:AK:0216750,College CDP,College,College,02090,Fairbanks North Star Borough,Census-designated place,64.86729,-147.819453,1
+AK,0217190,place:AK:0217190,Cooper Landing CDP,Cooper Landing,Cooper Landing,02122,Kenai Peninsula Borough,Census-designated place,60.494584,-149.843932,1
+AK,0217300,place:AK:0217300,Copper Center CDP,Copper Center,Copper Center,02066,Copper River Census Area,Census-designated place,62.008079,-145.392688,1
+AK,0217410,place:AK:0217410,Cordova city,Cordova,Cordova,02063,Chugach Census Area,Incorporated place,60.530017,-145.641706,1
+AK,0217670,place:AK:0217670,Covenant Life CDP,Covenant Life,Covenant Life,02100,Haines Borough,Census-designated place,59.395823,-136.170634,1
+AK,0217740,place:AK:0217740,Craig city,Craig,Craig,02198,Prince of Wales-Hyder Census Area,Incorporated place,55.488748,-133.111564,1
+AK,0217850,place:AK:0217850,Crooked Creek CDP,Crooked Creek,Crooked Creek,02050,Bethel Census Area,Census-designated place,61.796848,-158.080988,1
+AK,0217960,place:AK:0217960,Crown Point CDP,Crown Point,Crown Point,02122,Kenai Peninsula Borough,Census-designated place,60.426679,-149.35298,1
+AK,0218510,place:AK:0218510,Deering city,Deering,Deering,02188,Northwest Arctic Borough,Incorporated place,66.069253,-162.764796,1
+AK,0218620,place:AK:0218620,Delta Junction city,Delta Junction,Delta Junction,02240,Southeast Fairbanks Census Area,Incorporated place,64.056719,-145.692362,1
+AK,0218675,place:AK:0218675,Deltana CDP,Deltana,Deltana,02240,Southeast Fairbanks Census Area,Census-designated place,63.78934,-145.351625,1
+AK,0218805,place:AK:0218805,Denali Park CDP,Denali Park,Denali Park,02068,Denali Borough,Census-designated place,63.573171,-148.674095,1
+AK,0218925,place:AK:0218925,Diamond Ridge CDP,Diamond Ridge,Diamond Ridge,02122,Kenai Peninsula Borough,Census-designated place,59.70236,-151.554626,1
+AK,0218950,place:AK:0218950,Dillingham city,Dillingham,Dillingham,02070,Dillingham Census Area,Incorporated place,59.060174,-158.530957,1
+AK,0219060,place:AK:0219060,Diomede city,Diomede,Diomede,02180,Nome Census Area,Incorporated place,65.753924,-168.922577,1
+AK,0219720,place:AK:0219720,Dot Lake CDP,Dot Lake,Dot Lake,02240,Southeast Fairbanks Census Area,Census-designated place,63.587194,-144.292322,1
+AK,0219750,place:AK:0219750,Dot Lake Village CDP,Dot Lake Village,Dot Lake Village,02240,Southeast Fairbanks Census Area,Census-designated place,63.662593,-144.016171,1
+AK,0220020,place:AK:0220020,Dry Creek CDP,Dry Creek,Dry Creek,02240,Southeast Fairbanks Census Area,Census-designated place,63.626638,-144.639194,1
+AK,0220380,place:AK:0220380,Eagle city,Eagle,Eagle,02240,Southeast Fairbanks Census Area,Incorporated place,64.781271,-141.197781,1
+AK,0220600,place:AK:0220600,Eagle Village CDP,Eagle Village,Eagle Village,02240,Southeast Fairbanks Census Area,Census-designated place,64.742922,-141.114308,1
+AK,0220716,place:AK:0220716,Eareckson Station CDP,Eareckson Station,Eareckson Station,02016,Aleutians West Census Area,Census-designated place,52.72106,+174.107149,0
+AK,0220970,place:AK:0220970,Edna Bay city,Edna Bay,Edna Bay,02198,Prince of Wales-Hyder Census Area,Incorporated place,55.967618,-133.692253,1
+AK,0221040,place:AK:0221040,Eek city,Eek,Eek,02050,Bethel Census Area,Incorporated place,60.216287,-162.043053,1
+AK,0221150,place:AK:0221150,Egegik city,Egegik,Egegik,02164,Lake and Peninsula Borough,Incorporated place,58.272384,-157.513144,1
+AK,0221370,place:AK:0221370,Eielson AFB CDP,Eielson AFB,Eielson AFB,02090,Fairbanks North Star Borough,Census-designated place,64.673314,-147.059806,1
+AK,0221810,place:AK:0221810,Ekwok city,Ekwok,Ekwok,02070,Dillingham Census Area,Incorporated place,59.349459,-157.486516,1
+AK,0222140,place:AK:0222140,Elfin Cove CDP,Elfin Cove,Elfin Cove,02105,Hoonah-Angoon Census Area,Census-designated place,58.100207,-136.291226,1
+AK,0222250,place:AK:0222250,Elim city,Elim,Elim,02180,Nome Census Area,Incorporated place,64.618373,-162.276244,1
+AK,0222910,place:AK:0222910,Emmonak city,Emmonak,Emmonak,02158,Kusilvak Census Area,Incorporated place,62.775696,-164.510051,1
+AK,0223460,place:AK:0223460,Ester CDP,Ester,Ester,02090,Fairbanks North Star Borough,Census-designated place,64.879061,-148.041121,1
+AK,0223720,place:AK:0223720,Eureka Roadhouse CDP,Eureka Roadhouse,Eureka Roadhouse,02170,Matanuska-Susitna Borough,Census-designated place,61.938626,-147.210777,1
+AK,0223790,place:AK:0223790,Evansville CDP,Evansville,Evansville,02290,Yukon-Koyukuk Census Area,Census-designated place,66.935335,-151.386158,1
+AK,0223900,place:AK:0223900,Excursion Inlet CDP,Excursion Inlet,Excursion Inlet,02100,Haines Borough,Census-designated place,58.414998,-135.346049,1
+AK,0224230,place:AK:0224230,Fairbanks city,Fairbanks,Fairbanks,02090,Fairbanks North Star Borough,Incorporated place,64.838559,-147.651483,1
+AK,0224660,place:AK:0224660,False Pass city,False Pass,False Pass,02013,Aleutians East Borough,Incorporated place,54.872441,-163.334268,1
+AK,0225000,place:AK:0225000,Farm Loop CDP,Farm Loop,Farm Loop,02170,Matanuska-Susitna Borough,Census-designated place,61.635529,-149.154862,1
+AK,0224980,place:AK:0224980,Farmers Loop CDP,Farmers Loop,Farmers Loop,02090,Fairbanks North Star Borough,Census-designated place,64.908367,-147.698428,1
+AK,0225220,place:AK:0225220,Ferry CDP,Ferry,Ferry,02068,Denali Borough,Census-designated place,64.049644,-148.920319,1
+AK,0225550,place:AK:0225550,Fishhook CDP,Fishhook,Fishhook,02170,Matanuska-Susitna Borough,Census-designated place,61.731248,-149.283642,1
+AK,0225880,place:AK:0225880,Flat CDP,Flat,Flat,02290,Yukon-Koyukuk Census Area,Census-designated place,62.441359,-158.04055,0
+AK,0226100,place:AK:0226100,Fort Greely CDP,Fort Greely,Fort Greely,02240,Southeast Fairbanks Census Area,Census-designated place,63.96784,-145.714883,1
+AK,0226760,place:AK:0226760,Fort Yukon city,Fort Yukon,Fort Yukon,02290,Yukon-Koyukuk Census Area,Incorporated place,66.581788,-145.248942,1
+AK,0226835,place:AK:0226835,Four Mile Road CDP,Four Mile Road,Four Mile Road,02290,Yukon-Koyukuk Census Area,Census-designated place,64.606624,-149.123031,1
+AK,0226870,place:AK:0226870,Fox CDP,Fox,Fox,02090,Fairbanks North Star Borough,Census-designated place,64.971695,-147.616417,1
+AK,0226910,place:AK:0226910,Fox River CDP,Fox River,Fox River,02122,Kenai Peninsula Borough,Census-designated place,59.892158,-151.012318,1
+AK,0227090,place:AK:0227090,Fritz Creek CDP,Fritz Creek,Fritz Creek,02122,Kenai Peninsula Borough,Census-designated place,59.765914,-151.305176,1
+AK,0227145,place:AK:0227145,Funny River CDP,Funny River,Funny River,02122,Kenai Peninsula Borough,Census-designated place,60.484313,-150.788735,1
+AK,0227420,place:AK:0227420,Gakona CDP,Gakona,Gakona,02066,Copper River Census Area,Census-designated place,62.367025,-145.313001,1
+AK,0227530,place:AK:0227530,Galena city,Galena,Galena,02290,Yukon-Koyukuk Census Area,Incorporated place,64.740877,-156.876947,1
+AK,0227640,place:AK:0227640,Gambell city,Gambell,Gambell,02180,Nome Census Area,Incorporated place,63.776701,-171.71991,1
+AK,0227700,place:AK:0227700,Game Creek CDP,Game Creek,Game Creek,02105,Hoonah-Angoon Census Area,Census-designated place,58.049725,-135.512915,1
+AK,0228200,place:AK:0228200,Gateway CDP,Gateway,Gateway,02170,Matanuska-Susitna Borough,Census-designated place,61.567138,-149.220087,1
+AK,0228590,place:AK:0228590,Glacier View CDP,Glacier View,Glacier View,02170,Matanuska-Susitna Borough,Census-designated place,61.870088,-147.881937,1
+AK,0228740,place:AK:0228740,Glennallen CDP,Glennallen,Glennallen,02066,Copper River Census Area,Census-designated place,62.14753,-145.835905,1
+AK,0229130,place:AK:0229130,Goldstream CDP,Goldstream,Goldstream,02090,Fairbanks North Star Borough,Census-designated place,64.942151,-148.02732,1
+AK,0229180,place:AK:0229180,Golovin city,Golovin,Golovin,02180,Nome Census Area,Incorporated place,64.560341,-163.007644,1
+AK,0229290,place:AK:0229290,Goodnews Bay city,Goodnews Bay,Goodnews Bay,02050,Bethel Census Area,Incorporated place,59.126747,-161.566464,1
+AK,0230060,place:AK:0230060,Grayling city,Grayling,Grayling,02290,Yukon-Koyukuk Census Area,Incorporated place,62.896314,-160.113424,1
+AK,0230500,place:AK:0230500,Gulkana CDP,Gulkana,Gulkana,02066,Copper River Census Area,Census-designated place,62.215434,-145.444965,1
+AK,0230940,place:AK:0230940,Gustavus city,Gustavus,Gustavus,02105,Hoonah-Angoon Census Area,Incorporated place,58.433401,-135.729265,1
+AK,0231050,place:AK:0231050,Haines CDP,Haines,Haines,02100,Haines Borough,Census-designated place,59.260536,-135.472606,1
+AK,0231270,place:AK:0231270,Halibut Cove CDP,Halibut Cove,Halibut Cove,02122,Kenai Peninsula Borough,Census-designated place,59.569685,-151.223807,1
+AK,0231710,place:AK:0231710,Happy Valley CDP,Happy Valley,Happy Valley,02122,Kenai Peninsula Borough,Census-designated place,59.931918,-151.588282,1
+AK,0231765,place:AK:0231765,Harding-Birch Lakes CDP,Harding-Birch Lakes,Harding-Birch Lakes,02090,Fairbanks North Star Borough,Census-designated place,64.381305,-146.530599,1
+AK,0232150,place:AK:0232150,Healy CDP,Healy,Healy,02068,Denali Borough,Census-designated place,63.95982,-148.970416,1
+AK,0232310,place:AK:0232310,Healy Lake CDP,Healy Lake,Healy Lake,02240,Southeast Fairbanks Census Area,Census-designated place,64.009737,-144.68304,1
+AK,0232550,place:AK:0232550,Hobart Bay CDP,Hobart Bay,Hobart Bay,02195,Petersburg Borough,Census-designated place,57.417672,-133.307152,0
+AK,0232810,place:AK:0232810,Hollis CDP,Hollis,Hollis,02198,Prince of Wales-Hyder Census Area,Census-designated place,55.515476,-132.701924,1
+AK,0233030,place:AK:0233030,Holy Cross city,Holy Cross,Holy Cross,02290,Yukon-Koyukuk Census Area,Incorporated place,62.186679,-159.852478,1
+AK,0233140,place:AK:0233140,Homer city,Homer,Homer,02122,Kenai Peninsula Borough,Incorporated place,59.64042,-151.509053,1
+AK,0233360,place:AK:0233360,Hoonah city,Hoonah,Hoonah,02105,Hoonah-Angoon Census Area,Incorporated place,58.122181,-135.43226,1
+AK,0233470,place:AK:0233470,Hooper Bay city,Hooper Bay,Hooper Bay,02158,Kusilvak Census Area,Incorporated place,61.50988,-166.110674,1
+AK,0233580,place:AK:0233580,Hope CDP,Hope,Hope,02122,Kenai Peninsula Borough,Census-designated place,60.886716,-149.633455,1
+AK,0233800,place:AK:0233800,Houston city,Houston,Houston,02170,Matanuska-Susitna Borough,Incorporated place,61.615303,-149.80061,1
+AK,0233910,place:AK:0233910,Hughes city,Hughes,Hughes,02290,Yukon-Koyukuk Census Area,Incorporated place,66.045217,-154.237627,1
+AK,0234350,place:AK:0234350,Huslia city,Huslia,Huslia,02290,Yukon-Koyukuk Census Area,Incorporated place,65.696198,-156.338336,1
+AK,0234460,place:AK:0234460,Hydaburg city,Hydaburg,Hydaburg,02198,Prince of Wales-Hyder Census Area,Incorporated place,55.205842,-132.820438,1
+AK,0234570,place:AK:0234570,Hyder CDP,Hyder,Hyder,02198,Prince of Wales-Hyder Census Area,Census-designated place,55.98153,-130.038166,1
+AK,0234790,place:AK:0234790,Igiugig CDP,Igiugig,Igiugig,02164,Lake and Peninsula Borough,Census-designated place,59.300572,-155.858411,1
+AK,0235120,place:AK:0235120,Iliamna CDP,Iliamna,Iliamna,02164,Lake and Peninsula Borough,Census-designated place,59.812801,-154.842235,1
+AK,0235890,place:AK:0235890,Ivanof Bay CDP,Ivanof Bay,Ivanof Bay,02164,Lake and Peninsula Borough,Census-designated place,55.919351,-159.495405,1
+AK,0236400,place:AK:0236400,Juneau city and borough,Juneau city and,Juneau city and,02110,Juneau City and Borough,Incorporated place,58.372904,-134.178438,1
+AK,0236540,place:AK:0236540,Kachemak city,Kachemak,Kachemak,02122,Kenai Peninsula Borough,Incorporated place,59.674536,-151.436346,1
+AK,0236770,place:AK:0236770,Kake city,Kake,Kake,02198,Prince of Wales-Hyder Census Area,Incorporated place,56.97532,-133.903663,1
+AK,0236990,place:AK:0236990,Kaktovik city,Kaktovik,Kaktovik,02185,North Slope Borough,Incorporated place,70.120153,-143.620127,1
+AK,0237250,place:AK:0237250,Kalifornsky CDP,Kalifornsky,Kalifornsky,02122,Kenai Peninsula Borough,Census-designated place,60.456682,-151.224778,1
+AK,0237430,place:AK:0237430,Kaltag city,Kaltag,Kaltag,02290,Yukon-Koyukuk Census Area,Incorporated place,64.313864,-158.779385,1
+AK,0237540,place:AK:0237540,Karluk CDP,Karluk,Karluk,02150,Kodiak Island Borough,Census-designated place,57.590861,-154.363904,1
+AK,0237650,place:AK:0237650,Kasaan city,Kasaan,Kasaan,02198,Prince of Wales-Hyder Census Area,Incorporated place,55.561147,-132.406834,1
+AK,0237975,place:AK:0237975,Kasigluk CDP,Kasigluk,Kasigluk,02050,Bethel Census Area,Census-designated place,60.863453,-162.538738,1
+AK,0238090,place:AK:0238090,Kasilof CDP,Kasilof,Kasilof,02122,Kenai Peninsula Borough,Census-designated place,60.314576,-151.222739,1
+AK,0238420,place:AK:0238420,Kenai city,Kenai,Kenai,02122,Kenai Peninsula Borough,Incorporated place,60.561804,-151.210479,1
+AK,0238910,place:AK:0238910,Kenny Lake CDP,Kenny Lake,Kenny Lake,02066,Copper River Census Area,Census-designated place,61.621782,-144.819317,1
+AK,0238970,place:AK:0238970,Ketchikan city,Ketchikan,Ketchikan,02130,Ketchikan Gateway Borough,Incorporated place,55.357145,-131.674552,1
+AK,0239300,place:AK:0239300,Kiana city,Kiana,Kiana,02188,Northwest Arctic Borough,Incorporated place,66.972586,-160.434365,1
+AK,0239410,place:AK:0239410,King Cove city,King Cove,King Cove,02013,Aleutians East Borough,Incorporated place,55.083742,-162.321434,1
+AK,0239630,place:AK:0239630,King Salmon CDP,King Salmon,King Salmon,02060,Bristol Bay Borough,Census-designated place,58.722915,-156.538907,1
+AK,0239740,place:AK:0239740,Kipnuk CDP,Kipnuk,Kipnuk,02050,Bethel Census Area,Census-designated place,59.937492,-164.062153,1
+AK,0239960,place:AK:0239960,Kivalina city,Kivalina,Kivalina,02188,Northwest Arctic Borough,Incorporated place,67.7362,-164.510829,1
+AK,0240400,place:AK:0240400,Klawock city,Klawock,Klawock,,,Incorporated place,55.560722,-133.098919,1
+AK,0240510,place:AK:0240510,Klukwan CDP,Klukwan,Klukwan,02105,Hoonah-Angoon Census Area,Census-designated place,59.401834,-135.882427,1
+AK,0240670,place:AK:0240670,Knik River CDP,Knik River,Knik River,02170,Matanuska-Susitna Borough,Census-designated place,61.461913,-149.007409,1
+AK,0240645,place:AK:0240645,Knik-Fairview CDP,Knik-Fairview,Knik-Fairview,02170,Matanuska-Susitna Borough,Census-designated place,61.507645,-149.622601,1
+AK,0240840,place:AK:0240840,Kobuk city,Kobuk,Kobuk,02188,Northwest Arctic Borough,Incorporated place,66.923596,-156.90427,1
+AK,0240950,place:AK:0240950,Kodiak city,Kodiak,Kodiak,02150,Kodiak Island Borough,Incorporated place,57.790593,-152.422178,1
+AK,0241210,place:AK:0241210,Kodiak Station CDP,Kodiak Station,Kodiak Station,02150,Kodiak Island Borough,Census-designated place,57.767683,-152.590456,1
+AK,0241280,place:AK:0241280,Kokhanok CDP,Kokhanok,Kokhanok,02164,Lake and Peninsula Borough,Census-designated place,59.412372,-154.732735,1
+AK,0241500,place:AK:0241500,Koliganek CDP,Koliganek,Koliganek,02070,Dillingham Census Area,Census-designated place,59.692774,-157.218064,1
+AK,0241610,place:AK:0241610,Kongiganak CDP,Kongiganak,Kongiganak,02050,Bethel Census Area,Census-designated place,59.991632,-162.846764,1
+AK,0241720,place:AK:0241720,Kotlik city,Kotlik,Kotlik,02158,Kusilvak Census Area,Incorporated place,63.028565,-163.539245,1
+AK,0241830,place:AK:0241830,Kotzebue city,Kotzebue,Kotzebue,02188,Northwest Arctic Borough,Incorporated place,66.886842,-162.49173,1
+AK,0241940,place:AK:0241940,Koyuk city,Koyuk,Koyuk,02180,Nome Census Area,Incorporated place,64.941277,-161.145141,1
+AK,0242050,place:AK:0242050,Koyukuk city,Koyukuk,Koyukuk,02290,Yukon-Koyukuk Census Area,Incorporated place,64.901318,-157.693988,1
+AK,0242160,place:AK:0242160,Kupreanof city,Kupreanof,Kupreanof,02195,Petersburg Borough,Incorporated place,56.821325,-132.972113,1
+AK,0242380,place:AK:0242380,Kwethluk city,Kwethluk,Kwethluk,02050,Bethel Census Area,Incorporated place,60.793559,-161.430819,1
+AK,0242490,place:AK:0242490,Kwigillingok CDP,Kwigillingok,Kwigillingok,02050,Bethel Census Area,Census-designated place,59.877187,-163.176956,1
+AK,0242805,place:AK:0242805,Lake Louise CDP,Lake Louise,Lake Louise,02170,Matanuska-Susitna Borough,Census-designated place,62.30162,-146.540163,1
+AK,0242820,place:AK:0242820,Lake Minchumina CDP,Lake Minchumina,Lake Minchumina,02290,Yukon-Koyukuk Census Area,Census-designated place,63.789761,-152.462314,1
+AK,0243040,place:AK:0243040,Larsen Bay city,Larsen Bay,Larsen Bay,02150,Kodiak Island Borough,Incorporated place,57.550884,-154.005319,1
+AK,0243260,place:AK:0243260,Lazy Mountain CDP,Lazy Mountain,Lazy Mountain,02170,Matanuska-Susitna Borough,Census-designated place,61.658228,-148.92559,1
+AK,0243810,place:AK:0243810,Levelock CDP,Levelock,Levelock,02164,Lake and Peninsula Borough,Census-designated place,59.068261,-156.901005,1
+AK,0244030,place:AK:0244030,Lime Village CDP,Lime Village,Lime Village,02050,Bethel Census Area,Census-designated place,61.330449,-155.238066,1
+AK,0244580,place:AK:0244580,Livengood CDP,Livengood,Livengood,02290,Yukon-Koyukuk Census Area,Census-designated place,65.481785,-148.416484,1
+AK,0245020,place:AK:0245020,Loring CDP,Loring,Loring,02130,Ketchikan Gateway Borough,Census-designated place,55.606677,-131.639977,1
+AK,0245295,place:AK:0245295,Lowell Point CDP,Lowell Point,Lowell Point,02122,Kenai Peninsula Borough,Census-designated place,60.076158,-149.493684,1
+AK,0245460,place:AK:0245460,Lower Kalskag city,Lower Kalskag,Lower Kalskag,02050,Bethel Census Area,Incorporated place,61.520229,-160.352987,1
+AK,0245700,place:AK:0245700,Lutak CDP,Lutak,Lutak,02100,Haines Borough,Census-designated place,59.411786,-135.588964,1
+AK,0246780,place:AK:0246780,Manley Hot Springs CDP,Manley Hot Springs,Manley Hot Springs,02290,Yukon-Koyukuk Census Area,Census-designated place,65.018747,-150.645255,1
+AK,0246890,place:AK:0246890,Manokotak city,Manokotak,Manokotak,02070,Dillingham Census Area,Incorporated place,58.697452,-158.893734,1
+AK,0247000,place:AK:0247000,Marshall city,Marshall,Marshall,02158,Kusilvak Census Area,Incorporated place,61.871169,-162.063055,1
+AK,0245790,place:AK:0245790,McCarthy CDP,McCarthy,McCarthy,02066,Copper River Census Area,Census-designated place,61.453907,-142.864832,1
+AK,0246010,place:AK:0246010,McGrath city,McGrath,McGrath,02290,Yukon-Koyukuk Census Area,Incorporated place,62.94079,-155.566608,1
+AK,0247735,place:AK:0247735,Meadow Lakes CDP,Meadow Lakes,Meadow Lakes,02170,Matanuska-Susitna Borough,Census-designated place,61.637987,-149.609611,1
+AK,0247990,place:AK:0247990,Mekoryuk city,Mekoryuk,Mekoryuk,02050,Bethel Census Area,Incorporated place,60.368344,-166.276887,1
+AK,0248200,place:AK:0248200,Mendeltna CDP,Mendeltna,Mendeltna,02066,Copper River Census Area,Census-designated place,62.146287,-146.757731,1
+AK,0248540,place:AK:0248540,Mentasta Lake CDP,Mentasta Lake,Mentasta Lake,02066,Copper River Census Area,Census-designated place,63.011176,-143.560658,1
+AK,0248590,place:AK:0248590,Mertarvik CDP,Mertarvik,Mertarvik,02050,Bethel Census Area,Census-designated place,60.81087,-164.498466,0
+AK,0248870,place:AK:0248870,Metlakatla CDP,Metlakatla,Metlakatla,02198,Prince of Wales-Hyder Census Area,Census-designated place,55.114608,-131.555585,1
+AK,0249200,place:AK:0249200,Mill Bay CDP,Mill Bay,Mill Bay,02150,Kodiak Island Borough,Census-designated place,57.81648,-152.364879,1
+AK,0249530,place:AK:0249530,Minto CDP,Minto,Minto,02290,Yukon-Koyukuk Census Area,Census-designated place,65.088775,-149.59235,1
+AK,0250080,place:AK:0250080,Moose Creek CDP,Moose Creek,Moose Creek,02090,Fairbanks North Star Borough,Census-designated place,64.714368,-147.157953,1
+AK,0250190,place:AK:0250190,Moose Pass CDP,Moose Pass,Moose Pass,02122,Kenai Peninsula Borough,Census-designated place,60.505936,-149.468361,1
+AK,0250800,place:AK:0250800,Mosquito Lake CDP,Mosquito Lake,Mosquito Lake,02100,Haines Borough,Census-designated place,59.475103,-136.199106,1
+AK,0251180,place:AK:0251180,Mountain Village city,Mountain Village,Mountain Village,02158,Kusilvak Census Area,Incorporated place,62.091567,-163.6942,1
+AK,0251455,place:AK:0251455,Mud Bay CDP,Mud Bay,Mud Bay,02100,Haines Borough,Census-designated place,59.151554,-135.358252,1
+AK,0251960,place:AK:0251960,Nabesna CDP,Nabesna,Nabesna,02066,Copper River Census Area,Census-designated place,62.496057,-143.007785,1
+AK,0252060,place:AK:0252060,Naknek CDP,Naknek,Naknek,02060,Bristol Bay Borough,Census-designated place,58.788167,-156.876968,1
+AK,0252210,place:AK:0252210,Nanwalek CDP,Nanwalek,Nanwalek,02122,Kenai Peninsula Borough,Census-designated place,59.31378,-151.91407,1
+AK,0252390,place:AK:0252390,Napakiak city,Napakiak,Napakiak,02050,Bethel Census Area,Incorporated place,60.691071,-161.985896,1
+AK,0252720,place:AK:0252720,Napaskiak city,Napaskiak,Napaskiak,02050,Bethel Census Area,Incorporated place,60.701089,-161.762648,1
+AK,0252845,place:AK:0252845,Naukati Bay CDP,Naukati Bay,Naukati Bay,02198,Prince of Wales-Hyder Census Area,Census-designated place,55.874658,-133.195777,1
+AK,0252915,place:AK:0252915,Nelchina CDP,Nelchina,Nelchina,02066,Copper River Census Area,Census-designated place,62.010375,-146.830239,1
+AK,0252940,place:AK:0252940,Nelson Lagoon CDP,Nelson Lagoon,Nelson Lagoon,02013,Aleutians East Borough,Census-designated place,55.874422,-161.599132,1
+AK,0253050,place:AK:0253050,Nenana city,Nenana,Nenana,02290,Yukon-Koyukuk Census Area,Incorporated place,64.536054,-149.083629,1
+AK,0253710,place:AK:0253710,New Stuyahok city,New Stuyahok,New Stuyahok,02070,Dillingham Census Area,Incorporated place,59.494288,-157.287239,1
+AK,0253270,place:AK:0253270,Newhalen city,Newhalen,Newhalen,02164,Lake and Peninsula Borough,Incorporated place,59.736589,-154.900978,1
+AK,0253820,place:AK:0253820,Newtok CDP,Newtok,Newtok,02050,Bethel Census Area,Census-designated place,60.938548,-164.648371,1
+AK,0253930,place:AK:0253930,Nightmute city,Nightmute,Nightmute,02050,Bethel Census Area,Incorporated place,60.462409,-164.834755,1
+AK,0254050,place:AK:0254050,Nikiski CDP,Nikiski,Nikiski,02122,Kenai Peninsula Borough,Census-designated place,60.724828,-151.223945,1
+AK,0254085,place:AK:0254085,Nikolaevsk CDP,Nikolaevsk,Nikolaevsk,02122,Kenai Peninsula Borough,Census-designated place,59.829549,-151.596384,1
+AK,0254150,place:AK:0254150,Nikolai city,Nikolai,Nikolai,02290,Yukon-Koyukuk Census Area,Incorporated place,63.007642,-154.376207,1
+AK,0254260,place:AK:0254260,Nikolski CDP,Nikolski,Nikolski,02016,Aleutians West Census Area,Census-designated place,53.003888,-168.725817,1
+AK,0254480,place:AK:0254480,Ninilchik CDP,Ninilchik,Ninilchik,02122,Kenai Peninsula Borough,Census-designated place,60.062719,-151.409839,1
+AK,0254700,place:AK:0254700,Noatak CDP,Noatak,Noatak,02188,Northwest Arctic Borough,Census-designated place,67.61379,-163.039621,1
+AK,0254920,place:AK:0254920,Nome city,Nome,Nome,02180,Nome Census Area,Incorporated place,64.505741,-165.415287,1
+AK,0255030,place:AK:0255030,Nondalton city,Nondalton,Nondalton,02164,Lake and Peninsula Borough,Incorporated place,59.974359,-154.863623,1
+AK,0255140,place:AK:0255140,Noorvik city,Noorvik,Noorvik,02188,Northwest Arctic Borough,Incorporated place,66.828034,-161.043899,1
+AK,0255745,place:AK:0255745,North Lakes CDP,North Lakes,North Lakes,02170,Matanuska-Susitna Borough,Census-designated place,61.618378,-149.310724,1
+AK,0255910,place:AK:0255910,North Pole city,North Pole,North Pole,02090,Fairbanks North Star Borough,Incorporated place,64.752728,-147.362655,1
+AK,0256220,place:AK:0256220,Northway CDP,Northway,Northway,02240,Southeast Fairbanks Census Area,Census-designated place,63.000809,-141.54127,1
+AK,0256320,place:AK:0256320,Nuiqsut city,Nuiqsut,Nuiqsut,02185,North Slope Borough,Incorporated place,70.210519,-151.024955,1
+AK,0256350,place:AK:0256350,Nulato city,Nulato,Nulato,02290,Yukon-Koyukuk Census Area,Incorporated place,64.691253,-158.275373,1
+AK,0256600,place:AK:0256600,Nunam Iqua city,Nunam Iqua,Nunam Iqua,02158,Kusilvak Census Area,Incorporated place,62.507215,-164.902142,1
+AK,0256680,place:AK:0256680,Nunapitchuk city,Nunapitchuk,Nunapitchuk,02050,Bethel Census Area,Incorporated place,60.879718,-162.462203,1
+AK,0257340,place:AK:0257340,Old Harbor city,Old Harbor,Old Harbor,02150,Kodiak Island Borough,Incorporated place,57.218571,-153.327831,1
+AK,0258330,place:AK:0258330,Oscarville CDP,Oscarville,Oscarville,02050,Bethel Census Area,Census-designated place,60.732087,-161.77692,1
+AK,0258550,place:AK:0258550,Ouzinkie city,Ouzinkie,Ouzinkie,02150,Kodiak Island Borough,Incorporated place,57.92449,-152.463129,1
+AK,0258660,place:AK:0258660,Palmer city,Palmer,Palmer,02170,Matanuska-Susitna Borough,Incorporated place,61.597166,-149.114683,1
+AK,0259320,place:AK:0259320,Paxson CDP,Paxson,Paxson,02066,Copper River Census Area,Census-designated place,62.975632,-145.758281,1
+AK,0259540,place:AK:0259540,Pedro Bay CDP,Pedro Bay,Pedro Bay,02164,Lake and Peninsula Borough,Census-designated place,59.7895,-154.141274,1
+AK,0259650,place:AK:0259650,Pelican city,Pelican,Pelican,02105,Hoonah-Angoon Census Area,Incorporated place,57.959231,-136.21508,1
+AK,0260200,place:AK:0260200,Perryville CDP,Perryville,Perryville,02164,Lake and Peninsula Borough,Census-designated place,55.934016,-159.155546,1
+AK,0260310,place:AK:0260310,Petersburg CDP,Petersburg,Petersburg,02195,Petersburg Borough,Census-designated place,56.755248,-132.87645,1
+AK,0260460,place:AK:0260460,Petersville CDP,Petersville,Petersville,02170,Matanuska-Susitna Borough,Census-designated place,62.448962,-150.8652,1
+AK,0260640,place:AK:0260640,Pilot Point city,Pilot Point,Pilot Point,02164,Lake and Peninsula Borough,Incorporated place,57.541137,-157.722807,1
+AK,0260750,place:AK:0260750,Pilot Station city,Pilot Station,Pilot Station,02158,Kusilvak Census Area,Incorporated place,61.94658,-162.878301,1
+AK,0260860,place:AK:0260860,Pitkas Point CDP,Pitkas Point,Pitkas Point,02158,Kusilvak Census Area,Census-designated place,62.037403,-163.268128,1
+AK,0261080,place:AK:0261080,Platinum city,Platinum,Platinum,02050,Bethel Census Area,Incorporated place,58.966943,-161.758507,1
+AK,0261120,place:AK:0261120,Pleasant Valley CDP,Pleasant Valley,Pleasant Valley,02090,Fairbanks North Star Borough,Census-designated place,64.885468,-146.89855,1
+AK,0261190,place:AK:0261190,Point Baker CDP,Point Baker,Point Baker,02198,Prince of Wales-Hyder Census Area,Census-designated place,56.348132,-133.616794,1
+AK,0261630,place:AK:0261630,Point Hope city,Point Hope,Point Hope,02185,North Slope Borough,Incorporated place,68.344161,-166.670852,1
+AK,0261700,place:AK:0261700,Point Lay CDP,Point Lay,Point Lay,02185,North Slope Borough,Census-designated place,69.737134,-162.835237,1
+AK,0261788,place:AK:0261788,Point MacKenzie CDP,Point MacKenzie,Point MacKenzie,02170,Matanuska-Susitna Borough,Census-designated place,61.367427,-150.049189,1
+AK,0261825,place:AK:0261825,Point Possession CDP,Point Possession,Point Possession,02122,Kenai Peninsula Borough,Census-designated place,60.906671,-150.716109,1
+AK,0262125,place:AK:0262125,Pope-Vannoy Landing CDP,Pope-Vannoy Landing,Pope-Vannoy Landing,02164,Lake and Peninsula Borough,Census-designated place,59.570808,-154.446886,0
+AK,0262510,place:AK:0262510,Port Alexander city,Port Alexander,Port Alexander,02198,Prince of Wales-Hyder Census Area,Incorporated place,56.237681,-134.652797,1
+AK,0262620,place:AK:0262620,Port Alsworth CDP,Port Alsworth,Port Alsworth,02164,Lake and Peninsula Borough,Census-designated place,60.157849,-154.340608,1
+AK,0263170,place:AK:0263170,Port Clarence CDP,Port Clarence,Port Clarence,02180,Nome Census Area,Census-designated place,65.109508,-166.764683,0
+AK,0263280,place:AK:0263280,Port Graham CDP,Port Graham,Port Graham,02122,Kenai Peninsula Borough,Census-designated place,59.339819,-151.846501,1
+AK,0263390,place:AK:0263390,Port Heiden city,Port Heiden,Port Heiden,02164,Lake and Peninsula Borough,Incorporated place,56.966493,-158.601445,1
+AK,0263610,place:AK:0263610,Port Lions city,Port Lions,Port Lions,02150,Kodiak Island Borough,Incorporated place,57.867012,-152.856248,1
+AK,0263870,place:AK:0263870,Port Protection CDP,Port Protection,Port Protection,02198,Prince of Wales-Hyder Census Area,Census-designated place,56.331215,-133.60714,1
+AK,0262285,place:AK:0262285,Portage Creek CDP,Portage Creek,Portage Creek,02070,Dillingham Census Area,Census-designated place,58.90542,-157.669817,1
+AK,0264240,place:AK:0264240,Primrose CDP,Primrose,Primrose,02122,Kenai Peninsula Borough,Census-designated place,60.341624,-149.296448,1
+AK,0264380,place:AK:0264380,Prudhoe Bay CDP,Prudhoe Bay,Prudhoe Bay,02185,North Slope Borough,Census-designated place,70.365858,-148.749804,1
+AK,0264600,place:AK:0264600,Quinhagak city,Quinhagak,Quinhagak,02050,Bethel Census Area,Incorporated place,59.751279,-161.897243,1
+AK,0264820,place:AK:0264820,Rampart CDP,Rampart,Rampart,02290,Yukon-Koyukuk Census Area,Census-designated place,65.405194,-149.920294,1
+AK,0264930,place:AK:0264930,Red Devil CDP,Red Devil,Red Devil,02050,Bethel Census Area,Census-designated place,61.757552,-157.35841,1
+AK,0264980,place:AK:0264980,Red Dog Mine CDP,Red Dog Mine,Red Dog Mine,02188,Northwest Arctic Borough,Census-designated place,68.046903,-162.872123,1
+AK,0265345,place:AK:0265345,Ridgeway CDP,Ridgeway,Ridgeway,02122,Kenai Peninsula Borough,Census-designated place,60.530833,-151.052101,1
+AK,0265590,place:AK:0265590,Ruby city,Ruby,Ruby,02290,Yukon-Koyukuk Census Area,Incorporated place,64.72329,-155.50054,1
+AK,0265700,place:AK:0265700,Russian Mission city,Russian Mission,Russian Mission,02158,Kusilvak Census Area,Incorporated place,61.78971,-161.361743,1
+AK,0266510,place:AK:0266510,Salamatof CDP,Salamatof,Salamatof,02122,Kenai Peninsula Borough,Census-designated place,60.603744,-151.318036,1
+AK,0266550,place:AK:0266550,Salcha CDP,Salcha,Salcha,02090,Fairbanks North Star Borough,Census-designated place,64.534101,-146.883546,1
+AK,0267020,place:AK:0267020,Sand Point city,Sand Point,Sand Point,02013,Aleutians East Borough,Incorporated place,55.314459,-160.485552,1
+AK,0267460,place:AK:0267460,Savoonga city,Savoonga,Savoonga,02180,Nome Census Area,Incorporated place,63.679706,-170.483324,1
+AK,0267570,place:AK:0267570,Saxman city,Saxman,Saxman,02130,Ketchikan Gateway Borough,Incorporated place,55.323145,-131.589165,1
+AK,0267680,place:AK:0267680,Scammon Bay city,Scammon Bay,Scammon Bay,02158,Kusilvak Census Area,Incorporated place,61.842644,-165.584634,1
+AK,0268230,place:AK:0268230,Selawik city,Selawik,Selawik,02188,Northwest Arctic Borough,Incorporated place,66.602596,-159.998857,1
+AK,0268340,place:AK:0268340,Seldovia city,Seldovia,Seldovia,02122,Kenai Peninsula Borough,Incorporated place,59.43948,-151.710387,1
+AK,0268370,place:AK:0268370,Seldovia Village CDP,Seldovia Village,Seldovia Village,02122,Kenai Peninsula Borough,Census-designated place,59.46127,-151.588755,1
+AK,0268560,place:AK:0268560,Seward city,Seward,Seward,02122,Kenai Peninsula Borough,Incorporated place,60.123199,-149.391719,1
+AK,0268670,place:AK:0268670,Shageluk city,Shageluk,Shageluk,02290,Yukon-Koyukuk Census Area,Incorporated place,62.691949,-159.555231,1
+AK,0268890,place:AK:0268890,Shaktoolik city,Shaktoolik,Shaktoolik,02180,Nome Census Area,Incorporated place,64.356255,-161.19622,1
+AK,0269770,place:AK:0269770,Shishmaref city,Shishmaref,Shishmaref,02180,Nome Census Area,Incorporated place,66.238115,-166.11061,1
+AK,0270100,place:AK:0270100,Shungnak city,Shungnak,Shungnak,02188,Northwest Arctic Borough,Incorporated place,66.885093,-157.174626,1
+AK,0270320,place:AK:0270320,Silver Springs CDP,Silver Springs,Silver Springs,02066,Copper River Census Area,Census-designated place,62.019171,-145.358049,1
+AK,0270540,place:AK:0270540,Sitka city and borough,Sitka city and,Sitka city and,02220,Sitka City and Borough,Incorporated place,57.193204,-135.367396,1
+AK,0270760,place:AK:0270760,Skagway CDP,Skagway,Skagway,02230,Skagway Municipality,Census-designated place,59.46051,-135.283198,1
+AK,0270870,place:AK:0270870,Skwentna CDP,Skwentna,Skwentna,02170,Matanuska-Susitna Borough,Census-designated place,61.888689,-151.199994,1
+AK,0270930,place:AK:0270930,Slana CDP,Slana,Slana,02066,Copper River Census Area,Census-designated place,62.602416,-143.451863,1
+AK,0271090,place:AK:0271090,Sleetmute CDP,Sleetmute,Sleetmute,02050,Bethel Census Area,Census-designated place,61.654462,-157.10249,1
+AK,0271640,place:AK:0271640,Soldotna city,Soldotna,Soldotna,02122,Kenai Peninsula Borough,Incorporated place,60.485316,-151.069016,1
+AK,0272135,place:AK:0272135,South Lakes CDP,South Lakes,South Lakes,02170,Matanuska-Susitna Borough,Census-designated place,61.587561,-149.315544,1
+AK,0272190,place:AK:0272190,South Naknek CDP,South Naknek,South Naknek,02060,Bristol Bay Borough,Census-designated place,58.662911,-156.984373,1
+AK,0272230,place:AK:0272230,South Van Horn CDP,South Van Horn,South Van Horn,02090,Fairbanks North Star Borough,Census-designated place,64.809726,-147.787779,1
+AK,0265800,place:AK:0265800,St. George city,St. George,St. George,02016,Aleutians West Census Area,Incorporated place,56.579176,-169.610876,1
+AK,0266140,place:AK:0266140,St. Mary's city,St. Mary's,St. Mary's,02158,Kusilvak Census Area,Incorporated place,62.062712,-163.244318,1
+AK,0266360,place:AK:0266360,St. Michael city,St. Michael,St. Michael,02180,Nome Census Area,Incorporated place,63.458674,-162.133535,1
+AK,0266470,place:AK:0266470,St. Paul city,St. Paul,St. Paul,02016,Aleutians West Census Area,Incorporated place,57.181419,-170.280856,1
+AK,0272960,place:AK:0272960,Stebbins city,Stebbins,Stebbins,02180,Nome Census Area,Incorporated place,63.475667,-162.261328,1
+AK,0272985,place:AK:0272985,Steele Creek CDP,Steele Creek,Steele Creek,02090,Fairbanks North Star Borough,Census-designated place,64.92312,-147.431552,1
+AK,0273070,place:AK:0273070,Sterling CDP,Sterling,Sterling,02122,Kenai Peninsula Borough,Census-designated place,60.539054,-150.812259,1
+AK,0273290,place:AK:0273290,Stevens Village CDP,Stevens Village,Stevens Village,02290,Yukon-Koyukuk Census Area,Census-designated place,66.024256,-149.077872,1
+AK,0273400,place:AK:0273400,Stony River CDP,Stony River,Stony River,02050,Bethel Census Area,Census-designated place,61.792283,-156.590029,1
+AK,0273950,place:AK:0273950,Sunrise CDP,Sunrise,Sunrise,02122,Kenai Peninsula Borough,Census-designated place,60.869131,-149.471513,1
+AK,0274340,place:AK:0274340,Susitna CDP,Susitna,Susitna,02170,Matanuska-Susitna Borough,Census-designated place,61.538463,-150.585374,1
+AK,0274350,place:AK:0274350,Susitna North CDP,Susitna North,Susitna North,02170,Matanuska-Susitna Borough,Census-designated place,62.147592,-149.748537,1
+AK,0274525,place:AK:0274525,Sutton-Alpine CDP,Sutton-Alpine,Sutton-Alpine,02170,Matanuska-Susitna Borough,Census-designated place,61.740863,-148.874038,1
+AK,0274610,place:AK:0274610,Takotna CDP,Takotna,Takotna,02290,Yukon-Koyukuk Census Area,Census-designated place,62.988725,-156.031621,1
+AK,0274830,place:AK:0274830,Talkeetna CDP,Talkeetna,Talkeetna,02170,Matanuska-Susitna Borough,Census-designated place,62.306069,-149.939827,1
+AK,0275050,place:AK:0275050,Tanacross CDP,Tanacross,Tanacross,02240,Southeast Fairbanks Census Area,Census-designated place,63.328691,-143.486599,1
+AK,0275077,place:AK:0275077,Tanaina CDP,Tanaina,Tanaina,02170,Matanuska-Susitna Borough,Census-designated place,61.657162,-149.428191,1
+AK,0275160,place:AK:0275160,Tanana city,Tanana,Tanana,02290,Yukon-Koyukuk Census Area,Incorporated place,65.183991,-152.055119,1
+AK,0275380,place:AK:0275380,Tatitlek CDP,Tatitlek,Tatitlek,02063,Chugach Census Area,Census-designated place,60.892443,-146.672083,1
+AK,0275480,place:AK:0275480,Tazlina CDP,Tazlina,Tazlina,02066,Copper River Census Area,Census-designated place,62.058276,-145.463967,1
+AK,0275930,place:AK:0275930,Teller city,Teller,Teller,02180,Nome Census Area,Incorporated place,65.252647,-166.352446,1
+AK,0276260,place:AK:0276260,Tenakee Springs city,Tenakee Springs,Tenakee Springs,02105,Hoonah-Angoon Census Area,Incorporated place,57.790524,-135.129497,1
+AK,0276590,place:AK:0276590,Tetlin CDP,Tetlin,Tetlin,02240,Southeast Fairbanks Census Area,Census-designated place,63.180609,-142.504042,1
+AK,0277140,place:AK:0277140,Thorne Bay city,Thorne Bay,Thorne Bay,02198,Prince of Wales-Hyder Census Area,Incorporated place,55.668003,-132.538237,1
+AK,0277690,place:AK:0277690,Togiak city,Togiak,Togiak,02070,Dillingham Census Area,Incorporated place,59.052942,-160.396855,1
+AK,0277800,place:AK:0277800,Tok CDP,Tok,Tok,02240,Southeast Fairbanks Census Area,Census-designated place,63.329324,-143.037804,1
+AK,0278240,place:AK:0278240,Toksook Bay city,Toksook Bay,Toksook Bay,02050,Bethel Census Area,Incorporated place,60.528597,-165.105638,1
+AK,0278297,place:AK:0278297,Tolsona CDP,Tolsona,Tolsona,02066,Copper River Census Area,Census-designated place,62.062929,-146.106249,1
+AK,0278350,place:AK:0278350,Tonsina CDP,Tonsina,Tonsina,02066,Copper River Census Area,Census-designated place,61.532192,-145.111533,1
+AK,0278680,place:AK:0278680,Trapper Creek CDP,Trapper Creek,Trapper Creek,02170,Matanuska-Susitna Borough,Census-designated place,62.413592,-150.403095,1
+AK,0278790,place:AK:0278790,Tuluksak CDP,Tuluksak,Tuluksak,02050,Bethel Census Area,Census-designated place,61.104415,-160.938363,1
+AK,0279120,place:AK:0279120,Tuntutuliak CDP,Tuntutuliak,Tuntutuliak,02050,Bethel Census Area,Census-designated place,60.410291,-162.669391,1
+AK,0279230,place:AK:0279230,Tununak CDP,Tununak,Tununak,02050,Bethel Census Area,Census-designated place,60.60031,-165.138991,1
+AK,0279780,place:AK:0279780,Twin Hills CDP,Twin Hills,Twin Hills,02070,Dillingham Census Area,Census-designated place,59.100981,-160.309111,1
+AK,0279830,place:AK:0279830,Two Rivers CDP,Two Rivers,Two Rivers,02090,Fairbanks North Star Borough,Census-designated place,64.890845,-147.089884,1
+AK,0279890,place:AK:0279890,Tyonek CDP,Tyonek,Tyonek,02122,Kenai Peninsula Borough,Census-designated place,61.099425,-151.338909,1
+AK,0280100,place:AK:0280100,Ugashik CDP,Ugashik,Ugashik,02164,Lake and Peninsula Borough,Census-designated place,57.646883,-156.99619,1
+AK,0280660,place:AK:0280660,Unalakleet city,Unalakleet,Unalakleet,02180,Nome Census Area,Incorporated place,63.892966,-160.795819,1
+AK,0280770,place:AK:0280770,Unalaska city,Unalaska,Unalaska,02016,Aleutians West Census Area,Incorporated place,53.90504,-166.532103,1
+AK,0281320,place:AK:0281320,Upper Kalskag city,Upper Kalskag,Upper Kalskag,02050,Bethel Census Area,Incorporated place,61.538657,-160.350238,1
+AK,0281920,place:AK:0281920,Utqiaġvik city,Utqiaġvik,Utqiaġvik,02185,North Slope Borough,Incorporated place,71.264374,-156.753686,1
+AK,0282200,place:AK:0282200,Valdez city,Valdez,Valdez,,,Incorporated place,61.123231,-146.306773,1
+AK,0282420,place:AK:0282420,Venetie CDP,Venetie,Venetie,02290,Yukon-Koyukuk Census Area,Census-designated place,67.020691,-146.374276,1
+AK,0282750,place:AK:0282750,Wainwright city,Wainwright,Wainwright,02185,North Slope Borough,Incorporated place,70.646273,-159.958456,1
+AK,0282860,place:AK:0282860,Wales city,Wales,Wales,02180,Nome Census Area,Incorporated place,65.60606,-168.071036,1
+AK,0283080,place:AK:0283080,Wasilla city,Wasilla,Wasilla,02170,Matanuska-Susitna Borough,Incorporated place,61.578507,-149.476328,1
+AK,0284000,place:AK:0284000,Whale Pass city,Whale Pass,Whale Pass,02198,Prince of Wales-Hyder Census Area,Incorporated place,56.082115,-133.067469,1
+AK,0284070,place:AK:0284070,White Mountain city,White Mountain,White Mountain,02180,Nome Census Area,Incorporated place,64.682363,-163.412766,1
+AK,0284120,place:AK:0284120,Whitestone CDP,Whitestone,Whitestone,02240,Southeast Fairbanks Census Area,Census-designated place,64.152633,-145.905841,1
+AK,0284200,place:AK:0284200,Whitestone Logging Camp CDP,Whitestone Logging Camp,Whitestone Logging Camp,02105,Hoonah-Angoon Census Area,Census-designated place,58.058302,-135.409299,1
+AK,0284510,place:AK:0284510,Whittier city,Whittier,Whittier,02063,Chugach Census Area,Incorporated place,60.777108,-148.665873,1
+AK,0285280,place:AK:0285280,Willow CDP,Willow,Willow,02170,Matanuska-Susitna Borough,Census-designated place,61.886955,-149.620241,1
+AK,0285290,place:AK:0285290,Willow Creek CDP,Willow Creek,Willow Creek,02066,Copper River Census Area,Census-designated place,61.85558,-145.191206,1
+AK,0285610,place:AK:0285610,Wiseman CDP,Wiseman,Wiseman,02290,Yukon-Koyukuk Census Area,Census-designated place,67.48151,-150.158552,1
+AK,0285680,place:AK:0285680,Womens Bay CDP,Womens Bay,Womens Bay,02150,Kodiak Island Borough,Census-designated place,57.688876,-152.67593,1
+AK,0286380,place:AK:0286380,Wrangell city and borough,Wrangell city and,Wrangell city and,02275,Wrangell City and Borough,Incorporated place,56.180779,-132.026788,1
+AK,0286490,place:AK:0286490,Yakutat CDP,Yakutat,Yakutat,02282,Yakutat City and Borough,Census-designated place,59.522142,-139.58918,1

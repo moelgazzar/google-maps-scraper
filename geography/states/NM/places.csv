@@ -1,0 +1,529 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+NM,3500240,place:NM:3500240,Abeytas CDP,Abeytas,Abeytas,35053,Socorro County,Census-designated place,34.465202,-106.813755,1
+NM,3500310,place:NM:3500310,Abiquiu CDP,Abiquiu,Abiquiu,35039,Rio Arriba County,Census-designated place,36.201726,-106.323852,1
+NM,3500765,place:NM:3500765,Acomita Lake CDP,Acomita Lake,Acomita Lake,35006,Cibola County,Census-designated place,35.068881,-107.614564,1
+NM,3500940,place:NM:3500940,Adelino CDP,Adelino,Adelino,35061,Valencia County,Census-designated place,34.70639,-106.731823,1
+NM,3501220,place:NM:3501220,Agua Fria CDP,Agua Fria,Agua Fria,35049,Santa Fe County,Census-designated place,35.661557,-106.014788,1
+NM,3501640,place:NM:3501640,Alamillo CDP,Alamillo,Alamillo,35053,Socorro County,Census-designated place,34.251883,-106.9158,1
+NM,3501710,place:NM:3501710,Alamo CDP,Alamo,Alamo,35053,Socorro County,Census-designated place,34.4184,-107.512485,1
+NM,3501780,place:NM:3501780,Alamogordo city,Alamogordo,Alamogordo,35035,Otero County,Incorporated place,32.883619,-105.963607,1
+NM,3502000,place:NM:3502000,Albuquerque city,Albuquerque,Albuquerque,35001,Bernalillo County,Incorporated place,35.10478,-106.646809,1
+NM,3502070,place:NM:3502070,Alcalde CDP,Alcalde,Alcalde,35039,Rio Arriba County,Census-designated place,36.085393,-106.057516,1
+NM,3502210,place:NM:3502210,Algodones CDP,Algodones,Algodones,35043,Sandoval County,Census-designated place,35.370711,-106.488644,1
+NM,3502560,place:NM:3502560,Alma CDP,Alma,Alma,35003,Catron County,Census-designated place,33.384508,-108.894402,1
+NM,3503400,place:NM:3503400,Angel Fire village,Angel Fire,Angel Fire,35007,Colfax County,Incorporated place,36.378097,-105.258979,1
+NM,3503680,place:NM:3503680,Angustura CDP,Angustura,Angustura,35045,San Juan County,Census-designated place,36.708241,-107.912144,1
+NM,3503750,place:NM:3503750,Animas CDP,Animas,Animas,35023,Hidalgo County,Census-designated place,31.944863,-108.806459,1
+NM,3503820,place:NM:3503820,Anthony city,Anthony,Anthony,35013,Doña Ana County,Incorporated place,32.013148,-106.598396,1
+NM,3503890,place:NM:3503890,Anton Chico CDP,Anton Chico,Anton Chico,35019,Guadalupe County,Census-designated place,35.194869,-105.143897,1
+NM,3503970,place:NM:3503970,Anzac Village CDP,Anzac Village,Anzac Village,35006,Cibola County,Census-designated place,35.062402,-107.74138,1
+NM,3504030,place:NM:3504030,Apache Creek CDP,Apache Creek,Apache Creek,35003,Catron County,Census-designated place,33.860337,-108.615044,1
+NM,3504450,place:NM:3504450,Aragon CDP,Aragon,Aragon,35003,Catron County,Census-designated place,33.889659,-108.520212,1
+NM,3504660,place:NM:3504660,Arenas Valley CDP,Arenas Valley,Arenas Valley,35017,Grant County,Census-designated place,32.775647,-108.203136,1
+NM,3504870,place:NM:3504870,Arrey CDP,Arrey,Arrey,35051,Sierra County,Census-designated place,32.847176,-107.320347,1
+NM,3505002,place:NM:3505002,Arroyo Hondo CDP,Arroyo Hondo,"Arroyo Hondo, Santa Fe County",35049,Santa Fe County,Census-designated place,35.610294,-105.944991,1
+NM,3505010,place:NM:3505010,Arroyo Hondo CDP,Arroyo Hondo,"Arroyo Hondo, Taos County",35055,Taos County,Census-designated place,36.534599,-105.666602,1
+NM,3505150,place:NM:3505150,Arroyo Seco CDP,Arroyo Seco,Arroyo Seco,35055,Taos County,Census-designated place,36.521516,-105.586108,1
+NM,3505220,place:NM:3505220,Artesia city,Artesia,Artesia,35015,Eddy County,Incorporated place,32.851662,-104.423703,1
+NM,3505430,place:NM:3505430,Atoka CDP,Atoka,Atoka,35015,Eddy County,Census-designated place,32.780406,-104.393276,1
+NM,3505780,place:NM:3505780,Aztec city,Aztec,Aztec,35045,San Juan County,Incorporated place,36.815993,-107.970266,1
+NM,3506220,place:NM:3506220,Barton CDP,Barton,Barton,35001,Bernalillo County,Census-designated place,35.065283,-106.256859,1
+NM,3506270,place:NM:3506270,Bayard city,Bayard,Bayard,35017,Grant County,Incorporated place,32.758182,-108.13381,1
+NM,3506340,place:NM:3506340,Becenti CDP,Becenti,Becenti,35031,McKinley County,Census-designated place,35.812278,-108.170855,1
+NM,3506425,place:NM:3506425,Beclabito CDP,Beclabito,Beclabito,35045,San Juan County,Census-designated place,36.833469,-109.00382,1
+NM,3506480,place:NM:3506480,Belen city,Belen,Belen,35061,Valencia County,Incorporated place,34.766572,-106.808512,1
+NM,3506760,place:NM:3506760,Bent CDP,Bent,Bent,35035,Otero County,Census-designated place,33.142547,-105.87237,1
+NM,3506830,place:NM:3506830,Berino CDP,Berino,Berino,35013,Doña Ana County,Census-designated place,32.069022,-106.622065,1
+NM,3506970,place:NM:3506970,Bernalillo town,Bernalillo,Bernalillo,35043,Sandoval County,Incorporated place,35.312363,-106.554104,1
+NM,3507145,place:NM:3507145,Bibo CDP,Bibo,Bibo,35006,Cibola County,Census-designated place,35.172546,-107.406978,1
+NM,3507492,place:NM:3507492,Black Hat CDP,Black Hat,Black Hat,35031,McKinley County,Census-designated place,35.631051,-108.964078,1
+NM,3507670,place:NM:3507670,Black Rock CDP,Black Rock,Black Rock,35031,McKinley County,Census-designated place,35.080872,-108.798385,1
+NM,3507810,place:NM:3507810,Blanco CDP,Blanco,Blanco,35045,San Juan County,Census-designated place,36.761735,-107.770325,1
+NM,3507880,place:NM:3507880,Bloomfield city,Bloomfield,Bloomfield,35045,San Juan County,Incorporated place,36.742946,-107.973341,1
+NM,3508180,place:NM:3508180,Bluewater CDP,Bluewater,Bluewater,35031,McKinley County,Census-designated place,35.323321,-108.203389,1
+NM,3508190,place:NM:3508190,Bluewater Village CDP,Bluewater Village,Bluewater Village,35006,Cibola County,Census-designated place,35.269403,-107.985448,1
+NM,3508440,place:NM:3508440,Boles Acres CDP,Boles Acres,Boles Acres,35035,Otero County,Census-designated place,32.820016,-105.97768,1
+NM,3508493,place:NM:3508493,Borrego Pass CDP,Borrego Pass,Borrego Pass,35031,McKinley County,Census-designated place,35.566444,-108.016484,1
+NM,3508580,place:NM:3508580,Bosque Farms village,Bosque Farms,Bosque Farms,35061,Valencia County,Incorporated place,34.85329,-106.699689,1
+NM,3508860,place:NM:3508860,Brazos CDP,Brazos,Brazos,35039,Rio Arriba County,Census-designated place,36.752761,-106.559879,1
+NM,3509035,place:NM:3509035,Brimhall Nizhoni CDP,Brimhall Nizhoni,Brimhall Nizhoni,35031,McKinley County,Census-designated place,35.790473,-108.629874,1
+NM,3509202,place:NM:3509202,Broadview CDP,Broadview,Broadview,35006,Cibola County,Census-designated place,35.225717,-107.876066,1
+NM,3509630,place:NM:3509630,Buckhorn CDP,Buckhorn,Buckhorn,35017,Grant County,Census-designated place,33.03148,-108.69439,1
+NM,3509980,place:NM:3509980,Butterfield Park CDP,Butterfield Park,Butterfield Park,35013,Doña Ana County,Census-designated place,32.405228,-106.645663,1
+NM,3510050,place:NM:3510050,Caballo CDP,Caballo,Caballo,35051,Sierra County,Census-designated place,32.980627,-107.307479,1
+NM,3510592,place:NM:3510592,Candy Kitchen CDP,Candy Kitchen,Candy Kitchen,35006,Cibola County,Census-designated place,34.909301,-108.496452,1
+NM,3510610,place:NM:3510610,Canjilon CDP,Canjilon,Canjilon,35039,Rio Arriba County,Census-designated place,36.483678,-106.42402,1
+NM,3510750,place:NM:3510750,Cannon AFB CDP,Cannon AFB,Cannon AFB,35009,Curry County,Census-designated place,34.382391,-103.316881,1
+NM,3511520,place:NM:3511520,Canova CDP,Canova,Canova,35039,Rio Arriba County,Census-designated place,36.167839,-105.988802,1
+NM,3511800,place:NM:3511800,Capitan village,Capitan,Capitan,35027,Lincoln County,Incorporated place,33.539248,-105.598242,1
+NM,3512010,place:NM:3512010,Capulin CDP,Capulin,Capulin,35059,Union County,Census-designated place,36.746498,-104.00213,1
+NM,3512150,place:NM:3512150,Carlsbad city,Carlsbad,Carlsbad,35015,Eddy County,Incorporated place,32.400528,-104.238257,1
+NM,3512430,place:NM:3512430,Carnuel CDP,Carnuel,Carnuel,35001,Bernalillo County,Census-designated place,35.061172,-106.457172,1
+NM,3512500,place:NM:3512500,Carrizozo town,Carrizozo,Carrizozo,35027,Lincoln County,Incorporated place,33.643341,-105.841132,1
+NM,3512786,place:NM:3512786,Casa Colorada CDP,Casa Colorada,Casa Colorada,35061,Valencia County,Census-designated place,34.550932,-106.73987,1
+NM,3512833,place:NM:3512833,Casas Adobes CDP,Casas Adobes,Casas Adobes,35017,Grant County,Census-designated place,32.809425,-107.93898,1
+NM,3512844,place:NM:3512844,Catalpa Canyon CDP,Catalpa Canyon,Catalpa Canyon,35031,McKinley County,Census-designated place,35.49421,-108.720568,1
+NM,3512850,place:NM:3512850,Causey village,Causey,Causey,35041,Roosevelt County,Incorporated place,33.878639,-103.124253,1
+NM,3510470,place:NM:3510470,Cañada de los Alamos CDP,Cañada de los Alamos,Cañada de los Alamos,35049,Santa Fe County,Census-designated place,35.592655,-105.859754,1
+NM,3510770,place:NM:3510770,Cañon CDP,Cañon,Cañon,35043,Sandoval County,Census-designated place,35.671759,-106.752682,1
+NM,3511256,place:NM:3511256,Cañoncito CDP,Cañoncito,Cañoncito,35049,Santa Fe County,Census-designated place,35.535238,-105.838875,1
+NM,3511310,place:NM:3511310,Cañones CDP,Cañones,Cañones,35039,Rio Arriba County,Census-designated place,36.176434,-106.419355,1
+NM,3513200,place:NM:3513200,Cedar Crest CDP,Cedar Crest,Cedar Crest,35001,Bernalillo County,Census-designated place,35.114724,-106.380083,1
+NM,3513270,place:NM:3513270,Cedar Grove CDP,Cedar Grove,Cedar Grove,35049,Santa Fe County,Census-designated place,35.177453,-106.16718,1
+NM,3513340,place:NM:3513340,Cedar Hill CDP,Cedar Hill,Cedar Hill,35045,San Juan County,Census-designated place,36.946037,-107.883474,1
+NM,3513450,place:NM:3513450,Cedro CDP,Cedro,Cedro,35001,Bernalillo County,Census-designated place,35.018055,-106.35083,1
+NM,3513540,place:NM:3513540,Center Point CDP,Center Point,Center Point,35045,San Juan County,Census-designated place,36.870997,-107.95539,1
+NM,3513970,place:NM:3513970,Chama village,Chama,Chama,35039,Rio Arriba County,Incorporated place,36.890126,-106.584163,1
+NM,3514040,place:NM:3514040,Chamberino CDP,Chamberino,Chamberino,35013,Doña Ana County,Census-designated place,32.036366,-106.677625,1
+NM,3514110,place:NM:3514110,Chamisal CDP,Chamisal,Chamisal,35055,Taos County,Census-designated place,36.172542,-105.745963,1
+NM,3514180,place:NM:3514180,Chamita CDP,Chamita,Chamita,35039,Rio Arriba County,Census-designated place,36.069256,-106.09375,1
+NM,3514200,place:NM:3514200,Chamizal CDP,Chamizal,Chamizal,35053,Socorro County,Census-designated place,34.218262,-106.915108,1
+NM,3514250,place:NM:3514250,Chaparral CDP,Chaparral,Chaparral,35013,Doña Ana County,Census-designated place,32.044254,-106.4061,1
+NM,3514670,place:NM:3514670,Chical CDP,Chical,Chical,35061,Valencia County,Census-designated place,34.865786,-106.667091,1
+NM,3514810,place:NM:3514810,Chili CDP,Chili,Chili,35039,Rio Arriba County,Census-designated place,36.104926,-106.152551,1
+NM,3514880,place:NM:3514880,Chilili CDP,Chilili,Chilili,35001,Bernalillo County,Census-designated place,34.897374,-106.233133,1
+NM,3514950,place:NM:3514950,Chimayo CDP,Chimayo,Chimayo,35049,Santa Fe County,Census-designated place,35.999198,-105.946391,1
+NM,3515300,place:NM:3515300,Chupadero CDP,Chupadero,Chupadero,35049,Santa Fe County,Census-designated place,35.8144,-105.919743,1
+NM,3515370,place:NM:3515370,Church Rock CDP,Church Rock,Church Rock,35031,McKinley County,Census-designated place,35.569081,-108.573045,1
+NM,3515440,place:NM:3515440,Cimarron village,Cimarron,Cimarron,35007,Colfax County,Incorporated place,36.506822,-104.908282,1
+NM,3515560,place:NM:3515560,City of the Sun CDP,City of the Sun,City of the Sun,35029,Luna County,Census-designated place,31.846639,-107.65039,1
+NM,3515720,place:NM:3515720,Clayton town,Clayton,Clayton,35059,Union County,Incorporated place,36.446037,-103.148873,1
+NM,3515860,place:NM:3515860,Cliff CDP,Cliff,Cliff,35017,Grant County,Census-designated place,32.965957,-108.617594,1
+NM,3516280,place:NM:3516280,Cloudcroft village,Cloudcroft,Cloudcroft,35035,Otero County,Incorporated place,32.95219,-105.732436,1
+NM,3516420,place:NM:3516420,Clovis city,Clovis,Clovis,35009,Curry County,Incorporated place,34.438569,-103.194194,1
+NM,3516490,place:NM:3516490,Cobre CDP,Cobre,Cobre,35017,Grant County,Census-designated place,32.78042,-108.11061,1
+NM,3516560,place:NM:3516560,Cochiti CDP,Cochiti,Cochiti,35043,Sandoval County,Census-designated place,35.610354,-106.350143,1
+NM,3516585,place:NM:3516585,Cochiti Lake CDP,Cochiti Lake,Cochiti Lake,35043,Sandoval County,Census-designated place,35.647835,-106.342537,1
+NM,3517050,place:NM:3517050,Columbus village,Columbus,Columbus,35029,Luna County,Incorporated place,31.827418,-107.642294,1
+NM,3517260,place:NM:3517260,Conchas Dam CDP,Conchas Dam,Conchas Dam,35047,San Miguel County,Census-designated place,35.354827,-104.195361,1
+NM,3517295,place:NM:3517295,Conejo CDP,Conejo,Conejo,35049,Santa Fe County,Census-designated place,35.62871,-105.942334,1
+NM,3517330,place:NM:3517330,Continental Divide CDP,Continental Divide,Continental Divide,35031,McKinley County,Census-designated place,35.430626,-108.329815,1
+NM,3517610,place:NM:3517610,Cordova CDP,Cordova,Cordova,35039,Rio Arriba County,Census-designated place,36.012769,-105.856648,1
+NM,3517680,place:NM:3517680,Corona village,Corona,Corona,35027,Lincoln County,Incorporated place,34.250106,-105.596979,1
+NM,3517960,place:NM:3517960,Corrales village,Corrales,Corrales,35043,Sandoval County,Incorporated place,35.239759,-106.627861,1
+NM,3518240,place:NM:3518240,Costilla CDP,Costilla,Costilla,35055,Taos County,Census-designated place,36.978472,-105.535268,1
+NM,3518310,place:NM:3518310,Cotton City CDP,Cotton City,Cotton City,35023,Hidalgo County,Census-designated place,32.110519,-108.88013,1
+NM,3518660,place:NM:3518660,Coyote CDP,Coyote,Coyote,35039,Rio Arriba County,Census-designated place,36.150899,-106.607588,1
+NM,3518770,place:NM:3518770,Crestview CDP,Crestview,Crestview,35031,McKinley County,Census-designated place,35.487783,-108.857395,1
+NM,3518905,place:NM:3518905,Crouch Mesa CDP,Crouch Mesa,Crouch Mesa,35045,San Juan County,Census-designated place,36.74804,-108.085278,1
+NM,3518940,place:NM:3518940,Crownpoint CDP,Crownpoint,Crownpoint,35031,McKinley County,Census-designated place,35.734429,-108.15537,1
+NM,3519010,place:NM:3519010,Cruzville CDP,Cruzville,Cruzville,35003,Catron County,Census-designated place,33.81099,-108.66769,1
+NM,3519080,place:NM:3519080,Crystal CDP,Crystal,Crystal,35045,San Juan County,Census-designated place,36.030009,-108.989215,1
+NM,3519110,place:NM:3519110,Cuartelez CDP,Cuartelez,Cuartelez,35049,Santa Fe County,Census-designated place,35.992837,-106.019682,1
+NM,3519150,place:NM:3519150,Cuba village,Cuba,Cuba,35043,Sandoval County,Incorporated place,36.014583,-106.968011,1
+NM,3519220,place:NM:3519220,Cubero CDP,Cubero,Cubero,35006,Cibola County,Census-designated place,35.090454,-107.5261,1
+NM,3519500,place:NM:3519500,Cundiyo CDP,Cundiyo,Cundiyo,35049,Santa Fe County,Census-designated place,35.960838,-105.900856,1
+NM,3519640,place:NM:3519640,Cuyamungue CDP,Cuyamungue,Cuyamungue,35049,Santa Fe County,Census-designated place,35.864784,-106.009623,1
+NM,3519645,place:NM:3519645,Cuyamungue Grant CDP,Cuyamungue Grant,Cuyamungue Grant,35049,Santa Fe County,Census-designated place,35.846423,-105.994872,1
+NM,3519920,place:NM:3519920,Datil CDP,Datil,Datil,35003,Catron County,Census-designated place,34.138307,-107.841893,1
+NM,3520015,place:NM:3520015,Deer Canyon CDP,Deer Canyon,Deer Canyon,35057,Torrance County,Census-designated place,34.423568,-106.284041,1
+NM,3520270,place:NM:3520270,Deming city,Deming,Deming,35029,Luna County,Incorporated place,32.263076,-107.75249,1
+NM,3520480,place:NM:3520480,Des Moines village,Des Moines,Des Moines,35059,Union County,Incorporated place,36.761265,-103.834074,1
+NM,3520620,place:NM:3520620,Dexter town,Dexter,Dexter,35005,Chaves County,Incorporated place,33.194827,-104.368898,1
+NM,3520830,place:NM:3520830,Dixon CDP,Dixon,Dixon,35039,Rio Arriba County,Census-designated place,36.179626,-105.891054,1
+NM,3521180,place:NM:3521180,Dora village,Dora,Dora,35041,Roosevelt County,Incorporated place,33.925866,-103.33855,1
+NM,3521110,place:NM:3521110,Doña Ana CDP,Doña Ana,Doña Ana,35013,Doña Ana County,Census-designated place,32.393941,-106.817714,1
+NM,3521390,place:NM:3521390,Dulce CDP,Dulce,Dulce,35039,Rio Arriba County,Census-designated place,36.953771,-107.000284,1
+NM,3521810,place:NM:3521810,Duran CDP,Duran,Duran,35057,Torrance County,Census-designated place,34.463621,-105.380715,1
+NM,3522020,place:NM:3522020,Eagle Nest village,Eagle Nest,Eagle Nest,35007,Colfax County,Incorporated place,36.546987,-105.260701,1
+NM,3522230,place:NM:3522230,East Pecos CDP,East Pecos,East Pecos,35047,San Miguel County,Census-designated place,35.576552,-105.649963,1
+NM,3522380,place:NM:3522380,Edgewood town,Edgewood,Edgewood,35049,Santa Fe County,Incorporated place,35.131305,-106.220174,1
+NM,3522389,place:NM:3522389,Edith Enclave CDP,Edith Enclave,Edith Enclave,35001,Bernalillo County,Census-designated place,35.211181,-106.585879,0
+NM,3522580,place:NM:3522580,El Cerro CDP,El Cerro,El Cerro,35061,Valencia County,Census-designated place,34.780465,-106.69571,1
+NM,3522582,place:NM:3522582,El Cerro Mission CDP,El Cerro Mission,El Cerro Mission,35061,Valencia County,Census-designated place,34.768734,-106.64468,1
+NM,3522650,place:NM:3522650,El Duende CDP,El Duende,El Duende,35039,Rio Arriba County,Census-designated place,36.068437,-106.130109,1
+NM,3523497,place:NM:3523497,El Morro Valley CDP,El Morro Valley,El Morro Valley,35006,Cibola County,Census-designated place,35.036365,-108.337846,1
+NM,3523840,place:NM:3523840,El Rancho CDP,El Rancho,El Rancho,35049,Santa Fe County,Census-designated place,35.892761,-106.085633,1
+NM,3524120,place:NM:3524120,El Rito CDP,El Rito,El Rito,35039,Rio Arriba County,Census-designated place,36.332589,-106.174147,1
+NM,3524347,place:NM:3524347,El Valle de Arroyo Seco CDP,El Valle de Arroyo Seco,El Valle de Arroyo Seco,35049,Santa Fe County,Census-designated place,35.952619,-106.025957,1
+NM,3522625,place:NM:3522625,Eldorado at Santa Fe CDP,Eldorado at Santa Fe,Eldorado at Santa Fe,35049,Santa Fe County,Census-designated place,35.527237,-105.933974,1
+NM,3522720,place:NM:3522720,Elephant Butte city,Elephant Butte,Elephant Butte,35051,Sierra County,Incorporated place,33.182437,-107.221556,1
+NM,3523000,place:NM:3523000,Elida town,Elida,Elida,35041,Roosevelt County,Incorporated place,33.946904,-103.653118,1
+NM,3524453,place:NM:3524453,Encantado CDP,Encantado,Encantado,35049,Santa Fe County,Census-designated place,35.793367,-105.911133,1
+NM,3524540,place:NM:3524540,Encinal CDP,Encinal,Encinal,35006,Cibola County,Census-designated place,35.111199,-107.465131,1
+NM,3524610,place:NM:3524610,Encino village,Encino,Encino,35057,Torrance County,Incorporated place,34.651828,-105.458577,1
+NM,3524960,place:NM:3524960,Ensenada CDP,Ensenada,Ensenada,35039,Rio Arriba County,Census-designated place,36.730925,-106.536813,1
+NM,3525100,place:NM:3525100,Escondida CDP,Escondida,Escondida,35053,Socorro County,Census-designated place,34.101314,-106.897407,1
+NM,3525135,place:NM:3525135,Escudilla Bonita CDP,Escudilla Bonita,Escudilla Bonita,35003,Catron County,Census-designated place,34.110067,-109.02277,1
+NM,3525170,place:NM:3525170,Española city,Española,Española,35039,Rio Arriba County,Incorporated place,36.003959,-106.070131,1
+NM,3525380,place:NM:3525380,Estancia town,Estancia,Estancia,35057,Torrance County,Incorporated place,34.765037,-106.033482,1
+NM,3525450,place:NM:3525450,Eunice city,Eunice,Eunice,35025,Lea County,Incorporated place,32.436147,-103.149043,1
+NM,3525590,place:NM:3525590,Fairacres CDP,Fairacres,Fairacres,35013,Doña Ana County,Census-designated place,32.304724,-106.836643,1
+NM,3525800,place:NM:3525800,Farmington city,Farmington,Farmington,35045,San Juan County,Incorporated place,36.753833,-108.18053,1
+NM,3525870,place:NM:3525870,Faywood CDP,Faywood,Faywood,35017,Grant County,Census-designated place,32.624613,-107.875276,1
+NM,3526010,place:NM:3526010,Fence Lake CDP,Fence Lake,Fence Lake,35006,Cibola County,Census-designated place,34.653375,-108.67378,1
+NM,3526360,place:NM:3526360,Flora Vista CDP,Flora Vista,Flora Vista,35045,San Juan County,Census-designated place,36.803056,-108.090177,1
+NM,3526570,place:NM:3526570,Floyd village,Floyd,Floyd,35041,Roosevelt County,Incorporated place,34.228715,-103.57619,1
+NM,3526780,place:NM:3526780,Folsom village,Folsom,Folsom,35059,Union County,Incorporated place,36.84777,-103.91761,1
+NM,3527340,place:NM:3527340,Fort Sumner village,Fort Sumner,Fort Sumner,35011,De Baca County,Incorporated place,34.486817,-104.217772,1
+NM,3527410,place:NM:3527410,Fort Wingate CDP,Fort Wingate,Fort Wingate,35031,McKinley County,Census-designated place,35.470846,-108.54386,1
+NM,3527760,place:NM:3527760,Fruitland CDP,Fruitland,Fruitland,35045,San Juan County,Census-designated place,36.743477,-108.394938,1
+NM,3527970,place:NM:3527970,Galisteo CDP,Galisteo,Galisteo,35049,Santa Fe County,Census-designated place,35.398388,-105.957183,1
+NM,3528180,place:NM:3528180,Gallina CDP,Gallina,Gallina,35039,Rio Arriba County,Census-designated place,36.235637,-106.831091,1
+NM,3528460,place:NM:3528460,Gallup city,Gallup,Gallup,35031,McKinley County,Incorporated place,35.513753,-108.743733,1
+NM,3528530,place:NM:3528530,Gamerco CDP,Gamerco,Gamerco,35031,McKinley County,Census-designated place,35.569992,-108.764121,1
+NM,3528670,place:NM:3528670,Garfield CDP,Garfield,Garfield,35013,Doña Ana County,Census-designated place,32.756811,-107.266455,1
+NM,3529160,place:NM:3529160,Gila CDP,Gila,Gila,35017,Grant County,Census-designated place,32.941344,-108.570533,1
+NM,3529230,place:NM:3529230,Gila Hot Springs CDP,Gila Hot Springs,Gila Hot Springs,35017,Grant County,Census-designated place,33.190223,-108.204519,1
+NM,3529540,place:NM:3529540,Glen Acres CDP,Glen Acres,Glen Acres,35023,Hidalgo County,Census-designated place,32.375044,-108.716268,1
+NM,3529790,place:NM:3529790,Glenwood CDP,Glenwood,Glenwood,35003,Catron County,Census-designated place,33.317641,-108.875163,1
+NM,3529860,place:NM:3529860,Glorieta CDP,Glorieta,Glorieta,35049,Santa Fe County,Census-designated place,35.583959,-105.762876,1
+NM,3530000,place:NM:3530000,Golden CDP,Golden,Golden,35049,Santa Fe County,Census-designated place,35.26368,-106.222984,1
+NM,3530035,place:NM:3530035,Golden Acres CDP,Golden Acres,Golden Acres,35006,Cibola County,Census-designated place,35.211215,-107.918343,1
+NM,3530210,place:NM:3530210,Grady village,Grady,Grady,35009,Curry County,Incorporated place,34.821998,-103.315267,1
+NM,3530490,place:NM:3530490,Grants city,Grants,Grants,35006,Cibola County,Incorporated place,35.154187,-107.832275,1
+NM,3530770,place:NM:3530770,Grenville village,Grenville,Grenville,35059,Union County,Incorporated place,36.590533,-103.614573,1
+NM,3531190,place:NM:3531190,Hachita CDP,Hachita,Hachita,35017,Grant County,Census-designated place,31.915328,-108.325207,1
+NM,3531330,place:NM:3531330,Hagerman town,Hagerman,Hagerman,35005,Chaves County,Incorporated place,33.115832,-104.331925,1
+NM,3531540,place:NM:3531540,Hanover CDP,Hanover,Hanover,35017,Grant County,Census-designated place,32.814827,-108.089691,1
+NM,3531680,place:NM:3531680,Happy Valley CDP,Happy Valley,Happy Valley,35015,Eddy County,Census-designated place,32.425881,-104.289846,1
+NM,3531820,place:NM:3531820,Hatch village,Hatch,Hatch,35013,Doña Ana County,Incorporated place,32.673119,-107.161993,1
+NM,3531925,place:NM:3531925,Haystack CDP,Haystack,Haystack,35031,McKinley County,Census-designated place,35.354503,-107.938942,1
+NM,3532100,place:NM:3532100,Hernandez CDP,Hernandez,Hernandez,35039,Rio Arriba County,Census-designated place,36.056857,-106.117799,1
+NM,3532160,place:NM:3532160,High Rolls CDP,High Rolls,High Rolls,35035,Otero County,Census-designated place,32.933741,-105.802659,1
+NM,3532148,place:NM:3532148,Highland Meadows CDP,Highland Meadows,Highland Meadows,35061,Valencia County,Census-designated place,34.938569,-107.166495,1
+NM,3532380,place:NM:3532380,Hillsboro CDP,Hillsboro,Hillsboro,35051,Sierra County,Census-designated place,32.92183,-107.577174,1
+NM,3532520,place:NM:3532520,Hobbs city,Hobbs,Hobbs,35025,Lea County,Incorporated place,32.730479,-103.161383,1
+NM,3532940,place:NM:3532940,Holloman AFB CDP,Holloman AFB,Holloman AFB,35035,Otero County,Census-designated place,32.845957,-106.095943,1
+NM,3533122,place:NM:3533122,Homer C Jones CDP,Homer C Jones,Homer C Jones,35031,McKinley County,Census-designated place,35.307796,-108.096597,1
+NM,3533130,place:NM:3533130,Homestead CDP,Homestead,Homestead,35003,Catron County,Census-designated place,34.145538,-107.878167,1
+NM,3533290,place:NM:3533290,Hope village,Hope,Hope,35015,Eddy County,Incorporated place,32.817179,-104.73679,1
+NM,3533640,place:NM:3533640,Hot Springs Landing CDP,Hot Springs Landing,Hot Springs Landing,35051,Sierra County,Census-designated place,33.204667,-107.209958,1
+NM,3533710,place:NM:3533710,House village,House,House,35037,Quay County,Incorporated place,34.64945,-103.90375,1
+NM,3533850,place:NM:3533850,Hurley town,Hurley,Hurley,35017,Grant County,Incorporated place,32.698546,-108.131112,1
+NM,3533920,place:NM:3533920,Hyde Park CDP,Hyde Park,Hyde Park,35049,Santa Fe County,Census-designated place,35.71124,-105.886598,1
+NM,3534430,place:NM:3534430,Indian Hills CDP,Indian Hills,Indian Hills,35057,Torrance County,Census-designated place,34.983178,-106.139764,1
+NM,3534620,place:NM:3534620,Isleta CDP,Isleta,Isleta,35001,Bernalillo County,Census-designated place,34.904273,-106.699015,1
+NM,3534830,place:NM:3534830,Iyanbito CDP,Iyanbito,Iyanbito,35031,McKinley County,Census-designated place,35.515987,-108.487726,1
+NM,3534900,place:NM:3534900,Jacona CDP,Jacona,Jacona,35049,Santa Fe County,Census-designated place,35.888706,-106.038628,1
+NM,3534925,place:NM:3534925,Jaconita CDP,Jaconita,Jaconita,35049,Santa Fe County,Census-designated place,35.885631,-106.06111,1
+NM,3535040,place:NM:3535040,Jal city,Jal,Jal,35025,Lea County,Incorporated place,32.114838,-103.189996,1
+NM,3535070,place:NM:3535070,Jamestown CDP,Jamestown,Jamestown,35031,McKinley County,Census-designated place,35.469295,-108.439555,1
+NM,3535110,place:NM:3535110,Jarales CDP,Jarales,Jarales,35061,Valencia County,Census-designated place,34.61548,-106.76058,1
+NM,3535250,place:NM:3535250,Jemez Pueblo CDP,Jemez Pueblo,Jemez Pueblo,35043,Sandoval County,Census-designated place,35.606602,-106.732155,1
+NM,3535320,place:NM:3535320,Jemez Springs village,Jemez Springs,Jemez Springs,35043,Sandoval County,Incorporated place,35.773099,-106.691026,1
+NM,3535595,place:NM:3535595,Keeler Farm CDP,Keeler Farm,Keeler Farm,35029,Luna County,Census-designated place,32.316066,-107.760226,1
+NM,3536090,place:NM:3536090,Kingston CDP,Kingston,Kingston,35051,Sierra County,Census-designated place,32.917335,-107.709555,1
+NM,3536230,place:NM:3536230,Kirtland town,Kirtland,Kirtland,35045,San Juan County,Incorporated place,36.758875,-108.367456,1
+NM,3536300,place:NM:3536300,Kirtland AFB CDP,Kirtland AFB,Kirtland AFB,35001,Bernalillo County,Census-designated place,35.04775,-106.561025,1
+NM,3536555,place:NM:3536555,La Bajada CDP,La Bajada,La Bajada,35049,Santa Fe County,Census-designated place,35.556524,-106.243609,1
+NM,3536567,place:NM:3536567,La Boca CDP,La Boca,La Boca,35045,San Juan County,Census-designated place,36.994467,-107.606445,1
+NM,3536720,place:NM:3536720,La Cienega CDP,La Cienega,La Cienega,35049,Santa Fe County,Census-designated place,35.579438,-106.113075,1
+NM,3536880,place:NM:3536880,La Cueva CDP,La Cueva,"La Cueva, Sandoval County",35043,Sandoval County,Census-designated place,35.869447,-106.648507,1
+NM,3536930,place:NM:3536930,La Cueva CDP,La Cueva,"La Cueva, Santa Fe County",35049,Santa Fe County,Census-designated place,35.577622,-105.733884,1
+NM,3537407,place:NM:3537407,La Hacienda CDP,La Hacienda,La Hacienda,35029,Luna County,Census-designated place,32.205992,-107.725067,1
+NM,3537420,place:NM:3537420,La Huerta CDP,La Huerta,La Huerta,35015,Eddy County,Census-designated place,32.448838,-104.2224,1
+NM,3537490,place:NM:3537490,La Jara CDP,La Jara,La Jara,35043,Sandoval County,Census-designated place,36.105499,-106.941912,1
+NM,3537700,place:NM:3537700,La Joya CDP,La Joya,La Joya,35053,Socorro County,Census-designated place,34.344952,-106.846655,1
+NM,3538330,place:NM:3538330,La Luz CDP,La Luz,La Luz,35035,Otero County,Census-designated place,32.971633,-105.939658,1
+NM,3538470,place:NM:3538470,La Madera CDP,La Madera,"La Madera, Rio Arriba County",35039,Rio Arriba County,Census-designated place,36.376682,-106.043173,1
+NM,3538540,place:NM:3538540,La Madera CDP,La Madera,"La Madera, Sandoval County",35043,Sandoval County,Census-designated place,35.234536,-106.334012,1
+NM,3538680,place:NM:3538680,La Mesa CDP,La Mesa,La Mesa,35013,Doña Ana County,Census-designated place,32.124433,-106.70901,1
+NM,3538820,place:NM:3538820,La Mesilla CDP,La Mesilla,La Mesilla,35039,Rio Arriba County,Census-designated place,35.941881,-106.064054,1
+NM,3539030,place:NM:3539030,La Plata CDP,La Plata,La Plata,35045,San Juan County,Census-designated place,36.896442,-108.200128,1
+NM,3539170,place:NM:3539170,La Puebla CDP,La Puebla,La Puebla,35049,Santa Fe County,Census-designated place,35.988177,-106.000566,1
+NM,3540074,place:NM:3540074,La Tierra CDP,La Tierra,La Tierra,35049,Santa Fe County,Census-designated place,35.747337,-106.030871,1
+NM,3540220,place:NM:3540220,La Union CDP,La Union,La Union,35013,Doña Ana County,Census-designated place,31.950754,-106.662143,1
+NM,3540360,place:NM:3540360,La Villita CDP,La Villita,La Villita,35039,Rio Arriba County,Census-designated place,36.101231,-106.055488,1
+NM,3537070,place:NM:3537070,Laguna CDP,Laguna,Laguna,35006,Cibola County,Census-designated place,35.047377,-107.401739,1
+NM,3537840,place:NM:3537840,Lake Arthur town,Lake Arthur,Lake Arthur,35005,Chaves County,Incorporated place,32.99939,-104.363695,1
+NM,3537860,place:NM:3537860,Lake Roberts CDP,Lake Roberts,Lake Roberts,35017,Grant County,Census-designated place,33.031351,-108.168832,1
+NM,3537862,place:NM:3537862,Lake Roberts Heights CDP,Lake Roberts Heights,Lake Roberts Heights,35017,Grant County,Census-designated place,33.027078,-108.138148,1
+NM,3537875,place:NM:3537875,Lake Sumner CDP,Lake Sumner,Lake Sumner,35011,De Baca County,Census-designated place,34.62361,-104.40219,1
+NM,3537910,place:NM:3537910,Lake Valley CDP,Lake Valley,Lake Valley,35045,San Juan County,Census-designated place,36.090055,-108.164155,1
+NM,3538890,place:NM:3538890,Lamy CDP,Lamy,Lamy,35049,Santa Fe County,Census-designated place,35.485494,-105.886286,1
+NM,3539332,place:NM:3539332,Las Campanas CDP,Las Campanas,Las Campanas,35049,Santa Fe County,Census-designated place,35.715849,-106.058127,1
+NM,3539380,place:NM:3539380,Las Cruces city,Las Cruces,Las Cruces,35013,Doña Ana County,Incorporated place,32.326444,-106.789695,1
+NM,3539430,place:NM:3539430,Las Maravillas CDP,Las Maravillas,Las Maravillas,35061,Valencia County,Census-designated place,34.734863,-106.664995,1
+NM,3539450,place:NM:3539450,Las Nutrias CDP,Las Nutrias,Las Nutrias,35053,Socorro County,Census-designated place,34.469841,-106.770811,1
+NM,3539520,place:NM:3539520,Las Palomas CDP,Las Palomas,Las Palomas,35051,Sierra County,Census-designated place,33.058914,-107.298245,1
+NM,3539792,place:NM:3539792,Las Tusas CDP,Las Tusas,Las Tusas,35006,Cibola County,Census-designated place,35.281339,-108.130971,1
+NM,3539940,place:NM:3539940,Las Vegas city,Las Vegas,Las Vegas,35047,San Miguel County,Incorporated place,35.604858,-105.217023,1
+NM,3540525,place:NM:3540525,Lee Acres CDP,Lee Acres,Lee Acres,35045,San Juan County,Census-designated place,36.704779,-108.061522,1
+NM,3540570,place:NM:3540570,Lemitar CDP,Lemitar,Lemitar,35053,Socorro County,Census-designated place,34.155034,-106.912241,1
+NM,3541130,place:NM:3541130,Lindrith CDP,Lindrith,Lindrith,35039,Rio Arriba County,Census-designated place,36.315452,-107.03919,1
+NM,3541340,place:NM:3541340,Little Walnut Village CDP,Little Walnut Village,Little Walnut Village,35017,Grant County,Census-designated place,32.825625,-108.286719,1
+NM,3541420,place:NM:3541420,Livingston Wheeler CDP,Livingston Wheeler,Livingston Wheeler,35015,Eddy County,Census-designated place,32.39167,-104.202903,1
+NM,3541620,place:NM:3541620,Llano del Medio CDP,Llano del Medio,Llano del Medio,35019,Guadalupe County,Census-designated place,35.188081,-105.116326,1
+NM,3541953,place:NM:3541953,Lobo Canyon CDP,Lobo Canyon,Lobo Canyon,35006,Cibola County,Census-designated place,35.223778,-107.720977,1
+NM,3541970,place:NM:3541970,Loco Hills CDP,Loco Hills,Loco Hills,35015,Eddy County,Census-designated place,32.819669,-103.978353,1
+NM,3542040,place:NM:3542040,Logan village,Logan,Logan,35037,Quay County,Incorporated place,35.358364,-103.453371,1
+NM,3542180,place:NM:3542180,Lordsburg city,Lordsburg,Lordsburg,35023,Hidalgo County,Incorporated place,32.343777,-108.70212,1
+NM,3542320,place:NM:3542320,Los Alamos CDP,Los Alamos,Los Alamos,35028,Los Alamos County,Census-designated place,35.893959,-106.290025,1
+NM,3542600,place:NM:3542600,Los Cerrillos CDP,Los Cerrillos,Los Cerrillos,35049,Santa Fe County,Census-designated place,35.427201,-106.121172,1
+NM,3542740,place:NM:3542740,Los Chaves CDP,Los Chaves,Los Chaves,35061,Valencia County,Census-designated place,34.733512,-106.761084,1
+NM,3543300,place:NM:3543300,Los Luceros CDP,Los Luceros,Los Luceros,35039,Rio Arriba County,Census-designated place,36.114411,-106.03719,1
+NM,3543370,place:NM:3543370,Los Lunas village,Los Lunas,Los Lunas,35061,Valencia County,Incorporated place,34.801319,-106.792494,1
+NM,3543510,place:NM:3543510,Los Ojos CDP,Los Ojos,Los Ojos,35039,Rio Arriba County,Census-designated place,36.738548,-106.561657,1
+NM,3543930,place:NM:3543930,Los Ranchos de Albuquerque village,Los Ranchos de Albuquerque,Los Ranchos de Albuquerque,35001,Bernalillo County,Incorporated place,35.161952,-106.645737,1
+NM,3544420,place:NM:3544420,Loving village,Loving,Loving,35015,Eddy County,Incorporated place,32.286235,-104.097756,1
+NM,3544490,place:NM:3544490,Lovington city,Lovington,Lovington,35025,Lea County,Incorporated place,32.944466,-103.349225,1
+NM,3544595,place:NM:3544595,Lower Frisco CDP,Lower Frisco,Lower Frisco,35003,Catron County,Census-designated place,33.653035,-108.787558,1
+NM,3545190,place:NM:3545190,Luis Lopez CDP,Luis Lopez,Luis Lopez,35053,Socorro County,Census-designated place,33.990467,-106.887768,1
+NM,3545260,place:NM:3545260,Lumberton CDP,Lumberton,Lumberton,35039,Rio Arriba County,Census-designated place,36.932771,-106.935366,1
+NM,3545330,place:NM:3545330,Luna CDP,Luna,Luna,35003,Catron County,Census-designated place,33.81755,-108.941249,1
+NM,3545365,place:NM:3545365,Lybrook CDP,Lybrook,Lybrook,35039,Rio Arriba County,Census-designated place,36.22409,-107.557858,1
+NM,3545400,place:NM:3545400,Lyden CDP,Lyden,Lyden,35039,Rio Arriba County,Census-designated place,36.153669,-106.014661,1
+NM,3546100,place:NM:3546100,Madrid CDP,Madrid,Madrid,35049,Santa Fe County,Census-designated place,35.403259,-106.153788,1
+NM,3546170,place:NM:3546170,Madrone CDP,Madrone,Madrone,35061,Valencia County,Census-designated place,34.579214,-106.728478,1
+NM,3546310,place:NM:3546310,Magdalena village,Magdalena,Magdalena,35053,Socorro County,Incorporated place,34.109529,-107.23183,1
+NM,3546380,place:NM:3546380,Malaga CDP,Malaga,Malaga,35015,Eddy County,Census-designated place,32.218492,-104.067347,1
+NM,3546660,place:NM:3546660,Manuelito CDP,Manuelito,Manuelito,35031,McKinley County,Census-designated place,35.438742,-108.994582,1
+NM,3546730,place:NM:3546730,Manzano CDP,Manzano,Manzano,35057,Torrance County,Census-designated place,34.643694,-106.367054,1
+NM,3546770,place:NM:3546770,Manzano Springs CDP,Manzano Springs,Manzano Springs,35057,Torrance County,Census-designated place,34.961358,-106.232645,1
+NM,3547080,place:NM:3547080,Maxwell village,Maxwell,Maxwell,35007,Colfax County,Incorporated place,36.541078,-104.544385,1
+NM,3547150,place:NM:3547150,Mayhill CDP,Mayhill,Mayhill,35035,Otero County,Census-designated place,32.890216,-105.504437,1
+NM,3545690,place:NM:3545690,McCartys Village CDP,McCartys Village,McCartys Village,35006,Cibola County,Census-designated place,35.061341,-107.663454,1
+NM,3545890,place:NM:3545890,McGaffey CDP,McGaffey,McGaffey,35031,McKinley County,Census-designated place,35.368931,-108.527657,1
+NM,3546030,place:NM:3546030,McIntosh CDP,McIntosh,McIntosh,35057,Torrance County,Census-designated place,34.881926,-106.055946,1
+NM,3547220,place:NM:3547220,Meadow Lake CDP,Meadow Lake,Meadow Lake,35061,Valencia County,Census-designated place,34.803137,-106.570358,1
+NM,3547360,place:NM:3547360,Medanales CDP,Medanales,Medanales,35039,Rio Arriba County,Census-designated place,36.176525,-106.177743,1
+NM,3547570,place:NM:3547570,Melrose village,Melrose,Melrose,35009,Curry County,Incorporated place,34.429478,-103.629365,1
+NM,3547920,place:NM:3547920,Mescalero CDP,Mescalero,Mescalero,35035,Otero County,Census-designated place,33.134561,-105.799934,1
+NM,3548060,place:NM:3548060,Mesilla town,Mesilla,Mesilla,35013,Doña Ana County,Incorporated place,32.269307,-106.809108,1
+NM,3548200,place:NM:3548200,Mesita CDP,Mesita,Mesita,35006,Cibola County,Census-designated place,35.005802,-107.316303,1
+NM,3548270,place:NM:3548270,Mesquite CDP,Mesquite,Mesquite,35013,Doña Ana County,Census-designated place,32.166993,-106.688496,1
+NM,3548425,place:NM:3548425,Middle Frisco CDP,Middle Frisco,Middle Frisco,35003,Catron County,Census-designated place,33.695112,-108.764499,1
+NM,3548435,place:NM:3548435,Middle Mesa CDP,Middle Mesa,Middle Mesa,35045,San Juan County,Census-designated place,36.979999,-107.507281,1
+NM,3548480,place:NM:3548480,Midway CDP,Midway,Midway,35005,Chaves County,Census-designated place,33.297035,-104.451137,1
+NM,3548620,place:NM:3548620,Milan village,Milan,Milan,35006,Cibola County,Incorporated place,35.196782,-107.892371,1
+NM,3548830,place:NM:3548830,Mimbres CDP,Mimbres,Mimbres,35017,Grant County,Census-designated place,32.838814,-107.95629,1
+NM,3549180,place:NM:3549180,Mogollon CDP,Mogollon,Mogollon,35003,Catron County,Census-designated place,33.406933,-108.799639,1
+NM,3549515,place:NM:3549515,Monterey Park CDP,Monterey Park,Monterey Park,35061,Valencia County,Census-designated place,34.751074,-106.653065,1
+NM,3549950,place:NM:3549950,Monument CDP,Monument,Monument,35025,Lea County,Census-designated place,32.624249,-103.27764,1
+NM,3550020,place:NM:3550020,Moquino CDP,Moquino,Moquino,35006,Cibola County,Census-designated place,35.169853,-107.363877,1
+NM,3550090,place:NM:3550090,Mora CDP,Mora,Mora,35033,Mora County,Census-designated place,35.963479,-105.331279,1
+NM,3550160,place:NM:3550160,Moriarty city,Moriarty,Moriarty,35057,Torrance County,Incorporated place,35.003368,-106.044427,1
+NM,3550195,place:NM:3550195,Morningside CDP,Morningside,Morningside,35015,Eddy County,Census-designated place,32.861002,-104.397072,1
+NM,3550300,place:NM:3550300,Mosquero village,Mosquero,Mosquero,35021,Harding County,Incorporated place,35.775021,-103.954563,1
+NM,3550615,place:NM:3550615,Mount Taylor CDP,Mount Taylor,Mount Taylor,35006,Cibola County,Census-designated place,35.124147,-107.807469,1
+NM,3550512,place:NM:3550512,Mountain View CDP,Mountain View,"Mountain View, Cibola County",35006,Cibola County,Census-designated place,35.004447,-108.397965,1
+NM,3550515,place:NM:3550515,Mountain View CDP,Mountain View,"Mountain View, Luna County",35029,Luna County,Census-designated place,32.228808,-107.746202,1
+NM,3550370,place:NM:3550370,Mountainair town,Mountainair,Mountainair,35057,Torrance County,Incorporated place,34.52119,-106.239324,1
+NM,3550720,place:NM:3550720,Nadine CDP,Nadine,Nadine,35025,Lea County,Census-designated place,32.610495,-103.103236,1
+NM,3550790,place:NM:3550790,Nageezi CDP,Nageezi,Nageezi,35045,San Juan County,Census-designated place,36.246251,-107.751167,1
+NM,3550860,place:NM:3550860,Nakaibito CDP,Nakaibito,Nakaibito,35031,McKinley County,Census-designated place,35.782628,-108.803908,1
+NM,3550930,place:NM:3550930,Nambe CDP,Nambe,Nambe,35049,Santa Fe County,Census-designated place,35.898416,-105.966676,1
+NM,3551035,place:NM:3551035,Napi Headquarters CDP,Napi Headquarters,Napi Headquarters,35045,San Juan County,Census-designated place,36.650487,-108.214503,1
+NM,3551140,place:NM:3551140,Nara Visa CDP,Nara Visa,Nara Visa,35037,Quay County,Census-designated place,35.606865,-103.104294,1
+NM,3551280,place:NM:3551280,Naschitti CDP,Naschitti,Naschitti,35045,San Juan County,Census-designated place,36.062563,-108.680001,1
+NM,3551420,place:NM:3551420,Navajo CDP,Navajo,Navajo,35031,McKinley County,Census-designated place,35.902431,-109.032083,1
+NM,3551490,place:NM:3551490,Navajo Dam CDP,Navajo Dam,Navajo Dam,35045,San Juan County,Census-designated place,36.872721,-107.623143,1
+NM,3551715,place:NM:3551715,Nenahnezad CDP,Nenahnezad,Nenahnezad,35045,San Juan County,Census-designated place,36.734297,-108.424523,1
+NM,3551770,place:NM:3551770,Newcomb CDP,Newcomb,Newcomb,35045,San Juan County,Census-designated place,36.285184,-108.711608,1
+NM,3551840,place:NM:3551840,Newkirk CDP,Newkirk,Newkirk,35019,Guadalupe County,Census-designated place,35.063517,-104.271496,1
+NM,3552190,place:NM:3552190,Nogal CDP,Nogal,Nogal,35027,Lincoln County,Census-designated place,33.538223,-105.711874,1
+NM,3552300,place:NM:3552300,North Acomita Village CDP,North Acomita Village,North Acomita Village,35006,Cibola County,Census-designated place,35.067352,-107.564848,1
+NM,3552500,place:NM:3552500,North Hobbs CDP,North Hobbs,North Hobbs,35025,Lea County,Census-designated place,32.772914,-103.122718,1
+NM,3552540,place:NM:3552540,North Hurley CDP,North Hurley,North Hurley,35017,Grant County,Census-designated place,32.719838,-108.1285,1
+NM,3552560,place:NM:3552560,North Light Plant CDP,North Light Plant,North Light Plant,35045,San Juan County,Census-designated place,36.866982,-108.033143,1
+NM,3552680,place:NM:3552680,North San Ysidro CDP,North San Ysidro,North San Ysidro,35047,San Miguel County,Census-designated place,35.474642,-105.566044,1
+NM,3552750,place:NM:3552750,North Valley CDP,North Valley,North Valley,35001,Bernalillo County,Census-designated place,35.173615,-106.621988,1
+NM,3553010,place:NM:3553010,Oasis CDP,Oasis,Oasis,35051,Sierra County,Census-designated place,32.927701,-107.316417,1
+NM,3553150,place:NM:3553150,Ohkay Owingeh CDP,Ohkay Owingeh,Ohkay Owingeh,35039,Rio Arriba County,Census-designated place,36.045041,-106.046668,1
+NM,3553485,place:NM:3553485,Ojo Amarillo CDP,Ojo Amarillo,Ojo Amarillo,35045,San Juan County,Census-designated place,36.694138,-108.37036,1
+NM,3553590,place:NM:3553590,Ojo Caliente CDP,Ojo Caliente,Ojo Caliente,35055,Taos County,Census-designated place,36.314662,-106.037406,1
+NM,3553620,place:NM:3553620,Ojo Encino CDP,Ojo Encino,Ojo Encino,35031,McKinley County,Census-designated place,35.952534,-107.344499,1
+NM,3553730,place:NM:3553730,Ojo Sarco CDP,Ojo Sarco,Ojo Sarco,35039,Rio Arriba County,Census-designated place,36.12492,-105.784459,1
+NM,3554097,place:NM:3554097,Old Town CDP,Old Town,Old Town,35029,Luna County,Census-designated place,32.512394,-107.923162,1
+NM,3554430,place:NM:3554430,Organ CDP,Organ,Organ,35013,Doña Ana County,Census-designated place,32.425082,-106.602407,1
+NM,3554500,place:NM:3554500,Orogrande CDP,Orogrande,Orogrande,35035,Otero County,Census-designated place,32.389279,-106.108482,1
+NM,3554675,place:NM:3554675,Paa-Ko CDP,Paa-Ko,Paa-Ko,35001,Bernalillo County,Census-designated place,35.199821,-106.333746,1
+NM,3554710,place:NM:3554710,Paguate CDP,Paguate,Paguate,35006,Cibola County,Census-designated place,35.156401,-107.400679,1
+NM,3554940,place:NM:3554940,Pajarito Mesa CDP,Pajarito Mesa,Pajarito Mesa,35001,Bernalillo County,Census-designated place,34.978293,-106.780193,1
+NM,3555270,place:NM:3555270,Paradise Hills CDP,Paradise Hills,Paradise Hills,35001,Bernalillo County,Census-designated place,35.198144,-106.702397,1
+NM,3555340,place:NM:3555340,Paraje CDP,Paraje,Paraje,35006,Cibola County,Census-designated place,35.04438,-107.468197,1
+NM,3555550,place:NM:3555550,Pastura CDP,Pastura,Pastura,35019,Guadalupe County,Census-designated place,34.785104,-104.942098,1
+NM,3555595,place:NM:3555595,Peak Place CDP,Peak Place,Peak Place,35049,Santa Fe County,Census-designated place,35.791172,-105.943204,1
+NM,3555605,place:NM:3555605,Pecan Park CDP,Pecan Park,Pecan Park,35029,Luna County,Census-designated place,32.270417,-107.67399,1
+NM,3555620,place:NM:3555620,Pecos village,Pecos,Pecos,35047,San Miguel County,Incorporated place,35.575706,-105.678407,1
+NM,3556180,place:NM:3556180,Peralta town,Peralta,Peralta,35061,Valencia County,Incorporated place,34.828351,-106.685951,1
+NM,3555830,place:NM:3555830,Peña Blanca CDP,Peña Blanca,Peña Blanca,35043,Sandoval County,Census-designated place,35.570919,-106.331955,1
+NM,3555900,place:NM:3555900,Peñasco CDP,Peñasco,Peñasco,35055,Taos County,Census-designated place,36.17032,-105.69072,1
+NM,3556748,place:NM:3556748,Picacho Hills CDP,Picacho Hills,Picacho Hills,35013,Doña Ana County,Census-designated place,32.315804,-106.878497,1
+NM,3556810,place:NM:3556810,Picuris Pueblo CDP,Picuris Pueblo,Picuris Pueblo,35055,Taos County,Census-designated place,36.200146,-105.723504,1
+NM,3556950,place:NM:3556950,Pie Town CDP,Pie Town,Pie Town,35003,Catron County,Census-designated place,34.342079,-108.163337,1
+NM,3557160,place:NM:3557160,Pinedale CDP,Pinedale,Pinedale,35031,McKinley County,Census-designated place,35.607143,-108.425703,1
+NM,3557175,place:NM:3557175,Pinehaven CDP,Pinehaven,Pinehaven,35031,McKinley County,Census-designated place,35.335694,-108.670939,1
+NM,3557190,place:NM:3557190,Pinehill CDP,Pinehill,Pinehill,35006,Cibola County,Census-designated place,34.892157,-108.422366,1
+NM,3557440,place:NM:3557440,Pinon CDP,Pinon,Pinon,35035,Otero County,Census-designated place,32.61953,-105.376919,1
+NM,3557510,place:NM:3557510,Pinos Altos CDP,Pinos Altos,Pinos Altos,35017,Grant County,Census-designated place,32.866469,-108.222027,1
+NM,3557990,place:NM:3557990,Placitas CDP,Placitas,"Placitas, Doña Ana County",35013,Doña Ana County,Census-designated place,32.665524,-107.16982,1
+NM,3558070,place:NM:3558070,Placitas CDP,Placitas,"Placitas, Sandoval County",35043,Sandoval County,Census-designated place,35.322593,-106.442918,1
+NM,3558210,place:NM:3558210,Playas CDP,Playas,Playas,35023,Hidalgo County,Census-designated place,31.912585,-108.536315,1
+NM,3558420,place:NM:3558420,Pleasanton CDP,Pleasanton,Pleasanton,35003,Catron County,Census-designated place,33.279976,-108.881002,1
+NM,3558630,place:NM:3558630,Pojoaque CDP,Pojoaque,Pojoaque,35049,Santa Fe County,Census-designated place,35.896198,-106.010472,1
+NM,3558910,place:NM:3558910,Polvadera CDP,Polvadera,Polvadera,35053,Socorro County,Census-designated place,34.202039,-106.917202,1
+NM,3558980,place:NM:3558980,Ponderosa CDP,Ponderosa,Ponderosa,35043,Sandoval County,Census-designated place,35.655493,-106.654459,1
+NM,3559120,place:NM:3559120,Ponderosa Pine CDP,Ponderosa Pine,Ponderosa Pine,35001,Bernalillo County,Census-designated place,34.970752,-106.339576,1
+NM,3559260,place:NM:3559260,Portales city,Portales,Portales,35041,Roosevelt County,Incorporated place,34.177289,-103.355084,1
+NM,3559540,place:NM:3559540,Prewitt CDP,Prewitt,Prewitt,35031,McKinley County,Census-designated place,35.368255,-108.074858,1
+NM,3559750,place:NM:3559750,Pueblito CDP,Pueblito,Pueblito,35039,Rio Arriba County,Census-designated place,36.072716,-106.081107,1
+NM,3559820,place:NM:3559820,Pueblitos CDP,Pueblitos,Pueblitos,35061,Valencia County,Census-designated place,34.612079,-106.781001,1
+NM,3559840,place:NM:3559840,Pueblo CDP,Pueblo,Pueblo,35047,San Miguel County,Census-designated place,35.32725,-105.435352,1
+NM,3559950,place:NM:3559950,Pueblo of Sandia Village CDP,Pueblo of Sandia Village,Pueblo of Sandia Village,35043,Sandoval County,Census-designated place,35.253738,-106.570575,1
+NM,3560000,place:NM:3560000,Pueblo Pintado CDP,Pueblo Pintado,Pueblo Pintado,35031,McKinley County,Census-designated place,35.961351,-107.622355,1
+NM,3560170,place:NM:3560170,Puerto de Luna CDP,Puerto de Luna,Puerto de Luna,35019,Guadalupe County,Census-designated place,34.829713,-104.622173,1
+NM,3560205,place:NM:3560205,Pulpotio Bareas CDP,Pulpotio Bareas,Pulpotio Bareas,35029,Luna County,Census-designated place,32.21789,-107.772816,1
+NM,3560310,place:NM:3560310,Punta de Agua CDP,Punta de Agua,Punta de Agua,35057,Torrance County,Census-designated place,34.601584,-106.292238,1
+NM,3560327,place:NM:3560327,Purty Rock CDP,Purty Rock,Purty Rock,35031,McKinley County,Census-designated place,35.490252,-108.895339,1
+NM,3560730,place:NM:3560730,Quemado CDP,Quemado,Quemado,35003,Catron County,Census-designated place,34.340633,-108.506148,1
+NM,3560870,place:NM:3560870,Questa village,Questa,Questa,35055,Taos County,Incorporated place,36.71056,-105.6059,1
+NM,3561010,place:NM:3561010,Radium Springs CDP,Radium Springs,Radium Springs,35013,Doña Ana County,Census-designated place,32.478231,-106.903074,1
+NM,3561220,place:NM:3561220,Ramah CDP,Ramah,Ramah,35031,McKinley County,Census-designated place,35.126356,-108.506259,1
+NM,3561675,place:NM:3561675,Rancho Grande CDP,Rancho Grande,Rancho Grande,35003,Catron County,Census-designated place,33.682001,-108.858158,1
+NM,3561710,place:NM:3561710,Ranchos de Taos CDP,Ranchos de Taos,Ranchos de Taos,35055,Taos County,Census-designated place,36.361935,-105.601582,1
+NM,3562060,place:NM:3562060,Raton city,Raton,Raton,35007,Colfax County,Incorporated place,36.88778,-104.440378,1
+NM,3562200,place:NM:3562200,Red River town,Red River,Red River,35055,Taos County,Incorporated place,36.709768,-105.418495,1
+NM,3562295,place:NM:3562295,Red Rock Ranch CDP,Red Rock Ranch,Red Rock Ranch,35031,McKinley County,Census-designated place,35.424169,-108.026272,1
+NM,3562270,place:NM:3562270,Redrock CDP,Redrock,Redrock,35017,Grant County,Census-designated place,32.688566,-108.740631,1
+NM,3562340,place:NM:3562340,Regina CDP,Regina,Regina,35043,Sandoval County,Census-designated place,36.194874,-106.945947,1
+NM,3562620,place:NM:3562620,Reserve village,Reserve,Reserve,35003,Catron County,Incorporated place,33.70898,-108.761384,1
+NM,3562760,place:NM:3562760,Ribera CDP,Ribera,Ribera,35047,San Miguel County,Census-designated place,35.36996,-105.444092,1
+NM,3562900,place:NM:3562900,Rincon CDP,Rincon,Rincon,35013,Doña Ana County,Census-designated place,32.672534,-107.075831,1
+NM,3563110,place:NM:3563110,Rio Chiquito CDP,Rio Chiquito,Rio Chiquito,35049,Santa Fe County,Census-designated place,35.994854,-105.906935,1
+NM,3563145,place:NM:3563145,Rio Communities city,Rio Communities,Rio Communities,35061,Valencia County,Incorporated place,34.646173,-106.715784,1
+NM,3563168,place:NM:3563168,Rio en Medio CDP,Rio en Medio,Rio en Medio,35049,Santa Fe County,Census-designated place,35.82221,-105.900907,1
+NM,3563250,place:NM:3563250,Rio Lucio CDP,Rio Lucio,Rio Lucio,35055,Taos County,Census-designated place,36.192177,-105.720033,1
+NM,3563460,place:NM:3563460,Rio Rancho city,Rio Rancho,Rio Rancho,35043,Sandoval County,Incorporated place,35.28507,-106.698867,1
+NM,3563530,place:NM:3563530,Rio Rancho Estates CDP,Rio Rancho Estates,Rio Rancho Estates,35043,Sandoval County,Census-designated place,35.300369,-106.798499,1
+NM,3563660,place:NM:3563660,Rivers CDP,Rivers,Rivers,35003,Catron County,Census-designated place,33.674601,-108.779358,1
+NM,3564230,place:NM:3564230,Rock Springs CDP,Rock Springs,Rock Springs,35031,McKinley County,Census-designated place,35.61878,-108.834542,1
+NM,3564370,place:NM:3564370,Rodeo CDP,Rodeo,Rodeo,35023,Hidalgo County,Census-designated place,31.839654,-109.026644,1
+NM,3564440,place:NM:3564440,Rodey CDP,Rodey,Rodey,35013,Doña Ana County,Census-designated place,32.653776,-107.135742,1
+NM,3564900,place:NM:3564900,Rosedale CDP,Rosedale,Rosedale,35017,Grant County,Census-designated place,32.764663,-108.243476,1
+NM,3564930,place:NM:3564930,Roswell city,Roswell,Roswell,35005,Chaves County,Incorporated place,33.373442,-104.529393,1
+NM,3565000,place:NM:3565000,Rowe CDP,Rowe,Rowe,35047,San Miguel County,Census-designated place,35.492211,-105.671511,1
+NM,3565070,place:NM:3565070,Roy village,Roy,Roy,35021,Harding County,Incorporated place,35.945095,-104.196288,1
+NM,3565210,place:NM:3565210,Ruidoso village,Ruidoso,Ruidoso,35027,Lincoln County,Incorporated place,33.349549,-105.668809,1
+NM,3565280,place:NM:3565280,Ruidoso Downs city,Ruidoso Downs,Ruidoso Downs,35027,Lincoln County,Incorporated place,33.331181,-105.596772,1
+NM,3565560,place:NM:3565560,Sacramento CDP,Sacramento,Sacramento,35035,Otero County,Census-designated place,32.784486,-105.565101,1
+NM,3565595,place:NM:3565595,Sagar CDP,Sagar,Sagar,35031,McKinley County,Census-designated place,35.247418,-108.767056,1
+NM,3565840,place:NM:3565840,Salem CDP,Salem,Salem,35013,Doña Ana County,Census-designated place,32.71209,-107.205621,1
+NM,3565910,place:NM:3565910,San Acacia CDP,San Acacia,San Acacia,35053,Socorro County,Census-designated place,34.254937,-106.902282,1
+NM,3566120,place:NM:3566120,San Antonio CDP,San Antonio,San Antonio,35053,Socorro County,Census-designated place,33.916165,-106.870022,1
+NM,3566330,place:NM:3566330,San Antonito CDP,San Antonito,"San Antonito, Bernalillo County",35001,Bernalillo County,Census-designated place,35.157518,-106.347512,1
+NM,3566400,place:NM:3566400,San Antonito CDP,San Antonito,"San Antonito, Socorro County",35053,Socorro County,Census-designated place,33.891806,-106.879946,1
+NM,3566540,place:NM:3566540,San Cristobal CDP,San Cristobal,San Cristobal,35055,Taos County,Census-designated place,36.610127,-105.631801,1
+NM,3567450,place:NM:3567450,San Felipe Pueblo CDP,San Felipe Pueblo,San Felipe Pueblo,35043,Sandoval County,Census-designated place,35.438327,-106.41321,1
+NM,3567520,place:NM:3567520,San Fidel CDP,San Fidel,San Fidel,35006,Cibola County,Census-designated place,35.102566,-107.597533,1
+NM,3568010,place:NM:3568010,San Ildefonso Pueblo CDP,San Ildefonso Pueblo,San Ildefonso Pueblo,35049,Santa Fe County,Census-designated place,35.889064,-106.128445,1
+NM,3568150,place:NM:3568150,San Jon village,San Jon,San Jon,35037,Quay County,Incorporated place,35.111299,-103.336299,1
+NM,3568430,place:NM:3568430,San Jose CDP,San Jose,"San Jose, Rio Arriba County",35039,Rio Arriba County,Census-designated place,36.036727,-106.100442,1
+NM,3568500,place:NM:3568500,San Jose CDP,San Jose,"San Jose, San Miguel County",35047,San Miguel County,Census-designated place,35.39559,-105.475813,1
+NM,3568920,place:NM:3568920,San Lorenzo CDP,San Lorenzo,San Lorenzo,35017,Grant County,Census-designated place,32.805352,-107.920207,1
+NM,3569060,place:NM:3569060,San Luis CDP,San Luis,San Luis,35043,Sandoval County,Census-designated place,35.700913,-107.04308,1
+NM,3569270,place:NM:3569270,San Mateo CDP,San Mateo,San Mateo,35006,Cibola County,Census-designated place,35.338061,-107.646091,1
+NM,3569410,place:NM:3569410,San Miguel CDP,San Miguel,San Miguel,35013,Doña Ana County,Census-designated place,32.153465,-106.726841,1
+NM,3569645,place:NM:3569645,San Pablo CDP,San Pablo,San Pablo,35013,Doña Ana County,Census-designated place,32.250657,-106.762599,1
+NM,3569825,place:NM:3569825,San Pedro CDP,San Pedro,San Pedro,35049,Santa Fe County,Census-designated place,35.227991,-106.184714,1
+NM,3569875,place:NM:3569875,San Rafael CDP,San Rafael,San Rafael,35006,Cibola County,Census-designated place,35.091483,-107.906253,1
+NM,3571015,place:NM:3571015,San Ysidro CDP,San Ysidro,"San Ysidro, Doña Ana County",35013,Doña Ana County,Census-designated place,32.356752,-106.812892,1
+NM,3571020,place:NM:3571020,San Ysidro village,San Ysidro,"San Ysidro, Sandoval County",35043,Sandoval County,Incorporated place,35.560552,-106.773503,1
+NM,3566765,place:NM:3566765,Sandia Heights CDP,Sandia Heights,Sandia Heights,35001,Bernalillo County,Census-designated place,35.174298,-106.488401,1
+NM,3566890,place:NM:3566890,Sandia Knolls CDP,Sandia Knolls,Sandia Knolls,35001,Bernalillo County,Census-designated place,35.160434,-106.298751,1
+NM,3566960,place:NM:3566960,Sandia Park CDP,Sandia Park,Sandia Park,35001,Bernalillo County,Census-designated place,35.16477,-106.365744,1
+NM,3569620,place:NM:3569620,Sanostee CDP,Sanostee,Sanostee,35045,San Juan County,Census-designated place,36.430481,-108.862957,1
+NM,3570250,place:NM:3570250,Santa Ana Pueblo CDP,Santa Ana Pueblo,Santa Ana Pueblo,35043,Sandoval County,Census-designated place,35.352287,-106.515378,1
+NM,3570270,place:NM:3570270,Santa Clara village,Santa Clara,Santa Clara,35017,Grant County,Incorporated place,32.779959,-108.149317,1
+NM,3570390,place:NM:3570390,Santa Clara Pueblo CDP,Santa Clara Pueblo,Santa Clara Pueblo,35039,Rio Arriba County,Census-designated place,35.970766,-106.102081,1
+NM,3570460,place:NM:3570460,Santa Cruz CDP,Santa Cruz,Santa Cruz,35049,Santa Fe County,Census-designated place,35.993969,-106.035821,1
+NM,3570500,place:NM:3570500,Santa Fe city,Santa Fe,Santa Fe,35049,Santa Fe County,Incorporated place,35.661981,-105.981815,1
+NM,3570505,place:NM:3570505,Santa Fe Foothills CDP,Santa Fe Foothills,Santa Fe Foothills,35049,Santa Fe County,Census-designated place,35.627965,-105.898063,1
+NM,3570670,place:NM:3570670,Santa Rosa city,Santa Rosa,Santa Rosa,35019,Guadalupe County,Incorporated place,34.936051,-104.675021,1
+NM,3570700,place:NM:3570700,Santa Teresa CDP,Santa Teresa,Santa Teresa,35013,Doña Ana County,Census-designated place,31.87136,-106.673424,1
+NM,3570810,place:NM:3570810,Santo Domingo Pueblo CDP,Santo Domingo Pueblo,Santo Domingo Pueblo,35043,Sandoval County,Census-designated place,35.522443,-106.36756,1
+NM,3571145,place:NM:3571145,Sausal CDP,Sausal,Sausal,35061,Valencia County,Census-designated place,34.680228,-106.75882,1
+NM,3571440,place:NM:3571440,Seama CDP,Seama,Seama,35006,Cibola County,Census-designated place,35.050808,-107.539628,1
+NM,3571510,place:NM:3571510,Seboyeta CDP,Seboyeta,Seboyeta,35006,Cibola County,Census-designated place,35.198908,-107.382673,1
+NM,3571700,place:NM:3571700,Sedillo CDP,Sedillo,Sedillo,35001,Bernalillo County,Census-designated place,35.086802,-106.28752,1
+NM,3571790,place:NM:3571790,Sena CDP,Sena,Sena,35047,San Miguel County,Census-designated place,35.303605,-105.391313,1
+NM,3572140,place:NM:3572140,Seton Village CDP,Seton Village,Seton Village,35049,Santa Fe County,Census-designated place,35.599814,-105.933516,1
+NM,3572600,place:NM:3572600,Sheep Springs CDP,Sheep Springs,Sheep Springs,35045,San Juan County,Census-designated place,36.159213,-108.690526,1
+NM,3572770,place:NM:3572770,Shiprock CDP,Shiprock,Shiprock,35045,San Juan County,Census-designated place,36.788858,-108.694322,1
+NM,3573260,place:NM:3573260,Silver City town,Silver City,Silver City,35017,Grant County,Incorporated place,32.778581,-108.269409,1
+NM,3573440,place:NM:3573440,Skyline-Ganipa CDP,Skyline-Ganipa,Skyline-Ganipa,35006,Cibola County,Census-designated place,35.036167,-107.616179,1
+NM,3573540,place:NM:3573540,Socorro city,Socorro,Socorro,35053,Socorro County,Incorporated place,34.054535,-106.906199,1
+NM,3573680,place:NM:3573680,Soham CDP,Soham,Soham,35047,San Miguel County,Census-designated place,35.416866,-105.498497,1
+NM,3573890,place:NM:3573890,Sombrillo CDP,Sombrillo,Sombrillo,35049,Santa Fe County,Census-designated place,35.980191,-106.035245,1
+NM,3573925,place:NM:3573925,South Acomita Village CDP,South Acomita Village,South Acomita Village,35006,Cibola County,Census-designated place,35.053371,-107.572231,1
+NM,3574275,place:NM:3574275,South River CDP,South River,South River,35045,San Juan County,Census-designated place,36.785942,-108.057678,1
+NM,3574520,place:NM:3574520,South Valley CDP,South Valley,South Valley,35001,Bernalillo County,Census-designated place,35.008623,-106.682218,1
+NM,3574660,place:NM:3574660,Spencerville CDP,Spencerville,Spencerville,35045,San Juan County,Census-designated place,36.830112,-108.062031,1
+NM,3574800,place:NM:3574800,Springer town,Springer,Springer,35007,Colfax County,Incorporated place,36.365411,-104.600218,1
+NM,3575010,place:NM:3575010,Stanley CDP,Stanley,Stanley,35049,Santa Fe County,Census-designated place,35.154157,-105.976287,1
+NM,3575465,place:NM:3575465,Stoneridge CDP,Stoneridge,Stoneridge,35006,Cibola County,Census-designated place,35.30187,-108.10343,1
+NM,3575545,place:NM:3575545,Sullivan CDP,Sullivan,Sullivan,35045,San Juan County,Census-designated place,36.696923,-107.908769,0
+NM,3575605,place:NM:3575605,Sundance CDP,Sundance,Sundance,35031,McKinley County,Census-designated place,35.510539,-108.639694,1
+NM,3575640,place:NM:3575640,Sunland Park city,Sunland Park,Sunland Park,35013,Doña Ana County,Incorporated place,31.823559,-106.600264,1
+NM,3575650,place:NM:3575650,Sunlit Hills CDP,Sunlit Hills,Sunlit Hills,35049,Santa Fe County,Census-designated place,35.595702,-105.921005,1
+NM,3575710,place:NM:3575710,Sunshine CDP,Sunshine,Sunshine,35029,Luna County,Census-designated place,32.134393,-107.783798,1
+NM,3576060,place:NM:3576060,Tajique CDP,Tajique,Tajique,35057,Torrance County,Census-designated place,34.760038,-106.301019,1
+NM,3576130,place:NM:3576130,Talpa CDP,Talpa,Talpa,35055,Taos County,Census-designated place,36.340663,-105.593223,1
+NM,3576165,place:NM:3576165,Tano Road CDP,Tano Road,Tano Road,35049,Santa Fe County,Census-designated place,35.737386,-105.981898,1
+NM,3576200,place:NM:3576200,Taos town,Taos,Taos,35055,Taos County,Incorporated place,36.387081,-105.580832,1
+NM,3576410,place:NM:3576410,Taos Pueblo CDP,Taos Pueblo,Taos Pueblo,35055,Taos County,Census-designated place,36.465675,-105.563449,1
+NM,3576480,place:NM:3576480,Taos Ski Valley village,Taos Ski Valley,Taos Ski Valley,35055,Taos County,Incorporated place,36.590042,-105.436929,1
+NM,3576620,place:NM:3576620,Tatum town,Tatum,Tatum,35025,Lea County,Incorporated place,33.255388,-103.310211,1
+NM,3576760,place:NM:3576760,Tecolote CDP,Tecolote,Tecolote,35047,San Miguel County,Census-designated place,35.460419,-105.284209,1
+NM,3576830,place:NM:3576830,Tecolotito CDP,Tecolotito,Tecolotito,35047,San Miguel County,Census-designated place,35.230702,-105.163043,1
+NM,3577040,place:NM:3577040,Tesuque CDP,Tesuque,Tesuque,35049,Santa Fe County,Census-designated place,35.748647,-105.920922,1
+NM,3577100,place:NM:3577100,Tesuque Pueblo CDP,Tesuque Pueblo,Tesuque Pueblo,35049,Santa Fe County,Census-designated place,35.809034,-105.975178,1
+NM,3577250,place:NM:3577250,Texico city,Texico,Texico,35009,Curry County,Incorporated place,34.389212,-103.050682,1
+NM,3577530,place:NM:3577530,Thoreau CDP,Thoreau,Thoreau,35031,McKinley County,Census-designated place,35.423455,-108.200103,1
+NM,3577635,place:NM:3577635,Thunder Mountain CDP,Thunder Mountain,Thunder Mountain,35049,Santa Fe County,Census-designated place,35.098276,-106.223503,1
+NM,3577670,place:NM:3577670,Tierra Amarilla CDP,Tierra Amarilla,Tierra Amarilla,35039,Rio Arriba County,Census-designated place,36.705901,-106.565132,1
+NM,3577880,place:NM:3577880,Tijeras village,Tijeras,Tijeras,35001,Bernalillo County,Incorporated place,35.088593,-106.375956,1
+NM,3577930,place:NM:3577930,Timberlake CDP,Timberlake,Timberlake,35031,McKinley County,Census-designated place,35.190089,-108.476448,1
+NM,3577950,place:NM:3577950,Timberon CDP,Timberon,Timberon,35035,Otero County,Census-designated place,32.636306,-105.695249,1
+NM,3578440,place:NM:3578440,Tohatchi CDP,Tohatchi,Tohatchi,35031,McKinley County,Census-designated place,35.843431,-108.751573,1
+NM,3578650,place:NM:3578650,Tome CDP,Tome,Tome,35061,Valencia County,Census-designated place,34.738985,-106.725154,1
+NM,3579070,place:NM:3579070,Torreon CDP,Torreon,"Torreon, Sandoval County",35043,Sandoval County,Census-designated place,35.793153,-107.212402,1
+NM,3579140,place:NM:3579140,Torreon CDP,Torreon,"Torreon, Torrance County",35057,Torrance County,Census-designated place,34.724196,-106.300782,1
+NM,3579210,place:NM:3579210,Tortugas CDP,Tortugas,Tortugas,35013,Doña Ana County,Census-designated place,32.269714,-106.754568,1
+NM,3579264,place:NM:3579264,Totah Vista CDP,Totah Vista,Totah Vista,35045,San Juan County,Census-designated place,36.710685,-108.2063,1
+NM,3579500,place:NM:3579500,Tres Arroyos CDP,Tres Arroyos,Tres Arroyos,35049,Santa Fe County,Census-designated place,35.679822,-106.03986,1
+NM,3579680,place:NM:3579680,Trout Valley CDP,Trout Valley,Trout Valley,35017,Grant County,Census-designated place,33.036224,-108.189261,1
+NM,3579700,place:NM:3579700,Truchas CDP,Truchas,Truchas,35039,Rio Arriba County,Census-designated place,36.036692,-105.812546,1
+NM,3579840,place:NM:3579840,Truth or Consequences city,Truth or Consequences,Truth or Consequences,35051,Sierra County,Incorporated place,33.23764,-107.276237,1
+NM,3579885,place:NM:3579885,Tse Bonito CDP,Tse Bonito,Tse Bonito,35031,McKinley County,Census-designated place,35.646561,-109.007056,1
+NM,3579910,place:NM:3579910,Tucumcari city,Tucumcari,Tucumcari,35037,Quay County,Incorporated place,35.170918,-103.705279,1
+NM,3579980,place:NM:3579980,Tularosa village,Tularosa,Tularosa,35035,Otero County,Incorporated place,33.075001,-106.017299,1
+NM,3580120,place:NM:3580120,Turley CDP,Turley,Turley,35045,San Juan County,Census-designated place,36.736661,-107.792147,1
+NM,3580470,place:NM:3580470,Twin Forks CDP,Twin Forks,Twin Forks,35035,Otero County,Census-designated place,32.938473,-105.645974,1
+NM,3580540,place:NM:3580540,Twin Lakes CDP,Twin Lakes,Twin Lakes,35031,McKinley County,Census-designated place,35.683369,-108.770931,1
+NM,3580820,place:NM:3580820,Tyrone CDP,Tyrone,Tyrone,35017,Grant County,Census-designated place,32.709932,-108.302738,1
+NM,3581030,place:NM:3581030,University Park CDP,University Park,University Park,35013,Doña Ana County,Census-designated place,32.276738,-106.746191,1
+NM,3581177,place:NM:3581177,Upper Fruitland CDP,Upper Fruitland,Upper Fruitland,35045,San Juan County,Census-designated place,36.719925,-108.321767,1
+NM,3581450,place:NM:3581450,Ute Park CDP,Ute Park,Ute Park,35007,Colfax County,Census-designated place,36.546688,-105.103801,1
+NM,3581520,place:NM:3581520,Vadito CDP,Vadito,Vadito,35055,Taos County,Census-designated place,36.192924,-105.675328,1
+NM,3581590,place:NM:3581590,Vado CDP,Vado,Vado,35013,Doña Ana County,Census-designated place,32.127881,-106.657073,1
+NM,3581775,place:NM:3581775,Valencia CDP,Valencia,"Valencia, Santa Fe County",35049,Santa Fe County,Census-designated place,35.578015,-105.790814,1
+NM,3581800,place:NM:3581800,Valencia CDP,Valencia,"Valencia, Valencia County",35061,Valencia County,Census-designated place,34.805297,-106.686912,1
+NM,3582332,place:NM:3582332,Valle Vista CDP,Valle Vista,Valle Vista,35049,Santa Fe County,Census-designated place,35.583959,-106.058449,1
+NM,3582430,place:NM:3582430,Vanderwagen CDP,Vanderwagen,Vanderwagen,35031,McKinley County,Census-designated place,35.27455,-108.744447,1
+NM,3582570,place:NM:3582570,Vaughn town,Vaughn,Vaughn,35019,Guadalupe County,Incorporated place,34.607206,-105.212594,1
+NM,3582640,place:NM:3582640,Veguita CDP,Veguita,Veguita,35053,Socorro County,Census-designated place,34.514686,-106.767915,1
+NM,3582710,place:NM:3582710,Velarde CDP,Velarde,Velarde,35039,Rio Arriba County,Census-designated place,36.159292,-105.958756,1
+NM,3582800,place:NM:3582800,Ventura CDP,Ventura,Ventura,35029,Luna County,Census-designated place,32.243769,-107.683198,1
+NM,3583130,place:NM:3583130,Villanueva CDP,Villanueva,Villanueva,35047,San Miguel County,Census-designated place,35.265923,-105.360208,1
+NM,3583200,place:NM:3583200,Virden village,Virden,Virden,35023,Hidalgo County,Incorporated place,32.688872,-109.001333,1
+NM,3583340,place:NM:3583340,Wagon Mound village,Wagon Mound,Wagon Mound,35033,Mora County,Incorporated place,36.004722,-104.709192,1
+NM,3583760,place:NM:3583760,Waterflow CDP,Waterflow,Waterflow,35045,San Juan County,Census-designated place,36.755326,-108.475261,1
+NM,3583830,place:NM:3583830,Watrous CDP,Watrous,Watrous,35033,Mora County,Census-designated place,35.789888,-104.982083,1
+NM,3583970,place:NM:3583970,Weed CDP,Weed,Weed,35035,Otero County,Census-designated place,32.796855,-105.530851,1
+NM,3584200,place:NM:3584200,West Hammond CDP,West Hammond,West Hammond,35045,San Juan County,Census-designated place,36.681984,-108.043784,1
+NM,3584505,place:NM:3584505,White Cliffs CDP,White Cliffs,White Cliffs,35031,McKinley County,Census-designated place,35.549023,-108.664318,1
+NM,3584740,place:NM:3584740,White Rock CDP,White Rock,White Rock,35028,Los Alamos County,Census-designated place,35.808645,-106.208121,1
+NM,3584845,place:NM:3584845,White Sands CDP,White Sands,White Sands,35013,Doña Ana County,Census-designated place,32.38044,-106.479113,1
+NM,3584975,place:NM:3584975,White Signal CDP,White Signal,White Signal,35017,Grant County,Census-designated place,32.567749,-108.349021,1
+NM,3584950,place:NM:3584950,Whites City CDP,Whites City,Whites City,35015,Eddy County,Census-designated place,32.176645,-104.373797,1
+NM,3585160,place:NM:3585160,Willard village,Willard,Willard,35057,Torrance County,Incorporated place,34.594879,-106.032289,1
+NM,3585230,place:NM:3585230,Williams Acres CDP,Williams Acres,Williams Acres,35031,McKinley County,Census-designated place,35.496936,-108.869898,1
+NM,3585300,place:NM:3585300,Williamsburg village,Williamsburg,Williamsburg,35051,Sierra County,Incorporated place,33.11593,-107.294462,1
+NM,3585485,place:NM:3585485,Windmill CDP,Windmill,Windmill,35023,Hidalgo County,Census-designated place,31.976871,-108.631504,1
+NM,3585720,place:NM:3585720,Winston CDP,Winston,Winston,35051,Sierra County,Census-designated place,33.346112,-107.648743,1
+NM,3585860,place:NM:3585860,Yah-ta-hey CDP,Yah-ta-hey,Yah-ta-hey,35031,McKinley County,Census-designated place,35.629103,-108.792667,1
+NM,3586210,place:NM:3586210,Youngsville CDP,Youngsville,Youngsville,35039,Rio Arriba County,Census-designated place,36.194985,-106.566931,1
+NM,3586420,place:NM:3586420,Zia Pueblo CDP,Zia Pueblo,Zia Pueblo,35043,Sandoval County,Census-designated place,35.529992,-106.716961,1
+NM,3586595,place:NM:3586595,Zuni Pueblo CDP,Zuni Pueblo,Zuni Pueblo,35031,McKinley County,Census-designated place,35.069351,-108.855832,1

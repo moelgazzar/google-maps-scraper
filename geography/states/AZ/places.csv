@@ -1,0 +1,468 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+AZ,0400730,place:AZ:0400730,Aguila CDP,Aguila,Aguila,04013,Maricopa County,Census-designated place,33.9374,-113.167329,1
+AZ,0400870,place:AZ:0400870,Ajo CDP,Ajo,Ajo,04019,Pima County,Census-designated place,32.392279,-112.883874,1
+AZ,0400940,place:AZ:0400940,Ak Chin CDP,Ak Chin,Ak Chin,04019,Pima County,Census-designated place,32.287326,-112.009078,1
+AZ,0401090,place:AZ:0401090,Ak-Chin Village CDP,Ak-Chin Village,Ak-Chin Village,04021,Pinal County,Census-designated place,33.019602,-112.080875,1
+AZ,0401170,place:AZ:0401170,Alamo Lake CDP,Alamo Lake,Alamo Lake,04012,La Paz County,Census-designated place,34.255851,-113.500313,1
+AZ,0401560,place:AZ:0401560,Ali Chuk CDP,Ali Chuk,Ali Chuk,04019,Pima County,Census-designated place,31.816919,-112.558394,1
+AZ,0401570,place:AZ:0401570,Ali Chukson CDP,Ali Chukson,Ali Chukson,04019,Pima County,Census-designated place,31.911528,-111.801625,1
+AZ,0401620,place:AZ:0401620,Ali Molina CDP,Ali Molina,Ali Molina,04019,Pima County,Census-designated place,31.902547,-111.780387,1
+AZ,0401920,place:AZ:0401920,Alpine CDP,Alpine,Alpine,04001,Apache County,Census-designated place,33.845524,-109.143692,1
+AZ,0401990,place:AZ:0401990,Amado CDP,Amado,Amado,04023,Santa Cruz County,Census-designated place,31.697358,-111.060803,1
+AZ,0402270,place:AZ:0402270,Anegam CDP,Anegam,Anegam,04019,Pima County,Census-designated place,32.374193,-112.034963,1
+AZ,0402410,place:AZ:0402410,Antares CDP,Antares,Antares,04015,Mohave County,Census-designated place,35.422991,-113.808288,1
+AZ,0402430,place:AZ:0402430,Anthem CDP,Anthem,Anthem,04013,Maricopa County,Census-designated place,33.846766,-112.126999,1
+AZ,0402830,place:AZ:0402830,Apache Junction city,Apache Junction,Apache Junction,04021,Pinal County,Incorporated place,33.382718,-111.540534,1
+AZ,0403320,place:AZ:0403320,Arivaca CDP,Arivaca,Arivaca,04019,Pima County,Census-designated place,31.574938,-111.292611,1
+AZ,0403380,place:AZ:0403380,Arivaca Junction CDP,Arivaca Junction,Arivaca Junction,04019,Pima County,Census-designated place,31.738891,-111.073596,1
+AZ,0403530,place:AZ:0403530,Arizona City CDP,Arizona City,Arizona City,04021,Pinal County,Census-designated place,32.744993,-111.667741,1
+AZ,0403915,place:AZ:0403915,Arizona Village CDP,Arizona Village,Arizona Village,04015,Mohave County,Census-designated place,34.854836,-114.589339,1
+AZ,0404020,place:AZ:0404020,Arlington CDP,Arlington,Arlington,04013,Maricopa County,Census-designated place,33.334622,-112.77475,1
+AZ,0404440,place:AZ:0404440,Ash Fork CDP,Ash Fork,Ash Fork,04025,Yavapai County,Census-designated place,35.217187,-112.4913,1
+AZ,0404710,place:AZ:0404710,Avenue B and C CDP,Avenue B and C,Avenue B and C,04027,Yuma County,Census-designated place,32.719042,-114.660049,1
+AZ,0404720,place:AZ:0404720,Avondale city,Avondale,Avondale,04013,Maricopa County,Incorporated place,33.313646,-112.331314,1
+AZ,0404880,place:AZ:0404880,Avra Valley CDP,Avra Valley,Avra Valley,04019,Pima County,Census-designated place,32.419132,-111.339442,1
+AZ,0404930,place:AZ:0404930,Aztec CDP,Aztec,Aztec,04027,Yuma County,Census-designated place,32.807567,-113.442477,1
+AZ,0405140,place:AZ:0405140,Bagdad CDP,Bagdad,Bagdad,04025,Yavapai County,Census-designated place,34.577199,-113.176818,1
+AZ,0405450,place:AZ:0405450,Bear Flat CDP,Bear Flat,Bear Flat,04007,Gila County,Census-designated place,34.291313,-111.067426,1
+AZ,0405490,place:AZ:0405490,Beaver Dam CDP,Beaver Dam,Beaver Dam,04015,Mohave County,Census-designated place,36.906981,-113.936181,1
+AZ,0405495,place:AZ:0405495,Beaver Valley CDP,Beaver Valley,Beaver Valley,04007,Gila County,Census-designated place,34.342858,-111.299924,1
+AZ,0405700,place:AZ:0405700,Bellemont CDP,Bellemont,Bellemont,04005,Coconino County,Census-designated place,35.242489,-111.813789,1
+AZ,0405770,place:AZ:0405770,Benson city,Benson,Benson,04003,Cochise County,Incorporated place,31.914497,-110.328552,1
+AZ,0405970,place:AZ:0405970,Beyerville CDP,Beyerville,Beyerville,04023,Santa Cruz County,Census-designated place,31.392047,-110.874917,1
+AZ,0406260,place:AZ:0406260,Bisbee city,Bisbee,Bisbee,04003,Cochise County,Incorporated place,31.398036,-109.931834,1
+AZ,0406470,place:AZ:0406470,Bitter Springs CDP,Bitter Springs,Bitter Springs,04005,Coconino County,Census-designated place,36.612804,-111.646387,1
+AZ,0406610,place:AZ:0406610,Black Canyon City CDP,Black Canyon City,Black Canyon City,04025,Yavapai County,Census-designated place,34.071413,-112.122411,1
+AZ,0406820,place:AZ:0406820,Blackwater CDP,Blackwater,Blackwater,04021,Pinal County,Census-designated place,33.039565,-111.579932,1
+AZ,0406997,place:AZ:0406997,Blue Ridge CDP,Blue Ridge,Blue Ridge,04005,Coconino County,Census-designated place,34.640739,-111.107383,1
+AZ,0407025,place:AZ:0407025,Bluewater CDP,Bluewater,Bluewater,04012,La Paz County,Census-designated place,34.170197,-114.263755,1
+AZ,0407310,place:AZ:0407310,Bouse CDP,Bouse,Bouse,04012,La Paz County,Census-designated place,33.898476,-113.996364,1
+AZ,0407380,place:AZ:0407380,Bowie CDP,Bowie,Bowie,04003,Cochise County,Census-designated place,32.32488,-109.484456,1
+AZ,0407590,place:AZ:0407590,Brenda CDP,Brenda,Brenda,04012,La Paz County,Census-designated place,33.672082,-113.937883,1
+AZ,0407915,place:AZ:0407915,Bryce CDP,Bryce,Bryce,04009,Graham County,Census-designated place,32.925827,-109.823078,1
+AZ,0407940,place:AZ:0407940,Buckeye city,Buckeye,Buckeye,04013,Maricopa County,Incorporated place,33.431573,-112.641626,1
+AZ,0408020,place:AZ:0408020,Buckshot CDP,Buckshot,Buckshot,04027,Yuma County,Census-designated place,32.742554,-114.48338,1
+AZ,0408220,place:AZ:0408220,Bullhead City city,Bullhead City,Bullhead City,04015,Mohave County,Incorporated place,35.127371,-114.55599,1
+AZ,0408535,place:AZ:0408535,Burnside CDP,Burnside,Burnside,04001,Apache County,Census-designated place,35.753344,-109.624812,1
+AZ,0408710,place:AZ:0408710,Bylas CDP,Bylas,Bylas,04009,Graham County,Census-designated place,33.129213,-110.116602,1
+AZ,0408920,place:AZ:0408920,Cactus Flats CDP,Cactus Flats,Cactus Flats,04009,Graham County,Census-designated place,32.760507,-109.721273,1
+AZ,0408990,place:AZ:0408990,Cactus Forest CDP,Cactus Forest,Cactus Forest,04021,Pinal County,Census-designated place,32.957823,-111.316922,1
+AZ,0409340,place:AZ:0409340,Cameron CDP,Cameron,Cameron,04005,Coconino County,Census-designated place,35.853195,-111.428581,1
+AZ,0409690,place:AZ:0409690,Camp Verde town,Camp Verde,Camp Verde,04025,Yavapai County,Incorporated place,34.569405,-111.857014,1
+AZ,0409580,place:AZ:0409580,Campo Bonito CDP,Campo Bonito,Campo Bonito,04021,Pinal County,Census-designated place,32.562885,-110.69843,1
+AZ,0409900,place:AZ:0409900,Cane Beds CDP,Cane Beds,Cane Beds,04015,Mohave County,Census-designated place,36.934154,-112.911787,1
+AZ,0410040,place:AZ:0410040,Canyon Day CDP,Canyon Day,Canyon Day,04007,Gila County,Census-designated place,33.778777,-110.03802,1
+AZ,0410180,place:AZ:0410180,Carefree town,Carefree,Carefree,04013,Maricopa County,Incorporated place,33.823214,-111.913271,1
+AZ,0410320,place:AZ:0410320,Carrizo CDP,Carrizo,Carrizo,04007,Gila County,Census-designated place,33.979354,-110.331096,1
+AZ,0410460,place:AZ:0410460,Casa Blanca CDP,Casa Blanca,Casa Blanca,04021,Pinal County,Census-designated place,33.115452,-111.908087,1
+AZ,0410530,place:AZ:0410530,Casa Grande city,Casa Grande,Casa Grande,04021,Pinal County,Incorporated place,32.905527,-111.763948,1
+AZ,0410670,place:AZ:0410670,Casas Adobes CDP,Casas Adobes,Casas Adobes,04019,Pima County,Census-designated place,32.341834,-111.011593,1
+AZ,0411160,place:AZ:0411160,Catalina CDP,Catalina,Catalina,04019,Pima County,Census-designated place,32.484779,-110.899712,1
+AZ,0411230,place:AZ:0411230,Catalina Foothills CDP,Catalina Foothills,Catalina Foothills,04019,Pima County,Census-designated place,32.301872,-110.884843,1
+AZ,0411300,place:AZ:0411300,Cave Creek town,Cave Creek,Cave Creek,04013,Maricopa County,Incorporated place,33.836219,-111.982084,1
+AZ,0411370,place:AZ:0411370,Cedar Creek CDP,Cedar Creek,Cedar Creek,04007,Gila County,Census-designated place,33.891395,-110.195691,1
+AZ,0411500,place:AZ:0411500,Centennial Park CDP,Centennial Park,Centennial Park,04015,Mohave County,Census-designated place,36.953812,-112.981282,1
+AZ,0411580,place:AZ:0411580,Central CDP,Central,Central,04009,Graham County,Census-designated place,32.86916,-109.790772,1
+AZ,0411720,place:AZ:0411720,Central Heights-Midland City CDP,Central Heights-Midland City,Central Heights-Midland City,04007,Gila County,Census-designated place,33.400183,-110.81519,1
+AZ,0412000,place:AZ:0412000,Chandler city,Chandler,Chandler,04013,Maricopa County,Incorporated place,33.282765,-111.851819,1
+AZ,0412150,place:AZ:0412150,Charco CDP,Charco,Charco,04019,Pima County,Census-designated place,32.247321,-112.600116,1
+AZ,0412560,place:AZ:0412560,Chiawuli Tak CDP,Chiawuli Tak,Chiawuli Tak,04019,Pima County,Census-designated place,31.940954,-111.776473,1
+AZ,0412630,place:AZ:0412630,Chilchinbito CDP,Chilchinbito,Chilchinbito,04017,Navajo County,Census-designated place,36.494785,-110.047278,1
+AZ,0412770,place:AZ:0412770,Chinle CDP,Chinle,Chinle,04001,Apache County,Census-designated place,36.152241,-109.579821,1
+AZ,0412840,place:AZ:0412840,Chino Valley town,Chino Valley,Chino Valley,04025,Yavapai County,Incorporated place,34.740804,-112.406051,1
+AZ,0412910,place:AZ:0412910,Chloride CDP,Chloride,Chloride,04015,Mohave County,Census-designated place,35.409702,-114.197242,1
+AZ,0413140,place:AZ:0413140,Christopher Creek CDP,Christopher Creek,Christopher Creek,04007,Gila County,Census-designated place,34.321005,-111.007245,1
+AZ,0413190,place:AZ:0413190,Chuichu CDP,Chuichu,Chuichu,04021,Pinal County,Census-designated place,32.740329,-111.78219,1
+AZ,0413400,place:AZ:0413400,Cibecue CDP,Cibecue,Cibecue,04017,Navajo County,Census-designated place,34.030367,-110.49196,1
+AZ,0413470,place:AZ:0413470,Cibola CDP,Cibola,Cibola,04012,La Paz County,Census-designated place,33.374084,-114.676283,1
+AZ,0413540,place:AZ:0413540,Cienega Springs CDP,Cienega Springs,Cienega Springs,04012,La Paz County,Census-designated place,34.199194,-114.212876,1
+AZ,0413610,place:AZ:0413610,Circle City CDP,Circle City,Circle City,04013,Maricopa County,Census-designated place,33.814877,-112.580993,1
+AZ,0413820,place:AZ:0413820,Citrus Park CDP,Citrus Park,Citrus Park,04013,Maricopa County,Census-designated place,33.533641,-112.446317,1
+AZ,0413850,place:AZ:0413850,Clacks Canyon CDP,Clacks Canyon,Clacks Canyon,04015,Mohave County,Census-designated place,35.220358,-114.072299,1
+AZ,0413890,place:AZ:0413890,Clarkdale town,Clarkdale,Clarkdale,04025,Yavapai County,Incorporated place,34.747941,-112.058112,1
+AZ,0414030,place:AZ:0414030,Clay Springs CDP,Clay Springs,Clay Springs,04017,Navajo County,Census-designated place,34.359259,-110.304334,1
+AZ,0413960,place:AZ:0413960,Claypool CDP,Claypool,Claypool,04007,Gila County,Census-designated place,33.406101,-110.841873,1
+AZ,0414380,place:AZ:0414380,Clifton town,Clifton,Clifton,04011,Greenlee County,Incorporated place,33.029584,-109.284051,1
+AZ,0414870,place:AZ:0414870,Colorado City town,Colorado City,Colorado City,04015,Mohave County,Incorporated place,36.970107,-112.985295,1
+AZ,0415080,place:AZ:0415080,Comobabi CDP,Comobabi,Comobabi,04019,Pima County,Census-designated place,32.055397,-111.798824,1
+AZ,0415150,place:AZ:0415150,Concho CDP,Concho,Concho,04001,Apache County,Census-designated place,34.473838,-109.608266,1
+AZ,0415220,place:AZ:0415220,Congress CDP,Congress,Congress,04025,Yavapai County,Census-designated place,34.153356,-112.865555,1
+AZ,0415500,place:AZ:0415500,Coolidge city,Coolidge,Coolidge,04021,Pinal County,Incorporated place,32.933616,-111.523585,1
+AZ,0415600,place:AZ:0415600,Copper Hill CDP,Copper Hill,Copper Hill,04007,Gila County,Census-designated place,33.430941,-110.746483,1
+AZ,0415765,place:AZ:0415765,Cordes Lakes CDP,Cordes Lakes,Cordes Lakes,04025,Yavapai County,Census-designated place,34.3103,-112.107334,1
+AZ,0415850,place:AZ:0415850,Cornfields CDP,Cornfields,Cornfields,04001,Apache County,Census-designated place,35.651246,-109.67566,1
+AZ,0415920,place:AZ:0415920,Cornville CDP,Cornville,Cornville,04025,Yavapai County,Census-designated place,34.739244,-111.90683,1
+AZ,0416030,place:AZ:0416030,Corona de Tucson CDP,Corona de Tucson,Corona de Tucson,04019,Pima County,Census-designated place,31.948571,-110.781868,1
+AZ,0416360,place:AZ:0416360,Cottonwood CDP,Cottonwood,"Cottonwood, Apache County",04001,Apache County,Census-designated place,36.072152,-109.890109,1
+AZ,0416410,place:AZ:0416410,Cottonwood city,Cottonwood,"Cottonwood, Yavapai County",04025,Yavapai County,Incorporated place,34.750834,-111.984004,1
+AZ,0416830,place:AZ:0416830,Cowlic CDP,Cowlic,Cowlic,04019,Pima County,Census-designated place,31.804747,-111.987629,1
+AZ,0417460,place:AZ:0417460,Crozier CDP,Crozier,Crozier,04015,Mohave County,Census-designated place,35.422807,-113.648641,1
+AZ,0417500,place:AZ:0417500,Crystal Beach CDP,Crystal Beach,Crystal Beach,04015,Mohave County,Census-designated place,34.571382,-114.392634,1
+AZ,0417810,place:AZ:0417810,Cutter CDP,Cutter,Cutter,04007,Gila County,Census-designated place,33.35838,-110.659327,1
+AZ,0418160,place:AZ:0418160,Dateland CDP,Dateland,Dateland,04027,Yuma County,Census-designated place,32.820903,-113.542177,1
+AZ,0418448,place:AZ:0418448,Deer Creek CDP,Deer Creek,Deer Creek,04007,Gila County,Census-designated place,34.06878,-111.351856,1
+AZ,0418490,place:AZ:0418490,Del Muerto CDP,Del Muerto,Del Muerto,04001,Apache County,Census-designated place,36.187393,-109.435935,1
+AZ,0418580,place:AZ:0418580,Dennehotso CDP,Dennehotso,Dennehotso,04001,Apache County,Census-designated place,36.829519,-109.874547,1
+AZ,0418740,place:AZ:0418740,Desert Hills CDP,Desert Hills,Desert Hills,04015,Mohave County,Census-designated place,34.545817,-114.377741,1
+AZ,0419145,place:AZ:0419145,Dewey-Humboldt town,Dewey-Humboldt,Dewey-Humboldt,04025,Yavapai County,Incorporated place,34.517396,-112.24965,1
+AZ,0419280,place:AZ:0419280,Dilkon CDP,Dilkon,Dilkon,04017,Navajo County,Census-designated place,35.353265,-110.307213,1
+AZ,0419630,place:AZ:0419630,Dolan Springs CDP,Dolan Springs,Dolan Springs,04015,Mohave County,Census-designated place,35.590453,-114.285179,1
+AZ,0419740,place:AZ:0419740,Doney Park CDP,Doney Park,Doney Park,04005,Coconino County,Census-designated place,35.265638,-111.518951,1
+AZ,0419790,place:AZ:0419790,Donovan Estates CDP,Donovan Estates,Donovan Estates,04027,Yuma County,Census-designated place,32.709358,-114.678148,1
+AZ,0420050,place:AZ:0420050,Douglas city,Douglas,Douglas,04003,Cochise County,Incorporated place,31.399274,-109.541292,1
+AZ,0420330,place:AZ:0420330,Dragoon CDP,Dragoon,Dragoon,04003,Cochise County,Census-designated place,32.021545,-110.034657,1
+AZ,0420540,place:AZ:0420540,Drexel Heights CDP,Drexel Heights,Drexel Heights,04019,Pima County,Census-designated place,32.145257,-111.04809,1
+AZ,0420560,place:AZ:0420560,Dripping Springs CDP,Dripping Springs,Dripping Springs,04007,Gila County,Census-designated place,33.104917,-110.754943,1
+AZ,0420570,place:AZ:0420570,Drysdale CDP,Drysdale,Drysdale,04027,Yuma County,Census-designated place,32.645241,-114.706769,1
+AZ,0420680,place:AZ:0420680,Dudleyville CDP,Dudleyville,Dudleyville,04021,Pinal County,Census-designated place,32.860011,-110.716494,1
+AZ,0420750,place:AZ:0420750,Duncan town,Duncan,Duncan,04011,Greenlee County,Incorporated place,32.749981,-109.0884,1
+AZ,0420960,place:AZ:0420960,Eagar town,Eagar,Eagar,04001,Apache County,Incorporated place,34.10678,-109.301221,1
+AZ,0421310,place:AZ:0421310,East Fork CDP,East Fork,East Fork,04017,Navajo County,Census-designated place,33.810672,-109.920949,1
+AZ,0421410,place:AZ:0421410,East Globe CDP,East Globe,East Globe,04007,Gila County,Census-designated place,33.351132,-110.706186,1
+AZ,0421545,place:AZ:0421545,East Verde Estates CDP,East Verde Estates,East Verde Estates,04007,Gila County,Census-designated place,34.298272,-111.364552,1
+AZ,0421800,place:AZ:0421800,Ehrenberg CDP,Ehrenberg,Ehrenberg,04012,La Paz County,Census-designated place,33.614208,-114.483007,1
+AZ,0421900,place:AZ:0421900,El Capitan CDP,El Capitan,El Capitan,04007,Gila County,Census-designated place,33.238318,-110.78327,1
+AZ,0422220,place:AZ:0422220,El Mirage city,El Mirage,El Mirage,04013,Maricopa County,Incorporated place,33.590224,-112.327102,1
+AZ,0422400,place:AZ:0422400,El Prado Estates CDP,El Prado Estates,El Prado Estates,04027,Yuma County,Census-designated place,32.706214,-114.521481,1
+AZ,0421980,place:AZ:0421980,Elephant Head CDP,Elephant Head,Elephant Head,04019,Pima County,Census-designated place,31.766786,-110.991286,1
+AZ,0422080,place:AZ:0422080,Elfrida CDP,Elfrida,Elfrida,04003,Cochise County,Census-designated place,31.679238,-109.686879,1
+AZ,0422150,place:AZ:0422150,Elgin CDP,Elgin,Elgin,04023,Santa Cruz County,Census-designated place,31.666552,-110.532704,1
+AZ,0422360,place:AZ:0422360,Eloy city,Eloy,Eloy,04021,Pinal County,Incorporated place,32.741255,-111.594015,1
+AZ,0423512,place:AZ:0423512,First Mesa CDP,First Mesa,First Mesa,04017,Navajo County,Census-designated place,35.831667,-110.368888,1
+AZ,0423620,place:AZ:0423620,Flagstaff city,Flagstaff,Flagstaff,04005,Coconino County,Incorporated place,35.186367,-111.620367,1
+AZ,0423760,place:AZ:0423760,Florence town,Florence,Florence,04021,Pinal County,Incorporated place,33.069415,-111.413993,1
+AZ,0423955,place:AZ:0423955,Flowing Springs CDP,Flowing Springs,Flowing Springs,04007,Gila County,Census-designated place,34.309305,-111.334731,1
+AZ,0423960,place:AZ:0423960,Flowing Wells CDP,Flowing Wells,Flowing Wells,04019,Pima County,Census-designated place,32.293767,-111.011055,1
+AZ,0424100,place:AZ:0424100,Forest Lakes CDP,Forest Lakes,Forest Lakes,04005,Coconino County,Census-designated place,34.329935,-110.810653,1
+AZ,0424250,place:AZ:0424250,Fort Apache CDP,Fort Apache,Fort Apache,04017,Navajo County,Census-designated place,33.790071,-109.988614,1
+AZ,0424460,place:AZ:0424460,Fort Defiance CDP,Fort Defiance,Fort Defiance,04001,Apache County,Census-designated place,35.747502,-109.068018,1
+AZ,0424895,place:AZ:0424895,Fort Mohave CDP,Fort Mohave,Fort Mohave,04015,Mohave County,Census-designated place,35.000432,-114.574864,1
+AZ,0424950,place:AZ:0424950,Fort Thomas CDP,Fort Thomas,Fort Thomas,04009,Graham County,Census-designated place,33.030364,-109.961258,1
+AZ,0425045,place:AZ:0425045,Fort Valley CDP,Fort Valley,Fort Valley,04005,Coconino County,Census-designated place,35.322667,-111.739777,1
+AZ,0425030,place:AZ:0425030,Fortuna Foothills CDP,Fortuna Foothills,Fortuna Foothills,04027,Yuma County,Census-designated place,32.661586,-114.39737,1
+AZ,0425300,place:AZ:0425300,Fountain Hills town,Fountain Hills,Fountain Hills,04013,Maricopa County,Incorporated place,33.607799,-111.738398,1
+AZ,0425650,place:AZ:0425650,Franklin CDP,Franklin,Franklin,04011,Greenlee County,Census-designated place,32.677031,-109.072064,1
+AZ,0425720,place:AZ:0425720,Fredonia town,Fredonia,Fredonia,04005,Coconino County,Incorporated place,36.961684,-112.51616,1
+AZ,0425735,place:AZ:0425735,Freedom Acres CDP,Freedom Acres,Freedom Acres,04007,Gila County,Census-designated place,34.319886,-111.305152,1
+AZ,0426070,place:AZ:0426070,Gadsden CDP,Gadsden,Gadsden,04027,Yuma County,Census-designated place,32.556359,-114.781032,1
+AZ,0426210,place:AZ:0426210,Ganado CDP,Ganado,Ganado,04001,Apache County,Census-designated place,35.697499,-109.550669,1
+AZ,0426780,place:AZ:0426780,Geronimo Estates CDP,Geronimo Estates,Geronimo Estates,04007,Gila County,Census-designated place,34.369106,-111.361802,1
+AZ,0427050,place:AZ:0427050,Gila Bend town,Gila Bend,Gila Bend,04013,Maricopa County,Incorporated place,32.966242,-112.715465,1
+AZ,0427260,place:AZ:0427260,Gila Crossing CDP,Gila Crossing,Gila Crossing,04013,Maricopa County,Census-designated place,33.273015,-112.162668,1
+AZ,0427400,place:AZ:0427400,Gilbert town,Gilbert,Gilbert,04013,Maricopa County,Incorporated place,33.312996,-111.742422,1
+AZ,0427540,place:AZ:0427540,Gisela CDP,Gisela,Gisela,04007,Gila County,Census-designated place,34.101818,-111.288021,1
+AZ,0427820,place:AZ:0427820,Glendale city,Glendale,Glendale,04013,Maricopa County,Incorporated place,33.533111,-112.189901,1
+AZ,0428030,place:AZ:0428030,Globe city,Globe,Globe,04007,Gila County,Incorporated place,33.393667,-110.74119,1
+AZ,0428140,place:AZ:0428140,Gold Canyon CDP,Gold Canyon,Gold Canyon,04021,Pinal County,Census-designated place,33.363903,-111.42298,1
+AZ,0428190,place:AZ:0428190,Golden Shores CDP,Golden Shores,Golden Shores,04015,Mohave County,Census-designated place,34.781881,-114.477749,1
+AZ,0428195,place:AZ:0428195,Golden Valley CDP,Golden Valley,Golden Valley,04015,Mohave County,Census-designated place,35.206066,-114.232753,1
+AZ,0428380,place:AZ:0428380,Goodyear city,Goodyear,Goodyear,04013,Maricopa County,Incorporated place,33.254031,-112.366472,1
+AZ,0428465,place:AZ:0428465,Goodyear Village CDP,Goodyear Village,Goodyear Village,04021,Pinal County,Census-designated place,33.197313,-111.872344,1
+AZ,0428981,place:AZ:0428981,Grand Canyon Village CDP,Grand Canyon Village,Grand Canyon Village,04005,Coconino County,Census-designated place,36.059483,-112.157912,1
+AZ,0428985,place:AZ:0428985,Grand Canyon West CDP,Grand Canyon West,Grand Canyon West,04015,Mohave County,Census-designated place,36.004425,-113.804117,1
+AZ,0429430,place:AZ:0429430,Greasewood CDP,Greasewood,Greasewood,04017,Navajo County,Census-designated place,35.538114,-109.86472,1
+AZ,0429710,place:AZ:0429710,Green Valley CDP,Green Valley,Green Valley,04019,Pima County,Census-designated place,31.840843,-111.004482,1
+AZ,0429603,place:AZ:0429603,Greenehaven CDP,Greenehaven,Greenehaven,04005,Coconino County,Census-designated place,36.99597,-111.556564,1
+AZ,0429850,place:AZ:0429850,Greer CDP,Greer,Greer,04001,Apache County,Census-designated place,34.005751,-109.460586,1
+AZ,0430550,place:AZ:0430550,Gu Oidak CDP,Gu Oidak,Gu Oidak,04019,Pima County,Census-designated place,31.920289,-112.024057,1
+AZ,0430270,place:AZ:0430270,Guadalupe town,Guadalupe,Guadalupe,04013,Maricopa County,Incorporated place,33.366453,-111.963156,1
+AZ,0430830,place:AZ:0430830,Hackberry CDP,Hackberry,Hackberry,04015,Mohave County,Census-designated place,35.340096,-113.725629,1
+AZ,0430840,place:AZ:0430840,Haigler Creek CDP,Haigler Creek,Haigler Creek,04007,Gila County,Census-designated place,34.219283,-110.971396,1
+AZ,0430850,place:AZ:0430850,Haivana Nakya CDP,Haivana Nakya,Haivana Nakya,04019,Pima County,Census-designated place,32.005154,-111.712418,1
+AZ,0431182,place:AZ:0431182,Hard Rock CDP,Hard Rock,Hard Rock,04017,Navajo County,Census-designated place,36.028982,-110.504668,1
+AZ,0432020,place:AZ:0432020,Hayden town,Hayden,Hayden,04007,Gila County,Incorporated place,32.994978,-110.779858,1
+AZ,0432310,place:AZ:0432310,Heber-Overgaard CDP,Heber-Overgaard,Heber-Overgaard,04017,Navajo County,Census-designated place,34.414141,-110.569561,1
+AZ,0433280,place:AZ:0433280,Holbrook city,Holbrook,Holbrook,04017,Navajo County,Incorporated place,34.904624,-110.16721,1
+AZ,0433440,place:AZ:0433440,Hondah CDP,Hondah,Hondah,04017,Navajo County,Census-designated place,34.09443,-109.934563,1
+AZ,0433945,place:AZ:0433945,Hotevilla-Bacavi CDP,Hotevilla-Bacavi,Hotevilla-Bacavi,04017,Navajo County,Census-designated place,35.920741,-110.640745,1
+AZ,0433980,place:AZ:0433980,Houck CDP,Houck,Houck,04001,Apache County,Census-designated place,35.269308,-109.22344,1
+AZ,0434120,place:AZ:0434120,Huachuca City town,Huachuca City,Huachuca City,04003,Cochise County,Incorporated place,31.630804,-110.342193,1
+AZ,0434700,place:AZ:0434700,Hunter Creek CDP,Hunter Creek,Hunter Creek,04007,Gila County,Census-designated place,34.306974,-111.016516,1
+AZ,0434980,place:AZ:0434980,Icehouse Canyon CDP,Icehouse Canyon,Icehouse Canyon,04007,Gila County,Census-designated place,33.34613,-110.801154,1
+AZ,0435310,place:AZ:0435310,Indian Wells CDP,Indian Wells,Indian Wells,04017,Navajo County,Census-designated place,35.409331,-110.114502,1
+AZ,0436440,place:AZ:0436440,J-Six Ranchettes CDP,J-Six Ranchettes,J-Six Ranchettes,04019,Pima County,Census-designated place,31.9666,-110.466357,1
+AZ,0436010,place:AZ:0436010,Jakes Corner CDP,Jakes Corner,Jakes Corner,04007,Gila County,Census-designated place,34.008227,-111.320226,1
+AZ,0436150,place:AZ:0436150,Jeddito CDP,Jeddito,Jeddito,04017,Navajo County,Census-designated place,35.768247,-110.127793,1
+AZ,0436290,place:AZ:0436290,Jerome town,Jerome,Jerome,04025,Yavapai County,Incorporated place,34.747088,-112.107515,1
+AZ,0436430,place:AZ:0436430,Joseph City CDP,Joseph City,Joseph City,04017,Navajo County,Census-designated place,34.963714,-110.329008,1
+AZ,0436475,place:AZ:0436475,Kachina Village CDP,Kachina Village,Kachina Village,04005,Coconino County,Census-designated place,35.092482,-111.696172,1
+AZ,0436500,place:AZ:0436500,Kaibab CDP,Kaibab,Kaibab,04015,Mohave County,Census-designated place,36.879657,-112.7256,1
+AZ,0436535,place:AZ:0436535,Kaibab Estates West CDP,Kaibab Estates West,Kaibab Estates West,04005,Coconino County,Census-designated place,35.274799,-112.498549,1
+AZ,0436640,place:AZ:0436640,Kaibito CDP,Kaibito,Kaibito,04005,Coconino County,Census-designated place,36.591988,-111.107141,1
+AZ,0436780,place:AZ:0436780,Kaka CDP,Kaka,Kaka,04013,Maricopa County,Census-designated place,32.512294,-112.313845,1
+AZ,0436920,place:AZ:0436920,Katherine CDP,Katherine,Katherine,04015,Mohave County,Census-designated place,35.219133,-114.562844,1
+AZ,0436990,place:AZ:0436990,Kayenta CDP,Kayenta,Kayenta,04017,Navajo County,Census-designated place,36.717291,-110.260435,1
+AZ,0437130,place:AZ:0437130,Keams Canyon CDP,Keams Canyon,Keams Canyon,04017,Navajo County,Census-designated place,35.820826,-110.203748,1
+AZ,0437200,place:AZ:0437200,Kearny town,Kearny,Kearny,04021,Pinal County,Incorporated place,33.056392,-110.907091,1
+AZ,0437620,place:AZ:0437620,Kingman city,Kingman,Kingman,04015,Mohave County,Incorporated place,35.216992,-114.010529,1
+AZ,0437935,place:AZ:0437935,Kino Springs CDP,Kino Springs,Kino Springs,04023,Santa Cruz County,Census-designated place,31.364128,-110.809745,1
+AZ,0438250,place:AZ:0438250,Klagetoh CDP,Klagetoh,Klagetoh,04001,Apache County,Census-designated place,35.500015,-109.530452,1
+AZ,0438290,place:AZ:0438290,Kleindale CDP,Kleindale,Kleindale,04019,Pima County,Census-designated place,32.268112,-110.91458,1
+AZ,0438950,place:AZ:0438950,Ko Vaya CDP,Ko Vaya,Ko Vaya,04019,Pima County,Census-designated place,32.081502,-111.895875,1
+AZ,0438530,place:AZ:0438530,Kohatk CDP,Kohatk,Kohatk,04021,Pinal County,Census-designated place,32.578281,-112.003013,1
+AZ,0438600,place:AZ:0438600,Kohls Ranch CDP,Kohls Ranch,Kohls Ranch,04007,Gila County,Census-designated place,34.321053,-111.083889,1
+AZ,0438655,place:AZ:0438655,Komatke CDP,Komatke,Komatke,04013,Maricopa County,Census-designated place,33.296773,-112.162475,1
+AZ,0439100,place:AZ:0439100,Kykotsmovi Village CDP,Kykotsmovi Village,Kykotsmovi Village,04017,Navajo County,Census-designated place,35.810245,-110.656849,1
+AZ,0440160,place:AZ:0440160,La Paz Valley CDP,La Paz Valley,La Paz Valley,04012,La Paz County,Census-designated place,33.558215,-114.243451,1
+AZ,0439370,place:AZ:0439370,Lake Havasu City city,Lake Havasu City,Lake Havasu City,04015,Mohave County,Incorporated place,34.499809,-114.310943,1
+AZ,0439720,place:AZ:0439720,Lake Montezuma CDP,Lake Montezuma,Lake Montezuma,04025,Yavapai County,Census-designated place,34.636908,-111.800945,1
+AZ,0439790,place:AZ:0439790,Lake of the Woods CDP,Lake of the Woods,Lake of the Woods,04017,Navajo County,Census-designated place,34.152635,-109.994275,1
+AZ,0440400,place:AZ:0440400,Lazy Y U CDP,Lazy Y U,Lazy Y U,04015,Mohave County,Census-designated place,35.136913,-113.968463,1
+AZ,0440415,place:AZ:0440415,LeChee CDP,LeChee,LeChee,04005,Coconino County,Census-designated place,36.860906,-111.424457,1
+AZ,0440630,place:AZ:0440630,Leupp CDP,Leupp,Leupp,04005,Coconino County,Census-designated place,35.296609,-111.003626,1
+AZ,0441085,place:AZ:0441085,Linden CDP,Linden,Linden,04017,Navajo County,Census-designated place,34.269757,-110.136324,1
+AZ,0441330,place:AZ:0441330,Litchfield Park city,Litchfield Park,Litchfield Park,04013,Maricopa County,Incorporated place,33.502078,-112.359363,1
+AZ,0441470,place:AZ:0441470,Littlefield CDP,Littlefield,Littlefield,04015,Mohave County,Census-designated place,36.865925,-113.935976,1
+AZ,0442590,place:AZ:0442590,Low Mountain CDP,Low Mountain,Low Mountain,04017,Navajo County,Census-designated place,35.948414,-110.102174,1
+AZ,0442460,place:AZ:0442460,Lower Santan Village CDP,Lower Santan Village,Lower Santan Village,04021,Pinal County,Census-designated place,33.142838,-111.785284,1
+AZ,0442660,place:AZ:0442660,Lukachukai CDP,Lukachukai,Lukachukai,04001,Apache County,Census-designated place,36.411251,-109.225582,1
+AZ,0442940,place:AZ:0442940,Lupton CDP,Lupton,Lupton,04001,Apache County,Census-designated place,35.354743,-109.052817,1
+AZ,0443920,place:AZ:0443920,Maish Vaya CDP,Maish Vaya,Maish Vaya,04019,Pima County,Census-designated place,32.170295,-112.134196,1
+AZ,0443990,place:AZ:0443990,Mammoth town,Mammoth,Mammoth,04021,Pinal County,Incorporated place,32.685174,-110.72928,1
+AZ,0444200,place:AZ:0444200,Many Farms CDP,Many Farms,Many Farms,04001,Apache County,Census-designated place,36.343038,-109.637411,1
+AZ,0444270,place:AZ:0444270,Marana town,Marana,Marana,04019,Pima County,Incorporated place,32.465842,-111.134697,1
+AZ,0444410,place:AZ:0444410,Maricopa city,Maricopa,Maricopa,04021,Pinal County,Incorporated place,33.041316,-112.005749,1
+AZ,0444450,place:AZ:0444450,Maricopa Colony CDP,Maricopa Colony,Maricopa Colony,04013,Maricopa County,Census-designated place,33.36259,-112.226809,1
+AZ,0444830,place:AZ:0444830,Martinez Lake CDP,Martinez Lake,Martinez Lake,04027,Yuma County,Census-designated place,32.983559,-114.476687,1
+AZ,0445180,place:AZ:0445180,Mayer CDP,Mayer,Mayer,04025,Yavapai County,Census-designated place,34.423271,-112.240747,1
+AZ,0443150,place:AZ:0443150,McConnico CDP,McConnico,McConnico,04015,Mohave County,Census-designated place,35.163594,-114.089738,1
+AZ,0443430,place:AZ:0443430,McNary CDP,McNary,McNary,04001,Apache County,Census-designated place,34.098334,-109.849034,1
+AZ,0443570,place:AZ:0443570,McNeal CDP,McNeal,McNeal,04003,Cochise County,Census-designated place,31.610078,-109.658267,1
+AZ,0445275,place:AZ:0445275,Mead Ranch CDP,Mead Ranch,Mead Ranch,04007,Gila County,Census-designated place,34.346124,-111.142797,1
+AZ,0445285,place:AZ:0445285,Meadview CDP,Meadview,Meadview,04015,Mohave County,Census-designated place,35.953156,-114.078871,1
+AZ,0446000,place:AZ:0446000,Mesa city,Mesa,Mesa,04013,Maricopa County,Incorporated place,33.399355,-111.715968,1
+AZ,0446005,place:AZ:0446005,Mesa del Caballo CDP,Mesa del Caballo,Mesa del Caballo,04007,Gila County,Census-designated place,34.285904,-111.295227,1
+AZ,0446070,place:AZ:0446070,Mescal CDP,Mescal,Mescal,04003,Cochise County,Census-designated place,31.96743,-110.436582,1
+AZ,0446087,place:AZ:0446087,Mesquite Creek CDP,Mesquite Creek,Mesquite Creek,04015,Mohave County,Census-designated place,34.960658,-114.571402,1
+AZ,0446350,place:AZ:0446350,Miami town,Miami,Miami,04007,Gila County,Incorporated place,33.395065,-110.872382,1
+AZ,0446840,place:AZ:0446840,Miracle Valley CDP,Miracle Valley,Miracle Valley,04003,Cochise County,Census-designated place,31.382924,-110.14853,1
+AZ,0447190,place:AZ:0447190,Moccasin CDP,Moccasin,Moccasin,04015,Mohave County,Census-designated place,36.909836,-112.754507,1
+AZ,0447330,place:AZ:0447330,Moenkopi CDP,Moenkopi,Moenkopi,04005,Coconino County,Census-designated place,36.112484,-111.221243,1
+AZ,0447400,place:AZ:0447400,Mohave Valley CDP,Mohave Valley,Mohave Valley,04015,Mohave County,Census-designated place,34.902431,-114.571389,1
+AZ,0447495,place:AZ:0447495,Mojave Ranch Estates CDP,Mojave Ranch Estates,Mojave Ranch Estates,04015,Mohave County,Census-designated place,34.944901,-114.590643,1
+AZ,0447610,place:AZ:0447610,Morenci CDP,Morenci,Morenci,04011,Greenlee County,Census-designated place,33.058354,-109.333171,1
+AZ,0447680,place:AZ:0447680,Mormon Lake CDP,Mormon Lake,Mormon Lake,04005,Coconino County,Census-designated place,34.91161,-111.448078,1
+AZ,0447750,place:AZ:0447750,Morristown CDP,Morristown,Morristown,04013,Maricopa County,Census-designated place,33.855895,-112.612886,1
+AZ,0447925,place:AZ:0447925,Mountain View Ranches CDP,Mountain View Ranches,Mountain View Ranches,04005,Coconino County,Census-designated place,35.233569,-111.472767,1
+AZ,0447820,place:AZ:0447820,Mountainaire CDP,Mountainaire,Mountainaire,04005,Coconino County,Census-designated place,35.093767,-111.645195,1
+AZ,0448170,place:AZ:0448170,Munds Park CDP,Munds Park,Munds Park,04005,Coconino County,Census-designated place,34.937966,-111.628239,1
+AZ,0448310,place:AZ:0448310,Naco CDP,Naco,Naco,04003,Cochise County,Census-designated place,31.345999,-109.927089,1
+AZ,0449010,place:AZ:0449010,Nazlini CDP,Nazlini,Nazlini,04001,Apache County,Census-designated place,35.911225,-109.474672,1
+AZ,0449100,place:AZ:0449100,Nelson CDP,Nelson,Nelson,04019,Pima County,Census-designated place,32.429828,-111.26489,1
+AZ,0449270,place:AZ:0449270,New Kingman-Butler CDP,New Kingman-Butler,New Kingman-Butler,04015,Mohave County,Census-designated place,35.264487,-114.009073,1
+AZ,0449360,place:AZ:0449360,New River CDP,New River,New River,04013,Maricopa County,Census-designated place,33.882614,-112.086057,1
+AZ,0449640,place:AZ:0449640,Nogales city,Nogales,Nogales,04023,Santa Cruz County,Incorporated place,31.361928,-110.93482,1
+AZ,0449710,place:AZ:0449710,Nolic CDP,Nolic,Nolic,04019,Pima County,Census-designated place,32.034183,-111.955021,1
+AZ,0450000,place:AZ:0450000,North Fork CDP,North Fork,North Fork,04017,Navajo County,Census-designated place,34.01057,-109.959543,1
+AZ,0450340,place:AZ:0450340,Nutrioso CDP,Nutrioso,Nutrioso,04001,Apache County,Census-designated place,33.95127,-109.206202,1
+AZ,0450362,place:AZ:0450362,Oak Creek Canyon CDP,Oak Creek Canyon,Oak Creek Canyon,04005,Coconino County,Census-designated place,34.948928,-111.750429,1
+AZ,0450480,place:AZ:0450480,Oak Springs CDP,Oak Springs,Oak Springs,04001,Apache County,Census-designated place,35.47602,-109.13182,1
+AZ,0450620,place:AZ:0450620,Oatman CDP,Oatman,Oatman,04015,Mohave County,Census-designated place,35.027375,-114.38386,1
+AZ,0451142,place:AZ:0451142,Oljato-Monument Valley CDP,Oljato-Monument Valley,Oljato-Monument Valley,04017,Navajo County,Census-designated place,36.987212,-110.209616,1
+AZ,0451180,place:AZ:0451180,Oracle CDP,Oracle,Oracle,04021,Pinal County,Census-designated place,32.608424,-110.782344,1
+AZ,0451465,place:AZ:0451465,Orange Grove Mobile Manor CDP,Orange Grove Mobile Manor,Orange Grove Mobile Manor,04027,Yuma County,Census-designated place,32.598451,-114.660588,1
+AZ,0451600,place:AZ:0451600,Oro Valley town,Oro Valley,Oro Valley,04019,Pima County,Incorporated place,32.420713,-110.977,1
+AZ,0451775,place:AZ:0451775,Oxbow Estates CDP,Oxbow Estates,Oxbow Estates,04007,Gila County,Census-designated place,34.18035,-111.343015,1
+AZ,0451800,place:AZ:0451800,Padre Ranchitos CDP,Padre Ranchitos,Padre Ranchitos,04027,Yuma County,Census-designated place,32.649591,-114.641584,1
+AZ,0451810,place:AZ:0451810,Page city,Page,Page,04005,Coconino County,Incorporated place,36.941815,-111.513283,1
+AZ,0452230,place:AZ:0452230,Palominas CDP,Palominas,Palominas,04003,Cochise County,Census-designated place,31.387556,-110.115065,1
+AZ,0452930,place:AZ:0452930,Paradise Valley town,Paradise Valley,Paradise Valley,04013,Maricopa County,Incorporated place,33.552157,-111.96133,1
+AZ,0453070,place:AZ:0453070,Parker town,Parker,Parker,04012,La Paz County,Incorporated place,34.034006,-114.228109,1
+AZ,0453210,place:AZ:0453210,Parker Strip CDP,Parker Strip,Parker Strip,04012,La Paz County,Census-designated place,34.270721,-114.129689,1
+AZ,0453350,place:AZ:0453350,Parks CDP,Parks,Parks,04005,Coconino County,Census-designated place,35.285249,-111.967182,1
+AZ,0453490,place:AZ:0453490,Patagonia town,Patagonia,Patagonia,04023,Santa Cruz County,Incorporated place,31.544744,-110.745463,1
+AZ,0453560,place:AZ:0453560,Paulden CDP,Paulden,Paulden,04025,Yavapai County,Census-designated place,34.889655,-112.493724,1
+AZ,0453700,place:AZ:0453700,Payson town,Payson,Payson,04007,Gila County,Incorporated place,34.243841,-111.318964,1
+AZ,0453770,place:AZ:0453770,Peach Springs CDP,Peach Springs,Peach Springs,04015,Mohave County,Census-designated place,35.53145,-113.43198,1
+AZ,0453910,place:AZ:0453910,Peeples Valley CDP,Peeples Valley,Peeples Valley,04025,Yavapai County,Census-designated place,34.277224,-112.765341,1
+AZ,0454050,place:AZ:0454050,Peoria city,Peoria,Peoria,04013,Maricopa County,Incorporated place,33.797498,-112.339284,1
+AZ,0454190,place:AZ:0454190,Peridot CDP,Peridot,Peridot,04007,Gila County,Census-designated place,33.303466,-110.463664,1
+AZ,0455000,place:AZ:0455000,Phoenix city,Phoenix,Phoenix,04013,Maricopa County,Incorporated place,33.572154,-112.090132,1
+AZ,0455210,place:AZ:0455210,Picacho CDP,Picacho,Picacho,04021,Pinal County,Census-designated place,32.708471,-111.494893,1
+AZ,0455300,place:AZ:0455300,Picture Rocks CDP,Picture Rocks,Picture Rocks,04019,Pima County,Census-designated place,32.343259,-111.251114,1
+AZ,0455560,place:AZ:0455560,Pima town,Pima,Pima,04009,Graham County,Incorporated place,32.892112,-109.844077,1
+AZ,0455630,place:AZ:0455630,Pinal CDP,Pinal,Pinal,04007,Gila County,Census-designated place,33.380145,-110.757245,1
+AZ,0455700,place:AZ:0455700,Pine CDP,Pine,Pine,04007,Gila County,Census-designated place,34.380454,-111.460434,1
+AZ,0455845,place:AZ:0455845,Pine Lake CDP,Pine Lake,Pine Lake,04015,Mohave County,Census-designated place,35.088699,-113.873928,1
+AZ,0455840,place:AZ:0455840,Pinedale CDP,Pinedale,Pinedale,04017,Navajo County,Census-designated place,34.320724,-110.259901,1
+AZ,0455880,place:AZ:0455880,Pinetop Country Club CDP,Pinetop Country Club,Pinetop Country Club,04017,Navajo County,Census-designated place,34.116426,-109.891086,1
+AZ,0455980,place:AZ:0455980,Pinetop-Lakeside town,Pinetop-Lakeside,Pinetop-Lakeside,04017,Navajo County,Incorporated place,34.15148,-109.967507,1
+AZ,0455983,place:AZ:0455983,Pinion Pines CDP,Pinion Pines,Pinion Pines,04015,Mohave County,Census-designated place,35.14663,-113.905814,1
+AZ,0456120,place:AZ:0456120,Pinon CDP,Pinon,Pinon,04017,Navajo County,Census-designated place,36.099785,-110.218724,1
+AZ,0456400,place:AZ:0456400,Pirtleville CDP,Pirtleville,Pirtleville,04003,Cochise County,Census-designated place,31.360894,-109.566052,1
+AZ,0456470,place:AZ:0456470,Pisinemo CDP,Pisinemo,Pisinemo,04019,Pima County,Census-designated place,32.034917,-112.319228,1
+AZ,0457170,place:AZ:0457170,Poston CDP,Poston,Poston,04012,La Paz County,Census-designated place,33.99209,-114.404454,1
+AZ,0457380,place:AZ:0457380,Prescott city,Prescott,Prescott,04025,Yavapai County,Incorporated place,34.592172,-112.446649,1
+AZ,0457450,place:AZ:0457450,Prescott Valley town,Prescott Valley,Prescott Valley,04025,Yavapai County,Incorporated place,34.59793,-112.318497,1
+AZ,0458010,place:AZ:0458010,Quartzsite town,Quartzsite,Quartzsite,04012,La Paz County,Incorporated place,33.667507,-114.217041,1
+AZ,0458150,place:AZ:0458150,Queen Creek town,Queen Creek,Queen Creek,04013,Maricopa County,Incorporated place,33.239425,-111.613319,1
+AZ,0458290,place:AZ:0458290,Queen Valley CDP,Queen Valley,Queen Valley,04021,Pinal County,Census-designated place,33.283043,-111.304973,1
+AZ,0458620,place:AZ:0458620,Rainbow City CDP,Rainbow City,Rainbow City,04017,Navajo County,Census-designated place,33.873031,-109.976277,1
+AZ,0458870,place:AZ:0458870,Rancho Mesa Verde CDP,Rancho Mesa Verde,Rancho Mesa Verde,04027,Yuma County,Census-designated place,32.594385,-114.655084,1
+AZ,0459372,place:AZ:0459372,Red Lake CDP,Red Lake,Red Lake,04005,Coconino County,Census-designated place,35.361487,-112.172127,1
+AZ,0459550,place:AZ:0459550,Red Mesa CDP,Red Mesa,Red Mesa,04001,Apache County,Census-designated place,36.970994,-109.369966,1
+AZ,0459690,place:AZ:0459690,Red Rock CDP,Red Rock,"Red Rock, Apache County",04001,Apache County,Census-designated place,36.601117,-109.064539,1
+AZ,0459760,place:AZ:0459760,Red Rock CDP,Red Rock,"Red Rock, Pinal County",04021,Pinal County,Census-designated place,32.561182,-111.374004,1
+AZ,0459900,place:AZ:0459900,Rillito CDP,Rillito,Rillito,04019,Pima County,Census-designated place,32.415531,-111.154822,1
+AZ,0460120,place:AZ:0460120,Rincon Valley CDP,Rincon Valley,Rincon Valley,04019,Pima County,Census-designated place,32.109993,-110.688976,1
+AZ,0460180,place:AZ:0460180,Rio Rico CDP,Rio Rico,Rio Rico,04023,Santa Cruz County,Census-designated place,31.498168,-110.987798,1
+AZ,0460250,place:AZ:0460250,Rio Verde CDP,Rio Verde,Rio Verde,04013,Maricopa County,Census-designated place,33.726547,-111.675803,1
+AZ,0460770,place:AZ:0460770,Rock House CDP,Rock House,Rock House,04007,Gila County,Census-designated place,33.630654,-110.941078,1
+AZ,0460880,place:AZ:0460880,Rock Point CDP,Rock Point,Rock Point,04001,Apache County,Census-designated place,36.696848,-109.619491,1
+AZ,0461300,place:AZ:0461300,Roosevelt CDP,Roosevelt,Roosevelt,04007,Gila County,Census-designated place,33.657304,-111.127046,1
+AZ,0461302,place:AZ:0461302,Roosevelt Estates CDP,Roosevelt Estates,Roosevelt Estates,04007,Gila County,Census-designated place,33.62019,-110.999784,1
+AZ,0461370,place:AZ:0461370,Rough Rock CDP,Rough Rock,Rough Rock,04001,Apache County,Census-designated place,36.419545,-109.864481,1
+AZ,0461440,place:AZ:0461440,Round Rock CDP,Round Rock,Round Rock,04001,Apache County,Census-designated place,36.504256,-109.463156,1
+AZ,0461448,place:AZ:0461448,Round Valley CDP,Round Valley,Round Valley,04007,Gila County,Census-designated place,34.187758,-111.301801,1
+AZ,0461690,place:AZ:0461690,Rye CDP,Rye,Rye,04007,Gila County,Census-designated place,34.097775,-111.354263,1
+AZ,0461715,place:AZ:0461715,Sacate Village CDP,Sacate Village,Sacate Village,04021,Pinal County,Census-designated place,33.13986,-111.977566,1
+AZ,0461720,place:AZ:0461720,Sacaton CDP,Sacaton,Sacaton,04021,Pinal County,Census-designated place,33.077548,-111.762914,1
+AZ,0461800,place:AZ:0461800,Sacaton Flats Village CDP,Sacaton Flats Village,Sacaton Flats Village,04021,Pinal County,Census-designated place,33.05664,-111.661002,1
+AZ,0461940,place:AZ:0461940,Saddlebrooke CDP,Saddlebrooke,Saddlebrooke,04021,Pinal County,Census-designated place,32.556421,-110.874676,1
+AZ,0462000,place:AZ:0462000,Safford city,Safford,Safford,04009,Graham County,Incorporated place,32.833298,-109.697418,1
+AZ,0462140,place:AZ:0462140,Sahuarita town,Sahuarita,Sahuarita,04019,Pima County,Incorporated place,31.932238,-110.965395,1
+AZ,0462700,place:AZ:0462700,Salome CDP,Salome,Salome,04012,La Paz County,Census-designated place,33.777771,-113.606047,1
+AZ,0462910,place:AZ:0462910,San Carlos CDP,San Carlos,San Carlos,04007,Gila County,Census-designated place,33.344605,-110.477644,1
+AZ,0463260,place:AZ:0463260,San Jose CDP,San Jose,San Jose,04009,Graham County,Census-designated place,32.817963,-109.5948,1
+AZ,0463470,place:AZ:0463470,San Luis city,San Luis,San Luis,04027,Yuma County,Incorporated place,32.485678,-114.721947,1
+AZ,0463540,place:AZ:0463540,San Manuel CDP,San Manuel,San Manuel,04021,Pinal County,Census-designated place,32.609095,-110.641513,1
+AZ,0463610,place:AZ:0463610,San Miguel CDP,San Miguel,San Miguel,04019,Pima County,Census-designated place,31.629493,-111.780134,1
+AZ,0463820,place:AZ:0463820,San Simon CDP,San Simon,San Simon,04003,Cochise County,Census-designated place,32.268169,-109.2302,1
+AZ,0464210,place:AZ:0464210,San Tan Valley town,San Tan Valley,San Tan Valley,04021,Pinal County,Incorporated place,33.18955,-111.541242,1
+AZ,0463050,place:AZ:0463050,Sanders CDP,Sanders,Sanders,04001,Apache County,Census-designated place,35.209217,-109.319118,1
+AZ,0463960,place:AZ:0463960,Santa Cruz CDP,Santa Cruz,Santa Cruz,04021,Pinal County,Census-designated place,33.232701,-112.159368,1
+AZ,0464310,place:AZ:0464310,Santa Rosa CDP,Santa Rosa,Santa Rosa,04019,Pima County,Census-designated place,32.332488,-112.046255,1
+AZ,0464590,place:AZ:0464590,Sawmill CDP,Sawmill,Sawmill,04001,Apache County,Census-designated place,35.886229,-109.158017,1
+AZ,0464650,place:AZ:0464650,Scenic CDP,Scenic,Scenic,04015,Mohave County,Census-designated place,36.793585,-114.012755,1
+AZ,0465000,place:AZ:0465000,Scottsdale city,Scottsdale,Scottsdale,04013,Maricopa County,Incorporated place,33.684272,-111.861448,1
+AZ,0465167,place:AZ:0465167,Seba Dalkai CDP,Seba Dalkai,Seba Dalkai,04017,Navajo County,Census-designated place,35.478696,-110.451988,1
+AZ,0465280,place:AZ:0465280,Second Mesa CDP,Second Mesa,Second Mesa,04017,Navajo County,Census-designated place,35.851378,-110.49801,1
+AZ,0465350,place:AZ:0465350,Sedona city,Sedona,Sedona,04025,Yavapai County,Incorporated place,34.848079,-111.815186,1
+AZ,0465400,place:AZ:0465400,Sehili CDP,Sehili,Sehili,04001,Apache County,Census-designated place,36.280772,-109.185521,1
+AZ,0465420,place:AZ:0465420,Seligman CDP,Seligman,Seligman,04025,Yavapai County,Census-designated place,35.325613,-112.857247,1
+AZ,0465490,place:AZ:0465490,Sells CDP,Sells,Sells,04019,Pima County,Census-designated place,31.920871,-111.870862,1
+AZ,0465780,place:AZ:0465780,Seven Mile CDP,Seven Mile,Seven Mile,04017,Navajo County,Census-designated place,33.7873,-109.957351,1
+AZ,0466190,place:AZ:0466190,Shongopovi CDP,Shongopovi,Shongopovi,04017,Navajo County,Census-designated place,35.809717,-110.533419,1
+AZ,0466260,place:AZ:0466260,Shonto CDP,Shonto,Shonto,04017,Navajo County,Census-designated place,36.583672,-110.664057,1
+AZ,0466470,place:AZ:0466470,Show Low city,Show Low,Show Low,04017,Navajo County,Incorporated place,34.265076,-110.038286,1
+AZ,0466540,place:AZ:0466540,Shumway CDP,Shumway,Shumway,04017,Navajo County,Census-designated place,34.414544,-110.064907,1
+AZ,0466820,place:AZ:0466820,Sierra Vista city,Sierra Vista,Sierra Vista,04003,Cochise County,Incorporated place,31.563875,-110.313192,1
+AZ,0466845,place:AZ:0466845,Sierra Vista Southeast CDP,Sierra Vista Southeast,Sierra Vista Southeast,04003,Cochise County,Census-designated place,31.452512,-110.218977,1
+AZ,0467295,place:AZ:0467295,Six Shooter Canyon CDP,Six Shooter Canyon,Six Shooter Canyon,04007,Gila County,Census-designated place,33.366782,-110.774601,1
+AZ,0467800,place:AZ:0467800,Snowflake town,Snowflake,Snowflake,04017,Navajo County,Incorporated place,34.521455,-110.091184,1
+AZ,0467920,place:AZ:0467920,So-Hi CDP,So-Hi,So-Hi,04015,Mohave County,Census-designated place,35.252725,-114.141482,1
+AZ,0468010,place:AZ:0468010,Solomon CDP,Solomon,Solomon,04009,Graham County,Census-designated place,32.813811,-109.62893,1
+AZ,0468080,place:AZ:0468080,Somerton city,Somerton,Somerton,04027,Yuma County,Incorporated place,32.601816,-114.696344,1
+AZ,0468220,place:AZ:0468220,Sonoita CDP,Sonoita,Sonoita,04023,Santa Cruz County,Census-designated place,31.66561,-110.639105,1
+AZ,0468670,place:AZ:0468670,South Komelik CDP,South Komelik,South Komelik,04019,Pima County,Census-designated place,31.714472,-111.774415,1
+AZ,0468850,place:AZ:0468850,South Tucson city,South Tucson,South Tucson,04019,Pima County,Incorporated place,32.195474,-110.969154,1
+AZ,0469060,place:AZ:0469060,Spring Valley CDP,Spring Valley,Spring Valley,04025,Yavapai County,Census-designated place,34.345185,-112.159168,1
+AZ,0468990,place:AZ:0468990,Springerville town,Springerville,Springerville,04001,Apache County,Incorporated place,34.171758,-109.306826,1
+AZ,0462280,place:AZ:0462280,St. David CDP,St. David,St. David,04003,Cochise County,Census-designated place,31.886037,-110.221485,1
+AZ,0462350,place:AZ:0462350,St. Johns city,St. Johns,"St. Johns, Apache County",04001,Apache County,Incorporated place,34.500368,-109.37691,1
+AZ,0462362,place:AZ:0462362,St. Johns CDP,St. Johns,"St. Johns, Maricopa County",04013,Maricopa County,Census-designated place,33.308487,-112.197381,1
+AZ,0462420,place:AZ:0462420,St. Michaels CDP,St. Michaels,St. Michaels,04001,Apache County,Census-designated place,35.660559,-109.096174,1
+AZ,0469130,place:AZ:0469130,Stanfield CDP,Stanfield,Stanfield,04021,Pinal County,Census-designated place,32.879365,-111.962771,1
+AZ,0469480,place:AZ:0469480,Star Valley town,Star Valley,Star Valley,04007,Gila County,Incorporated place,34.254685,-111.220709,1
+AZ,0469585,place:AZ:0469585,Steamboat CDP,Steamboat,Steamboat,04001,Apache County,Census-designated place,35.756417,-109.843362,1
+AZ,0469872,place:AZ:0469872,Stotonic Village CDP,Stotonic Village,Stotonic Village,04021,Pinal County,Census-designated place,33.153223,-111.817043,1
+AZ,0470040,place:AZ:0470040,Strawberry CDP,Strawberry,Strawberry,04007,Gila County,Census-designated place,34.390935,-111.502661,1
+AZ,0470175,place:AZ:0470175,Summerhaven CDP,Summerhaven,Summerhaven,04019,Pima County,Census-designated place,32.442172,-110.775031,1
+AZ,0470240,place:AZ:0470240,Summit CDP,Summit,Summit,04019,Pima County,Census-designated place,32.062084,-110.94863,1
+AZ,0470320,place:AZ:0470320,Sun City CDP,Sun City,Sun City,04013,Maricopa County,Census-designated place,33.6155,-112.283108,1
+AZ,0470355,place:AZ:0470355,Sun City West CDP,Sun City West,Sun City West,04013,Maricopa County,Census-designated place,33.671383,-112.357187,1
+AZ,0470530,place:AZ:0470530,Sun Lakes CDP,Sun Lakes,Sun Lakes,04013,Maricopa County,Census-designated place,33.214946,-111.869466,1
+AZ,0471160,place:AZ:0471160,Sun Valley CDP,Sun Valley,Sun Valley,04017,Navajo County,Census-designated place,34.974131,-110.005021,1
+AZ,0470460,place:AZ:0470460,Sunizona CDP,Sunizona,Sunizona,04003,Cochise County,Census-designated place,31.885494,-109.63322,1
+AZ,0471020,place:AZ:0471020,Sunsites CDP,Sunsites,Sunsites,04003,Cochise County,Census-designated place,31.941654,-109.840825,1
+AZ,0471220,place:AZ:0471220,Sunwest CDP,Sunwest,Sunwest,04012,La Paz County,Census-designated place,33.650984,-113.409131,1
+AZ,0471230,place:AZ:0471230,Supai CDP,Supai,Supai,04005,Coconino County,Census-designated place,36.229865,-112.692579,1
+AZ,0471300,place:AZ:0471300,Superior town,Superior,Superior,04021,Pinal County,Incorporated place,33.27162,-111.124161,1
+AZ,0471510,place:AZ:0471510,Surprise city,Surprise,Surprise,04013,Maricopa County,Incorporated place,33.67078,-112.452637,1
+AZ,0471642,place:AZ:0471642,Sweet Water Village CDP,Sweet Water Village,Sweet Water Village,04021,Pinal County,Census-designated place,33.12,-111.837866,1
+AZ,0471650,place:AZ:0471650,Swift Trail Junction CDP,Swift Trail Junction,Swift Trail Junction,04009,Graham County,Census-designated place,32.727193,-109.718114,1
+AZ,0471790,place:AZ:0471790,Tacna CDP,Tacna,Tacna,04027,Yuma County,Census-designated place,32.700435,-113.961785,1
+AZ,0472000,place:AZ:0472000,Tanque Verde CDP,Tanque Verde,Tanque Verde,04019,Pima County,Census-designated place,32.268765,-110.743681,1
+AZ,0472280,place:AZ:0472280,Tat Momoli CDP,Tat Momoli,Tat Momoli,04021,Pinal County,Census-designated place,32.601195,-111.886129,1
+AZ,0472420,place:AZ:0472420,Taylor town,Taylor,Taylor,04017,Navajo County,Incorporated place,34.442756,-110.098528,1
+AZ,0472560,place:AZ:0472560,Teec Nos Pos CDP,Teec Nos Pos,Teec Nos Pos,04001,Apache County,Census-designated place,36.93338,-109.064102,1
+AZ,0472630,place:AZ:0472630,Tees Toh CDP,Tees Toh,Tees Toh,04017,Navajo County,Census-designated place,35.486292,-110.405035,1
+AZ,0473000,place:AZ:0473000,Tempe city,Tempe,Tempe,04013,Maricopa County,Incorporated place,33.388414,-111.931782,1
+AZ,0473420,place:AZ:0473420,Thatcher town,Thatcher,Thatcher,04009,Graham County,Incorporated place,32.811335,-109.766835,1
+AZ,0473490,place:AZ:0473490,Theba CDP,Theba,Theba,04013,Maricopa County,Census-designated place,32.918231,-112.889776,1
+AZ,0473700,place:AZ:0473700,Three Points CDP,Three Points,Three Points,04019,Pima County,Census-designated place,32.05931,-111.286595,1
+AZ,0473890,place:AZ:0473890,Timberline-Fernwood CDP,Timberline-Fernwood,Timberline-Fernwood,04005,Coconino County,Census-designated place,35.316759,-111.550715,1
+AZ,0474120,place:AZ:0474120,Tolani Lake CDP,Tolani Lake,Tolani Lake,04005,Coconino County,Census-designated place,35.429788,-110.841172,1
+AZ,0474190,place:AZ:0474190,Tolleson city,Tolleson,Tolleson,04013,Maricopa County,Incorporated place,33.44837,-112.256012,1
+AZ,0474400,place:AZ:0474400,Tombstone city,Tombstone,Tombstone,04003,Cochise County,Incorporated place,31.723608,-110.079751,1
+AZ,0474470,place:AZ:0474470,Tonalea CDP,Tonalea,Tonalea,04005,Coconino County,Census-designated place,36.321734,-110.966665,1
+AZ,0474540,place:AZ:0474540,Tonopah CDP,Tonopah,Tonopah,04013,Maricopa County,Census-designated place,33.487986,-112.930811,1
+AZ,0474610,place:AZ:0474610,Tonto Basin CDP,Tonto Basin,Tonto Basin,04007,Gila County,Census-designated place,33.843232,-111.301616,1
+AZ,0474665,place:AZ:0474665,Tonto Village CDP,Tonto Village,Tonto Village,04007,Gila County,Census-designated place,34.319808,-111.139313,1
+AZ,0474820,place:AZ:0474820,Top-of-the-World CDP,Top-of-the-World,Top-of-the-World,04021,Pinal County,Census-designated place,33.347668,-110.999724,1
+AZ,0474680,place:AZ:0474680,Topawa CDP,Topawa,Topawa,04019,Pima County,Census-designated place,31.807835,-111.830472,1
+AZ,0474750,place:AZ:0474750,Topock CDP,Topock,Topock,04015,Mohave County,Census-designated place,34.719973,-114.478786,1
+AZ,0475310,place:AZ:0475310,Toyei CDP,Toyei,Toyei,04001,Apache County,Census-designated place,35.703817,-109.938174,1
+AZ,0475590,place:AZ:0475590,Truxton CDP,Truxton,Truxton,04015,Mohave County,Census-designated place,35.490083,-113.564555,1
+AZ,0475660,place:AZ:0475660,Tsaile CDP,Tsaile,Tsaile,04001,Apache County,Census-designated place,36.302418,-109.218666,1
+AZ,0476010,place:AZ:0476010,Tuba City CDP,Tuba City,Tuba City,04005,Coconino County,Census-designated place,36.125074,-111.246661,1
+AZ,0475940,place:AZ:0475940,Tubac CDP,Tubac,Tubac,04023,Santa Cruz County,Census-designated place,31.610681,-111.057047,1
+AZ,0477000,place:AZ:0477000,Tucson city,Tucson,Tucson,04019,Pima County,Incorporated place,32.152831,-110.87075,1
+AZ,0477035,place:AZ:0477035,Tucson Estates CDP,Tucson Estates,Tucson Estates,04019,Pima County,Census-designated place,32.179223,-111.126627,1
+AZ,0477179,place:AZ:0477179,Tucson Mountains CDP,Tucson Mountains,Tucson Mountains,04019,Pima County,Census-designated place,32.282291,-111.077367,1
+AZ,0477367,place:AZ:0477367,Tumacacori-Carmen CDP,Tumacacori-Carmen,Tumacacori-Carmen,04023,Santa Cruz County,Census-designated place,31.57099,-111.047652,1
+AZ,0477415,place:AZ:0477415,Turkey Creek CDP,Turkey Creek,Turkey Creek,04017,Navajo County,Census-designated place,33.801088,-109.9461,1
+AZ,0477490,place:AZ:0477490,Tusayan town,Tusayan,Tusayan,04005,Coconino County,Incorporated place,35.954961,-112.120195,1
+AZ,0478300,place:AZ:0478300,Upper Santan Village CDP,Upper Santan Village,Upper Santan Village,04021,Pinal County,Census-designated place,33.116438,-111.74415,1
+AZ,0478400,place:AZ:0478400,Utting CDP,Utting,Utting,04012,La Paz County,Census-designated place,33.854583,-113.912865,1
+AZ,0478540,place:AZ:0478540,Vail CDP,Vail,Vail,04019,Pima County,Census-designated place,32.021706,-110.693687,1
+AZ,0478680,place:AZ:0478680,Vaiva Vo CDP,Vaiva Vo,Vaiva Vo,04021,Pinal County,Census-designated place,32.716654,-111.926902,1
+AZ,0478760,place:AZ:0478760,Valencia West CDP,Valencia West,Valencia West,04019,Pima County,Census-designated place,32.134524,-111.113472,1
+AZ,0478820,place:AZ:0478820,Valentine CDP,Valentine,Valentine,04015,Mohave County,Census-designated place,35.38853,-113.659115,1
+AZ,0478855,place:AZ:0478855,Valle CDP,Valle,Valle,04005,Coconino County,Census-designated place,35.675239,-112.152886,1
+AZ,0478865,place:AZ:0478865,Valle Vista CDP,Valle Vista,Valle Vista,04015,Mohave County,Census-designated place,35.410944,-113.862688,1
+AZ,0479590,place:AZ:0479590,Ventana CDP,Ventana,Ventana,04019,Pima County,Census-designated place,32.468048,-112.243447,1
+AZ,0479830,place:AZ:0479830,Verde Village CDP,Verde Village,Verde Village,04025,Yavapai County,Census-designated place,34.711871,-111.994125,1
+AZ,0479870,place:AZ:0479870,Vernon CDP,Vernon,Vernon,04001,Apache County,Census-designated place,34.2479,-109.689943,1
+AZ,0479940,place:AZ:0479940,Vicksburg CDP,Vicksburg,Vicksburg,04012,La Paz County,Census-designated place,33.729271,-113.825404,1
+AZ,0480095,place:AZ:0480095,Village of Oak Creek (Big Park) CDP,Village of Oak Creek (Big Park),Village of Oak Creek (Big Park),04025,Yavapai County,Census-designated place,34.781269,-111.7606,1
+AZ,0480380,place:AZ:0480380,Wagon Wheel CDP,Wagon Wheel,Wagon Wheel,04017,Navajo County,Census-designated place,34.197527,-110.027134,1
+AZ,0480430,place:AZ:0480430,Wahak Hotrontk CDP,Wahak Hotrontk,Wahak Hotrontk,04019,Pima County,Census-designated place,32.174739,-112.366291,1
+AZ,0480790,place:AZ:0480790,Wall Lane CDP,Wall Lane,Wall Lane,04027,Yuma County,Census-designated place,32.657309,-114.710529,1
+AZ,0480825,place:AZ:0480825,Walnut Creek CDP,Walnut Creek,Walnut Creek,04015,Mohave County,Census-designated place,35.131243,-114.126631,1
+AZ,0481175,place:AZ:0481175,Washington Park CDP,Washington Park,Washington Park,04007,Gila County,Census-designated place,34.400316,-111.270987,1
+AZ,0481480,place:AZ:0481480,Wellton town,Wellton,Wellton,04027,Yuma County,Incorporated place,32.640144,-114.215206,1
+AZ,0481490,place:AZ:0481490,Wellton Hills CDP,Wellton Hills,Wellton Hills,04027,Yuma County,Census-designated place,32.623189,-114.145234,1
+AZ,0481550,place:AZ:0481550,Wenden CDP,Wenden,Wenden,04012,La Paz County,Census-designated place,33.83245,-113.543239,1
+AZ,0482060,place:AZ:0482060,Wet Camp Village CDP,Wet Camp Village,Wet Camp Village,04021,Pinal County,Census-designated place,33.141223,-111.901662,1
+AZ,0482120,place:AZ:0482120,Wheatfields CDP,Wheatfields,Wheatfields,04007,Gila County,Census-designated place,33.470937,-110.816135,1
+AZ,0482156,place:AZ:0482156,Whetstone CDP,Whetstone,Whetstone,04003,Cochise County,Census-designated place,31.718947,-110.291996,1
+AZ,0482270,place:AZ:0482270,Whispering Pines CDP,Whispering Pines,Whispering Pines,04007,Gila County,Census-designated place,34.372721,-111.281223,1
+AZ,0482425,place:AZ:0482425,White Hills CDP,White Hills,White Hills,04015,Mohave County,Census-designated place,35.724209,-114.400368,1
+AZ,0482450,place:AZ:0482450,White Mountain Lake CDP,White Mountain Lake,White Mountain Lake,04017,Navajo County,Census-designated place,34.344046,-109.986811,1
+AZ,0482390,place:AZ:0482390,Whitecone CDP,Whitecone,Whitecone,04017,Navajo County,Census-designated place,35.600103,-110.082884,1
+AZ,0482530,place:AZ:0482530,Whiteriver CDP,Whiteriver,Whiteriver,04017,Navajo County,Census-designated place,33.83976,-109.96077,1
+AZ,0482670,place:AZ:0482670,Why CDP,Why,Why,04019,Pima County,Census-designated place,32.258973,-112.730634,1
+AZ,0482740,place:AZ:0482740,Wickenburg town,Wickenburg,Wickenburg,04013,Maricopa County,Incorporated place,33.985763,-112.76835,1
+AZ,0482810,place:AZ:0482810,Wide Ruins CDP,Wide Ruins,Wide Ruins,04001,Apache County,Census-designated place,35.417387,-109.499551,1
+AZ,0482880,place:AZ:0482880,Wikieup CDP,Wikieup,Wikieup,04015,Mohave County,Census-designated place,34.693034,-113.599504,1
+AZ,0482950,place:AZ:0482950,Wilhoit CDP,Wilhoit,Wilhoit,04025,Yavapai County,Census-designated place,34.408233,-112.615635,1
+AZ,0483090,place:AZ:0483090,Willcox city,Willcox,Willcox,04003,Cochise County,Incorporated place,32.251804,-109.835698,1
+AZ,0483160,place:AZ:0483160,Williams city,Williams,Williams,04005,Coconino County,Incorporated place,35.24664,-112.183296,1
+AZ,0483388,place:AZ:0483388,Williamson CDP,Williamson,Williamson,04025,Yavapai County,Census-designated place,34.708291,-112.533729,1
+AZ,0483475,place:AZ:0483475,Willow Canyon CDP,Willow Canyon,Willow Canyon,04019,Pima County,Census-designated place,32.387689,-110.700842,1
+AZ,0483570,place:AZ:0483570,Willow Valley CDP,Willow Valley,Willow Valley,04015,Mohave County,Census-designated place,34.927658,-114.626599,1
+AZ,0483720,place:AZ:0483720,Window Rock CDP,Window Rock,Window Rock,04001,Apache County,Census-designated place,35.670505,-109.063037,1
+AZ,0483790,place:AZ:0483790,Winkelman town,Winkelman,Winkelman,04021,Pinal County,Incorporated place,32.982545,-110.761712,1
+AZ,0483930,place:AZ:0483930,Winslow city,Winslow,Winslow,04017,Navajo County,Incorporated place,35.024484,-110.709548,1
+AZ,0483960,place:AZ:0483960,Winslow West CDP,Winslow West,Winslow West,04017,Navajo County,Census-designated place,34.992554,-110.706847,1
+AZ,0484000,place:AZ:0484000,Wintersburg CDP,Wintersburg,Wintersburg,04013,Maricopa County,Census-designated place,33.41963,-112.86765,1
+AZ,0484140,place:AZ:0484140,Wittmann CDP,Wittmann,Wittmann,04013,Maricopa County,Census-designated place,33.774957,-112.525091,1
+AZ,0484350,place:AZ:0484350,Woodruff CDP,Woodruff,Woodruff,04017,Navajo County,Census-designated place,34.791876,-110.025944,1
+AZ,0484980,place:AZ:0484980,Yarnell CDP,Yarnell,Yarnell,04025,Yavapai County,Census-designated place,34.228202,-112.762921,1
+AZ,0485260,place:AZ:0485260,York CDP,York,York,04011,Greenlee County,Census-designated place,32.916258,-109.195402,1
+AZ,0485330,place:AZ:0485330,Young CDP,Young,Young,04007,Gila County,Census-designated place,34.124089,-110.938324,1
+AZ,0485400,place:AZ:0485400,Youngtown town,Youngtown,Youngtown,04013,Maricopa County,Incorporated place,33.584969,-112.304916,1
+AZ,0485470,place:AZ:0485470,Yucca CDP,Yucca,Yucca,04015,Mohave County,Census-designated place,34.862993,-114.146145,1
+AZ,0485540,place:AZ:0485540,Yuma city,Yuma,Yuma,04027,Yuma County,Incorporated place,32.51144,-114.526787,1
+AZ,0485680,place:AZ:0485680,Yuma Proving Ground CDP,Yuma Proving Ground,Yuma Proving Ground,04027,Yuma County,Census-designated place,32.865186,-114.436923,1

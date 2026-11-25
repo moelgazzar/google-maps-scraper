@@ -1,0 +1,206 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+WY,5600245,place:WY:5600245,Afton town,Afton,Afton,56023,Lincoln County,Incorporated place,42.72634,-110.932032,1
+WY,5600680,place:WY:5600680,Albany CDP,Albany,Albany,56001,Albany County,Census-designated place,41.186857,-106.12549,1
+WY,5600825,place:WY:5600825,Albin town,Albin,Albin,56021,Laramie County,Incorporated place,41.416941,-104.101549,1
+WY,5601115,place:WY:5601115,Alcova CDP,Alcova,Alcova,56025,Natrona County,Census-designated place,42.553444,-106.729227,1
+WY,5601695,place:WY:5601695,Alpine town,Alpine,Alpine,56023,Lincoln County,Incorporated place,43.172857,-111.020875,1
+WY,5601888,place:WY:5601888,Alpine Northeast CDP,Alpine Northeast,Alpine Northeast,56023,Lincoln County,Census-designated place,43.194301,-111.007017,1
+WY,5601936,place:WY:5601936,Alpine Northwest CDP,Alpine Northwest,Alpine Northwest,56023,Lincoln County,Census-designated place,43.183825,-111.035584,1
+WY,5601985,place:WY:5601985,Alta CDP,Alta,Alta,56039,Teton County,Census-designated place,43.773624,-111.031262,1
+WY,5602877,place:WY:5602877,Antelope Hills CDP,Antelope Hills,Antelope Hills,56025,Natrona County,Census-designated place,43.081136,-106.312584,1
+WY,5603000,place:WY:5603000,Arapahoe CDP,Arapahoe,Arapahoe,56013,Fremont County,Census-designated place,42.992223,-108.462978,1
+WY,5603245,place:WY:5603245,Arlington CDP,Arlington,Arlington,56007,Carbon County,Census-designated place,41.605258,-106.199739,1
+WY,5603652,place:WY:5603652,Arrowhead Springs CDP,Arrowhead Springs,Arrowhead Springs,56037,Sweetwater County,Census-designated place,41.508174,-109.155085,1
+WY,5603725,place:WY:5603725,Arvada CDP,Arvada,Arvada,56033,Sheridan County,Census-designated place,44.662179,-106.141976,1
+WY,5604015,place:WY:5604015,Atlantic City CDP,Atlantic City,Atlantic City,56013,Fremont County,Census-designated place,42.501195,-108.732896,1
+WY,5604160,place:WY:5604160,Auburn CDP,Auburn,Auburn,56023,Lincoln County,Census-designated place,42.79694,-111.021506,1
+WY,5604740,place:WY:5604740,Baggs town,Baggs,Baggs,56007,Carbon County,Incorporated place,41.034658,-107.657281,1
+WY,5604885,place:WY:5604885,Bairoil town,Bairoil,Bairoil,56037,Sweetwater County,Incorporated place,42.237202,-107.561048,1
+WY,5605245,place:WY:5605245,Bar Nunn town,Bar Nunn,Bar Nunn,56025,Natrona County,Incorporated place,42.922119,-106.347345,1
+WY,5605320,place:WY:5605320,Basin town,Basin,Basin,56003,Big Horn County,Incorporated place,44.380564,-108.047094,1
+WY,5605625,place:WY:5605625,Bear River town,Bear River,Bear River,56041,Uinta County,Incorporated place,41.385511,-111.028202,1
+WY,5606045,place:WY:5606045,Bedford CDP,Bedford,Bedford,56023,Lincoln County,Census-designated place,42.89468,-110.928565,1
+WY,5606407,place:WY:5606407,Bessemer Bend CDP,Bessemer Bend,Bessemer Bend,56025,Natrona County,Census-designated place,42.756119,-106.517515,1
+WY,5606480,place:WY:5606480,Beulah CDP,Beulah,Beulah,56011,Crook County,Census-designated place,44.545961,-104.08279,1
+WY,5606770,place:WY:5606770,Big Horn CDP,Big Horn,Big Horn,56033,Sheridan County,Census-designated place,44.679076,-106.997071,1
+WY,5607060,place:WY:5607060,Big Piney town,Big Piney,Big Piney,56035,Sublette County,Incorporated place,42.540168,-110.119343,1
+WY,5608365,place:WY:5608365,Bondurant CDP,Bondurant,Bondurant,56035,Sublette County,Census-designated place,43.194859,-110.402577,1
+WY,5609235,place:WY:5609235,Boulder CDP,Boulder,Boulder,56035,Sublette County,Census-designated place,42.746142,-109.706729,1
+WY,5609307,place:WY:5609307,Boulder Flats CDP,Boulder Flats,Boulder Flats,56013,Fremont County,Census-designated place,42.915575,-108.799297,1
+WY,5610175,place:WY:5610175,Brookhurst CDP,Brookhurst,Brookhurst,56025,Natrona County,Census-designated place,42.860985,-106.228789,1
+WY,5610685,place:WY:5610685,Buffalo city,Buffalo,Buffalo,56019,Johnson County,Incorporated place,44.338545,-106.715344,1
+WY,5611120,place:WY:5611120,Burlington town,Burlington,Burlington,56003,Big Horn County,Incorporated place,44.447065,-108.432023,1
+WY,5611265,place:WY:5611265,Burns town,Burns,Burns,56021,Laramie County,Incorporated place,41.190871,-104.359035,1
+WY,5611700,place:WY:5611700,Byron town,Byron,Byron,56003,Big Horn County,Incorporated place,44.796737,-108.508463,1
+WY,5612860,place:WY:5612860,Carpenter CDP,Carpenter,Carpenter,56021,Laramie County,Census-designated place,41.045607,-104.36437,1
+WY,5613005,place:WY:5613005,Carter CDP,Carter,Carter,56041,Uinta County,Census-designated place,41.440444,-110.430327,1
+WY,5613150,place:WY:5613150,Casper city,Casper,Casper,56025,Natrona County,Incorporated place,42.84212,-106.321282,1
+WY,5613222,place:WY:5613222,Casper Mountain CDP,Casper Mountain,Casper Mountain,56025,Natrona County,Census-designated place,42.741555,-106.308146,1
+WY,5613440,place:WY:5613440,Centennial CDP,Centennial,Centennial,56001,Albany County,Census-designated place,41.306848,-106.137611,1
+WY,5613900,place:WY:5613900,Cheyenne city,Cheyenne,Cheyenne,56021,Laramie County,Incorporated place,41.128275,-104.799155,1
+WY,5614097,place:WY:5614097,Chugcreek CDP,Chugcreek,Chugcreek,56031,Platte County,Census-designated place,42.053475,-104.907902,1
+WY,5614165,place:WY:5614165,Chugwater town,Chugwater,Chugwater,56031,Platte County,Incorporated place,41.755749,-104.822936,1
+WY,5615325,place:WY:5615325,Clearmont town,Clearmont,Clearmont,56033,Sheridan County,Incorporated place,44.63985,-106.381297,1
+WY,5615400,place:WY:5615400,Clearview Acres CDP,Clearview Acres,Clearview Acres,56037,Sweetwater County,Census-designated place,41.584203,-109.280028,1
+WY,5615760,place:WY:5615760,Cody city,Cody,Cody,56029,Park County,Incorporated place,44.520684,-109.054689,1
+WY,5615905,place:WY:5615905,Cokeville town,Cokeville,Cokeville,56023,Lincoln County,Incorporated place,42.079237,-110.951898,1
+WY,5617210,place:WY:5617210,Cora CDP,Cora,Cora,56035,Sublette County,Census-designated place,42.957661,-109.99159,1
+WY,5617645,place:WY:5617645,Cowley town,Cowley,Cowley,56003,Big Horn County,Incorporated place,44.883452,-108.469272,1
+WY,5618225,place:WY:5618225,Crowheart CDP,Crowheart,Crowheart,56013,Fremont County,Census-designated place,43.33978,-109.229756,1
+WY,5618950,place:WY:5618950,Daniel CDP,Daniel,Daniel,56035,Sublette County,Census-designated place,42.865738,-110.076474,1
+WY,5619385,place:WY:5619385,Dayton town,Dayton,Dayton,56033,Sheridan County,Incorporated place,44.873351,-107.262432,1
+WY,5619530,place:WY:5619530,Deaver town,Deaver,Deaver,56003,Big Horn County,Incorporated place,44.889024,-108.596018,1
+WY,5620110,place:WY:5620110,Diamondville town,Diamondville,Diamondville,56023,Lincoln County,Incorporated place,41.777816,-110.536507,1
+WY,5620690,place:WY:5620690,Dixon town,Dixon,Dixon,56007,Carbon County,Incorporated place,41.034896,-107.536144,1
+WY,5621125,place:WY:5621125,Douglas city,Douglas,Douglas,56009,Converse County,Incorporated place,42.754773,-105.397802,1
+WY,5621415,place:WY:5621415,Dubois town,Dubois,Dubois,56013,Fremont County,Incorporated place,43.546064,-109.647982,1
+WY,5622720,place:WY:5622720,East Thermopolis town,East Thermopolis,East Thermopolis,56017,Hot Springs County,Incorporated place,43.644094,-108.197883,1
+WY,5623010,place:WY:5623010,Eden CDP,Eden,Eden,56037,Sweetwater County,Census-designated place,42.060165,-109.439152,1
+WY,5623155,place:WY:5623155,Edgerton town,Edgerton,Edgerton,56025,Natrona County,Incorporated place,43.414084,-106.247847,1
+WY,5624350,place:WY:5624350,El Rancho CDP,El Rancho,El Rancho,56031,Platte County,Census-designated place,42.26798,-105.04767,1
+WY,5624025,place:WY:5624025,Elk Mountain town,Elk Mountain,Elk Mountain,56007,Carbon County,Incorporated place,41.688298,-106.413501,1
+WY,5624750,place:WY:5624750,Encampment town,Encampment,Encampment,56007,Carbon County,Incorporated place,41.208758,-106.794819,1
+WY,5625185,place:WY:5625185,Esterbrook CDP,Esterbrook,Esterbrook,56009,Converse County,Census-designated place,42.406113,-105.385914,1
+WY,5625330,place:WY:5625330,Ethete CDP,Ethete,Ethete,56013,Fremont County,Census-designated place,43.00083,-108.723027,1
+WY,5625475,place:WY:5625475,Etna CDP,Etna,Etna,56023,Lincoln County,Census-designated place,43.033434,-111.012948,1
+WY,5625620,place:WY:5625620,Evanston city,Evanston,Evanston,56041,Uinta County,Incorporated place,41.259365,-110.964288,1
+WY,5625765,place:WY:5625765,Evansville town,Evansville,Evansville,56025,Natrona County,Incorporated place,42.877834,-106.261204,1
+WY,5625910,place:WY:5625910,Fairview CDP,Fairview,Fairview,56023,Lincoln County,Census-designated place,42.687079,-110.986632,1
+WY,5626055,place:WY:5626055,Farson CDP,Farson,Farson,56037,Sweetwater County,Census-designated place,42.154423,-109.424802,1
+WY,5627650,place:WY:5627650,Fontenelle CDP,Fontenelle,Fontenelle,56023,Lincoln County,Census-designated place,42.003262,-110.062193,1
+WY,5627940,place:WY:5627940,Fort Bridger CDP,Fort Bridger,Fort Bridger,56041,Uinta County,Census-designated place,41.318335,-110.389387,1
+WY,5628230,place:WY:5628230,Fort Laramie town,Fort Laramie,Fort Laramie,56015,Goshen County,Incorporated place,42.21308,-104.517405,1
+WY,5628665,place:WY:5628665,Fort Washakie CDP,Fort Washakie,Fort Washakie,56013,Fremont County,Census-designated place,43.006905,-108.920417,1
+WY,5629300,place:WY:5629300,Fox Farm-College CDP,Fox Farm-College,Fox Farm-College,56021,Laramie County,Census-designated place,41.110576,-104.78698,1
+WY,5629400,place:WY:5629400,Fox Park CDP,Fox Park,Fox Park,56001,Albany County,Census-designated place,41.080132,-106.153386,1
+WY,5629825,place:WY:5629825,Frannie town,Frannie,Frannie,56003,Big Horn County,Incorporated place,44.971029,-108.62054,1
+WY,5630115,place:WY:5630115,Freedom CDP,Freedom,Freedom,56023,Lincoln County,Census-designated place,42.985342,-111.029605,1
+WY,5630985,place:WY:5630985,Garland CDP,Garland,Garland,56029,Park County,Census-designated place,44.77772,-108.654155,1
+WY,5631855,place:WY:5631855,Gillette city,Gillette,Gillette,56005,Campbell County,Incorporated place,44.27258,-105.498936,1
+WY,5632290,place:WY:5632290,Glendo town,Glendo,Glendo,56031,Platte County,Incorporated place,42.504858,-105.024989,1
+WY,5632435,place:WY:5632435,Glenrock town,Glenrock,Glenrock,56009,Converse County,Incorporated place,42.859457,-105.845041,1
+WY,5632870,place:WY:5632870,Granger town,Granger,Granger,56037,Sweetwater County,Incorporated place,41.597934,-109.965231,1
+WY,5633740,place:WY:5633740,Green River city,Green River,Green River,56037,Sweetwater County,Incorporated place,41.51301,-109.470645,1
+WY,5633885,place:WY:5633885,Greybull town,Greybull,Greybull,56003,Big Horn County,Incorporated place,44.486533,-108.055744,1
+WY,5634030,place:WY:5634030,Grover CDP,Grover,Grover,56023,Lincoln County,Census-designated place,42.801989,-110.940544,1
+WY,5634320,place:WY:5634320,Guernsey town,Guernsey,Guernsey,56031,Platte County,Incorporated place,42.264791,-104.742889,1
+WY,5635335,place:WY:5635335,Hanna town,Hanna,Hanna,56007,Carbon County,Incorporated place,41.869797,-106.559644,1
+WY,5635552,place:WY:5635552,Hartrandt CDP,Hartrandt,Hartrandt,56025,Natrona County,Census-designated place,42.883584,-106.349223,1
+WY,5635625,place:WY:5635625,Hartville town,Hartville,Hartville,56031,Platte County,Incorporated place,42.327626,-104.7245,1
+WY,5636060,place:WY:5636060,Hawk Springs CDP,Hawk Springs,Hawk Springs,56015,Goshen County,Census-designated place,41.785252,-104.265083,1
+WY,5637727,place:WY:5637727,Hill View Heights CDP,Hill View Heights,Hill View Heights,56045,Weston County,Census-designated place,43.814571,-104.150664,1
+WY,5637510,place:WY:5637510,Hillsdale CDP,Hillsdale,Hillsdale,56021,Laramie County,Census-designated place,41.207977,-104.47439,1
+WY,5637945,place:WY:5637945,Hoback CDP,Hoback,Hoback,56039,Teton County,Census-designated place,43.307625,-110.744868,1
+WY,5638307,place:WY:5638307,Homa Hills CDP,Homa Hills,Homa Hills,56025,Natrona County,Census-designated place,42.990019,-106.384994,1
+WY,5638960,place:WY:5638960,Hudson town,Hudson,Hudson,56013,Fremont County,Incorporated place,42.902689,-108.582039,1
+WY,5639105,place:WY:5639105,Hulett town,Hulett,Hulett,56011,Crook County,Incorporated place,44.683237,-104.598184,1
+WY,5639250,place:WY:5639250,Huntley CDP,Huntley,Huntley,56015,Goshen County,Census-designated place,41.931621,-104.144008,1
+WY,5639395,place:WY:5639395,Hyattville CDP,Hyattville,Hyattville,56003,Big Horn County,Census-designated place,44.249778,-107.614964,1
+WY,5640120,place:WY:5640120,Jackson town,Jackson,Jackson,56039,Teton County,Incorporated place,43.471936,-110.775267,1
+WY,5640265,place:WY:5640265,James Town CDP,James Town,James Town,56037,Sweetwater County,Census-designated place,41.563882,-109.536563,1
+WY,5640555,place:WY:5640555,Jeffrey City CDP,Jeffrey City,Jeffrey City,56013,Fremont County,Census-designated place,42.483646,-107.830896,1
+WY,5640945,place:WY:5640945,Johnstown CDP,Johnstown,Johnstown,56013,Fremont County,Census-designated place,43.114024,-108.690109,1
+WY,5641353,place:WY:5641353,Kaycee town,Kaycee,Kaycee,56019,Johnson County,Incorporated place,43.710039,-106.637276,1
+WY,5641860,place:WY:5641860,Kelly CDP,Kelly,Kelly,56039,Teton County,Census-designated place,43.621823,-110.631774,1
+WY,5642005,place:WY:5642005,Kemmerer city,Kemmerer,Kemmerer,56023,Lincoln County,Incorporated place,41.778484,-110.552817,1
+WY,5642730,place:WY:5642730,Kirby town,Kirby,Kirby,56017,Hot Springs County,Incorporated place,43.803284,-108.180972,1
+WY,5643455,place:WY:5643455,La Barge town,La Barge,La Barge,56023,Lincoln County,Incorporated place,42.260779,-110.197203,1
+WY,5643745,place:WY:5643745,LaGrange town,LaGrange,LaGrange,56015,Goshen County,Incorporated place,41.638571,-104.162999,1
+WY,5644252,place:WY:5644252,Lakeview North CDP,Lakeview North,Lakeview North,56031,Platte County,Census-designated place,42.096984,-104.958621,1
+WY,5644615,place:WY:5644615,Lance Creek CDP,Lance Creek,Lance Creek,56027,Niobrara County,Census-designated place,43.04474,-104.663835,1
+WY,5644760,place:WY:5644760,Lander city,Lander,Lander,56013,Fremont County,Incorporated place,42.830896,-108.73062,1
+WY,5645050,place:WY:5645050,Laramie city,Laramie,Laramie,56001,Albany County,Incorporated place,41.31181,-105.606472,1
+WY,5646790,place:WY:5646790,Lingle town,Lingle,Lingle,56015,Goshen County,Incorporated place,42.138673,-104.346039,1
+WY,5646935,place:WY:5646935,Little America CDP,Little America,Little America,56037,Sweetwater County,Census-designated place,41.549363,-109.884876,1
+WY,5647370,place:WY:5647370,Lonetree CDP,Lonetree,Lonetree,56041,Uinta County,Census-designated place,41.034403,-110.144045,1
+WY,5647805,place:WY:5647805,Lost Springs town,Lost Springs,Lost Springs,56009,Converse County,Incorporated place,42.765165,-104.925493,1
+WY,5647950,place:WY:5647950,Lovell town,Lovell,Lovell,56003,Big Horn County,Incorporated place,44.835801,-108.391889,1
+WY,5648240,place:WY:5648240,Lucerne CDP,Lucerne,Lucerne,56017,Hot Springs County,Census-designated place,43.718022,-108.18471,1
+WY,5648530,place:WY:5648530,Lusk town,Lusk,Lusk,56027,Niobrara County,Incorporated place,42.761259,-104.458403,1
+WY,5648675,place:WY:5648675,Lyman town,Lyman,Lyman,56041,Uinta County,Incorporated place,41.32754,-110.297449,1
+WY,5649775,place:WY:5649775,Mammoth CDP,Mammoth,Mammoth,56029,Park County,Census-designated place,44.97321,-110.692943,1
+WY,5649980,place:WY:5649980,Manderson town,Manderson,Manderson,56003,Big Horn County,Incorporated place,44.269757,-107.964202,1
+WY,5650270,place:WY:5650270,Manville town,Manville,Manville,56027,Niobrara County,Incorporated place,42.779448,-104.617446,1
+WY,5650415,place:WY:5650415,Marbleton town,Marbleton,Marbleton,56035,Sublette County,Incorporated place,42.557414,-110.100459,1
+WY,5649400,place:WY:5649400,McKinnon CDP,McKinnon,McKinnon,56037,Sweetwater County,Census-designated place,41.031441,-109.9383,1
+WY,5651285,place:WY:5651285,Meadow Acres CDP,Meadow Acres,Meadow Acres,56025,Natrona County,Census-designated place,42.857593,-106.114209,1
+WY,5651575,place:WY:5651575,Medicine Bow town,Medicine Bow,Medicine Bow,56007,Carbon County,Incorporated place,41.899537,-106.201916,1
+WY,5651720,place:WY:5651720,Meeteetse town,Meeteetse,Meeteetse,56029,Park County,Incorporated place,44.14914,-108.86284,1
+WY,5652445,place:WY:5652445,Midwest town,Midwest,Midwest,56025,Natrona County,Incorporated place,43.411464,-106.276803,1
+WY,5653460,place:WY:5653460,Mills town,Mills,Mills,56025,Natrona County,Incorporated place,42.849882,-106.39083,1
+WY,5654185,place:WY:5654185,Moorcroft town,Moorcroft,Moorcroft,56011,Crook County,Incorporated place,44.264483,-104.947564,1
+WY,5654402,place:WY:5654402,Moose Wilson Road CDP,Moose Wilson Road,Moose Wilson Road,56039,Teton County,Census-designated place,43.531488,-110.834831,1
+WY,5655200,place:WY:5655200,Mountain View CDP,Mountain View,"Mountain View, Natrona County",56025,Natrona County,Census-designated place,42.87744,-106.414668,1
+WY,5655345,place:WY:5655345,Mountain View town,Mountain View,"Mountain View, Uinta County",56041,Uinta County,Incorporated place,41.272351,-110.334073,1
+WY,5656215,place:WY:5656215,Newcastle city,Newcastle,Newcastle,56045,Weston County,Incorporated place,43.850271,-104.196487,1
+WY,5656520,place:WY:5656520,Nordic CDP,Nordic,Nordic,56023,Lincoln County,Census-designated place,43.079317,-110.991324,1
+WY,5656700,place:WY:5656700,North Rock Springs CDP,North Rock Springs,North Rock Springs,56037,Sweetwater County,Census-designated place,41.669046,-109.287922,1
+WY,5657375,place:WY:5657375,Oakley CDP,Oakley,Oakley,56023,Lincoln County,Census-designated place,41.750973,-110.526109,1
+WY,5657810,place:WY:5657810,Opal town,Opal,Opal,56023,Lincoln County,Incorporated place,41.767919,-110.324385,1
+WY,5658100,place:WY:5658100,Orin CDP,Orin,Orin,56009,Converse County,Census-designated place,42.651471,-105.179079,1
+WY,5658680,place:WY:5658680,Osage CDP,Osage,Osage,56045,Weston County,Census-designated place,43.984761,-104.434443,1
+WY,5658970,place:WY:5658970,Osmond CDP,Osmond,Osmond,56023,Lincoln County,Census-designated place,42.677715,-110.94076,1
+WY,5659332,place:WY:5659332,Owl Creek CDP,Owl Creek,Owl Creek,56017,Hot Springs County,Census-designated place,43.781866,-108.56782,1
+WY,5659985,place:WY:5659985,Parkman CDP,Parkman,Parkman,56033,Sheridan County,Census-designated place,44.957027,-107.31341,1
+WY,5660130,place:WY:5660130,Pavillion town,Pavillion,Pavillion,56013,Fremont County,Incorporated place,43.244011,-108.689024,1
+WY,5661435,place:WY:5661435,Pine Bluffs town,Pine Bluffs,Pine Bluffs,56021,Laramie County,Incorporated place,41.180212,-104.074782,1
+WY,5661610,place:WY:5661610,Pine Haven town,Pine Haven,Pine Haven,56011,Crook County,Incorporated place,44.353395,-104.810453,1
+WY,5661580,place:WY:5661580,Pinedale town,Pinedale,Pinedale,56035,Sublette County,Incorporated place,42.867585,-109.870527,1
+WY,5662160,place:WY:5662160,Point of Rocks CDP,Point of Rocks,Point of Rocks,56037,Sweetwater County,Census-designated place,41.683158,-108.775617,1
+WY,5662269,place:WY:5662269,Powder Horn CDP,Powder Horn,Powder Horn,56033,Sheridan County,Census-designated place,44.691195,-106.972716,1
+WY,5662305,place:WY:5662305,Powder River CDP,Powder River,Powder River,56025,Natrona County,Census-designated place,43.052119,-106.990566,1
+WY,5662450,place:WY:5662450,Powell city,Powell,Powell,56029,Park County,Incorporated place,44.761783,-108.757581,1
+WY,5662812,place:WY:5662812,Purple Sage CDP,Purple Sage,Purple Sage,56037,Sweetwater County,Census-designated place,41.551397,-109.319895,1
+WY,5663100,place:WY:5663100,Rafter J Ranch CDP,Rafter J Ranch,Rafter J Ranch,56039,Teton County,Census-designated place,43.430513,-110.791464,1
+WY,5663465,place:WY:5663465,Ralston CDP,Ralston,Ralston,56029,Park County,Census-designated place,44.706765,-108.885627,1
+WY,5663755,place:WY:5663755,Ranchester town,Ranchester,Ranchester,56033,Sheridan County,Incorporated place,44.9076,-107.167323,1
+WY,5663800,place:WY:5663800,Ranchettes CDP,Ranchettes,Ranchettes,56021,Laramie County,Census-designated place,41.219023,-104.77294,1
+WY,5663900,place:WY:5663900,Rawlins city,Rawlins,Rawlins,56007,Carbon County,Incorporated place,41.78513,-107.224653,1
+WY,5664400,place:WY:5664400,Red Butte CDP,Red Butte,Red Butte,56025,Natrona County,Census-designated place,42.806204,-106.434625,1
+WY,5665060,place:WY:5665060,Reliance CDP,Reliance,Reliance,56037,Sweetwater County,Census-designated place,41.668186,-109.197692,1
+WY,5666075,place:WY:5666075,Riverside town,Riverside,Riverside,56007,Carbon County,Incorporated place,41.215414,-106.781343,1
+WY,5666220,place:WY:5666220,Riverton city,Riverton,Riverton,56013,Fremont County,Incorporated place,43.026256,-108.381303,1
+WY,5666655,place:WY:5666655,Robertson CDP,Robertson,Robertson,56041,Uinta County,Census-designated place,41.181571,-110.42739,1
+WY,5667090,place:WY:5667090,Rock River town,Rock River,Rock River,56001,Albany County,Incorporated place,41.731739,-105.975146,1
+WY,5667235,place:WY:5667235,Rock Springs city,Rock Springs,Rock Springs,56037,Sweetwater County,Incorporated place,41.594705,-109.220921,1
+WY,5667440,place:WY:5667440,Rolling Hills town,Rolling Hills,Rolling Hills,56009,Converse County,Incorporated place,42.903807,-105.844544,1
+WY,5667670,place:WY:5667670,Ryan Park CDP,Ryan Park,Ryan Park,56007,Carbon County,Census-designated place,41.313153,-106.489613,1
+WY,5668685,place:WY:5668685,Saratoga town,Saratoga,Saratoga,56007,Carbon County,Incorporated place,41.452392,-106.81173,1
+WY,5669700,place:WY:5669700,Shell CDP,Shell,Shell,56003,Big Horn County,Census-designated place,44.534519,-107.784481,1
+WY,5669845,place:WY:5669845,Sheridan city,Sheridan,Sheridan,56033,Sheridan County,Incorporated place,44.796219,-106.964166,1
+WY,5670570,place:WY:5670570,Shoshoni town,Shoshoni,Shoshoni,56013,Fremont County,Incorporated place,43.239532,-108.109876,1
+WY,5671150,place:WY:5671150,Sinclair town,Sinclair,Sinclair,56007,Carbon County,Incorporated place,41.776084,-107.11994,1
+WY,5671295,place:WY:5671295,Slater CDP,Slater,Slater,56031,Platte County,Census-designated place,41.877633,-104.788709,1
+WY,5671350,place:WY:5671350,Sleepy Hollow CDP,Sleepy Hollow,Sleepy Hollow,56005,Campbell County,Census-designated place,44.232692,-105.430895,1
+WY,5671440,place:WY:5671440,Smoot CDP,Smoot,Smoot,56023,Lincoln County,Census-designated place,42.618389,-110.91549,1
+WY,5671800,place:WY:5671800,South Greeley CDP,South Greeley,South Greeley,56021,Laramie County,Census-designated place,41.093168,-104.806674,1
+WY,5671947,place:WY:5671947,South Park CDP,South Park,South Park,56039,Teton County,Census-designated place,43.4255,-110.798549,1
+WY,5673180,place:WY:5673180,Star Valley Ranch town,Star Valley Ranch,Star Valley Ranch,56023,Lincoln County,Incorporated place,42.979688,-110.963521,1
+WY,5673615,place:WY:5673615,Story CDP,Story,Story,56033,Sheridan County,Census-designated place,44.573079,-106.914173,1
+WY,5674195,place:WY:5674195,Sundance town,Sundance,Sundance,56011,Crook County,Incorporated place,44.404823,-104.366209,1
+WY,5674775,place:WY:5674775,Superior town,Superior,Superior,56037,Sweetwater County,Incorporated place,41.759508,-108.964235,1
+WY,5675355,place:WY:5675355,Table Rock CDP,Table Rock,Table Rock,56037,Sweetwater County,Census-designated place,41.622044,-108.404044,1
+WY,5675572,place:WY:5675572,Taylor CDP,Taylor,Taylor,56023,Lincoln County,Census-designated place,42.069202,-110.986308,1
+WY,5675790,place:WY:5675790,Ten Sleep town,Ten Sleep,Ten Sleep,56043,Washakie County,Incorporated place,44.035079,-107.448193,1
+WY,5675935,place:WY:5675935,Teton Village CDP,Teton Village,Teton Village,56039,Teton County,Census-designated place,43.590679,-110.841978,1
+WY,5676370,place:WY:5676370,Thayne town,Thayne,Thayne,56023,Lincoln County,Incorporated place,42.919886,-110.995255,1
+WY,5676515,place:WY:5676515,Thermopolis town,Thermopolis,Thermopolis,56017,Hot Springs County,Incorporated place,43.647883,-108.214526,1
+WY,5677530,place:WY:5677530,Torrington city,Torrington,Torrington,56015,Goshen County,Incorporated place,42.063075,-104.172984,1
+WY,5678400,place:WY:5678400,Turnerville CDP,Turnerville,Turnerville,56023,Lincoln County,Census-designated place,42.862419,-110.900728,1
+WY,5679125,place:WY:5679125,Upton town,Upton,Upton,56045,Weston County,Incorporated place,44.104017,-104.636538,1
+WY,5679270,place:WY:5679270,Urie CDP,Urie,Urie,56041,Uinta County,Census-designated place,41.308856,-110.335196,1
+WY,5679705,place:WY:5679705,Van Tassell town,Van Tassell,Van Tassell,56027,Niobrara County,Incorporated place,42.664277,-104.091328,1
+WY,5680285,place:WY:5680285,Veteran CDP,Veteran,Veteran,56015,Goshen County,Census-designated place,41.962665,-104.38625,1
+WY,5680575,place:WY:5680575,Vista West CDP,Vista West,Vista West,56025,Natrona County,Census-designated place,42.86236,-106.436712,1
+WY,5681300,place:WY:5681300,Wamsutter town,Wamsutter,Wamsutter,56037,Sweetwater County,Incorporated place,41.667977,-107.979142,1
+WY,5681640,place:WY:5681640,Warren AFB CDP,Warren AFB,Warren AFB,56021,Laramie County,Census-designated place,41.147053,-104.86163,1
+WY,5681703,place:WY:5681703,Washam CDP,Washam,Washam,56037,Sweetwater County,Census-designated place,41.005604,-109.699135,1
+WY,5682967,place:WY:5682967,Westview Circle CDP,Westview Circle,Westview Circle,56031,Platte County,Census-designated place,42.061641,-105.06758,1
+WY,5683040,place:WY:5683040,Wheatland town,Wheatland,Wheatland,56031,Platte County,Incorporated place,42.051706,-104.959472,1
+WY,5683100,place:WY:5683100,Whiting CDP,Whiting,Whiting,56031,Platte County,Census-designated place,42.00888,-104.971051,1
+WY,5683765,place:WY:5683765,Wilson CDP,Wilson,Wilson,56039,Teton County,Census-designated place,43.475325,-110.914562,1
+WY,5684852,place:WY:5684852,Woods Landing-Jelm CDP,Woods Landing-Jelm,Woods Landing-Jelm,56001,Albany County,Census-designated place,41.101461,-106.028802,1
+WY,5684925,place:WY:5684925,Worland city,Worland,Worland,56043,Washakie County,Incorporated place,44.020402,-107.961653,1
+WY,5685015,place:WY:5685015,Wright town,Wright,Wright,56005,Campbell County,Incorporated place,43.749153,-105.494834,1
+WY,5686737,place:WY:5686737,Y-O Ranch CDP,Y-O Ranch,Y-O Ranch,56031,Platte County,Census-designated place,42.035162,-104.922969,1
+WY,5686665,place:WY:5686665,Yoder town,Yoder,Yoder,56015,Goshen County,Incorporated place,41.916978,-104.295389,1

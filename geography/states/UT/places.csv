@@ -1,0 +1,335 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+UT,4900540,place:UT:4900540,Alpine city,Alpine,Alpine,49049,Utah County,Incorporated place,40.462954,-111.77244,1
+UT,4900650,place:UT:4900650,Alta town,Alta,Alta,49035,Salt Lake County,Incorporated place,40.586203,-111.623162,1
+UT,4900760,place:UT:4900760,Altamont town,Altamont,Altamont,49013,Duchesne County,Incorporated place,40.35945,-110.288824,1
+UT,4900870,place:UT:4900870,Alton town,Alton,Alton,49025,Kane County,Incorporated place,37.426544,-112.510415,1
+UT,4901090,place:UT:4901090,Amalga town,Amalga,Amalga,49005,Cache County,Incorporated place,41.856255,-111.897155,1
+UT,4901310,place:UT:4901310,American Fork city,American Fork,American Fork,49049,Utah County,Incorporated place,40.377877,-111.795074,1
+UT,4901530,place:UT:4901530,Aneth CDP,Aneth,Aneth,49037,San Juan County,Census-designated place,37.218431,-109.16216,1
+UT,4901750,place:UT:4901750,Annabella town,Annabella,Annabella,49041,Sevier County,Incorporated place,38.706006,-112.058567,1
+UT,4901860,place:UT:4901860,Antimony town,Antimony,Antimony,49017,Garfield County,Incorporated place,38.103029,-111.982319,1
+UT,4901905,place:UT:4901905,Apple Valley town,Apple Valley,Apple Valley,49053,Washington County,Incorporated place,37.080972,-113.1034,1
+UT,4902740,place:UT:4902740,Aurora city,Aurora,Aurora,49041,Sevier County,Incorporated place,38.919961,-111.933624,1
+UT,4902960,place:UT:4902960,Avon CDP,Avon,Avon,49005,Cache County,Census-designated place,41.535328,-111.812433,1
+UT,4903345,place:UT:4903345,Ballard town,Ballard,Ballard,49047,Uintah County,Incorporated place,40.294914,-109.949353,1
+UT,4903950,place:UT:4903950,Bear River City city,Bear River City,Bear River City,49003,Box Elder County,Incorporated place,41.612369,-112.124948,1
+UT,4904060,place:UT:4904060,Beaver city,Beaver,Beaver,49001,Beaver County,Incorporated place,38.275872,-112.638098,1
+UT,4904720,place:UT:4904720,Benjamin CDP,Benjamin,Benjamin,49049,Utah County,Census-designated place,40.096866,-111.72897,1
+UT,4905050,place:UT:4905050,Benson CDP,Benson,Benson,49005,Cache County,Census-designated place,41.752857,-111.925852,1
+UT,4905380,place:UT:4905380,Beryl Junction CDP,Beryl Junction,Beryl Junction,49021,Iron County,Census-designated place,37.700983,-113.653495,1
+UT,4905490,place:UT:4905490,Bicknell town,Bicknell,Bicknell,49055,Wayne County,Incorporated place,38.340656,-111.544178,1
+UT,4905534,place:UT:4905534,Big Water town,Big Water,Big Water,49025,Kane County,Incorporated place,37.072874,-111.660762,1
+UT,4906370,place:UT:4906370,Blanding city,Blanding,Blanding,49037,San Juan County,Incorporated place,37.618659,-109.509524,1
+UT,4906590,place:UT:4906590,Bluebell CDP,Bluebell,Bluebell,49013,Duchesne County,Census-designated place,40.351374,-110.223817,1
+UT,4906700,place:UT:4906700,Bluff town,Bluff,Bluff,49037,San Juan County,Incorporated place,37.290681,-109.596303,1
+UT,4906810,place:UT:4906810,Bluffdale city,Bluffdale,Bluffdale,49035,Salt Lake County,Incorporated place,40.474264,-111.941881,1
+UT,4906920,place:UT:4906920,Bonanza CDP,Bonanza,Bonanza,49047,Uintah County,Census-designated place,40.030474,-109.188439,1
+UT,4907470,place:UT:4907470,Boulder town,Boulder,Boulder,49017,Garfield County,Incorporated place,37.922785,-111.431854,1
+UT,4907690,place:UT:4907690,Bountiful city,Bountiful,Bountiful,49011,Davis County,Incorporated place,40.872483,-111.8612,1
+UT,4908020,place:UT:4908020,Brian Head town,Brian Head,Brian Head,49021,Iron County,Incorporated place,37.706301,-112.834835,1
+UT,4908460,place:UT:4908460,Brigham City city,Brigham City,Brigham City,49003,Box Elder County,Incorporated place,41.505904,-112.051418,1
+UT,4908570,place:UT:4908570,Brighton town,Brighton,Brighton,49035,Salt Lake County,Incorporated place,40.610674,-111.603764,1
+UT,4908787,place:UT:4908787,Bryce Canyon City town,Bryce Canyon City,Bryce Canyon City,49017,Garfield County,Incorporated place,37.68196,-112.161567,1
+UT,4909725,place:UT:4909725,Cache CDP,Cache,Cache,49005,Cache County,Census-designated place,41.830151,-112.018738,1
+UT,4910330,place:UT:4910330,Cannonville town,Cannonville,Cannonville,49017,Garfield County,Incorporated place,37.554827,-112.053756,1
+UT,4910440,place:UT:4910440,Carbonville CDP,Carbonville,Carbonville,49007,Carbon County,Census-designated place,39.626877,-110.833262,1
+UT,4910660,place:UT:4910660,Castle Dale city,Castle Dale,Castle Dale,49015,Emery County,Incorporated place,39.221661,-111.022676,1
+UT,4911000,place:UT:4911000,Castle Valley town,Castle Valley,Castle Valley,49019,Grand County,Incorporated place,38.632119,-109.396042,1
+UT,4911320,place:UT:4911320,Cedar City city,Cedar City,Cedar City,49021,Iron County,Incorporated place,37.683877,-113.09579,1
+UT,4911430,place:UT:4911430,Cedar Fort town,Cedar Fort,Cedar Fort,49049,Utah County,Incorporated place,40.341729,-112.108804,1
+UT,4911435,place:UT:4911435,Cedar Highlands CDP,Cedar Highlands,Cedar Highlands,49021,Iron County,Census-designated place,37.635842,-113.041037,1
+UT,4911440,place:UT:4911440,Cedar Hills city,Cedar Hills,Cedar Hills,49049,Utah County,Incorporated place,40.412028,-111.754266,1
+UT,4911870,place:UT:4911870,Centerfield town,Centerfield,Centerfield,49039,Sanpete County,Incorporated place,39.127455,-111.818423,1
+UT,4911980,place:UT:4911980,Centerville city,Centerville,Centerville,49011,Davis County,Incorporated place,40.926297,-111.883339,1
+UT,4912200,place:UT:4912200,Central CDP,Central,Central,49053,Washington County,Census-designated place,37.415005,-113.626248,1
+UT,4912260,place:UT:4912260,Central Valley town,Central Valley,Central Valley,49041,Sevier County,Incorporated place,38.69933,-112.096678,1
+UT,4912420,place:UT:4912420,Charleston town,Charleston,Charleston,49051,Wasatch County,Incorporated place,40.46798,-111.457293,1
+UT,4912970,place:UT:4912970,Circleville town,Circleville,Circleville,49031,Piute County,Incorporated place,38.168403,-112.27161,1
+UT,4913190,place:UT:4913190,Clarkston town,Clarkston,Clarkston,49005,Cache County,Incorporated place,41.920481,-112.050376,1
+UT,4913300,place:UT:4913300,Clawson town,Clawson,Clawson,49015,Emery County,Incorporated place,39.131395,-111.098932,1
+UT,4913740,place:UT:4913740,Clear Creek CDP,Clear Creek,Clear Creek,49007,Carbon County,Census-designated place,39.643343,-111.15484,1
+UT,4913850,place:UT:4913850,Clearfield city,Clearfield,Clearfield,49011,Davis County,Incorporated place,41.097012,-112.01792,1
+UT,4914070,place:UT:4914070,Cleveland town,Cleveland,Cleveland,49015,Emery County,Incorporated place,39.34927,-110.855411,1
+UT,4914290,place:UT:4914290,Clinton city,Clinton,Clinton,49011,Davis County,Incorporated place,41.13874,-112.066417,1
+UT,4914840,place:UT:4914840,Coalville city,Coalville,Coalville,49043,Summit County,Incorporated place,40.907365,-111.421247,1
+UT,4915720,place:UT:4915720,Copperton city,Copperton,Copperton,49035,Salt Lake County,Incorporated place,40.566115,-112.09792,1
+UT,4915830,place:UT:4915830,Corinne city,Corinne,Corinne,49003,Box Elder County,Incorporated place,41.551464,-112.125015,1
+UT,4915940,place:UT:4915940,Cornish town,Cornish,Cornish,49005,Cache County,Incorporated place,41.967914,-111.960839,1
+UT,4916270,place:UT:4916270,Cottonwood Heights city,Cottonwood Heights,Cottonwood Heights,49035,Salt Lake County,Incorporated place,40.613728,-111.814137,1
+UT,4916490,place:UT:4916490,Cove CDP,Cove,Cove,49005,Cache County,Census-designated place,41.968258,-111.779388,1
+UT,4918090,place:UT:4918090,Dammeron Valley CDP,Dammeron Valley,Dammeron Valley,49053,Washington County,Census-designated place,37.304173,-113.66587,1
+UT,4918140,place:UT:4918140,Daniel town,Daniel,Daniel,49051,Wasatch County,Incorporated place,40.46676,-111.409564,1
+UT,4918910,place:UT:4918910,Delta city,Delta,Delta,49027,Millard County,Incorporated place,39.373173,-112.524506,1
+UT,4919020,place:UT:4919020,Deseret CDP,Deseret,Deseret,49027,Millard County,Census-designated place,39.287621,-112.651116,1
+UT,4919680,place:UT:4919680,Deweyville town,Deweyville,Deweyville,49003,Box Elder County,Incorporated place,41.693031,-112.088347,1
+UT,4920120,place:UT:4920120,Draper city,Draper,Draper,49035,Salt Lake County,Incorporated place,40.49715,-111.864636,1
+UT,4920340,place:UT:4920340,Duchesne city,Duchesne,Duchesne,49013,Duchesne County,Incorporated place,40.175296,-110.394146,1
+UT,4920450,place:UT:4920450,Dugway CDP,Dugway,Dugway,49045,Tooele County,Census-designated place,40.230686,-112.754054,1
+UT,4920780,place:UT:4920780,Dutch John town,Dutch John,Dutch John,49009,Daggett County,Incorporated place,40.92707,-109.403119,1
+UT,4920810,place:UT:4920810,Eagle Mountain city,Eagle Mountain,Eagle Mountain,49049,Utah County,Incorporated place,40.314272,-112.011983,1
+UT,4920850,place:UT:4920850,East Basin CDP,East Basin,East Basin,49043,Summit County,Census-designated place,40.741544,-111.464563,1
+UT,4920890,place:UT:4920890,East Carbon city,East Carbon,East Carbon,49007,Carbon County,Incorporated place,39.533025,-110.42945,1
+UT,4921880,place:UT:4921880,Echo CDP,Echo,Echo,49043,Summit County,Census-designated place,40.980259,-111.439246,1
+UT,4921990,place:UT:4921990,Eden CDP,Eden,Eden,49057,Weber County,Census-designated place,41.30616,-111.803782,1
+UT,4922210,place:UT:4922210,Elberta CDP,Elberta,Elberta,49049,Utah County,Census-designated place,39.95579,-111.956923,1
+UT,4922370,place:UT:4922370,Elk Ridge city,Elk Ridge,Elk Ridge,49049,Utah County,Incorporated place,40.01036,-111.677997,1
+UT,4922540,place:UT:4922540,Elmo town,Elmo,Elmo,49015,Emery County,Incorporated place,39.38771,-110.815613,1
+UT,4922650,place:UT:4922650,Elsinore town,Elsinore,Elsinore,49041,Sevier County,Incorporated place,38.683642,-112.140271,1
+UT,4922760,place:UT:4922760,Elwood town,Elwood,Elwood,49003,Box Elder County,Incorporated place,41.672437,-112.136656,1
+UT,4922870,place:UT:4922870,Emery town,Emery,Emery,49015,Emery County,Incorporated place,38.925179,-111.252238,1
+UT,4922875,place:UT:4922875,Emigration Canyon city,Emigration Canyon,Emigration Canyon,49035,Salt Lake County,Incorporated place,40.788573,-111.741398,1
+UT,4923200,place:UT:4923200,Enoch city,Enoch,Enoch,49021,Iron County,Incorporated place,37.766574,-113.045261,1
+UT,4923310,place:UT:4923310,Enterprise CDP,Enterprise,"Enterprise, Morgan County",49029,Morgan County,Census-designated place,41.106986,-111.730713,1
+UT,4923420,place:UT:4923420,Enterprise city,Enterprise,"Enterprise, Washington County",49053,Washington County,Incorporated place,37.571633,-113.743029,1
+UT,4923530,place:UT:4923530,Ephraim city,Ephraim,Ephraim,49039,Sanpete County,Incorporated place,39.359067,-111.585978,1
+UT,4923640,place:UT:4923640,Erda city,Erda,Erda,49045,Tooele County,Incorporated place,40.618084,-112.308945,1
+UT,4923750,place:UT:4923750,Escalante city,Escalante,Escalante,49017,Garfield County,Incorporated place,37.762439,-111.597188,1
+UT,4924080,place:UT:4924080,Eureka city,Eureka,Eureka,49023,Juab County,Incorporated place,39.958661,-112.115075,1
+UT,4924410,place:UT:4924410,Fairfield town,Fairfield,Fairfield,49049,Utah County,Incorporated place,40.235967,-112.075224,1
+UT,4924630,place:UT:4924630,Fairview city,Fairview,Fairview,49039,Sanpete County,Incorporated place,39.629967,-111.436859,1
+UT,4924740,place:UT:4924740,Farmington city,Farmington,Farmington,49011,Davis County,Incorporated place,40.984669,-111.906306,1
+UT,4924850,place:UT:4924850,Farr West city,Farr West,Farr West,49057,Weber County,Incorporated place,41.301558,-112.031806,1
+UT,4925070,place:UT:4925070,Fayette town,Fayette,Fayette,49039,Sanpete County,Incorporated place,39.224637,-111.854191,1
+UT,4925180,place:UT:4925180,Ferron city,Ferron,Ferron,49015,Emery County,Incorporated place,39.091598,-111.133627,1
+UT,4925290,place:UT:4925290,Fielding town,Fielding,Fielding,49003,Box Elder County,Incorporated place,41.812235,-112.116998,1
+UT,4925510,place:UT:4925510,Fillmore city,Fillmore,Fillmore,49027,Millard County,Incorporated place,38.964501,-112.338349,1
+UT,4925910,place:UT:4925910,Flaming Gorge CDP,Flaming Gorge,Flaming Gorge,49009,Daggett County,Census-designated place,40.88915,-109.475931,1
+UT,4926610,place:UT:4926610,Fort Duchesne CDP,Fort Duchesne,Fort Duchesne,49047,Uintah County,Census-designated place,40.281802,-109.877241,1
+UT,4926720,place:UT:4926720,Fountain Green city,Fountain Green,Fountain Green,49039,Sanpete County,Incorporated place,39.628094,-111.641301,1
+UT,4926940,place:UT:4926940,Francis town,Francis,Francis,49043,Summit County,Incorporated place,40.612507,-111.282165,1
+UT,4927270,place:UT:4927270,Fremont CDP,Fremont,Fremont,49055,Wayne County,Census-designated place,38.455449,-111.614953,1
+UT,4927490,place:UT:4927490,Fruit Heights city,Fruit Heights,Fruit Heights,49011,Davis County,Incorporated place,41.02893,-111.904594,1
+UT,4927902,place:UT:4927902,Garden CDP,Garden,Garden,49033,Rich County,Census-designated place,41.874269,-111.41703,1
+UT,4927930,place:UT:4927930,Garden City town,Garden City,Garden City,49033,Rich County,Incorporated place,41.937088,-111.412159,1
+UT,4928150,place:UT:4928150,Garland city,Garland,Garland,49003,Box Elder County,Incorporated place,41.736272,-112.162789,1
+UT,4928810,place:UT:4928810,Genola town,Genola,Genola,49049,Utah County,Incorporated place,40.011993,-111.847985,1
+UT,4929360,place:UT:4929360,Glendale town,Glendale,Glendale,49025,Kane County,Incorporated place,37.334232,-112.603503,1
+UT,4929580,place:UT:4929580,Glenwood town,Glenwood,Glenwood,49041,Sevier County,Incorporated place,38.762449,-111.987597,1
+UT,4930130,place:UT:4930130,Goshen town,Goshen,Goshen,49049,Utah County,Incorporated place,39.951114,-111.900826,1
+UT,4930900,place:UT:4930900,Granite CDP,Granite,Granite,49035,Salt Lake County,Census-designated place,40.575662,-111.791252,1
+UT,4931120,place:UT:4931120,Grantsville city,Grantsville,Grantsville,49045,Tooele County,Incorporated place,40.611347,-112.469075,1
+UT,4931670,place:UT:4931670,Green River city,Green River,Green River,49015,Emery County,Incorporated place,38.993453,-110.169496,1
+UT,4932660,place:UT:4932660,Gunnison city,Gunnison,Gunnison,49039,Sanpete County,Incorporated place,39.15693,-111.813516,1
+UT,4933002,place:UT:4933002,Halchita CDP,Halchita,Halchita,49037,San Juan County,Census-designated place,37.149773,-109.904594,1
+UT,4933027,place:UT:4933027,Halls Crossing CDP,Halls Crossing,Halls Crossing,49037,San Juan County,Census-designated place,37.465816,-110.665443,1
+UT,4933100,place:UT:4933100,Hanksville town,Hanksville,Hanksville,49055,Wayne County,Incorporated place,38.371999,-110.713454,1
+UT,4933540,place:UT:4933540,Harrisville city,Harrisville,Harrisville,49057,Weber County,Incorporated place,41.285318,-111.98597,1
+UT,4933760,place:UT:4933760,Hatch town,Hatch,Hatch,49017,Garfield County,Incorporated place,37.649192,-112.434877,1
+UT,4934200,place:UT:4934200,Heber city,Heber,Heber,49051,Wasatch County,Incorporated place,40.541405,-111.387866,1
+UT,4934530,place:UT:4934530,Helper city,Helper,Helper,49007,Carbon County,Incorporated place,39.689628,-110.859599,1
+UT,4934640,place:UT:4934640,Henefer town,Henefer,Henefer,49043,Summit County,Incorporated place,41.013684,-111.493388,1
+UT,4934750,place:UT:4934750,Henrieville town,Henrieville,Henrieville,49017,Garfield County,Incorporated place,37.563891,-112.001906,1
+UT,4934970,place:UT:4934970,Herriman city,Herriman,Herriman,49035,Salt Lake County,Incorporated place,40.491819,-112.02043,1
+UT,4935120,place:UT:4935120,Hideout town,Hideout,Hideout,49051,Wasatch County,Incorporated place,40.645965,-111.405842,1
+UT,4935190,place:UT:4935190,Highland city,Highland,Highland,49049,Utah County,Incorporated place,40.427541,-111.795612,1
+UT,4935300,place:UT:4935300,Hildale city,Hildale,Hildale,49053,Washington County,Incorporated place,37.015423,-112.999846,1
+UT,4935740,place:UT:4935740,Hinckley town,Hinckley,Hinckley,49027,Millard County,Incorporated place,39.333595,-112.673482,1
+UT,4935823,place:UT:4935823,Hobble Creek CDP,Hobble Creek,Hobble Creek,49049,Utah County,Census-designated place,40.19172,-111.496707,1
+UT,4935960,place:UT:4935960,Holden town,Holden,Holden,49027,Millard County,Incorporated place,39.100095,-112.270413,1
+UT,4936070,place:UT:4936070,Holladay city,Holladay,Holladay,49035,Salt Lake County,Incorporated place,40.659924,-111.822697,1
+UT,4936290,place:UT:4936290,Honeyville city,Honeyville,Honeyville,49003,Box Elder County,Incorporated place,41.636119,-112.085745,1
+UT,4936400,place:UT:4936400,Hooper city,Hooper,Hooper,49057,Weber County,Incorporated place,41.167053,-112.281052,1
+UT,4936620,place:UT:4936620,Howell town,Howell,Howell,49003,Box Elder County,Incorporated place,41.778746,-112.448024,1
+UT,4936730,place:UT:4936730,Hoytsville CDP,Hoytsville,Hoytsville,49043,Summit County,Census-designated place,40.875766,-111.384734,1
+UT,4936950,place:UT:4936950,Huntington city,Huntington,Huntington,49015,Emery County,Incorporated place,39.330116,-110.96281,1
+UT,4937060,place:UT:4937060,Huntsville town,Huntsville,Huntsville,49057,Weber County,Incorporated place,41.258814,-111.775409,1
+UT,4937170,place:UT:4937170,Hurricane city,Hurricane,Hurricane,49053,Washington County,Incorporated place,37.148483,-113.359032,1
+UT,4937390,place:UT:4937390,Hyde Park city,Hyde Park,Hyde Park,49005,Cache County,Incorporated place,41.801084,-111.809887,1
+UT,4937500,place:UT:4937500,Hyrum city,Hyrum,Hyrum,49005,Cache County,Incorporated place,41.632797,-111.845514,1
+UT,4937690,place:UT:4937690,Independence town,Independence,Independence,49051,Wasatch County,Incorporated place,40.410836,-111.295708,1
+UT,4937924,place:UT:4937924,Interlaken town,Interlaken,Interlaken,49051,Wasatch County,Incorporated place,40.541184,-111.475348,1
+UT,4938710,place:UT:4938710,Ivins city,Ivins,Ivins,49053,Washington County,Incorporated place,37.173803,-113.68083,1
+UT,4939040,place:UT:4939040,Jensen CDP,Jensen,Jensen,49047,Uintah County,Census-designated place,40.369529,-109.355572,1
+UT,4939370,place:UT:4939370,Joseph town,Joseph,Joseph,49041,Sevier County,Incorporated place,38.624845,-112.219824,1
+UT,4939590,place:UT:4939590,Junction town,Junction,Junction,49031,Piute County,Incorporated place,38.236148,-112.224615,1
+UT,4939810,place:UT:4939810,Kamas city,Kamas,Kamas,49043,Summit County,Incorporated place,40.656271,-111.263759,1
+UT,4939920,place:UT:4939920,Kanab city,Kanab,Kanab,49025,Kane County,Incorporated place,37.014076,-112.504409,1
+UT,4940030,place:UT:4940030,Kanarraville town,Kanarraville,Kanarraville,49021,Iron County,Incorporated place,37.537972,-113.181043,1
+UT,4940250,place:UT:4940250,Kanosh town,Kanosh,Kanosh,49027,Millard County,Incorporated place,38.801575,-112.437406,1
+UT,4940360,place:UT:4940360,Kaysville city,Kaysville,Kaysville,49011,Davis County,Incorporated place,41.029342,-111.945074,1
+UT,4940470,place:UT:4940470,Kearns city,Kearns,Kearns,49035,Salt Lake County,Incorporated place,40.651944,-112.00939,1
+UT,4941020,place:UT:4941020,Kenilworth CDP,Kenilworth,Kenilworth,49007,Carbon County,Census-designated place,39.680325,-110.814539,1
+UT,4941350,place:UT:4941350,Kingston town,Kingston,Kingston,49031,Piute County,Incorporated place,38.206668,-112.179266,1
+UT,4941680,place:UT:4941680,Koosharem town,Koosharem,Koosharem,49041,Sevier County,Incorporated place,38.514675,-111.881281,1
+UT,4943110,place:UT:4943110,La Sal CDP,La Sal,La Sal,49037,San Juan County,Census-designated place,38.301147,-109.265651,1
+UT,4943440,place:UT:4943440,La Verkin city,La Verkin,La Verkin,49053,Washington County,Incorporated place,37.231529,-113.250555,1
+UT,4942010,place:UT:4942010,Lake Point city,Lake Point,Lake Point,49045,Tooele County,Incorporated place,40.683365,-112.265574,0
+UT,4942230,place:UT:4942230,Lake Shore CDP,Lake Shore,Lake Shore,49049,Utah County,Census-designated place,40.129442,-111.736181,1
+UT,4942560,place:UT:4942560,Laketown town,Laketown,Laketown,49033,Rich County,Incorporated place,41.82932,-111.332682,1
+UT,4942890,place:UT:4942890,Lapoint CDP,Lapoint,Lapoint,49047,Uintah County,Census-designated place,40.404217,-109.796978,1
+UT,4943660,place:UT:4943660,Layton city,Layton,Layton,49011,Davis County,Incorporated place,41.077423,-111.960727,1
+UT,4943880,place:UT:4943880,Leamington town,Leamington,Leamington,49027,Millard County,Incorporated place,39.531311,-112.285226,1
+UT,4944100,place:UT:4944100,Leeds town,Leeds,Leeds,49053,Washington County,Incorporated place,37.237186,-113.34707,1
+UT,4944320,place:UT:4944320,Lehi city,Lehi,Lehi,49049,Utah County,Incorporated place,40.41708,-111.871147,1
+UT,4944650,place:UT:4944650,Levan town,Levan,Levan,49023,Juab County,Incorporated place,39.556156,-111.860579,1
+UT,4944760,place:UT:4944760,Lewiston city,Lewiston,Lewiston,49005,Cache County,Incorporated place,41.968452,-111.885815,1
+UT,4944870,place:UT:4944870,Liberty CDP,Liberty,Liberty,49057,Weber County,Census-designated place,41.342536,-111.86488,1
+UT,4945090,place:UT:4945090,Lindon city,Lindon,Lindon,49049,Utah County,Incorporated place,40.341998,-111.717267,1
+UT,4945530,place:UT:4945530,Loa town,Loa,Loa,49055,Wayne County,Incorporated place,38.403759,-111.645137,1
+UT,4945860,place:UT:4945860,Logan city,Logan,Logan,49005,Cache County,Incorporated place,41.740138,-111.843754,1
+UT,4946410,place:UT:4946410,Lyman town,Lyman,Lyman,49055,Wayne County,Incorporated place,38.396627,-111.589338,1
+UT,4946740,place:UT:4946740,Lynndyl town,Lynndyl,Lynndyl,49027,Millard County,Incorporated place,39.508585,-112.393444,1
+UT,4947180,place:UT:4947180,Maeser CDP,Maeser,Maeser,49047,Uintah County,Census-designated place,40.47184,-109.578622,1
+UT,4947290,place:UT:4947290,Magna city,Magna,Magna,49035,Salt Lake County,Incorporated place,40.750819,-112.191221,1
+UT,4947620,place:UT:4947620,Manila town,Manila,Manila,49009,Daggett County,Incorporated place,40.992158,-109.721033,1
+UT,4947730,place:UT:4947730,Manti city,Manti,Manti,49039,Sanpete County,Incorporated place,39.26647,-111.635327,1
+UT,4947840,place:UT:4947840,Mantua town,Mantua,Mantua,49003,Box Elder County,Incorporated place,41.511863,-111.934745,1
+UT,4947950,place:UT:4947950,Mapleton city,Mapleton,Mapleton,49049,Utah County,Incorporated place,40.118757,-111.574246,1
+UT,4948170,place:UT:4948170,Marion CDP,Marion,Marion,49043,Summit County,Census-designated place,40.681022,-111.277319,1
+UT,4948300,place:UT:4948300,Marriott-Slaterville city,Marriott-Slaterville,Marriott-Slaterville,49057,Weber County,Incorporated place,41.262488,-112.040123,1
+UT,4948610,place:UT:4948610,Marysvale town,Marysvale,Marysvale,49031,Piute County,Incorporated place,38.436649,-112.261968,1
+UT,4948720,place:UT:4948720,Mayfield town,Mayfield,Mayfield,49039,Sanpete County,Incorporated place,39.119309,-111.70804,1
+UT,4948830,place:UT:4948830,Meadow town,Meadow,Meadow,49027,Millard County,Incorporated place,38.886223,-112.407142,1
+UT,4949160,place:UT:4949160,Mendon city,Mendon,Mendon,49005,Cache County,Incorporated place,41.711733,-111.977601,1
+UT,4949380,place:UT:4949380,Mexican Hat CDP,Mexican Hat,Mexican Hat,49037,San Juan County,Census-designated place,37.174258,-109.883578,1
+UT,4949710,place:UT:4949710,Midvale city,Midvale,Midvale,49035,Salt Lake County,Incorporated place,40.614723,-111.892822,1
+UT,4949820,place:UT:4949820,Midway city,Midway,Midway,49051,Wasatch County,Incorporated place,40.520214,-111.475523,1
+UT,4950040,place:UT:4950040,Milford city,Milford,Milford,49001,Beaver County,Incorporated place,38.394503,-113.012265,1
+UT,4950150,place:UT:4950150,Millcreek city,Millcreek,Millcreek,49035,Salt Lake County,Incorporated place,40.689017,-111.829559,1
+UT,4950370,place:UT:4950370,Millville city,Millville,Millville,49005,Cache County,Incorporated place,41.685089,-111.821131,1
+UT,4950590,place:UT:4950590,Minersville town,Minersville,Minersville,49001,Beaver County,Incorporated place,38.248011,-112.978989,1
+UT,4950700,place:UT:4950700,Moab city,Moab,Moab,49019,Grand County,Incorporated place,38.570074,-109.547801,1
+UT,4950810,place:UT:4950810,Modena CDP,Modena,Modena,49021,Iron County,Census-designated place,37.794712,-113.92746,1
+UT,4951140,place:UT:4951140,Mona city,Mona,Mona,49023,Juab County,Incorporated place,39.812063,-111.841492,1
+UT,4951360,place:UT:4951360,Monroe city,Monroe,Monroe,49041,Sevier County,Incorporated place,38.623009,-112.119612,1
+UT,4951470,place:UT:4951470,Montezuma Creek CDP,Montezuma Creek,Montezuma Creek,49037,San Juan County,Census-designated place,37.251075,-109.292276,1
+UT,4951580,place:UT:4951580,Monticello city,Monticello,Monticello,49037,San Juan County,Incorporated place,37.868534,-109.3362,1
+UT,4951910,place:UT:4951910,Morgan city,Morgan,Morgan,49029,Morgan County,Incorporated place,41.041733,-111.680545,1
+UT,4952130,place:UT:4952130,Moroni city,Moroni,Moroni,49039,Sanpete County,Incorporated place,39.527028,-111.583067,1
+UT,4953010,place:UT:4953010,Mount Pleasant city,Mount Pleasant,Mount Pleasant,49039,Sanpete County,Incorporated place,39.540744,-111.455865,1
+UT,4952460,place:UT:4952460,Mountain Green CDP,Mountain Green,Mountain Green,49029,Morgan County,Census-designated place,41.147673,-111.787635,1
+UT,4953230,place:UT:4953230,Murray city,Murray,Murray,49035,Salt Lake County,Incorporated place,40.650654,-111.886568,1
+UT,4953340,place:UT:4953340,Myton city,Myton,Myton,49013,Duchesne County,Incorporated place,40.193265,-110.062512,1
+UT,4953560,place:UT:4953560,Naples city,Naples,Naples,49047,Uintah County,Incorporated place,40.431749,-109.491273,1
+UT,4953890,place:UT:4953890,Navajo Mountain CDP,Navajo Mountain,Navajo Mountain,49037,San Juan County,Census-designated place,37.04703,-110.789932,1
+UT,4954110,place:UT:4954110,Neola CDP,Neola,Neola,49013,Duchesne County,Census-designated place,40.434806,-110.03082,1
+UT,4954220,place:UT:4954220,Nephi city,Nephi,Nephi,49023,Juab County,Incorporated place,39.704452,-111.833542,1
+UT,4954440,place:UT:4954440,New Harmony town,New Harmony,New Harmony,49053,Washington County,Incorporated place,37.480044,-113.309252,1
+UT,4954330,place:UT:4954330,Newcastle CDP,Newcastle,Newcastle,49021,Iron County,Census-designated place,37.662854,-113.564366,1
+UT,4954550,place:UT:4954550,Newton town,Newton,Newton,49005,Cache County,Incorporated place,41.86116,-111.990752,1
+UT,4954660,place:UT:4954660,Nibley city,Nibley,Nibley,49005,Cache County,Incorporated place,41.673103,-111.847056,1
+UT,4954990,place:UT:4954990,North Logan city,North Logan,North Logan,49005,Cache County,Incorporated place,41.775541,-111.806654,1
+UT,4955100,place:UT:4955100,North Ogden city,North Ogden,North Ogden,49057,Weber County,Incorporated place,41.311501,-111.95985,1
+UT,4955210,place:UT:4955210,North Salt Lake city,North Salt Lake,North Salt Lake,49011,Davis County,Incorporated place,40.847116,-111.91878,1
+UT,4955430,place:UT:4955430,Oak City town,Oak City,Oak City,49027,Millard County,Incorporated place,39.374738,-112.338342,1
+UT,4955650,place:UT:4955650,Oakley city,Oakley,Oakley,49043,Summit County,Incorporated place,40.739423,-111.280642,1
+UT,4955760,place:UT:4955760,Oasis CDP,Oasis,Oasis,49027,Millard County,Census-designated place,39.292306,-112.628951,1
+UT,4955980,place:UT:4955980,Ogden city,Ogden,Ogden,49057,Weber County,Incorporated place,41.228391,-111.968147,1
+UT,4956440,place:UT:4956440,Oljato-Monument Valley CDP,Oljato-Monument Valley,Oljato-Monument Valley,49037,San Juan County,Census-designated place,37.030747,-110.251094,1
+UT,4956750,place:UT:4956750,Ophir CDP,Ophir,Ophir,49045,Tooele County,Census-designated place,40.370055,-112.255963,1
+UT,4956860,place:UT:4956860,Orangeville city,Orangeville,Orangeville,49015,Emery County,Incorporated place,39.230824,-111.059173,1
+UT,4957080,place:UT:4957080,Orderville town,Orderville,Orderville,49025,Kane County,Incorporated place,37.251576,-112.657118,1
+UT,4957300,place:UT:4957300,Orem city,Orem,Orem,49049,Utah County,Incorporated place,40.298067,-111.699463,1
+UT,4957630,place:UT:4957630,Palmyra CDP,Palmyra,Palmyra,49049,Utah County,Census-designated place,40.133838,-111.693156,1
+UT,4957740,place:UT:4957740,Panguitch city,Panguitch,Panguitch,49017,Garfield County,Incorporated place,37.822854,-112.434169,1
+UT,4957850,place:UT:4957850,Paradise town,Paradise,Paradise,49005,Cache County,Incorporated place,41.568176,-111.833349,1
+UT,4957960,place:UT:4957960,Paragonah town,Paragonah,Paragonah,49021,Iron County,Incorporated place,37.885379,-112.771089,1
+UT,4958070,place:UT:4958070,Park City city,Park City,Park City,49043,Summit County,Incorporated place,40.65723,-111.493701,1
+UT,4958510,place:UT:4958510,Parowan city,Parowan,Parowan,49021,Iron County,Incorporated place,37.833351,-112.829827,1
+UT,4958730,place:UT:4958730,Payson city,Payson,Payson,49049,Utah County,Incorporated place,40.035882,-111.738805,1
+UT,4959280,place:UT:4959280,Peoa CDP,Peoa,Peoa,49043,Summit County,Census-designated place,40.732537,-111.329357,1
+UT,4959390,place:UT:4959390,Perry city,Perry,Perry,49003,Box Elder County,Incorporated place,41.464517,-112.040541,1
+UT,4959555,place:UT:4959555,Peter CDP,Peter,Peter,49005,Cache County,Census-designated place,41.79471,-112.004267,1
+UT,4960270,place:UT:4960270,Pine Valley CDP,Pine Valley,Pine Valley,49053,Washington County,Census-designated place,37.390369,-113.506033,1
+UT,4960710,place:UT:4960710,Plain City city,Plain City,Plain City,49057,Weber County,Incorporated place,41.306699,-112.094297,1
+UT,4960930,place:UT:4960930,Pleasant Grove city,Pleasant Grove,Pleasant Grove,49049,Utah County,Incorporated place,40.37145,-111.741264,1
+UT,4961150,place:UT:4961150,Pleasant View city,Pleasant View,Pleasant View,49057,Weber County,Incorporated place,41.32489,-112.001038,1
+UT,4961260,place:UT:4961260,Plymouth town,Plymouth,Plymouth,49003,Box Elder County,Incorporated place,41.873587,-112.146778,1
+UT,4961590,place:UT:4961590,Portage town,Portage,Portage,49003,Box Elder County,Incorporated place,41.975633,-112.24051,1
+UT,4962030,place:UT:4962030,Price city,Price,Price,49007,Carbon County,Incorporated place,39.604001,-110.800352,1
+UT,4962360,place:UT:4962360,Providence city,Providence,Providence,49005,Cache County,Incorporated place,41.703521,-111.813359,1
+UT,4962470,place:UT:4962470,Provo city,Provo,Provo,49049,Utah County,Incorporated place,40.245312,-111.645057,1
+UT,4962910,place:UT:4962910,Randlett CDP,Randlett,Randlett,49047,Uintah County,Census-designated place,40.226748,-109.83081,1
+UT,4963020,place:UT:4963020,Randolph town,Randolph,Randolph,49033,Rich County,Incorporated place,41.665588,-111.184821,1
+UT,4963240,place:UT:4963240,Redmond town,Redmond,Redmond,49041,Sevier County,Incorporated place,39.00526,-111.867242,1
+UT,4963570,place:UT:4963570,Richfield city,Richfield,Richfield,49041,Sevier County,Incorporated place,38.761241,-112.092906,1
+UT,4963680,place:UT:4963680,Richmond city,Richmond,Richmond,49005,Cache County,Incorporated place,41.923065,-111.807823,1
+UT,4964120,place:UT:4964120,River Heights city,River Heights,River Heights,49005,Cache County,Incorporated place,41.722129,-111.81912,1
+UT,4964010,place:UT:4964010,Riverdale city,Riverdale,Riverdale,49057,Weber County,Incorporated place,41.173136,-112.002256,1
+UT,4964230,place:UT:4964230,Riverside CDP,Riverside,Riverside,49003,Box Elder County,Census-designated place,41.810587,-112.140315,1
+UT,4964340,place:UT:4964340,Riverton city,Riverton,Riverton,49035,Salt Lake County,Incorporated place,40.517634,-111.963515,1
+UT,4964560,place:UT:4964560,Rockville town,Rockville,Rockville,49053,Washington County,Incorporated place,37.147817,-113.05479,1
+UT,4964590,place:UT:4964590,Rocky Ridge town,Rocky Ridge,Rocky Ridge,49023,Juab County,Incorporated place,39.919747,-111.825747,1
+UT,4964670,place:UT:4964670,Roosevelt city,Roosevelt,Roosevelt,49013,Duchesne County,Incorporated place,40.287727,-109.987983,1
+UT,4965110,place:UT:4965110,Roy city,Roy,Roy,49057,Weber County,Incorporated place,41.17146,-112.048476,1
+UT,4965240,place:UT:4965240,Rush Valley town,Rush Valley,Rush Valley,49045,Tooele County,Incorporated place,40.361285,-112.450643,1
+UT,4965770,place:UT:4965770,Salem city,Salem,Salem,49049,Utah County,Incorporated place,40.055295,-111.667365,1
+UT,4965880,place:UT:4965880,Salina city,Salina,Salina,49041,Sevier County,Incorporated place,38.938839,-111.865209,1
+UT,4967000,place:UT:4967000,Salt Lake City city,Salt Lake City,Salt Lake City,49035,Salt Lake County,Incorporated place,40.775366,-111.927266,1
+UT,4967400,place:UT:4967400,Samak CDP,Samak,Samak,49043,Summit County,Census-designated place,40.638907,-111.2413,1
+UT,4967440,place:UT:4967440,Sandy city,Sandy,Sandy,49035,Salt Lake County,Incorporated place,40.571714,-111.84987,1
+UT,4967660,place:UT:4967660,Santa Clara city,Santa Clara,Santa Clara,49053,Washington County,Incorporated place,37.131367,-113.656611,1
+UT,4967770,place:UT:4967770,Santaquin city,Santaquin,Santaquin,49049,Utah County,Incorporated place,39.969893,-111.794431,1
+UT,4967825,place:UT:4967825,Saratoga Springs city,Saratoga Springs,Saratoga Springs,49049,Utah County,Incorporated place,40.344608,-111.915893,1
+UT,4967880,place:UT:4967880,Scipio town,Scipio,Scipio,49027,Millard County,Incorporated place,39.24908,-112.104411,1
+UT,4967990,place:UT:4967990,Scofield town,Scofield,Scofield,49007,Carbon County,Incorporated place,39.719827,-111.16226,1
+UT,4968650,place:UT:4968650,Sigurd town,Sigurd,Sigurd,49041,Sevier County,Incorporated place,38.86622,-111.963141,1
+UT,4969280,place:UT:4969280,Silver Summit CDP,Silver Summit,Silver Summit,49043,Summit County,Census-designated place,40.748926,-111.513907,1
+UT,4969640,place:UT:4969640,Smithfield city,Smithfield,Smithfield,49005,Cache County,Incorporated place,41.835487,-111.827487,1
+UT,4969970,place:UT:4969970,Snowville town,Snowville,Snowville,49003,Box Elder County,Incorporated place,41.972822,-112.716407,1
+UT,4970190,place:UT:4970190,Snyderville CDP,Snyderville,Snyderville,49043,Summit County,Census-designated place,40.704118,-111.543375,1
+UT,4970850,place:UT:4970850,South Jordan city,South Jordan,South Jordan,49035,Salt Lake County,Incorporated place,40.555007,-111.992337,1
+UT,4970960,place:UT:4970960,South Ogden city,South Ogden,South Ogden,49057,Weber County,Incorporated place,41.172227,-111.957693,1
+UT,4971070,place:UT:4971070,South Salt Lake city,South Salt Lake,South Salt Lake,49035,Salt Lake County,Incorporated place,40.705649,-111.898617,1
+UT,4971180,place:UT:4971180,South Weber city,South Weber,South Weber,49011,Davis County,Incorporated place,41.134674,-111.941625,1
+UT,4971255,place:UT:4971255,South Willard CDP,South Willard,South Willard,49003,Box Elder County,Census-designated place,41.362304,-112.041981,1
+UT,4971290,place:UT:4971290,Spanish Fork city,Spanish Fork,Spanish Fork,49049,Utah County,Incorporated place,40.113182,-111.643067,1
+UT,4971455,place:UT:4971455,Spanish Valley CDP,Spanish Valley,Spanish Valley,49037,San Juan County,Census-designated place,38.474263,-109.420972,1
+UT,4971730,place:UT:4971730,Spring City city,Spring City,Spring City,49039,Sanpete County,Incorporated place,39.479627,-111.491275,1
+UT,4972060,place:UT:4972060,Spring Glen CDP,Spring Glen,Spring Glen,49007,Carbon County,Census-designated place,39.65601,-110.846081,1
+UT,4972170,place:UT:4972170,Spring Lake CDP,Spring Lake,Spring Lake,49049,Utah County,Census-designated place,40.008534,-111.750636,1
+UT,4971840,place:UT:4971840,Springdale town,Springdale,Springdale,49053,Washington County,Incorporated place,37.181673,-113.005007,1
+UT,4972280,place:UT:4972280,Springville city,Springville,Springville,49049,Utah County,Incorporated place,40.164273,-111.619525,1
+UT,4965330,place:UT:4965330,St. George city,St. George,St. George,49053,Washington County,Incorporated place,37.077006,-113.576534,1
+UT,4972720,place:UT:4972720,Stansbury Park CDP,Stansbury Park,Stansbury Park,49045,Tooele County,Census-designated place,40.63303,-112.305792,1
+UT,4972940,place:UT:4972940,Sterling town,Sterling,Sterling,49039,Sanpete County,Incorporated place,39.193321,-111.690405,1
+UT,4973050,place:UT:4973050,Stockton town,Stockton,Stockton,49045,Tooele County,Incorporated place,40.444094,-112.374502,1
+UT,4974040,place:UT:4974040,Summit CDP,Summit,Summit,49021,Iron County,Census-designated place,37.805337,-112.933135,1
+UT,4974095,place:UT:4974095,Summit Park CDP,Summit Park,Summit Park,49043,Summit County,Census-designated place,40.742334,-111.587245,1
+UT,4974260,place:UT:4974260,Sundance CDP,Sundance,Sundance,49049,Utah County,Census-designated place,40.392723,-111.590879,1
+UT,4974480,place:UT:4974480,Sunset city,Sunset,Sunset,49011,Davis County,Incorporated place,41.13806,-112.028388,1
+UT,4974590,place:UT:4974590,Sutherland CDP,Sutherland,Sutherland,49027,Millard County,Census-designated place,39.389581,-112.63994,1
+UT,4974810,place:UT:4974810,Syracuse city,Syracuse,Syracuse,49011,Davis County,Incorporated place,41.08543,-112.071668,1
+UT,4974920,place:UT:4974920,Tabiona town,Tabiona,Tabiona,49013,Duchesne County,Incorporated place,40.354216,-110.709559,1
+UT,4975360,place:UT:4975360,Taylorsville city,Taylorsville,Taylorsville,49035,Salt Lake County,Incorporated place,40.656942,-111.94933,1
+UT,4975470,place:UT:4975470,Teasdale CDP,Teasdale,Teasdale,49055,Wayne County,Census-designated place,38.285097,-111.472367,1
+UT,4975800,place:UT:4975800,Thatcher CDP,Thatcher,Thatcher,49003,Box Elder County,Census-designated place,41.681522,-112.320043,1
+UT,4976180,place:UT:4976180,Thompson Springs CDP,Thompson Springs,Thompson Springs,49019,Grand County,Census-designated place,38.963575,-109.703719,1
+UT,4976280,place:UT:4976280,Timber Lakes CDP,Timber Lakes,Timber Lakes,49051,Wasatch County,Census-designated place,40.474957,-111.255838,1
+UT,4976680,place:UT:4976680,Tooele city,Tooele,Tooele,49045,Tooele County,Incorporated place,40.539396,-112.307843,1
+UT,4976900,place:UT:4976900,Toquerville city,Toquerville,Toquerville,49053,Washington County,Incorporated place,37.266546,-113.295135,1
+UT,4977010,place:UT:4977010,Torrey town,Torrey,Torrey,49055,Wayne County,Incorporated place,38.307337,-111.427133,1
+UT,4977120,place:UT:4977120,Tremonton city,Tremonton,Tremonton,49003,Box Elder County,Incorporated place,41.717022,-112.187348,1
+UT,4977230,place:UT:4977230,Trenton town,Trenton,Trenton,49005,Cache County,Incorporated place,41.913878,-111.935809,1
+UT,4977560,place:UT:4977560,Tropic town,Tropic,Tropic,49017,Garfield County,Incorporated place,37.633054,-112.087959,1
+UT,4977697,place:UT:4977697,Tselakai Dezza CDP,Tselakai Dezza,Tselakai Dezza,49037,San Juan County,Census-designated place,37.209998,-109.609093,1
+UT,4977890,place:UT:4977890,Uintah town,Uintah,Uintah,49057,Weber County,Incorporated place,41.141357,-111.932385,1
+UT,4980090,place:UT:4980090,Vernal city,Vernal,Vernal,49047,Uintah County,Incorporated place,40.45167,-109.538086,1
+UT,4980200,place:UT:4980200,Vernon town,Vernon,Vernon,49045,Tooele County,Incorporated place,40.09559,-112.445774,1
+UT,4980310,place:UT:4980310,Veyo CDP,Veyo,Veyo,49053,Washington County,Census-designated place,37.337502,-113.693028,1
+UT,4980420,place:UT:4980420,Vineyard town,Vineyard,Vineyard,49049,Utah County,Incorporated place,40.304729,-111.754778,1
+UT,4980530,place:UT:4980530,Virgin town,Virgin,Virgin,49053,Washington County,Incorporated place,37.194738,-113.205539,1
+UT,4980860,place:UT:4980860,Wales town,Wales,Wales,49039,Sanpete County,Incorporated place,39.48518,-111.636079,1
+UT,4980970,place:UT:4980970,Wallsburg town,Wallsburg,Wallsburg,49051,Wasatch County,Incorporated place,40.386871,-111.419464,1
+UT,4981190,place:UT:4981190,Wanship CDP,Wanship,Wanship,49043,Summit County,Census-designated place,40.816759,-111.415089,1
+UT,4981960,place:UT:4981960,Washington city,Washington,Washington,49053,Washington County,Incorporated place,37.126675,-113.48776,1
+UT,4982070,place:UT:4982070,Washington Terrace city,Washington Terrace,Washington Terrace,49057,Weber County,Incorporated place,41.168318,-111.978153,1
+UT,4982510,place:UT:4982510,Wellington city,Wellington,Wellington,49007,Carbon County,Incorporated place,39.53586,-110.734374,1
+UT,4982620,place:UT:4982620,Wellsville city,Wellsville,Wellsville,49005,Cache County,Incorporated place,41.623416,-111.942094,1
+UT,4982730,place:UT:4982730,Wendover city,Wendover,Wendover,49045,Tooele County,Incorporated place,40.724025,-114.025097,1
+UT,4982840,place:UT:4982840,West Bountiful city,West Bountiful,West Bountiful,49011,Davis County,Incorporated place,40.901267,-111.908454,1
+UT,4982930,place:UT:4982930,West Haven city,West Haven,West Haven,49057,Weber County,Incorporated place,41.209075,-112.053612,1
+UT,4982950,place:UT:4982950,West Jordan city,West Jordan,West Jordan,49035,Salt Lake County,Incorporated place,40.602862,-112.001544,1
+UT,4983252,place:UT:4983252,West Mountain CDP,West Mountain,West Mountain,49049,Utah County,Census-designated place,40.051816,-111.783353,1
+UT,4983390,place:UT:4983390,West Point city,West Point,West Point,49011,Davis County,Incorporated place,41.121721,-112.098224,1
+UT,4983470,place:UT:4983470,West Valley City city,West Valley City,West Valley City,49035,Salt Lake County,Incorporated place,40.688493,-112.011759,1
+UT,4983730,place:UT:4983730,West Wood CDP,West Wood,West Wood,49007,Carbon County,Census-designated place,39.605158,-110.842424,1
+UT,4984050,place:UT:4984050,White City city,White City,White City,49035,Salt Lake County,Incorporated place,40.568742,-111.862641,1
+UT,4984095,place:UT:4984095,White Mesa CDP,White Mesa,White Mesa,49037,San Juan County,Census-designated place,37.459621,-109.459963,1
+UT,4984160,place:UT:4984160,Whiterocks CDP,Whiterocks,Whiterocks,49047,Uintah County,Census-designated place,40.472147,-109.94122,1
+UT,4984710,place:UT:4984710,Willard city,Willard,Willard,49003,Box Elder County,Incorporated place,41.404333,-112.042742,1
+UT,4984950,place:UT:4984950,Wolf Creek CDP,Wolf Creek,Wolf Creek,49057,Weber County,Census-designated place,41.3253,-111.828756,1
+UT,4985040,place:UT:4985040,Woodland CDP,Woodland,Woodland,49043,Summit County,Census-designated place,40.583797,-111.235761,1
+UT,4985050,place:UT:4985050,Woodland Hills city,Woodland Hills,Woodland Hills,49049,Utah County,Incorporated place,40.013365,-111.656004,1
+UT,4985260,place:UT:4985260,Woodruff town,Woodruff,Woodruff,49033,Rich County,Incorporated place,41.521183,-111.163931,1
+UT,4985370,place:UT:4985370,Woods Cross city,Woods Cross,Woods Cross,49011,Davis County,Incorporated place,40.872911,-111.917482,1

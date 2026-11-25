@@ -1,0 +1,216 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+CT,0901150,place:CT:0901150,Ansonia city,Ansonia,Ansonia,09140,Naugatuck Valley Planning Region,Incorporated place,41.344249,-73.069825,1
+CT,0902480,place:CT:0902480,Ball Pond CDP,Ball Pond,Ball Pond,09190,Western Connecticut Planning Region,Census-designated place,41.459644,-73.531288,1
+CT,0902550,place:CT:0902550,Baltic CDP,Baltic,Baltic,09180,Southeastern Connecticut Planning Region,Census-designated place,41.609703,-72.081896,1
+CT,0902690,place:CT:0902690,Bantam borough,Bantam,Bantam,09160,Northwest Hills Planning Region,Incorporated place,41.724745,-73.242263,1
+CT,0904790,place:CT:0904790,Bethel CDP,Bethel,Bethel,09190,Western Connecticut Planning Region,Census-designated place,41.360293,-73.413942,1
+CT,0904945,place:CT:0904945,Bethlehem Village CDP,Bethlehem Village,Bethlehem Village,09140,Naugatuck Valley Planning Region,Census-designated place,41.643961,-73.202792,1
+CT,0904965,place:CT:0904965,Bigelow Corners CDP,Bigelow Corners,Bigelow Corners,09190,Western Connecticut Planning Region,Census-designated place,41.465011,-73.508198,1
+CT,0906050,place:CT:0906050,Blue Hills CDP,Blue Hills,Blue Hills,09110,Capitol Planning Region,Census-designated place,41.813372,-72.695442,1
+CT,0906155,place:CT:0906155,Bogus Hill CDP,Bogus Hill,Bogus Hill,09190,Western Connecticut Planning Region,Census-designated place,41.508088,-73.462983,1
+CT,0906680,place:CT:0906680,Botsford CDP,Botsford,Botsford,09190,Western Connecticut Planning Region,Census-designated place,41.358776,-73.267159,1
+CT,0907100,place:CT:0907100,Branchville CDP,Branchville,Branchville,09190,Western Connecticut Planning Region,Census-designated place,41.26784,-73.443369,1
+CT,0907345,place:CT:0907345,Branford Center CDP,Branford Center,Branford Center,09170,South Central Connecticut Planning Region,Census-designated place,41.277654,-72.816095,1
+CT,0908000,place:CT:0908000,Bridgeport city,Bridgeport,Bridgeport,09120,Greater Bridgeport Planning Region,Incorporated place,41.187393,-73.195757,1
+CT,0908140,place:CT:0908140,Bridgewater CDP,Bridgewater,Bridgewater,09190,Western Connecticut Planning Region,Census-designated place,41.534781,-73.364582,1
+CT,0908420,place:CT:0908420,Bristol city,Bristol,Bristol,09140,Naugatuck Valley Planning Region,Incorporated place,41.681578,-72.940749,1
+CT,0908770,place:CT:0908770,Broad Brook CDP,Broad Brook,Broad Brook,09110,Capitol Planning Region,Census-designated place,41.911153,-72.541127,1
+CT,0909050,place:CT:0909050,Brookfield Center CDP,Brookfield Center,Brookfield Center,09190,Western Connecticut Planning Region,Census-designated place,41.462362,-73.387528,0
+CT,0909120,place:CT:0909120,Brooklyn CDP,Brooklyn,Brooklyn,09150,Northeastern Connecticut Planning Region,Census-designated place,41.789746,-71.954775,1
+CT,0910660,place:CT:0910660,Byram CDP,Byram,Byram,09190,Western Connecticut Planning Region,Census-designated place,41.001096,-73.65412,1
+CT,0910870,place:CT:0910870,Canaan CDP,Canaan,Canaan,09160,Northwest Hills Planning Region,Census-designated place,42.04011,-73.332883,1
+CT,0911360,place:CT:0911360,Candlewood Isle CDP,Candlewood Isle,Candlewood Isle,09190,Western Connecticut Planning Region,Census-designated place,41.488531,-73.453284,1
+CT,0911430,place:CT:0911430,Candlewood Knolls CDP,Candlewood Knolls,Candlewood Knolls,09190,Western Connecticut Planning Region,Census-designated place,41.479055,-73.463613,1
+CT,0911500,place:CT:0911500,Candlewood Lake Club CDP,Candlewood Lake Club,Candlewood Lake Club,09190,Western Connecticut Planning Region,Census-designated place,41.493143,-73.436793,1
+CT,0911640,place:CT:0911640,Candlewood Orchards CDP,Candlewood Orchards,Candlewood Orchards,09190,Western Connecticut Planning Region,Census-designated place,41.471615,-73.4373,1
+CT,0911780,place:CT:0911780,Candlewood Shores CDP,Candlewood Shores,Candlewood Shores,09190,Western Connecticut Planning Region,Census-designated place,41.480054,-73.438045,1
+CT,0911990,place:CT:0911990,Cannondale CDP,Cannondale,Cannondale,09190,Western Connecticut Planning Region,Census-designated place,41.216158,-73.425264,1
+CT,0912370,place:CT:0912370,Canton Valley CDP,Canton Valley,Canton Valley,09110,Capitol Planning Region,Census-designated place,41.831557,-72.897743,1
+CT,0914200,place:CT:0914200,Cheshire Village CDP,Cheshire Village,Cheshire Village,09140,Naugatuck Valley Planning Region,Census-designated place,41.50409,-72.89687,1
+CT,0914370,place:CT:0914370,Chester Center CDP,Chester Center,Chester Center,09130,Lower Connecticut River Valley Planning Region,Census-designated place,41.403012,-72.456949,1
+CT,0914615,place:CT:0914615,Chimney Point CDP,Chimney Point,Chimney Point,09190,Western Connecticut Planning Region,Census-designated place,41.501502,-73.441426,1
+CT,0915420,place:CT:0915420,Clinton CDP,Clinton,Clinton,09130,Lower Connecticut River Valley Planning Region,Census-designated place,41.276405,-72.529,1
+CT,0915840,place:CT:0915840,Colchester CDP,Colchester,Colchester,09180,Southeastern Connecticut Planning Region,Census-designated place,41.577592,-72.332742,1
+CT,0916085,place:CT:0916085,Coleytown CDP,Coleytown,Coleytown,09190,Western Connecticut Planning Region,Census-designated place,41.176904,-73.343358,1
+CT,0916120,place:CT:0916120,Collinsville CDP,Collinsville,Collinsville,09110,Capitol Planning Region,Census-designated place,41.820316,-72.922946,1
+CT,0916525,place:CT:0916525,Compo CDP,Compo,Compo,09190,Western Connecticut Planning Region,Census-designated place,41.122758,-73.351528,1
+CT,0916960,place:CT:0916960,Conning Towers-Nautilus Park CDP,Conning Towers-Nautilus Park,Conning Towers-Nautilus Park,09180,Southeastern Connecticut Planning Region,Census-designated place,41.389239,-72.063784,1
+CT,0917170,place:CT:0917170,Cornwall CDP,Cornwall,Cornwall,09160,Northwest Hills Planning Region,Census-designated place,41.844322,-73.332672,1
+CT,0917310,place:CT:0917310,Cornwall Bridge CDP,Cornwall Bridge,Cornwall Bridge,09160,Northwest Hills Planning Region,Census-designated place,41.808298,-73.382044,1
+CT,0917520,place:CT:0917520,Cos Cob CDP,Cos Cob,Cos Cob,09190,Western Connecticut Planning Region,Census-designated place,41.048137,-73.592114,1
+CT,0917835,place:CT:0917835,Coventry Lake CDP,Coventry Lake,Coventry Lake,09110,Capitol Planning Region,Census-designated place,41.779173,-72.334021,1
+CT,0918220,place:CT:0918220,Crystal Lake CDP,Crystal Lake,Crystal Lake,09110,Capitol Planning Region,Census-designated place,41.932939,-72.381303,1
+CT,0918430,place:CT:0918430,Danbury city,Danbury,Danbury,09190,Western Connecticut Planning Region,Incorporated place,41.398741,-73.478103,1
+CT,0918675,place:CT:0918675,Daniels Farm CDP,Daniels Farm,Daniels Farm,09120,Greater Bridgeport Planning Region,Census-designated place,41.276903,-73.212263,1
+CT,0918780,place:CT:0918780,Danielson borough,Danielson,Danielson,09150,Northeastern Connecticut Planning Region,Incorporated place,41.810392,-71.885718,1
+CT,0918936,place:CT:0918936,Darien Downtown CDP,Darien Downtown,Darien Downtown,09190,Western Connecticut Planning Region,Census-designated place,41.076738,-73.469669,1
+CT,0918990,place:CT:0918990,Dayville CDP,Dayville,Dayville,09150,Northeastern Connecticut Planning Region,Census-designated place,41.844223,-71.882391,1
+CT,0919200,place:CT:0919200,Deep River Center CDP,Deep River Center,Deep River Center,09130,Lower Connecticut River Valley Planning Region,Census-designated place,41.374732,-72.434571,1
+CT,0919480,place:CT:0919480,Derby city,Derby,Derby,09140,Naugatuck Valley Planning Region,Incorporated place,41.326124,-73.082574,1
+CT,0920250,place:CT:0920250,Dodgingtown CDP,Dodgingtown,Dodgingtown,09190,Western Connecticut Planning Region,Census-designated place,41.379765,-73.352369,1
+CT,0920740,place:CT:0920740,Durham CDP,Durham,Durham,09130,Lower Connecticut River Valley Planning Region,Census-designated place,41.468922,-72.684525,1
+CT,0921160,place:CT:0921160,East Brooklyn CDP,East Brooklyn,East Brooklyn,09150,Northeastern Connecticut Planning Region,Census-designated place,41.792088,-71.906384,1
+CT,0922420,place:CT:0922420,East Hampton CDP,East Hampton,East Hampton,09130,Lower Connecticut River Valley Planning Region,Census-designated place,41.573833,-72.484941,1
+CT,0922700,place:CT:0922700,East Hartford CDP,East Hartford,East Hartford,09110,Capitol Planning Region,Census-designated place,41.760695,-72.607646,1
+CT,0922980,place:CT:0922980,East Haven CDP,East Haven,East Haven,09170,South Central Connecticut Planning Region,Census-designated place,41.293069,-72.858094,1
+CT,0924520,place:CT:0924520,East Village CDP,East Village,East Village,09120,Greater Bridgeport Planning Region,Census-designated place,41.36044,-73.186534,1
+CT,0926370,place:CT:0926370,Essex Village CDP,Essex Village,Essex Village,09130,Lower Connecticut River Valley Planning Region,Census-designated place,41.356648,-72.393538,1
+CT,0926698,place:CT:0926698,Fairfield University CDP,Fairfield University,Fairfield University,09120,Greater Bridgeport Planning Region,Census-designated place,41.158953,-73.257057,1
+CT,0927390,place:CT:0927390,Falls Village CDP,Falls Village,Falls Village,09160,Northwest Hills Planning Region,Census-designated place,41.957627,-73.356208,1
+CT,0927810,place:CT:0927810,Fenwick borough,Fenwick,Fenwick,09130,Lower Connecticut River Valley Planning Region,Incorporated place,41.27107,-72.354585,1
+CT,0930190,place:CT:0930190,Gales Ferry CDP,Gales Ferry,Gales Ferry,09180,Southeastern Connecticut Planning Region,Census-designated place,41.421722,-72.084501,1
+CT,0930470,place:CT:0930470,Gaylordsville CDP,Gaylordsville,Gaylordsville,09190,Western Connecticut Planning Region,Census-designated place,41.641723,-73.48096,1
+CT,0930540,place:CT:0930540,Georgetown CDP,Georgetown,Georgetown,09190,Western Connecticut Planning Region,Census-designated place,41.241985,-73.435673,1
+CT,0931270,place:CT:0931270,Glastonbury Center CDP,Glastonbury Center,Glastonbury Center,09110,Capitol Planning Region,Census-designated place,41.700672,-72.599416,1
+CT,0931520,place:CT:0931520,Glenville CDP,Glenville,Glenville,09190,Western Connecticut Planning Region,Census-designated place,41.035221,-73.664156,1
+CT,0933480,place:CT:0933480,Greens Farms CDP,Greens Farms,Greens Farms,09190,Western Connecticut Planning Region,Census-designated place,41.124096,-73.322685,1
+CT,0933690,place:CT:0933690,Greenwich CDP,Greenwich,Greenwich,09190,Western Connecticut Planning Region,Census-designated place,41.027773,-73.626931,1
+CT,0934180,place:CT:0934180,Groton city,Groton,Groton,09180,Southeastern Connecticut Planning Region,Incorporated place,41.32492,-72.066853,1
+CT,0934460,place:CT:0934460,Groton Long Point borough,Groton Long Point,Groton Long Point,09180,Southeastern Connecticut Planning Region,Incorporated place,41.314186,-72.010155,1
+CT,0935020,place:CT:0935020,Guilford Center CDP,Guilford Center,Guilford Center,09170,South Central Connecticut Planning Region,Census-designated place,41.280512,-72.676216,1
+CT,0937000,place:CT:0937000,Hartford city,Hartford,Hartford,09110,Capitol Planning Region,Incorporated place,41.765933,-72.681579,1
+CT,0937490,place:CT:0937490,Hawleyville CDP,Hawleyville,Hawleyville,09190,Western Connecticut Planning Region,Census-designated place,41.428912,-73.350443,1
+CT,0937770,place:CT:0937770,Hazardville CDP,Hazardville,Hazardville,09110,Capitol Planning Region,Census-designated place,41.990889,-72.532044,1
+CT,0937930,place:CT:0937930,Heritage Village CDP,Heritage Village,Heritage Village,09140,Naugatuck Valley Planning Region,Census-designated place,41.485917,-73.233294,1
+CT,0938050,place:CT:0938050,Higganum CDP,Higganum,Higganum,09130,Lower Connecticut River Valley Planning Region,Census-designated place,41.490703,-72.557768,1
+CT,0939695,place:CT:0939695,Indian Field CDP,Indian Field,Indian Field,09190,Western Connecticut Planning Region,Census-designated place,41.015361,-73.610775,1
+CT,0939747,place:CT:0939747,Inglenook CDP,Inglenook,Inglenook,09190,Western Connecticut Planning Region,Census-designated place,41.523066,-73.473539,1
+CT,0939940,place:CT:0939940,Jewett City borough,Jewett City,Jewett City,09180,Southeastern Connecticut Planning Region,Incorporated place,41.607198,-71.979807,1
+CT,0940077,place:CT:0940077,Kellogg Point CDP,Kellogg Point,Kellogg Point,09190,Western Connecticut Planning Region,Census-designated place,41.46819,-73.459889,1
+CT,0940150,place:CT:0940150,Kensington CDP,Kensington,Kensington,09110,Capitol Planning Region,Census-designated place,41.625618,-72.768722,1
+CT,0940920,place:CT:0940920,Knollcrest CDP,Knollcrest,Knollcrest,09190,Western Connecticut Planning Region,Census-designated place,41.501191,-73.466875,1
+CT,0941226,place:CT:0941226,Lake Bungee CDP,Lake Bungee,Lake Bungee,09150,Northeastern Connecticut Planning Region,Census-designated place,41.953766,-72.062447,1
+CT,0941238,place:CT:0941238,Lake Chaffee CDP,Lake Chaffee,Lake Chaffee,09150,Northeastern Connecticut Planning Region,Census-designated place,41.940664,-72.194621,1
+CT,0941410,place:CT:0941410,Lake Pocotopaug CDP,Lake Pocotopaug,Lake Pocotopaug,09130,Lower Connecticut River Valley Planning Region,Census-designated place,41.59072,-72.507955,1
+CT,0941585,place:CT:0941585,Lakes East CDP,Lakes East,Lakes East,09190,Western Connecticut Planning Region,Census-designated place,41.330675,-73.492539,1
+CT,0941736,place:CT:0941736,Lakes West CDP,Lakes West,Lakes West,09190,Western Connecticut Planning Region,Census-designated place,41.336318,-73.51194,1
+CT,0941714,place:CT:0941714,Lakeside Woods CDP,Lakeside Woods,Lakeside Woods,09190,Western Connecticut Planning Region,Census-designated place,41.554808,-73.484017,1
+CT,0941830,place:CT:0941830,Lakeville CDP,Lakeville,Lakeville,09160,Northwest Hills Planning Region,Census-designated place,41.962472,-73.446987,1
+CT,0943300,place:CT:0943300,Litchfield borough,Litchfield,Litchfield,09160,Northwest Hills Planning Region,Incorporated place,41.745704,-73.189238,1
+CT,0943580,place:CT:0943580,Long Hill CDP,Long Hill,"Long Hill, Greater Bridgeport Planning Region",09120,Greater Bridgeport Planning Region,Census-designated place,41.266595,-73.228362,1
+CT,0943790,place:CT:0943790,Long Hill CDP,Long Hill,"Long Hill, Southeastern Connecticut Planning Region",09180,Southeastern Connecticut Planning Region,Census-designated place,41.350049,-72.048732,1
+CT,0944000,place:CT:0944000,Lordship CDP,Lordship,Lordship,09120,Greater Bridgeport Planning Region,Census-designated place,41.153023,-73.114229,1
+CT,0944630,place:CT:0944630,Madison Center CDP,Madison Center,Madison Center,09170,South Central Connecticut Planning Region,Census-designated place,41.280223,-72.602272,1
+CT,0944660,place:CT:0944660,Mamanasco Lake CDP,Mamanasco Lake,Mamanasco Lake,09190,Western Connecticut Planning Region,Census-designated place,41.318172,-73.529803,1
+CT,0944690,place:CT:0944690,Manchester CDP,Manchester,Manchester,09110,Capitol Planning Region,Census-designated place,41.77963,-72.520157,1
+CT,0945120,place:CT:0945120,Mansfield Center CDP,Mansfield Center,Mansfield Center,09110,Capitol Planning Region,Census-designated place,41.767096,-72.186865,1
+CT,0945995,place:CT:0945995,Mashantucket CDP,Mashantucket,Mashantucket,09180,Southeastern Connecticut Planning Region,Census-designated place,41.464443,-71.974802,1
+CT,0946240,place:CT:0946240,Mechanicsville CDP,Mechanicsville,Mechanicsville,09150,Northeastern Connecticut Planning Region,Census-designated place,41.950635,-71.885443,1
+CT,0946450,place:CT:0946450,Meriden city,Meriden,Meriden,09170,South Central Connecticut Planning Region,Incorporated place,41.536777,-72.794543,1
+CT,0947290,place:CT:0947290,Middletown city,Middletown,Middletown,09130,Lower Connecticut River Valley Planning Region,Incorporated place,41.548611,-72.656784,1
+CT,0947515,place:CT:0947515,Milford city (balance),Milford,Milford,09170,South Central Connecticut Planning Region,Incorporated place,41.223644,-73.064563,1
+CT,0947990,place:CT:0947990,Mill Plain CDP,Mill Plain,Mill Plain,09120,Greater Bridgeport Planning Region,Census-designated place,41.15598,-73.269199,1
+CT,0949110,place:CT:0949110,Moodus CDP,Moodus,Moodus,09130,Lower Connecticut River Valley Planning Region,Census-designated place,41.501784,-72.435228,1
+CT,0949180,place:CT:0949180,Moosup CDP,Moosup,Moosup,09150,Northeastern Connecticut Planning Region,Census-designated place,41.716992,-71.875223,1
+CT,0949720,place:CT:0949720,Murray CDP,Murray,Murray,09120,Greater Bridgeport Planning Region,Census-designated place,41.197407,-73.289525,1
+CT,0949810,place:CT:0949810,Mystic CDP,Mystic,Mystic,09180,Southeastern Connecticut Planning Region,Census-designated place,41.354077,-71.956901,1
+CT,0949880,place:CT:0949880,Naugatuck borough,Naugatuck,Naugatuck,09140,Naugatuck Valley Planning Region,Incorporated place,41.487785,-73.051551,1
+CT,0950370,place:CT:0950370,New Britain city,New Britain,New Britain,09110,Capitol Planning Region,Incorporated place,41.676555,-72.786161,1
+CT,0950576,place:CT:0950576,New Canaan CDP,New Canaan,New Canaan,09190,Western Connecticut Planning Region,Census-designated place,41.141703,-73.490141,1
+CT,0951420,place:CT:0951420,New Hartford Center CDP,New Hartford Center,New Hartford Center,09160,Northwest Hills Planning Region,Census-designated place,41.88089,-72.972828,1
+CT,0952000,place:CT:0952000,New Haven city,New Haven,New Haven,09170,South Central Connecticut Planning Region,Incorporated place,41.310809,-72.924953,1
+CT,0952280,place:CT:0952280,New London city,New London,New London,09180,Southeastern Connecticut Planning Region,Incorporated place,41.332957,-72.096176,1
+CT,0952560,place:CT:0952560,New Milford CDP,New Milford,New Milford,09190,Western Connecticut Planning Region,Census-designated place,41.580295,-73.403934,1
+CT,0952770,place:CT:0952770,New Preston CDP,New Preston,New Preston,09160,Northwest Hills Planning Region,Census-designated place,41.691307,-73.334403,1
+CT,0952210,place:CT:0952210,Newington CDP,Newington,Newington,09110,Capitol Planning Region,Census-designated place,41.686993,-72.730839,1
+CT,0952910,place:CT:0952910,Newtown borough,Newtown,Newtown,09190,Western Connecticut Planning Region,Incorporated place,41.411897,-73.31195,1
+CT,0953120,place:CT:0953120,Niantic CDP,Niantic,Niantic,,,Census-designated place,41.314158,-72.202147,1
+CT,0953260,place:CT:0953260,Noank CDP,Noank,Noank,09180,Southeastern Connecticut Planning Region,Census-designated place,41.337502,-71.997557,1
+CT,0953400,place:CT:0953400,Norfolk CDP,Norfolk,Norfolk,09160,Northwest Hills Planning Region,Census-designated place,41.991706,-73.194041,1
+CT,0953540,place:CT:0953540,Noroton CDP,Noroton,Noroton,09190,Western Connecticut Planning Region,Census-designated place,41.058356,-73.490526,1
+CT,0953610,place:CT:0953610,Noroton Heights CDP,Noroton Heights,Noroton Heights,09190,Western Connecticut Planning Region,Census-designated place,41.074091,-73.497221,1
+CT,0954660,place:CT:0954660,North Granby CDP,North Granby,North Granby,09110,Capitol Planning Region,Census-designated place,42.015989,-72.843177,1
+CT,0954730,place:CT:0954730,North Grosvenor Dale CDP,North Grosvenor Dale,North Grosvenor Dale,09150,Northeastern Connecticut Planning Region,Census-designated place,41.986235,-71.903336,1
+CT,0954940,place:CT:0954940,North Haven CDP,North Haven,North Haven,09170,South Central Connecticut Planning Region,Census-designated place,41.381466,-72.856371,1
+CT,0954450,place:CT:0954450,Northford CDP,Northford,Northford,09170,South Central Connecticut Planning Region,Census-designated place,41.395355,-72.782824,1
+CT,0955725,place:CT:0955725,Northwest Harwinton CDP,Northwest Harwinton,Northwest Harwinton,09160,Northwest Hills Planning Region,Census-designated place,41.776446,-73.079487,1
+CT,0955990,place:CT:0955990,Norwalk city,Norwalk,Norwalk,09190,Western Connecticut Planning Region,Incorporated place,41.092739,-73.419796,1
+CT,0956200,place:CT:0956200,Norwich city,Norwich,Norwich,09180,Southeastern Connecticut Planning Region,Incorporated place,41.548006,-72.089454,1
+CT,0956690,place:CT:0956690,Oakville CDP,Oakville,Oakville,09140,Naugatuck Valley Planning Region,Census-designated place,41.588972,-73.090475,1
+CT,0956900,place:CT:0956900,Old Greenwich CDP,Old Greenwich,Old Greenwich,09190,Western Connecticut Planning Region,Census-designated place,41.019242,-73.56667,1
+CT,0956935,place:CT:0956935,Old Hill CDP,Old Hill,Old Hill,09190,Western Connecticut Planning Region,Census-designated place,41.150285,-73.379225,1
+CT,0957180,place:CT:0957180,Old Mystic CDP,Old Mystic,Old Mystic,09180,Southeastern Connecticut Planning Region,Census-designated place,41.383632,-71.986246,1
+CT,0957390,place:CT:0957390,Old Saybrook Center CDP,Old Saybrook Center,Old Saybrook Center,09130,Lower Connecticut River Valley Planning Region,Census-designated place,41.285761,-72.35498,1
+CT,0957670,place:CT:0957670,Orange CDP,Orange,Orange,09170,South Central Connecticut Planning Region,Census-designated place,41.284951,-73.024637,1
+CT,0957880,place:CT:0957880,Oronoque CDP,Oronoque,Oronoque,09120,Greater Bridgeport Planning Region,Census-designated place,41.259164,-73.110639,1
+CT,0958520,place:CT:0958520,Oxoboxo River CDP,Oxoboxo River,Oxoboxo River,09180,Southeastern Connecticut Planning Region,Census-designated place,41.445085,-72.127251,1
+CT,0959140,place:CT:0959140,Pawcatuck CDP,Pawcatuck,Pawcatuck,09180,Southeastern Connecticut Planning Region,Census-designated place,41.37389,-71.856422,1
+CT,0959210,place:CT:0959210,Pemberwick CDP,Pemberwick,Pemberwick,09190,Western Connecticut Planning Region,Census-designated place,41.018562,-73.656305,1
+CT,0960090,place:CT:0960090,Plainfield Village CDP,Plainfield Village,Plainfield Village,09150,Northeastern Connecticut Planning Region,Census-designated place,41.675183,-71.924707,1
+CT,0960260,place:CT:0960260,Plantsville CDP,Plantsville,Plantsville,09110,Capitol Planning Region,Census-designated place,41.583161,-72.89185,1
+CT,0960365,place:CT:0960365,Plattsville CDP,Plattsville,Plattsville,09120,Greater Bridgeport Planning Region,Census-designated place,41.225936,-73.259096,1
+CT,0960540,place:CT:0960540,Pleasant Valley CDP,Pleasant Valley,Pleasant Valley,09160,Northwest Hills Planning Region,Census-designated place,41.908327,-72.992311,1
+CT,0961555,place:CT:0961555,Poplar Plains CDP,Poplar Plains,Poplar Plains,09190,Western Connecticut Planning Region,Census-designated place,41.168872,-73.378238,1
+CT,0961730,place:CT:0961730,Poquonock Bridge CDP,Poquonock Bridge,Poquonock Bridge,09180,Southeastern Connecticut Planning Region,Census-designated place,41.336219,-72.012606,1
+CT,0961870,place:CT:0961870,Portland CDP,Portland,Portland,09130,Lower Connecticut River Valley Planning Region,Census-designated place,41.577392,-72.619791,1
+CT,0962640,place:CT:0962640,Putnam CDP,Putnam,Putnam,09150,Northeastern Connecticut Planning Region,Census-designated place,41.916752,-71.910703,1
+CT,0963165,place:CT:0963165,Quasset Lake CDP,Quasset Lake,Quasset Lake,09150,Northeastern Connecticut Planning Region,Census-designated place,41.922298,-71.981379,1
+CT,0963270,place:CT:0963270,Quinebaug CDP,Quinebaug,Quinebaug,09150,Northeastern Connecticut Planning Region,Census-designated place,42.012186,-71.934433,1
+CT,0963313,place:CT:0963313,Quinnipiac University CDP,Quinnipiac University,Quinnipiac University,09170,South Central Connecticut Planning Region,Census-designated place,41.420102,-72.893614,1
+CT,0963620,place:CT:0963620,Redding Center CDP,Redding Center,Redding Center,09190,Western Connecticut Planning Region,Census-designated place,41.306663,-73.383024,1
+CT,0963830,place:CT:0963830,Ridgebury CDP,Ridgebury,Ridgebury,09190,Western Connecticut Planning Region,Census-designated place,41.356765,-73.535893,1
+CT,0963900,place:CT:0963900,Ridgefield CDP,Ridgefield,Ridgefield,09190,Western Connecticut Planning Region,Census-designated place,41.269688,-73.492611,1
+CT,0964530,place:CT:0964530,Riverside CDP,Riverside,Riverside,09190,Western Connecticut Planning Region,Census-designated place,41.030093,-73.583719,1
+CT,0964880,place:CT:0964880,Riverton CDP,Riverton,Riverton,09160,Northwest Hills Planning Region,Census-designated place,41.963141,-73.016558,1
+CT,0965160,place:CT:0965160,Rock Ridge CDP,Rock Ridge,Rock Ridge,09190,Western Connecticut Planning Region,Census-designated place,41.03442,-73.648396,1
+CT,0965230,place:CT:0965230,Rockville CDP,Rockville,Rockville,09110,Capitol Planning Region,Census-designated place,41.866519,-72.45127,1
+CT,0965685,place:CT:0965685,Route 7 Gateway CDP,Route 7 Gateway,Route 7 Gateway,09190,Western Connecticut Planning Region,Census-designated place,41.318764,-73.475382,1
+CT,0966086,place:CT:0966086,Sacred Heart University CDP,Sacred Heart University,Sacred Heart University,09120,Greater Bridgeport Planning Region,Census-designated place,41.22148,-73.2442,1
+CT,0966113,place:CT:0966113,Sail Harbor CDP,Sail Harbor,Sail Harbor,09190,Western Connecticut Planning Region,Census-designated place,41.52419,-73.464234,1
+CT,0966455,place:CT:0966455,Salmon Brook CDP,Salmon Brook,Salmon Brook,09110,Capitol Planning Region,Census-designated place,41.957486,-72.791896,1
+CT,0966700,place:CT:0966700,Sandy Hook CDP,Sandy Hook,Sandy Hook,09190,Western Connecticut Planning Region,Census-designated place,41.409,-73.24263,1
+CT,0966770,place:CT:0966770,Saugatuck CDP,Saugatuck,Saugatuck,09190,Western Connecticut Planning Region,Census-designated place,41.112131,-73.368771,1
+CT,0967050,place:CT:0967050,Saybrook Manor CDP,Saybrook Manor,Saybrook Manor,09130,Lower Connecticut River Valley Planning Region,Census-designated place,41.283332,-72.406589,1
+CT,0967890,place:CT:0967890,Sharon CDP,Sharon,Sharon,09160,Northwest Hills Planning Region,Census-designated place,41.879026,-73.46163,1
+CT,0968100,place:CT:0968100,Shelton city,Shelton,Shelton,09140,Naugatuck Valley Planning Region,Incorporated place,41.304577,-73.139215,1
+CT,0968240,place:CT:0968240,Sherman CDP,Sherman,Sherman,09190,Western Connecticut Planning Region,Census-designated place,41.572108,-73.495064,1
+CT,0968450,place:CT:0968450,Sherwood Manor CDP,Sherwood Manor,Sherwood Manor,09110,Capitol Planning Region,Census-designated place,42.011167,-72.567378,1
+CT,0969010,place:CT:0969010,Simsbury Center CDP,Simsbury Center,Simsbury Center,09110,Capitol Planning Region,Census-designated place,41.880139,-72.805945,1
+CT,0969150,place:CT:0969150,Somers CDP,Somers,Somers,09110,Capitol Planning Region,Census-designated place,41.991685,-72.445123,1
+CT,0969990,place:CT:0969990,South Coventry CDP,South Coventry,South Coventry,09110,Capitol Planning Region,Census-designated place,41.756752,-72.301731,1
+CT,0971215,place:CT:0971215,South Wilton CDP,South Wilton,South Wilton,09190,Western Connecticut Planning Region,Census-designated place,41.16836,-73.417865,1
+CT,0971250,place:CT:0971250,South Windham CDP,South Windham,South Windham,09180,Southeastern Connecticut Planning Region,Census-designated place,41.684189,-72.182474,1
+CT,0971530,place:CT:0971530,South Woodstock CDP,South Woodstock,South Woodstock,09150,Northeastern Connecticut Planning Region,Census-designated place,41.929585,-71.955645,1
+CT,0971040,place:CT:0971040,Southport CDP,Southport,Southport,09120,Greater Bridgeport Planning Region,Census-designated place,41.13494,-73.287125,1
+CT,0971460,place:CT:0971460,Southwood Acres CDP,Southwood Acres,Southwood Acres,09110,Capitol Planning Region,Census-designated place,41.958197,-72.57264,1
+CT,0972300,place:CT:0972300,Stafford Springs CDP,Stafford Springs,Stafford Springs,09110,Capitol Planning Region,Census-designated place,41.967856,-72.306381,1
+CT,0973000,place:CT:0973000,Stamford city,Stamford,Stamford,09190,Western Connecticut Planning Region,Incorporated place,41.079615,-73.546144,1
+CT,0973175,place:CT:0973175,Staples CDP,Staples,Staples,09190,Western Connecticut Planning Region,Census-designated place,41.155368,-73.325628,1
+CT,0973280,place:CT:0973280,Stepney CDP,Stepney,Stepney,09120,Greater Bridgeport Planning Region,Census-designated place,41.324356,-73.268391,1
+CT,0973700,place:CT:0973700,Stonington borough,Stonington,Stonington,,,Incorporated place,41.330628,-71.895417,1
+CT,0973980,place:CT:0973980,Storrs CDP,Storrs,Storrs,09110,Capitol Planning Region,Census-designated place,41.808533,-72.250719,1
+CT,0974303,place:CT:0974303,Stratford Downtown CDP,Stratford Downtown,Stratford Downtown,09120,Greater Bridgeport Planning Region,Census-designated place,41.198849,-73.12767,1
+CT,0974655,place:CT:0974655,Suffield Depot CDP,Suffield Depot,Suffield Depot,09110,Capitol Planning Region,Census-designated place,41.985125,-72.639452,1
+CT,0975100,place:CT:0975100,Tariffville CDP,Tariffville,Tariffville,09110,Capitol Planning Region,Census-designated place,41.907559,-72.76818,1
+CT,0975116,place:CT:0975116,Tashua CDP,Tashua,Tashua,09120,Greater Bridgeport Planning Region,Census-designated place,41.275019,-73.254445,1
+CT,0975065,place:CT:0975065,Taylor Corners CDP,Taylor Corners,Taylor Corners,09190,Western Connecticut Planning Region,Census-designated place,41.446413,-73.528687,1
+CT,0975200,place:CT:0975200,Terramuggus CDP,Terramuggus,Terramuggus,09110,Capitol Planning Region,Census-designated place,41.633568,-72.471824,1
+CT,0975240,place:CT:0975240,Terryville CDP,Terryville,Terryville,09140,Naugatuck Valley Planning Region,Census-designated place,41.677712,-73.008321,1
+CT,0975660,place:CT:0975660,Thomaston CDP,Thomaston,Thomaston,09140,Naugatuck Valley Planning Region,Census-designated place,41.677173,-73.083186,1
+CT,0975940,place:CT:0975940,Thompsonville CDP,Thompsonville,Thompsonville,09110,Capitol Planning Region,Census-designated place,41.99214,-72.596522,1
+CT,0976150,place:CT:0976150,Tokeneke CDP,Tokeneke,Tokeneke,,,Census-designated place,41.056886,-73.465108,1
+CT,0976400,place:CT:0976400,Topstone CDP,Topstone,Topstone,09190,Western Connecticut Planning Region,Census-designated place,41.296308,-73.44657,1
+CT,0976500,place:CT:0976500,Torrington city,Torrington,Torrington,09160,Northwest Hills Planning Region,Incorporated place,41.83414,-73.13138,1
+CT,0977278,place:CT:0977278,Trumbull Center CDP,Trumbull Center,Trumbull Center,09120,Greater Bridgeport Planning Region,Census-designated place,41.242508,-73.183733,1
+CT,0978880,place:CT:0978880,Wallingford Center CDP,Wallingford Center,Wallingford Center,09170,South Central Connecticut Planning Region,Census-designated place,41.450038,-72.818568,1
+CT,0980000,place:CT:0980000,Waterbury city,Waterbury,Waterbury,09140,Naugatuck Valley Planning Region,Incorporated place,41.5585,-73.036685,1
+CT,0980210,place:CT:0980210,Waterford CDP,Waterford,Waterford,09180,Southeastern Connecticut Planning Region,Census-designated place,41.346273,-72.129342,1
+CT,0980420,place:CT:0980420,Watertown CDP,Watertown,Watertown,09140,Naugatuck Valley Planning Region,Census-designated place,41.601155,-73.121468,1
+CT,0980630,place:CT:0980630,Wauregan CDP,Wauregan,Wauregan,09150,Northeastern Connecticut Planning Region,Census-designated place,41.750474,-71.914862,1
+CT,0980770,place:CT:0980770,Weatogue CDP,Weatogue,Weatogue,09110,Capitol Planning Region,Census-designated place,41.847129,-72.827351,1
+CT,0982030,place:CT:0982030,West Cornwall CDP,West Cornwall,West Cornwall,09160,Northwest Hills Planning Region,Census-designated place,41.864205,-73.360788,1
+CT,0982660,place:CT:0982660,West Hartford CDP,West Hartford,West Hartford,09110,Capitol Planning Region,Census-designated place,41.766568,-72.754944,1
+CT,0982800,place:CT:0982800,West Haven city,West Haven,West Haven,09170,South Central Connecticut Planning Region,Incorporated place,41.272121,-72.967497,1
+CT,0983045,place:CT:0983045,West Mountain CDP,West Mountain,West Mountain,09190,Western Connecticut Planning Region,Census-designated place,41.299289,-73.542702,1
+CT,0983990,place:CT:0983990,West Simsbury CDP,West Simsbury,West Simsbury,09110,Capitol Planning Region,Census-designated place,41.87573,-72.845071,1
+CT,0981750,place:CT:0981750,Westbrook Center CDP,Westbrook Center,Westbrook Center,09130,Lower Connecticut River Valley Planning Region,Census-designated place,41.281404,-72.442347,1
+CT,0983360,place:CT:0983360,Weston CDP,Weston,Weston,09190,Western Connecticut Planning Region,Census-designated place,41.203236,-73.378781,1
+CT,0983586,place:CT:0983586,Westport Village CDP,Westport Village,Westport Village,09190,Western Connecticut Planning Region,Census-designated place,41.143351,-73.360253,1
+CT,0984970,place:CT:0984970,Wethersfield CDP,Wethersfield,Wethersfield,09110,Capitol Planning Region,Census-designated place,41.702561,-72.669749,1
+CT,0985810,place:CT:0985810,Willimantic CDP,Willimantic,Willimantic,09180,Southeastern Connecticut Planning Region,Census-designated place,41.716557,-72.211733,1
+CT,0986380,place:CT:0986380,Wilton Center CDP,Wilton Center,Wilton Center,09190,Western Connecticut Planning Region,Census-designated place,41.191279,-73.426163,1
+CT,0987140,place:CT:0987140,Windsor Locks CDP,Windsor Locks,Windsor Locks,09110,Capitol Planning Region,Census-designated place,41.929761,-72.657961,1
+CT,0987350,place:CT:0987350,Winsted CDP,Winsted,Winsted,09160,Northwest Hills Planning Region,Census-designated place,41.925848,-73.067543,1
+CT,0987455,place:CT:0987455,Witches Woods CDP,Witches Woods,Witches Woods,09150,Northeastern Connecticut Planning Region,Census-designated place,41.946406,-72.074233,1
+CT,0987980,place:CT:0987980,Woodbury Center CDP,Woodbury Center,Woodbury Center,09140,Naugatuck Valley Planning Region,Census-designated place,41.54387,-73.204857,1
+CT,0988050,place:CT:0988050,Woodmont borough,Woodmont,Woodmont,09170,South Central Connecticut Planning Region,Incorporated place,41.224407,-72.992282,1

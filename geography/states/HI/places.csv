@@ -1,0 +1,164 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+HI,1500400,place:HI:1500400,Ahuimanu CDP,Ahuimanu,Ahuimanu,15003,Honolulu County,Census-designated place,21.437891,-157.84033,1
+HI,1500550,place:HI:1500550,Aiea CDP,Aiea,Aiea,15003,Honolulu County,Census-designated place,21.385262,-157.92475,1
+HI,1501085,place:HI:1501085,Ainaloa CDP,Ainaloa,Ainaloa,15001,Hawaii County,Census-designated place,19.521477,-154.994378,1
+HI,1502200,place:HI:1502200,Anahola CDP,Anahola,Anahola,15007,Kauai County,Census-designated place,22.145023,-159.31451,1
+HI,1502832,place:HI:1502832,Black Sands CDP,Black Sands,Black Sands,15001,Hawaii County,Census-designated place,19.41356,-154.958803,1
+HI,1503850,place:HI:1503850,Captain Cook CDP,Captain Cook,Captain Cook,15001,Hawaii County,Census-designated place,19.499545,-155.89368,1
+HI,1505900,place:HI:1505900,Discovery Harbour CDP,Discovery Harbour,Discovery Harbour,15001,Hawaii County,Census-designated place,19.041504,-155.625412,1
+HI,1506290,place:HI:1506290,East Honolulu CDP,East Honolulu,East Honolulu,15003,Honolulu County,Census-designated place,21.289092,-157.717468,1
+HI,1506300,place:HI:1506300,East Kapolei CDP,East Kapolei,East Kapolei,15003,Honolulu County,Census-designated place,21.363283,-158.040949,1
+HI,1506325,place:HI:1506325,Eden Roc CDP,Eden Roc,Eden Roc,15001,Hawaii County,Census-designated place,19.491749,-155.095784,1
+HI,1507000,place:HI:1507000,Eleele CDP,Eleele,Eleele,15007,Kauai County,Census-designated place,21.906044,-159.582766,1
+HI,1507450,place:HI:1507450,Ewa Beach CDP,Ewa Beach,Ewa Beach,15003,Honolulu County,Census-designated place,21.31274,-158.006114,1
+HI,1507470,place:HI:1507470,Ewa Gentry CDP,Ewa Gentry,Ewa Gentry,15003,Honolulu County,Census-designated place,21.33442,-158.026212,1
+HI,1507485,place:HI:1507485,Ewa Villages CDP,Ewa Villages,Ewa Villages,15003,Honolulu County,Census-designated place,21.341734,-158.038929,1
+HI,1507542,place:HI:1507542,Fern Acres CDP,Fern Acres,Fern Acres,15001,Hawaii County,Census-designated place,19.508223,-155.078544,1
+HI,1507675,place:HI:1507675,Fern Forest CDP,Fern Forest,Fern Forest,15001,Hawaii County,Census-designated place,19.464719,-155.13238,1
+HI,1508950,place:HI:1508950,Haena CDP,Haena,Haena,15007,Kauai County,Census-designated place,22.218503,-159.56109,1
+HI,1509260,place:HI:1509260,Haiku-Pauwela CDP,Haiku-Pauwela,Haiku-Pauwela,15009,Maui County,Census-designated place,20.920874,-156.301873,1
+HI,1509700,place:HI:1509700,Halaula CDP,Halaula,Halaula,15001,Hawaii County,Census-designated place,20.21709,-155.776538,1
+HI,1510000,place:HI:1510000,Halawa CDP,Halawa,Halawa,15003,Honolulu County,Census-designated place,21.375318,-157.918491,1
+HI,1510750,place:HI:1510750,Haleiwa CDP,Haleiwa,Haleiwa,15003,Honolulu County,Census-designated place,21.602384,-158.09564,1
+HI,1510900,place:HI:1510900,Haliimaile CDP,Haliimaile,Haliimaile,15009,Maui County,Census-designated place,20.860878,-156.330962,1
+HI,1511350,place:HI:1511350,Hana CDP,Hana,Hana,15009,Maui County,Census-designated place,20.774261,-156.013058,1
+HI,1511500,place:HI:1511500,Hanalei CDP,Hanalei,Hanalei,15007,Kauai County,Census-designated place,22.203847,-159.497738,1
+HI,1511650,place:HI:1511650,Hanamaulu CDP,Hanamaulu,Hanamaulu,15007,Kauai County,Census-designated place,21.99703,-159.347125,1
+HI,1511800,place:HI:1511800,Hanapepe CDP,Hanapepe,Hanapepe,15007,Kauai County,Census-designated place,21.91462,-159.585979,1
+HI,1512400,place:HI:1512400,Hauula CDP,Hauula,Hauula,15003,Honolulu County,Census-designated place,21.612048,-157.910886,1
+HI,1512450,place:HI:1512450,Hawaiian Acres CDP,Hawaiian Acres,Hawaiian Acres,15001,Hawaii County,Census-designated place,19.532458,-155.049706,1
+HI,1512500,place:HI:1512500,Hawaiian Beaches CDP,Hawaiian Beaches,Hawaiian Beaches,15001,Hawaii County,Census-designated place,19.544648,-154.928934,1
+HI,1512530,place:HI:1512530,Hawaiian Ocean View CDP,Hawaiian Ocean View,Hawaiian Ocean View,15001,Hawaii County,Census-designated place,19.095908,-155.774961,1
+HI,1512600,place:HI:1512600,Hawaiian Paradise Park CDP,Hawaiian Paradise Park,Hawaiian Paradise Park,15001,Hawaii County,Census-designated place,19.587281,-154.973069,1
+HI,1513600,place:HI:1513600,Hawi CDP,Hawi,Hawi,15001,Hawaii County,Census-designated place,20.227406,-155.839597,1
+HI,1513900,place:HI:1513900,Heeia CDP,Heeia,Heeia,15003,Honolulu County,Census-designated place,21.420222,-157.818885,1
+HI,1513970,place:HI:1513970,Helemano CDP,Helemano,Helemano,15003,Honolulu County,Census-designated place,21.536112,-158.01948,1
+HI,1514200,place:HI:1514200,Hickam Housing CDP,Hickam Housing,Hickam Housing,15003,Honolulu County,Census-designated place,21.330844,-157.954474,1
+HI,1514650,place:HI:1514650,Hilo CDP,Hilo,Hilo,15001,Hawaii County,Census-designated place,19.688748,-155.082892,1
+HI,1515700,place:HI:1515700,Holualoa CDP,Holualoa,Holualoa,15001,Hawaii County,Census-designated place,19.668568,-155.918723,1
+HI,1516000,place:HI:1516000,Honalo CDP,Honalo,Honalo,15001,Hawaii County,Census-designated place,19.581019,-155.898443,1
+HI,1516160,place:HI:1516160,Honaunau-Napoopoo CDP,Honaunau-Napoopoo,Honaunau-Napoopoo,15001,Hawaii County,Census-designated place,19.462894,-155.838182,1
+HI,1516450,place:HI:1516450,Honokaa CDP,Honokaa,Honokaa,15001,Hawaii County,Census-designated place,20.077575,-155.464389,1
+HI,1517450,place:HI:1517450,Honomu CDP,Honomu,Honomu,15001,Hawaii County,Census-designated place,19.870236,-155.110029,1
+HI,1519100,place:HI:1519100,Iroquois Point CDP,Iroquois Point,Iroquois Point,15003,Honolulu County,Census-designated place,21.320684,-157.977429,1
+HI,1519550,place:HI:1519550,Kaaawa CDP,Kaaawa,Kaaawa,15003,Honolulu County,Census-designated place,21.543649,-157.850613,1
+HI,1520000,place:HI:1520000,Kaanapali CDP,Kaanapali,Kaanapali,15009,Maui County,Census-designated place,20.930123,-156.686944,1
+HI,1521200,place:HI:1521200,Kahaluu CDP,Kahaluu,Kahaluu,15003,Honolulu County,Census-designated place,21.456279,-157.841763,1
+HI,1521230,place:HI:1521230,Kahaluu-Keauhou CDP,Kahaluu-Keauhou,Kahaluu-Keauhou,15001,Hawaii County,Census-designated place,19.573081,-155.957277,1
+HI,1522250,place:HI:1522250,Kahuku CDP,Kahuku,Kahuku,15003,Honolulu County,Census-designated place,21.678943,-157.943157,1
+HI,1522700,place:HI:1522700,Kahului CDP,Kahului,Kahului,15009,Maui County,Census-designated place,20.858683,-156.468358,1
+HI,1523000,place:HI:1523000,Kailua CDP,Kailua,"Kailua, Hawaii County",15001,Hawaii County,Census-designated place,19.645165,-155.997924,1
+HI,1523150,place:HI:1523150,Kailua CDP,Kailua,"Kailua, Honolulu County",15003,Honolulu County,Census-designated place,21.396783,-157.735799,1
+HI,1523675,place:HI:1523675,Kaiminani CDP,Kaiminani,Kaiminani,15001,Hawaii County,Census-designated place,19.756695,-156.001094,1
+HI,1524850,place:HI:1524850,Kalaeloa CDP,Kalaeloa,Kalaeloa,15003,Honolulu County,Census-designated place,21.313508,-158.06503,1
+HI,1524950,place:HI:1524950,Kalaheo CDP,Kalaheo,Kalaheo,15007,Kauai County,Census-designated place,21.918552,-159.518734,1
+HI,1525700,place:HI:1525700,Kalapana CDP,Kalapana,Kalapana,15001,Hawaii County,Census-designated place,19.356559,-154.975187,1
+HI,1526750,place:HI:1526750,Kalihiwai CDP,Kalihiwai,Kalihiwai,15007,Kauai County,Census-designated place,22.217828,-159.44936,1
+HI,1526867,place:HI:1526867,Kaloko CDP,Kaloko,Kaloko,15001,Hawaii County,Census-designated place,19.72839,-155.953737,1
+HI,1527350,place:HI:1527350,Kamaili CDP,Kamaili,Kamaili,15001,Hawaii County,Census-designated place,19.439113,-154.918848,1
+HI,1528250,place:HI:1528250,Kaneohe CDP,Kaneohe,Kaneohe,15003,Honolulu County,Census-designated place,21.409332,-157.789648,1
+HI,1528287,place:HI:1528287,Kaneohe Base CDP,Kaneohe Base,Kaneohe Base,15003,Honolulu County,Census-designated place,21.445447,-157.751436,1
+HI,1528850,place:HI:1528850,Kapaa CDP,Kapaa,Kapaa,15007,Kauai County,Census-designated place,22.088215,-159.351945,1
+HI,1529000,place:HI:1529000,Kapaau CDP,Kapaau,Kapaau,15001,Hawaii County,Census-designated place,20.234565,-155.801694,1
+HI,1529725,place:HI:1529725,Kapalua CDP,Kapalua,Kapalua,15009,Maui County,Census-designated place,20.991935,-156.639999,1
+HI,1530300,place:HI:1530300,Kapolei CDP,Kapolei,Kapolei,15003,Honolulu County,Census-designated place,21.339925,-158.067827,1
+HI,1530650,place:HI:1530650,Kaumakani CDP,Kaumakani,Kaumakani,15007,Kauai County,Census-designated place,21.917765,-159.627269,1
+HI,1531100,place:HI:1531100,Kaunakakai CDP,Kaunakakai,Kaunakakai,15009,Maui County,Census-designated place,21.094154,-157.000949,1
+HI,1532700,place:HI:1532700,Kawela Bay CDP,Kawela Bay,Kawela Bay,15003,Honolulu County,Census-designated place,21.700185,-157.998638,1
+HI,1532900,place:HI:1532900,Keaau CDP,Keaau,Keaau,15001,Hawaii County,Census-designated place,19.623484,-155.048161,1
+HI,1533950,place:HI:1533950,Kealakekua CDP,Kealakekua,Kealakekua,15001,Hawaii County,Census-designated place,19.528665,-155.911108,1
+HI,1535600,place:HI:1535600,Kekaha CDP,Kekaha,Kekaha,15007,Kauai County,Census-designated place,21.967928,-159.715248,1
+HI,1536050,place:HI:1536050,Keokea CDP,Keokea,Keokea,15009,Maui County,Census-designated place,20.721034,-156.362444,1
+HI,1536500,place:HI:1536500,Kihei CDP,Kihei,Kihei,15009,Maui County,Census-designated place,20.763612,-156.43716,1
+HI,1536650,place:HI:1536650,Kilauea CDP,Kilauea,Kilauea,15007,Kauai County,Census-designated place,22.217934,-159.396768,1
+HI,1539400,place:HI:1539400,Ko Olina CDP,Ko Olina,Ko Olina,15003,Honolulu County,Census-designated place,21.337773,-158.118618,1
+HI,1539200,place:HI:1539200,Koloa CDP,Koloa,Koloa,15007,Kauai County,Census-designated place,21.902971,-159.461067,1
+HI,1539500,place:HI:1539500,Kualapuu CDP,Kualapuu,Kualapuu,15009,Maui County,Census-designated place,21.154226,-157.067298,1
+HI,1541000,place:HI:1541000,Kukuihaele CDP,Kukuihaele,Kukuihaele,15001,Hawaii County,Census-designated place,20.121326,-155.562518,1
+HI,1541600,place:HI:1541600,Kula CDP,Kula,Kula,15009,Maui County,Census-designated place,20.774393,-156.348874,1
+HI,1542800,place:HI:1542800,Kurtistown CDP,Kurtistown,Kurtistown,15001,Hawaii County,Census-designated place,19.586013,-155.071278,1
+HI,1542950,place:HI:1542950,Lahaina CDP,Lahaina,Lahaina,15009,Maui County,Census-designated place,20.886048,-156.666195,1
+HI,1543250,place:HI:1543250,Laie CDP,Laie,Laie,15003,Honolulu County,Census-designated place,21.645545,-157.922855,1
+HI,1543700,place:HI:1543700,Lanai City CDP,Lanai City,Lanai City,15009,Maui County,Census-designated place,20.827932,-156.914703,1
+HI,1544075,place:HI:1544075,Launiupoko CDP,Launiupoko,Launiupoko,15009,Maui County,Census-designated place,20.856149,-156.639267,1
+HI,1544150,place:HI:1544150,Laupahoehoe CDP,Laupahoehoe,Laupahoehoe,15001,Hawaii County,Census-designated place,19.973333,-155.234151,1
+HI,1544450,place:HI:1544450,Lawai CDP,Lawai,Lawai,15007,Kauai County,Census-designated place,21.919568,-159.500918,1
+HI,1544562,place:HI:1544562,Leilani Estates CDP,Leilani Estates,Leilani Estates,15001,Hawaii County,Census-designated place,19.465847,-154.915744,1
+HI,1545200,place:HI:1545200,Lihue CDP,Lihue,Lihue,15007,Kauai County,Census-designated place,21.972247,-159.35599,1
+HI,1546400,place:HI:1546400,Maalaea CDP,Maalaea,Maalaea,15009,Maui County,Census-designated place,20.807368,-156.494008,1
+HI,1547050,place:HI:1547050,Mahinahina CDP,Mahinahina,Mahinahina,15009,Maui County,Census-designated place,20.957412,-156.657055,1
+HI,1547300,place:HI:1547300,Maili CDP,Maili,Maili,15003,Honolulu County,Census-designated place,21.414736,-158.174862,1
+HI,1547450,place:HI:1547450,Makaha CDP,Makaha,Makaha,15003,Honolulu County,Census-designated place,21.467115,-158.21595,1
+HI,1547560,place:HI:1547560,Makaha Valley CDP,Makaha Valley,Makaha Valley,15003,Honolulu County,Census-designated place,21.484373,-158.184282,1
+HI,1547600,place:HI:1547600,Makakilo CDP,Makakilo,Makakilo,15003,Honolulu County,Census-designated place,21.359017,-158.08121,1
+HI,1548050,place:HI:1548050,Makawao CDP,Makawao,Makawao,15009,Maui County,Census-designated place,20.848045,-156.319028,1
+HI,1548350,place:HI:1548350,Makena CDP,Makena,Makena,15009,Maui County,Census-designated place,20.624042,-156.428622,1
+HI,1549425,place:HI:1549425,Manele CDP,Manele,Manele,15009,Maui County,Census-designated place,20.741975,-156.901169,1
+HI,1550375,place:HI:1550375,Mauna Loa Estates CDP,Mauna Loa Estates,Mauna Loa Estates,15001,Hawaii County,Census-designated place,19.427425,-155.221324,1
+HI,1550150,place:HI:1550150,Maunaloa CDP,Maunaloa,Maunaloa,15009,Maui County,Census-designated place,21.133383,-157.212217,1
+HI,1550750,place:HI:1550750,Maunawili CDP,Maunawili,Maunawili,15003,Honolulu County,Census-designated place,21.366743,-157.771315,1
+HI,1551000,place:HI:1551000,Mililani Mauka CDP,Mililani Mauka,Mililani Mauka,15003,Honolulu County,Census-designated place,21.475628,-157.994831,1
+HI,1551050,place:HI:1551050,Mililani Town CDP,Mililani Town,Mililani Town,15003,Honolulu County,Census-designated place,21.446506,-158.014644,1
+HI,1552550,place:HI:1552550,Mokuleia CDP,Mokuleia,Mokuleia,15003,Honolulu County,Census-designated place,21.579444,-158.171765,1
+HI,1553300,place:HI:1553300,Mountain View CDP,Mountain View,Mountain View,15001,Hawaii County,Census-designated place,19.534959,-155.184592,1
+HI,1553600,place:HI:1553600,Naalehu CDP,Naalehu,Naalehu,15001,Hawaii County,Census-designated place,19.069816,-155.575126,1
+HI,1553900,place:HI:1553900,Nanakuli CDP,Nanakuli,Nanakuli,15003,Honolulu County,Census-designated place,21.397207,-158.165989,1
+HI,1553975,place:HI:1553975,Nanawale Estates CDP,Nanawale Estates,Nanawale Estates,15001,Hawaii County,Census-designated place,19.50356,-154.910397,1
+HI,1554100,place:HI:1554100,Napili-Honokowai CDP,Napili-Honokowai,Napili-Honokowai,15009,Maui County,Census-designated place,20.973519,-156.663994,1
+HI,1556685,place:HI:1556685,Ocean Pointe CDP,Ocean Pointe,Ocean Pointe,15003,Honolulu County,Census-designated place,21.312327,-158.026544,1
+HI,1557350,place:HI:1557350,Olinda CDP,Olinda,Olinda,15009,Maui County,Census-designated place,20.827816,-156.291643,1
+HI,1557650,place:HI:1557650,Olowalu CDP,Olowalu,Olowalu,15009,Maui County,Census-designated place,20.826422,-156.620268,1
+HI,1557800,place:HI:1557800,Omao CDP,Omao,Omao,15007,Kauai County,Census-designated place,21.936577,-159.485732,1
+HI,1558775,place:HI:1558775,Orchidlands Estates CDP,Orchidlands Estates,Orchidlands Estates,15001,Hawaii County,Census-designated place,19.557001,-155.014238,1
+HI,1559300,place:HI:1559300,Paauilo CDP,Paauilo,Paauilo,15001,Hawaii County,Census-designated place,20.034862,-155.373591,1
+HI,1559750,place:HI:1559750,Pahala CDP,Pahala,Pahala,15001,Hawaii County,Census-designated place,19.19919,-155.477279,1
+HI,1559900,place:HI:1559900,Pahoa CDP,Pahoa,Pahoa,15001,Hawaii County,Census-designated place,19.495967,-154.94535,1
+HI,1560200,place:HI:1560200,Paia CDP,Paia,Paia,15009,Maui County,Census-designated place,20.90885,-156.369425,1
+HI,1560350,place:HI:1560350,Pakala Village CDP,Pakala Village,Pakala Village,15007,Kauai County,Census-designated place,21.950992,-159.639136,1
+HI,1561550,place:HI:1561550,Papaikou CDP,Papaikou,Papaikou,15001,Hawaii County,Census-designated place,19.791853,-155.091811,1
+HI,1561700,place:HI:1561700,Paukaa CDP,Paukaa,Paukaa,15001,Hawaii County,Census-designated place,19.764395,-155.091915,1
+HI,1562600,place:HI:1562600,Pearl City CDP,Pearl City,Pearl City,15003,Honolulu County,Census-designated place,21.402609,-157.956907,1
+HI,1563650,place:HI:1563650,Pepeekeo CDP,Pepeekeo,Pepeekeo,15001,Hawaii County,Census-designated place,19.83251,-155.105635,1
+HI,1564550,place:HI:1564550,Poipu CDP,Poipu,Poipu,15007,Kauai County,Census-designated place,21.886047,-159.457169,1
+HI,1565075,place:HI:1565075,Princeville CDP,Princeville,Princeville,15007,Kauai County,Census-designated place,22.219681,-159.481445,1
+HI,1565150,place:HI:1565150,Puako CDP,Puako,Puako,15001,Hawaii County,Census-designated place,19.959125,-155.849109,1
+HI,1565750,place:HI:1565750,Puhi CDP,Puhi,Puhi,15007,Kauai County,Census-designated place,21.961582,-159.391724,1
+HI,1565900,place:HI:1565900,Pukalani CDP,Pukalani,Pukalani,15009,Maui County,Census-designated place,20.832913,-156.341509,1
+HI,1566500,place:HI:1566500,Punaluu CDP,Punaluu,Punaluu,15003,Honolulu County,Census-designated place,21.581885,-157.889566,1
+HI,1566800,place:HI:1566800,Pupukea CDP,Pupukea,Pupukea,15003,Honolulu County,Census-designated place,21.652193,-158.057876,1
+HI,1568807,place:HI:1568807,Royal Hawaiian Estates CDP,Royal Hawaiian Estates,Royal Hawaiian Estates,15001,Hawaii County,Census-designated place,19.441223,-155.184028,1
+HI,1568815,place:HI:1568815,Royal Kunia CDP,Royal Kunia,Royal Kunia,15003,Honolulu County,Census-designated place,21.40528,-158.031811,1
+HI,1569050,place:HI:1569050,Schofield Barracks CDP,Schofield Barracks,Schofield Barracks,15003,Honolulu County,Census-designated place,21.492769,-158.063454,1
+HI,1569238,place:HI:1569238,Seaview CDP,Seaview,Seaview,15001,Hawaii County,Census-designated place,19.406718,-154.921448,1
+HI,1570280,place:HI:1570280,Tiki Gardens CDP,Tiki Gardens,Tiki Gardens,15001,Hawaii County,Census-designated place,19.528699,-155.003087,1
+HI,1570700,place:HI:1570700,Ualapue CDP,Ualapue,Ualapue,15009,Maui County,Census-designated place,21.071822,-156.83498,1
+HI,1571550,place:HI:1571550,Urban Honolulu CDP,Urban Honolulu,Urban Honolulu,15003,Honolulu County,Census-designated place,21.324347,-157.84764,1
+HI,1572350,place:HI:1572350,Volcano CDP,Volcano,Volcano,15001,Hawaii County,Census-designated place,19.486411,-155.277414,1
+HI,1572468,place:HI:1572468,Volcano Golf Course CDP,Volcano Golf Course,Volcano Golf Course,15001,Hawaii County,Census-designated place,19.442375,-155.278833,1
+HI,1572650,place:HI:1572650,Wahiawa CDP,Wahiawa,Wahiawa,15003,Honolulu County,Census-designated place,21.500665,-158.017964,1
+HI,1572957,place:HI:1572957,Waiahole-Waikane CDP,Waiahole-Waikane,Waiahole-Waikane,15003,Honolulu County,Census-designated place,21.484946,-157.87015,1
+HI,1574000,place:HI:1574000,Waialua CDP,Waialua,Waialua,15003,Honolulu County,Census-designated place,21.567445,-158.120525,1
+HI,1574450,place:HI:1574450,Waianae CDP,Waianae,Waianae,15003,Honolulu County,Census-designated place,21.453531,-158.181493,1
+HI,1575510,place:HI:1575510,Waihee-Waiehu CDP,Waihee-Waiehu,Waihee-Waiehu,15009,Maui County,Census-designated place,20.923281,-156.509307,1
+HI,1575950,place:HI:1575950,Waikapu CDP,Waikapu,Waikapu,15009,Maui County,Census-designated place,20.836503,-156.529809,1
+HI,1576250,place:HI:1576250,Waikele CDP,Waikele,Waikele,15003,Honolulu County,Census-designated place,21.402554,-158.005832,1
+HI,1576584,place:HI:1576584,Waikoloa Beach Resort CDP,Waikoloa Beach Resort,Waikoloa Beach Resort,15001,Hawaii County,Census-designated place,19.931518,-155.877291,1
+HI,1576600,place:HI:1576600,Waikoloa Village CDP,Waikoloa Village,Waikoloa Village,15001,Hawaii County,Census-designated place,19.944249,-155.805271,1
+HI,1576925,place:HI:1576925,Wailea CDP,Wailea,Wailea,15009,Maui County,Census-designated place,20.682352,-156.435323,1
+HI,1577000,place:HI:1577000,Wailua CDP,Wailua,Wailua,15007,Kauai County,Census-designated place,22.054107,-159.336834,1
+HI,1577225,place:HI:1577225,Wailua Homesteads CDP,Wailua Homesteads,Wailua Homesteads,15007,Kauai County,Census-designated place,22.069165,-159.381401,1
+HI,1577450,place:HI:1577450,Wailuku CDP,Wailuku,Wailuku,15009,Maui County,Census-designated place,20.885467,-156.503627,1
+HI,1577750,place:HI:1577750,Waimalu CDP,Waimalu,Waimalu,15003,Honolulu County,Census-designated place,21.390868,-157.934152,1
+HI,1578050,place:HI:1578050,Waimanalo CDP,Waimanalo,Waimanalo,15003,Honolulu County,Census-designated place,21.34207,-157.730238,1
+HI,1578200,place:HI:1578200,Waimanalo Beach CDP,Waimanalo Beach,Waimanalo Beach,15003,Honolulu County,Census-designated place,21.329934,-157.693974,1
+HI,1578500,place:HI:1578500,Waimea CDP,Waimea,"Waimea, Hawaii County",15001,Hawaii County,Census-designated place,20.010327,-155.625491,1
+HI,1578800,place:HI:1578800,Waimea CDP,Waimea,"Waimea, Kauai County",15007,Kauai County,Census-designated place,21.966496,-159.669388,1
+HI,1578950,place:HI:1578950,Wainaku CDP,Wainaku,Wainaku,15001,Hawaii County,Census-designated place,19.742915,-155.096601,1
+HI,1579250,place:HI:1579250,Wainiha CDP,Wainiha,Wainiha,15007,Kauai County,Census-designated place,22.192139,-159.546746,1
+HI,1579550,place:HI:1579550,Waiohinu CDP,Waiohinu,Waiohinu,15001,Hawaii County,Census-designated place,19.071363,-155.614436,1
+HI,1579700,place:HI:1579700,Waipahu CDP,Waipahu,Waipahu,15003,Honolulu County,Census-designated place,21.384938,-158.010993,1
+HI,1579860,place:HI:1579860,Waipio CDP,Waipio,Waipio,15003,Honolulu County,Census-designated place,21.414393,-157.996583,1
+HI,1580000,place:HI:1580000,Waipio Acres CDP,Waipio Acres,Waipio Acres,15003,Honolulu County,Census-designated place,21.46877,-158.017284,1
+HI,1580470,place:HI:1580470,West Loch Estate CDP,West Loch Estate,West Loch Estate,15003,Honolulu County,Census-designated place,21.361262,-158.024526,1
+HI,1580600,place:HI:1580600,Wheeler AFB CDP,Wheeler AFB,Wheeler AFB,15003,Honolulu County,Census-designated place,21.475545,-158.035174,1
+HI,1580900,place:HI:1580900,Whitmore Village CDP,Whitmore Village,Whitmore Village,15003,Honolulu County,Census-designated place,21.512573,-158.029127,1

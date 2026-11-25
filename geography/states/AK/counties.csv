@@ -1,0 +1,31 @@
+state,county_geoid,county,lat,lon
+AK,02013,Aleutians East Borough,55.245044,-161.997477
+AK,02016,Aleutians West Census Area,51.948964,+179.621188
+AK,02020,Anchorage Municipality,61.17425,-149.284329
+AK,02050,Bethel Census Area,60.929141,-160.152625
+AK,02060,Bristol Bay Borough,58.730546,-156.994473
+AK,02063,Chugach Census Area,60.488474,-146.20309
+AK,02066,Copper River Census Area,62.034479,-143.922167
+AK,02068,Denali Borough,63.682039,-150.027016
+AK,02070,Dillingham Census Area,59.540125,-158.272924
+AK,02090,Fairbanks North Star Borough,64.670454,-146.496061
+AK,02100,Haines Borough,59.098404,-135.575791
+AK,02105,Hoonah-Angoon Census Area,58.404665,-135.884508
+AK,02110,Juneau City and Borough,58.372904,-134.178438
+AK,02122,Kenai Peninsula Borough,60.366668,-152.322283
+AK,02130,Ketchikan Gateway Borough,55.348947,-131.127192
+AK,02150,Kodiak Island Borough,57.704426,-153.918395
+AK,02158,Kusilvak Census Area,62.283477,-163.190257
+AK,02164,Lake and Peninsula Borough,58.100846,-156.354125
+AK,02170,Matanuska-Susitna Borough,62.265626,-149.503993
+AK,02180,Nome Census Area,64.783686,-164.188912
+AK,02185,North Slope Borough,69.449343,-153.47283
+AK,02188,Northwest Arctic Borough,67.004772,-160.022075
+AK,02195,Petersburg Borough,57.245959,-132.788762
+AK,02198,Prince of Wales-Hyder Census Area,55.682773,-133.162389
+AK,02220,Sitka City and Borough,57.193204,-135.367396
+AK,02230,Skagway Municipality,59.649488,-135.254605
+AK,02240,Southeast Fairbanks Census Area,63.864997,-143.218628
+AK,02275,Wrangell City and Borough,56.180779,-132.026788
+AK,02282,Yakutat City and Borough,60.017508,-140.416847
+AK,02290,Yukon-Koyukuk Census Area,65.385921,-151.705183

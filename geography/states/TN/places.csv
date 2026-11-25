@@ -1,0 +1,505 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+TN,4700200,place:TN:4700200,Adams city,Adams,Adams,47147,Robertson County,Incorporated place,36.58281,-87.065113,1
+TN,4700240,place:TN:4700240,Adamsville town,Adamsville,Adamsville,47109,McNairy County,Incorporated place,35.232723,-88.384758,1
+TN,4700440,place:TN:4700440,Alamo town,Alamo,Alamo,47033,Crockett County,Incorporated place,35.782937,-89.116878,1
+TN,4700540,place:TN:4700540,Alcoa city,Alcoa,Alcoa,47009,Blount County,Incorporated place,35.815893,-83.967613,1
+TN,4700620,place:TN:4700620,Alexandria town,Alexandria,Alexandria,47041,DeKalb County,Incorporated place,36.07715,-86.031779,1
+TN,4700640,place:TN:4700640,Algood city,Algood,Algood,47141,Putnam County,Incorporated place,36.199975,-85.446759,1
+TN,4700660,place:TN:4700660,Allardt city,Allardt,Allardt,47049,Fentress County,Incorporated place,36.381087,-84.881393,1
+TN,4700940,place:TN:4700940,Altamont town,Altamont,Altamont,47061,Grundy County,Incorporated place,35.433855,-85.73861,1
+TN,4701220,place:TN:4701220,Andersonville CDP,Andersonville,Andersonville,47001,Anderson County,Census-designated place,36.196956,-84.033061,1
+TN,4701480,place:TN:4701480,Apison CDP,Apison,Apison,47065,Hamilton County,Census-designated place,35.004854,-85.009676,1
+TN,4701640,place:TN:4701640,Ardmore city,Ardmore,Ardmore,47055,Giles County,Incorporated place,35.006392,-86.854474,1
+TN,4701740,place:TN:4701740,Arlington town,Arlington,Arlington,47157,Shelby County,Incorporated place,35.252517,-89.661149,1
+TN,4702180,place:TN:4702180,Ashland City town,Ashland City,Ashland City,47021,Cheatham County,Incorporated place,36.25617,-87.032741,1
+TN,4702320,place:TN:4702320,Athens city,Athens,Athens,47107,McMinn County,Incorporated place,35.456827,-84.604613,1
+TN,4702340,place:TN:4702340,Atoka town,Atoka,Atoka,47167,Tipton County,Incorporated place,35.425752,-89.784489,1
+TN,4702380,place:TN:4702380,Atwood town,Atwood,Atwood,47017,Carroll County,Incorporated place,35.974723,-88.668898,1
+TN,4702400,place:TN:4702400,Auburntown town,Auburntown,Auburntown,47015,Cannon County,Incorporated place,35.952608,-86.093476,1
+TN,4702780,place:TN:4702780,Baileyton town,Baileyton,Baileyton,47059,Greene County,Incorporated place,36.324346,-82.836049,1
+TN,4703078,place:TN:4703078,Baneberry city,Baneberry,Baneberry,47089,Jefferson County,Incorporated place,36.046375,-83.278211,1
+TN,4703120,place:TN:4703120,Banner Hill CDP,Banner Hill,Banner Hill,47171,Unicoi County,Census-designated place,36.122261,-82.420288,1
+TN,4703440,place:TN:4703440,Bartlett city,Bartlett,Bartlett,47157,Shelby County,Incorporated place,35.234169,-89.820266,1
+TN,4703680,place:TN:4703680,Baxter town,Baxter,Baxter,47141,Putnam County,Incorporated place,36.153419,-85.63497,1
+TN,4703760,place:TN:4703760,Bean Station city,Bean Station,Bean Station,47057,Grainger County,Incorporated place,36.338425,-83.28519,1
+TN,4704000,place:TN:4704000,Beech Bluff CDP,Beech Bluff,Beech Bluff,47113,Madison County,Census-designated place,35.604648,-88.629207,1
+TN,4704240,place:TN:4704240,Beersheba Springs town,Beersheba Springs,Beersheba Springs,47061,Grundy County,Incorporated place,35.458984,-85.668816,1
+TN,4704460,place:TN:4704460,Bell Buckle town,Bell Buckle,Bell Buckle,47003,Bedford County,Incorporated place,35.590783,-86.353762,1
+TN,4704620,place:TN:4704620,Belle Meade city,Belle Meade,Belle Meade,47037,Davidson County,Incorporated place,36.099441,-86.85626,1
+TN,4704720,place:TN:4704720,Bells city,Bells,Bells,47033,Crockett County,Incorporated place,35.719717,-89.085379,1
+TN,4704920,place:TN:4704920,Belvidere CDP,Belvidere,Belvidere,47051,Franklin County,Census-designated place,35.128085,-86.188071,1
+TN,4705040,place:TN:4705040,Benton town,Benton,Benton,47139,Polk County,Incorporated place,35.174905,-84.651709,1
+TN,4705140,place:TN:4705140,Berry Hill city,Berry Hill,Berry Hill,47037,Davidson County,Incorporated place,36.119618,-86.767453,1
+TN,4705380,place:TN:4705380,Bethel Springs town,Bethel Springs,Bethel Springs,47109,McNairy County,Incorporated place,35.234146,-88.613109,1
+TN,4705500,place:TN:4705500,Bethpage CDP,Bethpage,Bethpage,47165,Sumner County,Census-designated place,36.484267,-86.308523,1
+TN,4705840,place:TN:4705840,Big Rock CDP,Big Rock,Big Rock,47161,Stewart County,Census-designated place,36.57663,-87.757922,1
+TN,4705860,place:TN:4705860,Big Sandy town,Big Sandy,Big Sandy,47005,Benton County,Incorporated place,36.232681,-88.085062,1
+TN,4706020,place:TN:4706020,Biltmore CDP,Biltmore,Biltmore,47019,Carter County,Census-designated place,36.368805,-82.221146,1
+TN,4706340,place:TN:4706340,Blaine city,Blaine,Blaine,47057,Grainger County,Incorporated place,36.144714,-83.695545,1
+TN,4706440,place:TN:4706440,Blanche CDP,Blanche,Blanche,47103,Lincoln County,Census-designated place,35.043705,-86.753261,1
+TN,4706640,place:TN:4706640,Bloomingdale CDP,Bloomingdale,Bloomingdale,47163,Sullivan County,Census-designated place,36.582269,-82.506765,1
+TN,4706740,place:TN:4706740,Blountville CDP,Blountville,Blountville,47163,Sullivan County,Census-designated place,36.532994,-82.32887,1
+TN,4706960,place:TN:4706960,Bluff City city,Bluff City,Bluff City,47163,Sullivan County,Incorporated place,36.459484,-82.277888,1
+TN,4707120,place:TN:4707120,Bogota CDP,Bogota,Bogota,47045,Dyer County,Census-designated place,36.162032,-89.43898,1
+TN,4707180,place:TN:4707180,Bolivar city,Bolivar,Bolivar,47069,Hardeman County,Incorporated place,35.264019,-89.011896,1
+TN,4707240,place:TN:4707240,Bon Air CDP,Bon Air,Bon Air,47185,White County,Census-designated place,35.933264,-85.370127,1
+TN,4707280,place:TN:4707280,Bon Aqua Junction CDP,Bon Aqua Junction,Bon Aqua Junction,47081,Hickman County,Census-designated place,35.928121,-87.312356,1
+TN,4707620,place:TN:4707620,Bowman CDP,Bowman,Bowman,47035,Cumberland County,Census-designated place,36.061613,-85.035777,1
+TN,4707840,place:TN:4707840,Braden town,Braden,Braden,47047,Fayette County,Incorporated place,35.368471,-89.571791,1
+TN,4707860,place:TN:4707860,Bradford town,Bradford,Bradford,47053,Gibson County,Incorporated place,36.073782,-88.81632,1
+TN,4708080,place:TN:4708080,Bransford CDP,Bransford,Bransford,47165,Sumner County,Census-designated place,36.513296,-86.285261,1
+TN,4708280,place:TN:4708280,Brentwood city,Brentwood,Brentwood,47187,Williamson County,Incorporated place,35.993904,-86.770834,1
+TN,4708400,place:TN:4708400,Briceville CDP,Briceville,Briceville,47001,Anderson County,Census-designated place,36.177839,-84.183615,1
+TN,4708500,place:TN:4708500,Brighton town,Brighton,Brighton,47167,Tipton County,Incorporated place,35.480328,-89.734709,1
+TN,4708540,place:TN:4708540,Bristol city,Bristol,Bristol,47163,Sullivan County,Incorporated place,36.558549,-82.217001,1
+TN,4708920,place:TN:4708920,Brownsville city,Brownsville,Brownsville,47075,Haywood County,Incorporated place,35.589036,-89.257856,1
+TN,4708960,place:TN:4708960,Bruceton town,Bruceton,Bruceton,47017,Carroll County,Incorporated place,36.034881,-88.24657,1
+TN,4709200,place:TN:4709200,Buchanan CDP,Buchanan,Buchanan,47079,Henry County,Census-designated place,36.434018,-88.202751,1
+TN,4709560,place:TN:4709560,Bulls Gap town,Bulls Gap,Bulls Gap,47073,Hawkins County,Incorporated place,36.261636,-83.078843,1
+TN,4709860,place:TN:4709860,Burlison town,Burlison,Burlison,47167,Tipton County,Incorporated place,35.55689,-89.784603,1
+TN,4709880,place:TN:4709880,Burns town,Burns,Burns,47043,Dickson County,Incorporated place,36.057839,-87.320358,1
+TN,4710080,place:TN:4710080,Butler CDP,Butler,Butler,47091,Johnson County,Census-designated place,36.357069,-82.035589,1
+TN,4710180,place:TN:4710180,Byrdstown town,Byrdstown,Byrdstown,47137,Pickett County,Incorporated place,36.573626,-85.134193,1
+TN,4710440,place:TN:4710440,Calhoun town,Calhoun,Calhoun,47107,McMinn County,Incorporated place,35.301795,-84.741577,1
+TN,4710560,place:TN:4710560,Camden city,Camden,Camden,47005,Benton County,Incorporated place,36.066251,-88.104609,1
+TN,4711280,place:TN:4711280,Carthage town,Carthage,Carthage,47159,Smith County,Incorporated place,36.256557,-85.942885,1
+TN,4711360,place:TN:4711360,Caryville town,Caryville,Caryville,47013,Campbell County,Incorporated place,36.311661,-84.199713,1
+TN,4711440,place:TN:4711440,Castalian Springs CDP,Castalian Springs,Castalian Springs,47165,Sumner County,Census-designated place,36.401198,-86.306778,1
+TN,4711980,place:TN:4711980,Cedar Hill city,Cedar Hill,Cedar Hill,47147,Robertson County,Incorporated place,36.551193,-87.001252,1
+TN,4712100,place:TN:4712100,Celina city,Celina,Celina,47027,Clay County,Incorporated place,36.547611,-85.503754,1
+TN,4712380,place:TN:4712380,Centertown town,Centertown,Centertown,47177,Warren County,Incorporated place,35.725116,-85.919742,1
+TN,4712420,place:TN:4712420,Centerville town,Centerville,Centerville,47081,Hickman County,Incorporated place,35.8262,-87.438292,1
+TN,4712460,place:TN:4712460,Central CDP,Central,Central,47019,Carter County,Census-designated place,36.333663,-82.296908,1
+TN,4712880,place:TN:4712880,Chapel Hill town,Chapel Hill,Chapel Hill,47117,Marshall County,Incorporated place,35.628041,-86.696901,1
+TN,4713020,place:TN:4713020,Charleston city,Charleston,Charleston,47011,Bradley County,Incorporated place,35.285693,-84.760797,1
+TN,4713080,place:TN:4713080,Charlotte town,Charlotte,Charlotte,47043,Dickson County,Incorporated place,36.186136,-87.338884,1
+TN,4714000,place:TN:4714000,Chattanooga city,Chattanooga,Chattanooga,47065,Hamilton County,Incorporated place,35.065958,-85.248386,1
+TN,4714220,place:TN:4714220,Chesterfield CDP,Chesterfield,Chesterfield,47077,Henderson County,Census-designated place,35.652772,-88.266975,1
+TN,4714520,place:TN:4714520,Chewalla CDP,Chewalla,Chewalla,47109,McNairy County,Census-designated place,35.020847,-88.642677,1
+TN,4714620,place:TN:4714620,Childers Hill CDP,Childers Hill,Childers Hill,47071,Hardin County,Census-designated place,35.081499,-88.326711,1
+TN,4714860,place:TN:4714860,Christiana CDP,Christiana,Christiana,47149,Rutherford County,Census-designated place,35.719271,-86.412919,1
+TN,4714980,place:TN:4714980,Church Hill city,Church Hill,Church Hill,47073,Hawkins County,Incorporated place,36.519626,-82.714098,1
+TN,4715120,place:TN:4715120,Clarkrange CDP,Clarkrange,Clarkrange,47049,Fentress County,Census-designated place,36.18572,-85.009605,1
+TN,4715140,place:TN:4715140,Clarksburg town,Clarksburg,Clarksburg,47017,Carroll County,Incorporated place,35.87048,-88.393721,1
+TN,4715160,place:TN:4715160,Clarksville city,Clarksville,Clarksville,47125,Montgomery County,Incorporated place,36.566226,-87.345893,1
+TN,4715400,place:TN:4715400,Cleveland city,Cleveland,Cleveland,47011,Bradley County,Incorporated place,35.180044,-84.871288,1
+TN,4715480,place:TN:4715480,Clifton city,Clifton,Clifton,47181,Wayne County,Incorporated place,35.377286,-87.991172,1
+TN,4715580,place:TN:4715580,Clinton city,Clinton,Clinton,47001,Anderson County,Incorporated place,36.099501,-84.127857,1
+TN,4715880,place:TN:4715880,Coalfield CDP,Coalfield,Coalfield,47129,Morgan County,Census-designated place,36.022835,-84.442491,1
+TN,4715920,place:TN:4715920,Coalmont city,Coalmont,Coalmont,47061,Grundy County,Incorporated place,35.344173,-85.713781,1
+TN,4716060,place:TN:4716060,Coker Creek CDP,Coker Creek,Coker Creek,47123,Monroe County,Census-designated place,35.263214,-84.28821,1
+TN,4716300,place:TN:4716300,Collegedale city,Collegedale,Collegedale,47065,Hamilton County,Incorporated place,35.053458,-85.047991,1
+TN,4716420,place:TN:4716420,Collierville town,Collierville,Collierville,47157,Shelby County,Incorporated place,35.048907,-89.6971,1
+TN,4716480,place:TN:4716480,Collinwood city,Collinwood,Collinwood,47181,Wayne County,Incorporated place,35.17451,-87.744093,1
+TN,4716500,place:TN:4716500,Colonial Heights CDP,Colonial Heights,Colonial Heights,47163,Sullivan County,Census-designated place,36.49445,-82.490623,1
+TN,4716540,place:TN:4716540,Columbia city,Columbia,Columbia,47119,Maury County,Incorporated place,35.625616,-87.044232,1
+TN,4716740,place:TN:4716740,Conasauga CDP,Conasauga,Conasauga,47139,Polk County,Census-designated place,35.005203,-84.727582,1
+TN,4716920,place:TN:4716920,Cookeville city,Cookeville,Cookeville,47141,Putnam County,Incorporated place,36.146926,-85.512653,1
+TN,4716980,place:TN:4716980,Coopertown town,Coopertown,Coopertown,47147,Robertson County,Incorporated place,36.414238,-86.965786,1
+TN,4717000,place:TN:4717000,Copperhill city,Copperhill,Copperhill,47139,Polk County,Incorporated place,34.998913,-84.390644,1
+TN,4717180,place:TN:4717180,Cornersville town,Cornersville,Cornersville,47117,Marshall County,Incorporated place,35.363681,-86.857855,1
+TN,4717300,place:TN:4717300,Cosby CDP,Cosby,Cosby,47029,Cocke County,Census-designated place,35.795132,-83.245657,1
+TN,4717340,place:TN:4717340,Cottage Grove town,Cottage Grove,Cottage Grove,47079,Henry County,Incorporated place,36.378173,-88.478957,1
+TN,4717420,place:TN:4717420,Cottontown CDP,Cottontown,Cottontown,47165,Sumner County,Census-designated place,36.448941,-86.533597,1
+TN,4717520,place:TN:4717520,Counce CDP,Counce,Counce,47071,Hardin County,Census-designated place,35.040436,-88.271678,1
+TN,4717680,place:TN:4717680,Covington city,Covington,Covington,47167,Tipton County,Incorporated place,35.565916,-89.648497,1
+TN,4717700,place:TN:4717700,Cowan city,Cowan,Cowan,47051,Franklin County,Incorporated place,35.163172,-86.013841,1
+TN,4717840,place:TN:4717840,Crab Orchard city,Crab Orchard,Crab Orchard,47035,Cumberland County,Incorporated place,35.906604,-84.884714,1
+TN,4718420,place:TN:4718420,Cross Plains city,Cross Plains,Cross Plains,47147,Robertson County,Incorporated place,36.541247,-86.676636,1
+TN,4718540,place:TN:4718540,Crossville city,Crossville,Crossville,47035,Cumberland County,Incorporated place,35.951539,-85.030587,1
+TN,4718620,place:TN:4718620,Crump city,Crump,Crump,47071,Hardin County,Incorporated place,35.224859,-88.330789,1
+TN,4718820,place:TN:4718820,Cumberland City town,Cumberland City,Cumberland City,47161,Stewart County,Incorporated place,36.379739,-87.639869,1
+TN,4718880,place:TN:4718880,Cumberland Gap town,Cumberland Gap,Cumberland Gap,47025,Claiborne County,Incorporated place,36.597415,-83.66579,1
+TN,4719360,place:TN:4719360,Dancyville CDP,Dancyville,Dancyville,47075,Haywood County,Census-designated place,35.4067,-89.297041,1
+TN,4719380,place:TN:4719380,Dandridge town,Dandridge,Dandridge,47089,Jefferson County,Incorporated place,36.030124,-83.429831,1
+TN,4719500,place:TN:4719500,Darden CDP,Darden,Darden,47077,Henderson County,Census-designated place,35.638402,-88.226111,1
+TN,4719700,place:TN:4719700,Dayton city,Dayton,Dayton,47143,Rhea County,Incorporated place,35.494965,-85.008643,1
+TN,4719880,place:TN:4719880,Decatur town,Decatur,Decatur,47121,Meigs County,Incorporated place,35.529137,-84.793319,1
+TN,4719900,place:TN:4719900,Decaturville town,Decaturville,Decaturville,47039,Decatur County,Incorporated place,35.581907,-88.11951,1
+TN,4719920,place:TN:4719920,Decherd city,Decherd,Decherd,47051,Franklin County,Incorporated place,35.215851,-86.074705,1
+TN,4720080,place:TN:4720080,Delano CDP,Delano,Delano,47139,Polk County,Census-designated place,35.25645,-84.561726,1
+TN,4720120,place:TN:4720120,Dellrose CDP,Dellrose,Dellrose,47103,Lincoln County,Census-designated place,35.11583,-86.80352,1
+TN,4720620,place:TN:4720620,Dickson city,Dickson,Dickson,47043,Dickson County,Incorporated place,36.063324,-87.368854,1
+TN,4720930,place:TN:4720930,Dodson Branch CDP,Dodson Branch,Dodson Branch,47087,Jackson County,Census-designated place,36.314886,-85.532187,1
+TN,4721400,place:TN:4721400,Dover city,Dover,Dover,47161,Stewart County,Incorporated place,36.482137,-87.844365,1
+TN,4721420,place:TN:4721420,Dowelltown town,Dowelltown,Dowelltown,47041,DeKalb County,Incorporated place,36.012509,-85.942575,1
+TN,4721500,place:TN:4721500,Doyle town,Doyle,Doyle,47185,White County,Incorporated place,35.855273,-85.512084,1
+TN,4721540,place:TN:4721540,Dresden town,Dresden,Dresden,47183,Weakley County,Incorporated place,36.279924,-88.6991,1
+TN,4721740,place:TN:4721740,Ducktown city,Ducktown,Ducktown,47139,Polk County,Incorporated place,35.036033,-84.384832,1
+TN,4721860,place:TN:4721860,Dukedom CDP,Dukedom,Dukedom,47183,Weakley County,Census-designated place,36.493955,-88.721924,1
+TN,4722000,place:TN:4722000,Dunlap city,Dunlap,Dunlap,47153,Sequatchie County,Incorporated place,35.36752,-85.389833,1
+TN,4722180,place:TN:4722180,Dyer city,Dyer,Dyer,47053,Gibson County,Incorporated place,36.071623,-88.993923,1
+TN,4722200,place:TN:4722200,Dyersburg city,Dyersburg,Dyersburg,47045,Dyer County,Incorporated place,36.046823,-89.37797,1
+TN,4722340,place:TN:4722340,Eagleton Village CDP,Eagleton Village,Eagleton Village,47009,Blount County,Census-designated place,35.788156,-83.936246,1
+TN,4722360,place:TN:4722360,Eagleville city,Eagleville,Eagleville,47149,Rutherford County,Incorporated place,35.743481,-86.652956,1
+TN,4722500,place:TN:4722500,East Cleveland CDP,East Cleveland,East Cleveland,47011,Bradley County,Census-designated place,35.152249,-84.854639,1
+TN,4722720,place:TN:4722720,East Ridge city,East Ridge,East Ridge,47065,Hamilton County,Incorporated place,34.997303,-85.228505,1
+TN,4722920,place:TN:4722920,Eastview town,Eastview,Eastview,47109,McNairy County,Incorporated place,35.087663,-88.551685,1
+TN,4723440,place:TN:4723440,Elgin CDP,Elgin,Elgin,47151,Scott County,Census-designated place,36.328397,-84.609059,1
+TN,4723500,place:TN:4723500,Elizabethton city,Elizabethton,Elizabethton,47019,Carter County,Incorporated place,36.339572,-82.2378,1
+TN,4723660,place:TN:4723660,Elkton city,Elkton,Elkton,47055,Giles County,Incorporated place,35.062844,-86.895811,1
+TN,4723880,place:TN:4723880,Embreeville CDP,Embreeville,Embreeville,47179,Washington County,Census-designated place,36.175869,-82.448926,1
+TN,4724040,place:TN:4724040,Englewood town,Englewood,Englewood,47107,McMinn County,Incorporated place,35.422852,-84.488274,1
+TN,4724240,place:TN:4724240,Enville town,Enville,Enville,47023,Chester County,Incorporated place,35.391056,-88.430313,1
+TN,4724320,place:TN:4724320,Erin city,Erin,Erin,47083,Houston County,Incorporated place,36.316278,-87.700837,1
+TN,4724360,place:TN:4724360,Erwin town,Erwin,Erwin,47171,Unicoi County,Incorporated place,36.145833,-82.411994,1
+TN,4724400,place:TN:4724400,Essary Springs CDP,Essary Springs,Essary Springs,47069,Hardeman County,Census-designated place,35.011269,-88.802494,1
+TN,4724440,place:TN:4724440,Estill Springs town,Estill Springs,Estill Springs,47051,Franklin County,Incorporated place,35.259754,-86.138361,1
+TN,4724460,place:TN:4724460,Ethridge town,Ethridge,Ethridge,47099,Lawrence County,Incorporated place,35.321751,-87.301322,1
+TN,4724480,place:TN:4724480,Etowah city,Etowah,Etowah,47107,McMinn County,Incorporated place,35.338141,-84.5282,1
+TN,4724640,place:TN:4724640,Eva CDP,Eva,Eva,47005,Benton County,Census-designated place,36.067853,-88.007075,1
+TN,4724960,place:TN:4724960,Fairfield CDP,Fairfield,Fairfield,47165,Sumner County,Census-designated place,36.620881,-86.342491,1
+TN,4724980,place:TN:4724980,Fairfield Glade CDP,Fairfield Glade,Fairfield Glade,47035,Cumberland County,Census-designated place,36.003783,-84.872738,1
+TN,4724990,place:TN:4724990,Fairgarden CDP,Fairgarden,Fairgarden,47155,Sevier County,Census-designated place,35.898225,-83.411961,1
+TN,4725080,place:TN:4725080,Fairmount CDP,Fairmount,Fairmount,47065,Hamilton County,Census-designated place,35.186456,-85.330236,1
+TN,4725440,place:TN:4725440,Fairview city,Fairview,Fairview,47187,Williamson County,Incorporated place,35.982389,-87.12702,1
+TN,4725540,place:TN:4725540,Fall Branch CDP,Fall Branch,Fall Branch,47179,Washington County,Census-designated place,36.41615,-82.624187,1
+TN,4725560,place:TN:4725560,Falling Water CDP,Falling Water,Falling Water,47065,Hamilton County,Census-designated place,35.195925,-85.259423,1
+TN,4725740,place:TN:4725740,Farner CDP,Farner,Farner,47139,Polk County,Census-designated place,35.154322,-84.319062,1
+TN,4725760,place:TN:4725760,Farragut town,Farragut,Farragut,47093,Knox County,Incorporated place,35.876233,-84.180019,1
+TN,4725920,place:TN:4725920,Fayetteville city,Fayetteville,Fayetteville,47103,Lincoln County,Incorporated place,35.150178,-86.562292,1
+TN,4726120,place:TN:4726120,Fincastle CDP,Fincastle,Fincastle,47013,Campbell County,Census-designated place,36.403811,-84.047922,1
+TN,4726160,place:TN:4726160,Finger city,Finger,Finger,47109,McNairy County,Incorporated place,35.357019,-88.616995,1
+TN,4726180,place:TN:4726180,Finley CDP,Finley,Finley,47045,Dyer County,Census-designated place,36.035717,-89.479907,1
+TN,4726490,place:TN:4726490,Flat Top Mountain CDP,Flat Top Mountain,Flat Top Mountain,47065,Hamilton County,Census-designated place,35.331901,-85.200046,1
+TN,4726580,place:TN:4726580,Flintville CDP,Flintville,Flintville,47103,Lincoln County,Census-designated place,35.060165,-86.416468,1
+TN,4727020,place:TN:4727020,Forest Hills city,Forest Hills,Forest Hills,47037,Davidson County,Incorporated place,36.069968,-86.83623,1
+TN,4727640,place:TN:4727640,Fowlkes CDP,Fowlkes,Fowlkes,47045,Dyer County,Census-designated place,35.971983,-89.38793,1
+TN,4727700,place:TN:4727700,Frankewing CDP,Frankewing,Frankewing,47055,Giles County,Census-designated place,35.19442,-86.8568,1
+TN,4727740,place:TN:4727740,Franklin city,Franklin,Franklin,47187,Williamson County,Incorporated place,35.914025,-86.852161,1
+TN,4727960,place:TN:4727960,Friendship city,Friendship,Friendship,47033,Crockett County,Incorporated place,35.908436,-89.241445,1
+TN,4728060,place:TN:4728060,Friendsville city,Friendsville,Friendsville,47009,Blount County,Incorporated place,35.756353,-84.131961,1
+TN,4728380,place:TN:4728380,Gadsden town,Gadsden,Gadsden,47033,Crockett County,Incorporated place,35.776782,-88.986126,1
+TN,4728420,place:TN:4728420,Gainesboro town,Gainesboro,Gainesboro,47087,Jackson County,Incorporated place,36.363219,-85.64868,1
+TN,4728540,place:TN:4728540,Gallatin city,Gallatin,Gallatin,47165,Sumner County,Incorporated place,36.381524,-86.467021,1
+TN,4728560,place:TN:4728560,Gallaway city,Gallaway,Gallaway,47047,Fayette County,Incorporated place,35.320853,-89.60846,1
+TN,4728680,place:TN:4728680,Garland town,Garland,Garland,47167,Tipton County,Incorporated place,35.587779,-89.753096,1
+TN,4728740,place:TN:4728740,Gates town,Gates,Gates,47097,Lauderdale County,Incorporated place,35.840544,-89.408085,1
+TN,4728800,place:TN:4728800,Gatlinburg city,Gatlinburg,Gatlinburg,47155,Sevier County,Incorporated place,35.725027,-83.493722,1
+TN,4728960,place:TN:4728960,Germantown city,Germantown,Germantown,47157,Shelby County,Incorporated place,35.081957,-89.782584,1
+TN,4729020,place:TN:4729020,Gibson town,Gibson,Gibson,47053,Gibson County,Incorporated place,35.874289,-88.843905,1
+TN,4729160,place:TN:4729160,Gilt Edge city,Gilt Edge,Gilt Edge,47167,Tipton County,Incorporated place,35.534074,-89.830734,1
+TN,4729260,place:TN:4729260,Gladeville CDP,Gladeville,Gladeville,47189,Wilson County,Census-designated place,36.115741,-86.431547,1
+TN,4729300,place:TN:4729300,Gleason town,Gleason,Gleason,47183,Weakley County,Incorporated place,36.21739,-88.610649,1
+TN,4729920,place:TN:4729920,Goodlettsville city,Goodlettsville,Goodlettsville,47165,Sumner County,Incorporated place,36.332237,-86.703149,1
+TN,4730120,place:TN:4730120,Gordonsville town,Gordonsville,Gordonsville,47159,Smith County,Incorporated place,36.18467,-85.93246,1
+TN,4730220,place:TN:4730220,Graball CDP,Graball,Graball,47165,Sumner County,Census-designated place,36.4837,-86.43953,1
+TN,4730280,place:TN:4730280,Grand Junction city,Grand Junction,Grand Junction,47069,Hardeman County,Incorporated place,35.049955,-89.188862,1
+TN,4730700,place:TN:4730700,Gray CDP,Gray,Gray,47179,Washington County,Census-designated place,36.421146,-82.476467,1
+TN,4730760,place:TN:4730760,Graysville town,Graysville,Graysville,47143,Rhea County,Incorporated place,35.449332,-85.076359,1
+TN,4731100,place:TN:4731100,Green Hill CDP,Green Hill,Green Hill,47189,Wilson County,Census-designated place,36.234985,-86.572531,1
+TN,4730880,place:TN:4730880,Greenback city,Greenback,Greenback,47105,Loudon County,Incorporated place,35.647753,-84.167744,1
+TN,4730960,place:TN:4730960,Greenbrier town,Greenbrier,Greenbrier,47147,Robertson County,Incorporated place,36.421563,-86.790152,1
+TN,4730980,place:TN:4730980,Greeneville town,Greeneville,Greeneville,47059,Greene County,Incorporated place,36.168016,-82.819669,1
+TN,4731000,place:TN:4731000,Greenfield city,Greenfield,Greenfield,47183,Weakley County,Incorporated place,36.165098,-88.807279,1
+TN,4731220,place:TN:4731220,Greenvale CDP,Greenvale,Greenvale,47189,Wilson County,Census-designated place,36.005486,-86.201211,1
+TN,4731400,place:TN:4731400,Griffith Creek CDP,Griffith Creek,Griffith Creek,47115,Marion County,Census-designated place,35.276049,-85.53603,1
+TN,4731420,place:TN:4731420,Grimsley CDP,Grimsley,Grimsley,47049,Fentress County,Census-designated place,36.276069,-84.996942,1
+TN,4731490,place:TN:4731490,Gruetli-Laager city,Gruetli-Laager,Gruetli-Laager,47061,Grundy County,Incorporated place,35.372571,-85.637403,1
+TN,4731680,place:TN:4731680,Guys town,Guys,Guys,47109,McNairy County,Incorporated place,35.01521,-88.534918,1
+TN,4731810,place:TN:4731810,Halls CDP,Halls,"Halls, Knox County",47093,Knox County,Census-designated place,36.081676,-83.934383,1
+TN,4731820,place:TN:4731820,Halls town,Halls,"Halls, Lauderdale County",47097,Lauderdale County,Incorporated place,35.881052,-89.408713,1
+TN,4732040,place:TN:4732040,Hampton CDP,Hampton,Hampton,47019,Carter County,Census-designated place,36.277252,-82.172789,1
+TN,4732520,place:TN:4732520,Harriman city,Harriman,Harriman,47145,Roane County,Incorporated place,35.930378,-84.562553,1
+TN,4732600,place:TN:4732600,Harrison CDP,Harrison,Harrison,47065,Hamilton County,Census-designated place,35.125044,-85.147132,1
+TN,4732640,place:TN:4732640,Harrogate city,Harrogate,Harrogate,47025,Claiborne County,Incorporated place,36.575226,-83.646169,1
+TN,4732742,place:TN:4732742,Hartsville/Trousdale County,Hartsville/Trousdale County,Hartsville/Trousdale County,47169,Trousdale County,Incorporated place,36.39303,-86.156691,1
+TN,4733120,place:TN:4733120,Helenwood CDP,Helenwood,Helenwood,47151,Scott County,Census-designated place,36.434203,-84.553351,1
+TN,4733260,place:TN:4733260,Henderson city,Henderson,Henderson,47023,Chester County,Incorporated place,35.443074,-88.656556,1
+TN,4733280,place:TN:4733280,Hendersonville city,Hendersonville,Hendersonville,47165,Sumner County,Incorporated place,36.307262,-86.602288,1
+TN,4733360,place:TN:4733360,Henning town,Henning,Henning,47097,Lauderdale County,Incorporated place,35.68457,-89.574329,1
+TN,4733400,place:TN:4733400,Henry town,Henry,Henry,47079,Henry County,Incorporated place,36.201105,-88.411367,1
+TN,4733680,place:TN:4733680,Hickman CDP,Hickman,Hickman,47159,Smith County,Census-designated place,36.14518,-85.941235,1
+TN,4733920,place:TN:4733920,Hickory Valley town,Hickory Valley,Hickory Valley,47069,Hardeman County,Incorporated place,35.154904,-89.125983,1
+TN,4734580,place:TN:4734580,Hilham CDP,Hilham,Hilham,47133,Overton County,Census-designated place,36.410002,-85.442069,1
+TN,4734700,place:TN:4734700,Hillsboro CDP,Hillsboro,Hillsboro,47031,Coffee County,Census-designated place,35.404432,-85.954094,1
+TN,4735160,place:TN:4735160,Hohenwald city,Hohenwald,Hohenwald,47101,Lewis County,Incorporated place,35.551503,-87.553916,1
+TN,4735220,place:TN:4735220,Holladay CDP,Holladay,Holladay,47005,Benton County,Census-designated place,35.87195,-88.144936,1
+TN,4735280,place:TN:4735280,Hollow Rock town,Hollow Rock,Hollow Rock,47017,Carroll County,Incorporated place,36.035328,-88.269318,1
+TN,4735880,place:TN:4735880,Hopewell CDP,Hopewell,Hopewell,47011,Bradley County,Census-designated place,35.238814,-84.913861,1
+TN,4736000,place:TN:4736000,Hornbeak town,Hornbeak,Hornbeak,47131,Obion County,Incorporated place,36.335148,-89.298254,1
+TN,4736080,place:TN:4736080,Hornsby town,Hornsby,Hornsby,47069,Hardeman County,Incorporated place,35.22871,-88.829619,1
+TN,4736460,place:TN:4736460,Humboldt city,Humboldt,Humboldt,47053,Gibson County,Incorporated place,35.827395,-88.904477,1
+TN,4736500,place:TN:4736500,Hunter CDP,Hunter,Hunter,47019,Carter County,Census-designated place,36.401826,-82.150514,1
+TN,4736580,place:TN:4736580,Huntingdon town,Huntingdon,Huntingdon,47017,Carroll County,Incorporated place,36.006087,-88.41723,1
+TN,4736600,place:TN:4736600,Huntland town,Huntland,Huntland,47051,Franklin County,Incorporated place,35.057884,-86.268927,1
+TN,4736640,place:TN:4736640,Huntsville town,Huntsville,Huntsville,47151,Scott County,Incorporated place,36.41766,-84.509846,1
+TN,4736700,place:TN:4736700,Huron CDP,Huron,Huron,47077,Henderson County,Census-designated place,35.593505,-88.536041,1
+TN,4737360,place:TN:4737360,Iron City CDP,Iron City,Iron City,47099,Lawrence County,Census-designated place,35.022616,-87.585468,1
+TN,4737620,place:TN:4737620,Jacks Creek CDP,Jacks Creek,Jacks Creek,47023,Chester County,Census-designated place,35.469125,-88.514578,1
+TN,4737600,place:TN:4737600,Jacksboro town,Jacksboro,Jacksboro,47013,Campbell County,Incorporated place,36.335164,-84.192679,1
+TN,4737640,place:TN:4737640,Jackson city,Jackson,Jackson,47113,Madison County,Incorporated place,35.658451,-88.837399,1
+TN,4737780,place:TN:4737780,Jamestown city,Jamestown,Jamestown,47049,Fentress County,Incorporated place,36.430786,-84.935589,1
+TN,4737820,place:TN:4737820,Jasper town,Jasper,Jasper,47115,Marion County,Incorporated place,35.063974,-85.625237,1
+TN,4737960,place:TN:4737960,Jefferson City city,Jefferson City,Jefferson City,47089,Jefferson County,Incorporated place,36.121119,-83.479796,1
+TN,4738020,place:TN:4738020,Jellico city,Jellico,Jellico,47013,Campbell County,Incorporated place,36.571562,-84.116199,1
+TN,4738300,place:TN:4738300,John Sevier CDP,John Sevier,John Sevier,47093,Knox County,Census-designated place,36.037947,-83.825769,1
+TN,4738320,place:TN:4738320,Johnson City city,Johnson City,Johnson City,47179,Washington County,Incorporated place,36.342325,-82.380915,1
+TN,4738540,place:TN:4738540,Jonesborough town,Jonesborough,Jonesborough,47179,Washington County,Incorporated place,36.296136,-82.476407,1
+TN,4738765,place:TN:4738765,Kahite CDP,Kahite,Kahite,47123,Monroe County,Census-designated place,35.567036,-84.235375,1
+TN,4738800,place:TN:4738800,Karns CDP,Karns,Karns,47093,Knox County,Census-designated place,35.977791,-84.109116,1
+TN,4739140,place:TN:4739140,Kenton town,Kenton,Kenton,47053,Gibson County,Incorporated place,36.202189,-89.01802,1
+TN,4739400,place:TN:4739400,Kimball town,Kimball,Kimball,47115,Marion County,Incorporated place,35.0469,-85.674015,1
+TN,4739560,place:TN:4739560,Kingsport city,Kingsport,Kingsport,47163,Sullivan County,Incorporated place,36.51937,-82.543393,1
+TN,4739620,place:TN:4739620,Kingston city,Kingston,Kingston,47145,Roane County,Incorporated place,35.872666,-84.50449,1
+TN,4739660,place:TN:4739660,Kingston Springs town,Kingston Springs,Kingston Springs,47021,Cheatham County,Incorporated place,36.081868,-87.108965,1
+TN,4740000,place:TN:4740000,Knoxville city,Knoxville,Knoxville,47093,Knox County,Incorporated place,35.97068,-83.94927,1
+TN,4740180,place:TN:4740180,La Follette city,La Follette,La Follette,47013,Campbell County,Incorporated place,36.371716,-84.125649,1
+TN,4740200,place:TN:4740200,La Grange town,La Grange,La Grange,47047,Fayette County,Incorporated place,35.047648,-89.240862,1
+TN,4741200,place:TN:4741200,La Vergne city,La Vergne,La Vergne,47149,Rutherford County,Incorporated place,36.022237,-86.559384,1
+TN,4740160,place:TN:4740160,Lafayette city,Lafayette,Lafayette,47111,Macon County,Incorporated place,36.524137,-86.030662,1
+TN,4740560,place:TN:4740560,Lake Tansi CDP,Lake Tansi,Lake Tansi,47035,Cumberland County,Census-designated place,35.87036,-85.060407,1
+TN,4740350,place:TN:4740350,Lakeland city,Lakeland,Lakeland,47157,Shelby County,Incorporated place,35.26283,-89.724981,1
+TN,4740540,place:TN:4740540,Lakesite city,Lakesite,Lakesite,47065,Hamilton County,Incorporated place,35.202719,-85.141238,1
+TN,4740732,place:TN:4740732,Lakewood Park CDP,Lakewood Park,Lakewood Park,47031,Coffee County,Census-designated place,35.648635,-86.135366,1
+TN,4741240,place:TN:4741240,Lavinia CDP,Lavinia,Lavinia,47017,Carroll County,Census-designated place,35.850834,-88.652683,1
+TN,4741340,place:TN:4741340,Lawrenceburg city,Lawrenceburg,Lawrenceburg,47099,Lawrence County,Incorporated place,35.250517,-87.331844,1
+TN,4741520,place:TN:4741520,Lebanon city,Lebanon,Lebanon,47189,Wilson County,Incorporated place,36.198303,-86.345523,1
+TN,4741760,place:TN:4741760,Lenoir City city,Lenoir City,Lenoir City,47105,Loudon County,Incorporated place,35.815836,-84.283015,1
+TN,4741780,place:TN:4741780,Lenox CDP,Lenox,Lenox,47045,Dyer County,Census-designated place,36.087644,-89.497252,1
+TN,4741800,place:TN:4741800,Leoma CDP,Leoma,Leoma,47099,Lawrence County,Census-designated place,35.158146,-87.346502,1
+TN,4741860,place:TN:4741860,Lewisburg city,Lewisburg,Lewisburg,47117,Marshall County,Incorporated place,35.45123,-86.79234,1
+TN,4741980,place:TN:4741980,Lexington city,Lexington,Lexington,47077,Henderson County,Incorporated place,35.642128,-88.375313,1
+TN,4742040,place:TN:4742040,Liberty town,Liberty,Liberty,47041,DeKalb County,Incorporated place,36.004547,-85.977845,1
+TN,4742720,place:TN:4742720,Linden town,Linden,Linden,47135,Perry County,Incorporated place,35.612269,-87.843017,1
+TN,4743140,place:TN:4743140,Livingston town,Livingston,Livingston,47133,Overton County,Incorporated place,36.386637,-85.326101,1
+TN,4743160,place:TN:4743160,Lobelville city,Lobelville,Lobelville,47135,Perry County,Incorporated place,35.751653,-87.797505,1
+TN,4743420,place:TN:4743420,Lone Oak CDP,Lone Oak,Lone Oak,47153,Sequatchie County,Census-designated place,35.200757,-85.368479,1
+TN,4743640,place:TN:4743640,Lookout Mountain town,Lookout Mountain,Lookout Mountain,47065,Hamilton County,Incorporated place,34.994485,-85.351577,1
+TN,4743700,place:TN:4743700,Loretto city,Loretto,Loretto,47099,Lawrence County,Incorporated place,35.080967,-87.439456,1
+TN,4743780,place:TN:4743780,Loudon city,Loudon,Loudon,47105,Loudon County,Incorporated place,35.737244,-84.362102,1
+TN,4743820,place:TN:4743820,Louisville city,Louisville,Louisville,47009,Blount County,Incorporated place,35.822632,-84.052409,1
+TN,4744200,place:TN:4744200,Luray CDP,Luray,Luray,47077,Henderson County,Census-designated place,35.601704,-88.570246,1
+TN,4744300,place:TN:4744300,Luttrell town,Luttrell,Luttrell,47173,Union County,Incorporated place,36.209619,-83.748494,1
+TN,4744360,place:TN:4744360,Lyles CDP,Lyles,Lyles,47081,Hickman County,Census-designated place,35.919496,-87.344979,1
+TN,4744382,place:TN:4744382,"Lynchburg, Moore County metropolitan government","Lynchburg, Moore County metropolitan government","Lynchburg, Moore County metropolitan government",47127,Moore County,Incorporated place,35.288888,-86.358684,1
+TN,4744420,place:TN:4744420,Lynnville town,Lynnville,Lynnville,47055,Giles County,Incorporated place,35.378104,-87.005437,1
+TN,4745320,place:TN:4745320,Madisonville city,Madisonville,Madisonville,47123,Monroe County,Incorporated place,35.522318,-84.363132,1
+TN,4745500,place:TN:4745500,Manchester city,Manchester,Manchester,47031,Coffee County,Incorporated place,35.464125,-86.072895,1
+TN,4746240,place:TN:4746240,Martin city,Martin,Martin,47183,Weakley County,Incorporated place,36.337885,-88.851365,1
+TN,4746380,place:TN:4746380,Maryville city,Maryville,Maryville,47009,Blount County,Incorporated place,35.74781,-83.980234,1
+TN,4746400,place:TN:4746400,Mascot CDP,Mascot,Mascot,47093,Knox County,Census-designated place,36.068731,-83.763913,1
+TN,4746420,place:TN:4746420,Mason town,Mason,Mason,47167,Tipton County,Incorporated place,35.412826,-89.541212,1
+TN,4746540,place:TN:4746540,Maury City town,Maury City,Maury City,47033,Crockett County,Incorporated place,35.814475,-89.223868,1
+TN,4746680,place:TN:4746680,Mayland CDP,Mayland,Mayland,47035,Cumberland County,Census-designated place,36.045896,-85.20694,1
+TN,4746700,place:TN:4746700,Maynardville city,Maynardville,Maynardville,47173,Union County,Incorporated place,36.246953,-83.805677,1
+TN,4744700,place:TN:4744700,McDonald CDP,McDonald,McDonald,47011,Bradley County,Census-designated place,35.108782,-84.985289,1
+TN,4744840,place:TN:4744840,McEwen city,McEwen,McEwen,47085,Humphreys County,Incorporated place,36.109837,-87.635517,1
+TN,4744940,place:TN:4744940,McKenzie city,McKenzie,McKenzie,47017,Carroll County,Incorporated place,36.136643,-88.507107,1
+TN,4745000,place:TN:4745000,McLemoresville town,McLemoresville,McLemoresville,47017,Carroll County,Incorporated place,35.98625,-88.580123,1
+TN,4745100,place:TN:4745100,McMinnville city,McMinnville,McMinnville,47177,Warren County,Incorporated place,35.686308,-85.781213,1
+TN,4747000,place:TN:4747000,Medina city,Medina,Medina,47053,Gibson County,Incorporated place,35.818563,-88.790403,1
+TN,4747020,place:TN:4747020,Medon city,Medon,Medon,47113,Madison County,Incorporated place,35.452075,-88.862651,1
+TN,4748000,place:TN:4748000,Memphis city,Memphis,Memphis,47157,Shelby County,Incorporated place,35.109164,-89.968511,1
+TN,4748120,place:TN:4748120,Mercer CDP,Mercer,Mercer,47113,Madison County,Census-designated place,35.474523,-89.039372,1
+TN,4748180,place:TN:4748180,Michie town,Michie,Michie,47109,McNairy County,Incorporated place,35.060432,-88.425713,1
+TN,4748360,place:TN:4748360,Middle Valley CDP,Middle Valley,Middle Valley,47065,Hamilton County,Census-designated place,35.190745,-85.197462,1
+TN,4748340,place:TN:4748340,Middleton city,Middleton,Middleton,47069,Hardeman County,Incorporated place,35.06932,-88.89418,1
+TN,4748460,place:TN:4748460,Midtown CDP,Midtown,Midtown,47145,Roane County,Census-designated place,35.880314,-84.574735,1
+TN,4748660,place:TN:4748660,Milan city,Milan,Milan,47053,Gibson County,Incorporated place,35.91203,-88.753963,1
+TN,4748920,place:TN:4748920,Milledgeville town,Milledgeville,Milledgeville,47109,McNairy County,Incorporated place,35.377598,-88.366061,1
+TN,4748980,place:TN:4748980,Millersville city,Millersville,Millersville,47165,Sumner County,Incorporated place,36.396808,-86.711038,1
+TN,4749060,place:TN:4749060,Millington city,Millington,Millington,47157,Shelby County,Incorporated place,35.333714,-89.899539,1
+TN,4749360,place:TN:4749360,Minor Hill city,Minor Hill,Minor Hill,47055,Giles County,Incorporated place,35.056619,-87.160722,1
+TN,4749420,place:TN:4749420,Miston CDP,Miston,Miston,47045,Dyer County,Census-designated place,36.160409,-89.494007,1
+TN,4749460,place:TN:4749460,Mitchellville city,Mitchellville,Mitchellville,47165,Sumner County,Incorporated place,36.634345,-86.539957,1
+TN,4749740,place:TN:4749740,Monteagle town,Monteagle,Monteagle,47115,Marion County,Incorporated place,35.233916,-85.853301,1
+TN,4749760,place:TN:4749760,Monterey town,Monterey,Monterey,47141,Putnam County,Incorporated place,36.144639,-85.264257,1
+TN,4749940,place:TN:4749940,Mooresburg CDP,Mooresburg,Mooresburg,47073,Hawkins County,Census-designated place,36.350737,-83.235197,1
+TN,4750200,place:TN:4750200,Morris Chapel CDP,Morris Chapel,Morris Chapel,47071,Hardin County,Census-designated place,35.313929,-88.355796,1
+TN,4750220,place:TN:4750220,Morrison town,Morrison,Morrison,47177,Warren County,Incorporated place,35.607118,-85.907448,1
+TN,4750280,place:TN:4750280,Morristown city,Morristown,Morristown,47063,Hamblen County,Incorporated place,36.204351,-83.300032,1
+TN,4750300,place:TN:4750300,Moscow city,Moscow,Moscow,47047,Fayette County,Incorporated place,35.062426,-89.382319,1
+TN,4750320,place:TN:4750320,Mosheim town,Mosheim,Mosheim,47059,Greene County,Incorporated place,36.195896,-82.966668,1
+TN,4750580,place:TN:4750580,Mount Carmel town,Mount Carmel,Mount Carmel,47073,Hawkins County,Incorporated place,36.564875,-82.66777,1
+TN,4750780,place:TN:4750780,Mount Juliet city,Mount Juliet,Mount Juliet,47189,Wilson County,Incorporated place,36.201848,-86.510506,1
+TN,4751080,place:TN:4751080,Mount Pleasant city,Mount Pleasant,Mount Pleasant,47119,Maury County,Incorporated place,35.552892,-87.177738,1
+TN,4750400,place:TN:4750400,Mountain City town,Mountain City,Mountain City,47091,Johnson County,Incorporated place,36.469565,-81.804891,1
+TN,4751402,place:TN:4751402,Mowbray Mountain CDP,Mowbray Mountain,Mowbray Mountain,47065,Hamilton County,Census-designated place,35.275117,-85.222552,1
+TN,4751540,place:TN:4751540,Munford city,Munford,Munford,47167,Tipton County,Incorporated place,35.442869,-89.815922,1
+TN,4751560,place:TN:4751560,Murfreesboro city,Murfreesboro,Murfreesboro,47149,Rutherford County,Incorporated place,35.853915,-86.421224,1
+TN,4752006,place:TN:4752006,Nashville-Davidson metropolitan government (balance),Nashville-Davidson metropolitan government (balance),Nashville-Davidson metropolitan government (balance),47037,Davidson County,Incorporated place,36.172178,-86.784602,1
+TN,4752520,place:TN:4752520,New Deal CDP,New Deal,New Deal,47165,Sumner County,Census-designated place,36.513864,-86.562867,1
+TN,4752780,place:TN:4752780,New Hope city,New Hope,New Hope,47115,Marion County,Incorporated place,34.999428,-85.668442,1
+TN,4752820,place:TN:4752820,New Johnsonville city,New Johnsonville,New Johnsonville,47085,Humphreys County,Incorporated place,36.016466,-87.969457,1
+TN,4752940,place:TN:4752940,New Market town,New Market,New Market,47089,Jefferson County,Incorporated place,36.095522,-83.557037,1
+TN,4753140,place:TN:4753140,New Tazewell town,New Tazewell,New Tazewell,47025,Claiborne County,Incorporated place,36.438127,-83.60521,1
+TN,4753240,place:TN:4753240,New Union CDP,New Union,New Union,47031,Coffee County,Census-designated place,35.533951,-86.083241,1
+TN,4752400,place:TN:4752400,Newbern town,Newbern,Newbern,47045,Dyer County,Incorporated place,36.116881,-89.271363,1
+TN,4753000,place:TN:4753000,Newport city,Newport,Newport,47029,Cocke County,Incorporated place,35.96164,-83.197695,1
+TN,4753380,place:TN:4753380,Niota city,Niota,Niota,47107,McMinn County,Incorporated place,35.517166,-84.549854,1
+TN,4753400,place:TN:4753400,Nixon CDP,Nixon,Nixon,47071,Hardin County,Census-designated place,35.11479,-88.258227,1
+TN,4753460,place:TN:4753460,Nolensville town,Nolensville,Nolensville,47187,Williamson County,Incorporated place,35.957069,-86.671036,1
+TN,4753520,place:TN:4753520,Norene CDP,Norene,Norene,47189,Wilson County,Census-designated place,36.054061,-86.238175,1
+TN,4753580,place:TN:4753580,Normandy town,Normandy,Normandy,47003,Bedford County,Incorporated place,35.452457,-86.258327,1
+TN,4753600,place:TN:4753600,Norris city,Norris,Norris,47001,Anderson County,Incorporated place,36.213706,-84.062921,1
+TN,4754640,place:TN:4754640,Oak Grove CDP,Oak Grove,"Oak Grove, Sumner County",47165,Sumner County,Census-designated place,36.572167,-86.37809,1
+TN,4754700,place:TN:4754700,Oak Grove CDP,Oak Grove,"Oak Grove, Washington County",47179,Washington County,Census-designated place,36.425062,-82.434054,1
+TN,4754780,place:TN:4754780,Oak Hill city,Oak Hill,Oak Hill,47037,Davidson County,Incorporated place,36.068622,-86.792802,1
+TN,4755120,place:TN:4755120,Oak Ridge city,Oak Ridge,Oak Ridge,47001,Anderson County,Incorporated place,35.966483,-84.290549,1
+TN,4754280,place:TN:4754280,Oakdale town,Oakdale,Oakdale,47129,Morgan County,Incorporated place,35.992986,-84.556565,1
+TN,4754920,place:TN:4754920,Oakland town,Oakland,Oakland,47047,Fayette County,Incorporated place,35.226102,-89.538172,1
+TN,4755240,place:TN:4755240,Obion town,Obion,Obion,47131,Obion County,Incorporated place,36.261676,-89.182371,1
+TN,4755280,place:TN:4755280,Ocoee CDP,Ocoee,Ocoee,47139,Polk County,Census-designated place,35.123508,-84.716729,1
+TN,4755800,place:TN:4755800,Oliver Springs town,Oliver Springs,Oliver Springs,47001,Anderson County,Incorporated place,36.039859,-84.328487,1
+TN,4755820,place:TN:4755820,Olivet CDP,Olivet,Olivet,47071,Hardin County,Census-designated place,35.204752,-88.193899,1
+TN,4755860,place:TN:4755860,Oneida town,Oneida,Oneida,47151,Scott County,Incorporated place,36.514355,-84.510675,1
+TN,4755900,place:TN:4755900,Ooltewah CDP,Ooltewah,Ooltewah,47065,Hamilton County,Census-designated place,35.072335,-85.054466,1
+TN,4755980,place:TN:4755980,Orebank CDP,Orebank,Orebank,47163,Sullivan County,Census-designated place,36.555955,-82.464071,1
+TN,4756020,place:TN:4756020,Orlinda city,Orlinda,Orlinda,47147,Robertson County,Incorporated place,36.593839,-86.701561,1
+TN,4756040,place:TN:4756040,Orme town,Orme,Orme,47115,Marion County,Incorporated place,35.0147,-85.80481,1
+TN,4756560,place:TN:4756560,Palmer town,Palmer,Palmer,47061,Grundy County,Incorporated place,35.357562,-85.565599,1
+TN,4756580,place:TN:4756580,Palmersville CDP,Palmersville,Palmersville,47183,Weakley County,Census-designated place,36.408409,-88.584223,1
+TN,4756720,place:TN:4756720,Paris city,Paris,Paris,47079,Henry County,Incorporated place,36.292739,-88.308062,1
+TN,4756800,place:TN:4756800,Park City CDP,Park City,Park City,47103,Lincoln County,Census-designated place,35.073694,-86.581861,1
+TN,4756870,place:TN:4756870,Parker's Crossroads city,Parker's Crossroads,Parker's Crossroads,47077,Henderson County,Incorporated place,35.789383,-88.39055,1
+TN,4757040,place:TN:4757040,Parrottsville town,Parrottsville,Parrottsville,47029,Cocke County,Incorporated place,36.00823,-83.091548,1
+TN,4757080,place:TN:4757080,Parsons city,Parsons,Parsons,47039,Decatur County,Incorporated place,35.651224,-88.12308,1
+TN,4757480,place:TN:4757480,Pegram town,Pegram,Pegram,47021,Cheatham County,Incorporated place,36.103664,-87.056529,1
+TN,4757500,place:TN:4757500,Pelham CDP,Pelham,Pelham,47061,Grundy County,Census-designated place,35.334137,-85.87029,1
+TN,4757740,place:TN:4757740,Petersburg town,Petersburg,Petersburg,47103,Lincoln County,Incorporated place,35.317347,-86.64058,1
+TN,4757780,place:TN:4757780,Petros CDP,Petros,Petros,47129,Morgan County,Census-designated place,36.102773,-84.450322,1
+TN,4757900,place:TN:4757900,Philadelphia city,Philadelphia,Philadelphia,47105,Loudon County,Incorporated place,35.67905,-84.399914,1
+TN,4758080,place:TN:4758080,Pigeon Forge city,Pigeon Forge,Pigeon Forge,47155,Sevier County,Incorporated place,35.797999,-83.56381,1
+TN,4758120,place:TN:4758120,Pikeville city,Pikeville,Pikeville,47007,Bledsoe County,Incorporated place,35.615358,-85.193362,1
+TN,4758240,place:TN:4758240,Pine Crest CDP,Pine Crest,Pine Crest,47019,Carter County,Census-designated place,36.293202,-82.308919,1
+TN,4758780,place:TN:4758780,Pinson CDP,Pinson,Pinson,47113,Madison County,Census-designated place,35.479,-88.741273,1
+TN,4758840,place:TN:4758840,Piperton city,Piperton,Piperton,47047,Fayette County,Incorporated place,35.053787,-89.609929,1
+TN,4758940,place:TN:4758940,Pittman Center town,Pittman Center,Pittman Center,47155,Sevier County,Incorporated place,35.759506,-83.388506,1
+TN,4759020,place:TN:4759020,Plainview city,Plainview,Plainview,47173,Union County,Incorporated place,36.180707,-83.793326,1
+TN,4759240,place:TN:4759240,Pleasant Hill town,Pleasant Hill,Pleasant Hill,47035,Cumberland County,Incorporated place,35.973705,-85.202408,1
+TN,4759560,place:TN:4759560,Pleasant View city,Pleasant View,Pleasant View,47021,Cheatham County,Incorporated place,36.389266,-87.045493,1
+TN,4759640,place:TN:4759640,Pocahontas CDP,Pocahontas,Pocahontas,47069,Hardeman County,Census-designated place,35.054733,-88.801908,1
+TN,4760280,place:TN:4760280,Portland city,Portland,Portland,47165,Sumner County,Incorporated place,36.597486,-86.526621,1
+TN,4760480,place:TN:4760480,Powell CDP,Powell,Powell,47093,Knox County,Census-designated place,36.035851,-84.029652,1
+TN,4760500,place:TN:4760500,Powells Crossroads town,Powells Crossroads,Powells Crossroads,47115,Marion County,Incorporated place,35.184817,-85.484776,1
+TN,4760800,place:TN:4760800,Prospect CDP,Prospect,Prospect,47055,Giles County,Census-designated place,35.02189,-86.998944,1
+TN,4761040,place:TN:4761040,Pulaski city,Pulaski,Pulaski,47055,Giles County,Incorporated place,35.193299,-87.033542,1
+TN,4761160,place:TN:4761160,Puryear city,Puryear,Puryear,47079,Henry County,Incorporated place,36.441368,-88.332423,1
+TN,4761520,place:TN:4761520,Ramer city,Ramer,Ramer,47109,McNairy County,Incorporated place,35.071873,-88.614889,1
+TN,4761560,place:TN:4761560,Randolph CDP,Randolph,Randolph,47167,Tipton County,Census-designated place,35.518863,-89.884601,1
+TN,4761635,place:TN:4761635,Rarity Bay CDP,Rarity Bay,Rarity Bay,47123,Monroe County,Census-designated place,35.634812,-84.253738,1
+TN,4761960,place:TN:4761960,Red Bank city,Red Bank,Red Bank,47065,Hamilton County,Incorporated place,35.111695,-85.296162,1
+TN,4762000,place:TN:4762000,Red Boiling Springs city,Red Boiling Springs,Red Boiling Springs,47111,Macon County,Incorporated place,36.530175,-85.848174,1
+TN,4762580,place:TN:4762580,Riceville CDP,Riceville,Riceville,47107,McMinn County,Census-designated place,35.389475,-84.698855,1
+TN,4763060,place:TN:4763060,Ridgely town,Ridgely,Ridgely,47095,Lake County,Incorporated place,36.263214,-89.48062,1
+TN,4763080,place:TN:4763080,Ridgeside city,Ridgeside,Ridgeside,47065,Hamilton County,Incorporated place,35.034917,-85.247008,1
+TN,4763140,place:TN:4763140,Ridgetop city,Ridgetop,Ridgetop,47147,Robertson County,Incorporated place,36.403749,-86.767724,1
+TN,4763340,place:TN:4763340,Ripley city,Ripley,Ripley,47097,Lauderdale County,Incorporated place,35.744425,-89.533331,1
+TN,4763800,place:TN:4763800,Rives town,Rives,Rives,47131,Obion County,Incorporated place,36.356161,-89.049605,1
+TN,4763840,place:TN:4763840,Roan Mountain CDP,Roan Mountain,Roan Mountain,47019,Carter County,Census-designated place,36.186662,-82.070538,1
+TN,4763920,place:TN:4763920,Robbins CDP,Robbins,Robbins,47151,Scott County,Census-designated place,36.353659,-84.583878,1
+TN,4764160,place:TN:4764160,Rockford city,Rockford,Rockford,47009,Blount County,Incorporated place,35.834422,-83.936128,1
+TN,4764400,place:TN:4764400,Rockvale CDP,Rockvale,Rockvale,47149,Rutherford County,Census-designated place,35.766343,-86.521628,1
+TN,4764440,place:TN:4764440,Rockwood city,Rockwood,Rockwood,47145,Roane County,Incorporated place,35.870081,-84.674943,1
+TN,4764668,place:TN:4764668,Rocky Top city,Rocky Top,Rocky Top,47001,Anderson County,Incorporated place,36.22493,-84.154789,1
+TN,4764820,place:TN:4764820,Rogersville town,Rogersville,Rogersville,47073,Hawkins County,Incorporated place,36.408286,-83.004161,1
+TN,4765240,place:TN:4765240,Rossville town,Rossville,Rossville,47047,Fayette County,Incorporated place,35.030932,-89.562006,1
+TN,4765642,place:TN:4765642,Rural Hill CDP,Rural Hill,Rural Hill,47189,Wilson County,Census-designated place,36.118011,-86.514999,1
+TN,4765740,place:TN:4765740,Russellville CDP,Russellville,Russellville,47063,Hamblen County,Census-designated place,36.258013,-83.196774,1
+TN,4765760,place:TN:4765760,Rutherford town,Rutherford,Rutherford,47053,Gibson County,Incorporated place,36.122081,-88.992851,1
+TN,4765820,place:TN:4765820,Rutledge town,Rutledge,Rutledge,47057,Grainger County,Incorporated place,36.274373,-83.532716,1
+TN,4766220,place:TN:4766220,Sale Creek CDP,Sale Creek,Sale Creek,47065,Hamilton County,Census-designated place,35.386419,-85.082389,1
+TN,4766340,place:TN:4766340,Saltillo town,Saltillo,Saltillo,47071,Hardin County,Incorporated place,35.382347,-88.240004,1
+TN,4766360,place:TN:4766360,Samburg town,Samburg,Samburg,47131,Obion County,Incorporated place,36.381943,-89.352365,1
+TN,4766660,place:TN:4766660,Sardis town,Sardis,Sardis,47077,Henderson County,Incorporated place,35.442436,-88.291187,1
+TN,4766680,place:TN:4766680,Saulsbury town,Saulsbury,Saulsbury,47069,Hardeman County,Incorporated place,35.048786,-89.088333,1
+TN,4766720,place:TN:4766720,Savannah city,Savannah,Savannah,47071,Hardin County,Incorporated place,35.220926,-88.235062,1
+TN,4766880,place:TN:4766880,Scotts Hill town,Scotts Hill,Scotts Hill,47077,Henderson County,Incorporated place,35.518306,-88.252308,1
+TN,4766940,place:TN:4766940,Selmer town,Selmer,Selmer,47109,McNairy County,Incorporated place,35.170593,-88.595102,1
+TN,4766960,place:TN:4766960,Sequatchie CDP,Sequatchie,Sequatchie,47115,Marion County,Census-designated place,35.111487,-85.596569,1
+TN,4767120,place:TN:4767120,Sevierville city,Sevierville,Sevierville,47155,Sevier County,Incorporated place,35.889691,-83.579861,1
+TN,4767140,place:TN:4767140,Sewanee CDP,Sewanee,Sewanee,47051,Franklin County,Census-designated place,35.19788,-85.921476,1
+TN,4767200,place:TN:4767200,Seymour CDP,Seymour,Seymour,47155,Sevier County,Census-designated place,35.882415,-83.761531,1
+TN,4767230,place:TN:4767230,Shackle Island CDP,Shackle Island,Shackle Island,47165,Sumner County,Census-designated place,36.377529,-86.616826,1
+TN,4767540,place:TN:4767540,Sharon town,Sharon,Sharon,47183,Weakley County,Incorporated place,36.235102,-88.825146,1
+TN,4767760,place:TN:4767760,Shelbyville city,Shelbyville,Shelbyville,47003,Bedford County,Incorporated place,35.501338,-86.452914,1
+TN,4767920,place:TN:4767920,Sherwood CDP,Sherwood,Sherwood,47051,Franklin County,Census-designated place,35.074888,-85.92591,1
+TN,4768040,place:TN:4768040,Shiloh CDP,Shiloh,Shiloh,47071,Hardin County,Census-designated place,35.109845,-88.364533,1
+TN,4768540,place:TN:4768540,Signal Mountain town,Signal Mountain,Signal Mountain,47065,Hamilton County,Incorporated place,35.143893,-85.341469,1
+TN,4768560,place:TN:4768560,Silerton town,Silerton,Silerton,47069,Hardeman County,Incorporated place,35.34235,-88.809941,1
+TN,4769080,place:TN:4769080,Slayden town,Slayden,Slayden,47043,Dickson County,Incorporated place,36.291314,-87.465614,1
+TN,4769320,place:TN:4769320,Smithville city,Smithville,Smithville,47041,DeKalb County,Incorporated place,35.958408,-85.82136,1
+TN,4769420,place:TN:4769420,Smyrna town,Smyrna,Smyrna,47149,Rutherford County,Incorporated place,35.967533,-86.525348,1
+TN,4769460,place:TN:4769460,Sneedville town,Sneedville,Sneedville,47067,Hancock County,Incorporated place,36.53546,-83.210448,1
+TN,4769560,place:TN:4769560,Soddy-Daisy city,Soddy-Daisy,Soddy-Daisy,47065,Hamilton County,Incorporated place,35.261575,-85.172121,1
+TN,4769620,place:TN:4769620,Somerville town,Somerville,Somerville,47047,Fayette County,Incorporated place,35.232249,-89.375554,1
+TN,4769680,place:TN:4769680,South Carthage town,South Carthage,South Carthage,47159,Smith County,Incorporated place,36.239702,-85.957462,1
+TN,4769740,place:TN:4769740,South Cleveland CDP,South Cleveland,South Cleveland,47011,Bradley County,Census-designated place,35.109192,-84.909901,1
+TN,4769900,place:TN:4769900,South Fulton city,South Fulton,South Fulton,47131,Obion County,Incorporated place,36.49334,-88.883654,1
+TN,4770060,place:TN:4770060,South Pittsburg city,South Pittsburg,South Pittsburg,47115,Marion County,Incorporated place,35.011154,-85.718225,1
+TN,4770180,place:TN:4770180,Sparta city,Sparta,Sparta,47185,White County,Incorporated place,35.934736,-85.47264,1
+TN,4770240,place:TN:4770240,Spencer city,Spencer,Spencer,47175,Van Buren County,Incorporated place,35.73924,-85.456052,1
+TN,4770400,place:TN:4770400,Spring City town,Spring City,Spring City,47143,Rhea County,Incorporated place,35.686385,-84.864229,1
+TN,4770580,place:TN:4770580,Spring Hill city,Spring Hill,Spring Hill,47119,Maury County,Incorporated place,35.743297,-86.911806,1
+TN,4770500,place:TN:4770500,Springfield city,Springfield,Springfield,47147,Robertson County,Incorporated place,36.495225,-86.872453,1
+TN,4770680,place:TN:4770680,Spurgeon CDP,Spurgeon,Spurgeon,47163,Sullivan County,Census-designated place,36.444433,-82.461254,1
+TN,4766160,place:TN:4766160,St. Joseph city,St. Joseph,St. Joseph,47099,Lawrence County,Incorporated place,35.032979,-87.500778,1
+TN,4770820,place:TN:4770820,Stanton town,Stanton,Stanton,47075,Haywood County,Incorporated place,35.461332,-89.401373,1
+TN,4770840,place:TN:4770840,Stantonville town,Stantonville,Stantonville,47109,McNairy County,Incorporated place,35.156934,-88.430176,1
+TN,4770900,place:TN:4770900,Statesville CDP,Statesville,Statesville,47189,Wilson County,Census-designated place,36.019829,-86.120605,1
+TN,4771500,place:TN:4771500,Strawberry Plains CDP,Strawberry Plains,Strawberry Plains,47089,Jefferson County,Census-designated place,36.064315,-83.645185,1
+TN,4771800,place:TN:4771800,Sullivan Gardens CDP,Sullivan Gardens,Sullivan Gardens,47163,Sullivan County,Census-designated place,36.487701,-82.59113,1
+TN,4772040,place:TN:4772040,Summertown CDP,Summertown,Summertown,47099,Lawrence County,Census-designated place,35.434421,-87.30846,1
+TN,4772140,place:TN:4772140,Sunbright city,Sunbright,Sunbright,47129,Morgan County,Incorporated place,36.242713,-84.679937,1
+TN,4772380,place:TN:4772380,Surgoinsville town,Surgoinsville,Surgoinsville,47073,Hawkins County,Incorporated place,36.472595,-82.860716,1
+TN,4772540,place:TN:4772540,Sweetwater city,Sweetwater,Sweetwater,47123,Monroe County,Incorporated place,35.602623,-84.473378,1
+TN,4772780,place:TN:4772780,Taft CDP,Taft,Taft,47103,Lincoln County,Census-designated place,35.02614,-86.717664,1
+TN,4773120,place:TN:4773120,Tazewell town,Tazewell,Tazewell,47025,Claiborne County,Incorporated place,36.462502,-83.567034,1
+TN,4773220,place:TN:4773220,Telford CDP,Telford,Telford,47179,Washington County,Census-designated place,36.253418,-82.547762,1
+TN,4773260,place:TN:4773260,Tellico Plains town,Tellico Plains,Tellico Plains,47123,Monroe County,Incorporated place,35.366495,-84.298138,1
+TN,4773270,place:TN:4773270,Tellico Village CDP,Tellico Village,Tellico Village,47105,Loudon County,Census-designated place,35.697885,-84.263596,1
+TN,4773460,place:TN:4773460,Tennessee Ridge town,Tennessee Ridge,Tennessee Ridge,47083,Houston County,Incorporated place,36.318093,-87.767946,1
+TN,4773900,place:TN:4773900,Thompson's Station town,Thompson's Station,Thompson's Station,47187,Williamson County,Incorporated place,35.812518,-86.91003,1
+TN,4774100,place:TN:4774100,Three Way city,Three Way,Three Way,47113,Madison County,Incorporated place,35.772022,-88.857224,1
+TN,4774540,place:TN:4774540,Tiptonville town,Tiptonville,Tiptonville,47095,Lake County,Incorporated place,36.376076,-89.475327,1
+TN,4774640,place:TN:4774640,Toone town,Toone,Toone,47069,Hardeman County,Incorporated place,35.356398,-88.953903,1
+TN,4774860,place:TN:4774860,Townsend city,Townsend,Townsend,47009,Blount County,Incorporated place,35.676321,-83.752995,1
+TN,4774880,place:TN:4774880,Tracy City town,Tracy City,Tracy City,47061,Grundy County,Incorporated place,35.261632,-85.757382,1
+TN,4775000,place:TN:4775000,Trenton city,Trenton,Trenton,47053,Gibson County,Incorporated place,35.972539,-88.946837,1
+TN,4775100,place:TN:4775100,Trezevant town,Trezevant,Trezevant,47017,Carroll County,Incorporated place,36.01094,-88.620604,1
+TN,4775160,place:TN:4775160,Trimble town,Trimble,Trimble,47045,Dyer County,Incorporated place,36.20202,-89.187969,1
+TN,4775240,place:TN:4775240,Troy town,Troy,Troy,47131,Obion County,Incorporated place,36.341813,-89.158398,1
+TN,4775300,place:TN:4775300,Tuckers Crossroads CDP,Tuckers Crossroads,Tuckers Crossroads,47189,Wilson County,Census-designated place,36.206622,-86.167638,1
+TN,4775320,place:TN:4775320,Tullahoma city,Tullahoma,Tullahoma,47031,Coffee County,Incorporated place,35.373447,-86.218295,1
+TN,4775560,place:TN:4775560,Tusculum city,Tusculum,Tusculum,47059,Greene County,Incorporated place,36.175006,-82.745391,1
+TN,4775820,place:TN:4775820,Unicoi town,Unicoi,Unicoi,47171,Unicoi County,Incorporated place,36.221771,-82.329224,1
+TN,4775940,place:TN:4775940,Union City city,Union City,Union City,47131,Obion County,Incorporated place,36.427088,-89.04772,1
+TN,4776180,place:TN:4776180,Unionville CDP,Unionville,Unionville,47003,Bedford County,Census-designated place,35.611753,-86.573883,1
+TN,4776660,place:TN:4776660,Valley Forge CDP,Valley Forge,Valley Forge,47019,Carter County,Census-designated place,36.304242,-82.194807,1
+TN,4776860,place:TN:4776860,Vanleer town,Vanleer,Vanleer,47043,Dickson County,Incorporated place,36.236742,-87.448314,1
+TN,4777400,place:TN:4777400,Viola town,Viola,Viola,47177,Warren County,Incorporated place,35.542427,-85.859567,1
+TN,4777480,place:TN:4777480,Vonore town,Vonore,Vonore,47123,Monroe County,Incorporated place,35.596954,-84.23502,1
+TN,4777540,place:TN:4777540,Walden town,Walden,Walden,47065,Hamilton County,Incorporated place,35.163488,-85.309851,1
+TN,4777700,place:TN:4777700,Walland CDP,Walland,Walland,47009,Blount County,Census-designated place,35.732045,-83.806818,1
+TN,4777760,place:TN:4777760,Walnut Grove CDP,Walnut Grove,"Walnut Grove, Hardin County",47071,Hardin County,Census-designated place,35.047911,-88.06414,1
+TN,4777820,place:TN:4777820,Walnut Grove CDP,Walnut Grove,"Walnut Grove, Sumner County",47165,Sumner County,Census-designated place,36.488977,-86.605692,1
+TN,4777900,place:TN:4777900,Walnut Hill CDP,Walnut Hill,Walnut Hill,47163,Sullivan County,Census-designated place,36.567868,-82.265725,1
+TN,4777980,place:TN:4777980,Walterhill CDP,Walterhill,Walterhill,47149,Rutherford County,Census-designated place,35.957291,-86.367849,1
+TN,4778100,place:TN:4778100,Wartburg city,Wartburg,Wartburg,47129,Morgan County,Incorporated place,36.103953,-84.586403,1
+TN,4778120,place:TN:4778120,Wartrace town,Wartrace,Wartrace,47003,Bedford County,Incorporated place,35.525317,-86.330145,1
+TN,4778240,place:TN:4778240,Watauga city,Watauga,Watauga,47019,Carter County,Incorporated place,36.368282,-82.292003,1
+TN,4778320,place:TN:4778320,Watertown city,Watertown,Watertown,47189,Wilson County,Incorporated place,36.100677,-86.13944,1
+TN,4778560,place:TN:4778560,Waverly city,Waverly,Waverly,47085,Humphreys County,Incorporated place,36.093101,-87.786147,1
+TN,4778600,place:TN:4778600,Waynesboro city,Waynesboro,Waynesboro,47181,Wayne County,Incorporated place,35.323503,-87.759332,1
+TN,4779420,place:TN:4779420,Westmoreland town,Westmoreland,Westmoreland,47165,Sumner County,Incorporated place,36.574521,-86.249025,1
+TN,4779500,place:TN:4779500,Westpoint CDP,Westpoint,Westpoint,47099,Lawrence County,Census-designated place,35.134862,-87.537625,1
+TN,4779980,place:TN:4779980,White Bluff town,White Bluff,White Bluff,47043,Dickson County,Incorporated place,36.100947,-87.211874,1
+TN,4780200,place:TN:4780200,White House city,White House,White House,47147,Robertson County,Incorporated place,36.464873,-86.668504,1
+TN,4780360,place:TN:4780360,White Pine town,White Pine,White Pine,47089,Jefferson County,Incorporated place,36.101255,-83.285661,1
+TN,4780500,place:TN:4780500,Whiteside CDP,Whiteside,Whiteside,47115,Marion County,Census-designated place,34.994556,-85.486845,1
+TN,4780540,place:TN:4780540,Whiteville town,Whiteville,Whiteville,47069,Hardeman County,Incorporated place,35.317931,-89.149744,1
+TN,4780580,place:TN:4780580,Whitlock CDP,Whitlock,Whitlock,47079,Henry County,Census-designated place,36.366882,-88.3618,1
+TN,4780620,place:TN:4780620,Whitwell city,Whitwell,Whitwell,47115,Marion County,Incorporated place,35.192393,-85.521532,1
+TN,4780720,place:TN:4780720,Wildersville CDP,Wildersville,Wildersville,47077,Henderson County,Census-designated place,35.776654,-88.356143,1
+TN,4780740,place:TN:4780740,Wildwood CDP,Wildwood,Wildwood,47009,Blount County,Census-designated place,35.799857,-83.868543,1
+TN,4780760,place:TN:4780760,Wildwood Lake CDP,Wildwood Lake,Wildwood Lake,47011,Bradley County,Census-designated place,35.088202,-84.847707,1
+TN,4781020,place:TN:4781020,Williston city,Williston,Williston,47047,Fayette County,Incorporated place,35.158496,-89.375391,1
+TN,4781080,place:TN:4781080,Winchester city,Winchester,Winchester,47051,Franklin County,Incorporated place,35.190547,-86.107859,1
+TN,4781280,place:TN:4781280,Winfield town,Winfield,Winfield,47151,Scott County,Incorporated place,36.563181,-84.446306,1
+TN,4781560,place:TN:4781560,Woodbury town,Woodbury,Woodbury,47015,Cannon County,Incorporated place,35.824729,-86.072414,1
+TN,4781700,place:TN:4781700,Woodland Mills city,Woodland Mills,Woodland Mills,47131,Obion County,Incorporated place,36.476652,-89.110423,1
+TN,4782120,place:TN:4782120,Wrigley CDP,Wrigley,Wrigley,47081,Hickman County,Census-designated place,35.899838,-87.35369,1
+TN,4782200,place:TN:4782200,Wynnburg CDP,Wynnburg,Wynnburg,47095,Lake County,Census-designated place,36.330021,-89.468553,1
+TN,4782360,place:TN:4782360,Yorkville city,Yorkville,Yorkville,47053,Gibson County,Incorporated place,36.097601,-89.118336,1
+TN,4782440,place:TN:4782440,Yuma CDP,Yuma,Yuma,47017,Carroll County,Census-designated place,35.843769,-88.337197,1

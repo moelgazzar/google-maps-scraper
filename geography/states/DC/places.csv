@@ -1,0 +1,2 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+DC,1150000,place:DC:1150000,Washington city,Washington,Washington,11001,District of Columbia,Incorporated place,38.904243,-77.016524,1

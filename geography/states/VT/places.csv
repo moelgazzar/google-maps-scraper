@@ -1,0 +1,181 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+VT,5000400,place:VT:5000400,Albany village,Albany,Albany,50019,Orleans County,Incorporated place,44.729932,-72.381758,1
+VT,5000850,place:VT:5000850,Alburgh village,Alburgh,Alburgh,50013,Grand Isle County,Incorporated place,44.977315,-73.305912,1
+VT,5001035,place:VT:5001035,Algiers CDP,Algiers,Algiers,50025,Windham County,Census-designated place,42.820005,-72.579559,1
+VT,5001375,place:VT:5001375,Arlington CDP,Arlington,Arlington,50003,Bennington County,Census-designated place,43.072919,-73.146094,1
+VT,5001750,place:VT:5001750,Ascutney CDP,Ascutney,Ascutney,50027,Windsor County,Census-designated place,43.412722,-72.402767,1
+VT,5002425,place:VT:5002425,Bakersfield CDP,Bakersfield,Bakersfield,50011,Franklin County,Census-designated place,44.782021,-72.803277,1
+VT,5002800,place:VT:5002800,Barnet CDP,Barnet,Barnet,50005,Caledonia County,Census-designated place,44.295484,-72.04983,1
+VT,5003175,place:VT:5003175,Barre city,Barre,Barre,50023,Washington County,Incorporated place,44.19995,-72.507853,1
+VT,5003475,place:VT:5003475,Barton village,Barton,Barton,50019,Orleans County,Incorporated place,44.747972,-72.178552,1
+VT,5004150,place:VT:5004150,Beecher Falls CDP,Beecher Falls,Beecher Falls,50009,Essex County,Census-designated place,45.009587,-71.487927,1
+VT,5004225,place:VT:5004225,Bellows Falls village,Bellows Falls,Bellows Falls,50025,Windham County,Incorporated place,43.134772,-72.458913,1
+VT,5004750,place:VT:5004750,Bennington CDP,Bennington,Bennington,50003,Bennington County,Census-designated place,42.871086,-73.180206,1
+VT,5005125,place:VT:5005125,Benson CDP,Benson,Benson,50021,Rutland County,Census-designated place,43.710063,-73.302976,1
+VT,5005725,place:VT:5005725,Bethel CDP,Bethel,Bethel,50027,Windsor County,Census-designated place,43.829702,-72.634495,1
+VT,5006475,place:VT:5006475,Bolton CDP,Bolton,Bolton,50007,Chittenden County,Census-designated place,44.374215,-72.88601,1
+VT,5006700,place:VT:5006700,Bolton Valley CDP,Bolton Valley,Bolton Valley,50007,Chittenden County,Census-designated place,44.416642,-72.857466,1
+VT,5007225,place:VT:5007225,Bradford CDP,Bradford,Bradford,50017,Orange County,Census-designated place,43.995926,-72.124464,1
+VT,5007675,place:VT:5007675,Brandon CDP,Brandon,Brandon,50021,Rutland County,Census-designated place,43.810472,-73.090279,1
+VT,5007975,place:VT:5007975,Brattleboro CDP,Brattleboro,Brattleboro,50025,Windham County,Census-designated place,42.861515,-72.559571,1
+VT,5008950,place:VT:5008950,Bristol CDP,Bristol,Bristol,50001,Addison County,Census-designated place,44.137679,-73.09131,1
+VT,5010675,place:VT:5010675,Burlington city,Burlington,Burlington,50007,Chittenden County,Incorporated place,44.492373,-73.239498,1
+VT,5011050,place:VT:5011050,Cabot CDP,Cabot,Cabot,50023,Washington County,Census-designated place,44.406782,-72.316688,1
+VT,5011425,place:VT:5011425,Cambridge village,Cambridge,Cambridge,50015,Lamoille County,Incorporated place,44.637309,-72.881151,1
+VT,5011725,place:VT:5011725,Canaan CDP,Canaan,Canaan,50009,Essex County,Census-designated place,45.007106,-71.533879,1
+VT,5011875,place:VT:5011875,Castleton CDP,Castleton,Castleton,50021,Rutland County,Census-designated place,43.605438,-73.184824,1
+VT,5012062,place:VT:5012062,Castleton Four Corners CDP,Castleton Four Corners,Castleton Four Corners,50021,Rutland County,Census-designated place,43.611965,-73.210573,1
+VT,5012175,place:VT:5012175,Cavendish CDP,Cavendish,Cavendish,50027,Windsor County,Census-designated place,43.385393,-72.607864,1
+VT,5013450,place:VT:5013450,Chelsea CDP,Chelsea,Chelsea,50017,Orange County,Census-designated place,43.991743,-72.451214,1
+VT,5013600,place:VT:5013600,Chester CDP,Chester,Chester,50027,Windsor County,Census-designated place,43.269228,-72.5963,1
+VT,5013860,place:VT:5013860,Chimney Hill CDP,Chimney Hill,Chimney Hill,50025,Windham County,Census-designated place,42.888949,-72.909776,1
+VT,5014275,place:VT:5014275,Chittenden CDP,Chittenden,Chittenden,50021,Rutland County,Census-designated place,43.703323,-72.949464,1
+VT,5015175,place:VT:5015175,Concord CDP,Concord,Concord,50009,Essex County,Census-designated place,44.435598,-71.886404,1
+VT,5016075,place:VT:5016075,Coventry CDP,Coventry,Coventry,50019,Orleans County,Census-designated place,44.864935,-72.270044,1
+VT,5016750,place:VT:5016750,Danby CDP,Danby,Danby,50021,Rutland County,Census-designated place,43.343746,-72.994658,1
+VT,5017050,place:VT:5017050,Danville CDP,Danville,Danville,50005,Caledonia County,Census-designated place,44.408633,-72.145599,1
+VT,5017425,place:VT:5017425,Derby Center village,Derby Center,Derby Center,50019,Orleans County,Incorporated place,44.955968,-72.136095,1
+VT,5017500,place:VT:5017500,Derby Line village,Derby Line,Derby Line,50019,Orleans County,Incorporated place,44.998729,-72.107279,1
+VT,5017650,place:VT:5017650,Dorset CDP,Dorset,Dorset,50003,Bennington County,Census-designated place,43.26046,-73.108367,1
+VT,5019075,place:VT:5019075,East Barre CDP,East Barre,East Barre,50023,Washington County,Census-designated place,44.14834,-72.449497,1
+VT,5019600,place:VT:5019600,East Burke CDP,East Burke,East Burke,50005,Caledonia County,Census-designated place,44.587657,-71.940967,1
+VT,5019975,place:VT:5019975,East Charlotte CDP,East Charlotte,East Charlotte,50007,Chittenden County,Census-designated place,44.318368,-73.190865,1
+VT,5020350,place:VT:5020350,East Dorset CDP,East Dorset,East Dorset,50003,Bennington County,Census-designated place,43.243737,-73.007364,1
+VT,5021700,place:VT:5021700,East Middlebury CDP,East Middlebury,East Middlebury,50001,Addison County,Census-designated place,43.976586,-73.100235,1
+VT,5021850,place:VT:5021850,East Montpelier CDP,East Montpelier,East Montpelier,50023,Washington County,Census-designated place,44.268185,-72.49238,1
+VT,5022300,place:VT:5022300,East Poultney CDP,East Poultney,East Poultney,50021,Rutland County,Census-designated place,43.525648,-73.215012,1
+VT,5024025,place:VT:5024025,Enosburg Falls village,Enosburg Falls,Enosburg Falls,50011,Franklin County,Incorporated place,44.910013,-72.801952,1
+VT,5024400,place:VT:5024400,Essex Junction city,Essex Junction,Essex Junction,50007,Chittenden County,Incorporated place,44.490288,-73.114121,1
+VT,5025450,place:VT:5025450,Fair Haven CDP,Fair Haven,Fair Haven,50021,Rutland County,Census-designated place,43.594175,-73.280372,1
+VT,5024850,place:VT:5024850,Fairfax CDP,Fairfax,Fairfax,50011,Franklin County,Census-designated place,44.671277,-73.009271,1
+VT,5025600,place:VT:5025600,Fairlee CDP,Fairlee,Fairlee,50017,Orange County,Census-designated place,43.893818,-72.159137,1
+VT,5027925,place:VT:5027925,Gilman CDP,Gilman,Gilman,50009,Essex County,Census-designated place,44.413981,-71.712284,1
+VT,5028000,place:VT:5028000,Glover CDP,Glover,Glover,50019,Orleans County,Census-designated place,44.707108,-72.199329,1
+VT,5028825,place:VT:5028825,Grafton CDP,Grafton,Grafton,50025,Windham County,Census-designated place,43.170735,-72.60853,1
+VT,5029425,place:VT:5029425,Graniteville CDP,Graniteville,Graniteville,50023,Washington County,Census-designated place,44.145848,-72.481395,1
+VT,5030100,place:VT:5030100,Greensboro CDP,Greensboro,Greensboro,50019,Orleans County,Census-designated place,44.578992,-72.315503,1
+VT,5030325,place:VT:5030325,Greensboro Bend CDP,Greensboro Bend,Greensboro Bend,50019,Orleans County,Census-designated place,44.561397,-72.26581,1
+VT,5030475,place:VT:5030475,Groton CDP,Groton,Groton,50005,Caledonia County,Census-designated place,44.219026,-72.200843,1
+VT,5031600,place:VT:5031600,Hanksville CDP,Hanksville,Hanksville,50007,Chittenden County,Census-designated place,44.253368,-72.96089,1
+VT,5031750,place:VT:5031750,Hardwick CDP,Hardwick,Hardwick,50005,Caledonia County,Census-designated place,44.496963,-72.364454,1
+VT,5032050,place:VT:5032050,Harmonyville CDP,Harmonyville,Harmonyville,50025,Windham County,Census-designated place,43.036286,-72.667429,1
+VT,5032205,place:VT:5032205,Hartford Village CDP,Hartford Village,Hartford Village,50027,Windsor County,Census-designated place,43.666738,-72.337742,1
+VT,5032350,place:VT:5032350,Hartland CDP,Hartland,Hartland,50027,Windsor County,Census-designated place,43.542639,-72.401149,1
+VT,5033175,place:VT:5033175,Highgate Center CDP,Highgate Center,Highgate Center,50011,Franklin County,Census-designated place,44.934919,-73.038471,1
+VT,5033325,place:VT:5033325,Highgate Springs CDP,Highgate Springs,Highgate Springs,50011,Franklin County,Census-designated place,44.978326,-73.105629,1
+VT,5033400,place:VT:5033400,Hinesburg CDP,Hinesburg,Hinesburg,50007,Chittenden County,Census-designated place,44.333146,-73.109207,1
+VT,5034525,place:VT:5034525,Huntington CDP,Huntington,Huntington,50007,Chittenden County,Census-designated place,44.326403,-72.989362,1
+VT,5034675,place:VT:5034675,Huntington Center CDP,Huntington Center,Huntington Center,50007,Chittenden County,Census-designated place,44.289137,-72.969191,1
+VT,5034975,place:VT:5034975,Hyde Park village,Hyde Park,Hyde Park,50015,Lamoille County,Incorporated place,44.600581,-72.613204,1
+VT,5035500,place:VT:5035500,Irasburg CDP,Irasburg,Irasburg,50019,Orleans County,Census-designated place,44.800772,-72.290572,1
+VT,5035725,place:VT:5035725,Island Pond CDP,Island Pond,Island Pond,50009,Essex County,Census-designated place,44.814026,-71.885546,1
+VT,5036025,place:VT:5036025,Jacksonville village,Jacksonville,Jacksonville,50025,Windham County,Incorporated place,42.794288,-72.815745,1
+VT,5036100,place:VT:5036100,Jamaica CDP,Jamaica,Jamaica,50025,Windham County,Census-designated place,43.095201,-72.77457,1
+VT,5036475,place:VT:5036475,Jeffersonville village,Jeffersonville,Jeffersonville,50015,Lamoille County,Incorporated place,44.641632,-72.829654,1
+VT,5036625,place:VT:5036625,Jericho village,Jericho,Jericho,50007,Chittenden County,Incorporated place,44.502664,-72.990288,1
+VT,5036775,place:VT:5036775,Jericho Center CDP,Jericho Center,Jericho Center,50007,Chittenden County,Census-designated place,44.471591,-72.972216,0
+VT,5037000,place:VT:5037000,Johnson village,Johnson,Johnson,50015,Lamoille County,Incorporated place,44.636968,-72.678702,1
+VT,5037750,place:VT:5037750,Killington Village CDP,Killington Village,Killington Village,50021,Rutland County,Census-designated place,43.650545,-72.778421,1
+VT,5040000,place:VT:5040000,Lincoln CDP,Lincoln,Lincoln,50001,Addison County,Census-designated place,44.102714,-72.99377,1
+VT,5040150,place:VT:5040150,Londonderry CDP,Londonderry,Londonderry,50025,Windham County,Census-designated place,43.230113,-72.807969,1
+VT,5040450,place:VT:5040450,Lowell CDP,Lowell,Lowell,50019,Orleans County,Census-designated place,44.793477,-72.432754,1
+VT,5041200,place:VT:5041200,Ludlow village,Ludlow,Ludlow,50027,Windsor County,Incorporated place,43.401939,-72.699268,1
+VT,5041350,place:VT:5041350,Lunenburg CDP,Lunenburg,Lunenburg,50009,Essex County,Census-designated place,44.453063,-71.674197,1
+VT,5041650,place:VT:5041650,Lyndon CDP,Lyndon,Lyndon,50005,Caledonia County,Census-designated place,44.515122,-72.013761,1
+VT,5041800,place:VT:5041800,Lyndon Center CDP,Lyndon Center,Lyndon Center,50005,Caledonia County,Census-designated place,44.540597,-72.015613,1
+VT,5041950,place:VT:5041950,Lyndonville CDP,Lyndonville,Lyndonville,50005,Caledonia County,Census-designated place,44.529644,-71.998138,1
+VT,5042700,place:VT:5042700,Manchester village,Manchester,Manchester,50003,Bennington County,Incorporated place,43.154208,-73.062512,1
+VT,5042925,place:VT:5042925,Manchester Center CDP,Manchester Center,Manchester Center,50003,Bennington County,Census-designated place,43.188397,-73.035178,1
+VT,5043525,place:VT:5043525,Marshfield village,Marshfield,Marshfield,50023,Washington County,Incorporated place,44.350954,-72.351982,1
+VT,5044275,place:VT:5044275,Middlebury CDP,Middlebury,Middlebury,50001,Addison County,Census-designated place,44.007904,-73.157609,1
+VT,5044725,place:VT:5044725,Middletown Springs CDP,Middletown Springs,Middletown Springs,50021,Rutland County,Census-designated place,43.486568,-73.123045,1
+VT,5045175,place:VT:5045175,Milton CDP,Milton,Milton,50007,Chittenden County,Census-designated place,44.629429,-73.122631,1
+VT,5046000,place:VT:5046000,Montpelier city,Montpelier,Montpelier,50023,Washington County,Incorporated place,44.266448,-72.571524,1
+VT,5046825,place:VT:5046825,Morrisville village,Morrisville,Morrisville,50015,Lamoille County,Incorporated place,44.557263,-72.590021,1
+VT,5048550,place:VT:5048550,New Haven CDP,New Haven,New Haven,50001,Addison County,Census-designated place,44.133023,-73.14537,1
+VT,5048100,place:VT:5048100,Newbury village,Newbury,Newbury,50017,Orange County,Incorporated place,44.080819,-72.057708,1
+VT,5048325,place:VT:5048325,Newfane village,Newfane,Newfane,50025,Windham County,Incorporated place,42.987414,-72.655889,1
+VT,5048850,place:VT:5048850,Newport city,Newport,Newport,50019,Orleans County,Incorporated place,44.936864,-72.211189,1
+VT,5049000,place:VT:5049000,Newport Center CDP,Newport Center,Newport Center,50019,Orleans County,Census-designated place,44.953054,-72.304971,1
+VT,5049075,place:VT:5049075,North Bennington village,North Bennington,North Bennington,50003,Bennington County,Incorporated place,42.923245,-73.240538,1
+VT,5049450,place:VT:5049450,North Clarendon CDP,North Clarendon,North Clarendon,50021,Rutland County,Census-designated place,43.571189,-72.968138,1
+VT,5050500,place:VT:5050500,North Hartland CDP,North Hartland,North Hartland,50027,Windsor County,Census-designated place,43.597054,-72.359663,1
+VT,5050725,place:VT:5050725,North Hyde Park CDP,North Hyde Park,North Hyde Park,50015,Lamoille County,Census-designated place,44.664216,-72.588854,1
+VT,5051325,place:VT:5051325,North Pownal CDP,North Pownal,North Pownal,50003,Bennington County,Census-designated place,42.798559,-73.25732,1
+VT,5051925,place:VT:5051925,North Springfield CDP,North Springfield,North Springfield,50027,Windsor County,Census-designated place,43.329902,-72.533788,1
+VT,5052075,place:VT:5052075,North Troy village,North Troy,North Troy,50019,Orleans County,Incorporated place,44.994954,-72.404335,1
+VT,5052375,place:VT:5052375,North Westminster CDP,North Westminster,North Westminster,50025,Windham County,Census-designated place,43.122401,-72.456396,1
+VT,5050200,place:VT:5050200,Northfield CDP,Northfield,Northfield,50023,Washington County,Census-designated place,44.146522,-72.657101,1
+VT,5052825,place:VT:5052825,Norwich CDP,Norwich,Norwich,50027,Windsor County,Census-designated place,43.718016,-72.30566,1
+VT,5053125,place:VT:5053125,Old Bennington village,Old Bennington,Old Bennington,50003,Bennington County,Incorporated place,42.884091,-73.213932,1
+VT,5053575,place:VT:5053575,Orleans village,Orleans,Orleans,50019,Orleans County,Incorporated place,44.809934,-72.200853,1
+VT,5054175,place:VT:5054175,Pawlet CDP,Pawlet,Pawlet,50021,Rutland County,Census-designated place,43.338969,-73.168393,1
+VT,5054325,place:VT:5054325,Peacham CDP,Peacham,Peacham,50005,Caledonia County,Census-designated place,44.32958,-72.172452,1
+VT,5055525,place:VT:5055525,Pittsford CDP,Pittsford,Pittsford,50021,Rutland County,Census-designated place,43.71234,-73.025265,1
+VT,5055750,place:VT:5055750,Plainfield CDP,Plainfield,Plainfield,50023,Washington County,Census-designated place,44.280519,-72.431204,1
+VT,5056800,place:VT:5056800,Poultney village,Poultney,Poultney,50021,Rutland County,Incorporated place,43.517815,-73.235967,1
+VT,5056950,place:VT:5056950,Pownal CDP,Pownal,Pownal,50003,Bennington County,Census-designated place,42.766297,-73.23468,1
+VT,5057100,place:VT:5057100,Pownal Center CDP,Pownal Center,Pownal Center,50003,Bennington County,Census-designated place,42.79766,-73.221503,1
+VT,5057246,place:VT:5057246,Proctor CDP,Proctor,Proctor,50021,Rutland County,Census-designated place,43.676395,-73.045338,1
+VT,5057400,place:VT:5057400,Proctorsville CDP,Proctorsville,Proctorsville,50027,Windsor County,Census-designated place,43.380828,-72.641471,1
+VT,5057625,place:VT:5057625,Putney CDP,Putney,Putney,50025,Windham County,Census-designated place,42.971324,-72.527696,1
+VT,5057775,place:VT:5057775,Quechee CDP,Quechee,Quechee,50027,Windsor County,Census-designated place,43.64451,-72.418975,1
+VT,5058000,place:VT:5058000,Randolph CDP,Randolph,Randolph,50017,Orange County,Census-designated place,43.925715,-72.671167,1
+VT,5058525,place:VT:5058525,Readsboro CDP,Readsboro,Readsboro,50003,Bennington County,Census-designated place,42.765584,-72.951989,1
+VT,5059050,place:VT:5059050,Richford CDP,Richford,Richford,50011,Franklin County,Census-designated place,44.988276,-72.663762,1
+VT,5059200,place:VT:5059200,Richmond CDP,Richmond,Richmond,50007,Chittenden County,Census-designated place,44.405736,-73.001464,1
+VT,5060025,place:VT:5060025,Rochester CDP,Rochester,Rochester,50027,Windsor County,Census-designated place,43.870387,-72.803593,1
+VT,5061225,place:VT:5061225,Rutland city,Rutland,Rutland,50021,Rutland County,Incorporated place,43.60967,-72.977788,1
+VT,5062950,place:VT:5062950,Saxtons River village,Saxtons River,Saxtons River,50025,Windham County,Incorporated place,43.139367,-72.511138,1
+VT,5064000,place:VT:5064000,Sheffield CDP,Sheffield,Sheffield,50005,Caledonia County,Census-designated place,44.596085,-72.115177,1
+VT,5064225,place:VT:5064225,Shelburne CDP,Shelburne,Shelburne,50007,Chittenden County,Census-designated place,44.391273,-73.218212,1
+VT,5066025,place:VT:5066025,South Barre CDP,South Barre,South Barre,50023,Washington County,Census-designated place,44.160691,-72.502255,1
+VT,5066175,place:VT:5066175,South Burlington city,South Burlington,South Burlington,50007,Chittenden County,Incorporated place,44.436565,-73.181103,1
+VT,5066925,place:VT:5066925,South Hero CDP,South Hero,South Hero,50013,Grand Isle County,Census-designated place,44.648436,-73.301318,1
+VT,5067150,place:VT:5067150,South Lincoln CDP,South Lincoln,South Lincoln,50001,Addison County,Census-designated place,44.060565,-72.974351,1
+VT,5067225,place:VT:5067225,South Londonderry CDP,South Londonderry,South Londonderry,50025,Windham County,Census-designated place,43.191434,-72.808258,1
+VT,5068050,place:VT:5068050,South Royalton CDP,South Royalton,South Royalton,50027,Windsor County,Census-designated place,43.807163,-72.51224,1
+VT,5068200,place:VT:5068200,South Shaftsbury CDP,South Shaftsbury,South Shaftsbury,50003,Bennington County,Census-designated place,42.9406,-73.194627,1
+VT,5069250,place:VT:5069250,South Woodstock CDP,South Woodstock,South Woodstock,50027,Windsor County,Census-designated place,43.560217,-72.527025,1
+VT,5069475,place:VT:5069475,Springfield CDP,Springfield,Springfield,50027,Windsor County,Census-designated place,43.296641,-72.48187,1
+VT,5061675,place:VT:5061675,St. Albans city,St. Albans,St. Albans,50011,Franklin County,Incorporated place,44.811538,-73.084462,1
+VT,5062046,place:VT:5062046,St. George CDP,St. George,St. George,50007,Chittenden County,Census-designated place,44.379745,-73.131557,1
+VT,5062125,place:VT:5062125,St. Johnsbury CDP,St. Johnsbury,St. Johnsbury,50005,Caledonia County,Census-designated place,44.430445,-72.008582,1
+VT,5069700,place:VT:5069700,Stamford CDP,Stamford,Stamford,50003,Bennington County,Census-designated place,42.754844,-73.060965,1
+VT,5070450,place:VT:5070450,Stowe CDP,Stowe,Stowe,50015,Lamoille County,Census-designated place,44.467241,-72.68377,1
+VT,5070825,place:VT:5070825,Stratton Mountain CDP,Stratton Mountain,Stratton Mountain,50003,Bennington County,Census-designated place,43.116202,-72.905312,1
+VT,5071500,place:VT:5071500,Sutton CDP,Sutton,Sutton,50005,Caledonia County,Census-designated place,44.630091,-72.031527,1
+VT,5071650,place:VT:5071650,Swanton village,Swanton,Swanton,50011,Franklin County,Incorporated place,44.924538,-73.119353,1
+VT,5073225,place:VT:5073225,Townshend CDP,Townshend,Townshend,50025,Windham County,Census-designated place,43.049461,-72.670371,1
+VT,5073450,place:VT:5073450,Troy CDP,Troy,Troy,50019,Orleans County,Census-designated place,44.911101,-72.401641,1
+VT,5074050,place:VT:5074050,Underhill Center CDP,Underhill Center,Underhill Center,50007,Chittenden County,Census-designated place,44.50805,-72.89874,1
+VT,5074125,place:VT:5074125,Underhill Flats CDP,Underhill Flats,Underhill Flats,50007,Chittenden County,Census-designated place,44.523259,-72.946234,1
+VT,5074650,place:VT:5074650,Vergennes city,Vergennes,Vergennes,50001,Addison County,Incorporated place,44.16766,-73.255316,1
+VT,5075250,place:VT:5075250,Waitsfield CDP,Waitsfield,Waitsfield,50023,Washington County,Census-designated place,44.183534,-72.834279,1
+VT,5075850,place:VT:5075850,Wallingford CDP,Wallingford,Wallingford,50021,Rutland County,Census-designated place,43.472663,-72.965999,1
+VT,5076150,place:VT:5076150,Wardsboro CDP,Wardsboro,Wardsboro,50025,Windham County,Census-designated place,43.043815,-72.788421,1
+VT,5076900,place:VT:5076900,Waterbury CDP,Waterbury,Waterbury,50023,Washington County,Census-designated place,44.335677,-72.748554,1
+VT,5077050,place:VT:5077050,Waterbury Center CDP,Waterbury Center,Waterbury Center,50023,Washington County,Census-designated place,44.377996,-72.72082,1
+VT,5077800,place:VT:5077800,Websterville CDP,Websterville,Websterville,50023,Washington County,Census-designated place,44.1572,-72.477678,1
+VT,5077875,place:VT:5077875,Wells CDP,Wells,Wells,50021,Rutland County,Census-designated place,43.418682,-73.212275,1
+VT,5078025,place:VT:5078025,Wells River village,Wells River,Wells River,50017,Orange County,Incorporated place,44.156476,-72.067979,1
+VT,5078850,place:VT:5078850,West Brattleboro CDP,West Brattleboro,West Brattleboro,50025,Windham County,Census-designated place,42.856521,-72.600362,1
+VT,5079150,place:VT:5079150,West Burke village,West Burke,West Burke,50005,Caledonia County,Incorporated place,44.646794,-71.978443,1
+VT,5079335,place:VT:5079335,West Charlotte CDP,West Charlotte,West Charlotte,50007,Chittenden County,Census-designated place,44.307336,-73.257249,1
+VT,5079750,place:VT:5079750,West Dummerston CDP,West Dummerston,West Dummerston,50025,Windham County,Census-designated place,42.929804,-72.612833,1
+VT,5082150,place:VT:5082150,West Pawlet CDP,West Pawlet,West Pawlet,50021,Rutland County,Census-designated place,43.354365,-73.247572,1
+VT,5082375,place:VT:5082375,West Rutland CDP,West Rutland,West Rutland,50021,Rutland County,Census-designated place,43.59672,-73.042979,1
+VT,5083125,place:VT:5083125,West Woodstock CDP,West Woodstock,West Woodstock,50027,Windsor County,Census-designated place,43.610343,-72.553401,1
+VT,5080275,place:VT:5080275,Westford CDP,Westford,Westford,50007,Chittenden County,Census-designated place,44.603324,-73.015994,1
+VT,5081325,place:VT:5081325,Westminster village,Westminster,Westminster,50025,Windham County,Incorporated place,43.078479,-72.454269,1
+VT,5081925,place:VT:5081925,Weston CDP,Weston,Weston,50027,Windsor County,Census-designated place,43.287864,-72.794327,1
+VT,5083575,place:VT:5083575,White River Junction CDP,White River Junction,White River Junction,50027,Windsor County,Census-designated place,43.650026,-72.329173,1
+VT,5083875,place:VT:5083875,Whitingham CDP,Whitingham,Whitingham,50025,Windham County,Census-designated place,42.789194,-72.883349,1
+VT,5084025,place:VT:5084025,Wilder CDP,Wilder,Wilder,50027,Windsor County,Census-designated place,43.677681,-72.320418,1
+VT,5084100,place:VT:5084100,Williamstown CDP,Williamstown,Williamstown,50017,Orange County,Census-designated place,44.117705,-72.550501,1
+VT,5084625,place:VT:5084625,Wilmington CDP,Wilmington,Wilmington,50025,Windham County,Census-designated place,42.869334,-72.861064,1
+VT,5085000,place:VT:5085000,Windsor CDP,Windsor,Windsor,50027,Windsor County,Census-designated place,43.479211,-72.39066,1
+VT,5085150,place:VT:5085150,Winooski city,Winooski,Winooski,50007,Chittenden County,Incorporated place,44.495587,-73.184857,1
+VT,5085300,place:VT:5085300,Wolcott CDP,Wolcott,Wolcott,50015,Lamoille County,Census-designated place,44.551137,-72.47191,1
+VT,5085900,place:VT:5085900,Woodstock village,Woodstock,Woodstock,50027,Windsor County,Incorporated place,43.623218,-72.512324,1
+VT,5086050,place:VT:5086050,Worcester CDP,Worcester,Worcester,50023,Washington County,Census-designated place,44.371076,-72.548582,1

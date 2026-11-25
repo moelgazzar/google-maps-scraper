@@ -1,0 +1,596 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+AL,0100100,place:AL:0100100,Abanda CDP,Abanda,Abanda,01017,Chambers County,Census-designated place,33.091627,-85.527029,1
+AL,0100124,place:AL:0100124,Abbeville city,Abbeville,Abbeville,01067,Henry County,Incorporated place,31.565164,-85.259165,1
+AL,0100460,place:AL:0100460,Adamsville city,Adamsville,Adamsville,01073,Jefferson County,Incorporated place,33.602593,-86.971705,1
+AL,0100484,place:AL:0100484,Addison town,Addison,Addison,01133,Winston County,Incorporated place,34.202681,-87.178004,1
+AL,0100676,place:AL:0100676,Akron town,Akron,Akron,01065,Hale County,Incorporated place,32.879393,-87.740644,1
+AL,0100820,place:AL:0100820,Alabaster city,Alabaster,Alabaster,01117,Shelby County,Incorporated place,33.214355,-86.82308,1
+AL,0100988,place:AL:0100988,Albertville city,Albertville,Albertville,01095,Marshall County,Incorporated place,34.26313,-86.21066,1
+AL,0101132,place:AL:0101132,Alexander City city,Alexander City,Alexander City,01123,Tallapoosa County,Incorporated place,32.916719,-85.940589,1
+AL,0101180,place:AL:0101180,Alexandria CDP,Alexandria,Alexandria,01015,Calhoun County,Census-designated place,33.760869,-85.87218,1
+AL,0101228,place:AL:0101228,Aliceville city,Aliceville,Aliceville,01107,Pickens County,Incorporated place,33.123706,-88.159344,1
+AL,0101396,place:AL:0101396,Allgood town,Allgood,Allgood,01009,Blount County,Incorporated place,33.907623,-86.516109,1
+AL,0101660,place:AL:0101660,Altoona town,Altoona,Altoona,01055,Etowah County,Incorporated place,34.040014,-86.305179,1
+AL,0101708,place:AL:0101708,Andalusia city,Andalusia,Andalusia,01039,Covington County,Incorporated place,31.309436,-86.478031,1
+AL,0101756,place:AL:0101756,Anderson town,Anderson,Anderson,01077,Lauderdale County,Incorporated place,34.915675,-87.274274,1
+AL,0101852,place:AL:0101852,Anniston city,Anniston,Anniston,01015,Calhoun County,Incorporated place,33.673472,-85.810864,1
+AL,0102116,place:AL:0102116,Arab city,Arab,Arab,01095,Marshall County,Incorporated place,34.332387,-86.501167,1
+AL,0102260,place:AL:0102260,Ardmore town,Ardmore,Ardmore,01083,Limestone County,Incorporated place,34.987837,-86.829022,1
+AL,0102320,place:AL:0102320,Argo city,Argo,Argo,01115,St. Clair County,Incorporated place,33.697861,-86.50576,1
+AL,0102428,place:AL:0102428,Ariton town,Ariton,Ariton,01045,Dale County,Incorporated place,31.597772,-85.713061,1
+AL,0102500,place:AL:0102500,Arley town,Arley,Arley,01133,Winston County,Incorporated place,34.076234,-87.217831,1
+AL,0102836,place:AL:0102836,Ashford city,Ashford,Ashford,01069,Houston County,Incorporated place,31.185284,-85.236236,1
+AL,0102860,place:AL:0102860,Ashland town,Ashland,Ashland,01027,Clay County,Incorporated place,33.269892,-85.833706,1
+AL,0102908,place:AL:0102908,Ashville city,Ashville,Ashville,01115,St. Clair County,Incorporated place,33.835197,-86.270015,1
+AL,0102956,place:AL:0102956,Athens city,Athens,Athens,01083,Limestone County,Incorporated place,34.782731,-86.951098,1
+AL,0103004,place:AL:0103004,Atmore city,Atmore,Atmore,01053,Escambia County,Incorporated place,31.124067,-87.457798,1
+AL,0103028,place:AL:0103028,Attalla city,Attalla,Attalla,01055,Etowah County,Incorporated place,33.986189,-86.121037,1
+AL,0103076,place:AL:0103076,Auburn city,Auburn,Auburn,01081,Lee County,Incorporated place,32.607122,-85.490959,1
+AL,0103220,place:AL:0103220,Autaugaville town,Autaugaville,Autaugaville,01001,Autauga County,Incorporated place,32.43206,-86.660127,1
+AL,0103364,place:AL:0103364,Avon town,Avon,Avon,01069,Houston County,Incorporated place,31.179727,-85.279211,1
+AL,0103508,place:AL:0103508,Axis CDP,Axis,Axis,01097,Mobile County,Census-designated place,30.922171,-88.02262,1
+AL,0103556,place:AL:0103556,Babbie town,Babbie,Babbie,01039,Covington County,Incorporated place,31.302083,-86.319437,1
+AL,0103676,place:AL:0103676,Baileyton town,Baileyton,Baileyton,01043,Cullman County,Incorporated place,34.260858,-86.608788,1
+AL,0103724,place:AL:0103724,Bakerhill town,Bakerhill,Bakerhill,01005,Barbour County,Incorporated place,31.776923,-85.295408,1
+AL,0103820,place:AL:0103820,Ballplay CDP,Ballplay,Ballplay,01055,Etowah County,Census-designated place,34.023057,-85.801464,1
+AL,0103940,place:AL:0103940,Banks town,Banks,Banks,01109,Pike County,Incorporated place,31.813264,-85.836434,1
+AL,0104660,place:AL:0104660,Bay Minette city,Bay Minette,Bay Minette,01003,Baldwin County,Incorporated place,30.890566,-87.793545,1
+AL,0104684,place:AL:0104684,Bayou La Batre city,Bayou La Batre,Bayou La Batre,01097,Mobile County,Incorporated place,30.407586,-88.263271,1
+AL,0104852,place:AL:0104852,Bear Creek town,Bear Creek,Bear Creek,01093,Marion County,Incorporated place,34.257538,-87.717973,1
+AL,0104900,place:AL:0104900,Beatrice town,Beatrice,Beatrice,01099,Monroe County,Incorporated place,31.733309,-87.209046,1
+AL,0104948,place:AL:0104948,Beaverton town,Beaverton,Beaverton,01075,Lamar County,Incorporated place,33.935411,-88.021778,1
+AL,0105140,place:AL:0105140,Belgreen CDP,Belgreen,Belgreen,01059,Franklin County,Census-designated place,34.47454,-87.861678,1
+AL,0105164,place:AL:0105164,Belk town,Belk,Belk,01057,Fayette County,Incorporated place,33.651641,-87.92861,1
+AL,0105188,place:AL:0105188,Bellamy CDP,Bellamy,Bellamy,01119,Sumter County,Census-designated place,32.463658,-88.131481,1
+AL,0105212,place:AL:0105212,Belle Fontaine CDP,Belle Fontaine,Belle Fontaine,01097,Mobile County,Census-designated place,30.489493,-88.105939,1
+AL,0105692,place:AL:0105692,Benton town,Benton,Benton,01085,Lowndes County,Incorporated place,32.307931,-86.817546,1
+AL,0105812,place:AL:0105812,Berlin town,Berlin,Berlin,01043,Cullman County,Incorporated place,34.185005,-86.748955,1
+AL,0105932,place:AL:0105932,Berry town,Berry,Berry,01057,Fayette County,Incorporated place,33.666702,-87.609311,1
+AL,0105980,place:AL:0105980,Bessemer city,Bessemer,Bessemer,01073,Jefferson County,Incorporated place,33.37089,-86.972193,1
+AL,0106460,place:AL:0106460,Billingsley town,Billingsley,Billingsley,01001,Autauga County,Incorporated place,32.665062,-86.707082,1
+AL,0107000,place:AL:0107000,Birmingham city,Birmingham,Birmingham,01073,Jefferson County,Incorporated place,33.527174,-86.797036,1
+AL,0107120,place:AL:0107120,Black town,Black,Black,01061,Geneva County,Incorporated place,31.00977,-85.74442,1
+AL,0107456,place:AL:0107456,Blountsville town,Blountsville,Blountsville,01009,Blount County,Incorporated place,34.075838,-86.583918,1
+AL,0107588,place:AL:0107588,Blue Ridge CDP,Blue Ridge,Blue Ridge,01051,Elmore County,Census-designated place,32.4989,-86.182436,1
+AL,0107672,place:AL:0107672,Blue Springs town,Blue Springs,Blue Springs,01005,Barbour County,Incorporated place,31.663516,-85.503526,1
+AL,0107912,place:AL:0107912,Boaz city,Boaz,Boaz,01095,Marshall County,Incorporated place,34.19979,-86.15329,1
+AL,0108104,place:AL:0108104,Boligee town,Boligee,Boligee,01063,Greene County,Incorporated place,32.768081,-88.02859,1
+AL,0108248,place:AL:0108248,Bon Air town,Bon Air,Bon Air,01121,Talladega County,Incorporated place,33.259355,-86.327175,1
+AL,0108272,place:AL:0108272,Bon Secour CDP,Bon Secour,Bon Secour,01003,Baldwin County,Census-designated place,30.318246,-87.72439,1
+AL,0108680,place:AL:0108680,Boykin CDP,Boykin,Boykin,01131,Wilcox County,Census-designated place,32.068375,-87.294343,1
+AL,0109016,place:AL:0109016,Brantley town,Brantley,Brantley,01041,Crenshaw County,Incorporated place,31.589179,-86.261346,1
+AL,0109064,place:AL:0109064,Brantleyville CDP,Brantleyville,Brantleyville,01117,Shelby County,Census-designated place,33.218777,-86.880793,1
+AL,0109136,place:AL:0109136,Brent city,Brent,Brent,01007,Bibb County,Incorporated place,32.94495,-87.172086,1
+AL,0109208,place:AL:0109208,Brewton city,Brewton,Brewton,01053,Escambia County,Incorporated place,31.109175,-87.076583,1
+AL,0109328,place:AL:0109328,Bridgeport city,Bridgeport,Bridgeport,01071,Jackson County,Incorporated place,34.949312,-85.723765,1
+AL,0109400,place:AL:0109400,Brighton city,Brighton,Brighton,01073,Jefferson County,Incorporated place,33.439551,-86.945404,1
+AL,0109424,place:AL:0109424,Brilliant town,Brilliant,Brilliant,01093,Marion County,Incorporated place,34.025671,-87.769047,1
+AL,0109457,place:AL:0109457,Bristow Cove CDP,Bristow Cove,Bristow Cove,01055,Etowah County,Census-designated place,34.109216,-86.240993,1
+AL,0109500,place:AL:0109500,Brook Highland CDP,Brook Highland,Brook Highland,01117,Shelby County,Census-designated place,33.438109,-86.684526,1
+AL,0109736,place:AL:0109736,Brookside town,Brookside,Brookside,01073,Jefferson County,Incorporated place,33.637294,-86.892495,1
+AL,0109808,place:AL:0109808,Brookwood city,Brookwood,Brookwood,01125,Tuscaloosa County,Incorporated place,33.239842,-87.331488,1
+AL,0109880,place:AL:0109880,Broomtown CDP,Broomtown,Broomtown,01019,Cherokee County,Census-designated place,34.365728,-85.532112,1
+AL,0110240,place:AL:0110240,Brundidge city,Brundidge,Brundidge,01109,Pike County,Incorporated place,31.717639,-85.81755,1
+AL,0110456,place:AL:0110456,Bucks CDP,Bucks,Bucks,01097,Mobile County,Census-designated place,31.016769,-88.02637,1
+AL,0111032,place:AL:0111032,Butler town,Butler,Butler,01023,Choctaw County,Incorporated place,32.096479,-88.210781,1
+AL,0111416,place:AL:0111416,Calera city,Calera,Calera,01117,Shelby County,Incorporated place,33.123892,-86.745931,1
+AL,0111488,place:AL:0111488,Calvert CDP,Calvert,Calvert,01129,Washington County,Census-designated place,31.150383,-88.020717,1
+AL,0111512,place:AL:0111512,Camden city,Camden,Camden,01131,Wilcox County,Incorporated place,31.998467,-87.288952,1
+AL,0111680,place:AL:0111680,Camp Hill town,Camp Hill,Camp Hill,01123,Tallapoosa County,Incorporated place,32.797327,-85.655833,1
+AL,0112016,place:AL:0112016,Carbon Hill city,Carbon Hill,Carbon Hill,01127,Walker County,Incorporated place,33.894991,-87.522078,1
+AL,0112040,place:AL:0112040,Cardiff town,Cardiff,Cardiff,01073,Jefferson County,Incorporated place,33.64729,-86.930637,1
+AL,0112070,place:AL:0112070,Carlisle-Rockledge CDP,Carlisle-Rockledge,Carlisle-Rockledge,01055,Etowah County,Census-designated place,34.114451,-86.124073,1
+AL,0112112,place:AL:0112112,Carlton CDP,Carlton,Carlton,01025,Clarke County,Census-designated place,31.348571,-87.835666,1
+AL,0112160,place:AL:0112160,Carolina town,Carolina,Carolina,01039,Covington County,Incorporated place,31.23415,-86.521001,1
+AL,0112304,place:AL:0112304,Carrollton town,Carrollton,Carrollton,01107,Pickens County,Incorporated place,33.261903,-88.095071,1
+AL,0112496,place:AL:0112496,Castleberry town,Castleberry,Castleberry,01035,Conecuh County,Incorporated place,31.29967,-87.029006,1
+AL,0112544,place:AL:0112544,Catherine CDP,Catherine,Catherine,01131,Wilcox County,Census-designated place,32.18617,-87.469978,1
+AL,0112760,place:AL:0112760,Cedar Bluff town,Cedar Bluff,Cedar Bluff,01019,Cherokee County,Incorporated place,34.221422,-85.588565,1
+AL,0113264,place:AL:0113264,Center Point city,Center Point,Center Point,01073,Jefferson County,Incorporated place,33.643903,-86.684567,1
+AL,0113648,place:AL:0113648,Centre city,Centre,Centre,01019,Cherokee County,Incorporated place,34.153059,-85.671683,1
+AL,0113672,place:AL:0113672,Centreville city,Centreville,Centreville,01007,Bibb County,Incorporated place,32.958798,-87.132657,1
+AL,0114008,place:AL:0114008,Chatom town,Chatom,Chatom,01129,Washington County,Incorporated place,31.469145,-88.246019,1
+AL,0114104,place:AL:0114104,Chelsea city,Chelsea,Chelsea,01117,Shelby County,Incorporated place,33.308355,-86.637509,1
+AL,0114152,place:AL:0114152,Cherokee town,Cherokee,Cherokee,01033,Colbert County,Incorporated place,34.7577,-87.965589,1
+AL,0114202,place:AL:0114202,Cherokee Ridge town,Cherokee Ridge,Cherokee Ridge,01095,Marshall County,Incorporated place,34.420626,-86.561338,0
+AL,0114392,place:AL:0114392,Chickasaw city,Chickasaw,Chickasaw,01097,Mobile County,Incorporated place,30.77145,-88.079697,1
+AL,0114464,place:AL:0114464,Childersburg city,Childersburg,Childersburg,01121,Talladega County,Incorporated place,33.292558,-86.340864,1
+AL,0114728,place:AL:0114728,Choccolocco CDP,Choccolocco,Choccolocco,01015,Calhoun County,Census-designated place,33.667728,-85.707191,1
+AL,0114968,place:AL:0114968,Chunchula CDP,Chunchula,Chunchula,01097,Mobile County,Census-designated place,30.92713,-88.208104,1
+AL,0115064,place:AL:0115064,Citronelle city,Citronelle,Citronelle,01097,Mobile County,Incorporated place,31.097269,-88.249843,1
+AL,0115136,place:AL:0115136,Clanton city,Clanton,Clanton,01021,Chilton County,Incorporated place,32.845572,-86.619494,1
+AL,0115256,place:AL:0115256,Clay city,Clay,Clay,01073,Jefferson County,Incorporated place,33.686411,-86.613884,1
+AL,0115304,place:AL:0115304,Clayhatchee town,Clayhatchee,Clayhatchee,01045,Dale County,Incorporated place,31.236925,-85.721478,1
+AL,0115376,place:AL:0115376,Clayton city,Clayton,Clayton,01005,Barbour County,Incorporated place,31.882277,-85.460454,1
+AL,0115472,place:AL:0115472,Cleveland town,Cleveland,Cleveland,01009,Blount County,Incorporated place,34.002179,-86.561352,1
+AL,0115640,place:AL:0115640,Clio city,Clio,Clio,01005,Barbour County,Incorporated place,31.708516,-85.611039,1
+AL,0116000,place:AL:0116000,Coaling city,Coaling,Coaling,01125,Tuscaloosa County,Incorporated place,33.169901,-87.349887,1
+AL,0116080,place:AL:0116080,Coats Bend CDP,Coats Bend,Coats Bend,01055,Etowah County,Census-designated place,34.073273,-85.874602,1
+AL,0116240,place:AL:0116240,Coffee Springs town,Coffee Springs,Coffee Springs,01061,Geneva County,Incorporated place,31.165836,-85.910898,1
+AL,0116264,place:AL:0116264,Coffeeville town,Coffeeville,Coffeeville,01025,Clarke County,Incorporated place,31.766564,-88.086049,1
+AL,0116312,place:AL:0116312,Coker town,Coker,Coker,01125,Tuscaloosa County,Incorporated place,33.243752,-87.681329,1
+AL,0116600,place:AL:0116600,Collinsville city,Collinsville,Collinsville,01049,DeKalb County,Incorporated place,34.267224,-85.86861,1
+AL,0116684,place:AL:0116684,Colony town,Colony,Colony,01043,Cullman County,Incorporated place,33.941393,-86.902001,1
+AL,0116744,place:AL:0116744,Columbia town,Columbia,Columbia,01069,Houston County,Incorporated place,31.295351,-85.110202,1
+AL,0116768,place:AL:0116768,Columbiana city,Columbiana,Columbiana,01117,Shelby County,Incorporated place,33.191652,-86.615532,1
+AL,0116936,place:AL:0116936,Concord CDP,Concord,Concord,01073,Jefferson County,Census-designated place,33.461971,-87.04049,1
+AL,0117176,place:AL:0117176,Coosada town,Coosada,Coosada,01051,Elmore County,Incorporated place,32.495394,-86.326543,1
+AL,0117368,place:AL:0117368,Cordova town,Cordova,Cordova,01127,Walker County,Incorporated place,33.760795,-87.197728,1
+AL,0117704,place:AL:0117704,Cottondale CDP,Cottondale,Cottondale,01125,Tuscaloosa County,Census-designated place,33.198843,-87.45362,1
+AL,0117824,place:AL:0117824,Cottonwood town,Cottonwood,Cottonwood,01069,Houston County,Incorporated place,31.054033,-85.29956,1
+AL,0117968,place:AL:0117968,County Line town,County Line,County Line,01009,Blount County,Incorporated place,33.819016,-86.714706,1
+AL,0118040,place:AL:0118040,Courtland town,Courtland,Courtland,01079,Lawrence County,Incorporated place,34.669946,-87.327892,1
+AL,0118088,place:AL:0118088,Cowarts town,Cowarts,Cowarts,01069,Houston County,Incorporated place,31.206248,-85.309769,1
+AL,0118304,place:AL:0118304,Creola town,Creola,Creola,01097,Mobile County,Incorporated place,30.874209,-88.009818,1
+AL,0118856,place:AL:0118856,Crossville town,Crossville,Crossville,01049,DeKalb County,Incorporated place,34.282697,-85.999737,1
+AL,0118952,place:AL:0118952,Cuba town,Cuba,Cuba,01119,Sumter County,Incorporated place,32.440733,-88.374798,1
+AL,0118976,place:AL:0118976,Cullman city,Cullman,Cullman,01043,Cullman County,Incorporated place,34.17687,-86.840656,1
+AL,0119024,place:AL:0119024,Cullomburg CDP,Cullomburg,Cullomburg,01023,Choctaw County,Census-designated place,31.713061,-88.291774,1
+AL,0119216,place:AL:0119216,Cusseta town,Cusseta,Cusseta,01017,Chambers County,Incorporated place,32.787637,-85.305769,1
+AL,0119336,place:AL:0119336,Dadeville city,Dadeville,Dadeville,01123,Tallapoosa County,Incorporated place,32.826114,-85.776201,1
+AL,0119360,place:AL:0119360,Daleville city,Daleville,Daleville,01045,Dale County,Incorporated place,31.291534,-85.711711,1
+AL,0119648,place:AL:0119648,Daphne city,Daphne,Daphne,01003,Baldwin County,Incorporated place,30.631318,-87.880088,1
+AL,0119744,place:AL:0119744,Dauphin Island town,Dauphin Island,Dauphin Island,01097,Mobile County,Incorporated place,30.252469,-88.149154,1
+AL,0119816,place:AL:0119816,Daviston town,Daviston,Daviston,01123,Tallapoosa County,Incorporated place,33.056839,-85.634329,1
+AL,0119912,place:AL:0119912,Dayton town,Dayton,Dayton,01091,Marengo County,Incorporated place,32.350958,-87.641573,1
+AL,0120008,place:AL:0120008,Deatsville town,Deatsville,Deatsville,01051,Elmore County,Incorporated place,32.58903,-86.389066,1
+AL,0120104,place:AL:0120104,Decatur city,Decatur,Decatur,01103,Morgan County,Incorporated place,34.572995,-86.989901,1
+AL,0120152,place:AL:0120152,Deer Park CDP,Deer Park,Deer Park,01129,Washington County,Census-designated place,31.218369,-88.328023,1
+AL,0120272,place:AL:0120272,Delta CDP,Delta,Delta,01027,Clay County,Census-designated place,33.440524,-85.675905,1
+AL,0120296,place:AL:0120296,Demopolis city,Demopolis,Demopolis,01091,Marengo County,Incorporated place,32.499936,-87.826922,1
+AL,0120392,place:AL:0120392,Detroit town,Detroit,Detroit,01075,Lamar County,Incorporated place,34.027379,-88.167831,1
+AL,0120955,place:AL:0120955,Dodge City town,Dodge City,Dodge City,01043,Cullman County,Incorporated place,34.045256,-86.884004,1
+AL,0121136,place:AL:0121136,Dora city,Dora,Dora,01127,Walker County,Incorporated place,33.728116,-87.081292,1
+AL,0121184,place:AL:0121184,Dothan city,Dothan,Dothan,01069,Houston County,Incorporated place,31.233698,-85.406823,1
+AL,0121280,place:AL:0121280,Double Springs town,Double Springs,Double Springs,01133,Winston County,Incorporated place,34.149648,-87.389447,1
+AL,0121328,place:AL:0121328,Douglas town,Douglas,Douglas,01095,Marshall County,Incorporated place,34.168258,-86.323386,1
+AL,0121448,place:AL:0121448,Dozier town,Dozier,Dozier,01041,Crenshaw County,Incorporated place,31.505407,-86.369235,1
+AL,0121890,place:AL:0121890,Dunnavant CDP,Dunnavant,Dunnavant,01117,Shelby County,Census-designated place,33.494865,-86.540603,1
+AL,0121952,place:AL:0121952,Dutton town,Dutton,Dutton,01071,Jackson County,Incorporated place,34.606152,-85.91185,1
+AL,0122088,place:AL:0122088,Eagle Point CDP,Eagle Point,Eagle Point,01117,Shelby County,Census-designated place,33.400744,-86.677019,1
+AL,0122216,place:AL:0122216,East Brewton city,East Brewton,East Brewton,01053,Escambia County,Incorporated place,31.09144,-87.055345,1
+AL,0122504,place:AL:0122504,East Point CDP,East Point,East Point,01043,Cullman County,Census-designated place,34.19121,-86.792251,1
+AL,0122816,place:AL:0122816,Eclectic town,Eclectic,Eclectic,01051,Elmore County,Incorporated place,32.640222,-86.041062,1
+AL,0123032,place:AL:0123032,Edgewater CDP,Edgewater,Edgewater,01073,Jefferson County,Census-designated place,33.529665,-86.953408,1
+AL,0123176,place:AL:0123176,Edwardsville town,Edwardsville,Edwardsville,01029,Cleburne County,Incorporated place,33.88374,-85.414124,1
+AL,0123224,place:AL:0123224,Egypt CDP,Egypt,Egypt,01055,Etowah County,Census-designated place,34.075938,-86.165054,1
+AL,0123296,place:AL:0123296,Elba city,Elba,Elba,01031,Coffee County,Incorporated place,31.417218,-86.077115,1
+AL,0123320,place:AL:0123320,Elberta town,Elberta,Elberta,01003,Baldwin County,Incorporated place,30.373644,-87.595873,1
+AL,0123344,place:AL:0123344,Eldridge town,Eldridge,Eldridge,01127,Walker County,Incorporated place,33.923053,-87.622869,1
+AL,0123488,place:AL:0123488,Elkmont town,Elkmont,Elkmont,01083,Limestone County,Incorporated place,34.932604,-86.976971,1
+AL,0123656,place:AL:0123656,Elmore town,Elmore,Elmore,01051,Elmore County,Incorporated place,32.557762,-86.341109,1
+AL,0123872,place:AL:0123872,Emelle town,Emelle,Emelle,01119,Sumter County,Incorporated place,32.728678,-88.316486,1
+AL,0123880,place:AL:0123880,Emerald Mountain CDP,Emerald Mountain,Emerald Mountain,01051,Elmore County,Census-designated place,32.447694,-86.094381,1
+AL,0124184,place:AL:0124184,Enterprise city,Enterprise,Enterprise,01031,Coffee County,Incorporated place,31.325529,-85.846071,1
+AL,0124256,place:AL:0124256,Epes town,Epes,Epes,01119,Sumter County,Incorporated place,32.692735,-88.137322,1
+AL,0124280,place:AL:0124280,Equality CDP,Equality,Equality,01037,Coosa County,Census-designated place,32.765673,-86.123077,1
+AL,0124472,place:AL:0124472,Ethelsville town,Ethelsville,Ethelsville,01107,Pickens County,Incorporated place,33.414066,-88.216093,1
+AL,0124568,place:AL:0124568,Eufaula city,Eufaula,Eufaula,01005,Barbour County,Incorporated place,31.918935,-85.16154,1
+AL,0124616,place:AL:0124616,Eunola CDP,Eunola,Eunola,01061,Geneva County,Census-designated place,31.031391,-85.833966,1
+AL,0124664,place:AL:0124664,Eutaw city,Eutaw,Eutaw,01063,Greene County,Incorporated place,32.846247,-87.900332,1
+AL,0124688,place:AL:0124688,Eva town,Eva,Eva,01103,Morgan County,Incorporated place,34.326504,-86.765318,1
+AL,0124808,place:AL:0124808,Evergreen city,Evergreen,Evergreen,01035,Conecuh County,Incorporated place,31.433216,-86.976081,1
+AL,0124880,place:AL:0124880,Excel town,Excel,Excel,01099,Monroe County,Incorporated place,31.426386,-87.343663,1
+AL,0125120,place:AL:0125120,Fairfield city,Fairfield,Fairfield,01073,Jefferson County,Incorporated place,33.474802,-86.919407,1
+AL,0125216,place:AL:0125216,Fairford CDP,Fairford,Fairford,01129,Washington County,Census-designated place,31.178002,-88.072784,1
+AL,0125240,place:AL:0125240,Fairhope city,Fairhope,Fairhope,01003,Baldwin County,Incorporated place,30.518973,-87.879177,1
+AL,0125384,place:AL:0125384,Fairview town,Fairview,Fairview,01043,Cullman County,Incorporated place,34.250597,-86.677337,1
+AL,0125648,place:AL:0125648,Falkville town,Falkville,Falkville,01103,Morgan County,Incorporated place,34.377019,-86.909547,1
+AL,0125816,place:AL:0125816,Faunsdale town,Faunsdale,Faunsdale,01091,Marengo County,Incorporated place,32.457614,-87.593789,1
+AL,0125840,place:AL:0125840,Fayette city,Fayette,Fayette,01057,Fayette County,Incorporated place,33.694215,-87.831169,1
+AL,0125864,place:AL:0125864,Fayetteville CDP,Fayetteville,Fayetteville,01121,Talladega County,Census-designated place,33.168097,-86.442774,1
+AL,0126152,place:AL:0126152,Fitzpatrick CDP,Fitzpatrick,Fitzpatrick,01011,Bullock County,Census-designated place,32.210377,-85.873693,1
+AL,0126200,place:AL:0126200,Five Points town,Five Points,Five Points,01017,Chambers County,Incorporated place,33.017311,-85.351592,1
+AL,0126824,place:AL:0126824,Flomaton town,Flomaton,Flomaton,01053,Escambia County,Incorporated place,31.012804,-87.249436,1
+AL,0126848,place:AL:0126848,Florala town,Florala,Florala,01039,Covington County,Incorporated place,31.022391,-86.318152,1
+AL,0126896,place:AL:0126896,Florence city,Florence,Florence,01077,Lauderdale County,Incorporated place,34.82981,-87.662202,1
+AL,0126992,place:AL:0126992,Foley city,Foley,Foley,01003,Baldwin County,Incorporated place,30.397071,-87.668458,1
+AL,0127088,place:AL:0127088,Forestdale CDP,Forestdale,Forestdale,01073,Jefferson County,Census-designated place,33.573632,-86.90011,1
+AL,0127376,place:AL:0127376,Forkland town,Forkland,Forkland,01063,Greene County,Incorporated place,32.647435,-87.867436,1
+AL,0127520,place:AL:0127520,Fort Deposit town,Fort Deposit,Fort Deposit,01085,Lowndes County,Incorporated place,31.986261,-86.566359,1
+AL,0127604,place:AL:0127604,Fort Novosel CDP,Fort Novosel,Fort Novosel,01045,Dale County,Census-designated place,31.342576,-85.716072,0
+AL,0127616,place:AL:0127616,Fort Payne city,Fort Payne,Fort Payne,01049,DeKalb County,Incorporated place,34.45724,-85.689474,1
+AL,0128024,place:AL:0128024,Franklin town,Franklin,Franklin,01087,Macon County,Incorporated place,32.449892,-85.786708,1
+AL,0128120,place:AL:0128120,Fredonia CDP,Fredonia,Fredonia,01017,Chambers County,Census-designated place,32.983613,-85.292333,1
+AL,0128312,place:AL:0128312,Frisco City town,Frisco City,Frisco City,01099,Monroe County,Incorporated place,31.439485,-87.404182,1
+AL,0128408,place:AL:0128408,Fruitdale CDP,Fruitdale,Fruitdale,01129,Washington County,Census-designated place,31.34979,-88.410937,1
+AL,0128432,place:AL:0128432,Fruithurst town,Fruithurst,Fruithurst,01029,Cleburne County,Incorporated place,33.729539,-85.431249,1
+AL,0128504,place:AL:0128504,Fulton town,Fulton,Fulton,01025,Clarke County,Incorporated place,31.790989,-87.744212,1
+AL,0128552,place:AL:0128552,Fultondale city,Fultondale,Fultondale,01073,Jefferson County,Incorporated place,33.617363,-86.801436,1
+AL,0128672,place:AL:0128672,Fyffe town,Fyffe,Fyffe,01049,DeKalb County,Incorporated place,34.448957,-85.905167,1
+AL,0128696,place:AL:0128696,Gadsden city,Gadsden,Gadsden,01055,Etowah County,Incorporated place,34.006597,-86.016078,1
+AL,0128768,place:AL:0128768,Gainesville town,Gainesville,Gainesville,01119,Sumter County,Incorporated place,32.814934,-88.160791,1
+AL,0128816,place:AL:0128816,Gallant CDP,Gallant,Gallant,01055,Etowah County,Census-designated place,34.001318,-86.230171,1
+AL,0128936,place:AL:0128936,Gantt town,Gantt,Gantt,01039,Covington County,Incorporated place,31.41074,-86.483524,1
+AL,0129032,place:AL:0129032,Garden City town,Garden City,Garden City,01043,Cullman County,Incorporated place,34.014688,-86.749054,1
+AL,0129056,place:AL:0129056,Gardendale city,Gardendale,Gardendale,01073,Jefferson County,Incorporated place,33.677406,-86.81355,1
+AL,0129296,place:AL:0129296,Gaylesville town,Gaylesville,Gaylesville,01019,Cherokee County,Incorporated place,34.267444,-85.561248,1
+AL,0129392,place:AL:0129392,Geiger town,Geiger,Geiger,01119,Sumter County,Incorporated place,32.868715,-88.318154,1
+AL,0129464,place:AL:0129464,Geneva city,Geneva,Geneva,01061,Geneva County,Incorporated place,31.043278,-85.875833,1
+AL,0129560,place:AL:0129560,Georgiana town,Georgiana,Georgiana,01013,Butler County,Incorporated place,31.639134,-86.746762,1
+AL,0129608,place:AL:0129608,Geraldine town,Geraldine,Geraldine,01049,DeKalb County,Incorporated place,34.35998,-86.002372,1
+AL,0129704,place:AL:0129704,Gilbertown town,Gilbertown,Gilbertown,01023,Choctaw County,Incorporated place,31.866247,-88.307545,1
+AL,0129944,place:AL:0129944,Glen Allen town,Glen Allen,Glen Allen,01057,Fayette County,Incorporated place,33.892108,-87.732682,1
+AL,0129992,place:AL:0129992,Glencoe city,Glencoe,Glencoe,01055,Etowah County,Incorporated place,33.948339,-85.933606,1
+AL,0130160,place:AL:0130160,Glenwood town,Glenwood,Glenwood,01041,Crenshaw County,Incorporated place,31.671266,-86.173687,1
+AL,0130448,place:AL:0130448,Goldville town,Goldville,Goldville,01123,Tallapoosa County,Incorporated place,33.084867,-85.777982,1
+AL,0130496,place:AL:0130496,Good Hope city,Good Hope,Good Hope,01043,Cullman County,Incorporated place,34.11033,-86.866178,1
+AL,0130640,place:AL:0130640,Goodwater town,Goodwater,Goodwater,01037,Coosa County,Incorporated place,33.060713,-86.052486,1
+AL,0130736,place:AL:0130736,Gordo town,Gordo,Gordo,01107,Pickens County,Incorporated place,33.322286,-87.903681,1
+AL,0130760,place:AL:0130760,Gordon town,Gordon,Gordon,01069,Houston County,Incorporated place,31.143606,-85.092504,1
+AL,0130808,place:AL:0130808,Gordonville town,Gordonville,Gordonville,01085,Lowndes County,Incorporated place,32.159179,-86.704235,1
+AL,0130880,place:AL:0130880,Goshen town,Goshen,Goshen,01109,Pike County,Incorporated place,31.720015,-86.123245,1
+AL,0131000,place:AL:0131000,Graham CDP,Graham,Graham,01111,Randolph County,Census-designated place,33.455191,-85.323085,1
+AL,0131024,place:AL:0131024,Grand Bay CDP,Grand Bay,Grand Bay,01097,Mobile County,Census-designated place,30.472082,-88.344401,1
+AL,0131096,place:AL:0131096,Grant town,Grant,Grant,01095,Marshall County,Incorporated place,34.518173,-86.26043,1
+AL,0131348,place:AL:0131348,Grayson Valley CDP,Grayson Valley,Grayson Valley,01073,Jefferson County,Census-designated place,33.646568,-86.641942,1
+AL,0131384,place:AL:0131384,Graysville city,Graysville,Graysville,01073,Jefferson County,Incorporated place,33.633776,-86.942378,1
+AL,0131720,place:AL:0131720,Greensboro city,Greensboro,Greensboro,01065,Hale County,Incorporated place,32.700968,-87.5937,1
+AL,0131912,place:AL:0131912,Greenville city,Greenville,Greenville,01013,Butler County,Incorporated place,31.843072,-86.636951,1
+AL,0132056,place:AL:0132056,Grimes town,Grimes,Grimes,01045,Dale County,Incorporated place,31.299869,-85.45029,1
+AL,0132080,place:AL:0132080,Grove Hill town,Grove Hill,Grove Hill,01025,Clarke County,Incorporated place,31.69867,-87.772868,1
+AL,0132536,place:AL:0132536,Gu-Win town,Gu-Win,Gu-Win,01093,Marion County,Incorporated place,33.94433,-87.870376,1
+AL,0132224,place:AL:0132224,Guin city,Guin,Guin,01093,Marion County,Incorporated place,33.98322,-87.902363,1
+AL,0132272,place:AL:0132272,Gulf Shores city,Gulf Shores,Gulf Shores,01003,Baldwin County,Incorporated place,30.277172,-87.702355,1
+AL,0132248,place:AL:0132248,Gulfcrest CDP,Gulfcrest,Gulfcrest,01097,Mobile County,Census-designated place,30.991107,-88.24223,1
+AL,0132416,place:AL:0132416,Guntersville city,Guntersville,Guntersville,01095,Marshall County,Incorporated place,34.367947,-86.252323,1
+AL,0132440,place:AL:0132440,Gurley town,Gurley,Gurley,01089,Madison County,Incorporated place,34.701364,-86.380271,1
+AL,0132560,place:AL:0132560,Hackleburg town,Hackleburg,Hackleburg,01093,Marion County,Incorporated place,34.269355,-87.830402,1
+AL,0132584,place:AL:0132584,Hackneyville CDP,Hackneyville,Hackneyville,01123,Tallapoosa County,Census-designated place,33.054654,-85.934423,1
+AL,0132656,place:AL:0132656,Haleburg town,Haleburg,Haleburg,01067,Henry County,Incorporated place,31.409976,-85.138068,1
+AL,0132704,place:AL:0132704,Haleyville city,Haleyville,Haleyville,01133,Winston County,Incorporated place,34.233832,-87.617574,1
+AL,0132848,place:AL:0132848,Hamilton city,Hamilton,Hamilton,01093,Marion County,Incorporated place,34.138713,-87.970833,1
+AL,0132896,place:AL:0132896,Hammondville town,Hammondville,Hammondville,01049,DeKalb County,Incorporated place,34.566232,-85.640348,1
+AL,0132968,place:AL:0132968,Hanceville city,Hanceville,Hanceville,01043,Cullman County,Incorporated place,34.06401,-86.764436,1
+AL,0133064,place:AL:0133064,Hanover CDP,Hanover,Hanover,01037,Coosa County,Census-designated place,33.002922,-86.200931,1
+AL,0133256,place:AL:0133256,Harpersville town,Harpersville,Harpersville,01117,Shelby County,Incorporated place,33.323964,-86.431526,1
+AL,0133424,place:AL:0133424,Hartford city,Hartford,Hartford,01061,Geneva County,Incorporated place,31.105348,-85.691225,1
+AL,0133448,place:AL:0133448,Hartselle city,Hartselle,Hartselle,01103,Morgan County,Incorporated place,34.440434,-86.940364,1
+AL,0133472,place:AL:0133472,Harvest CDP,Harvest,Harvest,01089,Madison County,Census-designated place,34.85507,-86.758643,1
+AL,0133544,place:AL:0133544,Hatton CDP,Hatton,Hatton,01079,Lawrence County,Census-designated place,34.560671,-87.413835,1
+AL,0133640,place:AL:0133640,Hayden town,Hayden,Hayden,01009,Blount County,Incorporated place,33.894514,-86.744224,1
+AL,0133712,place:AL:0133712,Hayneville town,Hayneville,Hayneville,01085,Lowndes County,Incorporated place,32.182595,-86.578588,1
+AL,0133808,place:AL:0133808,Hazel Green CDP,Hazel Green,Hazel Green,01089,Madison County,Census-designated place,34.923656,-86.567392,1
+AL,0133856,place:AL:0133856,Headland city,Headland,Headland,01067,Henry County,Incorporated place,31.354974,-85.357031,1
+AL,0133904,place:AL:0133904,Heath town,Heath,Heath,01039,Covington County,Incorporated place,31.344839,-86.46905,1
+AL,0133976,place:AL:0133976,Heflin city,Heflin,Heflin,01029,Cleburne County,Incorporated place,33.6474,-85.569339,1
+AL,0134024,place:AL:0134024,Helena city,Helena,Helena,01117,Shelby County,Incorporated place,33.284471,-86.886484,1
+AL,0134096,place:AL:0134096,Henagar city,Henagar,Henagar,01049,DeKalb County,Incorporated place,34.630641,-85.730918,1
+AL,0134480,place:AL:0134480,Highland Lake town,Highland Lake,Highland Lake,01009,Blount County,Incorporated place,33.894586,-86.422553,1
+AL,0134490,place:AL:0134490,Highland Lakes CDP,Highland Lakes,Highland Lakes,01117,Shelby County,Census-designated place,33.397611,-86.64792,1
+AL,0134816,place:AL:0134816,Hillsboro town,Hillsboro,Hillsboro,01079,Lawrence County,Incorporated place,34.642586,-87.178489,1
+AL,0134984,place:AL:0134984,Hissop CDP,Hissop,Hissop,01037,Coosa County,Census-designated place,32.890559,-86.129642,1
+AL,0135130,place:AL:0135130,Hobson CDP,Hobson,Hobson,01129,Washington County,Census-designated place,31.488725,-88.150928,1
+AL,0135152,place:AL:0135152,Hobson City town,Hobson City,Hobson City,01015,Calhoun County,Incorporated place,33.618801,-85.846146,1
+AL,0135200,place:AL:0135200,Hodges town,Hodges,Hodges,01059,Franklin County,Incorporated place,34.334246,-87.92316,1
+AL,0135392,place:AL:0135392,Hokes Bluff city,Hokes Bluff,Hokes Bluff,01055,Etowah County,Incorporated place,33.989682,-85.862873,1
+AL,0135512,place:AL:0135512,Hollins CDP,Hollins,Hollins,01027,Clay County,Census-designated place,33.121757,-86.126967,1
+AL,0135536,place:AL:0135536,Hollis Crossroads CDP,Hollis Crossroads,Hollis Crossroads,01029,Cleburne County,Census-designated place,33.531333,-85.652862,1
+AL,0135560,place:AL:0135560,Holly Pond town,Holly Pond,Holly Pond,01043,Cullman County,Incorporated place,34.167617,-86.612064,1
+AL,0135632,place:AL:0135632,Hollywood town,Hollywood,Hollywood,01071,Jackson County,Incorporated place,34.717279,-85.965579,1
+AL,0135704,place:AL:0135704,Holt CDP,Holt,Holt,01125,Tuscaloosa County,Census-designated place,33.229745,-87.482894,1
+AL,0135752,place:AL:0135752,Holtville CDP,Holtville,Holtville,01051,Elmore County,Census-designated place,32.630299,-86.328004,1
+AL,0135800,place:AL:0135800,Homewood city,Homewood,Homewood,01073,Jefferson County,Incorporated place,33.45855,-86.80965,1
+AL,0135896,place:AL:0135896,Hoover city,Hoover,Hoover,01073,Jefferson County,Incorporated place,33.375128,-86.809416,1
+AL,0136088,place:AL:0136088,Horn Hill town,Horn Hill,Horn Hill,01039,Covington County,Incorporated place,31.238137,-86.325163,1
+AL,0136448,place:AL:0136448,Hueytown city,Hueytown,Hueytown,01073,Jefferson County,Incorporated place,33.408671,-87.016491,1
+AL,0136592,place:AL:0136592,Huguley CDP,Huguley,Huguley,01017,Chambers County,Census-designated place,32.843062,-85.239635,1
+AL,0137000,place:AL:0137000,Huntsville city,Huntsville,Huntsville,01089,Madison County,Incorporated place,34.68874,-86.675075,1
+AL,0137096,place:AL:0137096,Hurtsboro town,Hurtsboro,Hurtsboro,01113,Russell County,Incorporated place,32.24009,-85.41467,1
+AL,0137264,place:AL:0137264,Hytop town,Hytop,Hytop,01071,Jackson County,Incorporated place,34.896635,-86.089176,1
+AL,0137312,place:AL:0137312,Ider town,Ider,Ider,01049,DeKalb County,Incorporated place,34.702599,-85.668958,1
+AL,0137465,place:AL:0137465,Indian Springs Village city,Indian Springs Village,Indian Springs Village,01117,Shelby County,Incorporated place,33.362398,-86.744306,1
+AL,0137864,place:AL:0137864,Irondale city,Irondale,Irondale,01073,Jefferson County,Incorporated place,33.539775,-86.65897,1
+AL,0138032,place:AL:0138032,Ivalee CDP,Ivalee,Ivalee,01055,Etowah County,Census-designated place,34.037204,-86.147182,1
+AL,0138152,place:AL:0138152,Jackson city,Jackson,Jackson,01025,Clarke County,Incorporated place,31.532321,-87.891183,1
+AL,0138248,place:AL:0138248,Jacksons' Gap town,Jacksons' Gap,Jacksons' Gap,01123,Tallapoosa County,Incorporated place,32.880932,-85.818278,1
+AL,0138272,place:AL:0138272,Jacksonville city,Jacksonville,Jacksonville,01015,Calhoun County,Incorporated place,33.810066,-85.755217,1
+AL,0138416,place:AL:0138416,Jasper city,Jasper,Jasper,01127,Walker County,Incorporated place,33.85111,-87.268348,1
+AL,0138608,place:AL:0138608,Jemison city,Jemison,Jemison,01021,Chilton County,Incorporated place,32.970705,-86.73307,1
+AL,0139064,place:AL:0139064,Joppa CDP,Joppa,Joppa,01043,Cullman County,Census-designated place,34.29955,-86.549946,1
+AL,0139280,place:AL:0139280,Kansas town,Kansas,Kansas,01127,Walker County,Incorporated place,33.902808,-87.556598,1
+AL,0139472,place:AL:0139472,Kellyton town,Kellyton,Kellyton,01037,Coosa County,Incorporated place,32.979188,-86.034608,1
+AL,0139520,place:AL:0139520,Kennedy town,Kennedy,Kennedy,01075,Lamar County,Incorporated place,33.580722,-87.9855,1
+AL,0139784,place:AL:0139784,Killen town,Killen,Killen,01077,Lauderdale County,Incorporated place,34.860954,-87.529346,1
+AL,0139832,place:AL:0139832,Kilpatrick town,Kilpatrick,Kilpatrick,01049,DeKalb County,Incorporated place,34.262144,-86.075033,0
+AL,0139856,place:AL:0139856,Kimberly city,Kimberly,Kimberly,01073,Jefferson County,Incorporated place,33.776982,-86.800198,1
+AL,0140072,place:AL:0140072,Kinsey city,Kinsey,Kinsey,01069,Houston County,Incorporated place,31.296269,-85.334994,1
+AL,0140096,place:AL:0140096,Kinston town,Kinston,Kinston,01031,Coffee County,Incorporated place,31.219604,-86.170075,1
+AL,0140672,place:AL:0140672,La Fayette city,La Fayette,La Fayette,01017,Chambers County,Incorporated place,32.899427,-85.400795,1
+AL,0140648,place:AL:0140648,Ladonia CDP,Ladonia,Ladonia,01113,Russell County,Census-designated place,32.459709,-85.090423,1
+AL,0140928,place:AL:0140928,Lake View city,Lake View,Lake View,01125,Tuscaloosa County,Incorporated place,33.281696,-87.1413,1
+AL,0140888,place:AL:0140888,Lakeview town,Lakeview,Lakeview,01049,DeKalb County,Incorporated place,34.391675,-85.975573,1
+AL,0141296,place:AL:0141296,Lanett city,Lanett,Lanett,01017,Chambers County,Incorporated place,32.858649,-85.207788,1
+AL,0141368,place:AL:0141368,Langston town,Langston,Langston,01071,Jackson County,Incorporated place,34.543883,-86.091763,1
+AL,0141968,place:AL:0141968,Leeds city,Leeds,Leeds,01073,Jefferson County,Incorporated place,33.546822,-86.571241,1
+AL,0142016,place:AL:0142016,Leesburg town,Leesburg,Leesburg,01019,Cherokee County,Incorporated place,34.178627,-85.777897,1
+AL,0142160,place:AL:0142160,Leighton town,Leighton,Leighton,01033,Colbert County,Incorporated place,34.69175,-87.521044,1
+AL,0142304,place:AL:0142304,Leroy CDP,Leroy,Leroy,01129,Washington County,Census-designated place,31.494971,-87.972773,1
+AL,0142352,place:AL:0142352,Lester town,Lester,Lester,01083,Limestone County,Incorporated place,34.981658,-87.154441,1
+AL,0142472,place:AL:0142472,Level Plains town,Level Plains,Level Plains,01045,Dale County,Incorporated place,31.307125,-85.768722,1
+AL,0142640,place:AL:0142640,Lexington town,Lexington,Lexington,01077,Lauderdale County,Incorporated place,34.959351,-87.37283,1
+AL,0142808,place:AL:0142808,Libertyville town,Libertyville,Libertyville,01039,Covington County,Incorporated place,31.24005,-86.456955,1
+AL,0142928,place:AL:0142928,Lillian CDP,Lillian,Lillian,01003,Baldwin County,Census-designated place,30.418904,-87.420751,1
+AL,0143120,place:AL:0143120,Lincoln city,Lincoln,Lincoln,01121,Talladega County,Incorporated place,33.580169,-86.127876,1
+AL,0143240,place:AL:0143240,Linden town,Linden,Linden,01091,Marengo County,Incorporated place,32.30145,-87.792793,1
+AL,0143264,place:AL:0143264,Lineville city,Lineville,Lineville,01027,Clay County,Incorporated place,33.312832,-85.752278,1
+AL,0143336,place:AL:0143336,Lipscomb city,Lipscomb,Lipscomb,01073,Jefferson County,Incorporated place,33.426005,-86.926103,1
+AL,0143384,place:AL:0143384,Lisman town,Lisman,Lisman,01023,Choctaw County,Incorporated place,32.171729,-88.284092,1
+AL,0143648,place:AL:0143648,Littleville town,Littleville,Littleville,01033,Colbert County,Incorporated place,34.594743,-87.669866,1
+AL,0143720,place:AL:0143720,Livingston city,Livingston,Livingston,01119,Sumter County,Incorporated place,32.595549,-88.186929,1
+AL,0143744,place:AL:0143744,Loachapoka town,Loachapoka,Loachapoka,01081,Lee County,Incorporated place,32.607946,-85.598479,1
+AL,0143816,place:AL:0143816,Lockhart town,Lockhart,Lockhart,01039,Covington County,Incorporated place,31.013011,-86.350273,1
+AL,0143888,place:AL:0143888,Locust Fork town,Locust Fork,Locust Fork,01009,Blount County,Incorporated place,33.876794,-86.647093,1
+AL,0144160,place:AL:0144160,Lookout Mountain CDP,Lookout Mountain,Lookout Mountain,01055,Etowah County,Census-designated place,34.115916,-85.965464,1
+AL,0144344,place:AL:0144344,Louisville town,Louisville,Louisville,01005,Barbour County,Incorporated place,31.781047,-85.558336,1
+AL,0144536,place:AL:0144536,Lowndesboro town,Lowndesboro,Lowndesboro,01085,Lowndes County,Incorporated place,32.276422,-86.610848,1
+AL,0144608,place:AL:0144608,Loxley city,Loxley,Loxley,01003,Baldwin County,Incorporated place,30.678931,-87.740873,1
+AL,0144728,place:AL:0144728,Luverne city,Luverne,Luverne,01041,Crenshaw County,Incorporated place,31.718941,-86.269082,1
+AL,0144800,place:AL:0144800,Lynn town,Lynn,Lynn,01133,Winston County,Incorporated place,34.057553,-87.548776,1
+AL,0145316,place:AL:0145316,Macedonia CDP,Macedonia,Macedonia,01107,Pickens County,Census-designated place,33.403139,-88.239221,1
+AL,0145784,place:AL:0145784,Madison city,Madison,Madison,01089,Madison County,Incorporated place,34.710533,-86.76228,1
+AL,0145904,place:AL:0145904,Madrid town,Madrid,Madrid,01069,Houston County,Incorporated place,31.035635,-85.399205,1
+AL,0146072,place:AL:0146072,Magnolia Springs town,Magnolia Springs,Magnolia Springs,01003,Baldwin County,Incorporated place,30.40341,-87.775895,1
+AL,0146192,place:AL:0146192,Malcolm CDP,Malcolm,Malcolm,01129,Washington County,Census-designated place,31.198806,-88.000624,1
+AL,0146264,place:AL:0146264,Malvern town,Malvern,Malvern,01061,Geneva County,Incorporated place,31.143698,-85.522973,1
+AL,0146504,place:AL:0146504,Maplesville town,Maplesville,Maplesville,01021,Chilton County,Incorporated place,32.784391,-86.879694,1
+AL,0146600,place:AL:0146600,Marbury CDP,Marbury,Marbury,01001,Autauga County,Census-designated place,32.672984,-86.463728,1
+AL,0146696,place:AL:0146696,Margaret city,Margaret,Margaret,01115,St. Clair County,Incorporated place,33.672861,-86.464044,1
+AL,0146768,place:AL:0146768,Marion city,Marion,Marion,01105,Perry County,Incorporated place,32.631968,-87.317333,1
+AL,0147728,place:AL:0147728,Maytown town,Maytown,Maytown,01073,Jefferson County,Incorporated place,33.549954,-87.000043,1
+AL,0145040,place:AL:0145040,McCalla CDP,McCalla,McCalla,01073,Jefferson County,Census-designated place,33.303112,-87.02666,1
+AL,0145208,place:AL:0145208,McDonald Chapel CDP,McDonald Chapel,McDonald Chapel,01073,Jefferson County,Census-designated place,33.518569,-86.938157,1
+AL,0145472,place:AL:0145472,McIntosh town,McIntosh,McIntosh,01129,Washington County,Incorporated place,31.264957,-88.028369,1
+AL,0145496,place:AL:0145496,McKenzie town,McKenzie,McKenzie,01013,Butler County,Incorporated place,31.546456,-86.725915,1
+AL,0145640,place:AL:0145640,McMullen town,McMullen,McMullen,01107,Pickens County,Incorporated place,33.1481,-88.175749,1
+AL,0147740,place:AL:0147740,Meadowbrook CDP,Meadowbrook,Meadowbrook,01117,Shelby County,Census-designated place,33.395235,-86.704373,1
+AL,0147848,place:AL:0147848,Megargel CDP,Megargel,Megargel,01099,Monroe County,Census-designated place,31.378141,-87.430649,1
+AL,0148052,place:AL:0148052,Memphis town,Memphis,Memphis,01107,Pickens County,Incorporated place,33.137044,-88.305942,1
+AL,0148064,place:AL:0148064,Mentone town,Mentone,Mentone,01049,DeKalb County,Incorporated place,34.563209,-85.589704,1
+AL,0148112,place:AL:0148112,Meridianville CDP,Meridianville,Meridianville,01089,Madison County,Census-designated place,34.876414,-86.580386,1
+AL,0148376,place:AL:0148376,Midfield city,Midfield,Midfield,01073,Jefferson County,Incorporated place,33.455272,-86.922414,1
+AL,0148400,place:AL:0148400,Midland City city,Midland City,Midland City,01045,Dale County,Incorporated place,31.315648,-85.493649,1
+AL,0148424,place:AL:0148424,Midway town,Midway,Midway,01011,Bullock County,Incorporated place,32.076373,-85.524417,1
+AL,0148616,place:AL:0148616,Mignon CDP,Mignon,Mignon,01121,Talladega County,Census-designated place,33.18658,-86.256886,1
+AL,0148712,place:AL:0148712,Millbrook city,Millbrook,Millbrook,01051,Elmore County,Incorporated place,32.501475,-86.373914,1
+AL,0148784,place:AL:0148784,Millerville CDP,Millerville,Millerville,01027,Clay County,Census-designated place,33.191458,-85.929828,1
+AL,0148808,place:AL:0148808,Millport town,Millport,Millport,01075,Lamar County,Incorporated place,33.555935,-88.082382,1
+AL,0148832,place:AL:0148832,Millry town,Millry,Millry,01129,Washington County,Incorporated place,31.621287,-88.327754,1
+AL,0149072,place:AL:0149072,Minor CDP,Minor,Minor,01073,Jefferson County,Census-designated place,33.539011,-86.940073,1
+AL,0150000,place:AL:0150000,Mobile city,Mobile,Mobile,01097,Mobile County,Incorporated place,30.668246,-88.107853,1
+AL,0150192,place:AL:0150192,Monroeville city,Monroeville,Monroeville,01099,Monroe County,Incorporated place,31.516223,-87.327714,1
+AL,0150312,place:AL:0150312,Montevallo city,Montevallo,Montevallo,01117,Shelby County,Incorporated place,33.126072,-86.847748,1
+AL,0151000,place:AL:0151000,Montgomery city,Montgomery,Montgomery,01101,Montgomery County,Incorporated place,32.346251,-86.268593,1
+AL,0151096,place:AL:0151096,Moody city,Moody,Moody,01115,St. Clair County,Incorporated place,33.603429,-86.493786,1
+AL,0151216,place:AL:0151216,Moores Mill CDP,Moores Mill,Moores Mill,01089,Madison County,Census-designated place,34.852143,-86.52038,1
+AL,0151264,place:AL:0151264,Mooresville town,Mooresville,Mooresville,01083,Limestone County,Incorporated place,34.625883,-86.880025,1
+AL,0151456,place:AL:0151456,Morris city,Morris,Morris,01073,Jefferson County,Incorporated place,33.746272,-86.800767,1
+AL,0151469,place:AL:0151469,Morrison Crossroads CDP,Morrison Crossroads,Morrison Crossroads,01111,Randolph County,Census-designated place,33.417996,-85.488284,1
+AL,0151520,place:AL:0151520,Mosses town,Mosses,Mosses,01085,Lowndes County,Incorporated place,32.188758,-86.679435,1
+AL,0151600,place:AL:0151600,Moulton city,Moulton,Moulton,01079,Lawrence County,Incorporated place,34.488248,-87.282287,1
+AL,0151648,place:AL:0151648,Moundville town,Moundville,Moundville,01065,Hale County,Incorporated place,32.996542,-87.627545,1
+AL,0152320,place:AL:0152320,Mount Olive CDP,Mount Olive,"Mount Olive, Coosa County",01037,Coosa County,Census-designated place,33.078454,-86.13304,1
+AL,0152344,place:AL:0152344,Mount Olive CDP,Mount Olive,"Mount Olive, Jefferson County",01073,Jefferson County,Census-designated place,33.669286,-86.87549,1
+AL,0152608,place:AL:0152608,Mount Vernon town,Mount Vernon,Mount Vernon,01097,Mobile County,Incorporated place,31.087727,-88.013166,1
+AL,0151696,place:AL:0151696,Mountain Brook city,Mountain Brook,Mountain Brook,01073,Jefferson County,Incorporated place,33.491488,-86.73447,1
+AL,0152680,place:AL:0152680,Movico CDP,Movico,Movico,01097,Mobile County,Census-designated place,31.062763,-88.026619,1
+AL,0152776,place:AL:0152776,Mulga town,Mulga,Mulga,01073,Jefferson County,Incorporated place,33.555613,-86.97181,1
+AL,0152848,place:AL:0152848,Munford town,Munford,Munford,01121,Talladega County,Incorporated place,33.527644,-85.953809,1
+AL,0153016,place:AL:0153016,Muscle Shoals city,Muscle Shoals,Muscle Shoals,01033,Colbert County,Incorporated place,34.742657,-87.633767,1
+AL,0153112,place:AL:0153112,Myrtlewood town,Myrtlewood,Myrtlewood,01091,Marengo County,Incorporated place,32.252088,-87.949261,1
+AL,0153208,place:AL:0153208,Nanafalia CDP,Nanafalia,Nanafalia,01091,Marengo County,Census-designated place,32.111393,-87.995757,1
+AL,0153232,place:AL:0153232,Nances Creek CDP,Nances Creek,Nances Creek,01015,Calhoun County,Census-designated place,33.855644,-85.66886,1
+AL,0153256,place:AL:0153256,Napier Field town,Napier Field,Napier Field,01045,Dale County,Incorporated place,31.314925,-85.454929,1
+AL,0153376,place:AL:0153376,Natural Bridge town,Natural Bridge,Natural Bridge,01133,Winston County,Incorporated place,34.092195,-87.601,1
+AL,0153400,place:AL:0153400,Nauvoo town,Nauvoo,Nauvoo,01127,Walker County,Incorporated place,33.984386,-87.48544,1
+AL,0153448,place:AL:0153448,Nectar town,Nectar,Nectar,01009,Blount County,Incorporated place,33.979779,-86.620614,1
+AL,0153472,place:AL:0153472,Needham town,Needham,Needham,01023,Choctaw County,Incorporated place,31.987,-88.336563,1
+AL,0153856,place:AL:0153856,New Brockton town,New Brockton,New Brockton,01031,Coffee County,Incorporated place,31.37671,-85.91901,1
+AL,0154168,place:AL:0154168,New Hope city,New Hope,New Hope,01089,Madison County,Incorporated place,34.537972,-86.41237,1
+AL,0154312,place:AL:0154312,New Market CDP,New Market,New Market,01089,Madison County,Census-designated place,34.892335,-86.425818,1
+AL,0154432,place:AL:0154432,New Site town,New Site,New Site,01123,Tallapoosa County,Incorporated place,33.026041,-85.784536,1
+AL,0154582,place:AL:0154582,New Union CDP,New Union,New Union,01055,Etowah County,Census-designated place,34.133682,-86.228002,1
+AL,0153784,place:AL:0153784,Newbern town,Newbern,Newbern,01065,Hale County,Incorporated place,32.591672,-87.535614,1
+AL,0154480,place:AL:0154480,Newton town,Newton,Newton,01045,Dale County,Incorporated place,31.341229,-85.588307,1
+AL,0154600,place:AL:0154600,Newville town,Newville,Newville,01067,Henry County,Incorporated place,31.420604,-85.33669,1
+AL,0154696,place:AL:0154696,Nixburg CDP,Nixburg,Nixburg,01037,Coosa County,Census-designated place,32.855488,-86.100838,1
+AL,0155044,place:AL:0155044,North Courtland town,North Courtland,North Courtland,01079,Lawrence County,Incorporated place,34.679995,-87.305633,1
+AL,0155152,place:AL:0155152,North Johns town,North Johns,North Johns,01073,Jefferson County,Incorporated place,33.367769,-87.100725,1
+AL,0155200,place:AL:0155200,Northport city,Northport,Northport,01125,Tuscaloosa County,Incorporated place,33.25757,-87.596396,1
+AL,0155440,place:AL:0155440,Notasulga town,Notasulga,Notasulga,01087,Macon County,Incorporated place,32.555409,-85.668577,1
+AL,0155752,place:AL:0155752,Oak Grove town,Oak Grove,Oak Grove,01121,Talladega County,Incorporated place,33.190359,-86.303727,1
+AL,0155848,place:AL:0155848,Oak Hill town,Oak Hill,Oak Hill,01131,Wilcox County,Incorporated place,31.92162,-87.085234,1
+AL,0155992,place:AL:0155992,Oakman town,Oakman,Oakman,01127,Walker County,Incorporated place,33.714322,-87.388699,1
+AL,0156400,place:AL:0156400,Odenville city,Odenville,Odenville,01115,St. Clair County,Incorporated place,33.701991,-86.423827,1
+AL,0156472,place:AL:0156472,Ohatchee town,Ohatchee,Ohatchee,01015,Calhoun County,Incorporated place,33.789759,-86.029062,1
+AL,0157000,place:AL:0157000,Oneonta city,Oneonta,Oneonta,01009,Blount County,Incorporated place,33.947035,-86.489795,1
+AL,0157024,place:AL:0157024,Onycha town,Onycha,Onycha,01039,Covington County,Incorporated place,31.225693,-86.276024,1
+AL,0157048,place:AL:0157048,Opelika city,Opelika,Opelika,01081,Lee County,Incorporated place,32.660739,-85.37889,1
+AL,0157120,place:AL:0157120,Opp city,Opp,Opp,01039,Covington County,Incorporated place,31.284375,-86.257442,1
+AL,0157144,place:AL:0157144,Orange Beach city,Orange Beach,Orange Beach,01003,Baldwin County,Incorporated place,30.293954,-87.595384,1
+AL,0157240,place:AL:0157240,Orrville town,Orrville,Orrville,01047,Dallas County,Incorporated place,32.306769,-87.245447,1
+AL,0157384,place:AL:0157384,Our Town CDP,Our Town,Our Town,01123,Tallapoosa County,Census-designated place,32.842211,-85.967035,1
+AL,0157504,place:AL:0157504,Owens Cross Roads city,Owens Cross Roads,Owens Cross Roads,01089,Madison County,Incorporated place,34.585458,-86.455027,1
+AL,0157576,place:AL:0157576,Oxford city,Oxford,Oxford,01015,Calhoun County,Incorporated place,33.59641,-85.868219,1
+AL,0157648,place:AL:0157648,Ozark city,Ozark,Ozark,01045,Dale County,Incorporated place,31.451615,-85.645035,1
+AL,0157696,place:AL:0157696,Paint Rock town,Paint Rock,Paint Rock,01071,Jackson County,Incorporated place,34.660934,-86.333952,1
+AL,0157912,place:AL:0157912,Panola CDP,Panola,Panola,01119,Sumter County,Census-designated place,32.946819,-88.262266,1
+AL,0158272,place:AL:0158272,Parrish town,Parrish,Parrish,01127,Walker County,Incorporated place,33.732321,-87.280127,1
+AL,0158680,place:AL:0158680,Pea Ridge CDP,Pea Ridge,Pea Ridge,01117,Shelby County,Census-designated place,33.13175,-86.942446,1
+AL,0158848,place:AL:0158848,Pelham city,Pelham,Pelham,01117,Shelby County,Incorporated place,33.331186,-86.730643,1
+AL,0158896,place:AL:0158896,Pell City city,Pell City,Pell City,01115,St. Clair County,Incorporated place,33.560312,-86.263634,1
+AL,0158968,place:AL:0158968,Pennington town,Pennington,Pennington,01023,Choctaw County,Incorporated place,32.203022,-88.039354,1
+AL,0159016,place:AL:0159016,Penton CDP,Penton,Penton,01017,Chambers County,Census-designated place,33.009832,-85.474824,1
+AL,0159064,place:AL:0159064,Perdido CDP,Perdido,Perdido,01003,Baldwin County,Census-designated place,31.005634,-87.630272,1
+AL,0159088,place:AL:0159088,Perdido Beach town,Perdido Beach,Perdido Beach,01003,Baldwin County,Incorporated place,30.353879,-87.5048,1
+AL,0159232,place:AL:0159232,Peterman CDP,Peterman,Peterman,01099,Monroe County,Census-designated place,31.583669,-87.263042,1
+AL,0159328,place:AL:0159328,Petrey town,Petrey,Petrey,01041,Crenshaw County,Incorporated place,31.85216,-86.204007,1
+AL,0159472,place:AL:0159472,Phenix City city,Phenix City,Phenix City,01113,Russell County,Incorporated place,32.453878,-85.030947,1
+AL,0159496,place:AL:0159496,Phil Campbell town,Phil Campbell,Phil Campbell,01059,Franklin County,Incorporated place,34.351547,-87.707359,1
+AL,0159592,place:AL:0159592,Pickensville town,Pickensville,Pickensville,01107,Pickens County,Incorporated place,33.235782,-88.289443,1
+AL,0159640,place:AL:0159640,Piedmont city,Piedmont,Piedmont,01015,Calhoun County,Incorporated place,33.927557,-85.615267,1
+AL,0159760,place:AL:0159760,Pike Road city,Pike Road,Pike Road,01101,Montgomery County,Incorporated place,32.273646,-86.11929,1
+AL,0159832,place:AL:0159832,Pinckard town,Pinckard,Pinckard,01045,Dale County,Incorporated place,31.318989,-85.537836,1
+AL,0159880,place:AL:0159880,Pine Apple town,Pine Apple,Pine Apple,01131,Wilcox County,Incorporated place,31.872155,-86.989059,1
+AL,0160240,place:AL:0160240,Pine Hill town,Pine Hill,Pine Hill,01131,Wilcox County,Incorporated place,31.985884,-87.587516,1
+AL,0160264,place:AL:0160264,Pine Level town,Pine Level,Pine Level,01001,Autauga County,Incorporated place,32.568979,-86.456436,1
+AL,0160372,place:AL:0160372,Pine Ridge town,Pine Ridge,Pine Ridge,01049,DeKalb County,Incorporated place,34.447915,-85.78383,1
+AL,0160648,place:AL:0160648,Pinson city,Pinson,Pinson,01073,Jefferson County,Incorporated place,33.709262,-86.663613,1
+AL,0160720,place:AL:0160720,Pisgah town,Pisgah,Pisgah,01071,Jackson County,Incorporated place,34.684366,-85.84601,1
+AL,0161008,place:AL:0161008,Pleasant Grove city,Pleasant Grove,Pleasant Grove,01073,Jefferson County,Incorporated place,33.493967,-86.97815,1
+AL,0161038,place:AL:0161038,Pleasant Groves town,Pleasant Groves,Pleasant Groves,01071,Jackson County,Incorporated place,34.737619,-86.197637,1
+AL,0161488,place:AL:0161488,Point Clear CDP,Point Clear,Point Clear,01003,Baldwin County,Census-designated place,30.486124,-87.911153,1
+AL,0161536,place:AL:0161536,Pollard town,Pollard,Pollard,01053,Escambia County,Incorporated place,31.026469,-87.170401,1
+AL,0162075,place:AL:0162075,Powell town,Powell,Powell,01049,DeKalb County,Incorporated place,34.532588,-85.897553,1
+AL,0162328,place:AL:0162328,Prattville city,Prattville,Prattville,01001,Autauga County,Incorporated place,32.459935,-86.457778,1
+AL,0162472,place:AL:0162472,Priceville city,Priceville,Priceville,01103,Morgan County,Incorporated place,34.527341,-86.886595,1
+AL,0162496,place:AL:0162496,Prichard city,Prichard,Prichard,01097,Mobile County,Incorporated place,30.773273,-88.131263,1
+AL,0162688,place:AL:0162688,Providence town,Providence,Providence,01091,Marengo County,Incorporated place,32.342386,-87.776115,1
+AL,0162952,place:AL:0162952,Putnam CDP,Putnam,Putnam,01091,Marengo County,Census-designated place,32.018084,-88.033057,1
+AL,0163216,place:AL:0163216,Ragland town,Ragland,Ragland,01115,St. Clair County,Incorporated place,33.748325,-86.135927,1
+AL,0163288,place:AL:0163288,Rainbow City city,Rainbow City,Rainbow City,01055,Etowah County,Incorporated place,33.928777,-86.084228,1
+AL,0163336,place:AL:0163336,Rainsville city,Rainsville,Rainsville,01049,DeKalb County,Incorporated place,34.494364,-85.836505,1
+AL,0163408,place:AL:0163408,Ranburne town,Ranburne,Ranburne,01029,Cleburne County,Incorporated place,33.525853,-85.339013,1
+AL,0163495,place:AL:0163495,Ray CDP,Ray,Ray,01037,Coosa County,Census-designated place,32.868141,-86.045252,1
+AL,0163576,place:AL:0163576,Red Bay city,Red Bay,Red Bay,01059,Franklin County,Incorporated place,34.436097,-88.136515,1
+AL,0163768,place:AL:0163768,Red Level town,Red Level,Red Level,01039,Covington County,Incorporated place,31.406711,-86.606217,1
+AL,0163730,place:AL:0163730,Redland CDP,Redland,Redland,01051,Elmore County,Census-designated place,32.481426,-86.143759,1
+AL,0163912,place:AL:0163912,Redstone Arsenal CDP,Redstone Arsenal,Redstone Arsenal,01089,Madison County,Census-designated place,34.677035,-86.650344,1
+AL,0163984,place:AL:0163984,Reece City town,Reece City,Reece City,01055,Etowah County,Incorporated place,34.077241,-86.034498,1
+AL,0164040,place:AL:0164040,Reeltown CDP,Reeltown,Reeltown,01123,Tallapoosa County,Census-designated place,32.574022,-85.81952,1
+AL,0164104,place:AL:0164104,Reform town,Reform,Reform,01107,Pickens County,Incorporated place,33.37826,-88.017273,1
+AL,0164152,place:AL:0164152,Rehobeth town,Rehobeth,Rehobeth,01069,Houston County,Incorporated place,31.122548,-85.439648,1
+AL,0164248,place:AL:0164248,Remlap CDP,Remlap,Remlap,01009,Blount County,Census-designated place,33.806972,-86.593941,1
+AL,0164368,place:AL:0164368,Repton town,Repton,Repton,01035,Conecuh County,Incorporated place,31.409716,-87.238931,1
+AL,0164656,place:AL:0164656,Ridgeville town,Ridgeville,Ridgeville,01055,Etowah County,Incorporated place,34.056929,-86.102874,1
+AL,0164776,place:AL:0164776,River Falls town,River Falls,River Falls,01039,Covington County,Incorporated place,31.354586,-86.547276,1
+AL,0164920,place:AL:0164920,Riverside city,Riverside,Riverside,01115,St. Clair County,Incorporated place,33.617986,-86.20525,1
+AL,0165016,place:AL:0165016,Riverview town,Riverview,Riverview,01053,Escambia County,Incorporated place,31.06126,-87.077531,1
+AL,0165040,place:AL:0165040,Roanoke city,Roanoke,Roanoke,01111,Randolph County,Incorporated place,33.145305,-85.369526,1
+AL,0165208,place:AL:0165208,Robertsdale city,Robertsdale,Robertsdale,01003,Baldwin County,Incorporated place,30.557402,-87.704966,1
+AL,0165412,place:AL:0165412,Rock Creek CDP,Rock Creek,Rock Creek,01073,Jefferson County,Census-designated place,33.477227,-87.081249,1
+AL,0165592,place:AL:0165592,Rock Mills CDP,Rock Mills,Rock Mills,01111,Randolph County,Census-designated place,33.15994,-85.28107,1
+AL,0165472,place:AL:0165472,Rockford town,Rockford,Rockford,01037,Coosa County,Incorporated place,32.896906,-86.20837,1
+AL,0165784,place:AL:0165784,Rockville CDP,Rockville,Rockville,01025,Clarke County,Census-designated place,31.405776,-87.844212,1
+AL,0166216,place:AL:0166216,Rogersville town,Rogersville,Rogersville,01077,Lauderdale County,Incorporated place,34.827714,-87.284092,1
+AL,0166408,place:AL:0166408,Rosa town,Rosa,Rosa,01009,Blount County,Incorporated place,33.992756,-86.500325,1
+AL,0167056,place:AL:0167056,Russellville city,Russellville,Russellville,01059,Franklin County,Incorporated place,34.505719,-87.728123,1
+AL,0167176,place:AL:0167176,Rutledge town,Rutledge,Rutledge,01041,Crenshaw County,Incorporated place,31.724072,-86.302008,1
+AL,0167608,place:AL:0167608,Saks CDP,Saks,Saks,01015,Calhoun County,Census-designated place,33.711401,-85.853698,1
+AL,0167800,place:AL:0167800,Samson town,Samson,Samson,01061,Geneva County,Incorporated place,31.112417,-86.046735,1
+AL,0167920,place:AL:0167920,Sand Rock town,Sand Rock,Sand Rock,01019,Cherokee County,Incorporated place,34.231228,-85.770416,1
+AL,0168016,place:AL:0168016,Sanford town,Sanford,Sanford,01039,Covington County,Incorporated place,31.301241,-86.401999,1
+AL,0168160,place:AL:0168160,Saraland city,Saraland,Saraland,01097,Mobile County,Incorporated place,30.852957,-88.107632,1
+AL,0168280,place:AL:0168280,Sardis City town,Sardis City,Sardis City,01055,Etowah County,Incorporated place,34.172413,-86.119104,1
+AL,0168352,place:AL:0168352,Satsuma city,Satsuma,Satsuma,01097,Mobile County,Incorporated place,30.857874,-88.063383,1
+AL,0168736,place:AL:0168736,Scottsboro city,Scottsboro,Scottsboro,01071,Jackson County,Incorporated place,34.64462,-86.048155,1
+AL,0169000,place:AL:0169000,Section town,Section,Section,01071,Jackson County,Incorporated place,34.581644,-85.984942,1
+AL,0169120,place:AL:0169120,Selma city,Selma,Selma,01047,Dallas County,Incorporated place,32.416983,-87.035702,1
+AL,0169180,place:AL:0169180,Selmont-West Selmont CDP,Selmont-West Selmont,Selmont-West Selmont,01047,Dallas County,Census-designated place,32.377125,-87.006453,1
+AL,0169240,place:AL:0169240,Semmes city,Semmes,Semmes,01097,Mobile County,Incorporated place,30.797849,-88.24965,1
+AL,0169648,place:AL:0169648,Sheffield city,Sheffield,Sheffield,01033,Colbert County,Incorporated place,34.757019,-87.697085,1
+AL,0169672,place:AL:0169672,Shelby CDP,Shelby,Shelby,01117,Shelby County,Census-designated place,33.106882,-86.585403,1
+AL,0169840,place:AL:0169840,Shiloh town,Shiloh,Shiloh,01049,DeKalb County,Incorporated place,34.462666,-85.877617,1
+AL,0169978,place:AL:0169978,Shoal Creek CDP,Shoal Creek,Shoal Creek,01117,Shelby County,Census-designated place,33.432633,-86.613073,1
+AL,0170128,place:AL:0170128,Shorter town,Shorter,Shorter,01087,Macon County,Incorporated place,32.411501,-85.972808,1
+AL,0170416,place:AL:0170416,Silas town,Silas,Silas,01023,Choctaw County,Incorporated place,31.767802,-88.325923,1
+AL,0170536,place:AL:0170536,Silverhill town,Silverhill,Silverhill,01003,Baldwin County,Incorporated place,30.545359,-87.750557,1
+AL,0170632,place:AL:0170632,Sims Chapel CDP,Sims Chapel,Sims Chapel,01129,Washington County,Census-designated place,31.251678,-88.14702,1
+AL,0170704,place:AL:0170704,Sipsey town,Sipsey,Sipsey,01127,Walker County,Incorporated place,33.822119,-87.082918,1
+AL,0170896,place:AL:0170896,Skyline town,Skyline,Skyline,01071,Jackson County,Incorporated place,34.798524,-86.12243,1
+AL,0171040,place:AL:0171040,Slocomb city,Slocomb,Slocomb,01061,Geneva County,Incorporated place,31.112126,-85.59866,1
+AL,0171190,place:AL:0171190,Smiths Station city,Smiths Station,Smiths Station,01081,Lee County,Incorporated place,32.525286,-85.099484,1
+AL,0171201,place:AL:0171201,Smoke Rise CDP,Smoke Rise,Smoke Rise,01009,Blount County,Census-designated place,33.879942,-86.824683,1
+AL,0171280,place:AL:0171280,Snead town,Snead,Snead,01009,Blount County,Incorporated place,34.116228,-86.390916,1
+AL,0171496,place:AL:0171496,Somerville town,Somerville,Somerville,01103,Morgan County,Incorporated place,34.467126,-86.791542,1
+AL,0171900,place:AL:0171900,South Vinemont town,South Vinemont,South Vinemont,01043,Cullman County,Incorporated place,34.235567,-86.863965,1
+AL,0171832,place:AL:0171832,Southside city,Southside,Southside,01055,Etowah County,Incorporated place,33.890841,-86.01802,1
+AL,0171976,place:AL:0171976,Spanish Fort city,Spanish Fort,Spanish Fort,01003,Baldwin County,Incorporated place,30.722968,-87.865917,1
+AL,0172408,place:AL:0172408,Spring Garden CDP,Spring Garden,Spring Garden,01019,Cherokee County,Census-designated place,33.972965,-85.555756,1
+AL,0172600,place:AL:0172600,Springville city,Springville,Springville,01115,St. Clair County,Incorporated place,33.74052,-86.484086,1
+AL,0172672,place:AL:0172672,Spruce Pine CDP,Spruce Pine,Spruce Pine,01059,Franklin County,Census-designated place,34.39287,-87.729597,1
+AL,0167536,place:AL:0167536,St. Florian town,St. Florian,St. Florian,01077,Lauderdale County,Incorporated place,34.874098,-87.623736,1
+AL,0167584,place:AL:0167584,St. Stephens CDP,St. Stephens,St. Stephens,01129,Washington County,Census-designated place,31.571111,-88.052834,1
+AL,0172720,place:AL:0172720,Standing Rock CDP,Standing Rock,Standing Rock,01017,Chambers County,Census-designated place,33.08569,-85.239849,1
+AL,0172816,place:AL:0172816,Stapleton CDP,Stapleton,Stapleton,01003,Baldwin County,Census-designated place,30.735558,-87.797727,1
+AL,0172888,place:AL:0172888,Steele town,Steele,Steele,01115,St. Clair County,Incorporated place,33.941378,-86.192107,1
+AL,0173056,place:AL:0173056,Sterrett CDP,Sterrett,Sterrett,01117,Shelby County,Census-designated place,33.442198,-86.461045,1
+AL,0173080,place:AL:0173080,Stevenson town,Stevenson,Stevenson,01071,Jackson County,Incorporated place,34.878967,-85.814072,1
+AL,0173152,place:AL:0173152,Stewartville CDP,Stewartville,Stewartville,01037,Coosa County,Census-designated place,33.075532,-86.260693,1
+AL,0173272,place:AL:0173272,Stockton CDP,Stockton,Stockton,01003,Baldwin County,Census-designated place,31.000794,-87.8738,1
+AL,0173728,place:AL:0173728,Sulligent town,Sulligent,Sulligent,01075,Lamar County,Incorporated place,33.891189,-88.126633,1
+AL,0173848,place:AL:0173848,Sumiton city,Sumiton,Sumiton,01127,Walker County,Incorporated place,33.749269,-87.046903,1
+AL,0173872,place:AL:0173872,Summerdale town,Summerdale,Summerdale,01003,Baldwin County,Incorporated place,30.476741,-87.687561,1
+AL,0174160,place:AL:0174160,Susan Moore town,Susan Moore,Susan Moore,01009,Blount County,Incorporated place,34.072993,-86.414156,1
+AL,0174304,place:AL:0174304,Sweet Water town,Sweet Water,Sweet Water,01091,Marengo County,Incorporated place,32.104614,-87.861889,1
+AL,0174352,place:AL:0174352,Sylacauga city,Sylacauga,Sylacauga,01121,Talladega County,Incorporated place,33.18867,-86.274799,1
+AL,0174424,place:AL:0174424,Sylvan Springs town,Sylvan Springs,Sylvan Springs,01073,Jefferson County,Incorporated place,33.530194,-87.031158,1
+AL,0174400,place:AL:0174400,Sylvania town,Sylvania,Sylvania,01049,DeKalb County,Incorporated place,34.562039,-85.804722,1
+AL,0174592,place:AL:0174592,Talladega city,Talladega,Talladega,01121,Talladega County,Incorporated place,33.431756,-86.099456,1
+AL,0174616,place:AL:0174616,Talladega Springs town,Talladega Springs,Talladega Springs,01121,Talladega County,Incorporated place,33.120452,-86.437761,1
+AL,0174688,place:AL:0174688,Tallassee city,Tallassee,Tallassee,01051,Elmore County,Incorporated place,32.532665,-85.891993,1
+AL,0174976,place:AL:0174976,Tarrant city,Tarrant,Tarrant,01073,Jefferson County,Incorporated place,33.592897,-86.766253,1
+AL,0175096,place:AL:0175096,Taylor city,Taylor,Taylor,01069,Houston County,Incorporated place,31.168811,-85.47579,1
+AL,0175768,place:AL:0175768,Theodore CDP,Theodore,Theodore,01097,Mobile County,Census-designated place,30.538686,-88.187573,1
+AL,0175936,place:AL:0175936,Thomaston town,Thomaston,Thomaston,01091,Marengo County,Incorporated place,32.268277,-87.623706,1
+AL,0175960,place:AL:0175960,Thomasville city,Thomasville,Thomasville,01025,Clarke County,Incorporated place,31.915011,-87.737204,1
+AL,0176080,place:AL:0176080,Thorsby city,Thorsby,Thorsby,01021,Chilton County,Incorporated place,32.916909,-86.720335,1
+AL,0176200,place:AL:0176200,Tibbie CDP,Tibbie,Tibbie,01129,Washington County,Census-designated place,31.37049,-88.243862,1
+AL,0176208,place:AL:0176208,Tidmore Bend CDP,Tidmore Bend,Tidmore Bend,01055,Etowah County,Census-designated place,34.033184,-85.926387,1
+AL,0176320,place:AL:0176320,Tillmans Corner CDP,Tillmans Corner,Tillmans Corner,01097,Mobile County,Census-designated place,30.581533,-88.21278,1
+AL,0176584,place:AL:0176584,Town Creek town,Town Creek,Town Creek,01079,Lawrence County,Incorporated place,34.671301,-87.407763,1
+AL,0176632,place:AL:0176632,Toxey town,Toxey,Toxey,01023,Choctaw County,Incorporated place,31.910712,-88.309146,1
+AL,0176680,place:AL:0176680,Trafford town,Trafford,Trafford,01073,Jefferson County,Incorporated place,33.818713,-86.746502,1
+AL,0176824,place:AL:0176824,Triana city,Triana,Triana,01089,Madison County,Incorporated place,34.587779,-86.748488,1
+AL,0176872,place:AL:0176872,Trinity city,Trinity,Trinity,01103,Morgan County,Incorporated place,34.597445,-87.081354,1
+AL,0176920,place:AL:0176920,Troy city,Troy,Troy,01109,Pike County,Incorporated place,31.80196,-85.96713,1
+AL,0176944,place:AL:0176944,Trussville city,Trussville,Trussville,01073,Jefferson County,Incorporated place,33.655338,-86.563001,1
+AL,0177256,place:AL:0177256,Tuscaloosa city,Tuscaloosa,Tuscaloosa,01125,Tuscaloosa County,Incorporated place,33.234404,-87.5283,1
+AL,0177280,place:AL:0177280,Tuscumbia city,Tuscumbia,Tuscumbia,01033,Colbert County,Incorporated place,34.718502,-87.702586,1
+AL,0177304,place:AL:0177304,Tuskegee city,Tuskegee,Tuskegee,01087,Macon County,Incorporated place,32.418723,-85.682509,1
+AL,0177352,place:AL:0177352,Twin town,Twin,Twin,01093,Marion County,Incorporated place,33.992314,-87.852295,1
+AL,0177580,place:AL:0177580,Underwood-Petersville CDP,Underwood-Petersville,Underwood-Petersville,01077,Lauderdale County,Census-designated place,34.876341,-87.697729,1
+AL,0177616,place:AL:0177616,Union town,Union,Union,01063,Greene County,Incorporated place,32.99381,-87.907179,1
+AL,0177784,place:AL:0177784,Union Grove town,Union Grove,Union Grove,01095,Marshall County,Incorporated place,34.406172,-86.451667,1
+AL,0177880,place:AL:0177880,Union Springs city,Union Springs,Union Springs,01011,Bullock County,Incorporated place,32.139506,-85.714623,1
+AL,0177904,place:AL:0177904,Uniontown city,Uniontown,Uniontown,01105,Perry County,Incorporated place,32.446617,-87.487283,1
+AL,0178120,place:AL:0178120,Uriah CDP,Uriah,Uriah,01099,Monroe County,Census-designated place,31.307365,-87.499213,1
+AL,0178204,place:AL:0178204,Valley city,Valley,Valley,01017,Chambers County,Incorporated place,32.808779,-85.181146,1
+AL,0178232,place:AL:0178232,Valley Grande city,Valley Grande,Valley Grande,01047,Dallas County,Incorporated place,32.486872,-87.032773,1
+AL,0178240,place:AL:0178240,Valley Head town,Valley Head,Valley Head,01049,DeKalb County,Incorporated place,34.556234,-85.623008,1
+AL,0178264,place:AL:0178264,Vance city,Vance,Vance,01125,Tuscaloosa County,Incorporated place,33.173616,-87.226258,1
+AL,0178312,place:AL:0178312,Vandiver CDP,Vandiver,Vandiver,01117,Shelby County,Census-designated place,33.458856,-86.529222,1
+AL,0178480,place:AL:0178480,Vernon town,Vernon,Vernon,01075,Lamar County,Incorporated place,33.758816,-88.114291,1
+AL,0178552,place:AL:0178552,Vestavia Hills city,Vestavia Hills,Vestavia Hills,01073,Jefferson County,Incorporated place,33.462742,-86.739569,1
+AL,0178984,place:AL:0178984,Vina town,Vina,Vina,01059,Franklin County,Incorporated place,34.376175,-88.060572,1
+AL,0179008,place:AL:0179008,Vincent town,Vincent,Vincent,01117,Shelby County,Incorporated place,33.383145,-86.402544,1
+AL,0179032,place:AL:0179032,Vinegar Bend CDP,Vinegar Bend,Vinegar Bend,01129,Washington County,Census-designated place,31.259093,-88.367264,1
+AL,0179272,place:AL:0179272,Vredenburgh town,Vredenburgh,Vredenburgh,01099,Monroe County,Incorporated place,31.823234,-87.318077,1
+AL,0179344,place:AL:0179344,Wadley town,Wadley,Wadley,01111,Randolph County,Incorporated place,33.1234,-85.568592,1
+AL,0179488,place:AL:0179488,Waldo town,Waldo,Waldo,01121,Talladega County,Incorporated place,33.387083,-86.041075,1
+AL,0179728,place:AL:0179728,Walnut Grove town,Walnut Grove,Walnut Grove,01055,Etowah County,Incorporated place,34.064595,-86.28717,1
+AL,0179944,place:AL:0179944,Warrior city,Warrior,Warrior,01073,Jefferson County,Incorporated place,33.814858,-86.81565,1
+AL,0180064,place:AL:0180064,Waterloo town,Waterloo,Waterloo,01077,Lauderdale County,Incorporated place,34.917199,-88.064373,1
+AL,0180256,place:AL:0180256,Waverly town,Waverly,Waverly,01081,Lee County,Incorporated place,32.730078,-85.570999,1
+AL,0180352,place:AL:0180352,Weaver city,Weaver,Weaver,01015,Calhoun County,Incorporated place,33.75907,-85.809363,1
+AL,0180376,place:AL:0180376,Webb town,Webb,Webb,01069,Houston County,Incorporated place,31.257237,-85.289622,1
+AL,0180496,place:AL:0180496,Wedowee town,Wedowee,Wedowee,01111,Randolph County,Incorporated place,33.308004,-85.4865,1
+AL,0180736,place:AL:0180736,Weogufka CDP,Weogufka,Weogufka,01037,Coosa County,Census-designated place,33.021724,-86.309146,1
+AL,0180928,place:AL:0180928,West Blocton town,West Blocton,West Blocton,01007,Bibb County,Incorporated place,33.118176,-87.125225,1
+AL,0181084,place:AL:0181084,West End-Cobb Town CDP,West End-Cobb Town,West End-Cobb Town,01015,Calhoun County,Census-designated place,33.651481,-85.876553,1
+AL,0181336,place:AL:0181336,West Jefferson town,West Jefferson,West Jefferson,01073,Jefferson County,Incorporated place,33.673167,-87.040664,1
+AL,0181528,place:AL:0181528,West Point town,West Point,West Point,01043,Cullman County,Incorporated place,34.238383,-86.965244,1
+AL,0181504,place:AL:0181504,Westover town,Westover,Westover,01117,Shelby County,Incorporated place,33.36734,-86.533986,1
+AL,0181720,place:AL:0181720,Wetumpka city,Wetumpka,Wetumpka,01051,Elmore County,Incorporated place,32.542018,-86.205307,1
+AL,0181744,place:AL:0181744,Whatley CDP,Whatley,Whatley,01025,Clarke County,Census-designated place,31.646343,-87.710836,1
+AL,0181912,place:AL:0181912,White Hall town,White Hall,White Hall,01085,Lowndes County,Incorporated place,32.297411,-86.715776,1
+AL,0182104,place:AL:0182104,White Plains CDP,White Plains,White Plains,01015,Calhoun County,Census-designated place,33.759312,-85.68847,1
+AL,0182176,place:AL:0182176,Whitesboro CDP,Whitesboro,Whitesboro,01055,Etowah County,Census-designated place,34.169004,-86.058499,1
+AL,0182848,place:AL:0182848,Wilsonville town,Wilsonville,Wilsonville,01117,Shelby County,Incorporated place,33.240752,-86.491105,1
+AL,0182872,place:AL:0182872,Wilton town,Wilton,Wilton,01117,Shelby County,Incorporated place,33.081565,-86.879655,1
+AL,0182992,place:AL:0182992,Winfield city,Winfield,Winfield,01093,Marion County,Incorporated place,33.934717,-87.79131,1
+AL,0183400,place:AL:0183400,Woodland town,Woodland,Woodland,01111,Randolph County,Incorporated place,33.374432,-85.39753,1
+AL,0183640,place:AL:0183640,Woodstock town,Woodstock,Woodstock,01007,Bibb County,Incorporated place,33.216596,-87.147131,1
+AL,0183664,place:AL:0183664,Woodville town,Woodville,Woodville,01071,Jackson County,Incorporated place,34.629535,-86.283558,1
+AL,0183976,place:AL:0183976,Yellow Bluff town,Yellow Bluff,Yellow Bluff,01131,Wilcox County,Incorporated place,31.962341,-87.477359,1
+AL,0184096,place:AL:0184096,York city,York,York,01119,Sumter County,Incorporated place,32.500537,-88.29131,1

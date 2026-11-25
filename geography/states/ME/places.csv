@@ -1,0 +1,156 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+ME,2300695,place:ME:2300695,Alfred CDP,Alfred,Alfred,23031,York County,Census-designated place,43.478568,-70.727091,1
+ME,2301360,place:ME:2301360,Anson CDP,Anson,Anson,23025,Somerset County,Census-designated place,44.796732,-69.900241,1
+ME,2301675,place:ME:2301675,Ashland CDP,Ashland,Ashland,23003,Aroostook County,Census-designated place,46.616868,-68.392826,1
+ME,2302060,place:ME:2302060,Auburn city,Auburn,Auburn,23001,Androscoggin County,Incorporated place,44.084537,-70.249649,1
+ME,2302100,place:ME:2302100,Augusta city,Augusta,Augusta,23011,Kennebec County,Incorporated place,44.334904,-69.734199,1
+ME,2302795,place:ME:2302795,Bangor city,Bangor,Bangor,23019,Penobscot County,Incorporated place,44.829625,-68.788767,1
+ME,2302830,place:ME:2302830,Bar Harbor CDP,Bar Harbor,Bar Harbor,23009,Hancock County,Census-designated place,44.381307,-68.211131,1
+ME,2303355,place:ME:2303355,Bath city,Bath,Bath,23023,Sagadahoc County,Incorporated place,43.93253,-69.847186,1
+ME,2303950,place:ME:2303950,Belfast city,Belfast,Belfast,23027,Waldo County,Incorporated place,44.425874,-69.026418,1
+ME,2304685,place:ME:2304685,Berwick CDP,Berwick,Berwick,23031,York County,Census-designated place,43.269956,-70.86243,1
+ME,2304790,place:ME:2304790,Bethel CDP,Bethel,Bethel,23017,Oxford County,Census-designated place,44.403804,-70.786351,1
+ME,2304860,place:ME:2304860,Biddeford city,Biddeford,Biddeford,23031,York County,Incorporated place,43.438733,-70.392943,1
+ME,2304965,place:ME:2304965,Bingham CDP,Bingham,Bingham,23025,Somerset County,Census-designated place,45.05808,-69.873054,1
+ME,2305350,place:ME:2305350,Blaine CDP,Blaine,Blaine,23003,Aroostook County,Census-designated place,46.498998,-67.868766,1
+ME,2305665,place:ME:2305665,Blue Hill CDP,Blue Hill,Blue Hill,23009,Hancock County,Census-designated place,44.398645,-68.581024,1
+ME,2306085,place:ME:2306085,Boothbay Harbor CDP,Boothbay Harbor,Boothbay Harbor,23015,Lincoln County,Census-designated place,43.855619,-69.623337,1
+ME,2306330,place:ME:2306330,Bowdoinham CDP,Bowdoinham,Bowdoinham,23023,Sagadahoc County,Census-designated place,44.021214,-69.901263,1
+ME,2306645,place:ME:2306645,Bradley CDP,Bradley,Bradley,23019,Penobscot County,Census-designated place,44.911832,-68.621528,1
+ME,2306925,place:ME:2306925,Brewer city,Brewer,Brewer,23019,Penobscot County,Incorporated place,44.784461,-68.734559,1
+ME,2307135,place:ME:2307135,Bridgton CDP,Bridgton,Bridgton,23005,Cumberland County,Census-designated place,44.076464,-70.715469,1
+ME,2308360,place:ME:2308360,Brownville Junction CDP,Brownville Junction,Brownville Junction,23021,Piscataquis County,Census-designated place,45.348651,-69.056093,1
+ME,2308395,place:ME:2308395,Brunswick CDP,Brunswick,Brunswick,23005,Cumberland County,Census-designated place,43.887452,-69.942623,1
+ME,2308780,place:ME:2308780,Bucksport CDP,Bucksport,Bucksport,23009,Hancock County,Census-designated place,44.588275,-68.798639,1
+ME,2309585,place:ME:2309585,Calais city,Calais,Calais,23029,Washington County,Incorporated place,45.143166,-67.217794,1
+ME,2309690,place:ME:2309690,Camden CDP,Camden,Camden,23013,Knox County,Census-designated place,44.213771,-69.068463,1
+ME,2310320,place:ME:2310320,Cape Neddick CDP,Cape Neddick,Cape Neddick,23031,York County,Census-designated place,43.171985,-70.623743,1
+ME,2310565,place:ME:2310565,Caribou city,Caribou,Caribou,23003,Aroostook County,Incorporated place,46.836549,-67.936056,1
+ME,2311090,place:ME:2311090,Casco CDP,Casco,Casco,23005,Cumberland County,Census-designated place,44.00169,-70.532759,1
+ME,2311230,place:ME:2311230,Castine CDP,Castine,Castine,23009,Hancock County,Census-designated place,44.393981,-68.806019,1
+ME,2312770,place:ME:2312770,Chisholm CDP,Chisholm,Chisholm,23007,Franklin County,Census-designated place,44.492894,-70.1926,1
+ME,2313435,place:ME:2313435,Clinton CDP,Clinton,Clinton,23011,Kennebec County,Census-designated place,44.644629,-69.488656,1
+ME,2314275,place:ME:2314275,Corinna CDP,Corinna,Corinna,23019,Penobscot County,Census-designated place,44.922741,-69.265852,1
+ME,2314450,place:ME:2314450,Cornish CDP,Cornish,Cornish,23031,York County,Census-designated place,43.800122,-70.795141,1
+ME,2314800,place:ME:2314800,Cousins Island CDP,Cousins Island,Cousins Island,23005,Cumberland County,Census-designated place,43.75705,-70.146175,1
+ME,2315500,place:ME:2315500,Cumberland Center CDP,Cumberland Center,Cumberland Center,23005,Cumberland County,Census-designated place,43.794744,-70.244061,1
+ME,2316200,place:ME:2316200,Damariscotta CDP,Damariscotta,Damariscotta,23015,Lincoln County,Census-designated place,44.017173,-69.520232,1
+ME,2316375,place:ME:2316375,Danforth CDP,Danforth,Danforth,23029,Washington County,Census-designated place,45.659613,-67.868269,1
+ME,2317495,place:ME:2317495,Dexter CDP,Dexter,Dexter,23019,Penobscot County,Census-designated place,45.016208,-69.294664,1
+ME,2317705,place:ME:2317705,Dixfield CDP,Dixfield,Dixfield,23017,Oxford County,Census-designated place,44.537969,-70.446201,1
+ME,2318230,place:ME:2318230,Dover-Foxcroft CDP,Dover-Foxcroft,Dover-Foxcroft,23021,Piscataquis County,Census-designated place,45.20463,-69.223534,1
+ME,2318965,place:ME:2318965,Dunstan CDP,Dunstan,Dunstan,23005,Cumberland County,Census-designated place,43.569119,-70.386202,1
+ME,2319385,place:ME:2319385,Eagle Lake CDP,Eagle Lake,Eagle Lake,23003,Aroostook County,Census-designated place,47.034929,-68.589743,1
+ME,2321065,place:ME:2321065,East Millinocket CDP,East Millinocket,East Millinocket,23019,Penobscot County,Census-designated place,45.627097,-68.573771,1
+ME,2321730,place:ME:2321730,Eastport city,Eastport,Eastport,23029,Washington County,Incorporated place,44.909539,-67.00992,1
+ME,2323200,place:ME:2323200,Ellsworth city,Ellsworth,Ellsworth,23009,Hancock County,Incorporated place,44.58293,-68.480094,1
+ME,2324285,place:ME:2324285,Fairfield CDP,Fairfield,Fairfield,23025,Somerset County,Census-designated place,44.590339,-69.605215,1
+ME,2324480,place:ME:2324480,Falmouth CDP,Falmouth,Falmouth,23005,Cumberland County,Census-designated place,43.716012,-70.231058,1
+ME,2324530,place:ME:2324530,Falmouth Foreside CDP,Falmouth Foreside,Falmouth Foreside,23005,Cumberland County,Census-designated place,43.732345,-70.218021,1
+ME,2324635,place:ME:2324635,Farmingdale CDP,Farmingdale,Farmingdale,23011,Kennebec County,Census-designated place,44.25096,-69.783526,1
+ME,2324740,place:ME:2324740,Farmington CDP,Farmington,Farmington,23007,Franklin County,Census-designated place,44.668373,-70.144039,1
+ME,2325580,place:ME:2325580,Fort Fairfield CDP,Fort Fairfield,Fort Fairfield,23003,Aroostook County,Census-designated place,46.76218,-67.843549,1
+ME,2325720,place:ME:2325720,Fort Kent CDP,Fort Kent,Fort Kent,23003,Aroostook County,Census-designated place,47.251738,-68.587216,1
+ME,2326490,place:ME:2326490,Freeport CDP,Freeport,Freeport,23005,Cumberland County,Census-designated place,43.857051,-70.102593,1
+ME,2326875,place:ME:2326875,Fryeburg CDP,Fryeburg,Fryeburg,23017,Oxford County,Census-designated place,44.02011,-70.971998,1
+ME,2327085,place:ME:2327085,Gardiner city,Gardiner,Gardiner,23011,Kennebec County,Incorporated place,44.195091,-69.793771,1
+ME,2328205,place:ME:2328205,Gorham CDP,Gorham,Gorham,23005,Cumberland County,Census-designated place,43.693238,-70.434962,1
+ME,2328555,place:ME:2328555,Grand Isle CDP,Grand Isle,Grand Isle,23003,Aroostook County,Census-designated place,47.307363,-68.158702,1
+ME,2328835,place:ME:2328835,Gray CDP,Gray,Gray,23005,Cumberland County,Census-designated place,43.886386,-70.324087,1
+ME,2329220,place:ME:2329220,Greene CDP,Greene,Greene,23001,Androscoggin County,Census-designated place,44.189754,-70.145088,1
+ME,2329500,place:ME:2329500,Greenville CDP,Greenville,Greenville,23021,Piscataquis County,Census-designated place,45.466184,-69.578033,1
+ME,2330060,place:ME:2330060,Guilford CDP,Guilford,Guilford,23021,Piscataquis County,Census-designated place,45.178621,-69.395037,1
+ME,2330550,place:ME:2330550,Hallowell city,Hallowell,Hallowell,23011,Kennebec County,Incorporated place,44.287241,-69.81804,1
+ME,2330760,place:ME:2330760,Hampden CDP,Hampden,Hampden,23019,Penobscot County,Census-designated place,44.747602,-68.839879,1
+ME,2331705,place:ME:2331705,Hartland CDP,Hartland,Hartland,23025,Somerset County,Census-designated place,44.885558,-69.469166,1
+ME,2333945,place:ME:2333945,Houlton CDP,Houlton,Houlton,23003,Aroostook County,Census-designated place,46.121447,-67.83221,1
+ME,2334225,place:ME:2334225,Howland CDP,Howland,Howland,23019,Penobscot County,Census-designated place,45.2696,-68.6581,1
+ME,2335030,place:ME:2335030,Island Falls CDP,Island Falls,Island Falls,23003,Aroostook County,Census-designated place,46.008708,-68.263937,1
+ME,2335975,place:ME:2335975,Jonesport CDP,Jonesport,Jonesport,23029,Washington County,Census-designated place,44.535373,-67.607594,1
+ME,2336500,place:ME:2336500,Kennebunk CDP,Kennebunk,Kennebunk,23031,York County,Census-designated place,43.384106,-70.544165,1
+ME,2336710,place:ME:2336710,Kennebunkport CDP,Kennebunkport,Kennebunkport,23031,York County,Census-designated place,43.363237,-70.460282,1
+ME,2336885,place:ME:2336885,Kezar Falls CDP,Kezar Falls,Kezar Falls,23031,York County,Census-designated place,43.807122,-70.875302,1
+ME,2336990,place:ME:2336990,Kingfield CDP,Kingfield,Kingfield,23007,Franklin County,Census-designated place,44.954976,-70.163979,1
+ME,2337235,place:ME:2337235,Kittery CDP,Kittery,Kittery,23031,York County,Census-designated place,43.089985,-70.738321,1
+ME,2337375,place:ME:2337375,Kittery Point CDP,Kittery Point,Kittery Point,23031,York County,Census-designated place,43.09381,-70.69096,1
+ME,2337795,place:ME:2337795,Lake Arrowhead CDP,Lake Arrowhead,Lake Arrowhead,23031,York County,Census-designated place,43.661676,-70.742002,1
+ME,2338740,place:ME:2338740,Lewiston city,Lewiston,Lewiston,23001,Androscoggin County,Incorporated place,44.089325,-70.172051,1
+ME,2339265,place:ME:2339265,Limestone CDP,Limestone,Limestone,23003,Aroostook County,Census-designated place,46.911205,-67.830828,1
+ME,2339440,place:ME:2339440,Lincoln CDP,Lincoln,Lincoln,23019,Penobscot County,Census-designated place,45.359686,-68.502152,1
+ME,2340000,place:ME:2340000,Lisbon CDP,Lisbon,Lisbon,23001,Androscoggin County,Census-designated place,44.029707,-70.107521,1
+ME,2340105,place:ME:2340105,Lisbon Falls CDP,Lisbon Falls,Lisbon Falls,23001,Androscoggin County,Census-designated place,44.008612,-70.057636,1
+ME,2340350,place:ME:2340350,Little Falls CDP,Little Falls,Little Falls,23005,Cumberland County,Census-designated place,43.737649,-70.438298,1
+ME,2340470,place:ME:2340470,Littlejohn Island CDP,Littlejohn Island,Littlejohn Island,23005,Cumberland County,Census-designated place,43.760208,-70.127042,1
+ME,2340735,place:ME:2340735,Livermore Falls CDP,Livermore Falls,Livermore Falls,23001,Androscoggin County,Census-designated place,44.472574,-70.180804,1
+ME,2341575,place:ME:2341575,Lubec CDP,Lubec,Lubec,23029,Washington County,Census-designated place,44.855069,-66.989856,1
+ME,2341925,place:ME:2341925,Machias CDP,Machias,Machias,23029,Washington County,Census-designated place,44.70064,-67.478612,1
+ME,2342485,place:ME:2342485,Madawaska CDP,Madawaska,Madawaska,23003,Aroostook County,Census-designated place,47.34245,-68.333444,1
+ME,2342625,place:ME:2342625,Madison CDP,Madison,Madison,23025,Somerset County,Census-designated place,44.807789,-69.850366,1
+ME,2343220,place:ME:2343220,Mapleton CDP,Mapleton,Mapleton,23003,Aroostook County,Census-designated place,46.68076,-68.151187,1
+ME,2343675,place:ME:2343675,Mars Hill CDP,Mars Hill,Mars Hill,23003,Aroostook County,Census-designated place,46.51919,-67.869714,1
+ME,2344235,place:ME:2344235,Mattawamkeag CDP,Mattawamkeag,Mattawamkeag,23019,Penobscot County,Census-designated place,45.517717,-68.351659,1
+ME,2344620,place:ME:2344620,Mechanic Falls CDP,Mechanic Falls,Mechanic Falls,23001,Androscoggin County,Census-designated place,44.11167,-70.394051,1
+ME,2345250,place:ME:2345250,Mexico CDP,Mexico,Mexico,23017,Oxford County,Census-designated place,44.556949,-70.533745,1
+ME,2345565,place:ME:2345565,Milbridge CDP,Milbridge,Milbridge,23029,Washington County,Census-designated place,44.529183,-67.894896,1
+ME,2345635,place:ME:2345635,Milford CDP,Milford,Milford,23019,Penobscot County,Census-designated place,44.957437,-68.630911,1
+ME,2345845,place:ME:2345845,Millinocket CDP,Millinocket,Millinocket,23019,Penobscot County,Census-designated place,45.659216,-68.698148,1
+ME,2345985,place:ME:2345985,Milo CDP,Milo,Milo,23021,Piscataquis County,Census-designated place,45.248324,-68.950555,1
+ME,2348050,place:ME:2348050,Naples CDP,Naples,Naples,23005,Cumberland County,Census-designated place,43.966111,-70.586399,1
+ME,2348610,place:ME:2348610,Newcastle CDP,Newcastle,Newcastle,23015,Lincoln County,Census-designated place,44.048111,-69.533552,1
+ME,2349100,place:ME:2349100,Newport CDP,Newport,Newport,23019,Penobscot County,Census-designated place,44.83645,-69.254854,1
+ME,2349800,place:ME:2349800,Norridgewock CDP,Norridgewock,Norridgewock,23025,Somerset County,Census-designated place,44.722822,-69.763068,1
+ME,2349975,place:ME:2349975,North Anson CDP,North Anson,North Anson,23025,Somerset County,Census-designated place,44.863866,-69.898983,1
+ME,2350290,place:ME:2350290,North Berwick CDP,North Berwick,North Berwick,23031,York County,Census-designated place,43.296215,-70.730952,1
+ME,2353685,place:ME:2353685,North Windham CDP,North Windham,North Windham,23005,Cumberland County,Census-designated place,43.82597,-70.431336,1
+ME,2351095,place:ME:2351095,Northeast Harbor CDP,Northeast Harbor,Northeast Harbor,23009,Hancock County,Census-designated place,44.290127,-68.290833,1
+ME,2353965,place:ME:2353965,Norway CDP,Norway,Norway,23017,Oxford County,Census-designated place,44.230737,-70.563416,1
+ME,2354490,place:ME:2354490,Oak Hill CDP,Oak Hill,Oak Hill,23005,Cumberland County,Census-designated place,43.596355,-70.34085,1
+ME,2354350,place:ME:2354350,Oakfield CDP,Oakfield,Oakfield,23003,Aroostook County,Census-designated place,46.101981,-68.151648,1
+ME,2354525,place:ME:2354525,Oakland CDP,Oakland,Oakland,23011,Kennebec County,Census-designated place,44.552474,-69.706143,1
+ME,2355120,place:ME:2355120,Old Orchard Beach CDP,Old Orchard Beach,Old Orchard Beach,23031,York County,Census-designated place,43.533771,-70.356845,1
+ME,2355225,place:ME:2355225,Old Town city,Old Town,Old Town,23019,Penobscot County,Incorporated place,44.954171,-68.739689,1
+ME,2355575,place:ME:2355575,Orono CDP,Orono,Orono,23019,Penobscot County,Census-designated place,44.878261,-68.688144,1
+ME,2356240,place:ME:2356240,Oxford CDP,Oxford,Oxford,23017,Oxford County,Census-designated place,44.14487,-70.523871,1
+ME,2357115,place:ME:2357115,Patten CDP,Patten,Patten,23019,Penobscot County,Census-designated place,46.004343,-68.442762,1
+ME,2358970,place:ME:2358970,Pittsfield CDP,Pittsfield,Pittsfield,23025,Somerset County,Census-designated place,44.763273,-69.372732,1
+ME,2360545,place:ME:2360545,Portland city,Portland,Portland,,,Incorporated place,43.633157,-70.185305,1
+ME,2360825,place:ME:2360825,Presque Isle city,Presque Isle,Presque Isle,23003,Aroostook County,Incorporated place,46.688378,-67.993327,1
+ME,2361735,place:ME:2361735,Randolph CDP,Randolph,Randolph,23011,Kennebec County,Census-designated place,44.237286,-69.751247,1
+ME,2361805,place:ME:2361805,Rangeley CDP,Rangeley,Rangeley,23007,Franklin County,Census-designated place,44.965902,-70.652146,1
+ME,2362610,place:ME:2362610,Richmond CDP,Richmond,Richmond,23023,Sagadahoc County,Census-designated place,44.099038,-69.809567,1
+ME,2363590,place:ME:2363590,Rockland city,Rockland,Rockland,23013,Knox County,Incorporated place,44.123883,-69.130452,1
+ME,2364255,place:ME:2364255,Rumford CDP,Rumford,Rumford,23017,Oxford County,Census-designated place,44.544842,-70.560194,1
+ME,2364535,place:ME:2364535,Sabattus CDP,Sabattus,Sabattus,23001,Androscoggin County,Census-designated place,44.120119,-70.103776,1
+ME,2364675,place:ME:2364675,Saco city,Saco,Saco,23031,York County,Incorporated place,43.527907,-70.419634,1
+ME,2365725,place:ME:2365725,Sanford city,Sanford,Sanford,23031,York County,Incorporated place,43.424142,-70.757859,1
+ME,2366600,place:ME:2366600,Searsport CDP,Searsport,Searsport,23027,Waldo County,Census-designated place,44.474953,-68.915604,1
+ME,2368875,place:ME:2368875,Skowhegan CDP,Skowhegan,Skowhegan,23025,Somerset County,Census-designated place,44.778149,-69.712196,1
+ME,2369995,place:ME:2369995,South Berwick CDP,South Berwick,South Berwick,23031,York County,Census-designated place,43.230047,-70.798143,1
+ME,2370660,place:ME:2370660,South Eliot CDP,South Eliot,South Eliot,23031,York County,Census-designated place,43.135079,-70.793156,1
+ME,2371780,place:ME:2371780,South Paris CDP,South Paris,South Paris,23017,Oxford County,Census-designated place,44.217818,-70.513021,1
+ME,2371990,place:ME:2371990,South Portland city,South Portland,South Portland,23005,Cumberland County,Incorporated place,43.631402,-70.285989,1
+ME,2372900,place:ME:2372900,South Windham CDP,South Windham,South Windham,23005,Cumberland County,Census-designated place,43.738793,-70.421901,1
+ME,2372830,place:ME:2372830,Southwest Harbor CDP,Southwest Harbor,Southwest Harbor,23009,Hancock County,Census-designated place,44.27839,-68.32858,1
+ME,2373635,place:ME:2373635,Standish CDP,Standish,Standish,23005,Cumberland County,Census-designated place,43.735342,-70.552499,1
+ME,2373985,place:ME:2373985,Steep Falls CDP,Steep Falls,Steep Falls,23005,Cumberland County,Census-designated place,43.791232,-70.614112,1
+ME,2376330,place:ME:2376330,Thomaston CDP,Thomaston,Thomaston,23013,Knox County,Census-designated place,44.081867,-69.179452,1
+ME,2376925,place:ME:2376925,Topsham CDP,Topsham,Topsham,23023,Sagadahoc County,Census-designated place,43.941892,-69.936229,1
+ME,2377765,place:ME:2377765,Turner CDP,Turner,Turner,23001,Androscoggin County,Census-designated place,44.257811,-70.257865,1
+ME,2378220,place:ME:2378220,Unity CDP,Unity,Unity,23027,Waldo County,Census-designated place,44.618608,-69.344463,1
+ME,2378535,place:ME:2378535,Van Buren CDP,Van Buren,Van Buren,23003,Aroostook County,Census-designated place,47.167047,-67.948881,1
+ME,2378640,place:ME:2378640,Vanceboro CDP,Vanceboro,Vanceboro,23029,Washington County,Census-designated place,45.565804,-67.429138,1
+ME,2378815,place:ME:2378815,Veazie CDP,Veazie,Veazie,23019,Penobscot County,Census-designated place,44.847442,-68.71419,1
+ME,2379515,place:ME:2379515,Waldoboro CDP,Waldoboro,Waldoboro,23015,Lincoln County,Census-designated place,44.093318,-69.378435,1
+ME,2380250,place:ME:2380250,Washburn CDP,Washburn,Washburn,23003,Aroostook County,Census-designated place,46.788399,-68.139604,1
+ME,2380740,place:ME:2380740,Waterville city,Waterville,Waterville,23011,Kennebec County,Incorporated place,44.545285,-69.661396,1
+ME,2383330,place:ME:2383330,West Kennebunk CDP,West Kennebunk,West Kennebunk,23031,York County,Census-designated place,43.414187,-70.580993,1
+ME,2382105,place:ME:2382105,Westbrook city,Westbrook,Westbrook,23005,Cumberland County,Incorporated place,43.707918,-70.352599,1
+ME,2385815,place:ME:2385815,Wilton CDP,Wilton,Wilton,23007,Franklin County,Census-designated place,44.601957,-70.244877,1
+ME,2386480,place:ME:2386480,Winslow CDP,Winslow,Winslow,23011,Kennebec County,Census-designated place,44.553429,-69.60845,1
+ME,2386620,place:ME:2386620,Winter Harbor CDP,Winter Harbor,Winter Harbor,23009,Hancock County,Census-designated place,44.392798,-68.091657,1
+ME,2386725,place:ME:2386725,Winterport CDP,Winterport,Winterport,23027,Waldo County,Census-designated place,44.647755,-68.860849,1
+ME,2386935,place:ME:2386935,Winthrop CDP,Winthrop,Winthrop,23011,Kennebec County,Census-designated place,44.323118,-69.951278,1
+ME,2387040,place:ME:2387040,Wiscasset CDP,Wiscasset,Wiscasset,23015,Lincoln County,Census-designated place,44.010754,-69.678028,1
+ME,2387250,place:ME:2387250,Woodland CDP,Woodland,Woodland,23029,Washington County,Census-designated place,45.158208,-67.409736,1
+ME,2387810,place:ME:2387810,Yarmouth CDP,Yarmouth,Yarmouth,23005,Cumberland County,Census-designated place,43.803812,-70.188576,1
+ME,2388160,place:ME:2388160,York Harbor CDP,York Harbor,York Harbor,23031,York County,Census-designated place,43.143022,-70.647489,1

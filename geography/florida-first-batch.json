@@ -1,0 +1,30 @@
+[
+  {
+    "scope_id": "place:FL:1208150",
+    "state": "FL",
+    "level": "place",
+    "query": "auto detailing Brandon FL",
+    "reason": "First pass for a Census place"
+  },
+  {
+    "scope_id": "place:FL:1260950",
+    "state": "FL",
+    "level": "place",
+    "query": "auto detailing Riverview FL",
+    "reason": "First pass for a Census place"
+  },
+  {
+    "scope_id": "place:FL:1278250",
+    "state": "FL",
+    "level": "place",
+    "query": "auto detailing Winter Garden FL",
+    "reason": "First pass for a Census place"
+  },
+  {
+    "scope_id": "place:FL:1201700",
+    "state": "FL",
+    "level": "place",
+    "query": "auto detailing Apopka FL",
+    "reason": "First pass for a Census place"
+  }
+]

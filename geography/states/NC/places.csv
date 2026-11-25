@@ -1,0 +1,786 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+NC,3700160,place:NC:3700160,Aberdeen town,Aberdeen,Aberdeen,37125,Moore County,Incorporated place,35.134592,-79.435451,1
+NC,3700440,place:NC:3700440,Advance CDP,Advance,Advance,37059,Davie County,Census-designated place,35.945834,-80.392174,1
+NC,3700500,place:NC:3700500,Ahoskie town,Ahoskie,Ahoskie,37091,Hertford County,Incorporated place,36.284134,-76.99011,1
+NC,3700640,place:NC:3700640,Alamance village,Alamance,Alamance,37001,Alamance County,Incorporated place,36.027756,-79.48898,1
+NC,3700680,place:NC:3700680,Albemarle city,Albemarle,Albemarle,37167,Stanly County,Incorporated place,35.358132,-80.191206,1
+NC,3700880,place:NC:3700880,Alexis CDP,Alexis,Alexis,37071,Gaston County,Census-designated place,35.392129,-81.122788,1
+NC,3701000,place:NC:3701000,Alliance town,Alliance,Alliance,37137,Pamlico County,Incorporated place,35.143508,-76.808461,1
+NC,3701140,place:NC:3701140,Altamahaw CDP,Altamahaw,Altamahaw,37001,Alamance County,Census-designated place,36.193878,-79.506646,1
+NC,3701340,place:NC:3701340,Anderson Creek CDP,Anderson Creek,Anderson Creek,37085,Harnett County,Census-designated place,35.270423,-78.962594,1
+NC,3701380,place:NC:3701380,Andrews town,Andrews,Andrews,37039,Cherokee County,Incorporated place,35.199029,-83.826233,1
+NC,3701400,place:NC:3701400,Angier town,Angier,Angier,37085,Harnett County,Incorporated place,35.511895,-78.73995,1
+NC,3701420,place:NC:3701420,Ansonville town,Ansonville,Ansonville,37007,Anson County,Incorporated place,35.104182,-80.109692,1
+NC,3701520,place:NC:3701520,Apex town,Apex,Apex,37183,Wake County,Incorporated place,35.725577,-78.879919,1
+NC,3701560,place:NC:3701560,Aquadale CDP,Aquadale,Aquadale,37167,Stanly County,Census-designated place,35.224393,-80.22351,1
+NC,3701640,place:NC:3701640,Arapahoe town,Arapahoe,Arapahoe,37137,Pamlico County,Incorporated place,35.021463,-76.825957,1
+NC,3701720,place:NC:3701720,Archdale city,Archdale,Archdale,37151,Randolph County,Incorporated place,35.904718,-79.95977,1
+NC,3701760,place:NC:3701760,Archer Lodge town,Archer Lodge,Archer Lodge,37101,Johnston County,Incorporated place,35.682342,-78.370374,1
+NC,3701972,place:NC:3701972,Arrowhead Beach CDP,Arrowhead Beach,Arrowhead Beach,37041,Chowan County,Census-designated place,36.227142,-76.702896,1
+NC,3702080,place:NC:3702080,Asheboro city,Asheboro,Asheboro,37151,Randolph County,Incorporated place,35.702596,-79.80412,1
+NC,3702140,place:NC:3702140,Asheville city,Asheville,Asheville,37021,Buncombe County,Incorporated place,35.570972,-82.552725,1
+NC,3702240,place:NC:3702240,Ashley Heights CDP,Ashley Heights,Ashley Heights,37093,Hoke County,Census-designated place,35.089953,-79.373917,1
+NC,3702320,place:NC:3702320,Askewville town,Askewville,Askewville,37015,Bertie County,Incorporated place,36.111588,-76.941232,1
+NC,3702460,place:NC:3702460,Atkinson town,Atkinson,Atkinson,37141,Pender County,Incorporated place,34.527458,-78.169709,1
+NC,3702480,place:NC:3702480,Atlantic CDP,Atlantic,Atlantic,37031,Carteret County,Census-designated place,34.881343,-76.343257,1
+NC,3702500,place:NC:3702500,Atlantic Beach town,Atlantic Beach,Atlantic Beach,37031,Carteret County,Incorporated place,34.701904,-76.742265,1
+NC,3702580,place:NC:3702580,Aulander town,Aulander,Aulander,37015,Bertie County,Incorporated place,36.228009,-77.113599,1
+NC,3702620,place:NC:3702620,Aurora town,Aurora,Aurora,37013,Beaufort County,Incorporated place,35.302854,-76.789325,1
+NC,3702700,place:NC:3702700,Autryville town,Autryville,Autryville,37163,Sampson County,Incorporated place,35.000904,-78.637211,1
+NC,3702760,place:NC:3702760,Avery Creek CDP,Avery Creek,Avery Creek,37021,Buncombe County,Census-designated place,35.465081,-82.571847,1
+NC,3702780,place:NC:3702780,Avon CDP,Avon,Avon,37055,Dare County,Census-designated place,35.337043,-75.51182,1
+NC,3702840,place:NC:3702840,Ayden town,Ayden,Ayden,37147,Pitt County,Incorporated place,35.469171,-77.416085,1
+NC,3702960,place:NC:3702960,Badin town,Badin,Badin,37167,Stanly County,Incorporated place,35.407175,-80.118333,1
+NC,3703020,place:NC:3703020,Bailey town,Bailey,Bailey,37127,Nash County,Incorporated place,35.780614,-78.112924,1
+NC,3703100,place:NC:3703100,Bakersville town,Bakersville,Bakersville,37121,Mitchell County,Incorporated place,36.015352,-82.15822,1
+NC,3703150,place:NC:3703150,Bald Head Island village,Bald Head Island,Bald Head Island,37019,Brunswick County,Incorporated place,33.866213,-77.980576,1
+NC,3703220,place:NC:3703220,Balfour CDP,Balfour,Balfour,37089,Henderson County,Census-designated place,35.352635,-82.488682,1
+NC,3703500,place:NC:3703500,Banner Elk town,Banner Elk,Banner Elk,37011,Avery County,Incorporated place,36.158967,-81.867764,1
+NC,3703530,place:NC:3703530,Barbecue CDP,Barbecue,Barbecue,37085,Harnett County,Census-designated place,35.32521,-79.037939,0
+NC,3703640,place:NC:3703640,Barker Heights CDP,Barker Heights,Barker Heights,37089,Henderson County,Census-designated place,35.311214,-82.441157,1
+NC,3703665,place:NC:3703665,Barker Ten Mile CDP,Barker Ten Mile,Barker Ten Mile,37155,Robeson County,Census-designated place,34.682523,-78.988846,1
+NC,3703720,place:NC:3703720,Barnardsville CDP,Barnardsville,Barnardsville,37021,Buncombe County,Census-designated place,35.781918,-82.455536,1
+NC,3703840,place:NC:3703840,Bath town,Bath,Bath,37013,Beaufort County,Incorporated place,35.472216,-76.81097,1
+NC,3703960,place:NC:3703960,Bayboro town,Bayboro,Bayboro,37137,Pamlico County,Incorporated place,35.149034,-76.768251,1
+NC,3704015,place:NC:3704015,Bayshore CDP,Bayshore,Bayshore,37129,New Hanover County,Census-designated place,34.288667,-77.803796,1
+NC,3704040,place:NC:3704040,Bayview CDP,Bayview,Bayview,37013,Beaufort County,Census-designated place,35.441819,-76.793428,1
+NC,3704120,place:NC:3704120,Bear Creek CDP,Bear Creek,Bear Creek,37133,Onslow County,Census-designated place,34.655881,-77.175002,0
+NC,3704180,place:NC:3704180,Bear Grass town,Bear Grass,Bear Grass,37117,Martin County,Incorporated place,35.76642,-77.128885,1
+NC,3704260,place:NC:3704260,Beaufort town,Beaufort,Beaufort,37031,Carteret County,Incorporated place,34.723369,-76.649166,1
+NC,3704510,place:NC:3704510,Beech Mountain town,Beech Mountain,Beech Mountain,37189,Watauga County,Incorporated place,36.210394,-81.886989,1
+NC,3704620,place:NC:3704620,Belgrade CDP,Belgrade,Belgrade,37133,Onslow County,Census-designated place,34.878879,-77.227178,0
+NC,3704640,place:NC:3704640,Belhaven town,Belhaven,Belhaven,37013,Beaufort County,Incorporated place,35.542961,-76.623111,1
+NC,3704680,place:NC:3704680,Bell Arthur CDP,Bell Arthur,Bell Arthur,37147,Pitt County,Census-designated place,35.591176,-77.512705,1
+NC,3704840,place:NC:3704840,Belmont city,Belmont,Belmont,37071,Gaston County,Incorporated place,35.221255,-81.041069,1
+NC,3704950,place:NC:3704950,Belville town,Belville,Belville,37019,Brunswick County,Incorporated place,34.21672,-77.998724,1
+NC,3704955,place:NC:3704955,Belvoir CDP,Belvoir,Belvoir,37147,Pitt County,Census-designated place,35.711075,-77.469931,1
+NC,3704960,place:NC:3704960,Belwood town,Belwood,Belwood,37045,Cleveland County,Incorporated place,35.484345,-81.527441,1
+NC,3705020,place:NC:3705020,Bennett CDP,Bennett,Bennett,37037,Chatham County,Census-designated place,35.57528,-79.534612,1
+NC,3705040,place:NC:3705040,Benson town,Benson,Benson,37101,Johnston County,Incorporated place,35.387152,-78.540722,1
+NC,3705049,place:NC:3705049,Bent Creek CDP,Bent Creek,Bent Creek,37021,Buncombe County,Census-designated place,35.511109,-82.616987,1
+NC,3705135,place:NC:3705135,Bermuda Run town,Bermuda Run,Bermuda Run,37059,Davie County,Incorporated place,36.004278,-80.42907,1
+NC,3705220,place:NC:3705220,Bessemer City city,Bessemer City,Bessemer City,37071,Gaston County,Incorporated place,35.284332,-81.282885,1
+NC,3705340,place:NC:3705340,Bethania town,Bethania,Bethania,37067,Forsyth County,Incorporated place,36.179802,-80.334858,1
+NC,3705460,place:NC:3705460,Bethel town,Bethel,Bethel,37147,Pitt County,Incorporated place,35.807445,-77.375923,1
+NC,3705530,place:NC:3705530,Bethlehem CDP,Bethlehem,Bethlehem,37003,Alexander County,Census-designated place,35.817455,-81.30094,1
+NC,3705660,place:NC:3705660,Beulaville town,Beulaville,Beulaville,37061,Duplin County,Incorporated place,34.922782,-77.771315,1
+NC,3705880,place:NC:3705880,Biltmore Forest town,Biltmore Forest,Biltmore Forest,37021,Buncombe County,Incorporated place,35.534945,-82.537941,1
+NC,3706000,place:NC:3706000,Biscoe town,Biscoe,Biscoe,37123,Montgomery County,Incorporated place,35.358935,-79.779706,1
+NC,3706080,place:NC:3706080,Black Creek town,Black Creek,Black Creek,37195,Wilson County,Incorporated place,35.63683,-77.932613,1
+NC,3706140,place:NC:3706140,Black Mountain town,Black Mountain,Black Mountain,37021,Buncombe County,Incorporated place,35.614705,-82.325516,1
+NC,3706240,place:NC:3706240,Bladenboro town,Bladenboro,Bladenboro,37017,Bladen County,Incorporated place,34.54087,-78.79466,1
+NC,3706500,place:NC:3706500,Blowing Rock town,Blowing Rock,Blowing Rock,37189,Watauga County,Incorporated place,36.129182,-81.666326,1
+NC,3706510,place:NC:3706510,Blue Clay Farms CDP,Blue Clay Farms,Blue Clay Farms,37129,New Hanover County,Census-designated place,34.298529,-77.891414,1
+NC,3706660,place:NC:3706660,Boardman town,Boardman,Boardman,37047,Columbus County,Incorporated place,34.430142,-78.942602,1
+NC,3706740,place:NC:3706740,Bogue town,Bogue,Bogue,37031,Carteret County,Incorporated place,34.692127,-77.028326,1
+NC,3706760,place:NC:3706760,Boiling Spring Lakes city,Boiling Spring Lakes,Boiling Spring Lakes,37019,Brunswick County,Incorporated place,34.039287,-78.088242,1
+NC,3706800,place:NC:3706800,Boiling Springs town,Boiling Springs,Boiling Springs,37045,Cleveland County,Incorporated place,35.252038,-81.663568,1
+NC,3706820,place:NC:3706820,Bolivia town,Bolivia,Bolivia,37019,Brunswick County,Incorporated place,34.070187,-78.147546,1
+NC,3706860,place:NC:3706860,Bolton town,Bolton,Bolton,37047,Columbus County,Incorporated place,34.31738,-78.400752,1
+NC,3706980,place:NC:3706980,Bonnetsville CDP,Bonnetsville,Bonnetsville,37163,Sampson County,Census-designated place,35.005679,-78.401857,1
+NC,3707080,place:NC:3707080,Boone town,Boone,Boone,37189,Watauga County,Incorporated place,36.213842,-81.665197,1
+NC,3707140,place:NC:3707140,Boonville town,Boonville,Boonville,37197,Yadkin County,Incorporated place,36.233955,-80.709347,1
+NC,3707220,place:NC:3707220,Bostic town,Bostic,Bostic,37161,Rutherford County,Incorporated place,35.362456,-81.835988,1
+NC,3707340,place:NC:3707340,Bowdens CDP,Bowdens,Bowdens,37061,Duplin County,Census-designated place,35.061866,-78.108367,1
+NC,3707400,place:NC:3707400,Bowmore CDP,Bowmore,Bowmore,37093,Hoke County,Census-designated place,34.935847,-79.299959,1
+NC,3707588,place:NC:3707588,Brandywine Bay CDP,Brandywine Bay,Brandywine Bay,37031,Carteret County,Census-designated place,34.73968,-76.830233,1
+NC,3707720,place:NC:3707720,Brevard city,Brevard,Brevard,37175,Transylvania County,Incorporated place,35.247786,-82.728546,1
+NC,3707748,place:NC:3707748,Briar Chapel CDP,Briar Chapel,Briar Chapel,37037,Chatham County,Census-designated place,35.824161,-79.116832,1
+NC,3707765,place:NC:3707765,Brices Creek CDP,Brices Creek,Brices Creek,37049,Craven County,Census-designated place,35.036957,-77.081921,1
+NC,3707860,place:NC:3707860,Bridgeton town,Bridgeton,Bridgeton,37049,Craven County,Incorporated place,35.127835,-77.012619,1
+NC,3708040,place:NC:3708040,Broad Creek CDP,Broad Creek,Broad Creek,37031,Carteret County,Census-designated place,34.734226,-76.918984,1
+NC,3708080,place:NC:3708080,Broadway town,Broadway,Broadway,37105,Lee County,Incorporated place,35.45729,-79.057165,1
+NC,3708110,place:NC:3708110,Brogden CDP,Brogden,Brogden,37191,Wayne County,Census-designated place,35.295545,-78.029449,1
+NC,3708140,place:NC:3708140,Brookford town,Brookford,Brookford,37035,Catawba County,Incorporated place,35.702163,-81.344673,1
+NC,3708420,place:NC:3708420,Brunswick town,Brunswick,Brunswick,37047,Columbus County,Incorporated place,34.278756,-78.717677,1
+NC,3708480,place:NC:3708480,Bryson City town,Bryson City,Bryson City,37173,Swain County,Incorporated place,35.426455,-83.445977,1
+NC,3708760,place:NC:3708760,Buies Creek CDP,Buies Creek,Buies Creek,37085,Harnett County,Census-designated place,35.407842,-78.743147,1
+NC,3708860,place:NC:3708860,Bunn town,Bunn,Bunn,37069,Franklin County,Incorporated place,35.95756,-78.25232,1
+NC,3708880,place:NC:3708880,Bunnlevel CDP,Bunnlevel,Bunnlevel,37085,Harnett County,Census-designated place,35.306516,-78.759164,1
+NC,3708960,place:NC:3708960,Burgaw town,Burgaw,Burgaw,37141,Pender County,Incorporated place,34.551466,-77.923012,1
+NC,3709060,place:NC:3709060,Burlington city,Burlington,Burlington,37001,Alamance County,Incorporated place,36.076128,-79.4683,1
+NC,3709140,place:NC:3709140,Burnsville town,Burnsville,Burnsville,37199,Yancey County,Incorporated place,35.91628,-82.297752,1
+NC,3709360,place:NC:3709360,Butner town,Butner,Butner,37077,Granville County,Incorporated place,36.134328,-78.740676,1
+NC,3709380,place:NC:3709380,Butters CDP,Butters,Butters,37017,Bladen County,Census-designated place,34.566535,-78.851109,1
+NC,3709400,place:NC:3709400,Buxton CDP,Buxton,Buxton,37055,Dare County,Census-designated place,35.242706,-75.544553,1
+NC,3709530,place:NC:3709530,Cajah's Mountain town,Cajah's Mountain,Cajah's Mountain,37027,Caldwell County,Incorporated place,35.850711,-81.536187,1
+NC,3709540,place:NC:3709540,Calabash town,Calabash,Calabash,37019,Brunswick County,Incorporated place,33.900355,-78.550771,1
+NC,3709760,place:NC:3709760,Calypso town,Calypso,Calypso,37061,Duplin County,Incorporated place,35.154609,-78.104411,1
+NC,3709780,place:NC:3709780,Camden CDP,Camden,Camden,37029,Camden County,Census-designated place,36.325197,-76.169172,1
+NC,3709800,place:NC:3709800,Cameron town,Cameron,Cameron,37125,Moore County,Incorporated place,35.323305,-79.258273,1
+NC,3710120,place:NC:3710120,Candor town,Candor,Candor,37123,Montgomery County,Incorporated place,35.296389,-79.732521,1
+NC,3710240,place:NC:3710240,Canton town,Canton,Canton,37087,Haywood County,Incorporated place,35.536387,-82.838538,1
+NC,3710260,place:NC:3710260,Cape Carteret town,Cape Carteret,Cape Carteret,37031,Carteret County,Incorporated place,34.69432,-77.060206,1
+NC,3710264,place:NC:3710264,Cape Colony CDP,Cape Colony,Cape Colony,37041,Chowan County,Census-designated place,36.018134,-76.585303,1
+NC,3710460,place:NC:3710460,Caroleen CDP,Caroleen,Caroleen,37161,Rutherford County,Census-designated place,35.281094,-81.791373,1
+NC,3710500,place:NC:3710500,Carolina Beach town,Carolina Beach,Carolina Beach,37129,New Hanover County,Incorporated place,34.041874,-77.899788,1
+NC,3710532,place:NC:3710532,Carolina Meadows CDP,Carolina Meadows,Carolina Meadows,37037,Chatham County,Census-designated place,35.859678,-79.017723,1
+NC,3710550,place:NC:3710550,Carolina Shores town,Carolina Shores,Carolina Shores,37019,Brunswick County,Incorporated place,33.907931,-78.57311,1
+NC,3710620,place:NC:3710620,Carrboro town,Carrboro,Carrboro,37135,Orange County,Incorporated place,35.92623,-79.086995,1
+NC,3710680,place:NC:3710680,Carthage town,Carthage,Carthage,37125,Moore County,Incorporated place,35.325634,-79.412978,1
+NC,3710740,place:NC:3710740,Cary town,Cary,Cary,37183,Wake County,Incorporated place,35.782182,-78.824286,1
+NC,3710760,place:NC:3710760,Casar town,Casar,Casar,37045,Cleveland County,Incorporated place,35.512708,-81.616844,1
+NC,3710800,place:NC:3710800,Cashiers CDP,Cashiers,Cashiers,37099,Jackson County,Census-designated place,35.10868,-83.098201,1
+NC,3710860,place:NC:3710860,Castalia town,Castalia,Castalia,37127,Nash County,Incorporated place,36.082255,-78.057564,1
+NC,3710880,place:NC:3710880,Castle Hayne CDP,Castle Hayne,Castle Hayne,37129,New Hanover County,Census-designated place,34.355043,-77.908865,1
+NC,3710960,place:NC:3710960,Caswell Beach town,Caswell Beach,Caswell Beach,37019,Brunswick County,Incorporated place,33.905869,-78.048656,1
+NC,3710980,place:NC:3710980,Catawba town,Catawba,Catawba,37035,Catawba County,Incorporated place,35.707663,-81.069472,1
+NC,3711020,place:NC:3711020,Catherine Lake CDP,Catherine Lake,Catherine Lake,37133,Onslow County,Census-designated place,34.829891,-77.568519,0
+NC,3711340,place:NC:3711340,Cedar Point town,Cedar Point,Cedar Point,37031,Carteret County,Incorporated place,34.685756,-77.081521,1
+NC,3711352,place:NC:3711352,Cedar Rock village,Cedar Rock,Cedar Rock,37027,Caldwell County,Incorporated place,35.943458,-81.458373,1
+NC,3711560,place:NC:3711560,Centerville CDP,Centerville,Centerville,37069,Franklin County,Census-designated place,36.193174,-78.11245,1
+NC,3711620,place:NC:3711620,Cerro Gordo town,Cerro Gordo,Cerro Gordo,37047,Columbus County,Incorporated place,34.322586,-78.928718,1
+NC,3711640,place:NC:3711640,Chadbourn town,Chadbourn,Chadbourn,37047,Columbus County,Incorporated place,34.325166,-78.824983,1
+NC,3711800,place:NC:3711800,Chapel Hill town,Chapel Hill,Chapel Hill,37135,Orange County,Incorporated place,35.928261,-79.040102,1
+NC,3712000,place:NC:3712000,Charlotte city,Charlotte,Charlotte,37119,Mecklenburg County,Incorporated place,35.209045,-80.83099,1
+NC,3712140,place:NC:3712140,Cherokee CDP,Cherokee,Cherokee,37173,Swain County,Census-designated place,35.48594,-83.301107,1
+NC,3712186,place:NC:3712186,Cherry Branch CDP,Cherry Branch,Cherry Branch,37049,Craven County,Census-designated place,34.934316,-76.811196,1
+NC,3712340,place:NC:3712340,Cherryville city,Cherryville,Cherryville,37071,Gaston County,Incorporated place,35.384566,-81.378942,1
+NC,3712460,place:NC:3712460,Chimney Rock Village village,Chimney Rock Village,Chimney Rock Village,37161,Rutherford County,Incorporated place,35.450323,-82.255017,1
+NC,3712480,place:NC:3712480,China Grove town,China Grove,China Grove,37159,Rowan County,Incorporated place,35.572282,-80.574864,1
+NC,3712520,place:NC:3712520,Chinquapin CDP,Chinquapin,Chinquapin,37061,Duplin County,Census-designated place,34.829229,-77.824596,1
+NC,3712580,place:NC:3712580,Chocowinity town,Chocowinity,Chocowinity,37013,Beaufort County,Incorporated place,35.513432,-77.097692,1
+NC,3712590,place:NC:3712590,Chowan Beach CDP,Chowan Beach,Chowan Beach,37041,Chowan County,Census-designated place,36.213926,-76.712414,1
+NC,3712720,place:NC:3712720,Claremont city,Claremont,Claremont,37035,Catawba County,Incorporated place,35.709441,-81.154937,1
+NC,3712780,place:NC:3712780,Clarkton town,Clarkton,Clarkton,37017,Bladen County,Incorporated place,34.488647,-78.655849,1
+NC,3712860,place:NC:3712860,Clayton town,Clayton,Clayton,37101,Johnston County,Incorporated place,35.658139,-78.446007,1
+NC,3712960,place:NC:3712960,Clemmons village,Clemmons,Clemmons,37067,Forsyth County,Incorporated place,36.033223,-80.386699,1
+NC,3713000,place:NC:3713000,Cleveland town,Cleveland,Cleveland,37159,Rowan County,Incorporated place,35.733056,-80.681522,1
+NC,3713100,place:NC:3713100,Cliffside CDP,Cliffside,Cliffside,37161,Rutherford County,Census-designated place,35.248003,-81.765287,1
+NC,3713240,place:NC:3713240,Clinton city,Clinton,Clinton,37163,Sampson County,Incorporated place,35.001266,-78.33194,1
+NC,3713280,place:NC:3713280,Clyde town,Clyde,Clyde,37087,Haywood County,Incorporated place,35.533082,-82.910825,1
+NC,3713360,place:NC:3713360,Coats town,Coats,Coats,37085,Harnett County,Incorporated place,35.406865,-78.668582,1
+NC,3713460,place:NC:3713460,Cofield village,Cofield,Cofield,37091,Hertford County,Incorporated place,36.356689,-76.910517,1
+NC,3713500,place:NC:3713500,Coinjock CDP,Coinjock,Coinjock,37053,Currituck County,Census-designated place,36.350123,-75.952047,1
+NC,3713560,place:NC:3713560,Colerain town,Colerain,Colerain,37015,Bertie County,Incorporated place,36.201573,-76.7664,1
+NC,3713940,place:NC:3713940,Columbia town,Columbia,Columbia,37177,Tyrrell County,Incorporated place,35.923446,-76.240631,1
+NC,3713980,place:NC:3713980,Columbus town,Columbus,Columbus,37149,Polk County,Incorporated place,35.251165,-82.209794,1
+NC,3714060,place:NC:3714060,Como town,Como,Como,37091,Hertford County,Incorporated place,36.498273,-76.999618,1
+NC,3714100,place:NC:3714100,Concord city,Concord,Concord,37025,Cabarrus County,Incorporated place,35.392093,-80.635453,1
+NC,3714200,place:NC:3714200,Conetoe town,Conetoe,Conetoe,37065,Edgecombe County,Incorporated place,35.817855,-77.457102,1
+NC,3714280,place:NC:3714280,Connelly Springs town,Connelly Springs,Connelly Springs,37023,Burke County,Incorporated place,35.754991,-81.497047,1
+NC,3714340,place:NC:3714340,Conover city,Conover,Conover,37035,Catawba County,Incorporated place,35.715035,-81.215337,1
+NC,3714400,place:NC:3714400,Conway town,Conway,Conway,37131,Northampton County,Incorporated place,36.43892,-77.228707,1
+NC,3714460,place:NC:3714460,Cooleemee town,Cooleemee,Cooleemee,37059,Davie County,Incorporated place,35.811245,-80.556923,1
+NC,3714600,place:NC:3714600,Cordova CDP,Cordova,Cordova,37153,Richmond County,Census-designated place,34.914008,-79.813164,1
+NC,3714700,place:NC:3714700,Cornelius town,Cornelius,Cornelius,37119,Mecklenburg County,Incorporated place,35.47158,-80.882714,1
+NC,3715020,place:NC:3715020,Cove City town,Cove City,Cove City,37049,Craven County,Incorporated place,35.188968,-77.320524,1
+NC,3715040,place:NC:3715040,Cove Creek CDP,Cove Creek,Cove Creek,37189,Watauga County,Census-designated place,36.287293,-81.786496,1
+NC,3715260,place:NC:3715260,Cramerton town,Cramerton,Cramerton,37071,Gaston County,Incorporated place,35.225636,-81.067964,1
+NC,3715320,place:NC:3715320,Creedmoor city,Creedmoor,Creedmoor,37077,Granville County,Incorporated place,36.125019,-78.677988,1
+NC,3715420,place:NC:3715420,Creswell town,Creswell,Creswell,37187,Washington County,Incorporated place,35.871421,-76.399127,1
+NC,3715440,place:NC:3715440,Cricket CDP,Cricket,Cricket,37193,Wilkes County,Census-designated place,36.168844,-81.193401,1
+NC,3715580,place:NC:3715580,Crossnore town,Crossnore,Crossnore,37011,Avery County,Incorporated place,36.022198,-81.930841,1
+NC,3715640,place:NC:3715640,Crouse CDP,Crouse,Crouse,37109,Lincoln County,Census-designated place,35.424107,-81.30123,1
+NC,3715880,place:NC:3715880,Cullowhee CDP,Cullowhee,Cullowhee,37099,Jackson County,Census-designated place,35.309737,-83.181545,1
+NC,3716084,place:NC:3716084,Cypress Landing CDP,Cypress Landing,Cypress Landing,37013,Beaufort County,Census-designated place,35.496636,-77.050621,1
+NC,3716180,place:NC:3716180,Dallas town,Dallas,Dallas,37071,Gaston County,Incorporated place,35.317935,-81.183183,1
+NC,3716220,place:NC:3716220,Dana CDP,Dana,Dana,37089,Henderson County,Census-designated place,35.320602,-82.361094,1
+NC,3716240,place:NC:3716240,Danbury town,Danbury,Danbury,37169,Stokes County,Incorporated place,36.41098,-80.211747,1
+NC,3716400,place:NC:3716400,Davidson town,Davidson,Davidson,37119,Mecklenburg County,Incorporated place,35.479409,-80.821798,1
+NC,3716480,place:NC:3716480,Davis CDP,Davis,Davis,37031,Carteret County,Census-designated place,34.791193,-76.467873,1
+NC,3716720,place:NC:3716720,Deep Run CDP,Deep Run,Deep Run,37107,Lenoir County,Census-designated place,35.141429,-77.716192,1
+NC,3716730,place:NC:3716730,Deercroft CDP,Deercroft,Deercroft,37165,Scotland County,Census-designated place,34.95746,-79.43128,1
+NC,3716780,place:NC:3716780,Delco CDP,Delco,Delco,37047,Columbus County,Census-designated place,34.318818,-78.226661,1
+NC,3716820,place:NC:3716820,Dellview town,Dellview,Dellview,37071,Gaston County,Incorporated place,35.386552,-81.412707,1
+NC,3716860,place:NC:3716860,Delway CDP,Delway,Delway,37163,Sampson County,Census-designated place,34.81902,-78.215334,1
+NC,3716980,place:NC:3716980,Denton town,Denton,Denton,37057,Davidson County,Incorporated place,35.637992,-80.110205,1
+NC,3717000,place:NC:3717000,Denver CDP,Denver,Denver,37109,Lincoln County,Census-designated place,35.545552,-81.044706,1
+NC,3717180,place:NC:3717180,Dillsboro town,Dillsboro,Dillsboro,37099,Jackson County,Incorporated place,35.370118,-83.251531,1
+NC,3717280,place:NC:3717280,Dixon CDP,Dixon,Dixon,37133,Onslow County,Census-designated place,34.584437,-77.472865,0
+NC,3717325,place:NC:3717325,Dobbins Heights town,Dobbins Heights,Dobbins Heights,37153,Richmond County,Incorporated place,34.90688,-79.6933,1
+NC,3717340,place:NC:3717340,Dobson town,Dobson,Dobson,37171,Surry County,Incorporated place,36.392641,-80.723739,1
+NC,3717520,place:NC:3717520,Dortches town,Dortches,Dortches,37127,Nash County,Incorporated place,36.011743,-77.857141,1
+NC,3717660,place:NC:3717660,Dover town,Dover,Dover,37049,Craven County,Incorporated place,35.215477,-77.433779,1
+NC,3717860,place:NC:3717860,Drexel town,Drexel,Drexel,37023,Burke County,Incorporated place,35.756912,-81.60881,1
+NC,3718040,place:NC:3718040,Dublin town,Dublin,Dublin,37017,Bladen County,Incorporated place,34.656249,-78.723094,1
+NC,3718060,place:NC:3718060,Duck town,Duck,Duck,37055,Dare County,Incorporated place,36.1866,-75.754055,1
+NC,3718080,place:NC:3718080,Dudley CDP,Dudley,Dudley,37191,Wayne County,Census-designated place,35.260546,-78.041506,1
+NC,3718300,place:NC:3718300,Dundarrach CDP,Dundarrach,Dundarrach,37093,Hoke County,Census-designated place,34.924666,-79.157461,1
+NC,3718320,place:NC:3718320,Dunn city,Dunn,Dunn,37085,Harnett County,Incorporated place,35.311635,-78.612962,1
+NC,3719000,place:NC:3719000,Durham city,Durham,Durham,37063,Durham County,Incorporated place,35.977928,-78.898109,1
+NC,3719140,place:NC:3719140,Earl town,Earl,Earl,37045,Cleveland County,Incorporated place,35.195415,-81.534,1
+NC,3719300,place:NC:3719300,East Arcadia town,East Arcadia,East Arcadia,37017,Bladen County,Incorporated place,34.381605,-78.323186,1
+NC,3719320,place:NC:3719320,East Bend town,East Bend,East Bend,37197,Yadkin County,Incorporated place,36.217472,-80.508899,1
+NC,3719420,place:NC:3719420,East Flat Rock CDP,East Flat Rock,East Flat Rock,37089,Henderson County,Census-designated place,35.280925,-82.416674,1
+NC,3719800,place:NC:3719800,East Rockingham CDP,East Rockingham,East Rockingham,37153,Richmond County,Census-designated place,34.911881,-79.764838,1
+NC,3719860,place:NC:3719860,East Spencer town,East Spencer,East Spencer,37159,Rowan County,Incorporated place,35.6799,-80.423619,1
+NC,3719740,place:NC:3719740,Eastover town,Eastover,Eastover,37051,Cumberland County,Incorporated place,35.095268,-78.786234,1
+NC,3720080,place:NC:3720080,Eden city,Eden,Eden,37157,Rockingham County,Incorporated place,36.503042,-79.74002,1
+NC,3720120,place:NC:3720120,Edenton town,Edenton,Edenton,37041,Chowan County,Incorporated place,36.058565,-76.598979,1
+NC,3720280,place:NC:3720280,Edneyville CDP,Edneyville,Edneyville,37089,Henderson County,Census-designated place,35.413786,-82.325926,1
+NC,3720420,place:NC:3720420,Efland CDP,Efland,Efland,37135,Orange County,Census-designated place,36.080386,-79.17134,1
+NC,3720580,place:NC:3720580,Elizabeth City city,Elizabeth City,Elizabeth City,37139,Pasquotank County,Incorporated place,36.294203,-76.238144,1
+NC,3720600,place:NC:3720600,Elizabethtown town,Elizabethtown,Elizabethtown,37017,Bladen County,Incorporated place,34.621454,-78.6063,1
+NC,3720700,place:NC:3720700,Elk Park town,Elk Park,Elk Park,37011,Avery County,Incorporated place,36.158247,-81.980813,1
+NC,3720620,place:NC:3720620,Elkin town,Elkin,Elkin,37171,Surry County,Incorporated place,36.263365,-80.847106,1
+NC,3720780,place:NC:3720780,Ellenboro town,Ellenboro,Ellenboro,37161,Rutherford County,Incorporated place,35.330878,-81.761274,1
+NC,3720840,place:NC:3720840,Ellerbe town,Ellerbe,Ellerbe,37153,Richmond County,Incorporated place,35.069543,-79.757164,1
+NC,3720980,place:NC:3720980,Elm City town,Elm City,Elm City,37195,Wilson County,Incorporated place,35.804042,-77.856682,1
+NC,3721095,place:NC:3721095,Elon town,Elon,Elon,37001,Alamance County,Incorporated place,36.102266,-79.508787,1
+NC,3721120,place:NC:3721120,Elrod CDP,Elrod,Elrod,37155,Robeson County,Census-designated place,34.607243,-79.23076,1
+NC,3721130,place:NC:3721130,Elroy CDP,Elroy,Elroy,37191,Wayne County,Census-designated place,35.330749,-77.922569,1
+NC,3721160,place:NC:3721160,Emerald Isle town,Emerald Isle,Emerald Isle,37031,Carteret County,Incorporated place,34.664426,-77.031368,1
+NC,3721260,place:NC:3721260,Emma CDP,Emma,Emma,37021,Buncombe County,Census-designated place,35.601974,-82.59577,1
+NC,3721360,place:NC:3721360,Enfield town,Enfield,Enfield,37083,Halifax County,Incorporated place,36.179924,-77.669023,1
+NC,3721380,place:NC:3721380,Engelhard CDP,Engelhard,Engelhard,37095,Hyde County,Census-designated place,35.509235,-76.00946,1
+NC,3721500,place:NC:3721500,Enochville CDP,Enochville,Enochville,37159,Rowan County,Census-designated place,35.519185,-80.668594,1
+NC,3721740,place:NC:3721740,Erwin town,Erwin,Erwin,37085,Harnett County,Incorporated place,35.323399,-78.6735,1
+NC,3721880,place:NC:3721880,Etowah CDP,Etowah,Etowah,37089,Henderson County,Census-designated place,35.304442,-82.588679,1
+NC,3721960,place:NC:3721960,Eureka town,Eureka,Eureka,37191,Wayne County,Incorporated place,35.541389,-77.876325,1
+NC,3722040,place:NC:3722040,Everetts town,Everetts,Everetts,37117,Martin County,Incorporated place,35.834608,-77.17212,1
+NC,3722080,place:NC:3722080,Evergreen CDP,Evergreen,Evergreen,37047,Columbus County,Census-designated place,34.41486,-78.911375,1
+NC,3722240,place:NC:3722240,Fair Bluff town,Fair Bluff,Fair Bluff,37047,Columbus County,Incorporated place,34.312579,-79.033148,1
+NC,3722280,place:NC:3722280,Fairfield CDP,Fairfield,Fairfield,37095,Hyde County,Census-designated place,35.5504,-76.226508,1
+NC,3722305,place:NC:3722305,Fairfield Harbour CDP,Fairfield Harbour,Fairfield Harbour,37049,Craven County,Census-designated place,35.069842,-76.96516,1
+NC,3722360,place:NC:3722360,Fairmont town,Fairmont,Fairmont,37155,Robeson County,Incorporated place,34.494759,-79.113202,1
+NC,3722380,place:NC:3722380,Fairplains CDP,Fairplains,Fairplains,37193,Wilkes County,Census-designated place,36.192925,-81.151533,1
+NC,3722440,place:NC:3722440,Fairview CDP,Fairview,"Fairview, Buncombe County",37021,Buncombe County,Census-designated place,35.522518,-82.401308,1
+NC,3722500,place:NC:3722500,Fairview town,Fairview,"Fairview, Union County",37179,Union County,Incorporated place,35.15598,-80.524387,1
+NC,3722560,place:NC:3722560,Faison town,Faison,Faison,37061,Duplin County,Incorporated place,35.116461,-78.136287,1
+NC,3722600,place:NC:3722600,Faith town,Faith,Faith,37159,Rowan County,Incorporated place,35.58999,-80.458304,1
+NC,3722620,place:NC:3722620,Falcon town,Falcon,Falcon,37051,Cumberland County,Incorporated place,35.194893,-78.654157,1
+NC,3722640,place:NC:3722640,Falkland town,Falkland,Falkland,37147,Pitt County,Incorporated place,35.698537,-77.512878,1
+NC,3722720,place:NC:3722720,Fallston town,Fallston,Fallston,37045,Cleveland County,Incorporated place,35.429414,-81.502178,1
+NC,3722800,place:NC:3722800,Farmington CDP,Farmington,Farmington,37059,Davie County,Census-designated place,36.008493,-80.535687,1
+NC,3722820,place:NC:3722820,Farmville town,Farmville,Farmville,37147,Pitt County,Incorporated place,35.595026,-77.590619,1
+NC,3722920,place:NC:3722920,Fayetteville city,Fayetteville,Fayetteville,37051,Cumberland County,Incorporated place,35.081647,-78.973159,1
+NC,3722982,place:NC:3722982,Fearrington Village CDP,Fearrington Village,Fearrington Village,37037,Chatham County,Census-designated place,35.797892,-79.078901,1
+NC,3723520,place:NC:3723520,Five Points CDP,Five Points,Five Points,37093,Hoke County,Census-designated place,35.015402,-79.351267,1
+NC,3723600,place:NC:3723600,Flat Rock village,Flat Rock,"Flat Rock, Henderson County",37089,Henderson County,Incorporated place,35.267439,-82.451322,1
+NC,3723640,place:NC:3723640,Flat Rock CDP,Flat Rock,"Flat Rock, Surry County",37171,Surry County,Census-designated place,36.508005,-80.58218,1
+NC,3723760,place:NC:3723760,Fletcher town,Fletcher,Fletcher,37089,Henderson County,Incorporated place,35.432863,-82.50743,1
+NC,3723940,place:NC:3723940,Folkstone CDP,Folkstone,Folkstone,37133,Onslow County,Census-designated place,34.520799,-77.471864,0
+NC,3723980,place:NC:3723980,Fontana Dam town,Fontana Dam,Fontana Dam,37075,Graham County,Incorporated place,35.433254,-83.825071,1
+NC,3724080,place:NC:3724080,Forest City town,Forest City,Forest City,37161,Rutherford County,Incorporated place,35.333466,-81.871257,1
+NC,3724170,place:NC:3724170,Forest Hills village,Forest Hills,Forest Hills,37099,Jackson County,Incorporated place,35.295628,-83.194912,1
+NC,3724198,place:NC:3724198,Forest Oaks CDP,Forest Oaks,Forest Oaks,37081,Guilford County,Census-designated place,35.988461,-79.708028,1
+NC,3724380,place:NC:3724380,Foscoe CDP,Foscoe,Foscoe,37189,Watauga County,Census-designated place,36.153598,-81.77701,1
+NC,3724440,place:NC:3724440,Fountain town,Fountain,Fountain,37147,Pitt County,Incorporated place,35.672112,-77.631673,1
+NC,3724520,place:NC:3724520,Four Oaks town,Four Oaks,Four Oaks,37101,Johnston County,Incorporated place,35.445593,-78.417562,1
+NC,3724570,place:NC:3724570,Foxfire village,Foxfire,Foxfire,37125,Moore County,Incorporated place,35.178488,-79.562558,1
+NC,3724640,place:NC:3724640,Franklin town,Franklin,Franklin,37113,Macon County,Incorporated place,35.179422,-83.380691,1
+NC,3724720,place:NC:3724720,Franklinton town,Franklinton,Franklinton,37069,Franklin County,Incorporated place,36.101588,-78.445754,1
+NC,3724740,place:NC:3724740,Franklinville town,Franklinville,Franklinville,37151,Randolph County,Incorporated place,35.740935,-79.692163,1
+NC,3724900,place:NC:3724900,Fremont town,Fremont,Fremont,37191,Wayne County,Incorporated place,35.543419,-77.974262,1
+NC,3725020,place:NC:3725020,Frisco CDP,Frisco,Frisco,37055,Dare County,Census-designated place,35.246954,-75.598822,1
+NC,3725160,place:NC:3725160,Fruitland CDP,Fruitland,Fruitland,37089,Henderson County,Census-designated place,35.397982,-82.421279,1
+NC,3725300,place:NC:3725300,Fuquay-Varina town,Fuquay-Varina,Fuquay-Varina,37183,Wake County,Incorporated place,35.608736,-78.769788,1
+NC,3725380,place:NC:3725380,Gamewell town,Gamewell,Gamewell,37027,Caldwell County,Incorporated place,35.863975,-81.597809,1
+NC,3725460,place:NC:3725460,Garland town,Garland,Garland,37163,Sampson County,Incorporated place,34.785902,-78.394917,1
+NC,3725480,place:NC:3725480,Garner town,Garner,Garner,37183,Wake County,Incorporated place,35.689477,-78.614599,1
+NC,3725540,place:NC:3725540,Garysburg town,Garysburg,Garysburg,37131,Northampton County,Incorporated place,36.447851,-77.560383,1
+NC,3725560,place:NC:3725560,Gaston town,Gaston,Gaston,37131,Northampton County,Incorporated place,36.495229,-77.646416,1
+NC,3725580,place:NC:3725580,Gastonia city,Gastonia,Gastonia,37071,Gaston County,Incorporated place,35.250939,-81.184295,1
+NC,3725680,place:NC:3725680,Gatesville town,Gatesville,Gatesville,37073,Gates County,Incorporated place,36.40708,-76.756914,1
+NC,3725880,place:NC:3725880,Germanton CDP,Germanton,Germanton,37067,Forsyth County,Census-designated place,36.250145,-80.239041,1
+NC,3725900,place:NC:3725900,Gerton CDP,Gerton,Gerton,37089,Henderson County,Census-designated place,35.475785,-82.350409,1
+NC,3725940,place:NC:3725940,Gibson town,Gibson,Gibson,37165,Scotland County,Incorporated place,34.759489,-79.606882,1
+NC,3725980,place:NC:3725980,Gibsonville town,Gibsonville,Gibsonville,37081,Guilford County,Incorporated place,36.102161,-79.543038,1
+NC,3726200,place:NC:3726200,Glen Alpine town,Glen Alpine,Glen Alpine,37023,Burke County,Incorporated place,35.730816,-81.78249,1
+NC,3726460,place:NC:3726460,Glen Raven CDP,Glen Raven,Glen Raven,37001,Alamance County,Census-designated place,36.124065,-79.467268,1
+NC,3726520,place:NC:3726520,Glenville CDP,Glenville,Glenville,37099,Jackson County,Census-designated place,35.170868,-83.121654,1
+NC,3726560,place:NC:3726560,Glenwood CDP,Glenwood,Glenwood,37111,McDowell County,Census-designated place,35.620095,-81.982745,1
+NC,3726680,place:NC:3726680,Gloucester CDP,Gloucester,Gloucester,37031,Carteret County,Census-designated place,34.73211,-76.538617,1
+NC,3726740,place:NC:3726740,Godwin town,Godwin,Godwin,37051,Cumberland County,Incorporated place,35.217111,-78.684349,1
+NC,3726800,place:NC:3726800,Gold Hill CDP,Gold Hill,Gold Hill,37159,Rowan County,Census-designated place,35.518597,-80.347491,1
+NC,3726880,place:NC:3726880,Goldsboro city,Goldsboro,Goldsboro,37191,Wayne County,Incorporated place,35.378226,-77.971869,1
+NC,3726920,place:NC:3726920,Goldston town,Goldston,Goldston,37037,Chatham County,Incorporated place,35.596411,-79.325984,1
+NC,3727120,place:NC:3727120,Gorman CDP,Gorman,Gorman,37063,Durham County,Census-designated place,36.041781,-78.806865,1
+NC,3727180,place:NC:3727180,Governors Club CDP,Governors Club,Governors Club,37037,Chatham County,Census-designated place,35.842155,-79.04751,1
+NC,3727182,place:NC:3727182,Governors Village CDP,Governors Village,Governors Village,37037,Chatham County,Census-designated place,35.853016,-79.025541,1
+NC,3727280,place:NC:3727280,Graham city,Graham,Graham,37001,Alamance County,Incorporated place,36.056356,-79.389436,1
+NC,3727300,place:NC:3727300,Graingers CDP,Graingers,Graingers,37107,Lenoir County,Census-designated place,35.316292,-77.506646,1
+NC,3727324,place:NC:3727324,Grandfather Village village,Grandfather Village,Grandfather Village,37011,Avery County,Incorporated place,36.09303,-81.853802,1
+NC,3727400,place:NC:3727400,Grandy CDP,Grandy,Grandy,37053,Currituck County,Census-designated place,36.235116,-75.879786,1
+NC,3727420,place:NC:3727420,Granite Falls town,Granite Falls,Granite Falls,37027,Caldwell County,Incorporated place,35.797235,-81.424353,1
+NC,3727440,place:NC:3727440,Granite Quarry town,Granite Quarry,Granite Quarry,37159,Rowan County,Incorporated place,35.613281,-80.449918,1
+NC,3727520,place:NC:3727520,Grantsboro town,Grantsboro,Grantsboro,37137,Pamlico County,Incorporated place,35.144868,-76.844682,1
+NC,3727870,place:NC:3727870,Green Level town,Green Level,Green Level,37001,Alamance County,Incorporated place,36.122758,-79.344995,1
+NC,3727780,place:NC:3727780,Greenevers town,Greenevers,Greenevers,37061,Duplin County,Incorporated place,34.827134,-77.925135,1
+NC,3728000,place:NC:3728000,Greensboro city,Greensboro,Greensboro,37081,Guilford County,Incorporated place,36.09485,-79.823624,1
+NC,3728080,place:NC:3728080,Greenville city,Greenville,Greenville,37147,Pitt County,Incorporated place,35.59249,-77.372739,1
+NC,3728200,place:NC:3728200,Grifton town,Grifton,Grifton,37147,Pitt County,Incorporated place,35.380043,-77.442479,1
+NC,3728240,place:NC:3728240,Grimesland town,Grimesland,Grimesland,37147,Pitt County,Incorporated place,35.567103,-77.198198,1
+NC,3728400,place:NC:3728400,Grover town,Grover,Grover,37045,Cleveland County,Incorporated place,35.175563,-81.453006,1
+NC,3728600,place:NC:3728600,Gulf CDP,Gulf,Gulf,37037,Chatham County,Census-designated place,35.557605,-79.280824,1
+NC,3728900,place:NC:3728900,Half Moon CDP,Half Moon,Half Moon,37133,Onslow County,Census-designated place,34.829625,-77.452865,1
+NC,3728920,place:NC:3728920,Halifax town,Halifax,Halifax,37083,Halifax County,Incorporated place,36.325495,-77.590095,1
+NC,3729000,place:NC:3729000,Hallsboro CDP,Hallsboro,Hallsboro,37047,Columbus County,Census-designated place,34.318915,-78.593376,1
+NC,3729120,place:NC:3729120,Hamilton town,Hamilton,Hamilton,37117,Martin County,Incorporated place,35.944366,-77.206741,1
+NC,3729160,place:NC:3729160,Hamlet city,Hamlet,Hamlet,37153,Richmond County,Incorporated place,34.889203,-79.710612,1
+NC,3729180,place:NC:3729180,Hampstead CDP,Hampstead,Hampstead,37141,Pender County,Census-designated place,34.36269,-77.754475,1
+NC,3729560,place:NC:3729560,Harkers Island CDP,Harkers Island,Harkers Island,37031,Carteret County,Census-designated place,34.690658,-76.529475,1
+NC,3729640,place:NC:3729640,Harmony town,Harmony,Harmony,37097,Iredell County,Incorporated place,35.961734,-80.775571,1
+NC,3729680,place:NC:3729680,Harrells town,Harrells,Harrells,37163,Sampson County,Incorporated place,34.727852,-78.201499,1
+NC,3729720,place:NC:3729720,Harrellsville town,Harrellsville,Harrellsville,37091,Hertford County,Incorporated place,36.301674,-76.791777,1
+NC,3729800,place:NC:3729800,Harrisburg town,Harrisburg,Harrisburg,37025,Cabarrus County,Incorporated place,35.307549,-80.645617,1
+NC,3730040,place:NC:3730040,Hassell town,Hassell,Hassell,37117,Martin County,Incorporated place,35.908579,-77.27636,1
+NC,3730100,place:NC:3730100,Hatteras CDP,Hatteras,Hatteras,37055,Dare County,Census-designated place,35.221238,-75.684923,1
+NC,3730120,place:NC:3730120,Havelock city,Havelock,Havelock,37049,Craven County,Incorporated place,34.908905,-76.899469,1
+NC,3730260,place:NC:3730260,Haw River town,Haw River,Haw River,37001,Alamance County,Incorporated place,36.091988,-79.358377,1
+NC,3730280,place:NC:3730280,Hayesville town,Hayesville,Hayesville,37043,Clay County,Incorporated place,35.045015,-83.817941,1
+NC,3730340,place:NC:3730340,Hays CDP,Hays,Hays,37193,Wilkes County,Census-designated place,36.246892,-81.114163,1
+NC,3730620,place:NC:3730620,Hemby Bridge town,Hemby Bridge,Hemby Bridge,37179,Union County,Incorporated place,35.108618,-80.624946,1
+NC,3730660,place:NC:3730660,Henderson city,Henderson,Henderson,37181,Vance County,Incorporated place,36.32604,-78.414923,1
+NC,3730720,place:NC:3730720,Hendersonville city,Hendersonville,Hendersonville,37089,Henderson County,Incorporated place,35.324302,-82.456282,1
+NC,3730800,place:NC:3730800,Henrietta CDP,Henrietta,Henrietta,37161,Rutherford County,Census-designated place,35.257827,-81.804409,1
+NC,3730900,place:NC:3730900,Hertford town,Hertford,Hertford,37143,Perquimans County,Incorporated place,36.176849,-76.466552,1
+NC,3731060,place:NC:3731060,Hickory city,Hickory,Hickory,37035,Catawba County,Incorporated place,35.738761,-81.31961,1
+NC,3731260,place:NC:3731260,Hiddenite CDP,Hiddenite,Hiddenite,37003,Alexander County,Census-designated place,35.9077,-81.081056,1
+NC,3731400,place:NC:3731400,High Point city,High Point,High Point,37081,Guilford County,Incorporated place,35.990803,-79.992713,1
+NC,3731440,place:NC:3731440,High Shoals city,High Shoals,High Shoals,37071,Gaston County,Incorporated place,35.389979,-81.202072,1
+NC,3731360,place:NC:3731360,Highlands town,Highlands,Highlands,37113,Macon County,Incorporated place,35.053845,-83.197579,1
+NC,3731490,place:NC:3731490,Hightsville CDP,Hightsville,Hightsville,37129,New Hanover County,Census-designated place,34.269435,-77.937787,1
+NC,3731500,place:NC:3731500,Hildebran town,Hildebran,Hildebran,37023,Burke County,Incorporated place,35.718199,-81.420961,1
+NC,3731620,place:NC:3731620,Hillsborough town,Hillsborough,Hillsborough,37135,Orange County,Incorporated place,36.066609,-79.098067,1
+NC,3731860,place:NC:3731860,Hobgood town,Hobgood,Hobgood,37083,Halifax County,Incorporated place,36.026734,-77.393977,1
+NC,3731880,place:NC:3731880,Hobucken CDP,Hobucken,Hobucken,37137,Pamlico County,Census-designated place,35.251758,-76.573099,1
+NC,3731920,place:NC:3731920,Hoffman town,Hoffman,Hoffman,37153,Richmond County,Incorporated place,35.031323,-79.549136,1
+NC,3731960,place:NC:3731960,Holden Beach town,Holden Beach,Holden Beach,37019,Brunswick County,Incorporated place,33.911987,-78.320769,1
+NC,3732100,place:NC:3732100,Hollister CDP,Hollister,Hollister,37083,Halifax County,Census-designated place,36.258282,-77.935694,1
+NC,3732180,place:NC:3732180,Holly Ridge town,Holly Ridge,Holly Ridge,37133,Onslow County,Incorporated place,34.501314,-77.529658,1
+NC,3732260,place:NC:3732260,Holly Springs town,Holly Springs,Holly Springs,37183,Wake County,Incorporated place,35.651994,-78.843196,1
+NC,3732540,place:NC:3732540,Hookerton town,Hookerton,Hookerton,37079,Greene County,Incorporated place,35.422577,-77.588898,1
+NC,3732580,place:NC:3732580,Hoopers Creek CDP,Hoopers Creek,Hoopers Creek,37089,Henderson County,Census-designated place,35.445187,-82.435318,1
+NC,3732640,place:NC:3732640,Hope Mills town,Hope Mills,Hope Mills,37051,Cumberland County,Incorporated place,34.969195,-78.959887,1
+NC,3732740,place:NC:3732740,Horse Shoe CDP,Horse Shoe,Horse Shoe,37089,Henderson County,Census-designated place,35.332385,-82.562696,1
+NC,3732840,place:NC:3732840,Hot Springs town,Hot Springs,Hot Springs,37115,Madison County,Incorporated place,35.893553,-82.829421,1
+NC,3732940,place:NC:3732940,Hubert CDP,Hubert,Hubert,37133,Onslow County,Census-designated place,34.700031,-77.206593,0
+NC,3732980,place:NC:3732980,Hudson town,Hudson,Hudson,37027,Caldwell County,Incorporated place,35.847743,-81.486711,1
+NC,3733120,place:NC:3733120,Huntersville town,Huntersville,Huntersville,37119,Mecklenburg County,Incorporated place,35.40681,-80.86868,1
+NC,3733320,place:NC:3733320,Icard CDP,Icard,Icard,37023,Burke County,Census-designated place,35.725345,-81.456638,1
+NC,3733460,place:NC:3733460,Indian Beach town,Indian Beach,Indian Beach,37031,Carteret County,Incorporated place,34.685107,-76.897699,1
+NC,3733560,place:NC:3733560,Indian Trail town,Indian Trail,Indian Trail,37179,Union County,Incorporated place,35.06898,-80.651758,1
+NC,3733640,place:NC:3733640,Ingold CDP,Ingold,Ingold,37163,Sampson County,Census-designated place,34.827653,-78.351773,1
+NC,3733820,place:NC:3733820,Iron Station CDP,Iron Station,Iron Station,37109,Lincoln County,Census-designated place,35.453943,-81.154713,1
+NC,3733940,place:NC:3733940,Ivanhoe CDP,Ivanhoe,Ivanhoe,37163,Sampson County,Census-designated place,34.583625,-78.251697,1
+NC,3733993,place:NC:3733993,JAARS CDP,JAARS,JAARS,37179,Union County,Census-designated place,34.864493,-80.750261,1
+NC,3734000,place:NC:3734000,Jackson town,Jackson,Jackson,37131,Northampton County,Incorporated place,36.390095,-77.419341,1
+NC,3734038,place:NC:3734038,Jackson Heights CDP,Jackson Heights,Jackson Heights,37107,Lenoir County,Census-designated place,35.22362,-77.633272,1
+NC,3734160,place:NC:3734160,Jackson Springs CDP,Jackson Springs,Jackson Springs,37125,Moore County,Census-designated place,35.212675,-79.629762,1
+NC,3734200,place:NC:3734200,Jacksonville city,Jacksonville,Jacksonville,37133,Onslow County,Incorporated place,34.729759,-77.394,1
+NC,3734260,place:NC:3734260,James City CDP,James City,James City,37049,Craven County,Census-designated place,35.045369,-76.998097,1
+NC,3734300,place:NC:3734300,Jamestown town,Jamestown,Jamestown,37081,Guilford County,Incorporated place,36.001137,-79.931528,1
+NC,3734320,place:NC:3734320,Jamesville town,Jamesville,Jamesville,37117,Martin County,Incorporated place,35.812198,-76.900182,1
+NC,3734440,place:NC:3734440,Jefferson town,Jefferson,Jefferson,37009,Ashe County,Incorporated place,36.420551,-81.468261,1
+NC,3734840,place:NC:3734840,Jonesville town,Jonesville,Jonesville,37197,Yadkin County,Incorporated place,36.235223,-80.833712,1
+NC,3735200,place:NC:3735200,Kannapolis city,Kannapolis,Kannapolis,37025,Cabarrus County,Incorporated place,35.479868,-80.647422,1
+NC,3735340,place:NC:3735340,Keener CDP,Keener,Keener,37163,Sampson County,Census-designated place,35.121096,-78.298372,1
+NC,3735360,place:NC:3735360,Kelford town,Kelford,Kelford,37015,Bertie County,Incorporated place,36.181248,-77.224303,1
+NC,3735400,place:NC:3735400,Kellum CDP,Kellum,Kellum,37133,Onslow County,Census-designated place,34.821756,-77.34418,0
+NC,3735440,place:NC:3735440,Kelly CDP,Kelly,Kelly,37017,Bladen County,Census-designated place,34.463963,-78.310961,1
+NC,3735460,place:NC:3735460,Kenansville town,Kenansville,Kenansville,37061,Duplin County,Incorporated place,34.959838,-77.965994,1
+NC,3735540,place:NC:3735540,Kenly town,Kenly,Kenly,37101,Johnston County,Incorporated place,35.600767,-78.127935,1
+NC,3735600,place:NC:3735600,Kernersville town,Kernersville,Kernersville,37067,Forsyth County,Incorporated place,36.106171,-80.081895,1
+NC,3735720,place:NC:3735720,Kill Devil Hills town,Kill Devil Hills,Kill Devil Hills,37055,Dare County,Incorporated place,36.01711,-75.671355,1
+NC,3735760,place:NC:3735760,King city,King,King,37169,Stokes County,Incorporated place,36.274684,-80.356634,1
+NC,3735870,place:NC:3735870,Kings Grant CDP,Kings Grant,Kings Grant,37129,New Hanover County,Census-designated place,34.265906,-77.860998,1
+NC,3735880,place:NC:3735880,Kings Mountain city,Kings Mountain,Kings Mountain,37045,Cleveland County,Incorporated place,35.233396,-81.353204,1
+NC,3735890,place:NC:3735890,Kingstown town,Kingstown,Kingstown,37045,Cleveland County,Incorporated place,35.362105,-81.620051,1
+NC,3735920,place:NC:3735920,Kinston city,Kinston,Kinston,37107,Lenoir County,Incorporated place,35.275099,-77.593368,1
+NC,3736020,place:NC:3736020,Kittrell town,Kittrell,Kittrell,37181,Vance County,Incorporated place,36.221807,-78.441334,1
+NC,3736060,place:NC:3736060,Kitty Hawk town,Kitty Hawk,Kitty Hawk,37055,Dare County,Incorporated place,36.07012,-75.717216,1
+NC,3736080,place:NC:3736080,Knightdale town,Knightdale,Knightdale,37183,Wake County,Incorporated place,35.790017,-78.495581,1
+NC,3736220,place:NC:3736220,Kure Beach town,Kure Beach,Kure Beach,37129,New Hanover County,Incorporated place,33.999336,-77.90758,1
+NC,3736400,place:NC:3736400,La Grange town,La Grange,La Grange,37107,Lenoir County,Incorporated place,35.306519,-77.789906,1
+NC,3736480,place:NC:3736480,Lake Junaluska CDP,Lake Junaluska,Lake Junaluska,37087,Haywood County,Census-designated place,35.530206,-82.972773,1
+NC,3736500,place:NC:3736500,Lake Lure town,Lake Lure,Lake Lure,37161,Rutherford County,Incorporated place,35.448002,-82.202005,1
+NC,3736510,place:NC:3736510,Lake Norman of Catawba CDP,Lake Norman of Catawba,Lake Norman of Catawba,37035,Catawba County,Census-designated place,35.598317,-80.987619,1
+NC,3736511,place:NC:3736511,Lake Norman of Iredell CDP,Lake Norman of Iredell,Lake Norman of Iredell,37097,Iredell County,Census-designated place,35.546984,-80.938952,1
+NC,3736512,place:NC:3736512,Lake Park village,Lake Park,Lake Park,37179,Union County,Incorporated place,35.084487,-80.634374,1
+NC,3736513,place:NC:3736513,Lake Royale CDP,Lake Royale,Lake Royale,37069,Franklin County,Census-designated place,35.956419,-78.184691,1
+NC,3736514,place:NC:3736514,Lake Santeetlah town,Lake Santeetlah,Lake Santeetlah,37075,Graham County,Incorporated place,35.364004,-83.866444,1
+NC,3736640,place:NC:3736640,Lake Waccamaw town,Lake Waccamaw,Lake Waccamaw,37047,Columbus County,Incorporated place,34.318218,-78.511186,1
+NC,3736860,place:NC:3736860,Landis town,Landis,Landis,37159,Rowan County,Incorporated place,35.553096,-80.606075,1
+NC,3736960,place:NC:3736960,Lansing town,Lansing,Lansing,37009,Ashe County,Incorporated place,36.49947,-81.509641,1
+NC,3737000,place:NC:3737000,Lasker town,Lasker,Lasker,37131,Northampton County,Incorporated place,36.350221,-77.305747,1
+NC,3737040,place:NC:3737040,Lattimore town,Lattimore,Lattimore,37045,Cleveland County,Incorporated place,35.315476,-81.660549,1
+NC,3737120,place:NC:3737120,Laurel Hill CDP,Laurel Hill,Laurel Hill,37165,Scotland County,Census-designated place,34.809526,-79.54546,1
+NC,3737160,place:NC:3737160,Laurel Park town,Laurel Park,Laurel Park,37089,Henderson County,Incorporated place,35.311489,-82.503567,1
+NC,3737220,place:NC:3737220,Laurinburg city,Laurinburg,Laurinburg,37165,Scotland County,Incorporated place,34.762138,-79.477378,1
+NC,3737260,place:NC:3737260,Lawndale town,Lawndale,Lawndale,37045,Cleveland County,Incorporated place,35.414384,-81.562104,1
+NC,3737640,place:NC:3737640,Leggett town,Leggett,Leggett,37065,Edgecombe County,Incorporated place,35.989512,-77.580111,1
+NC,3737680,place:NC:3737680,Leland town,Leland,Leland,37019,Brunswick County,Incorporated place,34.214676,-78.04337,1
+NC,3737760,place:NC:3737760,Lenoir city,Lenoir,Lenoir,37027,Caldwell County,Incorporated place,35.906695,-81.519531,1
+NC,3738030,place:NC:3738030,Lewiston Woodville town,Lewiston Woodville,Lewiston Woodville,37015,Bertie County,Incorporated place,36.114886,-77.179554,1
+NC,3738040,place:NC:3738040,Lewisville town,Lewisville,Lewisville,37067,Forsyth County,Incorporated place,36.105194,-80.424552,1
+NC,3738060,place:NC:3738060,Lexington city,Lexington,Lexington,37057,Davidson County,Incorporated place,35.797221,-80.274241,1
+NC,3738100,place:NC:3738100,Liberty town,Liberty,Liberty,37151,Randolph County,Incorporated place,35.85503,-79.569307,1
+NC,3738170,place:NC:3738170,Light Oak CDP,Light Oak,Light Oak,37045,Cleveland County,Census-designated place,35.286678,-81.477425,1
+NC,3738200,place:NC:3738200,Lilesville town,Lilesville,Lilesville,37007,Anson County,Incorporated place,34.967494,-79.984534,1
+NC,3738220,place:NC:3738220,Lillington town,Lillington,Lillington,37085,Harnett County,Incorporated place,35.394608,-78.815743,1
+NC,3738320,place:NC:3738320,Lincolnton city,Lincolnton,Lincolnton,37109,Lincoln County,Incorporated place,35.475737,-81.239192,1
+NC,3738360,place:NC:3738360,Linden town,Linden,Linden,37051,Cumberland County,Incorporated place,35.254564,-78.747619,1
+NC,3738420,place:NC:3738420,Linville CDP,Linville,Linville,37011,Avery County,Census-designated place,36.067474,-81.871431,1
+NC,3738680,place:NC:3738680,Littleton town,Littleton,Littleton,37083,Halifax County,Incorporated place,36.434316,-77.911002,1
+NC,3738860,place:NC:3738860,Locust city,Locust,Locust,37167,Stanly County,Incorporated place,35.269426,-80.435561,1
+NC,3739060,place:NC:3739060,Long Creek CDP,Long Creek,Long Creek,37141,Pender County,Census-designated place,34.434044,-78.017162,1
+NC,3739280,place:NC:3739280,Long View town,Long View,Long View,37035,Catawba County,Incorporated place,35.723092,-81.385475,1
+NC,3739360,place:NC:3739360,Louisburg town,Louisburg,Louisburg,37069,Franklin County,Incorporated place,36.096614,-78.298621,1
+NC,3739420,place:NC:3739420,Love Valley town,Love Valley,Love Valley,37097,Iredell County,Incorporated place,35.989425,-80.979535,1
+NC,3739480,place:NC:3739480,Lowell city,Lowell,Lowell,37071,Gaston County,Incorporated place,35.275799,-81.104927,1
+NC,3739520,place:NC:3739520,Lowesville CDP,Lowesville,Lowesville,37109,Lincoln County,Census-designated place,35.424508,-81.005188,1
+NC,3739540,place:NC:3739540,Lowgap CDP,Lowgap,Lowgap,37171,Surry County,Census-designated place,36.524957,-80.871226,1
+NC,3739600,place:NC:3739600,Lucama town,Lucama,Lucama,37195,Wilson County,Incorporated place,35.644506,-78.007211,1
+NC,3739680,place:NC:3739680,Lumber Bridge town,Lumber Bridge,Lumber Bridge,37155,Robeson County,Incorporated place,34.889927,-79.072258,1
+NC,3739700,place:NC:3739700,Lumberton city,Lumberton,Lumberton,37155,Robeson County,Incorporated place,34.630608,-79.018601,1
+NC,3739960,place:NC:3739960,Macclesfield town,Macclesfield,Macclesfield,37065,Edgecombe County,Incorporated place,35.752271,-77.669686,1
+NC,3740540,place:NC:3740540,Macon town,Macon,Macon,37185,Warren County,Incorporated place,36.440187,-78.083316,1
+NC,3740560,place:NC:3740560,Madison town,Madison,Madison,37157,Rockingham County,Incorporated place,36.394047,-79.976003,1
+NC,3740600,place:NC:3740600,Maggie Valley town,Maggie Valley,Maggie Valley,37087,Haywood County,Incorporated place,35.525762,-83.061834,1
+NC,3740640,place:NC:3740640,Magnolia town,Magnolia,Magnolia,37061,Duplin County,Incorporated place,34.896248,-78.053284,1
+NC,3740660,place:NC:3740660,Maiden town,Maiden,Maiden,37035,Catawba County,Incorporated place,35.595468,-81.230278,1
+NC,3740860,place:NC:3740860,Mamers CDP,Mamers,Mamers,37085,Harnett County,Census-designated place,35.411314,-78.936614,1
+NC,3740980,place:NC:3740980,Manns Harbor CDP,Manns Harbor,Manns Harbor,37055,Dare County,Census-designated place,35.898488,-75.780687,1
+NC,3741060,place:NC:3741060,Manteo town,Manteo,Manteo,37055,Dare County,Incorporated place,35.898503,-75.651413,1
+NC,3741540,place:NC:3741540,Mar-Mac CDP,Mar-Mac,Mar-Mac,37191,Wayne County,Census-designated place,35.330838,-78.056992,1
+NC,3741220,place:NC:3741220,Marble CDP,Marble,Marble,37039,Cherokee County,Census-designated place,35.176954,-83.926523,1
+NC,3741380,place:NC:3741380,Marietta town,Marietta,Marietta,37155,Robeson County,Incorporated place,34.368198,-79.124858,1
+NC,3741420,place:NC:3741420,Marion city,Marion,Marion,37111,McDowell County,Incorporated place,35.676222,-82.00081,1
+NC,3741620,place:NC:3741620,Mars Hill town,Mars Hill,Mars Hill,37115,Madison County,Incorporated place,35.828222,-82.548523,1
+NC,3741580,place:NC:3741580,Marshall town,Marshall,Marshall,37115,Madison County,Incorporated place,35.80144,-82.675943,1
+NC,3741600,place:NC:3741600,Marshallberg CDP,Marshallberg,Marshallberg,37031,Carteret County,Census-designated place,34.726015,-76.513556,1
+NC,3741640,place:NC:3741640,Marshville town,Marshville,Marshville,37179,Union County,Incorporated place,34.986204,-80.3701,1
+NC,3741720,place:NC:3741720,Marvin village,Marvin,Marvin,37179,Union County,Incorporated place,34.999622,-80.816668,1
+NC,3741960,place:NC:3741960,Matthews town,Matthews,Matthews,37119,Mecklenburg County,Incorporated place,35.119865,-80.709414,1
+NC,3742000,place:NC:3742000,Maury CDP,Maury,Maury,37079,Greene County,Census-designated place,35.479202,-77.590224,1
+NC,3742020,place:NC:3742020,Maxton town,Maxton,Maxton,37155,Robeson County,Incorporated place,34.7365,-79.352731,1
+NC,3742060,place:NC:3742060,Mayodan town,Mayodan,Mayodan,37157,Rockingham County,Incorporated place,36.422594,-79.969047,1
+NC,3742100,place:NC:3742100,Maysville town,Maysville,Maysville,37103,Jones County,Incorporated place,34.899669,-77.228903,1
+NC,3739880,place:NC:3739880,McAdenville town,McAdenville,McAdenville,37071,Gaston County,Incorporated place,35.265303,-81.080555,1
+NC,3740140,place:NC:3740140,McDonald town,McDonald,McDonald,37155,Robeson County,Incorporated place,34.553745,-79.176253,1
+NC,3740240,place:NC:3740240,McFarlan town,McFarlan,McFarlan,37007,Anson County,Incorporated place,34.814818,-79.976632,1
+NC,3740460,place:NC:3740460,McLeansville CDP,McLeansville,McLeansville,37081,Guilford County,Census-designated place,36.10462,-79.656186,1
+NC,3742240,place:NC:3742240,Mebane city,Mebane,Mebane,37001,Alamance County,Incorporated place,36.081678,-79.276747,1
+NC,3742480,place:NC:3742480,Mesic town,Mesic,Mesic,37137,Pamlico County,Incorporated place,35.204233,-76.645831,1
+NC,3742620,place:NC:3742620,Micro town,Micro,Micro,37101,Johnston County,Incorporated place,35.564274,-78.204023,1
+NC,3742640,place:NC:3742640,Middleburg town,Middleburg,Middleburg,37181,Vance County,Incorporated place,36.398941,-78.323436,1
+NC,3742700,place:NC:3742700,Middlesex town,Middlesex,Middlesex,37127,Nash County,Incorporated place,35.790353,-78.197222,1
+NC,3742760,place:NC:3742760,Midland town,Midland,Midland,37025,Cabarrus County,Incorporated place,35.249167,-80.530075,1
+NC,3742860,place:NC:3742860,Midway town,Midway,Midway,37057,Davidson County,Incorporated place,35.975135,-80.220448,1
+NC,3743160,place:NC:3743160,Millers Creek CDP,Millers Creek,Millers Creek,37193,Wilkes County,Census-designated place,36.190867,-81.235553,1
+NC,3743200,place:NC:3743200,Millingport CDP,Millingport,Millingport,37167,Stanly County,Census-designated place,35.376354,-80.311341,1
+NC,3743260,place:NC:3743260,Mills River town,Mills River,Mills River,37089,Henderson County,Incorporated place,35.381426,-82.589005,1
+NC,3743300,place:NC:3743300,Milton town,Milton,Milton,37033,Caswell County,Incorporated place,36.537704,-79.207937,1
+NC,3743320,place:NC:3743320,Milwaukee CDP,Milwaukee,Milwaukee,37131,Northampton County,Census-designated place,36.402535,-77.231213,1
+NC,3743360,place:NC:3743360,Mineral Springs town,Mineral Springs,Mineral Springs,37179,Union County,Incorporated place,34.944226,-80.686341,1
+NC,3743440,place:NC:3743440,Minnesott Beach town,Minnesott Beach,Minnesott Beach,37137,Pamlico County,Incorporated place,34.986499,-76.824077,1
+NC,3743480,place:NC:3743480,Mint Hill town,Mint Hill,Mint Hill,37119,Mecklenburg County,Incorporated place,35.17728,-80.653041,1
+NC,3743580,place:NC:3743580,Misenheimer village,Misenheimer,Misenheimer,37167,Stanly County,Incorporated place,35.476996,-80.286023,1
+NC,3743720,place:NC:3743720,Mocksville town,Mocksville,Mocksville,37059,Davie County,Incorporated place,35.902063,-80.564666,1
+NC,3743860,place:NC:3743860,Momeyer town,Momeyer,Momeyer,37127,Nash County,Incorporated place,35.960002,-78.047967,1
+NC,3743880,place:NC:3743880,Moncure CDP,Moncure,Moncure,37037,Chatham County,Census-designated place,35.62582,-79.074681,1
+NC,3743920,place:NC:3743920,Monroe city,Monroe,Monroe,37179,Union County,Incorporated place,35.003326,-80.558862,1
+NC,3744100,place:NC:3744100,Montreat town,Montreat,Montreat,37021,Buncombe County,Incorporated place,35.64804,-82.299164,1
+NC,3744160,place:NC:3744160,Mooresboro town,Mooresboro,Mooresboro,37045,Cleveland County,Incorporated place,35.299205,-81.698586,1
+NC,3744220,place:NC:3744220,Mooresville town,Mooresville,Mooresville,37097,Iredell County,Incorporated place,35.583591,-80.828328,1
+NC,3744280,place:NC:3744280,Moravian Falls CDP,Moravian Falls,Moravian Falls,37193,Wilkes County,Census-designated place,36.1088,-81.186413,1
+NC,3744320,place:NC:3744320,Morehead City town,Morehead City,Morehead City,37031,Carteret County,Incorporated place,34.727941,-76.737002,1
+NC,3744400,place:NC:3744400,Morganton city,Morganton,Morganton,37023,Burke County,Incorporated place,35.740825,-81.700266,1
+NC,3744520,place:NC:3744520,Morrisville town,Morrisville,Morrisville,37183,Wake County,Incorporated place,35.836356,-78.839001,1
+NC,3744560,place:NC:3744560,Morven town,Morven,Morven,37007,Anson County,Incorporated place,34.86431,-80.000013,1
+NC,3744800,place:NC:3744800,Mount Airy city,Mount Airy,Mount Airy,37171,Surry County,Incorporated place,36.508487,-80.614538,1
+NC,3744900,place:NC:3744900,Mount Gilead town,Mount Gilead,Mount Gilead,37123,Montgomery County,Incorporated place,35.215981,-80.011991,1
+NC,3744960,place:NC:3744960,Mount Holly city,Mount Holly,Mount Holly,37071,Gaston County,Incorporated place,35.314578,-81.006217,1
+NC,3745100,place:NC:3745100,Mount Olive town,Mount Olive,Mount Olive,37191,Wayne County,Incorporated place,35.199808,-78.066128,1
+NC,3745140,place:NC:3745140,Mount Pleasant town,Mount Pleasant,Mount Pleasant,37025,Cabarrus County,Incorporated place,35.394199,-80.431831,1
+NC,3744700,place:NC:3744700,Mountain Home CDP,Mountain Home,Mountain Home,37089,Henderson County,Census-designated place,35.370322,-82.501972,1
+NC,3744770,place:NC:3744770,Mountain View CDP,Mountain View,Mountain View,37035,Catawba County,Census-designated place,35.683097,-81.368953,1
+NC,3745460,place:NC:3745460,Moyock CDP,Moyock,Moyock,37053,Currituck County,Census-designated place,36.501188,-76.173484,1
+NC,3745560,place:NC:3745560,Mulberry CDP,Mulberry,Mulberry,37193,Wilkes County,Census-designated place,36.225723,-81.165236,1
+NC,3745640,place:NC:3745640,Murfreesboro town,Murfreesboro,Murfreesboro,37091,Hertford County,Incorporated place,36.441967,-77.097663,1
+NC,3745660,place:NC:3745660,Murphy town,Murphy,Murphy,37039,Cherokee County,Incorporated place,35.094592,-84.02501,1
+NC,3745720,place:NC:3745720,Murraysville CDP,Murraysville,Murraysville,37129,New Hanover County,Census-designated place,34.291629,-77.842337,1
+NC,3745840,place:NC:3745840,Myrtle Grove CDP,Myrtle Grove,Myrtle Grove,37129,New Hanover County,Census-designated place,34.126412,-77.888073,1
+NC,3745880,place:NC:3745880,Nags Head town,Nags Head,Nags Head,37055,Dare County,Incorporated place,35.944039,-75.623403,1
+NC,3746000,place:NC:3746000,Nashville town,Nashville,Nashville,37127,Nash County,Incorporated place,35.96923,-77.956734,1
+NC,3746060,place:NC:3746060,Navassa town,Navassa,Navassa,37019,Brunswick County,Incorporated place,34.283461,-78.038894,1
+NC,3746100,place:NC:3746100,Nebo CDP,Nebo,Nebo,37111,McDowell County,Census-designated place,35.716394,-81.916301,1
+NC,3746280,place:NC:3746280,Neuse Forest CDP,Neuse Forest,Neuse Forest,37049,Craven County,Census-designated place,34.964983,-76.94436,1
+NC,3746340,place:NC:3746340,New Bern city,New Bern,New Bern,37049,Craven County,Incorporated place,35.092713,-77.071774,1
+NC,3746650,place:NC:3746650,New Hope CDP,New Hope,New Hope,37191,Wayne County,Census-designated place,35.378232,-77.892198,1
+NC,3746820,place:NC:3746820,New London town,New London,New London,37167,Stanly County,Incorporated place,35.434915,-80.219812,1
+NC,3746740,place:NC:3746740,Newland town,Newland,Newland,37011,Avery County,Incorporated place,36.08797,-81.927355,1
+NC,3746860,place:NC:3746860,Newport town,Newport,Newport,37031,Carteret County,Incorporated place,34.770746,-76.879103,1
+NC,3747000,place:NC:3747000,Newton city,Newton,Newton,37035,Catawba County,Incorporated place,35.662162,-81.232269,1
+NC,3747020,place:NC:3747020,Newton Grove town,Newton Grove,Newton Grove,37163,Sampson County,Incorporated place,35.251172,-78.353679,1
+NC,3747240,place:NC:3747240,Norlina town,Norlina,Norlina,37185,Warren County,Incorporated place,36.444941,-78.19517,1
+NC,3747260,place:NC:3747260,Norman town,Norman,Norman,37153,Richmond County,Incorporated place,35.169761,-79.723159,1
+NC,3747845,place:NC:3747845,North Topsail Beach town,North Topsail Beach,North Topsail Beach,37133,Onslow County,Incorporated place,34.488497,-77.437538,1
+NC,3747880,place:NC:3747880,North Wilkesboro town,North Wilkesboro,North Wilkesboro,37193,Wilkes County,Incorporated place,36.172817,-81.138911,1
+NC,3747485,place:NC:3747485,Northchase CDP,Northchase,Northchase,37129,New Hanover County,Census-designated place,34.307823,-77.877488,1
+NC,3747695,place:NC:3747695,Northlakes CDP,Northlakes,Northlakes,37027,Caldwell County,Census-designated place,35.780702,-81.367263,1
+NC,3747860,place:NC:3747860,Northwest city,Northwest,Northwest,37019,Brunswick County,Incorporated place,34.31654,-78.1453,1
+NC,3747980,place:NC:3747980,Norwood town,Norwood,Norwood,37167,Stanly County,Incorporated place,35.232829,-80.110659,1
+NC,3748060,place:NC:3748060,Oak City town,Oak City,Oak City,37117,Martin County,Incorporated place,35.962519,-77.305093,1
+NC,3748345,place:NC:3748345,Oak Island town,Oak Island,Oak Island,37019,Brunswick County,Incorporated place,33.915065,-78.119006,1
+NC,3748480,place:NC:3748480,Oak Ridge town,Oak Ridge,Oak Ridge,37081,Guilford County,Incorporated place,36.174072,-79.992233,1
+NC,3748040,place:NC:3748040,Oakboro town,Oakboro,Oakboro,37167,Stanly County,Incorporated place,35.228479,-80.334181,1
+NC,3748700,place:NC:3748700,Ocean Isle Beach town,Ocean Isle Beach,Ocean Isle Beach,37019,Brunswick County,Incorporated place,33.902213,-78.436721,1
+NC,3748740,place:NC:3748740,Ocracoke CDP,Ocracoke,Ocracoke,,,Census-designated place,35.073231,-75.998527,1
+NC,3748790,place:NC:3748790,Ogden CDP,Ogden,Ogden,37129,New Hanover County,Census-designated place,34.263754,-77.794054,1
+NC,3748920,place:NC:3748920,Old Fort town,Old Fort,Old Fort,37111,McDowell County,Incorporated place,35.630329,-82.177975,1
+NC,3748940,place:NC:3748940,Old Hundred CDP,Old Hundred,Old Hundred,37165,Scotland County,Census-designated place,34.82446,-79.59215,1
+NC,3749380,place:NC:3749380,Oriental town,Oriental,Oriental,37137,Pamlico County,Incorporated place,35.032069,-76.677366,1
+NC,3749460,place:NC:3749460,Orrum town,Orrum,Orrum,37155,Robeson County,Incorporated place,34.466727,-79.008945,1
+NC,3749600,place:NC:3749600,Ossipee town,Ossipee,Ossipee,37001,Alamance County,Incorporated place,36.166278,-79.516892,1
+NC,3749800,place:NC:3749800,Oxford city,Oxford,Oxford,37077,Granville County,Incorporated place,36.321574,-78.586861,1
+NC,3750080,place:NC:3750080,Pantego town,Pantego,Pantego,37013,Beaufort County,Incorporated place,35.587373,-76.659397,1
+NC,3750340,place:NC:3750340,Parkton town,Parkton,Parkton,37155,Robeson County,Incorporated place,34.902837,-79.011287,1
+NC,3750540,place:NC:3750540,Parmele town,Parmele,Parmele,37117,Martin County,Incorporated place,35.818086,-77.314314,1
+NC,3750700,place:NC:3750700,Patterson Springs town,Patterson Springs,Patterson Springs,37045,Cleveland County,Incorporated place,35.232791,-81.516131,1
+NC,3750820,place:NC:3750820,Peachland town,Peachland,Peachland,37007,Anson County,Incorporated place,34.993122,-80.265965,1
+NC,3751040,place:NC:3751040,Peletier town,Peletier,Peletier,37031,Carteret County,Incorporated place,34.728435,-77.071668,1
+NC,3751080,place:NC:3751080,Pembroke town,Pembroke,Pembroke,37155,Robeson County,Incorporated place,34.676709,-79.19337,1
+NC,3751780,place:NC:3751780,Pikeville town,Pikeville,Pikeville,37191,Wayne County,Incorporated place,35.497206,-77.987757,1
+NC,3751820,place:NC:3751820,Pilot Mountain town,Pilot Mountain,Pilot Mountain,37171,Surry County,Incorporated place,36.383939,-80.47422,1
+NC,3752000,place:NC:3752000,Pine Knoll Shores town,Pine Knoll Shores,Pine Knoll Shores,37031,Carteret County,Incorporated place,34.696718,-76.834795,1
+NC,3752020,place:NC:3752020,Pine Level town,Pine Level,Pine Level,37101,Johnston County,Incorporated place,35.502174,-78.248628,1
+NC,3751840,place:NC:3751840,Pinebluff town,Pinebluff,Pinebluff,37125,Moore County,Incorporated place,35.108943,-79.471547,1
+NC,3751940,place:NC:3751940,Pinehurst village,Pinehurst,Pinehurst,37125,Moore County,Incorporated place,35.191072,-79.469793,1
+NC,3752140,place:NC:3752140,Pinetops town,Pinetops,Pinetops,37065,Edgecombe County,Incorporated place,35.791136,-77.637775,1
+NC,3752160,place:NC:3752160,Pinetown CDP,Pinetown,Pinetown,37013,Beaufort County,Census-designated place,35.6111,-76.855789,1
+NC,3752220,place:NC:3752220,Pineville town,Pineville,Pineville,37119,Mecklenburg County,Incorporated place,35.093701,-80.887554,1
+NC,3752260,place:NC:3752260,Piney Green CDP,Piney Green,Piney Green,37133,Onslow County,Census-designated place,34.761682,-77.319776,1
+NC,3752400,place:NC:3752400,Pink Hill town,Pink Hill,Pink Hill,37107,Lenoir County,Incorporated place,35.056978,-77.743048,1
+NC,3752500,place:NC:3752500,Pinnacle CDP,Pinnacle,Pinnacle,37169,Stokes County,Census-designated place,36.322773,-80.423167,1
+NC,3752660,place:NC:3752660,Pittsboro town,Pittsboro,Pittsboro,37037,Chatham County,Incorporated place,35.723159,-79.159533,1
+NC,3752685,place:NC:3752685,Plain View CDP,Plain View,Plain View,37163,Sampson County,Census-designated place,35.243991,-78.560225,1
+NC,3752760,place:NC:3752760,Pleasant Garden town,Pleasant Garden,Pleasant Garden,37081,Guilford County,Incorporated place,35.952026,-79.754697,1
+NC,3752920,place:NC:3752920,Pleasant Hill CDP,Pleasant Hill,Pleasant Hill,37193,Wilkes County,Census-designated place,36.254037,-80.89462,1
+NC,3753040,place:NC:3753040,Plymouth town,Plymouth,Plymouth,37187,Washington County,Incorporated place,35.858599,-76.748148,1
+NC,3753140,place:NC:3753140,Polkton town,Polkton,Polkton,37007,Anson County,Incorporated place,35.0032,-80.19634,1
+NC,3753160,place:NC:3753160,Polkville city,Polkville,Polkville,37045,Cleveland County,Incorporated place,35.416275,-81.643987,1
+NC,3753200,place:NC:3753200,Pollocksville town,Pollocksville,Pollocksville,37103,Jones County,Incorporated place,35.006004,-77.222152,1
+NC,3753475,place:NC:3753475,Porters Neck CDP,Porters Neck,Porters Neck,37129,New Hanover County,Census-designated place,34.293204,-77.770617,1
+NC,3753580,place:NC:3753580,Potters Hill CDP,Potters Hill,Potters Hill,37061,Duplin County,Census-designated place,34.964547,-77.703153,1
+NC,3753680,place:NC:3753680,Powellsville town,Powellsville,Powellsville,37015,Bertie County,Incorporated place,36.225251,-76.931573,1
+NC,3753820,place:NC:3753820,Princeton town,Princeton,Princeton,37101,Johnston County,Incorporated place,35.46636,-78.163242,1
+NC,3753840,place:NC:3753840,Princeville town,Princeville,Princeville,37065,Edgecombe County,Incorporated place,35.887632,-77.529029,1
+NC,3753900,place:NC:3753900,Proctorville town,Proctorville,Proctorville,37155,Robeson County,Incorporated place,34.475179,-79.037039,1
+NC,3753950,place:NC:3753950,Prospect CDP,Prospect,Prospect,37155,Robeson County,Census-designated place,34.735811,-79.225155,1
+NC,3754160,place:NC:3754160,Pumpkin Center CDP,Pumpkin Center,Pumpkin Center,37133,Onslow County,Census-designated place,34.789031,-77.367279,1
+NC,3754580,place:NC:3754580,Raeford city,Raeford,Raeford,37093,Hoke County,Incorporated place,34.98042,-79.229541,1
+NC,3754600,place:NC:3754600,Raemon CDP,Raemon,Raemon,37155,Robeson County,Census-designated place,34.616852,-79.345983,1
+NC,3755000,place:NC:3755000,Raleigh city,Raleigh,Raleigh,37183,Wake County,Incorporated place,35.831456,-78.639558,1
+NC,3755040,place:NC:3755040,Ramseur town,Ramseur,Ramseur,37151,Randolph County,Incorporated place,35.737063,-79.65477,1
+NC,3755080,place:NC:3755080,Randleman city,Randleman,Randleman,37151,Randolph County,Incorporated place,35.815027,-79.814599,1
+NC,3755260,place:NC:3755260,Ranlo town,Ranlo,Ranlo,37071,Gaston County,Incorporated place,35.289933,-81.129084,1
+NC,3755340,place:NC:3755340,Raynham town,Raynham,Raynham,37155,Robeson County,Incorporated place,34.576089,-79.190856,1
+NC,3755460,place:NC:3755460,Red Cross town,Red Cross,Red Cross,37167,Stanly County,Incorporated place,35.270357,-80.345417,1
+NC,3755640,place:NC:3755640,Red Oak town,Red Oak,Red Oak,37127,Nash County,Incorporated place,36.061281,-77.903732,1
+NC,3755660,place:NC:3755660,Red Springs town,Red Springs,Red Springs,37155,Robeson County,Incorporated place,34.806235,-79.182191,1
+NC,3755900,place:NC:3755900,Reidsville city,Reidsville,Reidsville,37157,Rockingham County,Incorporated place,36.336885,-79.676964,1
+NC,3755940,place:NC:3755940,Rennert town,Rennert,Rennert,37155,Robeson County,Incorporated place,34.814093,-79.079116,1
+NC,3756100,place:NC:3756100,Rex CDP,Rex,Rex,37155,Robeson County,Census-designated place,34.850794,-79.046852,1
+NC,3756240,place:NC:3756240,Rhodhiss town,Rhodhiss,Rhodhiss,37023,Burke County,Incorporated place,35.765541,-81.432237,1
+NC,3756440,place:NC:3756440,Rich Square town,Rich Square,Rich Square,37131,Northampton County,Incorporated place,36.273942,-77.283906,1
+NC,3756340,place:NC:3756340,Richfield town,Richfield,Richfield,37167,Stanly County,Incorporated place,35.472454,-80.259455,1
+NC,3756360,place:NC:3756360,Richlands town,Richlands,Richlands,37133,Onslow County,Incorporated place,34.897995,-77.541658,1
+NC,3756600,place:NC:3756600,Riegelwood CDP,Riegelwood,Riegelwood,37047,Columbus County,Census-designated place,34.340107,-78.220365,1
+NC,3756710,place:NC:3756710,River Bend town,River Bend,River Bend,37049,Craven County,Incorporated place,35.068909,-77.149927,1
+NC,3756815,place:NC:3756815,River Road CDP,River Road,River Road,37013,Beaufort County,Census-designated place,35.508343,-76.987119,1
+NC,3756900,place:NC:3756900,Roanoke Rapids city,Roanoke Rapids,Roanoke Rapids,37083,Halifax County,Incorporated place,36.446049,-77.648586,1
+NC,3757000,place:NC:3757000,Robbins town,Robbins,Robbins,37125,Moore County,Incorporated place,35.427573,-79.582911,1
+NC,3757020,place:NC:3757020,Robbinsville town,Robbinsville,Robbinsville,37075,Graham County,Incorporated place,35.321314,-83.808915,1
+NC,3757039,place:NC:3757039,Roberdel CDP,Roberdel,Roberdel,37153,Richmond County,Census-designated place,34.979075,-79.747949,1
+NC,3757100,place:NC:3757100,Robersonville town,Robersonville,Robersonville,37117,Martin County,Incorporated place,35.824701,-77.253291,1
+NC,3757200,place:NC:3757200,Rockfish CDP,Rockfish,Rockfish,37093,Hoke County,Census-designated place,34.990576,-79.070092,1
+NC,3757260,place:NC:3757260,Rockingham city,Rockingham,Rockingham,37153,Richmond County,Incorporated place,34.938367,-79.761481,1
+NC,3757340,place:NC:3757340,Rockwell town,Rockwell,Rockwell,37159,Rowan County,Incorporated place,35.553109,-80.40927,1
+NC,3757500,place:NC:3757500,Rocky Mount city,Rocky Mount,Rocky Mount,37127,Nash County,Incorporated place,35.968514,-77.808294,1
+NC,3757540,place:NC:3757540,Rocky Point CDP,Rocky Point,Rocky Point,37141,Pender County,Census-designated place,34.444048,-77.890907,1
+NC,3757580,place:NC:3757580,Rodanthe CDP,Rodanthe,Rodanthe,37055,Dare County,Census-designated place,35.592476,-75.466355,1
+NC,3757640,place:NC:3757640,Rolesville town,Rolesville,Rolesville,37183,Wake County,Incorporated place,35.915785,-78.463093,1
+NC,3757700,place:NC:3757700,Ronda town,Ronda,Ronda,37193,Wilkes County,Incorporated place,36.221718,-80.943237,1
+NC,3757740,place:NC:3757740,Roper town,Roper,Roper,37187,Washington County,Incorporated place,35.87864,-76.617058,1
+NC,3757860,place:NC:3757860,Rose Hill town,Rose Hill,Rose Hill,37061,Duplin County,Incorporated place,34.826029,-78.02594,1
+NC,3757800,place:NC:3757800,Roseboro town,Roseboro,Roseboro,37163,Sampson County,Incorporated place,34.9539,-78.515282,1
+NC,3758020,place:NC:3758020,Rosman town,Rosman,Rosman,37175,Transylvania County,Incorporated place,35.145796,-82.820739,1
+NC,3758040,place:NC:3758040,Rougemont CDP,Rougemont,Rougemont,37063,Durham County,Census-designated place,36.212604,-78.911989,1
+NC,3758140,place:NC:3758140,Rowland town,Rowland,Rowland,37155,Robeson County,Incorporated place,34.535933,-79.292575,1
+NC,3758160,place:NC:3758160,Roxboro city,Roxboro,Roxboro,37145,Person County,Incorporated place,36.394578,-78.977279,1
+NC,3758180,place:NC:3758180,Roxobel town,Roxobel,Roxobel,37015,Bertie County,Incorporated place,36.201528,-77.239804,1
+NC,3758260,place:NC:3758260,Royal Pines CDP,Royal Pines,Royal Pines,37021,Buncombe County,Census-designated place,35.478822,-82.502313,1
+NC,3758340,place:NC:3758340,Ruffin CDP,Ruffin,Ruffin,37157,Rockingham County,Census-designated place,36.43719,-79.534523,1
+NC,3758360,place:NC:3758360,Rural Hall town,Rural Hall,Rural Hall,37067,Forsyth County,Incorporated place,36.221,-80.295776,1
+NC,3758420,place:NC:3758420,Ruth town,Ruth,Ruth,37161,Rutherford County,Incorporated place,35.382369,-81.944847,1
+NC,3758440,place:NC:3758440,Rutherford College town,Rutherford College,Rutherford College,37023,Burke County,Incorporated place,35.751711,-81.527004,1
+NC,3758460,place:NC:3758460,Rutherfordton town,Rutherfordton,Rutherfordton,37161,Rutherford County,Incorporated place,35.364033,-81.961223,1
+NC,3758740,place:NC:3758740,Salem CDP,Salem,Salem,37023,Burke County,Census-designated place,35.699725,-81.700298,1
+NC,3758840,place:NC:3758840,Salemburg town,Salemburg,Salemburg,37163,Sampson County,Incorporated place,35.013791,-78.502676,1
+NC,3758860,place:NC:3758860,Salisbury city,Salisbury,Salisbury,37159,Rowan County,Incorporated place,35.665136,-80.491886,1
+NC,3758920,place:NC:3758920,Saluda city,Saluda,Saluda,37149,Polk County,Incorporated place,35.237568,-82.346784,1
+NC,3758940,place:NC:3758940,Salvo CDP,Salvo,Salvo,37055,Dare County,Census-designated place,35.548536,-75.468168,1
+NC,3759090,place:NC:3759090,Sandy Creek town,Sandy Creek,Sandy Creek,37019,Brunswick County,Incorporated place,34.281894,-78.158912,1
+NC,3759135,place:NC:3759135,Sandyfield town,Sandyfield,Sandyfield,37047,Columbus County,Incorporated place,34.367773,-78.303215,1
+NC,3759280,place:NC:3759280,Sanford city,Sanford,Sanford,37105,Lee County,Incorporated place,35.493776,-79.176464,1
+NC,3759340,place:NC:3759340,Saratoga town,Saratoga,Saratoga,37195,Wilson County,Incorporated place,35.653661,-77.775636,1
+NC,3759540,place:NC:3759540,Sawmills town,Sawmills,Sawmills,37027,Caldwell County,Incorporated place,35.816783,-81.476273,1
+NC,3759580,place:NC:3759580,Saxapahaw CDP,Saxapahaw,Saxapahaw,37001,Alamance County,Census-designated place,35.960751,-79.316168,1
+NC,3759765,place:NC:3759765,Scotch Meadows CDP,Scotch Meadows,Scotch Meadows,37165,Scotland County,Census-designated place,34.688948,-79.517716,1
+NC,3759780,place:NC:3759780,Scotland Neck town,Scotland Neck,Scotland Neck,37083,Halifax County,Incorporated place,36.130778,-77.421437,1
+NC,3760000,place:NC:3760000,Sea Breeze CDP,Sea Breeze,Sea Breeze,37129,New Hanover County,Census-designated place,34.066241,-77.892533,1
+NC,3759980,place:NC:3759980,Seaboard town,Seaboard,Seaboard,37131,Northampton County,Incorporated place,36.49069,-77.441966,1
+NC,3760080,place:NC:3760080,Seagrove town,Seagrove,Seagrove,37151,Randolph County,Incorporated place,35.539534,-79.781418,1
+NC,3760180,place:NC:3760180,Sedalia town,Sedalia,Sedalia,37081,Guilford County,Incorporated place,36.075827,-79.617739,1
+NC,3760320,place:NC:3760320,Selma town,Selma,Selma,37101,Johnston County,Incorporated place,35.539726,-78.291735,1
+NC,3760505,place:NC:3760505,Seven Devils town,Seven Devils,Seven Devils,37189,Watauga County,Incorporated place,36.149492,-81.813167,1
+NC,3760515,place:NC:3760515,Seven Lakes CDP,Seven Lakes,Seven Lakes,37125,Moore County,Census-designated place,35.264231,-79.58602,1
+NC,3760540,place:NC:3760540,Seven Springs town,Seven Springs,Seven Springs,37191,Wayne County,Incorporated place,35.224832,-77.845136,1
+NC,3760560,place:NC:3760560,Severn town,Severn,Severn,37131,Northampton County,Incorporated place,36.514203,-77.189288,1
+NC,3760800,place:NC:3760800,Shallotte town,Shallotte,Shallotte,37019,Brunswick County,Incorporated place,33.973658,-78.380163,1
+NC,3760940,place:NC:3760940,Shannon CDP,Shannon,Shannon,37155,Robeson County,Census-designated place,34.847668,-79.139587,1
+NC,3761060,place:NC:3761060,Sharpsburg town,Sharpsburg,Sharpsburg,37127,Nash County,Incorporated place,35.86644,-77.830257,1
+NC,3761200,place:NC:3761200,Shelby city,Shelby,Shelby,37045,Cleveland County,Incorporated place,35.290405,-81.545645,1
+NC,3761860,place:NC:3761860,Siler City town,Siler City,Siler City,37037,Chatham County,Incorporated place,35.728071,-79.464287,1
+NC,3761920,place:NC:3761920,Silver City CDP,Silver City,Silver City,37093,Hoke County,Census-designated place,34.997243,-79.229185,1
+NC,3761950,place:NC:3761950,Silver Lake CDP,Silver Lake,Silver Lake,37129,New Hanover County,Census-designated place,34.142541,-77.909284,1
+NC,3762040,place:NC:3762040,Simpson village,Simpson,Simpson,37147,Pitt County,Incorporated place,35.575293,-77.278981,1
+NC,3762060,place:NC:3762060,Sims town,Sims,Sims,37195,Wilson County,Incorporated place,35.75938,-78.060171,1
+NC,3762190,place:NC:3762190,Skippers Corner CDP,Skippers Corner,Skippers Corner,37129,New Hanover County,Census-designated place,34.326718,-77.914625,1
+NC,3762520,place:NC:3762520,Smithfield town,Smithfield,Smithfield,37101,Johnston County,Incorporated place,35.523624,-78.3522,1
+NC,3762580,place:NC:3762580,Smithtown CDP,Smithtown,Smithtown,37197,Yadkin County,Census-designated place,36.232619,-80.567704,1
+NC,3762680,place:NC:3762680,Sneads Ferry CDP,Sneads Ferry,Sneads Ferry,37133,Onslow County,Census-designated place,34.540427,-77.418387,1
+NC,3762760,place:NC:3762760,Snow Hill town,Snow Hill,Snow Hill,37079,Greene County,Incorporated place,35.449991,-77.676498,1
+NC,3763240,place:NC:3763240,South Henderson CDP,South Henderson,South Henderson,37181,Vance County,Census-designated place,36.303304,-78.405945,1
+NC,3763340,place:NC:3763340,South Mills CDP,South Mills,South Mills,37029,Camden County,Census-designated place,36.437866,-76.33074,1
+NC,3763470,place:NC:3763470,South Rosemary CDP,South Rosemary,South Rosemary,37083,Halifax County,Census-designated place,36.453357,-77.713421,1
+NC,3763560,place:NC:3763560,South Weldon CDP,South Weldon,South Weldon,37083,Halifax County,Census-designated place,36.413547,-77.602424,1
+NC,3763120,place:NC:3763120,Southern Pines town,Southern Pines,Southern Pines,37125,Moore County,Incorporated place,35.195039,-79.402053,1
+NC,3763130,place:NC:3763130,Southern Shores town,Southern Shores,Southern Shores,37055,Dare County,Incorporated place,36.116745,-75.732997,1
+NC,3763360,place:NC:3763360,Southmont CDP,Southmont,Southmont,37057,Davidson County,Census-designated place,35.650427,-80.276024,1
+NC,3763400,place:NC:3763400,Southport city,Southport,Southport,37019,Brunswick County,Incorporated place,33.933326,-78.008458,1
+NC,3763565,place:NC:3763565,Southwest CDP,Southwest,Southwest,37133,Onslow County,Census-designated place,34.743417,-77.517725,0
+NC,3763680,place:NC:3763680,Sparta town,Sparta,Sparta,37005,Alleghany County,Incorporated place,36.50173,-81.120863,1
+NC,3763720,place:NC:3763720,Speed town,Speed,Speed,37065,Edgecombe County,Incorporated place,35.968503,-77.444466,1
+NC,3763760,place:NC:3763760,Spencer town,Spencer,Spencer,37159,Rowan County,Incorporated place,35.699997,-80.421147,1
+NC,3763780,place:NC:3763780,Spencer Mountain town,Spencer Mountain,Spencer Mountain,37071,Gaston County,Incorporated place,35.308557,-81.113372,1
+NC,3763880,place:NC:3763880,Spindale town,Spindale,Spindale,37161,Rutherford County,Incorporated place,35.359918,-81.923331,1
+NC,3763920,place:NC:3763920,Spivey's Corner CDP,Spivey's Corner,Spivey's Corner,37163,Sampson County,Census-designated place,35.198222,-78.482562,1
+NC,3764000,place:NC:3764000,Spout Springs CDP,Spout Springs,Spout Springs,37085,Harnett County,Census-designated place,35.273617,-79.045622,1
+NC,3764160,place:NC:3764160,Spring Hope town,Spring Hope,Spring Hope,37127,Nash County,Incorporated place,35.945135,-78.109064,1
+NC,3764180,place:NC:3764180,Spring Lake town,Spring Lake,Spring Lake,37051,Cumberland County,Incorporated place,35.184548,-78.994693,1
+NC,3764050,place:NC:3764050,Springdale CDP,Springdale,Springdale,37071,Gaston County,Census-designated place,35.29029,-81.145293,1
+NC,3764260,place:NC:3764260,Spruce Pine town,Spruce Pine,Spruce Pine,37121,Mitchell County,Incorporated place,35.913966,-82.069701,1
+NC,3758620,place:NC:3758620,St. Helena village,St. Helena,St. Helena,37141,Pender County,Incorporated place,34.516623,-77.917394,1
+NC,3758630,place:NC:3758630,St. James town,St. James,St. James,37019,Brunswick County,Incorporated place,33.94436,-78.100306,1
+NC,3758720,place:NC:3758720,St. Pauls town,St. Pauls,St. Pauls,37155,Robeson County,Incorporated place,34.812299,-78.981505,1
+NC,3758730,place:NC:3758730,St. Stephens CDP,St. Stephens,St. Stephens,37035,Catawba County,Census-designated place,35.74347,-81.258956,1
+NC,3764380,place:NC:3764380,Staley town,Staley,Staley,37151,Randolph County,Incorporated place,35.797947,-79.551736,1
+NC,3764420,place:NC:3764420,Stallings town,Stallings,Stallings,37179,Union County,Incorporated place,35.111249,-80.658497,1
+NC,3764460,place:NC:3764460,Stanfield town,Stanfield,Stanfield,37167,Stanly County,Incorporated place,35.233686,-80.430417,1
+NC,3764500,place:NC:3764500,Stanley town,Stanley,Stanley,37071,Gaston County,Incorporated place,35.354694,-81.091819,1
+NC,3764560,place:NC:3764560,Stantonsburg town,Stantonsburg,Stantonsburg,37195,Wilson County,Incorporated place,35.604996,-77.818345,1
+NC,3764580,place:NC:3764580,Star town,Star,Star,37123,Montgomery County,Incorporated place,35.397886,-79.783464,1
+NC,3764740,place:NC:3764740,Statesville city,Statesville,Statesville,37097,Iredell County,Incorporated place,35.783369,-80.871654,1
+NC,3764840,place:NC:3764840,Stedman town,Stedman,Stedman,37051,Cumberland County,Incorporated place,35.013483,-78.700126,1
+NC,3764940,place:NC:3764940,Stem town,Stem,Stem,37077,Granville County,Incorporated place,36.195694,-78.722166,1
+NC,3765020,place:NC:3765020,Stokes CDP,Stokes,Stokes,37147,Pitt County,Census-designated place,35.710541,-77.267597,1
+NC,3765040,place:NC:3765040,Stokesdale town,Stokesdale,Stokesdale,37081,Guilford County,Incorporated place,36.221459,-79.976983,1
+NC,3765100,place:NC:3765100,Stoneville town,Stoneville,Stoneville,37157,Rockingham County,Incorporated place,36.465242,-79.9066,1
+NC,3765120,place:NC:3765120,Stonewall town,Stonewall,Stonewall,37137,Pamlico County,Incorporated place,35.139622,-76.750411,1
+NC,3765260,place:NC:3765260,Stony Point CDP,Stony Point,Stony Point,37003,Alexander County,Census-designated place,35.867809,-81.044121,1
+NC,3765320,place:NC:3765320,Stovall town,Stovall,Stovall,37077,Granville County,Incorporated place,36.441966,-78.57331,1
+NC,3765530,place:NC:3765530,Sugar Mountain village,Sugar Mountain,Sugar Mountain,37011,Avery County,Incorporated place,36.126382,-81.864743,1
+NC,3765580,place:NC:3765580,Summerfield town,Summerfield,Summerfield,37081,Guilford County,Incorporated place,36.196913,-79.89721,1
+NC,3765700,place:NC:3765700,Sunbury CDP,Sunbury,Sunbury,37073,Gates County,Census-designated place,36.446894,-76.612732,1
+NC,3765900,place:NC:3765900,Sunset Beach town,Sunset Beach,Sunset Beach,37019,Brunswick County,Incorporated place,33.892266,-78.507281,1
+NC,3766040,place:NC:3766040,Surf City town,Surf City,Surf City,37141,Pender County,Incorporated place,34.434843,-77.564172,1
+NC,3766340,place:NC:3766340,Swan Quarter CDP,Swan Quarter,Swan Quarter,37095,Hyde County,Census-designated place,35.413034,-76.319711,1
+NC,3766280,place:NC:3766280,Swannanoa CDP,Swannanoa,Swannanoa,37021,Buncombe County,Census-designated place,35.600972,-82.38827,1
+NC,3766360,place:NC:3766360,Swansboro town,Swansboro,Swansboro,37133,Onslow County,Incorporated place,34.692383,-77.140812,1
+NC,3766460,place:NC:3766460,Swepsonville town,Swepsonville,Swepsonville,37001,Alamance County,Incorporated place,36.030306,-79.354522,1
+NC,3766500,place:NC:3766500,Sylva town,Sylva,Sylva,37099,Jackson County,Incorporated place,35.37581,-83.218563,1
+NC,3766520,place:NC:3766520,Tabor City town,Tabor City,Tabor City,37047,Columbus County,Incorporated place,34.154503,-78.873181,1
+NC,3766740,place:NC:3766740,Tar Heel town,Tar Heel,Tar Heel,37017,Bladen County,Incorporated place,34.733896,-78.790896,1
+NC,3766700,place:NC:3766700,Tarboro town,Tarboro,Tarboro,37065,Edgecombe County,Incorporated place,35.904242,-77.555541,1
+NC,3766960,place:NC:3766960,Taylorsville town,Taylorsville,Taylorsville,37003,Alexander County,Incorporated place,35.916779,-81.175951,1
+NC,3766980,place:NC:3766980,Taylortown town,Taylortown,Taylortown,37125,Moore County,Incorporated place,35.214623,-79.491651,1
+NC,3767000,place:NC:3767000,Teachey town,Teachey,Teachey,37061,Duplin County,Incorporated place,34.770475,-78.007053,1
+NC,3767420,place:NC:3767420,Thomasville city,Thomasville,Thomasville,37057,Davidson County,Incorporated place,35.881308,-80.081549,1
+NC,3767700,place:NC:3767700,Toast CDP,Toast,Toast,37171,Surry County,Census-designated place,36.496679,-80.635453,1
+NC,3767720,place:NC:3767720,Tobaccoville village,Tobaccoville,Tobaccoville,37067,Forsyth County,Incorporated place,36.225597,-80.358846,1
+NC,3768040,place:NC:3768040,Topsail Beach town,Topsail Beach,Topsail Beach,37141,Pender County,Incorporated place,34.366371,-77.647572,1
+NC,3768340,place:NC:3768340,Trent Woods town,Trent Woods,Trent Woods,37049,Craven County,Incorporated place,35.082008,-77.091963,1
+NC,3768320,place:NC:3768320,Trenton town,Trenton,Trenton,37103,Jones County,Incorporated place,35.063306,-77.354643,1
+NC,3768400,place:NC:3768400,Trinity city,Trinity,Trinity,37151,Randolph County,Incorporated place,35.876794,-80.010447,1
+NC,3768500,place:NC:3768500,Troutman town,Troutman,Troutman,37097,Iredell County,Incorporated place,35.722147,-80.892965,1
+NC,3768520,place:NC:3768520,Troy town,Troy,Troy,37123,Montgomery County,Incorporated place,35.364193,-79.892872,1
+NC,3768580,place:NC:3768580,Tryon town,Tryon,Tryon,37149,Polk County,Incorporated place,35.208852,-82.237957,1
+NC,3768740,place:NC:3768740,Turkey town,Turkey,Turkey,37163,Sampson County,Incorporated place,34.995035,-78.184152,1
+NC,3769020,place:NC:3769020,Tyro CDP,Tyro,Tyro,37057,Davidson County,Census-designated place,35.799712,-80.376446,1
+NC,3769260,place:NC:3769260,Unionville town,Unionville,Unionville,37179,Union County,Incorporated place,35.078492,-80.517126,1
+NC,3769520,place:NC:3769520,Valdese town,Valdese,Valdese,37023,Burke County,Incorporated place,35.753404,-81.572797,1
+NC,3769600,place:NC:3769600,Valle Crucis CDP,Valle Crucis,Valle Crucis,37189,Watauga County,Census-designated place,36.215626,-81.796639,1
+NC,3769640,place:NC:3769640,Valley Hill CDP,Valley Hill,Valley Hill,37089,Henderson County,Census-designated place,35.293902,-82.492677,1
+NC,3769680,place:NC:3769680,Vanceboro town,Vanceboro,Vanceboro,37049,Craven County,Incorporated place,35.303069,-77.156707,1
+NC,3769720,place:NC:3769720,Vandemere town,Vandemere,Vandemere,37137,Pamlico County,Incorporated place,35.188914,-76.665683,1
+NC,3769740,place:NC:3769740,Vander CDP,Vander,Vander,37051,Cumberland County,Census-designated place,35.034465,-78.787975,1
+NC,3769755,place:NC:3769755,Vann Crossroads CDP,Vann Crossroads,Vann Crossroads,37163,Sampson County,Census-designated place,35.170129,-78.40411,1
+NC,3769795,place:NC:3769795,Varnamtown town,Varnamtown,Varnamtown,37019,Brunswick County,Incorporated place,33.946408,-78.232472,1
+NC,3769840,place:NC:3769840,Vass town,Vass,Vass,37125,Moore County,Incorporated place,35.253875,-79.284645,1
+NC,3769940,place:NC:3769940,Verona CDP,Verona,Verona,37133,Onslow County,Census-designated place,34.682895,-77.494108,0
+NC,3770320,place:NC:3770320,Waco town,Waco,Waco,37045,Cleveland County,Incorporated place,35.362648,-81.429329,1
+NC,3770340,place:NC:3770340,Wade town,Wade,Wade,37051,Cumberland County,Incorporated place,35.163714,-78.739724,1
+NC,3770380,place:NC:3770380,Wadesboro town,Wadesboro,Wadesboro,37007,Anson County,Incorporated place,34.963829,-80.074694,1
+NC,3770480,place:NC:3770480,Wagram town,Wagram,Wagram,37165,Scotland County,Incorporated place,34.8891,-79.365208,1
+NC,3770540,place:NC:3770540,Wake Forest town,Wake Forest,Wake Forest,37183,Wake County,Incorporated place,35.963685,-78.51174,1
+NC,3770580,place:NC:3770580,Wakulla CDP,Wakulla,Wakulla,37155,Robeson County,Census-designated place,34.796961,-79.25597,1
+NC,3770660,place:NC:3770660,Walkertown town,Walkertown,Walkertown,37067,Forsyth County,Incorporated place,36.150077,-80.168875,1
+NC,3770720,place:NC:3770720,Wallace town,Wallace,Wallace,37061,Duplin County,Incorporated place,34.738319,-77.990404,1
+NC,3770740,place:NC:3770740,Wallburg town,Wallburg,Wallburg,37057,Davidson County,Incorporated place,36.013148,-80.166928,1
+NC,3770780,place:NC:3770780,Walnut Cove town,Walnut Cove,Walnut Cove,37169,Stokes County,Incorporated place,36.29354,-80.140898,1
+NC,3770820,place:NC:3770820,Walnut Creek village,Walnut Creek,Walnut Creek,37191,Wayne County,Incorporated place,35.309371,-77.874719,1
+NC,3770860,place:NC:3770860,Walstonburg town,Walstonburg,Walstonburg,37079,Greene County,Incorporated place,35.596014,-77.697824,1
+NC,3770920,place:NC:3770920,Wanchese CDP,Wanchese,Wanchese,37055,Dare County,Census-designated place,35.840187,-75.641657,1
+NC,3771100,place:NC:3771100,Warrenton town,Warrenton,Warrenton,37185,Warren County,Incorporated place,36.398976,-78.15701,1
+NC,3771160,place:NC:3771160,Warsaw town,Warsaw,Warsaw,37061,Duplin County,Incorporated place,34.999578,-78.092726,1
+NC,3771220,place:NC:3771220,Washington city,Washington,Washington,37013,Beaufort County,Incorporated place,35.564736,-77.047779,1
+NC,3771240,place:NC:3771240,Washington Park town,Washington Park,Washington Park,37013,Beaufort County,Incorporated place,35.532862,-77.03158,1
+NC,3771320,place:NC:3771320,Watha town,Watha,Watha,37141,Pender County,Incorporated place,34.647591,-77.962052,1
+NC,3771440,place:NC:3771440,Waves CDP,Waves,Waves,37055,Dare County,Census-designated place,35.569385,-75.465279,1
+NC,3771460,place:NC:3771460,Waxhaw town,Waxhaw,Waxhaw,37179,Union County,Incorporated place,34.937476,-80.739966,1
+NC,3771500,place:NC:3771500,Waynesville town,Waynesville,Waynesville,37087,Haywood County,Incorporated place,35.485708,-82.999103,1
+NC,3771560,place:NC:3771560,Weaverville town,Weaverville,Weaverville,37021,Buncombe County,Incorporated place,35.695045,-82.558885,1
+NC,3771600,place:NC:3771600,Webster town,Webster,Webster,37099,Jackson County,Incorporated place,35.350464,-83.217974,1
+NC,3771680,place:NC:3771680,Weddington town,Weddington,Weddington,37179,Union County,Incorporated place,35.022127,-80.735422,1
+NC,3771760,place:NC:3771760,Welcome CDP,Welcome,Welcome,37057,Davidson County,Census-designated place,35.906624,-80.254773,1
+NC,3771780,place:NC:3771780,Weldon town,Weldon,Weldon,37083,Halifax County,Incorporated place,36.424005,-77.612894,1
+NC,3771860,place:NC:3771860,Wendell town,Wendell,Wendell,37183,Wake County,Incorporated place,35.783262,-78.388679,1
+NC,3771900,place:NC:3771900,Wentworth town,Wentworth,Wentworth,37157,Rockingham County,Incorporated place,36.401153,-79.75689,1
+NC,3771940,place:NC:3771940,Wesley Chapel village,Wesley Chapel,Wesley Chapel,37179,Union County,Incorporated place,35.005881,-80.69346,1
+NC,3772150,place:NC:3772150,West Canton CDP,West Canton,West Canton,37087,Haywood County,Census-designated place,35.538745,-82.864725,1
+NC,3772540,place:NC:3772540,West Jefferson town,West Jefferson,West Jefferson,37009,Ashe County,Incorporated place,36.386104,-81.489179,1
+NC,3772600,place:NC:3772600,West Marion CDP,West Marion,West Marion,37111,McDowell County,Census-designated place,35.652566,-82.01922,1
+NC,3772755,place:NC:3772755,Westport CDP,Westport,Westport,37109,Lincoln County,Census-designated place,35.50112,-80.96932,1
+NC,3773140,place:NC:3773140,Whispering Pines village,Whispering Pines,Whispering Pines,37125,Moore County,Incorporated place,35.247743,-79.37132,1
+NC,3773160,place:NC:3773160,Whitakers town,Whitakers,Whitakers,37127,Nash County,Incorporated place,36.105704,-77.712972,1
+NC,3773300,place:NC:3773300,White Lake town,White Lake,White Lake,37017,Bladen County,Incorporated place,34.646904,-78.488636,1
+NC,3773320,place:NC:3773320,White Oak CDP,White Oak,White Oak,37017,Bladen County,Census-designated place,34.739661,-78.71859,1
+NC,3773460,place:NC:3773460,White Plains CDP,White Plains,White Plains,37171,Surry County,Census-designated place,36.443767,-80.649002,1
+NC,3773660,place:NC:3773660,Whiteville city,Whiteville,Whiteville,37047,Columbus County,Incorporated place,34.330457,-78.701436,1
+NC,3773760,place:NC:3773760,Whitsett town,Whitsett,Whitsett,37081,Guilford County,Incorporated place,36.082709,-79.569844,1
+NC,3773780,place:NC:3773780,Whittier CDP,Whittier,Whittier,37099,Jackson County,Census-designated place,35.434691,-83.354784,1
+NC,3774020,place:NC:3774020,Wilkesboro town,Wilkesboro,Wilkesboro,37193,Wilkes County,Incorporated place,36.142444,-81.176974,1
+NC,3774220,place:NC:3774220,Williamston town,Williamston,Williamston,37117,Martin County,Incorporated place,35.846539,-77.066078,1
+NC,3774440,place:NC:3774440,Wilmington city,Wilmington,Wilmington,37129,New Hanover County,Incorporated place,34.209225,-77.885767,1
+NC,3774540,place:NC:3774540,Wilson city,Wilson,Wilson,37195,Wilson County,Incorporated place,35.731503,-77.930722,1
+NC,3774580,place:NC:3774580,Wilson's Mills town,Wilson's Mills,Wilson's Mills,37101,Johnston County,Incorporated place,35.585968,-78.362863,1
+NC,3774680,place:NC:3774680,Windsor town,Windsor,Windsor,37015,Bertie County,Incorporated place,35.993046,-76.939899,1
+NC,3774720,place:NC:3774720,Winfall town,Winfall,Winfall,37143,Perquimans County,Incorporated place,36.211636,-76.456739,1
+NC,3774760,place:NC:3774760,Wingate town,Wingate,Wingate,37179,Union County,Incorporated place,34.987691,-80.446398,1
+NC,3775000,place:NC:3775000,Winston-Salem city,Winston-Salem,Winston-Salem,37067,Forsyth County,Incorporated place,36.102863,-80.260829,1
+NC,3775060,place:NC:3775060,Winterville town,Winterville,Winterville,37147,Pitt County,Incorporated place,35.52704,-77.398583,1
+NC,3775080,place:NC:3775080,Winton town,Winton,Winton,37091,Hertford County,Incorporated place,36.389448,-76.934729,1
+NC,3775280,place:NC:3775280,Woodfin town,Woodfin,Woodfin,37021,Buncombe County,Incorporated place,35.646492,-82.586616,1
+NC,3775340,place:NC:3775340,Woodland town,Woodland,Woodland,37131,Northampton County,Incorporated place,36.330615,-77.214912,1
+NC,3775375,place:NC:3775375,Woodlawn CDP,Woodlawn,Woodlawn,37001,Alamance County,Census-designated place,36.117957,-79.29592,1
+NC,3775780,place:NC:3775780,Wrightsboro CDP,Wrightsboro,Wrightsboro,37129,New Hanover County,Census-designated place,34.290867,-77.925923,1
+NC,3775820,place:NC:3775820,Wrightsville Beach town,Wrightsville Beach,Wrightsville Beach,37129,New Hanover County,Incorporated place,34.212991,-77.797924,1
+NC,3775880,place:NC:3775880,Yadkin College CDP,Yadkin College,Yadkin College,37057,Davidson County,Census-designated place,35.872466,-80.387102,1
+NC,3775960,place:NC:3775960,Yadkinville town,Yadkinville,Yadkinville,37197,Yadkin County,Incorporated place,36.130991,-80.657748,1
+NC,3776000,place:NC:3776000,Yanceyville town,Yanceyville,Yanceyville,37033,Caswell County,Incorporated place,36.413594,-79.342471,1
+NC,3776200,place:NC:3776200,Youngsville town,Youngsville,Youngsville,37069,Franklin County,Incorporated place,36.035068,-78.48165,1
+NC,3776220,place:NC:3776220,Zebulon town,Zebulon,Zebulon,37183,Wake County,Incorporated place,35.829542,-78.314158,1

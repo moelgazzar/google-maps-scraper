@@ -1,0 +1,640 @@
+state,place_geoid,place_scope,census_name,place,search_label,representative_county_geoid,representative_county,type,lat,lon,has_2020_zip_overlap
+WA,5300100,place:WA:5300100,Aberdeen city,Aberdeen,Aberdeen,53027,Grays Harbor County,Incorporated place,46.975205,-123.811373,1
+WA,5300135,place:WA:5300135,Aberdeen Gardens CDP,Aberdeen Gardens,Aberdeen Gardens,53027,Grays Harbor County,Census-designated place,47.057318,-123.777916,1
+WA,5300275,place:WA:5300275,Acme CDP,Acme,Acme,53073,Whatcom County,Census-designated place,48.716429,-122.209962,1
+WA,5300380,place:WA:5300380,Addy CDP,Addy,Addy,53065,Stevens County,Census-designated place,48.358908,-117.837187,1
+WA,5300800,place:WA:5300800,Ahtanum CDP,Ahtanum,Ahtanum,53077,Yakima County,Census-designated place,46.556989,-120.614827,1
+WA,5300905,place:WA:5300905,Airway Heights city,Airway Heights,Airway Heights,53063,Spokane County,Incorporated place,47.645943,-117.579197,1
+WA,5301010,place:WA:5301010,Albion town,Albion,Albion,53075,Whitman County,Incorporated place,46.7916,-117.251227,1
+WA,5301045,place:WA:5301045,Alder CDP,Alder,Alder,53053,Pierce County,Census-designated place,46.783319,-122.270527,1
+WA,5301150,place:WA:5301150,Alderton CDP,Alderton,Alderton,53053,Pierce County,Census-designated place,47.178641,-122.22255,1
+WA,5301185,place:WA:5301185,Alderwood Manor CDP,Alderwood Manor,Alderwood Manor,53061,Snohomish County,Census-designated place,47.81457,-122.267154,1
+WA,5301255,place:WA:5301255,Alger CDP,Alger,Alger,53057,Skagit County,Census-designated place,48.61047,-122.329254,1
+WA,5301290,place:WA:5301290,Algona city,Algona,Algona,53033,King County,Incorporated place,47.281987,-122.250467,1
+WA,5301430,place:WA:5301430,Allyn CDP,Allyn,Allyn,53045,Mason County,Census-designated place,47.386829,-122.839334,1
+WA,5301500,place:WA:5301500,Almira town,Almira,Almira,53043,Lincoln County,Incorporated place,47.710609,-118.93699,1
+WA,5301745,place:WA:5301745,Altoona CDP,Altoona,Altoona,53069,Wahkiakum County,Census-designated place,46.269739,-123.621217,1
+WA,5301780,place:WA:5301780,Amanda Park CDP,Amanda Park,Amanda Park,53027,Grays Harbor County,Census-designated place,47.45292,-123.927765,1
+WA,5301850,place:WA:5301850,Amboy CDP,Amboy,Amboy,53011,Clark County,Census-designated place,45.916011,-122.488604,1
+WA,5301920,place:WA:5301920,Ames Lake CDP,Ames Lake,Ames Lake,53033,King County,Census-designated place,47.633966,-121.960584,1
+WA,5301990,place:WA:5301990,Anacortes city,Anacortes,Anacortes,53057,Skagit County,Incorporated place,48.488725,-122.62398,1
+WA,5302025,place:WA:5302025,Anatone CDP,Anatone,Anatone,53003,Asotin County,Census-designated place,46.135417,-117.132454,1
+WA,5302060,place:WA:5302060,Anderson Island CDP,Anderson Island,Anderson Island,53053,Pierce County,Census-designated place,47.149874,-122.681692,1
+WA,5302585,place:WA:5302585,Arlington city,Arlington,Arlington,53061,Snohomish County,Incorporated place,48.170372,-122.144553,1
+WA,5302620,place:WA:5302620,Arlington Heights CDP,Arlington Heights,Arlington Heights,53061,Snohomish County,Census-designated place,48.211929,-122.062995,1
+WA,5302910,place:WA:5302910,Artondale CDP,Artondale,Artondale,53053,Pierce County,Census-designated place,47.303462,-122.652428,1
+WA,5303005,place:WA:5303005,Ashford CDP,Ashford,Ashford,53053,Pierce County,Census-designated place,46.754853,-122.015472,1
+WA,5303075,place:WA:5303075,Asotin city,Asotin,Asotin,53003,Asotin County,Incorporated place,46.333727,-117.039802,1
+WA,5303180,place:WA:5303180,Auburn city,Auburn,Auburn,53033,King County,Incorporated place,47.304622,-122.210455,1
+WA,5303736,place:WA:5303736,Bainbridge Island city,Bainbridge Island,Bainbridge Island,53035,Kitsap County,Incorporated place,47.642487,-122.507764,1
+WA,5304100,place:WA:5304100,Bangor Base CDP,Bangor Base,Bangor Base,53035,Kitsap County,Census-designated place,47.722257,-122.714126,1
+WA,5304125,place:WA:5304125,Banks Lake South CDP,Banks Lake South,Banks Lake South,53025,Grant County,Census-designated place,47.630072,-119.274437,1
+WA,5304195,place:WA:5304195,Barberton CDP,Barberton,Barberton,53011,Clark County,Census-designated place,45.713634,-122.611443,1
+WA,5304300,place:WA:5304300,Baring CDP,Baring,Baring,53033,King County,Census-designated place,47.768598,-121.481977,1
+WA,5304347,place:WA:5304347,Barney's Junction CDP,Barney's Junction,Barney's Junction,53019,Ferry County,Census-designated place,48.620395,-118.128962,1
+WA,5304370,place:WA:5304370,Barstow CDP,Barstow,Barstow,53019,Ferry County,Census-designated place,48.778304,-118.132862,1
+WA,5304405,place:WA:5304405,Basin City CDP,Basin City,Basin City,53021,Franklin County,Census-designated place,46.589039,-119.156647,1
+WA,5304475,place:WA:5304475,Battle Ground city,Battle Ground,Battle Ground,53011,Clark County,Incorporated place,45.776879,-122.541065,1
+WA,5304615,place:WA:5304615,Bay Center CDP,Bay Center,Bay Center,53049,Pacific County,Census-designated place,46.620753,-123.953182,1
+WA,5304790,place:WA:5304790,Bay View CDP,Bay View,Bay View,53057,Skagit County,Census-designated place,48.487,-122.462553,1
+WA,5304825,place:WA:5304825,Beacon Hill CDP,Beacon Hill,Beacon Hill,53015,Cowlitz County,Census-designated place,46.171049,-122.920586,1
+WA,5304895,place:WA:5304895,Beaux Arts Village town,Beaux Arts Village,Beaux Arts Village,53033,King County,Incorporated place,47.585352,-122.203646,1
+WA,5305140,place:WA:5305140,Belfair CDP,Belfair,Belfair,53045,Mason County,Census-designated place,47.446821,-122.852831,1
+WA,5305245,place:WA:5305245,Bell Hill CDP,Bell Hill,Bell Hill,53009,Clallam County,Census-designated place,48.05495,-123.086977,1
+WA,5305210,place:WA:5305210,Bellevue city,Bellevue,Bellevue,53033,King County,Incorporated place,47.597425,-122.157467,1
+WA,5305280,place:WA:5305280,Bellingham city,Bellingham,Bellingham,53073,Whatcom County,Incorporated place,48.753442,-122.470179,1
+WA,5305560,place:WA:5305560,Benton City city,Benton City,Benton City,53005,Benton County,Incorporated place,46.261275,-119.477712,1
+WA,5305735,place:WA:5305735,Bethel CDP,Bethel,Bethel,53035,Kitsap County,Census-designated place,47.4874,-122.617517,1
+WA,5305770,place:WA:5305770,Beverly CDP,Beverly,Beverly,53025,Grant County,Census-designated place,46.834819,-119.930266,1
+WA,5305980,place:WA:5305980,Bickleton CDP,Bickleton,Bickleton,53039,Klickitat County,Census-designated place,46.005641,-120.30798,1
+WA,5306050,place:WA:5306050,Big Lake CDP,Big Lake,Big Lake,53057,Skagit County,Census-designated place,48.395839,-122.243228,1
+WA,5306085,place:WA:5306085,Bingen city,Bingen,Bingen,53039,Klickitat County,Incorporated place,45.713108,-121.471778,1
+WA,5306190,place:WA:5306190,Birch Bay CDP,Birch Bay,Birch Bay,53073,Whatcom County,Census-designated place,48.923367,-122.745262,1
+WA,5306330,place:WA:5306330,Black Diamond city,Black Diamond,Black Diamond,53033,King County,Incorporated place,47.312054,-122.017437,1
+WA,5306505,place:WA:5306505,Blaine city,Blaine,Blaine,53073,Whatcom County,Incorporated place,48.98719,-122.74877,1
+WA,5306855,place:WA:5306855,Blyn CDP,Blyn,Blyn,53009,Clallam County,Census-designated place,48.009394,-122.980056,1
+WA,5307170,place:WA:5307170,Bonney Lake city,Bonney Lake,Bonney Lake,53053,Pierce County,Incorporated place,47.199921,-122.163222,1
+WA,5307380,place:WA:5307380,Bothell city,Bothell,Bothell,53033,King County,Incorporated place,47.773531,-122.204376,1
+WA,5307390,place:WA:5307390,Bothell East CDP,Bothell East,Bothell East,53061,Snohomish County,Census-designated place,47.806352,-122.184394,1
+WA,5307395,place:WA:5307395,Bothell West CDP,Bothell West,Bothell West,53061,Snohomish County,Census-designated place,47.805597,-122.24011,1
+WA,5307397,place:WA:5307397,Boulevard Park CDP,Boulevard Park,Boulevard Park,53033,King County,Census-designated place,47.513403,-122.314844,1
+WA,5307450,place:WA:5307450,Bow CDP,Bow,Bow,53057,Skagit County,Census-designated place,48.561285,-122.407762,1
+WA,5307485,place:WA:5307485,Boyds CDP,Boyds,Boyds,53019,Ferry County,Census-designated place,48.724435,-118.132084,1
+WA,5307590,place:WA:5307590,Brady CDP,Brady,Brady,53027,Grays Harbor County,Census-designated place,47.003902,-123.542637,1
+WA,5307695,place:WA:5307695,Bremerton city,Bremerton,Bremerton,53035,Kitsap County,Incorporated place,47.539967,-122.717063,1
+WA,5307835,place:WA:5307835,Brewster city,Brewster,Brewster,53047,Okanogan County,Incorporated place,48.106954,-119.769827,1
+WA,5307870,place:WA:5307870,Bridgeport city,Bridgeport,Bridgeport,53017,Douglas County,Incorporated place,48.007006,-119.672533,1
+WA,5307940,place:WA:5307940,Brier city,Brier,Brier,53061,Snohomish County,Incorporated place,47.792388,-122.273432,1
+WA,5308080,place:WA:5308080,Brinnon CDP,Brinnon,Brinnon,53031,Jefferson County,Census-designated place,47.668614,-122.9166,1
+WA,5308325,place:WA:5308325,Browns Point CDP,Browns Point,Browns Point,53053,Pierce County,Census-designated place,47.303796,-122.43672,1
+WA,5308465,place:WA:5308465,Brush Prairie CDP,Brush Prairie,Brush Prairie,53011,Clark County,Census-designated place,45.725043,-122.548327,1
+WA,5308500,place:WA:5308500,Bryant CDP,Bryant,Bryant,53061,Snohomish County,Census-designated place,48.246451,-122.178119,1
+WA,5308552,place:WA:5308552,Bryn Mawr-Skyway CDP,Bryn Mawr-Skyway,Bryn Mawr-Skyway,53033,King County,Census-designated place,47.494983,-122.240594,1
+WA,5308570,place:WA:5308570,Buckley city,Buckley,Buckley,53053,Pierce County,Incorporated place,47.162239,-122.020272,1
+WA,5308605,place:WA:5308605,Bucoda town,Bucoda,Bucoda,53067,Thurston County,Incorporated place,46.795101,-122.871576,1
+WA,5308640,place:WA:5308640,Buena CDP,Buena,Buena,53077,Yakima County,Census-designated place,46.427687,-120.318245,1
+WA,5308770,place:WA:5308770,Bunk Foss CDP,Bunk Foss,Bunk Foss,53061,Snohomish County,Census-designated place,47.961701,-122.094437,1
+WA,5308780,place:WA:5308780,Burbank CDP,Burbank,Burbank,53071,Walla Walla County,Census-designated place,46.198387,-118.983373,1
+WA,5308850,place:WA:5308850,Burien city,Burien,Burien,53033,King County,Incorporated place,47.475605,-122.344661,1
+WA,5308885,place:WA:5308885,Burley CDP,Burley,Burley,53035,Kitsap County,Census-designated place,47.415957,-122.644705,1
+WA,5308920,place:WA:5308920,Burlington city,Burlington,Burlington,53057,Skagit County,Incorporated place,48.464423,-122.331328,1
+WA,5309365,place:WA:5309365,Camano CDP,Camano,Camano,53029,Island County,Census-designated place,48.152467,-122.462132,1
+WA,5309480,place:WA:5309480,Camas city,Camas,Camas,53011,Clark County,Incorporated place,45.601809,-122.430381,1
+WA,5309810,place:WA:5309810,Canterwood CDP,Canterwood,Canterwood,53053,Pierce County,Census-designated place,47.376491,-122.602016,1
+WA,5309820,place:WA:5309820,Canyon Creek CDP,Canyon Creek,Canyon Creek,53061,Snohomish County,Census-designated place,48.110002,-121.982476,1
+WA,5309970,place:WA:5309970,Carbonado town,Carbonado,Carbonado,53053,Pierce County,Incorporated place,47.08232,-122.051841,1
+WA,5310075,place:WA:5310075,Carlsborg CDP,Carlsborg,Carlsborg,53009,Clallam County,Census-designated place,48.084167,-123.169679,1
+WA,5310215,place:WA:5310215,Carnation city,Carnation,Carnation,53033,King County,Incorporated place,47.644188,-121.90067,1
+WA,5310320,place:WA:5310320,Carson CDP,Carson,Carson,53059,Skamania County,Census-designated place,45.734805,-121.82621,1
+WA,5310455,place:WA:5310455,Cascade Valley CDP,Cascade Valley,Cascade Valley,53025,Grant County,Census-designated place,47.141022,-119.328343,1
+WA,5310495,place:WA:5310495,Cashmere city,Cashmere,Cashmere,53007,Chelan County,Incorporated place,47.518491,-120.468577,1
+WA,5310565,place:WA:5310565,Castle Rock city,Castle Rock,Castle Rock,53015,Cowlitz County,Incorporated place,46.271918,-122.903718,1
+WA,5310600,place:WA:5310600,Cathcart CDP,Cathcart,Cathcart,53061,Snohomish County,Census-designated place,47.852593,-122.10579,1
+WA,5310635,place:WA:5310635,Cathlamet town,Cathlamet,Cathlamet,53069,Wahkiakum County,Incorporated place,46.205847,-123.384016,1
+WA,5310645,place:WA:5310645,Cavalero CDP,Cavalero,Cavalero,53061,Snohomish County,Census-designated place,47.97495,-122.077075,1
+WA,5311090,place:WA:5311090,Centerville CDP,Centerville,Centerville,53039,Klickitat County,Census-designated place,45.753994,-120.90808,1
+WA,5311195,place:WA:5311195,Central Park CDP,Central Park,Central Park,53027,Grays Harbor County,Census-designated place,46.970457,-123.703088,1
+WA,5311160,place:WA:5311160,Centralia city,Centralia,Centralia,53041,Lewis County,Incorporated place,46.725358,-122.974815,1
+WA,5311325,place:WA:5311325,Chain Lake CDP,Chain Lake,Chain Lake,53061,Snohomish County,Census-designated place,47.902259,-121.98709,1
+WA,5311475,place:WA:5311475,Chehalis city,Chehalis,Chehalis,53041,Lewis County,Incorporated place,46.664176,-122.965425,1
+WA,5311615,place:WA:5311615,Chelan city,Chelan,Chelan,53007,Chelan County,Incorporated place,47.844282,-120.013572,1
+WA,5311685,place:WA:5311685,Chelan Falls CDP,Chelan Falls,Chelan Falls,53007,Chelan County,Census-designated place,47.799429,-119.988255,1
+WA,5311825,place:WA:5311825,Cheney city,Cheney,Cheney,53063,Spokane County,Incorporated place,47.49113,-117.581546,1
+WA,5312015,place:WA:5312015,Cherry Grove CDP,Cherry Grove,Cherry Grove,53011,Clark County,Census-designated place,45.802296,-122.576762,1
+WA,5312140,place:WA:5312140,Chewelah city,Chewelah,Chewelah,53065,Stevens County,Incorporated place,48.28264,-117.716945,1
+WA,5312175,place:WA:5312175,Chico CDP,Chico,Chico,53035,Kitsap County,Census-designated place,47.622554,-122.719306,1
+WA,5312315,place:WA:5312315,Chinook CDP,Chinook,Chinook,53049,Pacific County,Census-designated place,46.27552,-123.942213,1
+WA,5312525,place:WA:5312525,Clallam Bay CDP,Clallam Bay,Clallam Bay,53009,Clallam County,Census-designated place,48.25352,-124.257783,1
+WA,5312630,place:WA:5312630,Clarkston city,Clarkston,Clarkston,53003,Asotin County,Incorporated place,46.415405,-117.050135,1
+WA,5312680,place:WA:5312680,Clarkston Heights-Vineland CDP,Clarkston Heights-Vineland,Clarkston Heights-Vineland,53003,Asotin County,Census-designated place,46.375355,-117.09176,1
+WA,5312735,place:WA:5312735,Clayton CDP,Clayton,Clayton,53065,Stevens County,Census-designated place,48.001222,-117.561155,1
+WA,5312945,place:WA:5312945,Cle Elum city,Cle Elum,Cle Elum,53037,Kittitas County,Incorporated place,47.194825,-120.95225,1
+WA,5312820,place:WA:5312820,Clear Lake CDP,Clear Lake,"Clear Lake, Pierce County",53053,Pierce County,Census-designated place,46.92844,-122.304963,1
+WA,5312840,place:WA:5312840,Clear Lake CDP,Clear Lake,"Clear Lake, Skagit County",53057,Skagit County,Census-designated place,48.448301,-122.23949,1
+WA,5312875,place:WA:5312875,Clearview CDP,Clearview,Clearview,53061,Snohomish County,Census-designated place,47.829183,-122.145145,1
+WA,5313015,place:WA:5313015,Cliffdell CDP,Cliffdell,Cliffdell,53077,Yakima County,Census-designated place,46.922197,-121.043014,1
+WA,5313155,place:WA:5313155,Clinton CDP,Clinton,Clinton,53029,Island County,Census-designated place,47.962381,-122.352274,1
+WA,5313215,place:WA:5313215,Clover Creek CDP,Clover Creek,Clover Creek,53053,Pierce County,Census-designated place,47.143938,-122.38113,1
+WA,5313365,place:WA:5313365,Clyde Hill city,Clyde Hill,Clyde Hill,53033,King County,Incorporated place,47.630354,-122.217983,1
+WA,5313595,place:WA:5313595,Cohassett Beach CDP,Cohassett Beach,Cohassett Beach,53027,Grays Harbor County,Census-designated place,46.86493,-124.106106,1
+WA,5313785,place:WA:5313785,Colfax city,Colfax,Colfax,53075,Whitman County,Incorporated place,46.910839,-117.328963,1
+WA,5313855,place:WA:5313855,College Place city,College Place,College Place,53071,Walla Walla County,Incorporated place,46.041752,-118.392438,1
+WA,5313890,place:WA:5313890,Colton town,Colton,Colton,53075,Whitman County,Incorporated place,46.567467,-117.128445,1
+WA,5314170,place:WA:5314170,Colville city,Colville,Colville,53065,Stevens County,Incorporated place,48.545448,-117.898479,1
+WA,5314310,place:WA:5314310,Conconully town,Conconully,Conconully,53047,Okanogan County,Incorporated place,48.558553,-119.752129,1
+WA,5314380,place:WA:5314380,Concrete town,Concrete,Concrete,53057,Skagit County,Incorporated place,48.532832,-121.754063,1
+WA,5314485,place:WA:5314485,Connell city,Connell,Connell,53021,Franklin County,Incorporated place,46.660492,-118.840553,1
+WA,5314520,place:WA:5314520,Conway CDP,Conway,Conway,53057,Skagit County,Census-designated place,48.335682,-122.344432,1
+WA,5314660,place:WA:5314660,Copalis Beach CDP,Copalis Beach,Copalis Beach,53027,Grays Harbor County,Census-designated place,47.124571,-124.166453,1
+WA,5314870,place:WA:5314870,Cosmopolis city,Cosmopolis,Cosmopolis,53027,Grays Harbor County,Incorporated place,46.954119,-123.773242,1
+WA,5314940,place:WA:5314940,Cottage Lake CDP,Cottage Lake,Cottage Lake,53033,King County,Census-designated place,47.746452,-122.075988,1
+WA,5315010,place:WA:5315010,Cougar CDP,Cougar,Cougar,53015,Cowlitz County,Census-designated place,46.049292,-122.303364,1
+WA,5315080,place:WA:5315080,Coulee City town,Coulee City,Coulee City,53025,Grant County,Incorporated place,47.611733,-119.289529,1
+WA,5315115,place:WA:5315115,Coulee Dam town,Coulee Dam,Coulee Dam,53047,Okanogan County,Incorporated place,47.968511,-118.97628,1
+WA,5315150,place:WA:5315150,Country Homes CDP,Country Homes,Country Homes,53063,Spokane County,Census-designated place,47.74785,-117.41987,1
+WA,5315185,place:WA:5315185,Coupeville town,Coupeville,Coupeville,53029,Island County,Incorporated place,48.218883,-122.679374,1
+WA,5315290,place:WA:5315290,Covington city,Covington,Covington,53033,King County,Incorporated place,47.364793,-122.104561,1
+WA,5315325,place:WA:5315325,Cowiche CDP,Cowiche,Cowiche,53077,Yakima County,Census-designated place,46.671898,-120.711936,1
+WA,5315603,place:WA:5315603,Crescent Bar CDP,Crescent Bar,Crescent Bar,53025,Grant County,Census-designated place,47.209055,-119.997107,1
+WA,5315710,place:WA:5315710,Creston town,Creston,Creston,53043,Lincoln County,Incorporated place,47.759415,-118.519913,1
+WA,5315780,place:WA:5315780,Crocker CDP,Crocker,Crocker,53053,Pierce County,Census-designated place,47.090754,-122.126938,1
+WA,5316165,place:WA:5316165,Curlew CDP,Curlew,Curlew,53019,Ferry County,Census-designated place,48.877715,-118.604516,1
+WA,5316170,place:WA:5316170,Curlew Lake CDP,Curlew Lake,Curlew Lake,53019,Ferry County,Census-designated place,48.732932,-118.668214,1
+WA,5316340,place:WA:5316340,Cusick town,Cusick,Cusick,53051,Pend Oreille County,Incorporated place,48.328546,-117.292568,1
+WA,5316375,place:WA:5316375,Custer CDP,Custer,Custer,53073,Whatcom County,Census-designated place,48.91285,-122.636994,1
+WA,5316550,place:WA:5316550,Dallesport CDP,Dallesport,Dallesport,53039,Klickitat County,Census-designated place,45.631587,-121.168919,1
+WA,5316585,place:WA:5316585,Danville CDP,Danville,Danville,53019,Ferry County,Census-designated place,48.993638,-118.506895,1
+WA,5316690,place:WA:5316690,Darrington town,Darrington,Darrington,53061,Snohomish County,Incorporated place,48.260832,-121.60715,1
+WA,5316760,place:WA:5316760,Dash Point CDP,Dash Point,Dash Point,53053,Pierce County,Census-designated place,47.31253,-122.413936,1
+WA,5316795,place:WA:5316795,Davenport city,Davenport,Davenport,53043,Lincoln County,Incorporated place,47.655042,-118.15188,1
+WA,5316970,place:WA:5316970,Dayton city,Dayton,Dayton,53013,Columbia County,Incorporated place,46.316788,-117.976762,1
+WA,5317215,place:WA:5317215,Deep River CDP,Deep River,Deep River,53069,Wahkiakum County,Census-designated place,46.353583,-123.70495,1
+WA,5317320,place:WA:5317320,Deer Park city,Deer Park,Deer Park,53063,Spokane County,Incorporated place,47.964205,-117.439788,1
+WA,5317495,place:WA:5317495,Deming CDP,Deming,Deming,53073,Whatcom County,Census-designated place,48.830359,-122.236134,1
+WA,5317635,place:WA:5317635,Des Moines city,Des Moines,Des Moines,53033,King County,Incorporated place,47.388708,-122.317581,1
+WA,5317617,place:WA:5317617,Desert Aire CDP,Desert Aire,Desert Aire,53025,Grant County,Census-designated place,46.694214,-119.92905,1
+WA,5317880,place:WA:5317880,Disautel CDP,Disautel,Disautel,53047,Okanogan County,Census-designated place,48.344519,-119.230075,1
+WA,5318055,place:WA:5318055,Dixie CDP,Dixie,Dixie,53071,Walla Walla County,Census-designated place,46.140434,-118.151897,1
+WA,5318198,place:WA:5318198,Dollars Corner CDP,Dollars Corner,Dollars Corner,53011,Clark County,Census-designated place,45.780236,-122.599968,1
+WA,5318265,place:WA:5318265,Donald CDP,Donald,Donald,53077,Yakima County,Census-designated place,46.476437,-120.397331,1
+WA,5318775,place:WA:5318775,Duluth CDP,Duluth,Duluth,53011,Clark County,Census-designated place,45.783819,-122.647039,1
+WA,5318965,place:WA:5318965,DuPont city,DuPont,DuPont,53053,Pierce County,Incorporated place,47.107351,-122.647576,1
+WA,5319035,place:WA:5319035,Duvall city,Duvall,Duvall,53033,King County,Incorporated place,47.735512,-121.972224,1
+WA,5319290,place:WA:5319290,East Cathlamet CDP,East Cathlamet,East Cathlamet,53069,Wahkiakum County,Census-designated place,46.198305,-123.359945,1
+WA,5319770,place:WA:5319770,East Port Orchard CDP,East Port Orchard,East Port Orchard,53035,Kitsap County,Census-designated place,47.519333,-122.618315,1
+WA,5319857,place:WA:5319857,East Renton Highlands CDP,East Renton Highlands,East Renton Highlands,53033,King County,Census-designated place,47.473796,-122.088495,1
+WA,5320155,place:WA:5320155,East Wenatchee city,East Wenatchee,East Wenatchee,53017,Douglas County,Incorporated place,47.41745,-120.283798,1
+WA,5319630,place:WA:5319630,Eastmont CDP,Eastmont,Eastmont,53061,Snohomish County,Census-designated place,47.897402,-122.181536,1
+WA,5319700,place:WA:5319700,Easton CDP,Easton,Easton,53037,Kittitas County,Census-designated place,47.237349,-121.163772,1
+WA,5320260,place:WA:5320260,Eatonville town,Eatonville,Eatonville,53053,Pierce County,Incorporated place,46.868224,-122.269568,1
+WA,5320645,place:WA:5320645,Edgewood city,Edgewood,Edgewood,53053,Pierce County,Incorporated place,47.232074,-122.285729,1
+WA,5320680,place:WA:5320680,Edison CDP,Edison,Edison,53057,Skagit County,Census-designated place,48.567618,-122.434329,1
+WA,5320750,place:WA:5320750,Edmonds city,Edmonds,Edmonds,53061,Snohomish County,Incorporated place,47.813604,-122.35333,1
+WA,5320890,place:WA:5320890,Elbe CDP,Elbe,Elbe,53053,Pierce County,Census-designated place,46.765643,-122.196019,1
+WA,5321030,place:WA:5321030,Electric City city,Electric City,Electric City,53025,Grant County,Incorporated place,47.912806,-119.043635,1
+WA,5321205,place:WA:5321205,Elk Plain CDP,Elk Plain,Elk Plain,53053,Pierce County,Census-designated place,47.041876,-122.365697,1
+WA,5321240,place:WA:5321240,Ellensburg city,Ellensburg,Ellensburg,53037,Kittitas County,Incorporated place,47.000124,-120.54954,1
+WA,5321450,place:WA:5321450,Elma city,Elma,Elma,53027,Grays Harbor County,Incorporated place,47.004951,-123.410746,1
+WA,5321485,place:WA:5321485,Elmer City town,Elmer City,Elmer City,53047,Okanogan County,Incorporated place,48.001824,-118.953407,1
+WA,5321730,place:WA:5321730,Endicott town,Endicott,Endicott,53075,Whitman County,Incorporated place,46.928231,-117.686685,1
+WA,5321800,place:WA:5321800,Enetai CDP,Enetai,Enetai,53035,Kitsap County,Census-designated place,47.585898,-122.602521,1
+WA,5322010,place:WA:5322010,Entiat city,Entiat,Entiat,53007,Chelan County,Incorporated place,47.676977,-120.222329,1
+WA,5322045,place:WA:5322045,Enumclaw city,Enumclaw,Enumclaw,53033,King County,Incorporated place,47.202179,-121.988976,1
+WA,5322080,place:WA:5322080,Ephrata city,Ephrata,Ephrata,53025,Grant County,Incorporated place,47.312087,-119.534412,1
+WA,5322115,place:WA:5322115,Erlands Point CDP,Erlands Point,Erlands Point,53035,Kitsap County,Census-designated place,47.601543,-122.694371,1
+WA,5322150,place:WA:5322150,Eschbach CDP,Eschbach,Eschbach,53077,Yakima County,Census-designated place,46.665231,-120.632506,1
+WA,5322255,place:WA:5322255,Esperance CDP,Esperance,Esperance,53061,Snohomish County,Census-designated place,47.793236,-122.34909,1
+WA,5322640,place:WA:5322640,Everett city,Everett,Everett,53061,Snohomish County,Incorporated place,47.961199,-122.188933,1
+WA,5322745,place:WA:5322745,Everson city,Everson,Everson,53073,Whatcom County,Incorporated place,48.912517,-122.353718,1
+WA,5322955,place:WA:5322955,Fairchild AFB CDP,Fairchild AFB,Fairchild AFB,53063,Spokane County,Census-designated place,47.618647,-117.648438,1
+WA,5322990,place:WA:5322990,Fairfield town,Fairfield,Fairfield,53063,Spokane County,Incorporated place,47.384765,-117.174847,1
+WA,5323160,place:WA:5323160,Fairwood CDP,Fairwood,"Fairwood, King County",53033,King County,Census-designated place,47.446754,-122.142916,1
+WA,5323165,place:WA:5323165,Fairwood CDP,Fairwood,"Fairwood, Spokane County",53063,Spokane County,Census-designated place,47.766848,-117.41706,1
+WA,5323200,place:WA:5323200,Fall City CDP,Fall City,Fall City,53033,King County,Census-designated place,47.569379,-121.913699,1
+WA,5323340,place:WA:5323340,Farmington town,Farmington,Farmington,53075,Whitman County,Incorporated place,47.088727,-117.046358,1
+WA,5323515,place:WA:5323515,Federal Way city,Federal Way,Federal Way,53033,King County,Incorporated place,47.311596,-122.337757,1
+WA,5323550,place:WA:5323550,Felida CDP,Felida,Felida,53011,Clark County,Census-designated place,45.71431,-122.712657,1
+WA,5323690,place:WA:5323690,Fern Prairie CDP,Fern Prairie,Fern Prairie,53011,Clark County,Census-designated place,45.636996,-122.39627,1
+WA,5323620,place:WA:5323620,Ferndale city,Ferndale,Ferndale,53073,Whatcom County,Incorporated place,48.853366,-122.590232,1
+WA,5323795,place:WA:5323795,Fife city,Fife,Fife,53053,Pierce County,Incorporated place,47.232293,-122.350611,1
+WA,5323830,place:WA:5323830,Fife Heights CDP,Fife Heights,Fife Heights,53053,Pierce County,Census-designated place,47.260651,-122.345971,1
+WA,5323865,place:WA:5323865,Finley CDP,Finley,Finley,53005,Benton County,Census-designated place,46.169398,-119.044664,1
+WA,5323970,place:WA:5323970,Fircrest city,Fircrest,Fircrest,53053,Pierce County,Incorporated place,47.230716,-122.515704,1
+WA,5324188,place:WA:5324188,Five Corners CDP,Five Corners,Five Corners,53011,Clark County,Census-designated place,45.689146,-122.569676,1
+WA,5324425,place:WA:5324425,Fobes Hill CDP,Fobes Hill,Fobes Hill,53061,Snohomish County,Census-designated place,47.939235,-122.134084,1
+WA,5324565,place:WA:5324565,Fords Prairie CDP,Fords Prairie,Fords Prairie,53041,Lewis County,Census-designated place,46.749101,-123.00375,1
+WA,5324810,place:WA:5324810,Forks city,Forks,Forks,53009,Clallam County,Incorporated place,47.952833,-124.390182,1
+WA,5324915,place:WA:5324915,Fort Lewis CDP,Fort Lewis,Fort Lewis,53053,Pierce County,Census-designated place,47.095512,-122.567439,1
+WA,5325300,place:WA:5325300,Four Lakes CDP,Four Lakes,Four Lakes,53063,Spokane County,Census-designated place,47.55886,-117.575904,1
+WA,5325370,place:WA:5325370,Fox Island CDP,Fox Island,Fox Island,53053,Pierce County,Census-designated place,47.254416,-122.642896,1
+WA,5325475,place:WA:5325475,Frederickson CDP,Frederickson,Frederickson,53053,Pierce County,Census-designated place,47.092462,-122.360175,1
+WA,5325510,place:WA:5325510,Freeland CDP,Freeland,Freeland,53029,Island County,Census-designated place,48.028208,-122.549937,1
+WA,5325615,place:WA:5325615,Friday Harbor town,Friday Harbor,Friday Harbor,53055,San Juan County,Incorporated place,48.533947,-123.018995,1
+WA,5326140,place:WA:5326140,Garfield town,Garfield,Garfield,53075,Whitman County,Incorporated place,47.010248,-117.139526,1
+WA,5326245,place:WA:5326245,Garrett CDP,Garrett,Garrett,53071,Walla Walla County,Census-designated place,46.057399,-118.412322,1
+WA,5326420,place:WA:5326420,Geneva CDP,Geneva,Geneva,53073,Whatcom County,Census-designated place,48.745268,-122.402983,1
+WA,5326455,place:WA:5326455,George city,George,George,53025,Grant County,Incorporated place,47.083149,-119.861683,1
+WA,5326735,place:WA:5326735,Gig Harbor city,Gig Harbor,Gig Harbor,53053,Pierce County,Incorporated place,47.336709,-122.598362,1
+WA,5326875,place:WA:5326875,Glacier CDP,Glacier,Glacier,53073,Whatcom County,Census-designated place,48.892044,-121.932136,1
+WA,5326945,place:WA:5326945,Gleed CDP,Gleed,Gleed,53077,Yakima County,Census-designated place,46.65934,-120.602521,1
+WA,5327225,place:WA:5327225,Glenwood CDP,Glenwood,Glenwood,53039,Klickitat County,Census-designated place,46.022821,-121.292587,1
+WA,5327365,place:WA:5327365,Gold Bar city,Gold Bar,Gold Bar,53061,Snohomish County,Incorporated place,47.856335,-121.692006,1
+WA,5327435,place:WA:5327435,Goldendale city,Goldendale,Goldendale,53039,Klickitat County,Incorporated place,45.819145,-120.823366,1
+WA,5327680,place:WA:5327680,Gorst CDP,Gorst,Gorst,53035,Kitsap County,Census-designated place,47.524544,-122.70434,1
+WA,5327785,place:WA:5327785,Graham CDP,Graham,Graham,53053,Pierce County,Census-designated place,47.034315,-122.276854,1
+WA,5327855,place:WA:5327855,Grand Coulee city,Grand Coulee,Grand Coulee,53025,Grant County,Incorporated place,47.939091,-119.002119,1
+WA,5327890,place:WA:5327890,Grand Mound CDP,Grand Mound,Grand Mound,53067,Thurston County,Census-designated place,46.80028,-123.010875,1
+WA,5327925,place:WA:5327925,Grandview city,Grandview,Grandview,53077,Yakima County,Incorporated place,46.245712,-119.907958,1
+WA,5327960,place:WA:5327960,Granger city,Granger,Granger,53077,Yakima County,Incorporated place,46.345295,-120.192673,1
+WA,5327995,place:WA:5327995,Granite Falls city,Granite Falls,Granite Falls,53061,Snohomish County,Incorporated place,48.089713,-121.968891,1
+WA,5328135,place:WA:5328135,Grapeview CDP,Grapeview,Grapeview,53045,Mason County,Census-designated place,47.33108,-122.834181,1
+WA,5328345,place:WA:5328345,Grayland CDP,Grayland,Grayland,53027,Grays Harbor County,Census-designated place,46.841631,-124.091246,1
+WA,5328450,place:WA:5328450,Grays River CDP,Grays River,Grays River,53069,Wahkiakum County,Census-designated place,46.367914,-123.581305,1
+WA,5328590,place:WA:5328590,Green Bluff CDP,Green Bluff,Green Bluff,53063,Spokane County,Census-designated place,47.818418,-117.274823,1
+WA,5328695,place:WA:5328695,Greenwater CDP,Greenwater,Greenwater,53053,Pierce County,Census-designated place,47.146469,-121.629666,1
+WA,5329255,place:WA:5329255,Hamilton town,Hamilton,Hamilton,53057,Skagit County,Incorporated place,48.522478,-121.995264,1
+WA,5329430,place:WA:5329430,Hansville CDP,Hansville,Hansville,53035,Kitsap County,Census-designated place,47.910095,-122.57106,1
+WA,5329710,place:WA:5329710,Harrah town,Harrah,Harrah,53077,Yakima County,Incorporated place,46.406119,-120.540961,1
+WA,5329745,place:WA:5329745,Harrington city,Harrington,Harrington,53043,Lincoln County,Incorporated place,47.480159,-118.255265,1
+WA,5329920,place:WA:5329920,Hartline town,Hartline,Hartline,53025,Grant County,Incorporated place,47.689449,-119.10813,1
+WA,5330030,place:WA:5330030,Hat Island CDP,Hat Island,Hat Island,53061,Snohomish County,Census-designated place,48.013421,-122.320653,1
+WA,5330060,place:WA:5330060,Hatton town,Hatton,Hatton,53001,Adams County,Incorporated place,46.773528,-118.827688,1
+WA,5330305,place:WA:5330305,Hazel Dell CDP,Hazel Dell,Hazel Dell,53011,Clark County,Census-designated place,45.681881,-122.652658,1
+WA,5330690,place:WA:5330690,Herron Island CDP,Herron Island,Herron Island,53053,Pierce County,Census-designated place,47.267476,-122.831951,1
+WA,5330750,place:WA:5330750,High Bridge CDP,High Bridge,High Bridge,53061,Snohomish County,Census-designated place,47.799131,-122.02292,1
+WA,5331495,place:WA:5331495,Hobart CDP,Hobart,Hobart,53033,King County,Census-designated place,47.411787,-122.005262,1
+WA,5331530,place:WA:5331530,Hockinson CDP,Hockinson,Hockinson,53011,Clark County,Census-designated place,45.730183,-122.483334,1
+WA,5331540,place:WA:5331540,Hogans Corner CDP,Hogans Corner,Hogans Corner,53027,Grays Harbor County,Census-designated place,47.041496,-124.161687,1
+WA,5331985,place:WA:5331985,Home CDP,Home,Home,53053,Pierce County,Census-designated place,47.274685,-122.790082,1
+WA,5332125,place:WA:5332125,Hoodsport CDP,Hoodsport,Hoodsport,53045,Mason County,Census-designated place,47.40198,-123.154126,1
+WA,5332300,place:WA:5332300,Hoquiam city,Hoquiam,Hoquiam,53027,Grays Harbor County,Incorporated place,46.977202,-123.909716,1
+WA,5332650,place:WA:5332650,Humptulips CDP,Humptulips,Humptulips,53027,Grays Harbor County,Census-designated place,47.237651,-123.959558,1
+WA,5332755,place:WA:5332755,Hunts Point town,Hunts Point,Hunts Point,53033,King County,Incorporated place,47.642953,-122.229202,1
+WA,5333000,place:WA:5333000,Ilwaco city,Ilwaco,Ilwaco,53049,Pacific County,Incorporated place,46.307371,-124.034785,1
+WA,5333105,place:WA:5333105,Inchelium CDP,Inchelium,Inchelium,53019,Ferry County,Census-designated place,48.36374,-118.245596,1
+WA,5333175,place:WA:5333175,Index town,Index,Index,53061,Snohomish County,Incorporated place,47.821262,-121.555929,1
+WA,5333280,place:WA:5333280,Indianola CDP,Indianola,Indianola,53035,Kitsap County,Census-designated place,47.755529,-122.511491,1
+WA,5333560,place:WA:5333560,Ione town,Ione,Ione,53051,Pend Oreille County,Incorporated place,48.739814,-117.42203,1
+WA,5333805,place:WA:5333805,Issaquah city,Issaquah,Issaquah,53033,King County,Incorporated place,47.546249,-122.058147,1
+WA,5333890,place:WA:5333890,Jamestown CDP,Jamestown,Jamestown,53009,Clallam County,Census-designated place,48.122839,-123.091043,1
+WA,5334575,place:WA:5334575,Kahlotus city,Kahlotus,Kahlotus,53021,Franklin County,Incorporated place,46.643221,-118.556139,1
+WA,5334645,place:WA:5334645,Kalama city,Kalama,Kalama,53015,Cowlitz County,Incorporated place,46.017142,-122.841937,1
+WA,5334890,place:WA:5334890,Kapowsin CDP,Kapowsin,Kapowsin,53053,Pierce County,Census-designated place,46.968388,-122.222955,1
+WA,5334915,place:WA:5334915,Kayak Point CDP,Kayak Point,Kayak Point,53061,Snohomish County,Census-designated place,48.142508,-122.342276,1
+WA,5334960,place:WA:5334960,Keller CDP,Keller,Keller,53019,Ferry County,Census-designated place,48.085189,-118.716364,1
+WA,5335065,place:WA:5335065,Kelso city,Kelso,Kelso,53015,Cowlitz County,Incorporated place,46.116751,-122.886466,1
+WA,5335135,place:WA:5335135,Kendall CDP,Kendall,Kendall,53073,Whatcom County,Census-designated place,48.915467,-122.132584,1
+WA,5335170,place:WA:5335170,Kenmore city,Kenmore,Kenmore,53033,King County,Incorporated place,47.749857,-122.247246,1
+WA,5335275,place:WA:5335275,Kennewick city,Kennewick,Kennewick,53005,Benton County,Incorporated place,46.197622,-119.175923,1
+WA,5335415,place:WA:5335415,Kent city,Kent,Kent,53033,King County,Incorporated place,47.390008,-122.213528,1
+WA,5335450,place:WA:5335450,Ketron Island CDP,Ketron Island,Ketron Island,53053,Pierce County,Census-designated place,47.156281,-122.634125,1
+WA,5335485,place:WA:5335485,Kettle Falls city,Kettle Falls,Kettle Falls,53065,Stevens County,Incorporated place,48.605575,-118.061992,1
+WA,5335555,place:WA:5335555,Key Center CDP,Key Center,Key Center,53053,Pierce County,Census-designated place,47.326949,-122.745815,1
+WA,5335625,place:WA:5335625,Keyport CDP,Keyport,Keyport,53035,Kitsap County,Census-designated place,47.700257,-122.624362,1
+WA,5335870,place:WA:5335870,Kingston CDP,Kingston,Kingston,53035,Kitsap County,Census-designated place,47.794382,-122.506217,1
+WA,5335940,place:WA:5335940,Kirkland city,Kirkland,Kirkland,53033,King County,Incorporated place,47.69702,-122.203694,1
+WA,5336010,place:WA:5336010,Kitsap Lake CDP,Kitsap Lake,Kitsap Lake,53035,Kitsap County,Census-designated place,47.590375,-122.708802,1
+WA,5336045,place:WA:5336045,Kittitas city,Kittitas,Kittitas,53037,Kittitas County,Incorporated place,46.983702,-120.418906,1
+WA,5336115,place:WA:5336115,Klickitat CDP,Klickitat,Klickitat,53039,Klickitat County,Census-designated place,45.817966,-121.16258,1
+WA,5336395,place:WA:5336395,Krupp town,Krupp,Krupp,53025,Grant County,Incorporated place,47.41052,-118.988702,1
+WA,5336710,place:WA:5336710,La Center city,La Center,La Center,53011,Clark County,Incorporated place,45.860494,-122.675727,1
+WA,5336780,place:WA:5336780,La Conner town,La Conner,La Conner,53057,Skagit County,Incorporated place,48.392564,-122.494453,1
+WA,5336920,place:WA:5336920,La Grande CDP,La Grande,La Grande,53053,Pierce County,Census-designated place,46.810734,-122.283253,1
+WA,5336745,place:WA:5336745,Lacey city,Lacey,Lacey,53067,Thurston County,Incorporated place,47.045665,-122.795252,1
+WA,5336850,place:WA:5336850,LaCrosse town,LaCrosse,LaCrosse,53075,Whitman County,Incorporated place,46.795521,-117.917769,1
+WA,5337077,place:WA:5337077,Lake Bosworth CDP,Lake Bosworth,Lake Bosworth,53061,Snohomish County,Census-designated place,48.059651,-121.977841,1
+WA,5337100,place:WA:5337100,Lake Cassidy CDP,Lake Cassidy,Lake Cassidy,53061,Snohomish County,Census-designated place,48.066029,-122.082413,1
+WA,5337105,place:WA:5337105,Lake Cavanaugh CDP,Lake Cavanaugh,Lake Cavanaugh,53057,Skagit County,Census-designated place,48.316595,-122.006026,1
+WA,5337270,place:WA:5337270,Lake Forest Park city,Lake Forest Park,Lake Forest Park,53033,King County,Incorporated place,47.758917,-122.291746,1
+WA,5337287,place:WA:5337287,Lake Goodwin CDP,Lake Goodwin,Lake Goodwin,53061,Snohomish County,Census-designated place,48.135355,-122.276171,1
+WA,5337345,place:WA:5337345,Lake Holm CDP,Lake Holm,Lake Holm,53033,King County,Census-designated place,47.306388,-122.129911,1
+WA,5337415,place:WA:5337415,Lake Ketchum CDP,Lake Ketchum,Lake Ketchum,53061,Snohomish County,Census-designated place,48.285835,-122.346481,1
+WA,5337538,place:WA:5337538,Lake Marcel-Stillwater CDP,Lake Marcel-Stillwater,Lake Marcel-Stillwater,53033,King County,Census-designated place,47.695094,-121.915104,1
+WA,5337526,place:WA:5337526,Lake McMurray CDP,Lake McMurray,Lake McMurray,53057,Skagit County,Census-designated place,48.319344,-122.233323,1
+WA,5337567,place:WA:5337567,Lake Morton-Berrydale CDP,Lake Morton-Berrydale,Lake Morton-Berrydale,53033,King County,Census-designated place,47.332843,-122.103959,1
+WA,5337672,place:WA:5337672,Lake Roesiger CDP,Lake Roesiger,Lake Roesiger,53061,Snohomish County,Census-designated place,47.975501,-121.905068,1
+WA,5337830,place:WA:5337830,Lake Shore CDP,Lake Shore,Lake Shore,53011,Clark County,Census-designated place,45.691132,-122.691183,1
+WA,5337900,place:WA:5337900,Lake Stevens city,Lake Stevens,Lake Stevens,53061,Snohomish County,Incorporated place,48.003405,-122.096828,1
+WA,5337917,place:WA:5337917,Lake Stickney CDP,Lake Stickney,Lake Stickney,53061,Snohomish County,Census-designated place,47.873851,-122.252761,1
+WA,5337920,place:WA:5337920,Lake Tapps CDP,Lake Tapps,Lake Tapps,53053,Pierce County,Census-designated place,47.219547,-122.170916,1
+WA,5337420,place:WA:5337420,Lakeland North CDP,Lakeland North,Lakeland North,53033,King County,Census-designated place,47.337096,-122.277574,1
+WA,5337430,place:WA:5337430,Lakeland South CDP,Lakeland South,Lakeland South,53033,King County,Census-designated place,47.276312,-122.288078,1
+WA,5337926,place:WA:5337926,Lakeview CDP,Lakeview,Lakeview,53025,Grant County,Census-designated place,47.375543,-119.504282,1
+WA,5338038,place:WA:5338038,Lakewood city,Lakewood,Lakewood,53053,Pierce County,Incorporated place,47.164092,-122.528106,1
+WA,5338215,place:WA:5338215,Lamont town,Lamont,Lamont,53075,Whitman County,Incorporated place,47.200687,-117.904939,1
+WA,5338355,place:WA:5338355,Langley city,Langley,Langley,53029,Island County,Incorporated place,48.037537,-122.407122,1
+WA,5338420,place:WA:5338420,Larch Way CDP,Larch Way,Larch Way,53061,Snohomish County,Census-designated place,47.8429,-122.252747,1
+WA,5338495,place:WA:5338495,Latah town,Latah,Latah,53063,Spokane County,Incorporated place,47.282112,-117.155753,1
+WA,5338705,place:WA:5338705,Laurier CDP,Laurier,Laurier,53019,Ferry County,Census-designated place,48.997298,-118.224786,1
+WA,5338845,place:WA:5338845,Leavenworth city,Leavenworth,Leavenworth,53007,Chelan County,Incorporated place,47.594704,-120.663913,1
+WA,5338880,place:WA:5338880,Lebam CDP,Lebam,Lebam,53049,Pacific County,Census-designated place,46.564091,-123.550888,1
+WA,5339212,place:WA:5339212,Lewisville CDP,Lewisville,Lewisville,53011,Clark County,Census-designated place,45.81652,-122.508244,1
+WA,5339230,place:WA:5339230,Lexington CDP,Lexington,Lexington,53015,Cowlitz County,Census-designated place,46.189403,-122.912611,1
+WA,5339335,place:WA:5339335,Liberty Lake city,Liberty Lake,Liberty Lake,53063,Spokane County,Incorporated place,47.668451,-117.104201,1
+WA,5339510,place:WA:5339510,Lind town,Lind,Lind,53001,Adams County,Incorporated place,46.97034,-118.616374,1
+WA,5339860,place:WA:5339860,Lochsloy CDP,Lochsloy,Lochsloy,53061,Snohomish County,Census-designated place,48.05971,-122.041061,1
+WA,5339930,place:WA:5339930,Lofall CDP,Lofall,Lofall,53035,Kitsap County,Census-designated place,47.810462,-122.652013,1
+WA,5340070,place:WA:5340070,Long Beach city,Long Beach,Long Beach,53049,Pacific County,Incorporated place,46.361934,-124.057812,1
+WA,5340105,place:WA:5340105,Longbranch CDP,Longbranch,Longbranch,53053,Pierce County,Census-designated place,47.22356,-122.766883,1
+WA,5340245,place:WA:5340245,Longview city,Longview,Longview,53015,Cowlitz County,Incorporated place,46.145707,-122.964299,1
+WA,5340270,place:WA:5340270,Longview Heights CDP,Longview Heights,Longview Heights,53015,Cowlitz County,Census-designated place,46.179841,-122.953633,1
+WA,5340350,place:WA:5340350,Loomis CDP,Loomis,Loomis,53047,Okanogan County,Census-designated place,48.823338,-119.639746,1
+WA,5340385,place:WA:5340385,Loon Lake CDP,Loon Lake,Loon Lake,53065,Stevens County,Census-designated place,48.070402,-117.625702,1
+WA,5340570,place:WA:5340570,Lower Elochoman CDP,Lower Elochoman,Lower Elochoman,53069,Wahkiakum County,Census-designated place,46.2185,-123.369811,1
+WA,5340735,place:WA:5340735,Lyle CDP,Lyle,Lyle,53039,Klickitat County,Census-designated place,45.69558,-121.280533,1
+WA,5340770,place:WA:5340770,Lyman town,Lyman,Lyman,53057,Skagit County,Incorporated place,48.524067,-122.064233,1
+WA,5340805,place:WA:5340805,Lynden city,Lynden,Lynden,53073,Whatcom County,Incorporated place,48.947974,-122.458904,1
+WA,5340840,place:WA:5340840,Lynnwood city,Lynnwood,Lynnwood,53061,Snohomish County,Incorporated place,47.828979,-122.300672,1
+WA,5340980,place:WA:5340980,Mabton city,Mabton,Mabton,53077,Yakima County,Incorporated place,46.211546,-119.993912,1
+WA,5341470,place:WA:5341470,Machias CDP,Machias,Machias,53061,Snohomish County,Census-designated place,47.991805,-122.05171,1
+WA,5342275,place:WA:5342275,Malden town,Malden,Malden,53075,Whitman County,Incorporated place,47.229588,-117.472929,1
+WA,5342310,place:WA:5342310,Malo CDP,Malo,Malo,53019,Ferry County,Census-designated place,48.799684,-118.611993,1
+WA,5342345,place:WA:5342345,Malone CDP,Malone,Malone,53027,Grays Harbor County,Census-designated place,46.984195,-123.296571,1
+WA,5342380,place:WA:5342380,Malott CDP,Malott,Malott,53047,Okanogan County,Census-designated place,48.291819,-119.695593,1
+WA,5342415,place:WA:5342415,Maltby CDP,Maltby,Maltby,53061,Snohomish County,Census-designated place,47.802086,-122.106217,1
+WA,5342450,place:WA:5342450,Manchester CDP,Manchester,Manchester,53035,Kitsap County,Census-designated place,47.547094,-122.541167,1
+WA,5342800,place:WA:5342800,Mansfield town,Mansfield,Mansfield,53017,Douglas County,Incorporated place,47.812385,-119.638584,1
+WA,5342835,place:WA:5342835,Manson CDP,Manson,Manson,53007,Chelan County,Census-designated place,47.874752,-120.162791,1
+WA,5343010,place:WA:5343010,Maple Falls CDP,Maple Falls,Maple Falls,53073,Whatcom County,Census-designated place,48.918772,-122.091197,1
+WA,5343062,place:WA:5343062,Maple Heights-Lake Desire CDP,Maple Heights-Lake Desire,Maple Heights-Lake Desire,53033,King County,Census-designated place,47.443423,-122.095928,1
+WA,5343150,place:WA:5343150,Maple Valley city,Maple Valley,Maple Valley,53033,King County,Incorporated place,47.367147,-122.034815,1
+WA,5343255,place:WA:5343255,Maplewood CDP,Maplewood,Maplewood,53053,Pierce County,Census-designated place,47.376295,-122.565538,1
+WA,5343325,place:WA:5343325,Marblemount CDP,Marblemount,Marblemount,53057,Skagit County,Census-designated place,48.541756,-121.439591,1
+WA,5343395,place:WA:5343395,Marcus town,Marcus,Marcus,53065,Stevens County,Incorporated place,48.664298,-118.05997,1
+WA,5343491,place:WA:5343491,Marietta-Alderwood CDP,Marietta-Alderwood,Marietta-Alderwood,53073,Whatcom County,Census-designated place,48.788096,-122.555162,1
+WA,5343552,place:WA:5343552,Marine View CDP,Marine View,Marine View,53025,Grant County,Census-designated place,46.963725,-119.350795,1
+WA,5343640,place:WA:5343640,Markham CDP,Markham,Markham,53027,Grays Harbor County,Census-designated place,46.91401,-123.988008,1
+WA,5343762,place:WA:5343762,Marrowstone CDP,Marrowstone,Marrowstone,53031,Jefferson County,Census-designated place,48.031999,-122.684007,1
+WA,5343815,place:WA:5343815,Martha Lake CDP,Martha Lake,Martha Lake,53061,Snohomish County,Census-designated place,47.844725,-122.233091,1
+WA,5343885,place:WA:5343885,Maryhill CDP,Maryhill,Maryhill,53039,Klickitat County,Census-designated place,45.692755,-120.807159,1
+WA,5343955,place:WA:5343955,Marysville city,Marysville,Marysville,53061,Snohomish County,Incorporated place,48.080214,-122.154312,1
+WA,5344165,place:WA:5344165,Mattawa city,Mattawa,Mattawa,53025,Grant County,Incorporated place,46.737652,-119.906401,1
+WA,5344260,place:WA:5344260,May Creek CDP,May Creek,May Creek,53061,Snohomish County,Census-designated place,47.85554,-121.674311,1
+WA,5341155,place:WA:5341155,McChord AFB CDP,McChord AFB,McChord AFB,53053,Pierce County,Census-designated place,47.132689,-122.491857,1
+WA,5341225,place:WA:5341225,McCleary city,McCleary,McCleary,53027,Grays Harbor County,Incorporated place,47.058079,-123.27063,1
+WA,5341645,place:WA:5341645,McKenna CDP,McKenna,McKenna,53053,Pierce County,Census-designated place,46.933967,-122.551548,1
+WA,5341785,place:WA:5341785,McMillin CDP,McMillin,McMillin,53053,Pierce County,Census-designated place,47.125739,-122.235117,1
+WA,5344480,place:WA:5344480,Mead CDP,Mead,Mead,53063,Spokane County,Census-designated place,47.779527,-117.349944,1
+WA,5344620,place:WA:5344620,Meadow Glade CDP,Meadow Glade,Meadow Glade,53011,Clark County,Census-designated place,45.752329,-122.561452,1
+WA,5344585,place:WA:5344585,Meadowdale CDP,Meadowdale,Meadowdale,53061,Snohomish County,Census-designated place,47.860587,-122.323749,1
+WA,5344690,place:WA:5344690,Medical Lake city,Medical Lake,Medical Lake,53063,Spokane County,Incorporated place,47.571039,-117.68945,1
+WA,5344725,place:WA:5344725,Medina city,Medina,Medina,53033,King County,Incorporated place,47.626573,-122.240715,1
+WA,5345005,place:WA:5345005,Mercer Island city,Mercer Island,Mercer Island,53033,King County,Incorporated place,47.564004,-122.231214,1
+WA,5345180,place:WA:5345180,Mesa city,Mesa,Mesa,53021,Franklin County,Incorporated place,46.573488,-119.001318,1
+WA,5345285,place:WA:5345285,Metaline town,Metaline,Metaline,53051,Pend Oreille County,Incorporated place,48.852336,-117.387064,1
+WA,5345320,place:WA:5345320,Metaline Falls town,Metaline Falls,Metaline Falls,53051,Pend Oreille County,Incorporated place,48.861295,-117.371892,1
+WA,5345355,place:WA:5345355,Methow CDP,Methow,Methow,53047,Okanogan County,Census-designated place,48.131075,-120.005197,1
+WA,5345495,place:WA:5345495,Midland CDP,Midland,Midland,53053,Pierce County,Census-designated place,47.173406,-122.41202,1
+WA,5345865,place:WA:5345865,Mill Creek city,Mill Creek,Mill Creek,53061,Snohomish County,Incorporated place,47.863897,-122.207369,1
+WA,5345870,place:WA:5345870,Mill Creek East CDP,Mill Creek East,Mill Creek East,53061,Snohomish County,Census-designated place,47.836054,-122.187681,1
+WA,5345985,place:WA:5345985,Millwood city,Millwood,Millwood,53063,Spokane County,Incorporated place,47.684701,-117.276769,1
+WA,5346020,place:WA:5346020,Milton city,Milton,Milton,53053,Pierce County,Incorporated place,47.251994,-122.317289,1
+WA,5346090,place:WA:5346090,Mineral CDP,Mineral,Mineral,53041,Lewis County,Census-designated place,46.719299,-122.185993,1
+WA,5346125,place:WA:5346125,Minnehaha CDP,Minnehaha,Minnehaha,53011,Clark County,Census-designated place,45.656516,-122.617889,1
+WA,5346215,place:WA:5346215,Mirrormont CDP,Mirrormont,Mirrormont,53033,King County,Census-designated place,47.460218,-121.990205,1
+WA,5346405,place:WA:5346405,Moclips CDP,Moclips,Moclips,53027,Grays Harbor County,Census-designated place,47.229431,-124.198456,1
+WA,5346685,place:WA:5346685,Monroe city,Monroe,Monroe,53061,Snohomish County,Incorporated place,47.859793,-121.984006,1
+WA,5346725,place:WA:5346725,Monroe North CDP,Monroe North,Monroe North,53061,Snohomish County,Census-designated place,47.883034,-121.986746,1
+WA,5346895,place:WA:5346895,Montesano city,Montesano,Montesano,53027,Grays Harbor County,Incorporated place,47.014726,-123.585711,1
+WA,5347175,place:WA:5347175,Morton city,Morton,Morton,53041,Lewis County,Incorporated place,46.557382,-122.281449,1
+WA,5347245,place:WA:5347245,Moses Lake city,Moses Lake,Moses Lake,53025,Grant County,Incorporated place,47.12785,-119.276384,1
+WA,5347280,place:WA:5347280,Moses Lake North CDP,Moses Lake North,Moses Lake North,53025,Grant County,Census-designated place,47.194955,-119.317775,1
+WA,5347315,place:WA:5347315,Mossyrock city,Mossyrock,Mossyrock,53041,Lewis County,Incorporated place,46.530224,-122.489057,1
+WA,5347560,place:WA:5347560,Mount Vernon city,Mount Vernon,Mount Vernon,53057,Skagit County,Incorporated place,48.417071,-122.311832,1
+WA,5347630,place:WA:5347630,Mount Vista CDP,Mount Vista,Mount Vista,53011,Clark County,Census-designated place,45.737288,-122.631565,1
+WA,5347490,place:WA:5347490,Mountlake Terrace city,Mountlake Terrace,Mountlake Terrace,53061,Snohomish County,Incorporated place,47.794369,-122.302498,1
+WA,5347665,place:WA:5347665,Moxee city,Moxee,Moxee,53077,Yakima County,Incorporated place,46.564189,-120.396694,1
+WA,5347735,place:WA:5347735,Mukilteo city,Mukilteo,Mukilteo,53061,Snohomish County,Incorporated place,47.910341,-122.309862,1
+WA,5347805,place:WA:5347805,Naches town,Naches,Naches,53077,Yakima County,Incorporated place,46.725985,-120.691208,1
+WA,5347980,place:WA:5347980,Napavine city,Napavine,Napavine,53041,Lewis County,Incorporated place,46.586796,-122.902031,1
+WA,5348015,place:WA:5348015,Naselle CDP,Naselle,Naselle,53049,Pacific County,Census-designated place,46.370501,-123.781565,1
+WA,5348225,place:WA:5348225,Navy Yard City CDP,Navy Yard City,Navy Yard City,53035,Kitsap County,Census-designated place,47.55321,-122.662258,1
+WA,5348295,place:WA:5348295,Neah Bay CDP,Neah Bay,Neah Bay,53009,Clallam County,Census-designated place,48.360963,-124.611559,1
+WA,5348330,place:WA:5348330,Neilton CDP,Neilton,Neilton,53027,Grays Harbor County,Census-designated place,47.403121,-123.878202,1
+WA,5348540,place:WA:5348540,Nespelem town,Nespelem,Nespelem,53047,Okanogan County,Incorporated place,48.166906,-118.972115,1
+WA,5348550,place:WA:5348550,Nespelem Community CDP,Nespelem Community,Nespelem Community,53047,Okanogan County,Census-designated place,48.162461,-119.048694,1
+WA,5348645,place:WA:5348645,Newcastle city,Newcastle,Newcastle,53033,King County,Incorporated place,47.535314,-122.166996,1
+WA,5348820,place:WA:5348820,Newport city,Newport,Newport,53051,Pend Oreille County,Incorporated place,48.178302,-117.054568,1
+WA,5349030,place:WA:5349030,Nile CDP,Nile,Nile,53077,Yakima County,Census-designated place,46.834868,-120.943753,1
+WA,5349193,place:WA:5349193,Nisqually Indian Community CDP,Nisqually Indian Community,Nisqually Indian Community,53067,Thurston County,Census-designated place,47.029128,-122.680389,1
+WA,5349275,place:WA:5349275,Nooksack city,Nooksack,Nooksack,53073,Whatcom County,Incorporated place,48.928106,-122.319566,1
+WA,5349415,place:WA:5349415,Normandy Park city,Normandy Park,Normandy Park,53033,King County,Incorporated place,47.432975,-122.344689,1
+WA,5349485,place:WA:5349485,North Bend city,North Bend,North Bend,53033,King County,Incorporated place,47.487967,-121.768786,1
+WA,5349555,place:WA:5349555,North Bonneville city,North Bonneville,North Bonneville,53059,Skamania County,Incorporated place,45.641393,-121.972748,1
+WA,5349765,place:WA:5349765,North Fort Lewis CDP,North Fort Lewis,North Fort Lewis,53053,Pierce County,Census-designated place,47.121258,-122.594539,1
+WA,5349940,place:WA:5349940,North Lynnwood CDP,North Lynnwood,North Lynnwood,53061,Snohomish County,Census-designated place,47.853329,-122.276265,1
+WA,5350007,place:WA:5350007,North Omak CDP,North Omak,North Omak,53047,Okanogan County,Census-designated place,48.443955,-119.445839,1
+WA,5350115,place:WA:5350115,North Puyallup CDP,North Puyallup,North Puyallup,53053,Pierce County,Census-designated place,47.198898,-122.278444,1
+WA,5350183,place:WA:5350183,North Sultan CDP,North Sultan,North Sultan,53061,Snohomish County,Census-designated place,47.88274,-121.822949,1
+WA,5350210,place:WA:5350210,North Yelm CDP,North Yelm,North Yelm,53067,Thurston County,Census-designated place,46.966028,-122.613133,1
+WA,5350045,place:WA:5350045,Northport town,Northport,Northport,53065,Stevens County,Incorporated place,48.915792,-117.779696,1
+WA,5350195,place:WA:5350195,Northwest Stanwood CDP,Northwest Stanwood,Northwest Stanwood,53061,Snohomish County,Census-designated place,48.262304,-122.350122,1
+WA,5350360,place:WA:5350360,Oak Harbor city,Oak Harbor,Oak Harbor,53029,Island County,Incorporated place,48.293832,-122.628154,1
+WA,5350325,place:WA:5350325,Oakesdale town,Oakesdale,Oakesdale,53075,Whitman County,Incorporated place,47.13047,-117.24644,1
+WA,5350430,place:WA:5350430,Oakville city,Oakville,Oakville,53027,Grays Harbor County,Incorporated place,46.840116,-123.233507,1
+WA,5350500,place:WA:5350500,Ocean City CDP,Ocean City,Ocean City,53027,Grays Harbor County,Census-designated place,47.082471,-124.156919,1
+WA,5350535,place:WA:5350535,Ocean Park CDP,Ocean Park,Ocean Park,53049,Pacific County,Census-designated place,46.496743,-124.041381,1
+WA,5350570,place:WA:5350570,Ocean Shores city,Ocean Shores,Ocean Shores,53027,Grays Harbor County,Incorporated place,46.96773,-124.151072,1
+WA,5350675,place:WA:5350675,Ocosta CDP,Ocosta,Ocosta,53027,Grays Harbor County,Census-designated place,46.885532,-124.032505,1
+WA,5350745,place:WA:5350745,Odessa town,Odessa,Odessa,53043,Lincoln County,Incorporated place,47.332599,-118.689445,1
+WA,5350920,place:WA:5350920,Okanogan city,Okanogan,Okanogan,53047,Okanogan County,Incorporated place,48.367273,-119.578768,1
+WA,5351300,place:WA:5351300,Olympia city,Olympia,Olympia,53067,Thurston County,Incorporated place,47.040604,-122.895,1
+WA,5351340,place:WA:5351340,Omak city,Omak,Omak,53047,Okanogan County,Incorporated place,48.42235,-119.530661,1
+WA,5351410,place:WA:5351410,Onalaska CDP,Onalaska,Onalaska,53041,Lewis County,Census-designated place,46.578224,-122.711139,1
+WA,5351795,place:WA:5351795,Orchards CDP,Orchards,Orchards,53011,Clark County,Census-designated place,45.688996,-122.530602,1
+WA,5351830,place:WA:5351830,Orient CDP,Orient,Orient,53019,Ferry County,Census-designated place,48.863766,-118.205898,1
+WA,5351970,place:WA:5351970,Oroville city,Oroville,Oroville,53047,Okanogan County,Incorporated place,48.946951,-119.429969,1
+WA,5352005,place:WA:5352005,Orting city,Orting,Orting,53053,Pierce County,Incorporated place,47.096936,-122.211687,1
+WA,5352110,place:WA:5352110,Oso CDP,Oso,Oso,53061,Snohomish County,Census-designated place,48.285008,-121.91411,1
+WA,5352215,place:WA:5352215,Othello city,Othello,Othello,53001,Adams County,Incorporated place,46.823328,-119.161927,1
+WA,5352267,place:WA:5352267,Otis Orchards-East Farms CDP,Otis Orchards-East Farms,Otis Orchards-East Farms,53063,Spokane County,Census-designated place,47.704932,-117.08515,1
+WA,5352285,place:WA:5352285,Outlook CDP,Outlook,Outlook,53077,Yakima County,Census-designated place,46.331153,-120.092812,1
+WA,5352378,place:WA:5352378,Oyehut CDP,Oyehut,Oyehut,53027,Grays Harbor County,Census-designated place,47.023324,-124.163427,1
+WA,5352495,place:WA:5352495,Pacific city,Pacific,Pacific,53033,King County,Incorporated place,47.261974,-122.252429,1
+WA,5352530,place:WA:5352530,Pacific Beach CDP,Pacific Beach,Pacific Beach,53027,Grays Harbor County,Census-designated place,47.214135,-124.196854,1
+WA,5352600,place:WA:5352600,Packwood CDP,Packwood,Packwood,53041,Lewis County,Census-designated place,46.608524,-121.670252,1
+WA,5352950,place:WA:5352950,Palouse city,Palouse,Palouse,53075,Whitman County,Incorporated place,46.910326,-117.075207,1
+WA,5353265,place:WA:5353265,Parker CDP,Parker,Parker,53077,Yakima County,Census-designated place,46.502157,-120.466813,1
+WA,5353335,place:WA:5353335,Parkland CDP,Parkland,Parkland,53053,Pierce County,Census-designated place,47.141529,-122.437837,1
+WA,5353440,place:WA:5353440,Parkwood CDP,Parkwood,Parkwood,53035,Kitsap County,Census-designated place,47.525175,-122.604375,1
+WA,5353545,place:WA:5353545,Pasco city,Pasco,Pasco,53021,Franklin County,Incorporated place,46.266113,-119.121426,1
+WA,5353660,place:WA:5353660,Pataha CDP,Pataha,Pataha,53023,Garfield County,Census-designated place,46.472674,-117.544255,1
+WA,5353720,place:WA:5353720,Pateros city,Pateros,Pateros,53047,Okanogan County,Incorporated place,48.053094,-119.900331,1
+WA,5353930,place:WA:5353930,Pe Ell town,Pe Ell,Pe Ell,53041,Lewis County,Incorporated place,46.571314,-123.298311,1
+WA,5353800,place:WA:5353800,Peaceful Valley CDP,Peaceful Valley,Peaceful Valley,53073,Whatcom County,Census-designated place,48.950892,-122.148301,1
+WA,5354213,place:WA:5354213,Picnic Point CDP,Picnic Point,Picnic Point,53061,Snohomish County,Census-designated place,47.877153,-122.30699,1
+WA,5354405,place:WA:5354405,Pine Grove CDP,Pine Grove,Pine Grove,53019,Ferry County,Census-designated place,48.650161,-118.683784,1
+WA,5355015,place:WA:5355015,Point Roberts CDP,Point Roberts,Point Roberts,53073,Whatcom County,Census-designated place,48.984669,-123.059496,1
+WA,5355120,place:WA:5355120,Pomeroy city,Pomeroy,Pomeroy,53023,Garfield County,Incorporated place,46.47376,-117.596541,1
+WA,5355365,place:WA:5355365,Port Angeles city,Port Angeles,Port Angeles,53009,Clallam County,Incorporated place,48.119249,-123.44811,1
+WA,5355400,place:WA:5355400,Port Angeles East CDP,Port Angeles East,Port Angeles East,53009,Clallam County,Census-designated place,48.111218,-123.369873,1
+WA,5355612,place:WA:5355612,Port Gamble Tribal Community CDP,Port Gamble Tribal Community,Port Gamble Tribal Community,53035,Kitsap County,Census-designated place,47.846162,-122.557353,1
+WA,5355620,place:WA:5355620,Port Hadlock-Irondale CDP,Port Hadlock-Irondale,Port Hadlock-Irondale,53031,Jefferson County,Census-designated place,48.032782,-122.791449,1
+WA,5355645,place:WA:5355645,Port Ludlow CDP,Port Ludlow,Port Ludlow,53031,Jefferson County,Census-designated place,47.914363,-122.695903,1
+WA,5355785,place:WA:5355785,Port Orchard city,Port Orchard,Port Orchard,53035,Kitsap County,Incorporated place,47.537254,-122.63312,1
+WA,5355855,place:WA:5355855,Port Townsend city,Port Townsend,Port Townsend,53031,Jefferson County,Incorporated place,48.121762,-122.787876,1
+WA,5355540,place:WA:5355540,Porter CDP,Porter,Porter,53027,Grays Harbor County,Census-designated place,46.948728,-123.280249,1
+WA,5355995,place:WA:5355995,Poulsbo city,Poulsbo,Poulsbo,53035,Kitsap County,Incorporated place,47.741078,-122.642151,1
+WA,5356150,place:WA:5356150,Prairie Heights CDP,Prairie Heights,Prairie Heights,53053,Pierce County,Census-designated place,47.148842,-122.109475,1
+WA,5356170,place:WA:5356170,Prairie Ridge CDP,Prairie Ridge,Prairie Ridge,53053,Pierce County,Census-designated place,47.144968,-122.138868,1
+WA,5356240,place:WA:5356240,Prescott city,Prescott,Prescott,53071,Walla Walla County,Incorporated place,46.298834,-118.312553,1
+WA,5356450,place:WA:5356450,Prosser city,Prosser,Prosser,53005,Benton County,Incorporated place,46.209022,-119.767753,1
+WA,5356555,place:WA:5356555,Puget Island CDP,Puget Island,Puget Island,53069,Wahkiakum County,Census-designated place,46.175652,-123.381854,1
+WA,5356625,place:WA:5356625,Pullman city,Pullman,Pullman,53075,Whitman County,Incorporated place,46.733126,-117.168277,1
+WA,5356660,place:WA:5356660,Purdy CDP,Purdy,Purdy,53053,Pierce County,Census-designated place,47.396619,-122.604044,1
+WA,5356695,place:WA:5356695,Puyallup city,Puyallup,Puyallup,53053,Pierce County,Incorporated place,47.179046,-122.291523,1
+WA,5356905,place:WA:5356905,Queets CDP,Queets,Queets,53027,Grays Harbor County,Census-designated place,47.526341,-124.344762,1
+WA,5357030,place:WA:5357030,Qui-nai-elt Village CDP,Qui-nai-elt Village,Qui-nai-elt Village,53027,Grays Harbor County,Census-designated place,47.250201,-124.190175,1
+WA,5356975,place:WA:5356975,Quilcene CDP,Quilcene,Quilcene,53031,Jefferson County,Census-designated place,47.839247,-122.912256,1
+WA,5357115,place:WA:5357115,Quincy city,Quincy,Quincy,53025,Grant County,Incorporated place,47.235877,-119.849079,1
+WA,5357140,place:WA:5357140,Raft Island CDP,Raft Island,Raft Island,53053,Pierce County,Census-designated place,47.328216,-122.667306,1
+WA,5357220,place:WA:5357220,Rainier city,Rainier,Rainier,53067,Thurston County,Incorporated place,46.89167,-122.686536,1
+WA,5357395,place:WA:5357395,Ravensdale CDP,Ravensdale,Ravensdale,53033,King County,Census-designated place,47.361865,-121.980407,1
+WA,5357430,place:WA:5357430,Raymond city,Raymond,Raymond,53049,Pacific County,Incorporated place,46.687367,-123.737331,1
+WA,5357465,place:WA:5357465,Reardan town,Reardan,Reardan,53043,Lincoln County,Incorporated place,47.670094,-117.878575,1
+WA,5357535,place:WA:5357535,Redmond city,Redmond,Redmond,53033,King County,Incorporated place,47.677924,-122.115336,1
+WA,5357745,place:WA:5357745,Renton city,Renton,Renton,53033,King County,Incorporated place,47.479488,-122.194892,1
+WA,5357850,place:WA:5357850,Republic city,Republic,Republic,53019,Ferry County,Incorporated place,48.648909,-118.731535,1
+WA,5358235,place:WA:5358235,Richland city,Richland,Richland,53005,Benton County,Incorporated place,46.28698,-119.294045,1
+WA,5358410,place:WA:5358410,Ridgefield city,Ridgefield,Ridgefield,53011,Clark County,Incorporated place,45.817571,-122.671959,1
+WA,5358725,place:WA:5358725,Ritzville city,Ritzville,Ritzville,53001,Adams County,Incorporated place,47.123041,-118.375332,1
+WA,5358777,place:WA:5358777,River Road CDP,River Road,River Road,53009,Clallam County,Census-designated place,48.067697,-123.127617,1
+WA,5358742,place:WA:5358742,Riverbend CDP,Riverbend,Riverbend,53033,King County,Census-designated place,47.464458,-121.751156,1
+WA,5358768,place:WA:5358768,Riverpoint CDP,Riverpoint,Riverpoint,53033,King County,Census-designated place,47.480116,-121.708755,1
+WA,5358795,place:WA:5358795,Riverside town,Riverside,Riverside,53047,Okanogan County,Incorporated place,48.513011,-119.515654,1
+WA,5359075,place:WA:5359075,Roche Harbor CDP,Roche Harbor,Roche Harbor,53055,San Juan County,Census-designated place,48.607398,-123.130616,1
+WA,5359110,place:WA:5359110,Rochester CDP,Rochester,Rochester,53067,Thurston County,Census-designated place,46.820368,-123.064253,1
+WA,5359180,place:WA:5359180,Rock Island city,Rock Island,Rock Island,53017,Douglas County,Incorporated place,47.373167,-120.142076,1
+WA,5359145,place:WA:5359145,Rockford town,Rockford,Rockford,53063,Spokane County,Incorporated place,47.451474,-117.130627,1
+WA,5359250,place:WA:5359250,Rockport CDP,Rockport,Rockport,53057,Skagit County,Census-designated place,48.484888,-121.606852,1
+WA,5359390,place:WA:5359390,Rocky Point CDP,Rocky Point,Rocky Point,53035,Kitsap County,Census-designated place,47.594091,-122.666067,1
+WA,5359635,place:WA:5359635,Ronald CDP,Ronald,Ronald,53037,Kittitas County,Census-designated place,47.233754,-121.033478,1
+WA,5359705,place:WA:5359705,Roosevelt CDP,Roosevelt,Roosevelt,53039,Klickitat County,Census-designated place,45.733056,-120.236579,1
+WA,5359775,place:WA:5359775,Rosalia town,Rosalia,Rosalia,53075,Whitman County,Incorporated place,47.236287,-117.376477,1
+WA,5359845,place:WA:5359845,Rosburg CDP,Rosburg,Rosburg,53069,Wahkiakum County,Census-designated place,46.309978,-123.638796,1
+WA,5359880,place:WA:5359880,Rosedale CDP,Rosedale,Rosedale,53053,Pierce County,Census-designated place,47.341309,-122.632526,1
+WA,5360055,place:WA:5360055,Roslyn city,Roslyn,Roslyn,53037,Kittitas County,Incorporated place,47.27003,-121.141205,1
+WA,5360160,place:WA:5360160,Roy city,Roy,Roy,53053,Pierce County,Incorporated place,46.989933,-122.541063,1
+WA,5360230,place:WA:5360230,Royal City city,Royal City,Royal City,53025,Grant County,Incorporated place,46.901827,-119.620896,1
+WA,5360510,place:WA:5360510,Ruston city,Ruston,Ruston,53053,Pierce County,Incorporated place,47.297574,-122.510376,1
+WA,5360580,place:WA:5360580,Ryderwood CDP,Ryderwood,Ryderwood,53015,Cowlitz County,Census-designated place,46.374868,-123.044179,1
+WA,5361000,place:WA:5361000,Salmon Creek CDP,Salmon Creek,Salmon Creek,53011,Clark County,Census-designated place,45.709916,-122.663207,1
+WA,5361115,place:WA:5361115,Sammamish city,Sammamish,Sammamish,53033,King County,Incorporated place,47.594268,-122.038081,1
+WA,5361235,place:WA:5361235,Santiago CDP,Santiago,Santiago,53027,Grays Harbor County,Census-designated place,47.2988,-124.231962,1
+WA,5361350,place:WA:5361350,Satsop CDP,Satsop,Satsop,53027,Grays Harbor County,Census-designated place,47.022858,-123.483009,1
+WA,5361925,place:WA:5361925,Schwana CDP,Schwana,Schwana,53025,Grant County,Census-designated place,46.822086,-119.923336,1
+WA,5362120,place:WA:5362120,Seabeck CDP,Seabeck,Seabeck,53035,Kitsap County,Census-designated place,47.644263,-122.817973,1
+WA,5362288,place:WA:5362288,SeaTac city,SeaTac,SeaTac,53033,King County,Incorporated place,47.443688,-122.298516,1
+WA,5363000,place:WA:5363000,Seattle city,Seattle,Seattle,53033,King County,Incorporated place,47.619335,-122.351538,1
+WA,5363210,place:WA:5363210,Sedro-Woolley city,Sedro-Woolley,Sedro-Woolley,53057,Skagit County,Incorporated place,48.511436,-122.232241,1
+WA,5363245,place:WA:5363245,Sekiu CDP,Sekiu,Sekiu,53009,Clallam County,Census-designated place,48.262015,-124.302573,1
+WA,5363280,place:WA:5363280,Selah city,Selah,Selah,53077,Yakima County,Incorporated place,46.645856,-120.543623,1
+WA,5363385,place:WA:5363385,Sequim city,Sequim,Sequim,53009,Clallam County,Incorporated place,48.073965,-123.085779,1
+WA,5363545,place:WA:5363545,Shadow Lake CDP,Shadow Lake,Shadow Lake,53033,King County,Census-designated place,47.406058,-122.079873,1
+WA,5363735,place:WA:5363735,Shelton city,Shelton,Shelton,53045,Mason County,Incorporated place,47.225574,-123.112243,1
+WA,5363960,place:WA:5363960,Shoreline city,Shoreline,Shoreline,53033,King County,Incorporated place,47.757532,-122.345303,1
+WA,5364190,place:WA:5364190,Silvana CDP,Silvana,Silvana,53061,Snohomish County,Census-designated place,48.201849,-122.245761,1
+WA,5364380,place:WA:5364380,Silver Firs CDP,Silver Firs,Silver Firs,53061,Snohomish County,Census-designated place,47.863505,-122.149716,1
+WA,5364365,place:WA:5364365,Silverdale CDP,Silverdale,Silverdale,53035,Kitsap County,Census-designated place,47.667733,-122.681851,1
+WA,5364610,place:WA:5364610,Sisco Heights CDP,Sisco Heights,Sisco Heights,53061,Snohomish County,Census-designated place,48.117652,-122.110452,1
+WA,5364755,place:WA:5364755,Skamokawa Valley CDP,Skamokawa Valley,Skamokawa Valley,53069,Wahkiakum County,Census-designated place,46.314477,-123.402186,1
+WA,5364775,place:WA:5364775,Skokomish CDP,Skokomish,Skokomish,53045,Mason County,Census-designated place,47.328343,-123.1588,1
+WA,5364855,place:WA:5364855,Skykomish town,Skykomish,Skykomish,53033,King County,Incorporated place,47.709932,-121.357286,1
+WA,5365170,place:WA:5365170,Snohomish city,Snohomish,Snohomish,53061,Snohomish County,Incorporated place,47.928866,-122.092684,1
+WA,5365205,place:WA:5365205,Snoqualmie city,Snoqualmie,Snoqualmie,53033,King County,Incorporated place,47.543245,-121.868645,1
+WA,5365275,place:WA:5365275,Snoqualmie Pass CDP,Snoqualmie Pass,Snoqualmie Pass,53037,Kittitas County,Census-designated place,47.40155,-121.411014,1
+WA,5365345,place:WA:5365345,Soap Lake city,Soap Lake,Soap Lake,53025,Grant County,Incorporated place,47.391092,-119.484608,1
+WA,5365625,place:WA:5365625,South Bend city,South Bend,South Bend,53049,Pacific County,Incorporated place,46.669978,-123.801719,1
+WA,5365765,place:WA:5365765,South Cle Elum town,South Cle Elum,South Cle Elum,53037,Kittitas County,Incorporated place,47.186186,-120.952554,1
+WA,5365810,place:WA:5365810,South Creek CDP,South Creek,South Creek,53053,Pierce County,Census-designated place,47.000389,-122.391334,1
+WA,5365922,place:WA:5365922,South Hill CDP,South Hill,South Hill,53053,Pierce County,Census-designated place,47.120704,-122.285264,1
+WA,5366045,place:WA:5366045,South Prairie town,South Prairie,South Prairie,53053,Pierce County,Incorporated place,47.135386,-122.096623,1
+WA,5366185,place:WA:5366185,South Wenatchee CDP,South Wenatchee,South Wenatchee,53007,Chelan County,Census-designated place,47.394422,-120.289252,1
+WA,5366220,place:WA:5366220,Southworth CDP,Southworth,Southworth,53035,Kitsap County,Census-designated place,47.51378,-122.532242,1
+WA,5366255,place:WA:5366255,Spanaway CDP,Spanaway,Spanaway,53053,Pierce County,Census-designated place,47.098061,-122.42337,1
+WA,5366290,place:WA:5366290,Spangle city,Spangle,Spangle,53063,Spokane County,Incorporated place,47.429894,-117.381224,1
+WA,5367000,place:WA:5367000,Spokane city,Spokane,Spokane,53063,Spokane County,Incorporated place,47.666935,-117.433322,1
+WA,5367167,place:WA:5367167,Spokane Valley city,Spokane Valley,Spokane Valley,53063,Spokane County,Incorporated place,47.663353,-117.23278,1
+WA,5367175,place:WA:5367175,Sprague city,Sprague,Sprague,53043,Lincoln County,Incorporated place,47.304889,-117.97129,1
+WA,5367210,place:WA:5367210,Springdale town,Springdale,Springdale,53065,Stevens County,Incorporated place,48.057231,-117.746565,1
+WA,5360860,place:WA:5360860,St. John town,St. John,St. John,53075,Whitman County,Incorporated place,47.091474,-117.588687,1
+WA,5367435,place:WA:5367435,Stansberry Lake CDP,Stansberry Lake,Stansberry Lake,53053,Pierce County,Census-designated place,47.38291,-122.711992,1
+WA,5367455,place:WA:5367455,Stanwood city,Stanwood,Stanwood,53061,Snohomish County,Incorporated place,48.245144,-122.342232,1
+WA,5367490,place:WA:5367490,Starbuck town,Starbuck,Starbuck,53013,Columbia County,Incorporated place,46.52156,-118.127452,1
+WA,5367595,place:WA:5367595,Startup CDP,Startup,Startup,53061,Snohomish County,Census-designated place,47.874182,-121.754429,1
+WA,5367770,place:WA:5367770,Steilacoom town,Steilacoom,Steilacoom,53053,Pierce County,Incorporated place,47.169267,-122.592336,1
+WA,5367805,place:WA:5367805,Steptoe CDP,Steptoe,Steptoe,53075,Whitman County,Census-designated place,47.007401,-117.350209,1
+WA,5367875,place:WA:5367875,Stevenson city,Stevenson,Stevenson,53059,Skamania County,Incorporated place,45.69644,-121.897914,1
+WA,5368200,place:WA:5368200,Sudden Valley CDP,Sudden Valley,Sudden Valley,53073,Whatcom County,Census-designated place,48.723084,-122.344096,1
+WA,5368260,place:WA:5368260,Sultan city,Sultan,Sultan,53061,Snohomish County,Incorporated place,47.871132,-121.804106,1
+WA,5368330,place:WA:5368330,Sumas city,Sumas,Sumas,53073,Whatcom County,Incorporated place,48.995755,-122.268995,1
+WA,5368365,place:WA:5368365,Summit CDP,Summit,Summit,53053,Pierce County,Census-designated place,47.169445,-122.363627,1
+WA,5368410,place:WA:5368410,Summit View CDP,Summit View,Summit View,53053,Pierce County,Census-designated place,47.136325,-122.352022,1
+WA,5368417,place:WA:5368417,Summitview CDP,Summitview,Summitview,53077,Yakima County,Census-designated place,46.598279,-120.6564,1
+WA,5368435,place:WA:5368435,Sumner city,Sumner,Sumner,53053,Pierce County,Incorporated place,47.232355,-122.237776,1
+WA,5368460,place:WA:5368460,Suncrest CDP,Suncrest,Suncrest,53065,Stevens County,Census-designated place,47.833321,-117.615763,1
+WA,5368480,place:WA:5368480,Sunday Lake CDP,Sunday Lake,Sunday Lake,53061,Snohomish County,Census-designated place,48.228249,-122.270443,1
+WA,5368557,place:WA:5368557,Sunland Estates CDP,Sunland Estates,Sunland Estates,53025,Grant County,Census-designated place,47.074097,-120.028303,1
+WA,5368750,place:WA:5368750,Sunnyside city,Sunnyside,Sunnyside,53077,Yakima County,Incorporated place,46.315655,-120.005628,1
+WA,5368785,place:WA:5368785,Sunnyslope CDP,Sunnyslope,Sunnyslope,53007,Chelan County,Census-designated place,47.504826,-120.353219,1
+WA,5369170,place:WA:5369170,Suquamish CDP,Suquamish,Suquamish,53035,Kitsap County,Census-designated place,47.725917,-122.588347,1
+WA,5369280,place:WA:5369280,Swede Heaven CDP,Swede Heaven,Swede Heaven,53061,Snohomish County,Census-designated place,48.280667,-121.709853,1
+WA,5370000,place:WA:5370000,Tacoma city,Tacoma,Tacoma,53053,Pierce County,Incorporated place,47.252199,-122.459832,1
+WA,5370175,place:WA:5370175,Taholah CDP,Taholah,Taholah,53027,Grays Harbor County,Census-designated place,47.325981,-124.272931,1
+WA,5370245,place:WA:5370245,Tampico CDP,Tampico,Tampico,53077,Yakima County,Census-designated place,46.532214,-120.874916,1
+WA,5370280,place:WA:5370280,Tanglewilde CDP,Tanglewilde,Tanglewilde,53067,Thurston County,Census-designated place,47.051342,-122.782217,1
+WA,5370543,place:WA:5370543,Tehaleh CDP,Tehaleh,Tehaleh,53053,Pierce County,Census-designated place,47.116149,-122.178885,1
+WA,5370560,place:WA:5370560,Tekoa city,Tekoa,Tekoa,53075,Whitman County,Incorporated place,47.224731,-117.073057,1
+WA,5370630,place:WA:5370630,Tenino city,Tenino,Tenino,53067,Thurston County,Incorporated place,46.853817,-122.86045,1
+WA,5370805,place:WA:5370805,Terrace Heights CDP,Terrace Heights,Terrace Heights,53077,Yakima County,Census-designated place,46.59722,-120.434097,1
+WA,5371225,place:WA:5371225,Thorp CDP,Thorp,Thorp,53037,Kittitas County,Census-designated place,47.065483,-120.670837,1
+WA,5371330,place:WA:5371330,Three Lakes CDP,Three Lakes,Three Lakes,53061,Snohomish County,Census-designated place,47.939247,-121.994011,1
+WA,5371400,place:WA:5371400,Tieton city,Tieton,Tieton,53077,Yakima County,Incorporated place,46.702603,-120.755784,1
+WA,5371680,place:WA:5371680,Tokeland CDP,Tokeland,Tokeland,53049,Pacific County,Census-designated place,46.708781,-123.983386,1
+WA,5371785,place:WA:5371785,Toledo city,Toledo,Toledo,53041,Lewis County,Incorporated place,46.444721,-122.85223,1
+WA,5371890,place:WA:5371890,Tonasket city,Tonasket,Tonasket,53047,Okanogan County,Incorporated place,48.707563,-119.442297,1
+WA,5371960,place:WA:5371960,Toppenish city,Toppenish,Toppenish,53077,Yakima County,Incorporated place,46.380242,-120.312583,1
+WA,5371995,place:WA:5371995,Torboy CDP,Torboy,Torboy,53019,Ferry County,Census-designated place,48.669266,-118.669013,1
+WA,5372030,place:WA:5372030,Touchet CDP,Touchet,Touchet,53071,Walla Walla County,Census-designated place,46.041103,-118.672394,1
+WA,5372170,place:WA:5372170,Town and Country CDP,Town and Country,Town and Country,53063,Spokane County,Census-designated place,47.727965,-117.422965,1
+WA,5372205,place:WA:5372205,Tracyton CDP,Tracyton,Tracyton,53035,Kitsap County,Census-designated place,47.609576,-122.653182,1
+WA,5372450,place:WA:5372450,Trout Lake CDP,Trout Lake,Trout Lake,53039,Klickitat County,Census-designated place,46.011395,-121.547429,1
+WA,5372625,place:WA:5372625,Tukwila city,Tukwila,Tukwila,53033,King County,Incorporated place,47.476289,-122.27574,1
+WA,5372905,place:WA:5372905,Tumwater city,Tumwater,Tumwater,53067,Thurston County,Incorporated place,46.989463,-122.917277,1
+WA,5373065,place:WA:5373065,Twin Lakes CDP,Twin Lakes,Twin Lakes,53019,Ferry County,Census-designated place,48.262169,-118.359053,1
+WA,5373080,place:WA:5373080,Twisp town,Twisp,Twisp,53047,Okanogan County,Incorporated place,48.361004,-120.117135,1
+WA,5373255,place:WA:5373255,Union CDP,Union,Union,53045,Mason County,Census-designated place,47.347507,-123.095079,1
+WA,5373290,place:WA:5373290,Union Gap city,Union Gap,Union Gap,53077,Yakima County,Incorporated place,46.554689,-120.491277,1
+WA,5373307,place:WA:5373307,Union Hill-Novelty Hill CDP,Union Hill-Novelty Hill,Union Hill-Novelty Hill,53033,King County,Census-designated place,47.682591,-122.020383,1
+WA,5373360,place:WA:5373360,Uniontown town,Uniontown,Uniontown,53075,Whitman County,Incorporated place,46.539091,-117.086137,1
+WA,5373465,place:WA:5373465,University Place city,University Place,University Place,53053,Pierce County,Incorporated place,47.215371,-122.547259,1
+WA,5373580,place:WA:5373580,Upper Elochoman CDP,Upper Elochoman,Upper Elochoman,53069,Wahkiakum County,Census-designated place,46.240347,-123.324565,1
+WA,5373780,place:WA:5373780,Vader city,Vader,Vader,53041,Lewis County,Incorporated place,46.404596,-122.957028,1
+WA,5373885,place:WA:5373885,Valley CDP,Valley,Valley,53065,Stevens County,Census-designated place,48.172881,-117.724464,1
+WA,5374060,place:WA:5374060,Vancouver city,Vancouver,Vancouver,53011,Clark County,Incorporated place,45.637156,-122.596567,1
+WA,5374200,place:WA:5374200,Vantage CDP,Vantage,Vantage,53037,Kittitas County,Census-designated place,46.945232,-119.99215,1
+WA,5374305,place:WA:5374305,Vashon CDP,Vashon,Vashon,53033,King County,Census-designated place,47.411141,-122.455187,1
+WA,5374445,place:WA:5374445,Vaughn CDP,Vaughn,Vaughn,53053,Pierce County,Census-designated place,47.357979,-122.78249,1
+WA,5374585,place:WA:5374585,Venersborg CDP,Venersborg,Venersborg,53011,Clark County,Census-designated place,45.785974,-122.471547,1
+WA,5374760,place:WA:5374760,Verlot CDP,Verlot,Verlot,53061,Snohomish County,Census-designated place,48.101994,-121.759218,1
+WA,5375565,place:WA:5375565,Waitsburg city,Waitsburg,Waitsburg,53071,Walla Walla County,Incorporated place,46.269798,-118.150869,1
+WA,5375775,place:WA:5375775,Walla Walla city,Walla Walla,Walla Walla,53071,Walla Walla County,Incorporated place,46.067006,-118.337033,1
+WA,5375810,place:WA:5375810,Walla Walla East CDP,Walla Walla East,Walla Walla East,53071,Walla Walla County,Census-designated place,46.045823,-118.303096,1
+WA,5375905,place:WA:5375905,Waller CDP,Waller,Waller,53053,Pierce County,Census-designated place,47.20431,-122.367804,1
+WA,5375985,place:WA:5375985,Wallula CDP,Wallula,Wallula,53071,Walla Walla County,Census-designated place,46.0847,-118.905593,1
+WA,5376125,place:WA:5376125,Wapato city,Wapato,Wapato,53077,Yakima County,Incorporated place,46.443632,-120.421507,1
+WA,5376160,place:WA:5376160,Warden city,Warden,Warden,53025,Grant County,Incorporated place,46.967256,-119.052783,1
+WA,5376195,place:WA:5376195,Warm Beach CDP,Warm Beach,Warm Beach,53061,Snohomish County,Census-designated place,48.165106,-122.347701,1
+WA,5376405,place:WA:5376405,Washougal city,Washougal,Washougal,53011,Clark County,Incorporated place,45.582801,-122.346384,1
+WA,5376440,place:WA:5376440,Washtucna town,Washtucna,Washtucna,53001,Adams County,Incorporated place,46.75391,-118.310539,1
+WA,5376510,place:WA:5376510,Waterville town,Waterville,Waterville,53017,Douglas County,Incorporated place,47.648019,-120.070682,1
+WA,5376615,place:WA:5376615,Wauna CDP,Wauna,Wauna,53053,Pierce County,Census-designated place,47.383066,-122.669385,1
+WA,5376720,place:WA:5376720,Waverly town,Waverly,Waverly,53063,Spokane County,Incorporated place,47.338087,-117.231225,1
+WA,5377105,place:WA:5377105,Wenatchee city,Wenatchee,Wenatchee,53007,Chelan County,Incorporated place,47.435985,-120.329266,1
+WA,5377297,place:WA:5377297,West Clarkston-Highland CDP,West Clarkston-Highland,West Clarkston-Highland,53003,Asotin County,Census-designated place,46.402499,-117.064486,1
+WA,5377612,place:WA:5377612,West Pasco CDP,West Pasco,West Pasco,53021,Franklin County,Census-designated place,46.254319,-119.182636,1
+WA,5377665,place:WA:5377665,West Richland city,West Richland,West Richland,53005,Benton County,Incorporated place,46.313797,-119.387728,1
+WA,5377630,place:WA:5377630,Westport city,Westport,Westport,53027,Grays Harbor County,Incorporated place,46.891815,-124.119847,1
+WA,5378050,place:WA:5378050,Wheeler CDP,Wheeler,Wheeler,53025,Grant County,Census-designated place,47.134935,-119.175978,1
+WA,5378155,place:WA:5378155,Whidbey Island Station CDP,Whidbey Island Station,Whidbey Island Station,53029,Island County,Census-designated place,48.349788,-122.654064,1
+WA,5378225,place:WA:5378225,White Center CDP,White Center,White Center,53033,King County,Census-designated place,47.50924,-122.348063,1
+WA,5378330,place:WA:5378330,White Salmon city,White Salmon,White Salmon,53039,Klickitat County,Incorporated place,45.728517,-121.485392,1
+WA,5378365,place:WA:5378365,White Swan CDP,White Swan,White Swan,53077,Yakima County,Census-designated place,46.376978,-120.738123,1
+WA,5378680,place:WA:5378680,Wilbur town,Wilbur,Wilbur,53043,Lincoln County,Incorporated place,47.758132,-118.71194,1
+WA,5378780,place:WA:5378780,Wilderness Rim CDP,Wilderness Rim,Wilderness Rim,53033,King County,Census-designated place,47.446799,-121.768351,1
+WA,5378925,place:WA:5378925,Wilkeson town,Wilkeson,Wilkeson,53053,Pierce County,Incorporated place,47.10191,-122.052066,1
+WA,5378995,place:WA:5378995,Willapa CDP,Willapa,Willapa,53049,Pacific County,Census-designated place,46.675447,-123.664752,1
+WA,5379135,place:WA:5379135,Wilson Creek town,Wilson Creek,Wilson Creek,53025,Grant County,Incorporated place,47.423013,-119.117651,1
+WA,5379275,place:WA:5379275,Winlock city,Winlock,Winlock,53041,Lewis County,Incorporated place,46.490681,-122.918391,1
+WA,5379380,place:WA:5379380,Winthrop town,Winthrop,Winthrop,53047,Okanogan County,Incorporated place,48.471581,-120.178987,1
+WA,5379485,place:WA:5379485,Wishram CDP,Wishram,Wishram,53039,Klickitat County,Census-designated place,45.661331,-120.971368,1
+WA,5379555,place:WA:5379555,Wollochet CDP,Wollochet,Wollochet,53053,Pierce County,Census-designated place,47.282729,-122.577147,1
+WA,5379590,place:WA:5379590,Woodinville city,Woodinville,Woodinville,53033,King County,Incorporated place,47.757695,-122.146791,1
+WA,5379625,place:WA:5379625,Woodland city,Woodland,Woodland,53015,Cowlitz County,Incorporated place,45.918183,-122.753502,1
+WA,5379825,place:WA:5379825,Woods Creek CDP,Woods Creek,Woods Creek,53061,Snohomish County,Census-designated place,47.877445,-121.902612,1
+WA,5379835,place:WA:5379835,Woodway city,Woodway,Woodway,53061,Snohomish County,Incorporated place,47.783518,-122.388337,1
+WA,5379975,place:WA:5379975,Yacolt town,Yacolt,Yacolt,53011,Clark County,Incorporated place,45.865248,-122.406322,1
+WA,5380010,place:WA:5380010,Yakima city,Yakima,Yakima,53077,Yakima County,Incorporated place,46.590938,-120.5494,1
+WA,5380150,place:WA:5380150,Yarrow Point town,Yarrow Point,Yarrow Point,53033,King County,Incorporated place,47.644586,-122.219991,1
+WA,5380220,place:WA:5380220,Yelm city,Yelm,Yelm,53067,Thurston County,Incorporated place,46.942608,-122.643159,1
+WA,5380500,place:WA:5380500,Zillah city,Zillah,Zillah,53077,Yakima County,Incorporated place,46.408424,-120.272663,1

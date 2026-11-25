@@ -1,0 +1,429 @@
+state,zip_area,zip_scope,counties,county_geoids,lat,lon,has_2020_place_overlap
+MS,38326,zcta:MS:38326,Tishomingo County,28141,35.045914,-88.277761,0
+MS,38601,zcta:MS:38601,Lafayette County,28071,34.478541,-89.451271,1
+MS,38603,zcta:MS:38603,Benton County | Tippah County,28009 | 28139,34.84841,-89.14226,1
+MS,38606,zcta:MS:38606,Lafayette County | Panola County | Quitman County,28071 | 28107 | 28119,34.302814,-89.95193,1
+MS,38610,zcta:MS:38610,Benton County | Tippah County | Union County,28009 | 28139 | 28145,34.651787,-89.025549,1
+MS,38611,zcta:MS:38611,DeSoto County | Marshall County,28033 | 28093,34.856233,-89.67602,1
+MS,38614,zcta:MS:38614,Bolivar County | Coahoma County,28011 | 28027,34.159567,-90.608353,1
+MS,38617,zcta:MS:38617,Coahoma County | Quitman County,28027 | 28119,34.36167,-90.490578,1
+MS,38618,zcta:MS:38618,DeSoto County | Marshall County | Tate County,28033 | 28093 | 28137,34.716282,-89.937848,1
+MS,38619,zcta:MS:38619,Lafayette County | Panola County | Tate County,28071 | 28107 | 28137,34.51528,-89.823801,1
+MS,38620,zcta:MS:38620,Panola County,28107,34.236735,-89.916136,1
+MS,38621,zcta:MS:38621,Panola County | Quitman County,28107 | 28119,34.447192,-90.170459,1
+MS,38622,zcta:MS:38622,Panola County | Quitman County,28107 | 28119,34.169492,-90.134577,1
+MS,38623,zcta:MS:38623,Quitman County,28119,34.354003,-90.309813,1
+MS,38625,zcta:MS:38625,Tippah County | Union County,28139 | 28145,34.614317,-88.835904,1
+MS,38626,zcta:MS:38626,Coahoma County | Tunica County,28027 | 28143,34.51998,-90.433941,1
+MS,38627,zcta:MS:38627,Lafayette County | Union County,28071 | 28145,34.454561,-89.238037,0
+MS,38629,zcta:MS:38629,Benton County | Tippah County,28009 | 28139,34.868465,-88.990462,1
+MS,38631,zcta:MS:38631,Coahoma County,28027,34.358314,-90.625691,1
+MS,38632,zcta:MS:38632,DeSoto County,28033,34.795883,-90.01512,1
+MS,38633,zcta:MS:38633,Benton County | Union County,28009 | 28145,34.647337,-89.194971,1
+MS,38635,zcta:MS:38635,Benton County | Marshall County | Tate County,28009 | 28093 | 28137,34.766919,-89.48633,1
+MS,38637,zcta:MS:38637,DeSoto County,28033,34.950824,-90.048695,1
+MS,38639,zcta:MS:38639,Coahoma County,28027,34.309083,-90.428534,1
+MS,38641,zcta:MS:38641,DeSoto County,28033,34.911225,-90.1695,1
+MS,38642,zcta:MS:38642,Benton County | Marshall County,28009 | 28093,34.911376,-89.341402,1
+MS,38643,zcta:MS:38643,Quitman County | Tallahatchie County,28119 | 28135,34.148487,-90.260865,1
+MS,38644,zcta:MS:38644,Coahoma County,28027,34.45889,-90.475777,1
+MS,38645,zcta:MS:38645,Coahoma County | Quitman County,28027 | 28119,34.240249,-90.476962,1
+MS,38646,zcta:MS:38646,Quitman County,28119,34.301697,-90.324883,1
+MS,38647,zcta:MS:38647,Benton County,28009,34.963506,-89.224108,0
+MS,38650,zcta:MS:38650,Benton County | Union County,28009 | 28145,34.532061,-89.142466,1
+MS,38651,zcta:MS:38651,DeSoto County,28033,34.893416,-90.002219,1
+MS,38652,zcta:MS:38652,Union County,28145,34.486088,-88.996739,1
+MS,38654,zcta:MS:38654,DeSoto County | Marshall County,28033 | 28093,34.933929,-89.81628,1
+MS,38655,zcta:MS:38655,Lafayette County,28071,34.329772,-89.487118,1
+MS,38658,zcta:MS:38658,Panola County | Yalobusha County,28107 | 28161,34.188341,-89.900997,1
+MS,38659,zcta:MS:38659,Benton County | Marshall County,28009 | 28093,34.621505,-89.331511,1
+MS,38661,zcta:MS:38661,Marshall County,28093,34.875119,-89.541681,1
+MS,38663,zcta:MS:38663,Benton County | Tippah County,28009 | 28139,34.738992,-88.902741,1
+MS,38664,zcta:MS:38664,Tunica County,28143,34.811492,-90.329332,1
+MS,38665,zcta:MS:38665,Panola County | Tate County | Tunica County,28107 | 28137 | 28143,34.583273,-90.166012,1
+MS,38666,zcta:MS:38666,Panola County,28107,34.418127,-89.928772,1
+MS,38668,zcta:MS:38668,Panola County | Tate County,28107 | 28137,34.590628,-89.917759,1
+MS,38670,zcta:MS:38670,Quitman County | Tunica County,28119 | 28143,34.433025,-90.28595,1
+MS,38671,zcta:MS:38671,DeSoto County,28033,34.96626,-89.998152,1
+MS,38672,zcta:MS:38672,DeSoto County,28033,34.911425,-89.927878,1
+MS,38673,zcta:MS:38673,Lafayette County,28071,34.293443,-89.635806,1
+MS,38674,zcta:MS:38674,Tippah County,28139,34.86837,-88.892398,0
+MS,38676,zcta:MS:38676,Tunica County,28143,34.674764,-90.366922,1
+MS,38677,zcta:MS:38677,Lafayette County,28071,34.361968,-89.538578,1
+MS,38680,zcta:MS:38680,DeSoto County,28033,34.957753,-90.145108,1
+MS,38683,zcta:MS:38683,Alcorn County | Benton County | Tippah County,28003 | 28009 | 28139,34.935325,-88.854938,1
+MS,38685,zcta:MS:38685,Lafayette County | Marshall County,28071 | 28093,34.593076,-89.488486,1
+MS,38701,zcta:MS:38701,Washington County,28151,33.302576,-91.029186,1
+MS,38703,zcta:MS:38703,Bolivar County | Washington County,28011 | 28151,33.475662,-91.052834,1
+MS,38720,zcta:MS:38720,Bolivar County | Coahoma County,28011 | 28027,34.108397,-90.788009,1
+MS,38721,zcta:MS:38721,Sharkey County,28125,32.970368,-90.752127,1
+MS,38722,zcta:MS:38722,Washington County,28151,33.263017,-90.888215,1
+MS,38723,zcta:MS:38723,Washington County,28151,33.229676,-91.038462,0
+MS,38725,zcta:MS:38725,Bolivar County,28011,33.635451,-91.060082,1
+MS,38726,zcta:MS:38726,Bolivar County,28011,33.753433,-90.977555,1
+MS,38730,zcta:MS:38730,Bolivar County,28011,33.680878,-90.804903,1
+MS,38731,zcta:MS:38731,Washington County,28151,33.123508,-91.130809,0
+MS,38732,zcta:MS:38732,Bolivar County | Sunflower County,28011 | 28133,33.758916,-90.725666,1
+MS,38733,zcta:MS:38733,Bolivar County,28011,33.744626,-90.735133,1
+MS,38736,zcta:MS:38736,Leflore County | Sunflower County,28083 | 28133,33.647759,-90.543171,1
+MS,38737,zcta:MS:38737,Sunflower County | Tallahatchie County,28133 | 28135,33.861002,-90.49643,1
+MS,38738,zcta:MS:38738,Sunflower County,28133,33.93292,-90.534414,0
+MS,38740,zcta:MS:38740,Bolivar County | Coahoma County,28011 | 28027,34.049925,-90.805229,1
+MS,38744,zcta:MS:38744,Issaquena County | Washington County,28055 | 28151,33.029689,-91.051318,1
+MS,38745,zcta:MS:38745,Issaquena County,28055,32.974211,-91.039242,1
+MS,38746,zcta:MS:38746,Bolivar County,28011,33.956757,-90.992909,1
+MS,38748,zcta:MS:38748,Sharkey County | Washington County,28125 | 28151,33.155088,-90.875976,1
+MS,38751,zcta:MS:38751,Sunflower County,28133,33.453305,-90.674979,1
+MS,38753,zcta:MS:38753,Humphreys County | Sunflower County,28053 | 28133,33.349405,-90.584439,1
+MS,38754,zcta:MS:38754,Humphreys County | Sunflower County,28053 | 28133,33.249944,-90.622535,1
+MS,38756,zcta:MS:38756,Washington County,28151,33.387964,-90.863076,1
+MS,38759,zcta:MS:38759,Bolivar County | Sunflower County,28011 | 28133,33.829126,-90.737388,1
+MS,38760,zcta:MS:38760,Washington County,28151,33.453544,-90.993986,1
+MS,38761,zcta:MS:38761,Leflore County | Sunflower County,28083 | 28133,33.429275,-90.469962,1
+MS,38762,zcta:MS:38762,Bolivar County | Sunflower County,28011 | 28133,33.896439,-90.725653,1
+MS,38764,zcta:MS:38764,Bolivar County,28011,33.799139,-90.88412,1
+MS,38765,zcta:MS:38765,Sharkey County,28125,33.049293,-90.889553,1
+MS,38767,zcta:MS:38767,Coahoma County,28027,34.128071,-90.805499,0
+MS,38768,zcta:MS:38768,Sunflower County,28133,33.97064,-90.477196,0
+MS,38769,zcta:MS:38769,Bolivar County,28011,33.84241,-90.978141,1
+MS,38771,zcta:MS:38771,Sunflower County,28133,33.739586,-90.523058,1
+MS,38772,zcta:MS:38772,Bolivar County,28011,33.562525,-91.087659,1
+MS,38773,zcta:MS:38773,Bolivar County | Sunflower County,28011 | 28133,33.604991,-90.773389,1
+MS,38774,zcta:MS:38774,Bolivar County,28011,33.965708,-90.767555,1
+MS,38776,zcta:MS:38776,Washington County,28151,33.424672,-90.927454,1
+MS,38778,zcta:MS:38778,Sunflower County,28133,33.55399,-90.514164,1
+MS,38781,zcta:MS:38781,Bolivar County,28011,33.908716,-90.756821,1
+MS,38801,zcta:MS:38801,Lee County | Pontotoc County,28081 | 28115,34.222629,-88.774588,1
+MS,38804,zcta:MS:38804,Itawamba County | Lee County,28057 | 28081,34.281378,-88.672873,1
+MS,38821,zcta:MS:38821,Monroe County,28095,33.973786,-88.437683,1
+MS,38824,zcta:MS:38824,Itawamba County | Lee County | Prentiss County | Tippah County | Union County,28057 | 28081 | 28117 | 28139 | 28145,34.519299,-88.641004,1
+MS,38826,zcta:MS:38826,Lee County | Pontotoc County,28081 | 28115,34.302823,-88.848271,1
+MS,38827,zcta:MS:38827,Tishomingo County,28141,34.511227,-88.242369,1
+MS,38828,zcta:MS:38828,Lee County | Pontotoc County | Union County,28081 | 28115 | 28145,34.423833,-88.864862,1
+MS,38829,zcta:MS:38829,Prentiss County | Tippah County,28117 | 28139,34.652489,-88.536872,1
+MS,38833,zcta:MS:38833,Alcorn County | Prentiss County | Tishomingo County,28003 | 28117 | 28141,34.833917,-88.342912,1
+MS,38834,zcta:MS:38834,Alcorn County | Tishomingo County,28003 | 28141,34.917816,-88.559666,1
+MS,38838,zcta:MS:38838,Prentiss County | Tishomingo County,28117 | 28141,34.546433,-88.255741,1
+MS,38839,zcta:MS:38839,Calhoun County,28013,33.855572,-89.284062,1
+MS,38841,zcta:MS:38841,Pontotoc County | Union County,28115 | 28145,34.348077,-89.021483,1
+MS,38843,zcta:MS:38843,Itawamba County | Lee County,28057 | 28081,34.262055,-88.376343,1
+MS,38844,zcta:MS:38844,Monroe County,28095,33.83904,-88.255872,1
+MS,38846,zcta:MS:38846,Alcorn County | Tishomingo County,28003 | 28141,34.850755,-88.382712,1
+MS,38847,zcta:MS:38847,Itawamba County | Tishomingo County,28057 | 28141,34.41254,-88.23296,1
+MS,38848,zcta:MS:38848,Monroe County,28095,33.936953,-88.282548,1
+MS,38849,zcta:MS:38849,Itawamba County | Lee County | Union County,28057 | 28081 | 28145,34.461414,-88.697105,1
+MS,38850,zcta:MS:38850,Calhoun County | Chickasaw County | Pontotoc County,28013 | 28017 | 28115,34.058891,-89.057937,1
+MS,38851,zcta:MS:38851,Chickasaw County,28017,33.910353,-88.967727,1
+MS,38852,zcta:MS:38852,Tishomingo County,28141,34.844249,-88.216912,1
+MS,38855,zcta:MS:38855,Itawamba County | Lee County,28057 | 28081,34.320903,-88.484847,1
+MS,38856,zcta:MS:38856,Itawamba County | Prentiss County,28057 | 28117,34.467115,-88.455149,1
+MS,38857,zcta:MS:38857,Lee County,28081,34.281521,-88.574989,1
+MS,38858,zcta:MS:38858,Itawamba County | Lee County | Monroe County,28057 | 28081 | 28095,34.095829,-88.531015,1
+MS,38859,zcta:MS:38859,Prentiss County,28117,34.515197,-88.368607,1
+MS,38860,zcta:MS:38860,Chickasaw County | Lee County | Monroe County | Pontotoc County,28017 | 28081 | 28095 | 28115,33.976696,-88.759696,1
+MS,38862,zcta:MS:38862,Lee County,28081,34.168139,-88.623239,1
+MS,38863,zcta:MS:38863,Lafayette County | Pontotoc County,28071 | 28115,34.217021,-89.027469,1
+MS,38864,zcta:MS:38864,Calhoun County | Pontotoc County,28013 | 28115,34.15835,-89.207869,1
+MS,38865,zcta:MS:38865,Alcorn County | Prentiss County,28003 | 28117,34.788031,-88.595406,1
+MS,38866,zcta:MS:38866,Lee County,28081,34.36762,-88.680078,1
+MS,38868,zcta:MS:38868,Chickasaw County | Lee County | Monroe County | Pontotoc County,28017 | 28081 | 28095 | 28115,34.12565,-88.742951,1
+MS,38869,zcta:MS:38869,Pontotoc County,28115,34.356295,-88.83632,1
+MS,38870,zcta:MS:38870,Itawamba County | Monroe County,28057 | 28095,34.070018,-88.339264,1
+MS,38871,zcta:MS:38871,Lafayette County | Pontotoc County | Union County,28071 | 28115 | 28145,34.33457,-89.206816,1
+MS,38873,zcta:MS:38873,Prentiss County | Tishomingo County,28117 | 28141,34.66487,-88.251348,1
+MS,38876,zcta:MS:38876,Itawamba County,28057,34.21359,-88.230292,1
+MS,38878,zcta:MS:38878,Calhoun County | Chickasaw County,28013 | 28017,33.880346,-89.190093,1
+MS,38879,zcta:MS:38879,Lee County,28081,34.195185,-88.712124,1
+MS,38901,zcta:MS:38901,Carroll County | Grenada County | Montgomery County | Tallahatchie County,28015 | 28043 | 28097 | 28135,33.761689,-89.799115,1
+MS,38913,zcta:MS:38913,Calhoun County | Lafayette County,28013 | 28071,34.138881,-89.384872,1
+MS,38914,zcta:MS:38914,Calhoun County | Grenada County,28013 | 28043,33.871651,-89.47047,1
+MS,38915,zcta:MS:38915,Calhoun County,28013,34.028152,-89.391055,1
+MS,38916,zcta:MS:38916,Calhoun County | Webster County,28013 | 28155,33.829912,-89.351138,1
+MS,38917,zcta:MS:38917,Carroll County,28015,33.538822,-89.981966,1
+MS,38920,zcta:MS:38920,Tallahatchie County,28135,33.879608,-90.037255,0
+MS,38921,zcta:MS:38921,Tallahatchie County,28135,33.982149,-90.144184,1
+MS,38922,zcta:MS:38922,Grenada County | Yalobusha County,28043 | 28161,33.932659,-89.6509,1
+MS,38923,zcta:MS:38923,Carroll County,28015,33.377769,-89.992074,0
+MS,38924,zcta:MS:38924,Carroll County | Holmes County | Humphreys County | Leflore County,28015 | 28051 | 28053 | 28083,33.289691,-90.215676,1
+MS,38925,zcta:MS:38925,Grenada County | Montgomery County | Webster County,28043 | 28097 | 28155,33.630282,-89.618211,1
+MS,38927,zcta:MS:38927,Panola County | Tallahatchie County | Yalobusha County,28107 | 28135 | 28161,34.14288,-90.026843,0
+MS,38928,zcta:MS:38928,Tallahatchie County,28135,33.864584,-90.287289,1
+MS,38929,zcta:MS:38929,Calhoun County | Grenada County | Webster County,28013 | 28043 | 28155,33.738853,-89.523096,0
+MS,38930,zcta:MS:38930,Carroll County | Leflore County,28015 | 28083,33.527462,-90.13884,1
+MS,38940,zcta:MS:38940,Carroll County | Grenada County | Tallahatchie County,28015 | 28043 | 28135,33.74686,-90.026036,1
+MS,38941,zcta:MS:38941,Leflore County,28083,33.484573,-90.358231,1
+MS,38943,zcta:MS:38943,Carroll County,28015,33.533304,-89.839447,0
+MS,38944,zcta:MS:38944,Leflore County | Tallahatchie County,28083 | 28135,33.765008,-90.341539,0
+MS,38946,zcta:MS:38946,Leflore County,28083,33.377039,-90.355874,1
+MS,38947,zcta:MS:38947,Carroll County,28015,33.517185,-89.921182,1
+MS,38948,zcta:MS:38948,Tallahatchie County | Yalobusha County,28135 | 28161,34.076165,-89.894124,1
+MS,38949,zcta:MS:38949,Lafayette County,28071,34.179756,-89.428097,1
+MS,38950,zcta:MS:38950,Leflore County | Tallahatchie County,28083 | 28135,33.733058,-90.200045,0
+MS,38951,zcta:MS:38951,Calhoun County,28013,33.973783,-89.29049,1
+MS,38952,zcta:MS:38952,Leflore County,28083,33.616802,-90.333902,1
+MS,38953,zcta:MS:38953,Grenada County | Tallahatchie County | Yalobusha County,28043 | 28135 | 28161,33.919263,-89.932194,0
+MS,38954,zcta:MS:38954,Carroll County | Holmes County | Leflore County,28015 | 28051 | 28083,33.407969,-90.219581,1
+MS,38957,zcta:MS:38957,Tallahatchie County,28135,33.987487,-90.372958,1
+MS,38961,zcta:MS:38961,Tallahatchie County | Yalobusha County,28135 | 28161,33.961927,-89.887813,1
+MS,38962,zcta:MS:38962,Tallahatchie County,28135,33.8845,-90.18543,0
+MS,38963,zcta:MS:38963,Coahoma County | Sunflower County | Tallahatchie County,28027 | 28133 | 28135,34.048745,-90.312852,1
+MS,38964,zcta:MS:38964,Quitman County | Tallahatchie County,28119 | 28135,34.112894,-90.387903,0
+MS,38965,zcta:MS:38965,Calhoun County | Lafayette County | Panola County | Yalobusha County,28013 | 28071 | 28107 | 28161,34.134989,-89.590925,1
+MS,38966,zcta:MS:38966,Tallahatchie County,28135,33.920072,-90.317632,1
+MS,38967,zcta:MS:38967,Carroll County | Montgomery County,28015 | 28097,33.459525,-89.718167,1
+MS,39038,zcta:MS:39038,Holmes County | Humphreys County | Leflore County | Sunflower County,28051 | 28053 | 28083 | 28133,33.201606,-90.474455,1
+MS,39039,zcta:MS:39039,Yazoo County,28163,32.816556,-90.22886,1
+MS,39040,zcta:MS:39040,Yazoo County,28163,32.629957,-90.406587,1
+MS,39041,zcta:MS:39041,Hinds County | Madison County,28049 | 28089,32.404769,-90.468863,1
+MS,39042,zcta:MS:39042,Rankin County | Smith County,28121 | 28129,32.197671,-89.894896,1
+MS,39044,zcta:MS:39044,Rankin County | Simpson County,28121 | 28127,32.027132,-89.971611,1
+MS,39045,zcta:MS:39045,Madison County,28089,32.819535,-89.784552,0
+MS,39046,zcta:MS:39046,Madison County | Yazoo County,28089 | 28163,32.629563,-89.993488,1
+MS,39047,zcta:MS:39047,Rankin County,28121,32.451687,-89.95082,1
+MS,39051,zcta:MS:39051,Attala County | Leake County | Madison County | Neshoba County,28007 | 28079 | 28089 | 28099,32.780342,-89.513458,1
+MS,39054,zcta:MS:39054,Sharkey County,28125,32.798549,-90.935253,1
+MS,39056,zcta:MS:39056,Hinds County,28049,32.373552,-90.350592,1
+MS,39057,zcta:MS:39057,Newton County | Scott County,28101 | 28123,32.490854,-89.284427,1
+MS,39058,zcta:MS:39058,Hinds County,28049,32.335712,-90.331549,1
+MS,39059,zcta:MS:39059,Copiah County | Hinds County,28029 | 28049,31.982611,-90.350491,1
+MS,39061,zcta:MS:39061,Sharkey County,28125,33.088405,-90.804386,1
+MS,39062,zcta:MS:39062,Simpson County,28127,31.984861,-89.898313,1
+MS,39063,zcta:MS:39063,Holmes County,28051,33.116674,-89.897489,1
+MS,39066,zcta:MS:39066,Hinds County,28049,32.296627,-90.606153,1
+MS,39067,zcta:MS:39067,Attala County,28007,33.114941,-89.450461,1
+MS,39069,zcta:MS:39069,Franklin County | Jefferson County,28037 | 28063,31.684975,-91.043469,1
+MS,39071,zcta:MS:39071,Hinds County | Madison County,28049 | 28089,32.546094,-90.319187,1
+MS,39073,zcta:MS:39073,Rankin County | Simpson County,28121 | 28127,32.102431,-90.135817,1
+MS,39074,zcta:MS:39074,Scott County | Smith County,28123 | 28129,32.385998,-89.467337,1
+MS,39078,zcta:MS:39078,Copiah County | Simpson County,28029 | 28127,31.878048,-90.188204,1
+MS,39079,zcta:MS:39079,Attala County | Holmes County | Madison County,28007 | 28051 | 28089,32.930988,-89.88886,1
+MS,39082,zcta:MS:39082,Simpson County,28127,31.941844,-90.120075,0
+MS,39083,zcta:MS:39083,Copiah County | Lincoln County,28029 | 28085,31.835325,-90.467283,1
+MS,39086,zcta:MS:39086,Claiborne County | Copiah County,28021 | 28029,31.962556,-90.763661,1
+MS,39088,zcta:MS:39088,Sharkey County,28125,32.740748,-90.746856,0
+MS,39090,zcta:MS:39090,Attala County | Leake County | Neshoba County | Winston County,28007 | 28079 | 28099 | 28159,33.012936,-89.543606,1
+MS,39092,zcta:MS:39092,Newton County | Scott County | Smith County,28101 | 28123 | 28129,32.319465,-89.363441,1
+MS,39094,zcta:MS:39094,Leake County | Rankin County | Scott County,28079 | 28121 | 28123,32.575409,-89.675262,1
+MS,39095,zcta:MS:39095,Carroll County | Holmes County | Yazoo County,28015 | 28051 | 28163,33.13191,-90.117243,1
+MS,39096,zcta:MS:39096,Claiborne County | Jefferson County,28021 | 28063,31.817628,-91.120695,1
+MS,39097,zcta:MS:39097,Humphreys County,28053,32.989067,-90.607666,1
+MS,39108,zcta:MS:39108,Attala County | Choctaw County | Winston County,28007 | 28019 | 28159,33.162117,-89.327734,1
+MS,39110,zcta:MS:39110,Madison County,28089,32.505332,-90.137593,1
+MS,39111,zcta:MS:39111,Simpson County | Smith County,28127 | 28129,31.896635,-89.718092,1
+MS,39113,zcta:MS:39113,Issaquena County,28055,32.76673,-91.11781,1
+MS,39114,zcta:MS:39114,Rankin County | Simpson County | Smith County,28121 | 28127 | 28129,31.951938,-89.824908,1
+MS,39115,zcta:MS:39115,Humphreys County,28053,33.047869,-90.560389,0
+MS,39116,zcta:MS:39116,Smith County,28129,31.896441,-89.538254,1
+MS,39117,zcta:MS:39117,Rankin County | Scott County | Smith County,28121 | 28123 | 28129,32.309634,-89.664992,1
+MS,39119,zcta:MS:39119,Covington County | Jefferson Davis County | Simpson County | Smith County,28031 | 28065 | 28127 | 28129,31.751549,-89.670777,1
+MS,39120,zcta:MS:39120,Adams County | Jefferson County,28001 | 28063,31.508715,-91.357293,1
+MS,39140,zcta:MS:39140,Jefferson Davis County | Lawrence County | Simpson County,28065 | 28077 | 28127,31.749249,-90.020207,1
+MS,39144,zcta:MS:39144,Claiborne County | Copiah County | Jefferson County,28021 | 28029 | 28063,31.821213,-90.792161,1
+MS,39145,zcta:MS:39145,Rankin County | Scott County,28121 | 28123,32.344663,-89.794359,1
+MS,39146,zcta:MS:39146,Holmes County | Madison County | Yazoo County,28051 | 28089 | 28163,32.875897,-89.99491,1
+MS,39148,zcta:MS:39148,Rankin County,28121,32.061734,-89.995248,0
+MS,39149,zcta:MS:39149,Simpson County,28127,31.831965,-90.010649,0
+MS,39150,zcta:MS:39150,Claiborne County,28021,31.987233,-90.985084,1
+MS,39152,zcta:MS:39152,Scott County | Smith County,28123 | 28129,32.207473,-89.585469,0
+MS,39153,zcta:MS:39153,Smith County,28129,32.045133,-89.490046,1
+MS,39154,zcta:MS:39154,Hinds County,28049,32.225243,-90.444845,1
+MS,39156,zcta:MS:39156,Warren County,28149,32.546541,-90.77759,1
+MS,39157,zcta:MS:39157,Madison County,28089,32.42366,-90.165037,1
+MS,39159,zcta:MS:39159,Issaquena County | Sharkey County,28055 | 28125,32.822724,-90.911519,1
+MS,39160,zcta:MS:39160,Attala County | Leake County,28007 | 28079,33.003124,-89.74716,1
+MS,39162,zcta:MS:39162,Yazoo County,28163,32.618799,-90.624417,1
+MS,39166,zcta:MS:39166,Humphreys County,28053,33.055718,-90.481544,1
+MS,39167,zcta:MS:39167,Rankin County,28121,32.09309,-90.040036,0
+MS,39168,zcta:MS:39168,Covington County | Jones County | Smith County,28031 | 28067 | 28129,31.831878,-89.411823,1
+MS,39169,zcta:MS:39169,Holmes County,28051,33.215516,-90.245118,1
+MS,39170,zcta:MS:39170,Copiah County | Hinds County,28029 | 28049,32.11177,-90.330654,1
+MS,39173,zcta:MS:39173,Yazoo County,28163,32.742416,-90.472172,0
+MS,39174,zcta:MS:39174,Hinds County | Madison County,28049 | 28089,32.401019,-90.160257,1
+MS,39175,zcta:MS:39175,Claiborne County | Copiah County | Hinds County,28021 | 28029 | 28049,32.089225,-90.622579,1
+MS,39176,zcta:MS:39176,Attala County | Carroll County | Montgomery County,28007 | 28015 | 28097,33.299719,-89.752909,1
+MS,39177,zcta:MS:39177,Issaquena County,28055,32.606211,-90.823228,1
+MS,39179,zcta:MS:39179,Yazoo County,28163,32.80244,-90.096935,0
+MS,39180,zcta:MS:39180,Warren County,28149,32.23866,-90.893728,1
+MS,39183,zcta:MS:39183,Issaquena County | Warren County,28055 | 28149,32.462618,-90.823208,1
+MS,39189,zcta:MS:39189,Leake County | Scott County,28079 | 28123,32.608003,-89.400149,1
+MS,39191,zcta:MS:39191,Copiah County | Lawrence County | Lincoln County,28029 | 28077 | 28085,31.715655,-90.408869,1
+MS,39192,zcta:MS:39192,Attala County | Carroll County | Holmes County,28007 | 28015 | 28051,33.194771,-89.746251,1
+MS,39193,zcta:MS:39193,Rankin County,28121,32.243461,-90.069892,0
+MS,39194,zcta:MS:39194,Humphreys County | Yazoo County,28053 | 28163,32.843153,-90.515206,1
+MS,39201,zcta:MS:39201,Hinds County,28049,32.289606,-90.184324,1
+MS,39202,zcta:MS:39202,Hinds County,28049,32.311054,-90.16979,1
+MS,39203,zcta:MS:39203,Hinds County,28049,32.309223,-90.20038,1
+MS,39204,zcta:MS:39204,Hinds County,28049,32.283134,-90.236896,1
+MS,39206,zcta:MS:39206,Hinds County,28049,32.37234,-90.172688,1
+MS,39208,zcta:MS:39208,Rankin County,28121,32.259678,-90.09202,1
+MS,39209,zcta:MS:39209,Hinds County | Madison County,28049 | 28089,32.395519,-90.293173,1
+MS,39210,zcta:MS:39210,Hinds County,28049,32.32248,-90.179991,1
+MS,39211,zcta:MS:39211,Hinds County,28049,32.372138,-90.122743,1
+MS,39212,zcta:MS:39212,Hinds County,28049,32.246199,-90.259645,1
+MS,39213,zcta:MS:39213,Hinds County | Madison County,28049 | 28089,32.394736,-90.22496,1
+MS,39216,zcta:MS:39216,Hinds County,28049,32.335241,-90.161417,1
+MS,39217,zcta:MS:39217,Hinds County,28049,32.297555,-90.209639,1
+MS,39218,zcta:MS:39218,Rankin County,28121,32.226071,-90.156494,1
+MS,39232,zcta:MS:39232,Rankin County,28121,32.336997,-90.085883,1
+MS,39269,zcta:MS:39269,Hinds County,28049,32.30114,-90.188903,1
+MS,39272,zcta:MS:39272,Hinds County,28049,32.190086,-90.259735,1
+MS,39301,zcta:MS:39301,Clarke County | Lauderdale County,28023 | 28075,32.276115,-88.592851,1
+MS,39305,zcta:MS:39305,Lauderdale County,28075,32.457923,-88.727353,1
+MS,39307,zcta:MS:39307,Lauderdale County,28075,32.335033,-88.789959,1
+MS,39309,zcta:MS:39309,Lauderdale County,28075,32.552249,-88.5509,1
+MS,39320,zcta:MS:39320,Kemper County | Lauderdale County,28069 | 28075,32.564451,-88.748337,0
+MS,39322,zcta:MS:39322,Wayne County,28153,31.535554,-88.503823,1
+MS,39323,zcta:MS:39323,Lauderdale County | Newton County,28075 | 28101,32.352256,-88.923758,1
+MS,39324,zcta:MS:39324,Wayne County,28153,31.580375,-88.697438,1
+MS,39325,zcta:MS:39325,Kemper County | Lauderdale County | Neshoba County | Newton County,28069 | 28075 | 28099 | 28101,32.561981,-88.877459,1
+MS,39326,zcta:MS:39326,Kemper County | Lauderdale County,28069 | 28075,32.602744,-88.656165,0
+MS,39327,zcta:MS:39327,Newton County,28101,32.445808,-89.122279,1
+MS,39328,zcta:MS:39328,Kemper County,28069,32.743509,-88.698611,1
+MS,39330,zcta:MS:39330,Clarke County | Jasper County | Lauderdale County | Newton County,28023 | 28061 | 28075 | 28101,32.189753,-88.857568,1
+MS,39332,zcta:MS:39332,Jasper County | Newton County,28061 | 28101,32.3043,-88.998857,1
+MS,39335,zcta:MS:39335,Kemper County | Lauderdale County,28069 | 28075,32.533136,-88.49109,1
+MS,39336,zcta:MS:39336,Jasper County | Newton County | Smith County,28061 | 28101 | 28129,32.300601,-89.2622,1
+MS,39337,zcta:MS:39337,Neshoba County | Newton County,28099 | 28101,32.51847,-88.996283,0
+MS,39338,zcta:MS:39338,Jasper County | Smith County,28061 | 28129,32.106743,-89.230936,1
+MS,39339,zcta:MS:39339,Winston County,28159,33.108392,-89.003453,1
+MS,39341,zcta:MS:39341,Noxubee County | Winston County,28103 | 28159,33.088581,-88.556133,1
+MS,39342,zcta:MS:39342,Lauderdale County,28075,32.424999,-88.64987,1
+MS,39345,zcta:MS:39345,Jasper County | Newton County,28061 | 28101,32.282232,-89.122113,1
+MS,39346,zcta:MS:39346,Neshoba County | Winston County,28099 | 28159,32.961969,-89.097137,1
+MS,39347,zcta:MS:39347,Clarke County | Jasper County,28023 | 28061,32.060443,-88.942004,1
+MS,39348,zcta:MS:39348,Jasper County,28061,31.990133,-89.041426,0
+MS,39350,zcta:MS:39350,Kemper County | Leake County | Neshoba County | Winston County,28069 | 28079 | 28099 | 28159,32.796469,-89.125241,1
+MS,39352,zcta:MS:39352,Kemper County,28069,32.674323,-88.481726,1
+MS,39354,zcta:MS:39354,Kemper County | Neshoba County | Noxubee County | Winston County,28069 | 28099 | 28103 | 28159,32.875326,-88.840419,1
+MS,39355,zcta:MS:39355,Clarke County,28023,32.05882,-88.61903,1
+MS,39356,zcta:MS:39356,Jasper County,28061,32.136055,-89.036069,0
+MS,39358,zcta:MS:39358,Kemper County | Noxubee County,28069 | 28103,32.831033,-88.453711,1
+MS,39359,zcta:MS:39359,Scott County,28123,32.568531,-89.33207,1
+MS,39360,zcta:MS:39360,Clarke County | Wayne County,28023 | 28153,31.864814,-88.754017,1
+MS,39361,zcta:MS:39361,Kemper County | Noxubee County,28069 | 28103,32.995472,-88.596378,1
+MS,39362,zcta:MS:39362,Greene County | Wayne County,28041 | 28153,31.39096,-88.541129,1
+MS,39363,zcta:MS:39363,Clarke County,28023,32.097188,-88.781868,1
+MS,39364,zcta:MS:39364,Lauderdale County,28075,32.405281,-88.486617,1
+MS,39365,zcta:MS:39365,Kemper County | Leake County | Neshoba County | Newton County | Scott County,28069 | 28079 | 28099 | 28101 | 28123,32.608636,-89.120186,1
+MS,39366,zcta:MS:39366,Clarke County | Jasper County,28023 | 28061,31.941109,-88.900216,0
+MS,39367,zcta:MS:39367,Clarke County | Wayne County,28023 | 28153,31.684373,-88.668296,1
+MS,39401,zcta:MS:39401,Covington County | Forrest County | Jones County | Lamar County,28031 | 28035 | 28067 | 28073,31.235467,-89.260951,1
+MS,39402,zcta:MS:39402,Covington County | Forrest County | Lamar County,28031 | 28035 | 28073,31.332758,-89.414071,1
+MS,39406,zcta:MS:39406,Forrest County,28035,31.328937,-89.335063,1
+MS,39421,zcta:MS:39421,Jefferson Davis County | Marion County,28065 | 28091,31.492362,-89.721243,1
+MS,39422,zcta:MS:39422,Jasper County | Smith County,28061 | 28129,31.955709,-89.265911,1
+MS,39423,zcta:MS:39423,Greene County | Perry County,28041 | 28111,31.177551,-88.911995,1
+MS,39425,zcta:MS:39425,Forrest County | Perry County,28035 | 28111,31.069402,-89.060504,0
+MS,39426,zcta:MS:39426,Hancock County | Pearl River County,28045 | 28109,30.655773,-89.656862,1
+MS,39427,zcta:MS:39427,Jefferson Davis County,28065,31.489296,-89.82901,0
+MS,39428,zcta:MS:39428,Covington County,28031,31.651051,-89.572839,1
+MS,39429,zcta:MS:39429,Jefferson Davis County | Lamar County | Marion County,28065 | 28073 | 28091,31.241617,-89.779433,1
+MS,39437,zcta:MS:39437,Jones County,28067,31.579926,-89.218571,1
+MS,39439,zcta:MS:39439,Clarke County | Jasper County | Jones County | Wayne County,28023 | 28061 | 28067 | 28153,31.863128,-89.001401,1
+MS,39440,zcta:MS:39440,Jones County,28067,31.693183,-89.148281,1
+MS,39443,zcta:MS:39443,Jasper County | Jones County | Wayne County,28061 | 28067 | 28153,31.716722,-89.078154,1
+MS,39451,zcta:MS:39451,Greene County,28041,31.166514,-88.624146,1
+MS,39452,zcta:MS:39452,George County | Greene County | Jackson County,28039 | 28041 | 28059,30.886864,-88.592988,1
+MS,39455,zcta:MS:39455,Forrest County | Lamar County | Marion County | Pearl River County | Stone County,28035 | 28073 | 28091 | 28109 | 28131,31.011564,-89.470558,1
+MS,39456,zcta:MS:39456,George County | Greene County | Perry County,28039 | 28041 | 28111,31.030872,-88.826433,1
+MS,39459,zcta:MS:39459,Jones County,28067,31.489786,-89.304575,1
+MS,39461,zcta:MS:39461,Greene County,28041,31.205791,-88.732705,0
+MS,39462,zcta:MS:39462,Perry County,28111,31.234012,-89.056621,1
+MS,39464,zcta:MS:39464,Jones County | Perry County,28067 | 28111,31.492814,-89.061626,1
+MS,39465,zcta:MS:39465,Forrest County | Jones County | Perry County,28035 | 28067 | 28111,31.339572,-89.188171,1
+MS,39466,zcta:MS:39466,Hancock County | Pearl River County,28045 | 28109,30.53472,-89.617988,1
+MS,39470,zcta:MS:39470,Hancock County | Pearl River County | Stone County,28045 | 28109 | 28131,30.822486,-89.566446,1
+MS,39474,zcta:MS:39474,Covington County | Jefferson Davis County,28031 | 28065,31.621265,-89.8549,1
+MS,39475,zcta:MS:39475,Forrest County | Lamar County,28035 | 28073,31.155178,-89.413627,1
+MS,39476,zcta:MS:39476,Greene County | Jones County | Perry County | Wayne County,28041 | 28067 | 28111 | 28153,31.386969,-88.866929,1
+MS,39477,zcta:MS:39477,Jones County,28067,31.795734,-89.038321,1
+MS,39478,zcta:MS:39478,Marion County | Walthall County,28091 | 28147,31.054177,-89.85681,0
+MS,39479,zcta:MS:39479,Covington County | Jones County,28031 | 28067,31.542107,-89.46421,1
+MS,39480,zcta:MS:39480,Jasper County | Jones County,28061 | 28067,31.704964,-89.316216,1
+MS,39481,zcta:MS:39481,Jasper County | Smith County,28061 | 28129,31.868389,-89.238201,0
+MS,39482,zcta:MS:39482,Covington County | Jefferson Davis County | Lamar County | Marion County,28031 | 28065 | 28073 | 28091,31.372022,-89.579154,1
+MS,39483,zcta:MS:39483,Marion County | Walthall County,28091 | 28147,31.242774,-89.932348,1
+MS,39501,zcta:MS:39501,Harrison County,28047,30.387191,-89.099244,1
+MS,39503,zcta:MS:39503,Harrison County,28047,30.472981,-89.144214,1
+MS,39507,zcta:MS:39507,Harrison County,28047,30.400484,-89.034466,1
+MS,39520,zcta:MS:39520,Hancock County,28045,30.27047,-89.479967,1
+MS,39525,zcta:MS:39525,Hancock County,28045,30.381932,-89.370784,1
+MS,39529,zcta:MS:39529,Hancock County,28045,30.377768,-89.605014,0
+MS,39530,zcta:MS:39530,Harrison County,28047,30.401521,-88.89171,1
+MS,39531,zcta:MS:39531,Harrison County,28047,30.403994,-88.966133,1
+MS,39532,zcta:MS:39532,Harrison County | Jackson County,28047 | 28059,30.501031,-88.975603,1
+MS,39534,zcta:MS:39534,Harrison County,28047,30.409089,-88.919793,1
+MS,39540,zcta:MS:39540,Harrison County,28047,30.443218,-88.89753,1
+MS,39553,zcta:MS:39553,Jackson County,28059,30.415444,-88.645744,1
+MS,39556,zcta:MS:39556,Hancock County,28045,30.441244,-89.427883,1
+MS,39560,zcta:MS:39560,Harrison County,28047,30.373839,-89.160289,1
+MS,39561,zcta:MS:39561,Stone County,28131,30.707671,-89.154823,0
+MS,39562,zcta:MS:39562,Jackson County,28059,30.544554,-88.489312,1
+MS,39563,zcta:MS:39563,Jackson County,28059,30.425873,-88.532639,1
+MS,39564,zcta:MS:39564,Jackson County,28059,30.404548,-88.771305,1
+MS,39565,zcta:MS:39565,Harrison County | Jackson County,28047 | 28059,30.611822,-88.761584,1
+MS,39567,zcta:MS:39567,Jackson County,28059,30.359723,-88.558539,1
+MS,39571,zcta:MS:39571,Hancock County | Harrison County,28045 | 28047,30.420066,-89.275043,1
+MS,39572,zcta:MS:39572,Hancock County,28045,30.250762,-89.604897,1
+MS,39573,zcta:MS:39573,George County | Hancock County | Harrison County | Jackson County | Pearl River County | Stone County,28039 | 28045 | 28047 | 28059 | 28109 | 28131,30.730994,-89.093398,0
+MS,39574,zcta:MS:39574,Harrison County | Stone County,28047 | 28131,30.608496,-89.106093,1
+MS,39576,zcta:MS:39576,Hancock County,28045,30.28981,-89.383391,1
+MS,39577,zcta:MS:39577,Forrest County | Perry County | Stone County,28035 | 28111 | 28131,30.90473,-89.086487,1
+MS,39581,zcta:MS:39581,Jackson County,28059,30.350539,-88.493571,1
+MS,39595,zcta:MS:39595,Jackson County,28059,30.334078,-88.578536,1
+MS,39601,zcta:MS:39601,Franklin County | Lincoln County,28037 | 28085,31.570297,-90.475516,1
+MS,39629,zcta:MS:39629,Lincoln County,28085,31.436637,-90.45685,1
+MS,39630,zcta:MS:39630,Franklin County,28037,31.459306,-90.84535,1
+MS,39631,zcta:MS:39631,Amite County | Wilkinson County,28005 | 28157,31.067209,-91.134005,1
+MS,39633,zcta:MS:39633,Amite County | Wilkinson County,28005 | 28157,31.292805,-91.167671,1
+MS,39635,zcta:MS:39635,Pike County,28113,31.184305,-90.448574,1
+MS,39638,zcta:MS:39638,Amite County | Wilkinson County,28005 | 28157,31.225004,-90.995923,1
+MS,39641,zcta:MS:39641,Lawrence County | Lincoln County | Pike County | Walthall County,28077 | 28085 | 28113 | 28147,31.356403,-90.181851,0
+MS,39643,zcta:MS:39643,Marion County | Walthall County,28091 | 28147,31.246549,-90.014258,1
+MS,39645,zcta:MS:39645,Amite County,28005,31.135943,-90.79399,1
+MS,39647,zcta:MS:39647,Franklin County | Lincoln County,28037 | 28085,31.52602,-90.711564,0
+MS,39648,zcta:MS:39648,Pike County,28113,31.177896,-90.385212,1
+MS,39652,zcta:MS:39652,Amite County | Pike County,28005 | 28113,31.104867,-90.467343,1
+MS,39653,zcta:MS:39653,Amite County | Franklin County | Jefferson County,28005 | 28037 | 28063,31.461214,-90.872056,1
+MS,39654,zcta:MS:39654,Lawrence County | Lincoln County,28077 | 28085,31.54103,-90.148993,1
+MS,39656,zcta:MS:39656,Jefferson Davis County | Lawrence County,28065 | 28077,31.443901,-89.931798,0
+MS,39657,zcta:MS:39657,Amite County | Pike County | Walthall County,28005 | 28113 | 28147,31.040324,-90.506268,1
+MS,39661,zcta:MS:39661,Adams County | Franklin County | Jefferson County,28001 | 28037 | 28063,31.484447,-91.083468,1
+MS,39662,zcta:MS:39662,Lawrence County | Lincoln County | Pike County,28077 | 28085 | 28113,31.386372,-90.285394,0
+MS,39663,zcta:MS:39663,Jefferson Davis County | Lawrence County,28065 | 28077,31.594893,-90.038161,1
+MS,39664,zcta:MS:39664,Amite County | Franklin County | Lincoln County,28005 | 28037 | 28085,31.32597,-90.674153,0
+MS,39665,zcta:MS:39665,Lawrence County | Lincoln County,28077 | 28085,31.641253,-90.214036,0
+MS,39666,zcta:MS:39666,Amite County | Lincoln County | Pike County,28005 | 28085 | 28113,31.287866,-90.499488,1
+MS,39667,zcta:MS:39667,Marion County | Pike County | Walthall County,28091 | 28113 | 28147,31.124737,-90.126164,1
+MS,39668,zcta:MS:39668,Copiah County | Franklin County | Jefferson County | Lincoln County,28029 | 28037 | 28063 | 28085,31.691275,-90.791257,0
+MS,39669,zcta:MS:39669,Wilkinson County,28157,31.150673,-91.362519,1
+MS,39701,zcta:MS:39701,Lowndes County,28087,33.393934,-88.50472,1
+MS,39702,zcta:MS:39702,Lowndes County,28087,33.4317,-88.345532,1
+MS,39705,zcta:MS:39705,Lowndes County,28087,33.587945,-88.441102,1
+MS,39730,zcta:MS:39730,Monroe County,28095,33.843635,-88.565615,1
+MS,39735,zcta:MS:39735,Choctaw County | Winston County,28019 | 28159,33.344573,-89.186133,1
+MS,39736,zcta:MS:39736,Lowndes County,28087,33.416861,-88.641787,1
+MS,39737,zcta:MS:39737,Webster County,28155,33.650545,-89.336013,0
+MS,39739,zcta:MS:39739,Noxubee County,28103,33.238369,-88.578745,1
+MS,39740,zcta:MS:39740,Lowndes County | Monroe County,28087 | 28095,33.715002,-88.315745,1
+MS,39741,zcta:MS:39741,Clay County,28025,33.636028,-88.854675,0
+MS,39743,zcta:MS:39743,Lowndes County | Noxubee County | Oktibbeha County,28087 | 28103 | 28105,33.33681,-88.61898,1
+MS,39744,zcta:MS:39744,Calhoun County | Choctaw County | Webster County,28013 | 28019 | 28155,33.580161,-89.300323,1
+MS,39745,zcta:MS:39745,Attala County | Choctaw County | Montgomery County,28007 | 28019 | 28097,33.298338,-89.469592,1
+MS,39746,zcta:MS:39746,Monroe County,28095,33.74904,-88.414965,1
+MS,39747,zcta:MS:39747,Attala County | Montgomery County,28007 | 28097,33.424217,-89.535944,1
+MS,39750,zcta:MS:39750,Choctaw County | Clay County | Oktibbeha County | Webster County,28019 | 28025 | 28105 | 28155,33.568951,-89.044787,1
+MS,39751,zcta:MS:39751,Chickasaw County | Clay County | Webster County,28017 | 28025 | 28155,33.695356,-89.093189,1
+MS,39752,zcta:MS:39752,Choctaw County | Webster County,28019 | 28155,33.522607,-89.150748,1
+MS,39753,zcta:MS:39753,Lowndes County,28087,33.48448,-88.630491,0
+MS,39755,zcta:MS:39755,Clay County | Oktibbeha County,28025 | 28105,33.607853,-88.964495,1
+MS,39756,zcta:MS:39756,Chickasaw County | Clay County | Monroe County,28017 | 28025 | 28095,33.756718,-88.741086,0
+MS,39759,zcta:MS:39759,Clay County | Lowndes County | Oktibbeha County,28025 | 28087 | 28105,33.437951,-88.825183,1
+MS,39762,zcta:MS:39762,Oktibbeha County,28105,33.446514,-88.795832,1
+MS,39766,zcta:MS:39766,Lowndes County,28087,33.58657,-88.321105,0
+MS,39767,zcta:MS:39767,Choctaw County | Montgomery County | Webster County,28019 | 28097 | 28155,33.467999,-89.452318,1
+MS,39769,zcta:MS:39769,Choctaw County | Oktibbeha County | Winston County,28019 | 28105 | 28159,33.321925,-89.017837,1
+MS,39771,zcta:MS:39771,Webster County,28155,33.607243,-89.27919,1
+MS,39772,zcta:MS:39772,Attala County | Choctaw County | Winston County,28007 | 28019 | 28159,33.295108,-89.304307,1
+MS,39773,zcta:MS:39773,Clay County | Monroe County,28025 | 28095,33.639882,-88.674655,1
+MS,39776,zcta:MS:39776,Chickasaw County | Clay County,28017 | 28025,33.785325,-89.031378,1
